@@ -17,7 +17,7 @@
             name = "blog-1.0.0";
             buildInputs = [ pkgs.zola ];
             src = ./.;
-            installPhase = "";
+            installPhase = "mkdir $out; zola build; cp -r public/* $out/";
           };
         }
       );
