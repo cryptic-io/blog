@@ -1,31 +1,5 @@
-{% extends "base.html" %}
-{% block content %}
-  <div
-    class="home">
-    {# {{ __tera_context }} #}
-    {% for section_path in section.subsections %}
-      {% set section = get_section(path=section_path) %}
-      {% if section.title == "blog" %}
-        <a class="subsectionLink" href="{{ section.path }}">
-          <h3>{{ section.title }}
-          </h3>
-        </a>
-        <ul class="posts">
-          {% for page in section.pages %}
-            {% if page.draft == false %}
-              <li>
-                <span>{{ page.date | date(format="%b %d, %Y") }}</span>
-                »
-                <a href="{{ page.path }}">
-                  {{ page.title | markdown(inline=true) | safe }}
-                </a>
-                ⁠—
-                <em>{{ page.reading_time }} Min</em>
-              </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      {% endif %}
-    {% endfor %}
-  </div>
-{% endblock content %}
+{% extends "zola-pickles/templates/index.html" %}
+{% block css %}
+  <link href="{{ get_url(path="fonts.css") }}" rel="stylesheet"/>
+  <link href="{{ get_url(path="main.css") }}" rel="stylesheet"/>
+{% endblock css %}

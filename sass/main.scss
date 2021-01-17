@@ -1,0 +1,20 @@
+@import "../themes/zola-pickles/sass/base.scss";
+
+$Overpass: "Overpass", sans-serif;
+
+body {
+  color: $color-text;
+  font-size: 1rem;
+  font-family: $Overpass;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 300;
+  font-family: $Overpass !important;
+}
