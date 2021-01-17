@@ -1,0 +1,6 @@
+{# Switch the the blog context #}
+{% extends "base.html" %}
+{% block content %}
+  {% set section = get_section(path="blog/_index.md") %}
+  {% include "blog_index_body.html" %}
+{% endblock content %}

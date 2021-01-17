@@ -11,5 +11,8 @@ highlight_code = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
+# Build RSS feed Using atom https://nullprogram.com/blog/2013/09/23/
+generate_feed = true
+
 [extra]
 # Put all your custom variables here
