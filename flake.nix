@@ -3,8 +3,9 @@
   # inputs.nixpkgs.url = "github:NixOS/nixpkgs/release-20.09";
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
   inputs.flake-utils.url = "github:numtide/flake-utils";
+  inputs.syndicate-rss.url = "github:marcopolo/syndicate-rss";
 
-  outputs = { self, nixpkgs, flake-utils }:
+  outputs = { self, nixpkgs, flake-utils, syndicate-rss }:
     flake-utils.lib.eachDefaultSystem
       (system:
         let
@@ -12,7 +13,7 @@
         in
         {
           devShell = pkgs.mkShell {
-            buildInputs = [ pkgs.zola ];
+            buildInputs = [ pkgs.zola syndicate-rss.defaultPackage.${system} ];
           };
           defaultPackage = pkgs.stdenv.mkDerivation {
             name = "blog-1.0.0";
