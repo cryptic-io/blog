@@ -75,17 +75,13 @@
         "nixpkgs": "nixpkgs_2"
       },
       "locked": {
-        "lastModified": 1611209107,
-        "narHash": "sha256-mylmJ2gIrHXlgy9zoia8zD+RHrFVQkd2XF6AFQRvzKE=",
-        "owner": "marcopolo",
-        "repo": "syndicate-rss",
-        "rev": "91cf14e2e07e5eec0543415ec35b2ca278575078",
-        "type": "github"
+        "narHash": "sha256-glGTrRsxvd2Zb0oNHm/PIctTNPt1YFlURytCU+4A5HY=",
+        "path": "/Users/marcomunizaga/code/syndicate-rss",
+        "type": "path"
       },
       "original": {
-        "owner": "marcopolo",
-        "repo": "syndicate-rss",
-        "type": "github"
+        "path": "/Users/marcomunizaga/code/syndicate-rss",
+        "type": "path"
       }
     }
   },
