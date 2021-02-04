@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-	<title>Cryptic – Blog</title>
-	<link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
-	<link href="https://blog.cryptic.io"/>
-	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2021-02-01T00:00:00+00:00</updated>
-	<id>https://blog.cryptic.io/atom.xml</id>
-	<entry xml:lang="en">
-		<title>Goodbye, bit rot</title>
+  <title>Cryptic – Blog</title>
+  <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://blog.cryptic.io"/>
+  <generator uri="https://www.getzola.org/">Zola</generator>
+  <updated>2021-02-01T00:00:00+00:00</updated>
+  <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Goodbye, bit rot</title>
         <author>
             <name>Marco</name>
         </author>
-		<published>2021-02-01T00:00:00+00:00</published>
-		<updated>2021-02-01T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/marco-goodbye-bit-rot/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/marco-goodbye-bit-rot/" type="text/html"/>
-		<id>https://blog.cryptic.io/marco-goodbye-bit-rot/</id>
-		<content type="html">
-				&lt;p&gt;Take a look at this picture:&lt;&#x2F;p&gt;
+    <published>2021-02-01T00:00:00+00:00</published>
+    <updated>2021-02-01T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/marco-goodbye-bit-rot/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/marco-goodbye-bit-rot/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/goodbye-bit-rot/</id>
+        <link href="https://marcopolo.io/code/goodbye-bit-rot/"/>
+        <title>Goodbye, bit rot</title>
+        <author>
+            <name>Marco</name>
+        </author>
+      </source>
+
+    <id>https://blog.cryptic.io/marco-goodbye-bit-rot/</id>
+    <content type="html">
+        &lt;p&gt;Take a look at this picture:&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;marcopolo.io&#x2F;code&#x2F;goodbye-bit-rot&#x2F;smalltalk-76.png&quot; alt=&quot;Smalltalk 76&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;That&#x27;s a photo of Smalltalk 76 running the prototypical desktop UI. It&#x27;s
 taken for granted that this photo will be viewable for the indefinite future
@@ -139,21 +148,30 @@ Google stack or rely on that &lt;a href=&quot;https:&#x2F;&#x2F;gcemetery.co&#x2
 Sometimes it&#x27;s doable to emulate the external API, and sometimes it isn&#x27;t. This
 post is specifically about cases where it is feasible to emulate the external API.&lt;&#x2F;p&gt;
 
-			
-		</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>Building Mobile Nebula</title>
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Building Mobile Nebula</title>
         <author>
             <name>Brian Picciano</name>
         </author>
-		<published>2021-01-30T00:00:00+00:00</published>
-		<updated>2021-01-30T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/brian-picciano-building-mobile-nebula/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/brian-picciano-building-mobile-nebula/" type="text/html"/>
-		<id>https://blog.cryptic.io/brian-picciano-building-mobile-nebula/</id>
-		<content type="html">
-				&lt;p&gt;This post is going to be cheating a bit. I want to start working on adding DNS
+    <published>2021-01-30T00:00:00+00:00</published>
+    <updated>2021-01-30T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-building-mobile-nebula/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-building-mobile-nebula/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/01/30/building-mobile-nebula.html</id>
+        <link href="https://blog.mediocregopher.com/2021/01/30/building-mobile-nebula.html"/>
+        <title>Building Mobile Nebula</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-building-mobile-nebula/</id>
+    <content type="html">
+        &lt;p&gt;This post is going to be cheating a bit. I want to start working on adding DNS
 resolver configuration to the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;DefinedNet&#x2F;mobile_nebula&quot;&gt;mobile nebula&lt;&#x2F;a&gt; app (if you don’t
 know nebula, &lt;a href=&quot;https:&#x2F;&#x2F;slack.engineering&#x2F;introducing-nebula-the-open-source-global-overlay-network-from-slack&#x2F;&quot;&gt;check it out&lt;&#x2F;a&gt;, it’s well worth knowing about), but I also
 need to write a blog post for this week, so I’m combining the two exercises.
@@ -507,21 +525,30 @@ faster.&lt;&#x2F;p&gt;
 
 &lt;p&gt;But at this point I’m done for the day, I’ll continue on this project some other
 time.&lt;&#x2F;p&gt;
-			
-		</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>Goodbye, Github Pages</title>
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Goodbye, Github Pages</title>
         <author>
             <name>Brian Picciano</name>
         </author>
-		<published>2021-01-23T00:00:00+00:00</published>
-		<updated>2021-01-23T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/brian-picciano-goodbye-github-pages/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/brian-picciano-goodbye-github-pages/" type="text/html"/>
-		<id>https://blog.cryptic.io/brian-picciano-goodbye-github-pages/</id>
-		<content type="html">
-				&lt;p&gt;Slowly but surely I’m working on moving my digital life back to being
+    <published>2021-01-23T00:00:00+00:00</published>
+    <updated>2021-01-23T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-goodbye-github-pages/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-goodbye-github-pages/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/01/23/goodbye-github-pages.html</id>
+        <link href="https://blog.mediocregopher.com/2021/01/23/goodbye-github-pages.html"/>
+        <title>Goodbye, Github Pages</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-goodbye-github-pages/</id>
+    <content type="html">
+        &lt;p&gt;Slowly but surely I’m working on moving my digital life back to being
 self-hosted, and this blog was an easy low-hanging fruit to tackle. Previously
 the blog was hosted on Github Pages, which was easy enough but also in many ways
 restricting. By self-hosting I’m able to have a lot more control over the
@@ -748,21 +775,30 @@ nginx.&lt;&#x2F;p&gt;
 &lt;p&gt;And that’s it! Nix is a cool tool that I’m still getting the hang of, but
 hopefully this post might be useful to anyone else thinking of self-hosting
 their site.&lt;&#x2F;p&gt;
-			
-		</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>The Web</title>
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Web</title>
         <author>
             <name>Brian Picciano</name>
         </author>
-		<published>2021-01-14T00:00:00+00:00</published>
-		<updated>2021-01-14T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/brian-picciano-the-web/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/brian-picciano-the-web/" type="text/html"/>
-		<id>https://blog.cryptic.io/brian-picciano-the-web/</id>
-		<content type="html">
-				&lt;p&gt;With the recent crisis in the US’s democratic process, there’s been much abuzz
+    <published>2021-01-14T00:00:00+00:00</published>
+    <updated>2021-01-14T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-the-web/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-the-web/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/01/14/the-web.html</id>
+        <link href="https://blog.mediocregopher.com/2021/01/14/the-web.html"/>
+        <title>The Web</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-the-web/</id>
+    <content type="html">
+        &lt;p&gt;With the recent crisis in the US’s democratic process, there’s been much abuzz
 in the world about social media’s undoubted role in the whole debacle. The
 extent to which the algorithms of Facebook, Twitter, Youtube, TikTok, etc, have
 played a role in the radicalization of large segments of the world’s population
@@ -1004,21 +1040,30 @@ rather than the lucrative madness which our current algorithms love so much.&lt;
 was a regular attendee, but since COVID started my attendance has fallen off.
 Hopefully one day it can resume. In the meantime I’m going to be working on
 setting up these tools for myself, and see how far I can get.&lt;&#x2F;p&gt;
-			
-		</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>Ginger</title>
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Ginger</title>
         <author>
             <name>Brian Picciano</name>
         </author>
-		<published>2021-01-09T00:00:00+00:00</published>
-		<updated>2021-01-09T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/brian-picciano-ginger/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/brian-picciano-ginger/" type="text/html"/>
-		<id>https://blog.cryptic.io/brian-picciano-ginger/</id>
-		<content type="html">
-				&lt;p&gt;This post is about a programming language that’s been bouncing around in my head
+    <published>2021-01-09T00:00:00+00:00</published>
+    <updated>2021-01-09T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-ginger/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-ginger/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/01/09/ginger.html</id>
+        <link href="https://blog.mediocregopher.com/2021/01/09/ginger.html"/>
+        <title>Ginger</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-ginger/</id>
+    <content type="html">
+        &lt;p&gt;This post is about a programming language that’s been bouncing around in my head
 for a &lt;em&gt;long&lt;&#x2F;em&gt; time. I’ve tried to actually implement the language three or more
 times now, but everytime I get stuck or run out of steam. It doesn’t help that
 everytime I try again the form of the language changes significantly. But all
@@ -1350,21 +1395,30 @@ for it, since the last one I implemented didn’t include tuples. Maybe I can
 extend it instead of re-writing it. After that it will be time to really buckle
 down and figure out a syntax. Once a syntax is established then it’s time to
 start on the compiler!&lt;&#x2F;p&gt;
-			
-		</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>Component-Oriented Programming</title>
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Component-Oriented Programming</title>
         <author>
             <name>Brian Picciano</name>
         </author>
-		<published>2020-11-16T00:00:00+00:00</published>
-		<updated>2020-11-16T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/brian-picciano-component-oriented-programming/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/brian-picciano-component-oriented-programming/" type="text/html"/>
-		<id>https://blog.cryptic.io/brian-picciano-component-oriented-programming/</id>
-		<content type="html">
-				&lt;p&gt;&lt;a href=&quot;&#x2F;2019&#x2F;08&#x2F;02&#x2F;program-structure-and-composability.html&quot;&gt;A previous post in this
+    <published>2020-11-16T00:00:00+00:00</published>
+    <updated>2020-11-16T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-component-oriented-programming/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-component-oriented-programming/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2020/11/16/component-oriented-programming.html</id>
+        <link href="https://blog.mediocregopher.com/2020/11/16/component-oriented-programming.html"/>
+        <title>Component-Oriented Programming</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-component-oriented-programming/</id>
+    <content type="html">
+        &lt;p&gt;&lt;a href=&quot;&#x2F;2019&#x2F;08&#x2F;02&#x2F;program-structure-and-composability.html&quot;&gt;A previous post in this
 blog&lt;&#x2F;a&gt; focused on a
 framework developed to make designing component-based programs easier. In
 retrospect, the proposed pattern&#x2F;framework was over-engineered. This post
@@ -1726,21 +1780,30 @@ is technically being used, as functional languages are already generally
 antagonistic toward globals and impure functions, which is most of the battle.
 If anything, the transition from functional to component-oriented programming
 will generally be an organizational task.&lt;&#x2F;p&gt;
-			
-		</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>Visualization 3</title>
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Visualization 3</title>
         <author>
             <name>Brian Picciano</name>
         </author>
-		<published>2020-07-07T00:00:00+00:00</published>
-		<updated>2020-07-07T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/brian-picciano-visualization-3/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/brian-picciano-visualization-3/" type="text/html"/>
-		<id>https://blog.cryptic.io/brian-picciano-visualization-3/</id>
-		<content type="html">
-				&lt;canvas id=&quot;canvas&quot; style=&quot;padding-bottom: 2rem;&quot;&gt;&lt;&#x2F;canvas&gt;
+    <published>2020-07-07T00:00:00+00:00</published>
+    <updated>2020-07-07T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-visualization-3/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-visualization-3/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2020/07/07/viz-3.html</id>
+        <link href="https://blog.mediocregopher.com/2020/07/07/viz-3.html"/>
+        <title>Visualization 3</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-visualization-3/</id>
+    <content type="html">
+        &lt;canvas id=&quot;canvas&quot; style=&quot;padding-bottom: 2rem;&quot;&gt;&lt;&#x2F;canvas&gt;
 
 &lt;p&gt;This visualization is built from the ground up. On every frame a random set of
 pixels is chosen. Each chosen pixel calculates the average of its color and the
@@ -1886,21 +1949,30 @@ function doTick() {
 requestAnimationFrame(doTick);
 
 &lt;&#x2F;script&gt;
-			
-		</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>Nix and small containers with Docker multi-stage builds</title>
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Nix and small containers with Docker multi-stage builds</title>
         <author>
             <name>Marco</name>
         </author>
-		<published>2020-05-15T00:00:00+00:00</published>
-		<updated>2020-05-15T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/marco-nix-and-small-containers-with-docker-multi-stage-builds/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/marco-nix-and-small-containers-with-docker-multi-stage-builds/" type="text/html"/>
-		<id>https://blog.cryptic.io/marco-nix-and-small-containers-with-docker-multi-stage-builds/</id>
-		<content type="html">
-				&lt;p&gt;Multi Stage builds are great for minimizing the size of your container. The
+    <published>2020-05-15T00:00:00+00:00</published>
+    <updated>2020-05-15T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/marco-nix-and-small-containers-with-docker-multi-stage-builds/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/marco-nix-and-small-containers-with-docker-multi-stage-builds/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/nix-and-small-containers/</id>
+        <link href="https://marcopolo.io/code/nix-and-small-containers/"/>
+        <title>Nix and small containers with Docker multi-stage builds</title>
+        <author>
+            <name>Marco</name>
+        </author>
+      </source>
+
+    <id>https://blog.cryptic.io/marco-nix-and-small-containers-with-docker-multi-stage-builds/</id>
+    <content type="html">
+        &lt;p&gt;Multi Stage builds are great for minimizing the size of your container. The
 general idea is you have a stage as your builder and another stage as your
 product. This allows you to have a full development and build container while
 still having a lean production container. The production container only carries
@@ -2051,21 +2123,30 @@ deterministic images. Note, for all but the simplest examples, KVM is required.&
 &lt;p&gt;I don&#x27;t know much about this, but I&#x27;d assume this would be similar to what I&#x27;ve
 described. If you know more about this, please let me know!&lt;&#x2F;p&gt;
 
-			
-		</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>Trading in the Rain</title>
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Trading in the Rain</title>
         <author>
             <name>Brian Picciano</name>
         </author>
-		<published>2020-04-26T00:00:00+00:00</published>
-		<updated>2020-04-26T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/brian-picciano-trading-in-the-rain/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/brian-picciano-trading-in-the-rain/" type="text/html"/>
-		<id>https://blog.cryptic.io/brian-picciano-trading-in-the-rain/</id>
-		<content type="html">
-				&lt;!-- MIDI.js --&gt;
+    <published>2020-04-26T00:00:00+00:00</published>
+    <updated>2020-04-26T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-trading-in-the-rain/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-trading-in-the-rain/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2020/04/26/trading-in-the-rain.html</id>
+        <link href="https://blog.mediocregopher.com/2020/04/26/trading-in-the-rain.html"/>
+        <title>Trading in the Rain</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-trading-in-the-rain/</id>
+    <content type="html">
+        &lt;!-- MIDI.js --&gt;
 &lt;!-- polyfill --&gt;
 &lt;script src=&quot;&#x2F;assets&#x2F;trading-in-the-rain&#x2F;MIDI.js&#x2F;inc&#x2F;shim&#x2F;Base64.js&quot; type=&quot;text&#x2F;javascript&quot;&gt;&lt;&#x2F;script&gt;
 
@@ -2127,21 +2208,30 @@ the rain drop is.
 &lt;&#x2F;div&gt;
 
 &lt;canvas id=&quot;rainCanvas&quot; style=&quot;&quot;&gt;&lt;&#x2F;canvas&gt;
-			
-		</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>From C to Rust to C again. Or: Re-exporting C exports in Rust</title>
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>From C to Rust to C again. Or: Re-exporting C exports in Rust</title>
         <author>
             <name>Marco</name>
         </author>
-		<published>2019-12-12T00:00:00+00:00</published>
-		<updated>2019-12-12T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/marco-from-c-to-rust-to-c-again-or-re-exporting-c-exports-in-rust/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/marco-from-c-to-rust-to-c-again-or-re-exporting-c-exports-in-rust/" type="text/html"/>
-		<id>https://blog.cryptic.io/marco-from-c-to-rust-to-c-again-or-re-exporting-c-exports-in-rust/</id>
-		<content type="html">
-				&lt;p&gt;The only difference between being a grown up and being a kid, in my experience, is as a grown up, you have much fewer people who are willing to play the game &lt;em&gt;telephone&lt;&#x2F;em&gt; with you. Luckily for me, I have access to a computer, a C compiler, and a Rust compiler. Let me show you how I played telephone with Rust &amp;amp; C.&lt;&#x2F;p&gt;
+    <published>2019-12-12T00:00:00+00:00</published>
+    <updated>2019-12-12T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/marco-from-c-to-rust-to-c-again-or-re-exporting-c-exports-in-rust/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/marco-from-c-to-rust-to-c-again-or-re-exporting-c-exports-in-rust/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/from-c-to-rust-to-c/</id>
+        <link href="https://marcopolo.io/code/from-c-to-rust-to-c/"/>
+        <title>From C to Rust to C again. Or: Re-exporting C exports in Rust</title>
+        <author>
+            <name>Marco</name>
+        </author>
+      </source>
+
+    <id>https://blog.cryptic.io/marco-from-c-to-rust-to-c-again-or-re-exporting-c-exports-in-rust/</id>
+    <content type="html">
+        &lt;p&gt;The only difference between being a grown up and being a kid, in my experience, is as a grown up, you have much fewer people who are willing to play the game &lt;em&gt;telephone&lt;&#x2F;em&gt; with you. Luckily for me, I have access to a computer, a C compiler, and a Rust compiler. Let me show you how I played telephone with Rust &amp;amp; C.&lt;&#x2F;p&gt;
 &lt;p&gt;tl;dr:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;Rust can&#x27;t re-export from a linked C library (unless you rename) when compiled as a cdylib.&lt;&#x2F;li&gt;
@@ -2209,21 +2299,30 @@ echo $? # Print the return code of our program, hopefully 42
 &lt;p&gt;Great! We&#x27;ve called C from a Rust Library from a C program. But there&#x27;s a catch. This won&#x27;t work if you are building a &lt;code&gt;cdylib&lt;&#x2F;code&gt;. There isn&#x27;t an RFC yet on how to re-export C externs. In the mean time you&#x27;ll either have to: re-export under a different name, or build a &lt;code&gt;dylib&lt;&#x2F;code&gt;. See this issue: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rfcs&#x2F;issues&#x2F;2771&quot;&gt;Re-exporting C symbols for cdylib&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;Hope this helps.&lt;&#x2F;p&gt;
 
-			
-		</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>Wasm is the future of serverless. Terrafirma, serverless wasm functions.</title>
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Wasm is the future of serverless. Terrafirma, serverless wasm functions.</title>
         <author>
             <name>Marco</name>
         </author>
-		<published>2019-11-06T00:00:00+00:00</published>
-		<updated>2019-11-06T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/marco-wasm-is-the-future-of-serverless-terrafirma-serverless-wasm-functions/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/marco-wasm-is-the-future-of-serverless-terrafirma-serverless-wasm-functions/" type="text/html"/>
-		<id>https://blog.cryptic.io/marco-wasm-is-the-future-of-serverless-terrafirma-serverless-wasm-functions/</id>
-		<content type="html">
-				&lt;p&gt;When I ran into Fastly&#x27;s &lt;a href=&quot;https:&#x2F;&#x2F;wasm.fastlylabs.com&#x2F;&quot;&gt;Terrarium&lt;&#x2F;a&gt;, the appeal of Webassembly (wasm) finally clicked for me. We could have lightweight sandboxes and bring in my own language and libraries without the overhead of a full OS VM or &lt;a href=&quot;https:&#x2F;&#x2F;blog.iron.io&#x2F;the-overhead-of-docker-run&#x2F;&quot;&gt;Docker&lt;&#x2F;a&gt;. That&#x27;s great for the serverless provider, but it&#x27;s also great for the end user. Less overhead means faster startup time and less total cost.&lt;&#x2F;p&gt;
+    <published>2019-11-06T00:00:00+00:00</published>
+    <updated>2019-11-06T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/marco-wasm-is-the-future-of-serverless-terrafirma-serverless-wasm-functions/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/marco-wasm-is-the-future-of-serverless-terrafirma-serverless-wasm-functions/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/terrafirma/</id>
+        <link href="https://marcopolo.io/code/terrafirma/"/>
+        <title>Wasm is the future of serverless. Terrafirma, serverless wasm functions.</title>
+        <author>
+            <name>Marco</name>
+        </author>
+      </source>
+
+    <id>https://blog.cryptic.io/marco-wasm-is-the-future-of-serverless-terrafirma-serverless-wasm-functions/</id>
+    <content type="html">
+        &lt;p&gt;When I ran into Fastly&#x27;s &lt;a href=&quot;https:&#x2F;&#x2F;wasm.fastlylabs.com&#x2F;&quot;&gt;Terrarium&lt;&#x2F;a&gt;, the appeal of Webassembly (wasm) finally clicked for me. We could have lightweight sandboxes and bring in my own language and libraries without the overhead of a full OS VM or &lt;a href=&quot;https:&#x2F;&#x2F;blog.iron.io&#x2F;the-overhead-of-docker-run&#x2F;&quot;&gt;Docker&lt;&#x2F;a&gt;. That&#x27;s great for the serverless provider, but it&#x27;s also great for the end user. Less overhead means faster startup time and less total cost.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;how-much-faster&quot;&gt;How much faster?&lt;&#x2F;h2&gt;
 &lt;p&gt;On my machine™, a hello world shell script takes 3ms, a docker equivalent takes 700ms, and a wasm equivalent takes 15ms.&lt;&#x2F;p&gt;
 &lt;p&gt;Following &lt;a href=&quot;https:&#x2F;&#x2F;blog.iron.io&#x2F;the-overhead-of-docker-run&#x2F;&quot;&gt;this experiment&lt;&#x2F;a&gt; I get these results:&lt;&#x2F;p&gt;
@@ -2317,21 +2416,30 @@ cp target&#x2F;wasm32-unknown-unknown&#x2F;release&#x2F;terrafirma_helloworld.wa
 &lt;pre style=&quot;background-color:#2b303b;&quot;&gt;
 &lt;code&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;curl https:&#x2F;&#x2F;example.com&#x2F;hello.wasm
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
-			
-		</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>Thoughts on &quot;Why is React doing this?&quot;</title>
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Thoughts on &quot;Why is React doing this?&quot;</title>
         <author>
             <name>Marco</name>
         </author>
-		<published>2019-09-06T00:00:00+00:00</published>
-		<updated>2019-09-06T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/marco-thoughts-on-why-is-react-doing-this/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/marco-thoughts-on-why-is-react-doing-this/" type="text/html"/>
-		<id>https://blog.cryptic.io/marco-thoughts-on-why-is-react-doing-this/</id>
-		<content type="html">
-				&lt;h1 id=&quot;response-to-why-react&quot;&gt;Response to &lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;sebmarkbage&#x2F;a5ef436427437a98408672108df01919&quot;&gt;Why React?&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+    <published>2019-09-06T00:00:00+00:00</published>
+    <updated>2019-09-06T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/marco-thoughts-on-why-is-react-doing-this/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/marco-thoughts-on-why-is-react-doing-this/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/why-react-response/</id>
+        <link href="https://marcopolo.io/code/why-react-response/"/>
+        <title>Thoughts on &quot;Why is React doing this?&quot;</title>
+        <author>
+            <name>Marco</name>
+        </author>
+      </source>
+
+    <id>https://blog.cryptic.io/marco-thoughts-on-why-is-react-doing-this/</id>
+    <content type="html">
+        &lt;h1 id=&quot;response-to-why-react&quot;&gt;Response to &lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;sebmarkbage&#x2F;a5ef436427437a98408672108df01919&quot;&gt;Why React?&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
 &lt;p&gt;Some quick thoughts I had after reading the &lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;sebmarkbage&#x2F;a5ef436427437a98408672108df01919&quot;&gt;Why React?&lt;&#x2F;a&gt; gist.&lt;&#x2F;p&gt;
 &lt;p&gt;Disclaimer: &lt;em&gt;I want to be critical with React. I don&#x27;t disagree that it has done some amazing things&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;compiled-output-results-in-smaller-apps&quot;&gt;&amp;quot;Compiled output results in smaller apps&amp;quot;&lt;&#x2F;h2&gt;
@@ -2359,37 +2467,55 @@ cp target&#x2F;wasm32-unknown-unknown&#x2F;release&#x2F;terrafirma_helloworld.wa
 &lt;p&gt;One thing I find interesting is that the use of hooks moves functional components into becoming more stateful components. I think this is fine, but it loses the pure functional guarantees you had before.&lt;&#x2F;p&gt;
 &lt;p&gt;I haven&#x27;t yet made up my mind about hooks that interact with the context. (i.e. &lt;code&gt;useSelector&lt;&#x2F;code&gt; or &lt;code&gt;useDispatch&lt;&#x2F;code&gt;) since the context is less structured. i.e. This component&#x27;s selector function for &lt;code&gt;useSelector&lt;&#x2F;code&gt; relies on the state being &lt;code&gt;X&lt;&#x2F;code&gt;, but &lt;code&gt;X&lt;&#x2F;code&gt; isn&#x27;t passed in, it&#x27;s set as the store in redux configuration file somewhere else. Now that the component relies on the shape of the store being &lt;code&gt;X&lt;&#x2F;code&gt; it makes it harder to move out. This may not actually matter in practice, and it may be much more useful to be able to pull arbitrary things out of your store. Hence why I&#x27;m currently undecided about it.&lt;&#x2F;p&gt;
 
-			
-		</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>Bart Facts</title>
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Bart Facts</title>
         <author>
             <name>Marco</name>
         </author>
-		<published>2019-09-05T00:00:00+00:00</published>
-		<updated>2019-09-05T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/marco-bart-facts/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/marco-bart-facts/" type="text/html"/>
-		<id>https://blog.cryptic.io/marco-bart-facts/</id>
-		<content type="html">
-				&lt;p&gt;&lt;a href=&quot;&#x2F;code&#x2F;bart-facts.html&quot;&gt;Click Here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+    <published>2019-09-05T00:00:00+00:00</published>
+    <updated>2019-09-05T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/marco-bart-facts/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/marco-bart-facts/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/bart-facts/</id>
+        <link href="https://marcopolo.io/code/bart-facts/"/>
+        <title>Bart Facts</title>
+        <author>
+            <name>Marco</name>
+        </author>
+      </source>
 
-			
-		</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>My Experience at The Recurse Center</title>
+    <id>https://blog.cryptic.io/marco-bart-facts/</id>
+    <content type="html">
+        &lt;p&gt;&lt;a href=&quot;&#x2F;code&#x2F;bart-facts.html&quot;&gt;Click Here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>My Experience at The Recurse Center</title>
         <author>
             <name>Marco</name>
         </author>
-		<published>2019-08-23T00:00:00+00:00</published>
-		<updated>2019-08-23T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/marco-my-experience-at-the-recurse-center/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/marco-my-experience-at-the-recurse-center/" type="text/html"/>
-		<id>https://blog.cryptic.io/marco-my-experience-at-the-recurse-center/</id>
-		<content type="html">
-				&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.recurse.com&#x2F;&quot;&gt;The Recurse Center&lt;&#x2F;a&gt; is this magical place where hours fly by, and you can be as distracted or as focused as you choose to be. It&#x27;s composed of two nice floors of a building in downtown Brooklyn. They provide a space where you can progress on your own programming specific goals at your own self direction.&lt;&#x2F;p&gt;
+    <published>2019-08-23T00:00:00+00:00</published>
+    <updated>2019-08-23T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/marco-my-experience-at-the-recurse-center/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/marco-my-experience-at-the-recurse-center/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/my-recurse-experience/</id>
+        <link href="https://marcopolo.io/code/my-recurse-experience/"/>
+        <title>My Experience at The Recurse Center</title>
+        <author>
+            <name>Marco</name>
+        </author>
+      </source>
+
+    <id>https://blog.cryptic.io/marco-my-experience-at-the-recurse-center/</id>
+    <content type="html">
+        &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.recurse.com&#x2F;&quot;&gt;The Recurse Center&lt;&#x2F;a&gt; is this magical place where hours fly by, and you can be as distracted or as focused as you choose to be. It&#x27;s composed of two nice floors of a building in downtown Brooklyn. They provide a space where you can progress on your own programming specific goals at your own self direction.&lt;&#x2F;p&gt;
 &lt;p&gt;Some of my best friends are RCers. All of them really enjoyed their time at RC, and would recommend it to anyone who would listen. With glowing praise from people I deeply respect, how could I not give it a try? It also helped that I had a friend and former co-worker (Fred) applying for a week long batch as well.&lt;&#x2F;p&gt;
 &lt;p&gt;Initially I was skeptical about it. It also seemed like quite a bit of work. I spent days on their &amp;quot;What do you want to be doing in 2 years question&amp;quot;; I&#x27;d have to do two interviews; and I&#x27;d have to figure out living logistics. Given those hurdles I was skeptical of what the benefit of the program would be. Despite my skepticism I decided to trust my friends. Well... Truthfully Fred nudged me along, and I&#x27;m very glad he did.&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;the-mini-batch-1-week-long-program&quot;&gt;The Mini Batch. (1 Week long program)&lt;&#x2F;h1&gt;
@@ -2450,21 +2576,30 @@ cp target&#x2F;wasm32-unknown-unknown&#x2F;release&#x2F;terrafirma_helloworld.wa
 &lt;h1 id=&quot;my-project&quot;&gt;My Project&lt;&#x2F;h1&gt;
 &lt;p&gt;In a week, I built an &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;MarcoPolo&#x2F;android-wired&quot;&gt;Android UI Library for Rust&lt;&#x2F;a&gt;. I am proud of it, and I&#x27;ll have another post that details it at length.&lt;&#x2F;p&gt;
 
-			
-		</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>I moved my blog over to Zola, you should too</title>
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>I moved my blog over to Zola, you should too</title>
         <author>
             <name>Marco</name>
         </author>
-		<published>2019-08-22T00:00:00+00:00</published>
-		<updated>2019-08-22T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/marco-i-moved-my-blog-over-to-zola-you-should-too/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/marco-i-moved-my-blog-over-to-zola-you-should-too/" type="text/html"/>
-		<id>https://blog.cryptic.io/marco-i-moved-my-blog-over-to-zola-you-should-too/</id>
-		<content type="html">
-				&lt;h1 id=&quot;blogging&quot;&gt;Blogging&lt;&#x2F;h1&gt;
+    <published>2019-08-22T00:00:00+00:00</published>
+    <updated>2019-08-22T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/marco-i-moved-my-blog-over-to-zola-you-should-too/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/marco-i-moved-my-blog-over-to-zola-you-should-too/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/migrating-to-zola/</id>
+        <link href="https://marcopolo.io/code/migrating-to-zola/"/>
+        <title>I moved my blog over to Zola, you should too</title>
+        <author>
+            <name>Marco</name>
+        </author>
+      </source>
+
+    <id>https://blog.cryptic.io/marco-i-moved-my-blog-over-to-zola-you-should-too/</id>
+    <content type="html">
+        &lt;h1 id=&quot;blogging&quot;&gt;Blogging&lt;&#x2F;h1&gt;
 &lt;p&gt;I started this blog like many other folks, on GitHub Pages. It was great at
 the time. You can have a source repo that compiles to a blog. Neat! Over time
 though I started really feeling the pain points with it. When I wanted to
@@ -2524,21 +2659,30 @@ hard enough to sit down and write a post. I want every bit of the experience
 to be beautiful.&lt;&#x2F;p&gt;
 &lt;p&gt;But don&#x27;t take my word for it! judge yourself: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;MarcoPolo&#x2F;marcopolo.github.io&#x2F;tree&#x2F;jekyll_archive&quot;&gt;Jekyll&lt;&#x2F;a&gt; vs. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;MarcoPolo&#x2F;marcopolo.github.io&quot;&gt;Zola&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
-			
-		</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>Program Structure and Composability</title>
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Program Structure and Composability</title>
         <author>
             <name>Brian Picciano</name>
         </author>
-		<published>2019-08-02T00:00:00+00:00</published>
-		<updated>2019-08-02T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/brian-picciano-program-structure-and-composability/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/brian-picciano-program-structure-and-composability/" type="text/html"/>
-		<id>https://blog.cryptic.io/brian-picciano-program-structure-and-composability/</id>
-		<content type="html">
-				&lt;h2 id=&quot;part-0-introduction&quot;&gt;Part 0: Introduction&lt;&#x2F;h2&gt;
+    <published>2019-08-02T00:00:00+00:00</published>
+    <updated>2019-08-02T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-program-structure-and-composability/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-program-structure-and-composability/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2019/08/02/program-structure-and-composability.html</id>
+        <link href="https://blog.mediocregopher.com/2019/08/02/program-structure-and-composability.html"/>
+        <title>Program Structure and Composability</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-program-structure-and-composability/</id>
+    <content type="html">
+        &lt;h2 id=&quot;part-0-introduction&quot;&gt;Part 0: Introduction&lt;&#x2F;h2&gt;
 
 &lt;p&gt;This post is focused on a concept I call “program structure,” which I will try
 to shed some light on before discussing complex program structures. I will then
@@ -3128,21 +3272,30 @@ component structures. With these two points in mind, I would encourage you to
 look and take whatever functionality you find useful for yourself, and not use
 the packages directly. The core pieces are not different from what has been
 described in this post.&lt;&#x2F;p&gt;
-			
-		</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>Interacting with Go from React Native through JSI</title>
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Interacting with Go from React Native through JSI</title>
         <author>
             <name>Marco</name>
         </author>
-		<published>2019-06-27T00:00:00+00:00</published>
-		<updated>2019-06-27T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/marco-interacting-with-go-from-react-native-through-jsi/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/marco-interacting-with-go-from-react-native-through-jsi/" type="text/html"/>
-		<id>https://blog.cryptic.io/marco-interacting-with-go-from-react-native-through-jsi/</id>
-		<content type="html">
-				&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h1&gt;
+    <published>2019-06-27T00:00:00+00:00</published>
+    <updated>2019-06-27T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/marco-interacting-with-go-from-react-native-through-jsi/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/marco-interacting-with-go-from-react-native-through-jsi/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/go-rn-jsi/</id>
+        <link href="https://marcopolo.io/code/go-rn-jsi/"/>
+        <title>Interacting with Go from React Native through JSI</title>
+        <author>
+            <name>Marco</name>
+        </author>
+      </source>
+
+    <id>https://blog.cryptic.io/marco-interacting-with-go-from-react-native-through-jsi/</id>
+    <content type="html">
+        &lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h1&gt;
 &lt;p&gt;There are 3 parts that let JS talk to Go:&lt;&#x2F;p&gt;
 &lt;ol&gt;
 &lt;li&gt;The C++ binding&lt;&#x2F;li&gt;
@@ -3254,21 +3407,30 @@ JNIEXPORT &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;void&lt
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.dogan.io&#x2F;2015&#x2F;08&#x2F;15&#x2F;java-jni-jnr-go&#x2F;&quot;&gt;GO JNI&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rakyll.org&#x2F;cross-compilation&#x2F;&quot;&gt;GO Cross Compilation&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
-			
-		</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>Visualization 1</title>
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Visualization 1</title>
         <author>
             <name>Brian Picciano</name>
         </author>
-		<published>2018-11-12T00:00:00+00:00</published>
-		<updated>2018-11-12T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/brian-picciano-visualization-1/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/brian-picciano-visualization-1/" type="text/html"/>
-		<id>https://blog.cryptic.io/brian-picciano-visualization-1/</id>
-		<content type="html">
-				&lt;p&gt;First I want to appologize if you’ve seen this already, I originally had this up
+    <published>2018-11-12T00:00:00+00:00</published>
+    <updated>2018-11-12T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-visualization-1/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-visualization-1/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2018/11/12/viz-1.html</id>
+        <link href="https://blog.mediocregopher.com/2018/11/12/viz-1.html"/>
+        <title>Visualization 1</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-visualization-1/</id>
+    <content type="html">
+        &lt;p&gt;First I want to appologize if you’ve seen this already, I originally had this up
 on my normal website, but I’ve decided to instead consolidate all my work to my
 blog.&lt;&#x2F;p&gt;
 
@@ -3322,21 +3484,30 @@ from outside groups in the same movement. This doesn’t last for very long.&lt;
 &lt;p&gt;The performance of this visualization is not very optimized, and will probably
 eat up your CPU like nothing else. Most of the slowness comes from drawing the
 lines; since there’s so many individual small ones it’s quite cumbersome to do.&lt;&#x2F;p&gt;
-			
-		</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>Visualization 2</title>
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Visualization 2</title>
         <author>
             <name>Brian Picciano</name>
         </author>
-		<published>2018-11-12T00:00:00+00:00</published>
-		<updated>2018-11-12T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/brian-picciano-visualization-2/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/brian-picciano-visualization-2/" type="text/html"/>
-		<id>https://blog.cryptic.io/brian-picciano-visualization-2/</id>
-		<content type="html">
-				&lt;script src=&quot;&#x2F;assets&#x2F;viz&#x2F;2&#x2F;goog&#x2F;base.js&quot;&gt;&lt;&#x2F;script&gt;
+    <published>2018-11-12T00:00:00+00:00</published>
+    <updated>2018-11-12T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-visualization-2/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-visualization-2/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2018/11/12/viz-2.html</id>
+        <link href="https://blog.mediocregopher.com/2018/11/12/viz-2.html"/>
+        <title>Visualization 2</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-visualization-2/</id>
+    <content type="html">
+        &lt;script src=&quot;&#x2F;assets&#x2F;viz&#x2F;2&#x2F;goog&#x2F;base.js&quot;&gt;&lt;&#x2F;script&gt;
 
 &lt;script src=&quot;&#x2F;assets&#x2F;viz&#x2F;2&#x2F;cljs_deps.js&quot;&gt;&lt;&#x2F;script&gt;
 
@@ -3387,21 +3558,30 @@ congregate and are able to be viewed as a larger whole.&lt;&#x2F;p&gt;
 to waves crashing against each other, to outright chaos, to random purges of
 nearly all points. Each form lasts for only a few seconds before giving way to
 another.&lt;&#x2F;p&gt;
-			
-		</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>An Intro to Functional Reactive Programming in UIs</title>
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>An Intro to Functional Reactive Programming in UIs</title>
         <author>
             <name>Marco</name>
         </author>
-		<published>2014-11-16T00:00:00+00:00</published>
-		<updated>2014-11-16T00:00:00+00:00</updated>
-		<link href="https://blog.cryptic.io/marco-an-intro-to-functional-reactive-programming-in-uis/"/>
-		<link rel="alternate" href="https://blog.cryptic.io/marco-an-intro-to-functional-reactive-programming-in-uis/" type="text/html"/>
-		<id>https://blog.cryptic.io/marco-an-intro-to-functional-reactive-programming-in-uis/</id>
-		<content type="html">
-				&lt;p&gt;Maybe you&#x27;ve heard of &lt;a href=&quot;https:&#x2F;&#x2F;facebook.github.io&#x2F;react&#x2F;&quot;&gt;React&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;swannodette&#x2F;om&quot;&gt;Om&lt;&#x2F;a&gt;,
+    <published>2014-11-16T00:00:00+00:00</published>
+    <updated>2014-11-16T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/marco-an-intro-to-functional-reactive-programming-in-uis/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/marco-an-intro-to-functional-reactive-programming-in-uis/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/frp/</id>
+        <link href="https://marcopolo.io/code/frp/"/>
+        <title>An Intro to Functional Reactive Programming in UIs</title>
+        <author>
+            <name>Marco</name>
+        </author>
+      </source>
+
+    <id>https://blog.cryptic.io/marco-an-intro-to-functional-reactive-programming-in-uis/</id>
+    <content type="html">
+        &lt;p&gt;Maybe you&#x27;ve heard of &lt;a href=&quot;https:&#x2F;&#x2F;facebook.github.io&#x2F;react&#x2F;&quot;&gt;React&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;swannodette&#x2F;om&quot;&gt;Om&lt;&#x2F;a&gt;,
 or &lt;a href=&quot;http:&#x2F;&#x2F;elm-lang.org&#x2F;&quot;&gt;Elm&lt;&#x2F;a&gt;, and wondering: what&#x27;s the deal with
 functional reactive programming (FRP)?&lt;&#x2F;p&gt;
 &lt;p&gt;This post will act as primer on FRP using vanilla JS, but the ideas presented
@@ -3849,7 +4029,7 @@ is placed on the DOM.&lt;&#x2F;p&gt;
 to React, and brings React to Clojurescript&lt;&#x2F;p&gt;
 &lt;p&gt;Finally, Evan Czaplicki (Elm creator) did a &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Agu6jipKfYw&quot;&gt;great talk on FRP&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 
-			
-		</content>
-	</entry>
+      
+    </content>
+  </entry>
 </feed>
