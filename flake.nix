@@ -12,16 +12,28 @@
       (system:
         let
           pkgs = nixpkgs.legacyPackages.${system};
+          syn-rss-bin = "${syndicate-rss.defaultPackage.${system}}/bin/syndicate-rss";
+          syndicateBlogPosts = pkgs.writeScriptBin "syndicateBlogPosts" ''
+            # Fetch from Marco's Blog
+            ${syn-rss-bin} --in https://marcopolo.io/code/atom.xml --out ./content --lastN 10
+
+            # Fetch from Brian's Blog
+            ${syn-rss-bin} --in https://blog.mediocregopher.com/feed/by_tag/tech.xml --out ./content --lastN 10
+          '';
         in
         {
           devShell = pkgs.mkShell {
-            buildInputs = [ pkgs.zola syndicate-rss.defaultPackage.${system} ];
+            buildInputs = [ pkgs.zola syndicate-rss.defaultPackage.${system} syndicateBlogPosts ];
           };
           defaultPackage = pkgs.stdenv.mkDerivation {
             name = "blog-1.0.0";
             buildInputs = [ pkgs.zola ];
             src = ./.;
-            installPhase = "mkdir $out; zola build; cp -r public/* $out/";
+            installPhase = ''
+              mkdir $out
+              zola build
+              cp -r public/* $out/
+            '';
           };
         }
       );
