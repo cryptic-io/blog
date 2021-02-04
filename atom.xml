@@ -22,6 +22,7 @@
         <author>
             <name>Marco</name>
         </author>
+        <updated>2021-02-01T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/marco-goodbye-bit-rot/</id>
@@ -167,6 +168,7 @@ post is specifically about cases where it is feasible to emulate the external AP
         <author>
             <name>Brian Picciano</name>
         </author>
+        <updated>2021-01-30T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/brian-picciano-building-mobile-nebula/</id>
@@ -544,6 +546,7 @@ time.&lt;&#x2F;p&gt;
         <author>
             <name>Brian Picciano</name>
         </author>
+        <updated>2021-01-23T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/brian-picciano-goodbye-github-pages/</id>
@@ -794,6 +797,7 @@ their site.&lt;&#x2F;p&gt;
         <author>
             <name>Brian Picciano</name>
         </author>
+        <updated>2021-01-14T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/brian-picciano-the-web/</id>
@@ -1059,6 +1063,7 @@ setting up these tools for myself, and see how far I can get.&lt;&#x2F;p&gt;
         <author>
             <name>Brian Picciano</name>
         </author>
+        <updated>2021-01-09T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/brian-picciano-ginger/</id>
@@ -1414,6 +1419,7 @@ start on the compiler!&lt;&#x2F;p&gt;
         <author>
             <name>Brian Picciano</name>
         </author>
+        <updated>2020-11-16T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/brian-picciano-component-oriented-programming/</id>
@@ -1799,6 +1805,7 @@ will generally be an organizational task.&lt;&#x2F;p&gt;
         <author>
             <name>Brian Picciano</name>
         </author>
+        <updated>2020-07-07T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/brian-picciano-visualization-3/</id>
@@ -1968,6 +1975,7 @@ requestAnimationFrame(doTick);
         <author>
             <name>Marco</name>
         </author>
+        <updated>2020-05-15T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/marco-nix-and-small-containers-with-docker-multi-stage-builds/</id>
@@ -2142,6 +2150,7 @@ described. If you know more about this, please let me know!&lt;&#x2F;p&gt;
         <author>
             <name>Brian Picciano</name>
         </author>
+        <updated>2020-04-26T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/brian-picciano-trading-in-the-rain/</id>
@@ -2227,6 +2236,7 @@ the rain drop is.
         <author>
             <name>Marco</name>
         </author>
+        <updated>2019-12-12T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/marco-from-c-to-rust-to-c-again-or-re-exporting-c-exports-in-rust/</id>
@@ -2318,6 +2328,7 @@ echo $? # Print the return code of our program, hopefully 42
         <author>
             <name>Marco</name>
         </author>
+        <updated>2019-11-06T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/marco-wasm-is-the-future-of-serverless-terrafirma-serverless-wasm-functions/</id>
@@ -2435,6 +2446,7 @@ cp target&#x2F;wasm32-unknown-unknown&#x2F;release&#x2F;terrafirma_helloworld.wa
         <author>
             <name>Marco</name>
         </author>
+        <updated>2019-09-06T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/marco-thoughts-on-why-is-react-doing-this/</id>
@@ -2486,6 +2498,7 @@ cp target&#x2F;wasm32-unknown-unknown&#x2F;release&#x2F;terrafirma_helloworld.wa
         <author>
             <name>Marco</name>
         </author>
+        <updated>2019-09-05T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/marco-bart-facts/</id>
@@ -2511,6 +2524,7 @@ cp target&#x2F;wasm32-unknown-unknown&#x2F;release&#x2F;terrafirma_helloworld.wa
         <author>
             <name>Marco</name>
         </author>
+        <updated>2019-08-23T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/marco-my-experience-at-the-recurse-center/</id>
@@ -2595,6 +2609,7 @@ cp target&#x2F;wasm32-unknown-unknown&#x2F;release&#x2F;terrafirma_helloworld.wa
         <author>
             <name>Marco</name>
         </author>
+        <updated>2019-08-22T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/marco-i-moved-my-blog-over-to-zola-you-should-too/</id>
@@ -2678,6 +2693,7 @@ to be beautiful.&lt;&#x2F;p&gt;
         <author>
             <name>Brian Picciano</name>
         </author>
+        <updated>2019-08-02T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/brian-picciano-program-structure-and-composability/</id>
@@ -3291,6 +3307,7 @@ described in this post.&lt;&#x2F;p&gt;
         <author>
             <name>Marco</name>
         </author>
+        <updated>2019-06-27T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/marco-interacting-with-go-from-react-native-through-jsi/</id>
@@ -3426,6 +3443,7 @@ JNIEXPORT &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;void&lt
         <author>
             <name>Brian Picciano</name>
         </author>
+        <updated>2018-11-12T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/brian-picciano-visualization-1/</id>
@@ -3503,6 +3521,7 @@ lines; since there’s so many individual small ones it’s quite cumbersome to 
         <author>
             <name>Brian Picciano</name>
         </author>
+        <updated>2018-11-12T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/brian-picciano-visualization-2/</id>
@@ -3577,6 +3596,7 @@ another.&lt;&#x2F;p&gt;
         <author>
             <name>Marco</name>
         </author>
+        <updated>2014-11-16T00:00:00+00:00</updated>
       </source>
 
     <id>https://blog.cryptic.io/marco-an-intro-to-functional-reactive-programming-in-uis/</id>
