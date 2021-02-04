@@ -62,7 +62,7 @@ initial example, software <em>A</em> will always run because it will always use 
 same exact shared library <em>B</em>.</p>
 <h2 id="a-concrete-example-this-will-never-bit-rot">A concrete example. This will never bit rot.</h2>
 <p>To continue our Smalltalk theme, here's a &quot;Hello World&quot; program that, barring a
-fundamental change in how Nix Flakes works, will work forever on an x86_64
+fundamental change in how Nix Flakes works, will work forever<sup class="footnote-reference"><a href="#1">1</a></sup> on an x86_64
 linux machine.</p>
 <p>The definition of our program, <code>flake.nix</code></p>
 <pre style="background-color:#2b303b;">
@@ -82,32 +82,33 @@ linux machine.</p>
 </span></code></pre>
 <p>The pinned version of all our dependencies, <code>flake.lock</code></p>
 <pre style="background-color:#2b303b;">
-<code><span style="color:#c0c5ce;">  &quot;nodes&quot;: {
-    &quot;nixpkgs&quot;: {
-      &quot;locked&quot;: {
-        &quot;lastModified&quot;: 1606669556,
-        &quot;narHash&quot;: &quot;sha256-9rlqZ5JwnA6nK04vKhV0s5ndepnWL5hpkaTV1b4ASvk=&quot;,
-        &quot;owner&quot;: &quot;NixOS&quot;,
-        &quot;repo&quot;: &quot;nixpkgs&quot;,
-        &quot;rev&quot;: &quot;ae47c79479a086e96e2977c61e538881913c0c08&quot;,
-        &quot;type&quot;: &quot;github&quot;
+<code><span style="color:#c0c5ce;">{
+  &quot;</span><span style="color:#a3be8c;">nodes</span><span style="color:#c0c5ce;">&quot;: {
+    &quot;</span><span style="color:#a3be8c;">nixpkgs</span><span style="color:#c0c5ce;">&quot;: {
+      &quot;</span><span style="color:#a3be8c;">locked</span><span style="color:#c0c5ce;">&quot;: {
+        &quot;</span><span style="color:#a3be8c;">lastModified</span><span style="color:#c0c5ce;">&quot;: </span><span style="color:#d08770;">1606669556</span><span style="color:#c0c5ce;">,
+        &quot;</span><span style="color:#a3be8c;">narHash</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">sha256-9rlqZ5JwnA6nK04vKhV0s5ndepnWL5hpkaTV1b4ASvk=</span><span style="color:#c0c5ce;">&quot;,
+        &quot;</span><span style="color:#a3be8c;">owner</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">NixOS</span><span style="color:#c0c5ce;">&quot;,
+        &quot;</span><span style="color:#a3be8c;">repo</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">nixpkgs</span><span style="color:#c0c5ce;">&quot;,
+        &quot;</span><span style="color:#a3be8c;">rev</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">ae47c79479a086e96e2977c61e538881913c0c08</span><span style="color:#c0c5ce;">&quot;,
+        &quot;</span><span style="color:#a3be8c;">type</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">github</span><span style="color:#c0c5ce;">&quot;
       },
-      &quot;original&quot;: {
-        &quot;owner&quot;: &quot;NixOS&quot;,
-        &quot;ref&quot;: &quot;nixos-20.09&quot;,
-        &quot;repo&quot;: &quot;nixpkgs&quot;,
-        &quot;type&quot;: &quot;github&quot;
+      &quot;</span><span style="color:#a3be8c;">original</span><span style="color:#c0c5ce;">&quot;: {
+        &quot;</span><span style="color:#a3be8c;">owner</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">NixOS</span><span style="color:#c0c5ce;">&quot;,
+        &quot;</span><span style="color:#a3be8c;">ref</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">nixos-20.09</span><span style="color:#c0c5ce;">&quot;,
+        &quot;</span><span style="color:#a3be8c;">repo</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">nixpkgs</span><span style="color:#c0c5ce;">&quot;,
+        &quot;</span><span style="color:#a3be8c;">type</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">github</span><span style="color:#c0c5ce;">&quot;
       }
     },
-    &quot;root&quot;: {
-      &quot;inputs&quot;: {
-        &quot;nixpkgs&quot;: &quot;nixpkgs&quot;
+    &quot;</span><span style="color:#a3be8c;">root</span><span style="color:#c0c5ce;">&quot;: {
+      &quot;</span><span style="color:#a3be8c;">inputs</span><span style="color:#c0c5ce;">&quot;: {
+        &quot;</span><span style="color:#a3be8c;">nixpkgs</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">nixpkgs</span><span style="color:#c0c5ce;">&quot;
       }
     }
   },
-  &quot;root&quot;: &quot;root&quot;,
-  &quot;version&quot;: 7
-}
+  &quot;</span><span style="color:#a3be8c;">root</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">root</span><span style="color:#c0c5ce;">&quot;,
+  &quot;</span><span style="color:#a3be8c;">version</span><span style="color:#c0c5ce;">&quot;: </span><span style="color:#d08770;">7
+</span><span style="color:#c0c5ce;">}
 </span></code></pre>
 <p>copy those files into a directory and run it:</p>
 <pre style="background-color:#2b303b;">
@@ -133,6 +134,10 @@ Google endpoint, the only way to use this program would be to emulate the whole
 Google stack or rely on that <a href="https://gcemetery.co/">endpoint existing</a>.
 Sometimes it's doable to emulate the external API, and sometimes it isn't. This
 post is specifically about cases where it is feasible to emulate the external API.</p>
+<h3 id="footnotes">Footnotes</h3>
+<div class="footnote-definition" id="1"><sup class="footnote-definition-label">1</sup>
+<p>Okay forever is a really long time. And this will likely not run forever. But why? The easy reasons are: &quot;Github is down&quot;, &quot;A source tarball you need can't be fetched from the internet&quot;, &quot;x86_64 processors can't be found or emulated&quot;. But what's a weird reason that this may fail in the future? It'll probably be hard to predict, but maybe something like: SHA256 has been broken and criminals and/or pranksters have published malicious packages that match a certain SHA256. So build tools that rely on a deterministic and hard to break hash algorithm like SHA256 (like what Nix does) will no longer be reliable. That would be a funny future. Send me your weird reasons: <code>&quot;marco+forever&quot; ++ &quot;@marcopolo.io&quot;</code></p>
+</div>
 """
 
 +++
@@ -186,7 +191,7 @@ initial example, software <em>A</em> will always run because it will always use 
 same exact shared library <em>B</em>.</p>
 <h2 id="a-concrete-example-this-will-never-bit-rot">A concrete example. This will never bit rot.</h2>
 <p>To continue our Smalltalk theme, here's a &quot;Hello World&quot; program that, barring a
-fundamental change in how Nix Flakes works, will work forever on an x86_64
+fundamental change in how Nix Flakes works, will work forever<sup class="footnote-reference"><a href="#1">1</a></sup> on an x86_64
 linux machine.</p>
 <p>The definition of our program, <code>flake.nix</code></p>
 <pre style="background-color:#2b303b;">
@@ -206,32 +211,33 @@ linux machine.</p>
 </span></code></pre>
 <p>The pinned version of all our dependencies, <code>flake.lock</code></p>
 <pre style="background-color:#2b303b;">
-<code><span style="color:#c0c5ce;">  &quot;nodes&quot;: {
-    &quot;nixpkgs&quot;: {
-      &quot;locked&quot;: {
-        &quot;lastModified&quot;: 1606669556,
-        &quot;narHash&quot;: &quot;sha256-9rlqZ5JwnA6nK04vKhV0s5ndepnWL5hpkaTV1b4ASvk=&quot;,
-        &quot;owner&quot;: &quot;NixOS&quot;,
-        &quot;repo&quot;: &quot;nixpkgs&quot;,
-        &quot;rev&quot;: &quot;ae47c79479a086e96e2977c61e538881913c0c08&quot;,
-        &quot;type&quot;: &quot;github&quot;
+<code><span style="color:#c0c5ce;">{
+  &quot;</span><span style="color:#a3be8c;">nodes</span><span style="color:#c0c5ce;">&quot;: {
+    &quot;</span><span style="color:#a3be8c;">nixpkgs</span><span style="color:#c0c5ce;">&quot;: {
+      &quot;</span><span style="color:#a3be8c;">locked</span><span style="color:#c0c5ce;">&quot;: {
+        &quot;</span><span style="color:#a3be8c;">lastModified</span><span style="color:#c0c5ce;">&quot;: </span><span style="color:#d08770;">1606669556</span><span style="color:#c0c5ce;">,
+        &quot;</span><span style="color:#a3be8c;">narHash</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">sha256-9rlqZ5JwnA6nK04vKhV0s5ndepnWL5hpkaTV1b4ASvk=</span><span style="color:#c0c5ce;">&quot;,
+        &quot;</span><span style="color:#a3be8c;">owner</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">NixOS</span><span style="color:#c0c5ce;">&quot;,
+        &quot;</span><span style="color:#a3be8c;">repo</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">nixpkgs</span><span style="color:#c0c5ce;">&quot;,
+        &quot;</span><span style="color:#a3be8c;">rev</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">ae47c79479a086e96e2977c61e538881913c0c08</span><span style="color:#c0c5ce;">&quot;,
+        &quot;</span><span style="color:#a3be8c;">type</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">github</span><span style="color:#c0c5ce;">&quot;
       },
-      &quot;original&quot;: {
-        &quot;owner&quot;: &quot;NixOS&quot;,
-        &quot;ref&quot;: &quot;nixos-20.09&quot;,
-        &quot;repo&quot;: &quot;nixpkgs&quot;,
-        &quot;type&quot;: &quot;github&quot;
+      &quot;</span><span style="color:#a3be8c;">original</span><span style="color:#c0c5ce;">&quot;: {
+        &quot;</span><span style="color:#a3be8c;">owner</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">NixOS</span><span style="color:#c0c5ce;">&quot;,
+        &quot;</span><span style="color:#a3be8c;">ref</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">nixos-20.09</span><span style="color:#c0c5ce;">&quot;,
+        &quot;</span><span style="color:#a3be8c;">repo</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">nixpkgs</span><span style="color:#c0c5ce;">&quot;,
+        &quot;</span><span style="color:#a3be8c;">type</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">github</span><span style="color:#c0c5ce;">&quot;
       }
     },
-    &quot;root&quot;: {
-      &quot;inputs&quot;: {
-        &quot;nixpkgs&quot;: &quot;nixpkgs&quot;
+    &quot;</span><span style="color:#a3be8c;">root</span><span style="color:#c0c5ce;">&quot;: {
+      &quot;</span><span style="color:#a3be8c;">inputs</span><span style="color:#c0c5ce;">&quot;: {
+        &quot;</span><span style="color:#a3be8c;">nixpkgs</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">nixpkgs</span><span style="color:#c0c5ce;">&quot;
       }
     }
   },
-  &quot;root&quot;: &quot;root&quot;,
-  &quot;version&quot;: 7
-}
+  &quot;</span><span style="color:#a3be8c;">root</span><span style="color:#c0c5ce;">&quot;: &quot;</span><span style="color:#a3be8c;">root</span><span style="color:#c0c5ce;">&quot;,
+  &quot;</span><span style="color:#a3be8c;">version</span><span style="color:#c0c5ce;">&quot;: </span><span style="color:#d08770;">7
+</span><span style="color:#c0c5ce;">}
 </span></code></pre>
 <p>copy those files into a directory and run it:</p>
 <pre style="background-color:#2b303b;">
@@ -257,4 +263,8 @@ Google endpoint, the only way to use this program would be to emulate the whole
 Google stack or rely on that <a href="https://gcemetery.co/">endpoint existing</a>.
 Sometimes it's doable to emulate the external API, and sometimes it isn't. This
 post is specifically about cases where it is feasible to emulate the external API.</p>
+<h3 id="footnotes">Footnotes</h3>
+<div class="footnote-definition" id="1"><sup class="footnote-definition-label">1</sup>
+<p>Okay forever is a really long time. And this will likely not run forever. But why? The easy reasons are: &quot;Github is down&quot;, &quot;A source tarball you need can't be fetched from the internet&quot;, &quot;x86_64 processors can't be found or emulated&quot;. But what's a weird reason that this may fail in the future? It'll probably be hard to predict, but maybe something like: SHA256 has been broken and criminals and/or pranksters have published malicious packages that match a certain SHA256. So build tools that rely on a deterministic and hard to break hash algorithm like SHA256 (like what Nix does) will no longer be reliable. That would be a funny future. Send me your weird reasons: <code>&quot;marco+forever&quot; ++ &quot;@marcopolo.io&quot;</code></p>
+</div>
 
