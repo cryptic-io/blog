@@ -9,6 +9,8 @@ jobs:
   deploy:
     environment: cachix
     runs-on: ubuntu-20.04
+    env:
+      ACTIONS_ALLOW_UNSECURE_COMMANDS: true
     steps:
       - uses: actions/checkout@v2
         with:
