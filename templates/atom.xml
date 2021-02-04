@@ -33,6 +33,7 @@
         <author>
             <name>{{ page.extra.author }}</name>
         </author>
+        <updated>{{ page.updated | default(value=page.date) | date(format="%+") }}</updated>
         {%- endif %}
       </source>
     {%- endif %}
