@@ -6,7 +6,7 @@ on:
     - cron:  '13 * * * *'
   push:
     branches:
-      - ci-test
+      - main
 
 jobs:
   syndicate:
