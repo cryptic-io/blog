@@ -1,7 +1,6 @@
 
 +++
 title = "Nix and small containers with Docker multi-stage builds"
-originalLink = "https://marcopolo.io/code/nix-and-small-containers/"
 date = 2020-05-15T00:00:00.000Z
 template = "html_content/raw.html"
 summary = """
@@ -10,6 +9,7 @@ general idea is you have..."""
 
 [extra]
 author = "Marco"
+originalLink = "https://marcopolo.io/code/nix-and-small-containers/"
 raw = """
 <p>Multi Stage builds are great for minimizing the size of your container. The
 general idea is you have a stage as your builder and another stage as your

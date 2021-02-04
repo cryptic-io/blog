@@ -1,7 +1,6 @@
 
 +++
 title = "An Intro to Functional Reactive Programming in UIs"
-originalLink = "https://marcopolo.io/code/frp/"
 date = 2014-11-16T00:00:00.000Z
 template = "html_content/raw.html"
 summary = """
@@ -11,6 +10,7 @@ functional reactive pro..."""
 
 [extra]
 author = "Marco"
+originalLink = "https://marcopolo.io/code/frp/"
 raw = """
 <p>Maybe you've heard of <a href="https://facebook.github.io/react/">React</a>, <a href="https://github.com/swannodette/om">Om</a>,
 or <a href="http://elm-lang.org/">Elm</a>, and wondering: what's the deal with

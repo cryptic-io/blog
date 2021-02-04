@@ -1,7 +1,6 @@
 
 +++
 title = "Visualization 1"
-originalLink = "https://blog.mediocregopher.com/2018/11/12/viz-1.html"
 date = 2018-11-12T00:00:00.000Z
 template = "html_content/raw.html"
 summary = """
@@ -10,6 +9,7 @@ on my normal websit..."""
 
 [extra]
 author = "Brian Picciano"
+originalLink = "https://blog.mediocregopher.com/2018/11/12/viz-1.html"
 raw = """
 <p>First I want to appologize if you’ve seen this already, I originally had this up
 on my normal website, but I’ve decided to instead consolidate all my work to my

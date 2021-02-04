@@ -1,7 +1,6 @@
 
 +++
 title = "Ginger"
-originalLink = "https://blog.mediocregopher.com/2021/01/09/ginger.html"
 date = 2021-01-09T00:00:00.000Z
 template = "html_content/raw.html"
 summary = """
@@ -10,6 +9,7 @@ for a long time. I’..."""
 
 [extra]
 author = "Brian Picciano"
+originalLink = "https://blog.mediocregopher.com/2021/01/09/ginger.html"
 raw = """
 <p>This post is about a programming language that’s been bouncing around in my head
 for a <em>long</em> time. I’ve tried to actually implement the language three or more

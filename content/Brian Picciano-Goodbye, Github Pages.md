@@ -1,7 +1,6 @@
 
 +++
 title = "Goodbye, Github Pages"
-originalLink = "https://blog.mediocregopher.com/2021/01/23/goodbye-github-pages.html"
 date = 2021-01-23T00:00:00.000Z
 template = "html_content/raw.html"
 summary = """
@@ -10,6 +9,7 @@ self-hosted, and this blog was..."""
 
 [extra]
 author = "Brian Picciano"
+originalLink = "https://blog.mediocregopher.com/2021/01/23/goodbye-github-pages.html"
 raw = """
 <p>Slowly but surely I’m working on moving my digital life back to being
 self-hosted, and this blog was an easy low-hanging fruit to tackle. Previously

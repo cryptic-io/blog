@@ -1,13 +1,13 @@
 
 +++
 title = "Wasm is the future of serverless. Terrafirma, serverless wasm functions."
-originalLink = "https://marcopolo.io/code/terrafirma/"
 date = 2019-11-06T00:00:00.000Z
 template = "html_content/raw.html"
 summary = "When I ran into Fastly's Terrarium, the appeal of Webassembly (wasm) finally clicked for me. We coul..."
 
 [extra]
 author = "Marco"
+originalLink = "https://marcopolo.io/code/terrafirma/"
 raw = """
 <p>When I ran into Fastly's <a href="https://wasm.fastlylabs.com/">Terrarium</a>, the appeal of Webassembly (wasm) finally clicked for me. We could have lightweight sandboxes and bring in my own language and libraries without the overhead of a full OS VM or <a href="https://blog.iron.io/the-overhead-of-docker-run/">Docker</a>. That's great for the serverless provider, but it's also great for the end user. Less overhead means faster startup time and less total cost.</p>
 <h2 id="how-much-faster">How much faster?</h2>

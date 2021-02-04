@@ -1,7 +1,6 @@
 
 +++
 title = "Visualization 3"
-originalLink = "https://blog.mediocregopher.com/2020/07/07/viz-3.html"
 date = 2020-07-07T00:00:00.000Z
 template = "html_content/raw.html"
 summary = """
@@ -10,6 +9,7 @@ pixels is chosen. Eac..."""
 
 [extra]
 author = "Brian Picciano"
+originalLink = "https://blog.mediocregopher.com/2020/07/07/viz-3.html"
 raw = """
 <canvas id="canvas" style="padding-bottom: 2rem;"></canvas>
 

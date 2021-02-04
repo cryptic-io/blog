@@ -1,13 +1,13 @@
 
 +++
 title = "From C to Rust to C again. Or: Re-exporting C exports in Rust"
-originalLink = "https://marcopolo.io/code/from-c-to-rust-to-c/"
 date = 2019-12-12T00:00:00.000Z
 template = "html_content/raw.html"
 summary = "The only difference between being a grown up and being a kid, in my experience, is as a grown up, yo..."
 
 [extra]
 author = "Marco"
+originalLink = "https://marcopolo.io/code/from-c-to-rust-to-c/"
 raw = """
 <p>The only difference between being a grown up and being a kid, in my experience, is as a grown up, you have much fewer people who are willing to play the game <em>telephone</em> with you. Luckily for me, I have access to a computer, a C compiler, and a Rust compiler. Let me show you how I played telephone with Rust &amp; C.</p>
 <p>tl;dr:</p>

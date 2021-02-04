@@ -1,7 +1,6 @@
 
 +++
 title = "Building Mobile Nebula"
-originalLink = "https://blog.mediocregopher.com/2021/01/30/building-mobile-nebula.html"
 date = 2021-01-30T00:00:00.000Z
 template = "html_content/raw.html"
 summary = """
@@ -10,6 +9,7 @@ resolver configuratio..."""
 
 [extra]
 author = "Brian Picciano"
+originalLink = "https://blog.mediocregopher.com/2021/01/30/building-mobile-nebula.html"
 raw = """
 <p>This post is going to be cheating a bit. I want to start working on adding DNS
 resolver configuration to the <a href="https://github.com/DefinedNet/mobile_nebula">mobile nebula</a> app (if you don’t

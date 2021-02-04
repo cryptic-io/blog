@@ -1,7 +1,6 @@
 
 +++
 title = "I moved my blog over to Zola, you should too"
-originalLink = "https://marcopolo.io/code/migrating-to-zola/"
 date = 2019-08-22T00:00:00.000Z
 template = "html_content/raw.html"
 summary = """
@@ -11,6 +10,7 @@ the time. You c..."""
 
 [extra]
 author = "Marco"
+originalLink = "https://marcopolo.io/code/migrating-to-zola/"
 raw = """
 <h1 id="blogging">Blogging</h1>
 <p>I started this blog like many other folks, on GitHub Pages. It was great at

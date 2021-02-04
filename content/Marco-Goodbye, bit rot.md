@@ -1,7 +1,6 @@
 
 +++
 title = "Goodbye, bit rot"
-originalLink = "https://marcopolo.io/code/goodbye-bit-rot/"
 date = 2021-02-01T00:00:00.000Z
 template = "html_content/raw.html"
 summary = """
@@ -11,6 +10,7 @@ That's a photo of Smalltalk 76 running the prototypical desktop UI. It..."""
 
 [extra]
 author = "Marco"
+originalLink = "https://marcopolo.io/code/goodbye-bit-rot/"
 raw = """
 <p>Take a look at this picture:</p>
 <p><img src="https://marcopolo.io/code/goodbye-bit-rot/smalltalk-76.png" alt="Smalltalk 76" /></p>

@@ -1,7 +1,6 @@
 
 +++
 title = "Trading in the Rain"
-originalLink = "https://blog.mediocregopher.com/2020/04/26/trading-in-the-rain.html"
 date = 2020-04-26T00:00:00.000Z
 template = "html_content/raw.html"
 summary = """
@@ -11,6 +10,7 @@ API ..."""
 
 [extra]
 author = "Brian Picciano"
+originalLink = "https://blog.mediocregopher.com/2020/04/26/trading-in-the-rain.html"
 raw = """
 <!-- MIDI.js -->
 <!-- polyfill -->

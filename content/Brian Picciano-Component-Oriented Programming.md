@@ -1,7 +1,6 @@
 
 +++
 title = "Component-Oriented Programming"
-originalLink = "https://blog.mediocregopher.com/2020/11/16/component-oriented-programming.html"
 date = 2020-11-16T00:00:00.000Z
 template = "html_content/raw.html"
 summary = """
@@ -11,6 +10,7 @@ framework developed to make designing component-based prog..."""
 
 [extra]
 author = "Brian Picciano"
+originalLink = "https://blog.mediocregopher.com/2020/11/16/component-oriented-programming.html"
 raw = """
 <p><a href="/2019/08/02/program-structure-and-composability.html">A previous post in this
 blog</a> focused on a

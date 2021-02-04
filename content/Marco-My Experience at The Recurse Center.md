@@ -1,13 +1,13 @@
 
 +++
 title = "My Experience at The Recurse Center"
-originalLink = "https://marcopolo.io/code/my-recurse-experience/"
 date = 2019-08-23T00:00:00.000Z
 template = "html_content/raw.html"
 summary = "The Recurse Center is this magical place where hours fly by, and you can be as distracted or as focu..."
 
 [extra]
 author = "Marco"
+originalLink = "https://marcopolo.io/code/my-recurse-experience/"
 raw = """
 <p><a href="https://www.recurse.com/">The Recurse Center</a> is this magical place where hours fly by, and you can be as distracted or as focused as you choose to be. It's composed of two nice floors of a building in downtown Brooklyn. They provide a space where you can progress on your own programming specific goals at your own self direction.</p>
 <p>Some of my best friends are RCers. All of them really enjoyed their time at RC, and would recommend it to anyone who would listen. With glowing praise from people I deeply respect, how could I not give it a try? It also helped that I had a friend and former co-worker (Fred) applying for a week long batch as well.</p>

@@ -1,7 +1,6 @@
 
 +++
 title = "Interacting with Go from React Native through JSI"
-originalLink = "https://marcopolo.io/code/go-rn-jsi/"
 date = 2019-06-27T00:00:00.000Z
 template = "html_content/raw.html"
 summary = """
@@ -13,6 +12,7 @@ Callin..."""
 
 [extra]
 author = "Marco"
+originalLink = "https://marcopolo.io/code/go-rn-jsi/"
 raw = """
 <h1 id="introduction">Introduction</h1>
 <p>There are 3 parts that let JS talk to Go:</p>

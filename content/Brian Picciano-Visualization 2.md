@@ -1,7 +1,6 @@
 
 +++
 title = "Visualization 2"
-originalLink = "https://blog.mediocregopher.com/2018/11/12/viz-2.html"
 date = 2018-11-12T00:00:00.000Z
 template = "html_content/raw.html"
 summary = """
@@ -12,6 +11,7 @@ This visualization builds on the previous. Structurally the cartesian gr..."""
 
 [extra]
 author = "Brian Picciano"
+originalLink = "https://blog.mediocregopher.com/2018/11/12/viz-2.html"
 raw = """
 <script src="/assets/viz/2/goog/base.js"></script>
 

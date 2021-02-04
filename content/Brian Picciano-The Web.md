@@ -1,7 +1,6 @@
 
 +++
 title = "The Web"
-originalLink = "https://blog.mediocregopher.com/2021/01/14/the-web.html"
 date = 2021-01-14T00:00:00.000Z
 template = "html_content/raw.html"
 summary = """
@@ -10,6 +9,7 @@ in the world about so..."""
 
 [extra]
 author = "Brian Picciano"
+originalLink = "https://blog.mediocregopher.com/2021/01/14/the-web.html"
 raw = """
 <p>With the recent crisis in the US’s democratic process, there’s been much abuzz
 in the world about social media’s undoubted role in the whole debacle. The

@@ -1,7 +1,6 @@
 
 +++
 title = 'Thoughts on "Why is React doing this?"'
-originalLink = "https://marcopolo.io/code/why-react-response/"
 date = 2019-09-06T00:00:00.000Z
 template = "html_content/raw.html"
 summary = """
@@ -11,6 +10,7 @@ Disclaimer: I wa..."""
 
 [extra]
 author = "Marco"
+originalLink = "https://marcopolo.io/code/why-react-response/"
 raw = """
 <h1 id="response-to-why-react">Response to <a href="https://gist.github.com/sebmarkbage/a5ef436427437a98408672108df01919">Why React?</a></h1>
 <p>Some quick thoughts I had after reading the <a href="https://gist.github.com/sebmarkbage/a5ef436427437a98408672108df01919">Why React?</a> gist.</p>

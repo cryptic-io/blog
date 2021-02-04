@@ -1,7 +1,6 @@
 
 +++
 title = "Program Structure and Composability"
-originalLink = "https://blog.mediocregopher.com/2019/08/02/program-structure-and-composability.html"
 date = 2019-08-02T00:00:00.000Z
 template = "html_content/raw.html"
 summary = """
@@ -11,6 +10,7 @@ This post is focused on a concept I call “program structure,” which I will t
 
 [extra]
 author = "Brian Picciano"
+originalLink = "https://blog.mediocregopher.com/2019/08/02/program-structure-and-composability.html"
 raw = """
 <h2 id="part-0-introduction">Part 0: Introduction</h2>
 
