@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
+
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+
+        <title>Visualization 3 | Cryptic – Blog</title>
+<meta content="Visualization 3 | Cryptic – Blog" property="og:title"/><meta content="Visualization 3 | Cryptic – Blog" name="twitter:title"/>
+
+        
+
+        <meta property="og:site_name" content="Cryptic – Blog" />
+        <meta property="og:url" content="https:&#x2F;&#x2F;blog.cryptic.io" />
+
+        
+
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;base.css" />
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+        <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;fontawesome&#x2F;fontawesome.css" rel="stylesheet">
+        <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;fontawesome&#x2F;brands.css" rel="stylesheet">
+        <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;fontawesome&#x2F;solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="Cryptic – Blog" href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;atom.xml">
+
+        
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="l-header">
+            <h1 class="c-title p-title"><a href="https:&#x2F;&#x2F;blog.cryptic.io" class="p-title__link">Cryptic – Blog</a></h1>
+            </header>
+
+        <main id="main" class="l-main">
+            <article class="p-article">
+<header>
+  <h1>Visualization 3
+</h1>
+  <div>
+    <div class="c-time">
+      <time datetime="2020-07-07">
+        2020-07-07
+      </time>
+      by Brian Picciano
+       - (3 min read)
+    </div>
+  </div>
+</header>
+
+<section class="p-article__body" id="js-article">
+  <canvas id="canvas" style="padding-bottom: 2rem;"></canvas>
+
+<p>This visualization is built from the ground up. On every frame a random set of
+pixels is chosen. Each chosen pixel calculates the average of its color and the
+color of a random neighbor. Some random color drift is added in as well. It
+replaces its own color with that calculated color.</p>
+
+<p>Choosing a neighbor is done using the “asteroid rule”, ie a pixel at the very
+top row is considered to be the neighbor of the pixel on the bottom row of the
+same column.</p>
+
+<p>Without the asteroid rule the pixels would all eventually converge into a single
+uniform color, generally a light blue, due to the colors at the edge, the reds,
+being quickly averaged away. With the asteroid rule in place the canvas has no
+edges, thus no position on the canvas is favored and balance can be maintained.</p>
+
+<script type="text/javascript">
+let rectSize = 12;
+
+function randn(n) {
+    return Math.floor(Math.random() * n);
+}
+
+let canvas = document.getElementById("canvas");
+canvas.width = window.innerWidth - (window.innerWidth % rectSize);
+canvas.height = window.innerHeight- (window.innerHeight % rectSize);
+let ctx = canvas.getContext("2d");
+
+let w = canvas.width / rectSize;
+let h = canvas.height / rectSize;
+
+let matrices = new Array(2);
+matrices[0] = new Array(w);
+matrices[1] = new Array(w);
+for (let x = 0; x < w; x++) {
+    matrices[0][x] = new Array(h);
+    matrices[1][x] = new Array(h);
+    for (let y = 0; y < h; y++) {
+        let el = {
+            h: 360 * (x / w),
+            s: "100%",
+            l: "50%",
+        };
+        matrices[0][x][y] = el;
+        matrices[1][x][y] = el;
+    }
+}
+
+// draw initial canvas, from here on out only individual rectangles will be
+// filled as they get updated.
+for (let x = 0; x < w; x++) {
+    for (let y = 0; y < h; y++) {
+        let el = matrices[0][x][y];
+        ctx.fillStyle = `hsl(${el.h}, ${el.s}, ${el.l})`;
+        ctx.fillRect(x * rectSize, y * rectSize, rectSize, rectSize);
+    }
+}
+
+
+let requestAnimationFrame = 
+  window.requestAnimationFrame || 
+  window.mozRequestAnimationFrame || 
+  window.webkitRequestAnimationFrame || 
+  window.msRequestAnimationFrame;
+
+let neighbors = [
+    [-1, -1], [0, -1], [1, -1],
+    [-1, 0], [1, 0],
+    [-1, 1], [0, 1], [1, 1],
+];
+
+function randNeighborAsteroid(matrix, x, y) {
+    let neighborCoord = neighbors[randn(neighbors.length)];
+    let neighborX = x+neighborCoord[0];
+    let neighborY = y+neighborCoord[1];
+    neighborX = (neighborX + w) % w;
+    neighborY = (neighborY + h) % h;
+    return matrix[neighborX][neighborY];
+}
+
+function randNeighbor(matrix, x, y) {
+    while (true) {
+        let neighborCoord = neighbors[randn(neighbors.length)];
+        let neighborX = x+neighborCoord[0];
+        let neighborY = y+neighborCoord[1];
+        if (neighborX < 0 || neighborX >= w || neighborY < 0 || neighborY >= h) {
+            continue;
+        }
+        return matrix[neighborX][neighborY];
+    }
+}
+
+let drift = 10;
+function genChildH(elA, elB) {
+    // set the two h values, h1 <= h2
+    let h1 = elA.h;
+    let h2 = elB.h;
+    if (h1 > h2) {
+        h1 = elB.h;
+        h2 = elA.h;
+    }
+
+    // diff must be between 0 (inclusive) and 360 (exclusive). If it's greater
+    // than 180 then it's not the shortest path around, that must be the other
+    // way around the circle.
+    let hChild;
+    let diff = h2 - h1;
+    if (diff > 180) {
+        diff = 360 - diff;
+        hChild = h2 + (diff / 2);
+    } else {
+        hChild = h1 + (diff / 2);
+    }
+
+    hChild += (Math.random() * drift * 2) - drift;
+    hChild = (hChild + 360) % 360;
+    return hChild;
+}
+
+let tick = 0;
+function doTick() {
+    tick++;
+    let currI = tick % 2;
+    let curr = matrices[currI];
+    let lastI = (tick - 1) % 2;
+    let last = matrices[lastI];
+
+    for (let i = 0; i < (w * h / 2); i++) {
+        let x = randn(w);
+        let y = randn(h);
+        if (curr[x][y].lastTick == tick) continue;
+
+        let neighbor = randNeighborAsteroid(last, x, y);
+        curr[x][y].h = genChildH(curr[x][y], neighbor);
+        curr[x][y].lastTick = tick;
+        ctx.fillStyle = `hsl(${curr[x][y].h}, ${curr[x][y].s}, ${curr[x][y].l})`;
+        ctx.fillRect(x * rectSize, y * rectSize, rectSize, rectSize);
+    }
+
+    matrices[currI] = curr;
+    requestAnimationFrame(doTick);
+}
+
+requestAnimationFrame(doTick);
+
+</script>
+</section>
+<footer>
+  <nav class="c-pagination p-pagination">
+    <div class="c-pagination__ctrl">
+      <div class="c-pagination__newer">
+        <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-component-oriented-programming&#x2F;">Component-Oriented Programming</a>
+      </div>
+      <div class="c-pagination__older">
+        <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;marco-nix-and-small-containers-with-docker-multi-stage-builds&#x2F;">Nix and small containers with Docker multi-stage builds</a>
+      </div>
+    </div>
+  </nav>
+</footer></article>
+        </main>
+
+     
+      <footer class="l-footer">
+          <p class="p-copyright">
+              
+          </p>
+      </footer>
+
+       
+      
+    </body>
+</html>
+            
