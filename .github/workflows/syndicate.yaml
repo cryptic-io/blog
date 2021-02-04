@@ -1,0 +1,35 @@
+name: Syndicate RSS
+
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '13 * * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  syndicate:
+    environment: cachix
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          # Nix Flakes doesn't work on shallow clones
+          fetch-depth: 0
+      - uses: cachix/install-nix-action@v12
+        with:
+          install_url: https://github.com/numtide/nix-flakes-installer/releases/download/nix-2.4pre20210126_f15f0b8/install
+          # Configure Nix to enable flakes
+          extra_nix_config: |
+            experimental-features = nix-command flakes
+      - name: Cachix
+        uses: cachix/cachix-action@v8
+        with:
+          name: cryptic
+          authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
+      - run: nix develop --command syndicateBlogPosts
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          # Required
+          commit_message: "[Bot] Syndicated blog posts"
