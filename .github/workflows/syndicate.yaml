@@ -33,3 +33,5 @@ jobs:
         with:
           # Required
           commit_message: "[Bot] Syndicated blog posts"
+          # MarcoPolloBot
+          token: ${{ secrets.PAT }}
