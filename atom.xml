@@ -4,8 +4,222 @@
   <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2021-02-01T00:00:00+00:00</updated>
+  <updated>2021-02-06T00:00:00+00:00</updated>
   <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Old Code, New Ideas</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2021-02-06T00:00:00+00:00</published>
+    <updated>2021-02-06T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-old-code-new-ideas/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-old-code-new-ideas/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/02/06/old-code-new-ideas.html</id>
+        <link href="https://blog.mediocregopher.com/2021/02/06/old-code-new-ideas.html"/>
+        <title>Old Code, New Ideas</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2021-02-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-old-code-new-ideas/</id>
+    <content type="html">
+        &lt;p&gt;About 3 years ago I put a lot of effort into a set of golang packages called
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;mediocre-go-lib&quot;&gt;mediocre-go-lib&lt;&#x2F;a&gt;. The idea was to create a framework around
+the ideas I had laid out in &lt;a href=&quot;&#x2F;2019&#x2F;08&#x2F;02&#x2F;program-structure-and-composability.html&quot;&gt;this blog post&lt;&#x2F;a&gt; around the
+structure and composability of programs. What I found in using the framework was
+that it was quite bulky, not fully thought out, and ultimately difficult for
+anyone but me to use. So…. a typical framework then.&lt;&#x2F;p&gt;
+
+&lt;p&gt;My ideas about program structure haven’t changed a ton since then, but my ideas
+around the patterns which enable that structure have simplified dramatically
+(see &lt;a href=&quot;&#x2F;2020&#x2F;11&#x2F;16&#x2F;component-oriented-programming.html&quot;&gt;my more recent post&lt;&#x2F;a&gt; for more on that). So in that
+spirit I’ve decided to cut a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;v2&lt;&#x2F;code&gt; branch of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mediocre-go-lib&lt;&#x2F;code&gt; and start trimming
+the fat.&lt;&#x2F;p&gt;
+
+&lt;p&gt;This is going to be an exercise both in deleting old code (very fun) and
+re-examining old code which I used to think was good but now know is bad (even
+more fun), and I’ve been looking forward to it for some time.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;mcmp-mctx&quot;&gt;mcmp, mctx&lt;&#x2F;h2&gt;
+
+&lt;p&gt;The two foundational pieces of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mediocre-go-lib&lt;&#x2F;code&gt; are the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mcmp&lt;&#x2F;code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mctx&lt;&#x2F;code&gt;
+packages. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mcmp&lt;&#x2F;code&gt; primarily deals with its &lt;a href=&quot;https:&#x2F;&#x2F;pkg.go.dev&#x2F;github.com&#x2F;mediocregopher&#x2F;mediocre-go-lib&#x2F;mcmp#Component&quot;&gt;mcmp.Component&lt;&#x2F;a&gt; type,
+which is a key&#x2F;value store which can be used by other packages to store and
+retrieve component-level information. Each &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mcmp.Component&lt;&#x2F;code&gt; exists as a node in
+a tree of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mcmp.Component&lt;&#x2F;code&gt;s, and these form the structure of a program.
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mcmp.Component&lt;&#x2F;code&gt; is able to provide information about its place in that tree as
+well (i.e. its path, parents, children, etc…).&lt;&#x2F;p&gt;
+
+&lt;p&gt;If this sounds cumbersome and of questionable utility that’s because it is. It’s
+also not even correct, because a component in a program exists in a DAG, not a
+tree. Moreover, each component can keep track of whatever data it needs for
+itself using typed fields on a struct. Pretty much all other packages in
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mediocre-go-lib&lt;&#x2F;code&gt; depend on &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mcmp&lt;&#x2F;code&gt; to function, but they don’t &lt;em&gt;need&lt;&#x2F;em&gt; to, I just
+designed it that way.&lt;&#x2F;p&gt;
+
+&lt;p&gt;So my plan of attack is going to be to delete &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mcmp&lt;&#x2F;code&gt; completely, and repair all
+the other packages.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The other foundational piece of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mediocre-go-lib&lt;&#x2F;code&gt; is &lt;a href=&quot;https:&#x2F;&#x2F;pkg.go.dev&#x2F;github.com&#x2F;mediocregopher&#x2F;mediocre-go-lib&#x2F;mctx&quot;&gt;mctx&lt;&#x2F;a&gt;. Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mcmp&lt;&#x2F;code&gt;
+dealt with arbitrary key&#x2F;value storage on the component level, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mctx&lt;&#x2F;code&gt; deals with
+it on the contextual level, where each go-routine (i.e. thread) corresponds to a
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;context.Context&lt;&#x2F;code&gt;. The primary function of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mctx&lt;&#x2F;code&gt; is this one:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-go highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; Annotate takes in one or more key&#x2F;value pairs (kvs&#x27; length must be even) and&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; returns a Context carrying them.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;func&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Annotate&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;ctx&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;context&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Context&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;kvs&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;...&lt;&#x2F;span&gt;&lt;span class=&quot;k&quot;&gt;interface&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;{})&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;context&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Context&lt;&#x2F;span&gt;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;I’m inclined to keep this around for now because it will be useful for logging,
+but there’s one change I’d like to make to it. In its current form the value of
+every key&#x2F;value pair must already exist before being used to annotate the
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;context.Context&lt;&#x2F;code&gt;, but this can be cumbersome in cases where the data you’d want
+to annotate is quite hefty to generate but also not necessarily going to be
+used. I’d like to have the option to make annotating occur lazily.  For this I
+add an &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Annotator&lt;&#x2F;code&gt; interface and a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;WithAnnotator&lt;&#x2F;code&gt; function which takes it as an
+argument, as well as some internal refactoring to make it all work right:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-go highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; Annotations is a set of key&#x2F;value pairs representing a set of annotations. It&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; implements the Annotator interface along with other useful post-processing&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; methods.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;type&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Annotations&lt;&#x2F;span&gt; &lt;span class=&quot;k&quot;&gt;map&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;&#x2F;span&gt;&lt;span class=&quot;k&quot;&gt;interface&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;{}]&lt;&#x2F;span&gt;&lt;span class=&quot;k&quot;&gt;interface&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;{}&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; Annotator is a type which can add annotation data to an existing set of&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; annotations. The Annotate method should be expected to be called in a&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; non-thread-safe manner.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;type&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Annotator&lt;&#x2F;span&gt; &lt;span class=&quot;k&quot;&gt;interface&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;&#x2F;span&gt;
+	&lt;span class=&quot;n&quot;&gt;Annotate&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Annotations&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; WithAnnotator takes in an Annotator and returns a Context which will produce&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; that Annotator&#x27;s annotations when the Annotations function is called. The&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; Annotator will be not be evaluated until the first call to Annotations.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;func&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;WithAnnotator&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;ctx&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;context&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Context&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;annotator&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Annotator&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;context&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Context&lt;&#x2F;span&gt;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Annotator&lt;&#x2F;code&gt; is designed like it is for two reasons. The more obvious design,
+where the method has no arguments and returns a map, would cause a memory
+allocation on every invocation, which could be a drag for long chains of
+contexts whose annotations are being evaluated frequently. The obvious design
+also leaves open questions about whether the returned map can be modified by
+whoever receives it. The design given here dodges these problems without any
+obvious drawbacks.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The original implementation also had this unnecessary &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Annotation&lt;&#x2F;code&gt; type:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-go highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; Annotation describes the annotation of a key&#x2F;value pair made on a Context via&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; the Annotate call.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;type&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Annotation&lt;&#x2F;span&gt; &lt;span class=&quot;k&quot;&gt;struct&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;&#x2F;span&gt;
+       &lt;span class=&quot;n&quot;&gt;Key&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Value&lt;&#x2F;span&gt; &lt;span class=&quot;k&quot;&gt;interface&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;{}&lt;&#x2F;span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;&#x2F;span&gt;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;I don’t know why this was ever needed, as an &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Annotation&lt;&#x2F;code&gt; was never passed into
+nor returned from any function. It was part of the type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;AnnotationSet&lt;&#x2F;code&gt;, but
+that could easily be refactored into a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;map[interface{}]interface{}&lt;&#x2F;code&gt; instead. So
+I factored &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Annotation&lt;&#x2F;code&gt; out completely.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;mcfg-mrun&quot;&gt;mcfg, mrun&lt;&#x2F;h2&gt;
+
+&lt;p&gt;The next package to tackle is &lt;a href=&quot;https:&#x2F;&#x2F;pkg.go.dev&#x2F;github.com&#x2F;mediocregopher&#x2F;mediocre-go-lib&#x2F;mcfg&quot;&gt;mcfg&lt;&#x2F;a&gt;, which deals with configuration via
+command line arguments and environment variables. The package is set up to use
+the old &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mcmp.Component&lt;&#x2F;code&gt; type such that each component could declare its own
+configuration parameters in the global configuration. In this way the
+configuration would have a hierarchy of its own which matches the component
+tree.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Given that I now think &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mcmp.Component&lt;&#x2F;code&gt; isn’t the right course of action it
+would be the natural step to take that aspect out of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mcfg&lt;&#x2F;code&gt;, leaving only a
+basic command-line and environment variable parser. There are many other basic
+parsers of this sort out there, including &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;flagconfig&quot;&gt;one&lt;&#x2F;a&gt; or &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;lever&quot;&gt;two&lt;&#x2F;a&gt; I
+wrote myself, and frankly I don’t think the world needs another. So &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mcfg&lt;&#x2F;code&gt; is
+going away.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https:&#x2F;&#x2F;pkg.go.dev&#x2F;github.com&#x2F;mediocregopher&#x2F;mediocre-go-lib&#x2F;mrun&quot;&gt;mrun&lt;&#x2F;a&gt; package is the corresponding package to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mcfg&lt;&#x2F;code&gt;; where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mcfg&lt;&#x2F;code&gt;
+dealt with configuration of components &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mrun&lt;&#x2F;code&gt; deals with the initialization and
+shutdown of those same components. Like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mcfg&lt;&#x2F;code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mrun&lt;&#x2F;code&gt; relies heavily on
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mcmp.Component&lt;&#x2F;code&gt;, and doesn’t really have any function with that type gone. So
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mrun&lt;&#x2F;code&gt; is a gonner too.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;mlog&quot;&gt;mlog&lt;&#x2F;h2&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https:&#x2F;&#x2F;pkg.go.dev&#x2F;github.com&#x2F;mediocregopher&#x2F;mediocre-go-lib&#x2F;mlog&quot;&gt;mlog&lt;&#x2F;a&gt; package is primarily concerned with, as you might guess,
+logging.  While there are many useful logging packages out there none of them
+integrate with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mctx&lt;&#x2F;code&gt;’s annotations, so it is useful to have a custom logging
+package here. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mlog&lt;&#x2F;code&gt; also has the nice property of not being extremely coupled
+to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mcmp.Component&lt;&#x2F;code&gt; like other packages; it’s only necessary to delete a handful
+of global functions which aren’t a direct part of the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mlog.Logger&lt;&#x2F;code&gt; type in
+order to free the package from that burden.&lt;&#x2F;p&gt;
+
+&lt;p&gt;With that said, the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mlog.Logger&lt;&#x2F;code&gt; type could still use some work. It’s primary
+pattern looks like this:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-go highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; Message describes a message to be logged.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;type&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Message&lt;&#x2F;span&gt; &lt;span class=&quot;k&quot;&gt;struct&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;&#x2F;span&gt;
+	&lt;span class=&quot;n&quot;&gt;Level&lt;&#x2F;span&gt;
+	&lt;span class=&quot;n&quot;&gt;Description&lt;&#x2F;span&gt; &lt;span class=&quot;kt&quot;&gt;string&lt;&#x2F;span&gt;
+	&lt;span class=&quot;n&quot;&gt;Contexts&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;[]&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;context&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Context&lt;&#x2F;span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; Info logs an InfoLevel message.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;func&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;l&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Logger&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Info&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;descr&lt;&#x2F;span&gt; &lt;span class=&quot;kt&quot;&gt;string&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;ctxs&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;...&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;context&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Context&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;&#x2F;span&gt;
+	&lt;span class=&quot;n&quot;&gt;l&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Log&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;mkMsg&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;InfoLevel&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;descr&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;ctxs&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;...&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;&#x2F;span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;&#x2F;span&gt;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;The idea was that if the user has multiple &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Contexts&lt;&#x2F;code&gt; in hand, each one possibly
+having some relevant annotations, all of those &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Context&lt;&#x2F;code&gt;s’ annotations could be
+merged together for the log entry.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Looking back it seems to me that the only thing &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mlog&lt;&#x2F;code&gt; should care about is the
+annotations, and not &lt;em&gt;where&lt;&#x2F;em&gt; those annotations came from. So the new pattern
+looks like this:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-go highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; Message describes a message to be logged.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;type&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Message&lt;&#x2F;span&gt; &lt;span class=&quot;k&quot;&gt;struct&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;&#x2F;span&gt;
+	&lt;span class=&quot;n&quot;&gt;Context&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;context&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Context&lt;&#x2F;span&gt;
+	&lt;span class=&quot;n&quot;&gt;Level&lt;&#x2F;span&gt;
+	&lt;span class=&quot;n&quot;&gt;Description&lt;&#x2F;span&gt; &lt;span class=&quot;kt&quot;&gt;string&lt;&#x2F;span&gt;
+	&lt;span class=&quot;n&quot;&gt;Annotators&lt;&#x2F;span&gt;  &lt;span class=&quot;p&quot;&gt;[]&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Annotators&lt;&#x2F;span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; Info logs a LevelInfo message.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;func&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;l&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Logger&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Info&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;ctx&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;context&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Context&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;descr&lt;&#x2F;span&gt; &lt;span class=&quot;kt&quot;&gt;string&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;annotators&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;...&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;mctx&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Annotator&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;The annotations on the given &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Context&lt;&#x2F;code&gt; will be included, and then any further
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Annotator&lt;&#x2F;code&gt;s can be added on. This will leave room for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;merr&lt;&#x2F;code&gt; later.&lt;&#x2F;p&gt;
+
+&lt;p&gt;There’s some other warts in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mlog.Logger&lt;&#x2F;code&gt; that should be dealt with as well,
+including some extraneous methods which were only used due to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mcmp.Component&lt;&#x2F;code&gt;,
+some poorly named types, a message handler which didn’t properly clean itself
+up, and making &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;NewLogger&lt;&#x2F;code&gt; take in parameters with which it can be customized as
+needed (previously it only allowed for a single configuration). I’ve also
+extended &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Message&lt;&#x2F;code&gt; to include a timestamp, a namespace field, and some other
+useful information.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;future-work&quot;&gt;Future Work&lt;&#x2F;h2&gt;
+
+&lt;p&gt;I’ve run out of time for today, but future work on this package includes:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Updating &lt;a href=&quot;https:&#x2F;&#x2F;pkg.go.dev&#x2F;github.com&#x2F;mediocregopher&#x2F;mediocre-go-lib&#x2F;merr&quot;&gt;merr&lt;&#x2F;a&gt; with support for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mctx.Annotations&lt;&#x2F;code&gt;.&lt;&#x2F;li&gt;
+  &lt;li&gt;Auditing the &lt;a href=&quot;https:&#x2F;&#x2F;pkg.go.dev&#x2F;github.com&#x2F;mediocregopher&#x2F;mediocre-go-lib&#x2F;mnet&quot;&gt;mnet&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;pkg.go.dev&#x2F;github.com&#x2F;mediocregopher&#x2F;mediocre-go-lib&#x2F;mhttp&quot;&gt;mhttp&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;pkg.go.dev&#x2F;github.com&#x2F;mediocregopher&#x2F;mediocre-go-lib&#x2F;mrpc&quot;&gt;mrpc&lt;&#x2F;a&gt; packages to see if
+they contain anything worth keeping.&lt;&#x2F;li&gt;
+  &lt;li&gt;Probably deleting the &lt;a href=&quot;https:&#x2F;&#x2F;pkg.go.dev&#x2F;github.com&#x2F;mediocregopher&#x2F;mediocre-go-lib&#x2F;m&quot;&gt;m&lt;&#x2F;a&gt; package entirely; I don’t even really remember
+what it does.&lt;&#x2F;li&gt;
+  &lt;li&gt;Probably deleting the &lt;a href=&quot;https:&#x2F;&#x2F;pkg.go.dev&#x2F;github.com&#x2F;mediocregopher&#x2F;mediocre-go-lib&#x2F;mdb&quot;&gt;mdb&lt;&#x2F;a&gt; package entirely; it only makes sense in the
+context of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mcmp.Component&lt;&#x2F;code&gt;.&lt;&#x2F;li&gt;
+  &lt;li&gt;Making a difficult decision about &lt;a href=&quot;https:&#x2F;&#x2F;pkg.go.dev&#x2F;github.com&#x2F;mediocregopher&#x2F;mediocre-go-lib&#x2F;mtest&quot;&gt;mtest&lt;&#x2F;a&gt;; I put a lot of work into it,
+but is it really any better than &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;stretchr&#x2F;testify&quot;&gt;testify&lt;&#x2F;a&gt;?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+      
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Goodbye, bit rot</title>
         <author>
