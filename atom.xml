@@ -4,8 +4,241 @@
   <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2021-02-06T00:00:00+00:00</updated>
+  <updated>2021-02-13T00:00:00+00:00</updated>
   <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Building gomobile Using Nix</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2021-02-13T00:00:00+00:00</published>
+    <updated>2021-02-13T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-building-gomobile-using-nix/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-building-gomobile-using-nix/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/02/13/building-gomobile-using-nix.html</id>
+        <link href="https://blog.mediocregopher.com/2021/02/13/building-gomobile-using-nix.html"/>
+        <title>Building gomobile Using Nix</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2021-02-13T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-building-gomobile-using-nix/</id>
+    <content type="html">
+        &lt;p&gt;When I last left off with the nebula project I wanted to &lt;a href=&quot;https:&#x2F;&#x2F;nixos.org&#x2F;manual&#x2F;nix&#x2F;stable&#x2F;&quot;&gt;nix&lt;&#x2F;a&gt;-ify the
+build process for Cryptic’s &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;cryptic-io&#x2F;mobile_nebula&quot;&gt;mobile_nebula&lt;&#x2F;a&gt; fork. While I’ve made
+progress on the overall build, one particular bit of it really held me up, so
+I’m writing about that part here. I’ll finish the full build at a later time.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;gomobile&quot;&gt;gomobile&lt;&#x2F;h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;golang&#x2F;mobile&quot;&gt;gomobile&lt;&#x2F;a&gt; is a toolkit for the go programming language to allow for
+running go code on Android and iOS devices. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mobile_nebula&lt;&#x2F;code&gt; uses &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gomobile&lt;&#x2F;code&gt; to
+build a simple wrapper around the nebula client that the mobile app can then
+hook into.&lt;&#x2F;p&gt;
+
+&lt;p&gt;This means that in order to nix-ify the entire &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mobile_nebula&lt;&#x2F;code&gt; project I first
+need to nix-ify &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gomobile&lt;&#x2F;code&gt;, and since there isn’t (at time of writing) an
+existing package for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gomobile&lt;&#x2F;code&gt; in the nixpkgs repo, I had to roll my own.&lt;&#x2F;p&gt;
+
+&lt;p&gt;I started with a simple &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;buildGoModule&lt;&#x2F;code&gt; nix expression:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;pkgs.buildGoModule {
+    pname = &quot;gomobile&quot;;
+    version = &quot;unstable-2020-12-17&quot;;
+    src = pkgs.fetchFromGitHub {
+        owner = &quot;golang&quot;;
+        repo = &quot;mobile&quot;;
+        rev = &quot;e6ae53a27f4fd7cfa2943f2ae47b96cba8eb01c9&quot;;
+        sha256 = &quot;03dzis3xkj0abcm4k95w2zd4l9ygn0rhkj56bzxbcpwa7idqhd62&quot;;
+    };
+    vendorSha256 = &quot;1n1338vqkc1n8cy94501n7jn3qbr28q9d9zxnq2b4rxsqjfc9l94&quot;;
+}
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;The basic idea here is that &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;buildGoModule&lt;&#x2F;code&gt; will acquire a specific revision of
+the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gomobile&lt;&#x2F;code&gt; source code from github, then attempt to build it. However,
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gomobile&lt;&#x2F;code&gt; is a special beast in that it requires a number of C&#x2F;C++ libraries in
+order to be built. I discovered this upon running this expression, when I
+received this error:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.&#x2F;work.h:12:10: fatal error: GLES3&#x2F;gl3.h: No such file or directory
+   12 | #include &amp;lt;GLES3&#x2F;gl3.h&amp;gt; &#x2F;&#x2F; install on Ubuntu with: sudo apt-get install libegl1-mesa-dev libgles2-mesa-dev libx11-dev
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;This stumped me for a bit, as I couldn’t figure out a) the “right” place to
+source the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;GLES3&lt;&#x2F;code&gt; header file from, and b) how to properly hook that into the
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;buildGoModule&lt;&#x2F;code&gt; expression. My initial attempts involved trying to include
+versions of the header file from my &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;androidsdk&lt;&#x2F;code&gt; nix package which I had already
+gotten (mostly) working, but the version which ships there appears to expect to
+be using clang. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cgo&lt;&#x2F;code&gt; (go’s compiler which is used for C&#x2F;C++ interop) only
+supports gcc, so that strategy failed.&lt;&#x2F;p&gt;
+
+&lt;p&gt;I didn’t like having to import the header file from &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;androidsdk&lt;&#x2F;code&gt; anyway, as it
+meant that my &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gomobile&lt;&#x2F;code&gt; would only work within the context of the
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mobile_nebula&lt;&#x2F;code&gt; project, rather than being a standalone utility.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;nix-index&quot;&gt;nix-index&lt;&#x2F;h2&gt;
+
+&lt;p&gt;At this point I flailed around some more trying to figure out where to get this
+header file from. Eventually I stumbled on the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bennofs&#x2F;nix-index&quot;&gt;nix-index&lt;&#x2F;a&gt; project,
+which implements something similar to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;locate&lt;&#x2F;code&gt; utility on linux: you give it
+a file pattern, and it searches your active nix channels for any packages which
+provide a file matching that pattern.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Since nix is amazing it’s not actually necessary to install &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nix-index&lt;&#x2F;code&gt;, I
+simply start up a shell with the package available using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nix-shell -p
+nix-index&lt;&#x2F;code&gt;. On first run I needed to populate the index by running the
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nix-index&lt;&#x2F;code&gt; command, which took some time, but after that finding packages which
+provide the file I need is as easy as:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; nix-shell -p nix-index
+[nix-shell:&#x2F;tmp]$ nix-locate GLES3&#x2F;gl3.h
+(zulip.out)                                      82,674 r &#x2F;nix&#x2F;store&#x2F;wbfw7w2ixdp317wip77d4ji834v1k1b9-libglvnd-1.3.2-dev&#x2F;include&#x2F;GLES3&#x2F;gl3.h
+libglvnd.dev                                     82,674 r &#x2F;nix&#x2F;store&#x2F;pghxzmnmxdcarg5bj3js9csz0h85g08m-libglvnd-1.3.2-dev&#x2F;include&#x2F;GLES3&#x2F;gl3.h
+emscripten.out                                   82,666 r &#x2F;nix&#x2F;store&#x2F;x3c4y2h5rn1jawybk48r6glzs1jl029s-emscripten-2.0.1&#x2F;share&#x2F;emscripten&#x2F;system&#x2F;include&#x2F;GLES3&#x2F;gl3.h
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;So my mystery file is provided by a few packages, but &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;libglvnd.dev&lt;&#x2F;code&gt; stood out
+to me as it’s also the pacman package which provides the same file in my real
+operating system:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; yay -Qo &#x2F;usr&#x2F;include&#x2F;GLES3&#x2F;gl3.h
+&#x2F;usr&#x2F;include&#x2F;GLES3&#x2F;gl3.h is owned by libglvnd 1.3.2-1
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;This gave me some confidence that this was the right track.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;cgo&quot;&gt;cgo&lt;&#x2F;h2&gt;
+
+&lt;p&gt;My next fight was with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cgo&lt;&#x2F;code&gt; itself. Go’s build process provides a few different
+entry points for C&#x2F;C++ compiler&#x2F;linker flags, including both environment
+variables and command-line arguments. But I wasn’t using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;go build&lt;&#x2F;code&gt; directly,
+instead I was working through nix’s &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;buildGoModule&lt;&#x2F;code&gt; wrapper. This added a huge
+layer of confusion as all of nixpkgs is pretty terribly documented, so you
+really have to just divine behavior from the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;NixOS&#x2F;nixpkgs&#x2F;blob&#x2F;26117ed4b78020252e49fe75f562378063471f71&#x2F;pkgs&#x2F;development&#x2F;go-modules&#x2F;generic&#x2F;default.nix&quot;&gt;source&lt;&#x2F;a&gt;
+(good luck).&lt;&#x2F;p&gt;
+
+&lt;p&gt;After lots of debugging (hint: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;NIX_DEBUG=1&lt;&#x2F;code&gt;) I determined that all which is
+actually needed is to set the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CGO_CFLAGS&lt;&#x2F;code&gt; variable within the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;buildGoModule&lt;&#x2F;code&gt;
+arguments. This would translate to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CGO_CFLAGS&lt;&#x2F;code&gt; environment variable being
+set during all internal commands, and whatever &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;go build&lt;&#x2F;code&gt; commands get used
+would pick up my compiler flags from that.&lt;&#x2F;p&gt;
+
+&lt;p&gt;My new nix expression looked like this:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;pkgs.buildGoModule {
+    pname = &quot;gomobile&quot;;
+    version = &quot;unstable-2020-12-17&quot;;
+    src = pkgs.fetchFromGitHub {
+        owner = &quot;golang&quot;;
+        repo = &quot;mobile&quot;;
+        rev = &quot;e6ae53a27f4fd7cfa2943f2ae47b96cba8eb01c9&quot;;
+        sha256 = &quot;03dzis3xkj0abcm4k95w2zd4l9ygn0rhkj56bzxbcpwa7idqhd62&quot;;
+    };
+    vendorSha256 = &quot;1n1338vqkc1n8cy94501n7jn3qbr28q9d9zxnq2b4rxsqjfc9l94&quot;;
+
+    CGO_CFLAGS = [
+        &quot;-I ${pkgs.libglvnd.dev}&#x2F;include&quot;
+    ];
+}
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;Running this produced a new error. Progress! The new error was:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&#x2F;nix&#x2F;store&#x2F;p792j5f44l3f0xi7ai5jllwnxqwnka88-binutils-2.31.1&#x2F;bin&#x2F;ld: cannot find -lGLESv2
+collect2: error: ld returned 1 exit status
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;So pretty similar to the previous issue, but this time the linker wasn’t finding
+a library file rather than the compiler not finding a header file. Once again I
+used &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nix-index&lt;&#x2F;code&gt;’s &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nix-locate&lt;&#x2F;code&gt; command to find that this library file is
+provided by the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;libglvnd&lt;&#x2F;code&gt; package (as opposed to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;libglvnd.dev&lt;&#x2F;code&gt;, which provided
+the header file).&lt;&#x2F;p&gt;
+
+&lt;p&gt;Adding &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;libglvnd&lt;&#x2F;code&gt; to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CGO_CFLAGS&lt;&#x2F;code&gt; did not work, as it turns out that flags
+for the linker &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cgo&lt;&#x2F;code&gt; uses get passed in via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CGO_LDFLAGS&lt;&#x2F;code&gt; (makes sense). After
+adding this new variable I got yet another error; this time &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X11&#x2F;Xlib.h&lt;&#x2F;code&gt; was not
+able to be found. I repeated the process of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nix-locate&lt;&#x2F;code&gt;&#x2F;add to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CGO_*FLAGS&lt;&#x2F;code&gt; a
+few more times until all dependencies were accounted for. The new nix expression
+looked like this:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;pkgs.buildGoModule {
+    pname = &quot;gomobile&quot;;
+    version = &quot;unstable-2020-12-17&quot;;
+    src = pkgs.fetchFromGitHub {
+        owner = &quot;golang&quot;;
+        repo = &quot;mobile&quot;;
+        rev = &quot;e6ae53a27f4fd7cfa2943f2ae47b96cba8eb01c9&quot;;
+        sha256 = &quot;03dzis3xkj0abcm4k95w2zd4l9ygn0rhkj56bzxbcpwa7idqhd62&quot;;
+    };
+    vendorSha256 = &quot;1n1338vqkc1n8cy94501n7jn3qbr28q9d9zxnq2b4rxsqjfc9l94&quot;;
+
+    CGO_CFLAGS = [
+        &quot;-I ${pkgs.libglvnd.dev}&#x2F;include&quot;
+        &quot;-I ${pkgs.xlibs.libX11.dev}&#x2F;include&quot;
+        &quot;-I ${pkgs.xlibs.xorgproto}&#x2F;include&quot;
+        &quot;-I ${pkgs.openal}&#x2F;include&quot;
+    ];
+
+    CGO_LDFLAGS = [
+        &quot;-L ${pkgs.libglvnd}&#x2F;lib&quot;
+        &quot;-L ${pkgs.xlibs.libX11}&#x2F;lib&quot;
+        &quot;-L ${pkgs.openal}&#x2F;lib&quot;
+    ];
+}
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;h2 id=&quot;tests&quot;&gt;Tests&lt;&#x2F;h2&gt;
+
+&lt;p&gt;The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CGO_*FLAGS&lt;&#x2F;code&gt; variables took care of all compiler&#x2F;linker errors, but there
+was one issue left: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;buildGoModule&lt;&#x2F;code&gt; apparently runs the project’s tests after
+the build phase. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gomobile&lt;&#x2F;code&gt;’s tests were actually mostly passing, but some
+failed due to trying to copy files around, which nix was having none of. After
+some more &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;NixOS&#x2F;nixpkgs&#x2F;blob&#x2F;26117ed4b78020252e49fe75f562378063471f71&#x2F;pkgs&#x2F;development&#x2F;go-modules&#x2F;generic&#x2F;default.nix&quot;&gt;buildGoModule source&lt;&#x2F;a&gt; divination I found that
+if I passed an empty &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;checkPhase&lt;&#x2F;code&gt; argument it would skip the check phase, and
+therefore skip running these tests.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;fin&quot;&gt;Fin!&lt;&#x2F;h2&gt;
+
+&lt;p&gt;The final nix expression looks like so:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;pkgs.buildGoModule {
+    pname = &quot;gomobile&quot;;
+    version = &quot;unstable-2020-12-17&quot;;
+    src = pkgs.fetchFromGitHub {
+        owner = &quot;golang&quot;;
+        repo = &quot;mobile&quot;;
+        rev = &quot;e6ae53a27f4fd7cfa2943f2ae47b96cba8eb01c9&quot;;
+        sha256 = &quot;03dzis3xkj0abcm4k95w2zd4l9ygn0rhkj56bzxbcpwa7idqhd62&quot;;
+    };
+    vendorSha256 = &quot;1n1338vqkc1n8cy94501n7jn3qbr28q9d9zxnq2b4rxsqjfc9l94&quot;;
+
+    CGO_CFLAGS = [
+        &quot;-I ${pkgs.libglvnd.dev}&#x2F;include&quot;
+        &quot;-I ${pkgs.xlibs.libX11.dev}&#x2F;include&quot;
+        &quot;-I ${pkgs.xlibs.xorgproto}&#x2F;include&quot;
+        &quot;-I ${pkgs.openal}&#x2F;include&quot;
+    ];
+
+    CGO_LDFLAGS = [
+        &quot;-L ${pkgs.libglvnd}&#x2F;lib&quot;
+        &quot;-L ${pkgs.xlibs.libX11}&#x2F;lib&quot;
+        &quot;-L ${pkgs.openal}&#x2F;lib&quot;
+    ];
+
+    checkPhase = &quot;&quot;;
+}
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;Once I complete the nix-ification of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mobile_nebula&lt;&#x2F;code&gt; I’ll submit a PR to the
+nixpkgs upstream with this, so that others can have &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gomobile&lt;&#x2F;code&gt; available as
+well!&lt;&#x2F;p&gt;
+      
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Old Code, New Ideas</title>
         <author>
