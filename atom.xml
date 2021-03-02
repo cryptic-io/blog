@@ -4,8 +4,208 @@
   <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2021-02-13T00:00:00+00:00</updated>
+  <updated>2021-03-01T00:00:00+00:00</updated>
   <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Conditionals in Ginger</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2021-03-01T00:00:00+00:00</published>
+    <updated>2021-03-01T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-conditionals-in-ginger/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-conditionals-in-ginger/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/03/01/conditionals-in-ginger.html</id>
+        <link href="https://blog.mediocregopher.com/2021/03/01/conditionals-in-ginger.html"/>
+        <title>Conditionals in Ginger</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2021-03-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-conditionals-in-ginger/</id>
+    <content type="html">
+        &lt;p&gt;In the &lt;a href=&quot;&#x2F;2021&#x2F;01&#x2F;09&#x2F;ginger.html&quot;&gt;last ginger post&lt;&#x2F;a&gt; I covered a broad overview of how I envisioned
+ginger would work as a language, but there were two areas where I felt there was
+some uncertainty: conditionals and loops. In this post I will be focusing on
+conditionals, and going over a couple of options for how they could work.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;preface&quot;&gt;Preface&lt;&#x2F;h2&gt;
+
+&lt;p&gt;By “conditional” I’m referring to what programmers generally know as the “if”
+statement; some mechanism by which code can do one thing or another based on
+circumstances at runtime. Without some form of a conditional a programming
+language is not Turing-complete and can’t be used for anything interesting.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Given that it’s uncommon to have a loop without some kind of a conditional
+inside of it (usually to exit the loop), but it’s quite common to have a
+conditional with no loop in sight, it makes more sense to cover conditionals
+before loops. Whatever decision is reached regarding conditionals will impact
+how loops work, but not necessarily the other way around.&lt;&#x2F;p&gt;
+
+&lt;p&gt;For the duration of this post I will be attempting to construct a simple
+operation which takes two integers as arguments. If the first is less than
+the second then the operation returns the addition of the two, otherwise the
+operation returns the second subtracted from the first. In &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;go&lt;&#x2F;code&gt; this operation
+would look like:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-go highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;func&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;op&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;&#x2F;span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;&#x2F;span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;&#x2F;span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;&#x2F;span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;&#x2F;span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;&#x2F;span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;&#x2F;span&gt;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;h2 id=&quot;pattern-1-branches-as-inputs&quot;&gt;Pattern 1: Branches As Inputs&lt;&#x2F;h2&gt;
+
+&lt;p&gt;The pattern I’ll lay out here is simultaneously the first pattern which came to
+me when trying to figure this problem out, the pattern which is most like
+existing mainstream programming languages, and (in my opinion) the worst pattern
+of the bunch. Here is what it looks like:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;        in -lt-&amp;gt; } -if-&amp;gt; out
+                 }
+       in -add-&amp;gt; }
+                 }
+in -1-&amp;gt; }        }
+in -0-&amp;gt; } -sub-&amp;gt; }
+
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;The idea here is that the operation &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; could take a 3-tuple whose elements
+are, respectively: a boolean, and two other edges which won’t be evaluated until
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; is evaluated. If the boolean is true then &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; outputs the output of the
+first edge (the second element in the tuple), and otherwise it will output the
+value of the second edge.&lt;&#x2F;p&gt;
+
+&lt;p&gt;This idea doesn’t work for a couple reasons. The biggest is that, if there were
+multiple levels of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; statements, the structure of the graph grows out
+&lt;em&gt;leftward&lt;&#x2F;em&gt;, whereas the flow of data is rightwards. For someone reading the code
+to know what &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; will produce in either case they must first backtrack through
+the graph, find the origin of that branch, then track that leftward once again
+to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The other reason this doesn’t work is because it doesn’t jive with any pattern
+for loops I’ve come up with. This isn’t evident from this particular example,
+but consider what this would look like if either branch of the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; needed to
+loop back to a previous point in the codepath. If that’s a difficult or
+confusing task for you, you’re not alone.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;pattern-2-pattern-matching&quot;&gt;Pattern 2: Pattern Matching&lt;&#x2F;h2&gt;
+
+&lt;p&gt;There’s quite a few languages with pattern matching, and even one which I know
+of (erlang) where pattern matching is the primary form of conditionals, and the
+more common &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; statement is just some syntactic sugar on top of the pattern
+matching.&lt;&#x2F;p&gt;
+
+&lt;p&gt;I’ve considered pattern matching for ginger. It might look something like:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;       in -&amp;gt; } -switch-&amp;gt; } -&amp;gt; {{{A, B}, _}, ({A,B}-lt-&amp;gt;out)} -0-&amp;gt; } -add-&amp;gt; out
+in -1-&amp;gt; } -&amp;gt; }           } -1-&amp;gt; } -sub-&amp;gt; out
+in -0-&amp;gt; }
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;switch&lt;&#x2F;code&gt; operation posits that a node can have multiple output edges. In a
+graph this is fine, but it’s worth noting. Graphs tend to be implemented such
+that edges to and from a node are unordered, but in ginger it seems unlikely
+that that will be the case.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The last output edge from the switch is the easiest to explain: it outputs the
+input value to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;switch&lt;&#x2F;code&gt; when no other branches are able to be taken. But the
+input to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;switch&lt;&#x2F;code&gt; is a bit complex in this example: It’s a 2-tuple whose first
+element is &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;in&lt;&#x2F;code&gt;, and whose second element is &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;in&lt;&#x2F;code&gt; but with reversed elements.
+In the last output edge we immediately pipe into a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;1&lt;&#x2F;code&gt; operation to retrieve
+that second element and call &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sub&lt;&#x2F;code&gt; on that, since that’s the required behavior
+of the example.&lt;&#x2F;p&gt;
+
+&lt;p&gt;All other branches (in this switch there is only one, the first branch) output
+to a value. The form of this value is a tuple (denoted by enclosed curly braces
+here) of two values. The first value is the pattern itself, and the second is an
+optional predicate. The pattern in this example will match a 2-tuple, ignoring
+the second element in that tuple. The first element will itself be matched
+against a 2-tuple, and assign each element to the variables &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;A&lt;&#x2F;code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;B&lt;&#x2F;code&gt;,
+respectively. The second element in the tuple, the predicate, is a sub-graph
+which returns a boolean, and can be used for further specificity which can’t be
+covered by the pattern matching (in this case, comparing the two values to each
+other).&lt;&#x2F;p&gt;
+
+&lt;p&gt;The output from any of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;switch&lt;&#x2F;code&gt;’s branches is the same as its input value, the
+only question is which branch is taken. This means that there’s no backtracking
+when reading a program using this pattern; no matter where you’re looking you
+will only have to keep reading rightward to come to an &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;out&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+
+&lt;p&gt;There’s a few drawbacks with this approach. The first is that it’s not actually
+very easy to read. While pattern matching can be a really nice feature in
+languages that design around it, I’ve never seen it used in a LISP-style
+language where the syntax denotes actual datastructures, and I feel that in such
+a context it’s a bit unwieldy. I could be wrong.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The second drawback is that pattern matching is not simple to implement, and I’m
+not even sure what it would look like in a language where graphs are the primary
+datastructure. In the above example we’re only matching into a tuple, but how
+would you format the pattern for a multi-node, multi-edge graph? Perhaps it’s
+possible. But given that any such system could be implemented as a macro on top
+of normal &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; statements, rather than doing it the other way around, it seems
+better to start with the simpler option.&lt;&#x2F;p&gt;
+
+&lt;p&gt;(I haven’t talked about it yet, but I’d like for ginger to be portable to
+multiple backends (i.e. different processor architectures, vms, etc). If the
+builtins of the language are complex, then doing this will be a difficult task,
+whereas if I’m conscious of that goal during design I think it can be made to be
+very simple. In that light I’d prefer to not require pattern matching to be a
+builtin.)&lt;&#x2F;p&gt;
+
+&lt;p&gt;The third drawback is that the input to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;switch&lt;&#x2F;code&gt; requires careful ordering,
+especially in cases like this one where a different value is needed depending on
+which branch is taken. I don’t consider this to be a huge drawback, as
+encourages good data design and is a common consideration in other functional
+languages.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;pattern-3-branches-as-outputs&quot;&gt;Pattern 3: Branches As Outputs&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Taking a cue from the pattern matching example, we can go back to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; and take
+advantage of multiple output edges being a possibility:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;       in -&amp;gt; } -&amp;gt; } -if-&amp;gt; } -0-&amp;gt; } -add-&amp;gt; out
+in -1-&amp;gt; } -&amp;gt; }    }       } -1-&amp;gt; } -sub-&amp;gt; out
+in -0-&amp;gt; }         }
+                  }
+         in -lt-&amp;gt; }
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;It’s not perfect, but I’d say this is the nicest of the three options so far.
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; is an operation which takes a 2-tuple. The second element of the tuple is a
+boolean, if the boolean is true then &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; passes the first element of its tuple
+to the first branch, otherwise it passes it to the second. In this way &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt;
+becomes kind of like a fork in a train track: it accepts some payload (the first
+element of its input tuple) and depending on conditions (the second element) it
+directs the payload one way or the other.&lt;&#x2F;p&gt;
+
+&lt;p&gt;This pattern retains the benefits of the pattern matching example, where one
+never needs to backtrack in order to understand what is about to happen next,
+while also being much more readable and simpler to implement. It also retains
+one of the drawbacks of the pattern matching example, in that the inputs to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt;
+must be carefully organized based on the needs of the output branches. As
+before, I don’t consider this to be a huge drawback.&lt;&#x2F;p&gt;
+
+&lt;p&gt;There’s other modifications which might be made to this &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; to make it even
+cleaner, e.g. one could make it accept a 3-tuple, rather than a 2-tuple, in
+order to supply differing values to be used depending on which branch is taken.
+To me these sorts of small niceties are better left to be implemented as macros,
+built on top of a simpler but less pleasant builtin.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;fin&quot;&gt;Fin&lt;&#x2F;h2&gt;
+
+&lt;p&gt;If you have other ideas around how conditionals might be done in a graph-based
+language please &lt;a href=&quot;mailto:mediocregopher@gmail.com&quot;&gt;email me&lt;&#x2F;a&gt;; any and all contributions are welcome! One
+day I’ll get around to actually implementing some of ginger, but today is not
+that day.&lt;&#x2F;p&gt;
+      
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Building gomobile Using Nix</title>
         <author>
