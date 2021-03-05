@@ -4,8 +4,209 @@
   <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2021-03-01T00:00:00+00:00</updated>
+  <updated>2021-03-04T00:00:00+00:00</updated>
   <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Conditionals in Ginger, Errata</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2021-03-04T00:00:00+00:00</published>
+    <updated>2021-03-04T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-conditionals-in-ginger-errata/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-conditionals-in-ginger-errata/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/03/04/conditionals-in-ginger-errata.html</id>
+        <link href="https://blog.mediocregopher.com/2021/03/04/conditionals-in-ginger-errata.html"/>
+        <title>Conditionals in Ginger, Errata</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2021-03-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-conditionals-in-ginger-errata/</id>
+    <content type="html">
+        &lt;p&gt;After publishing the last post in the series I walked away from my computer
+feeling that I was very clever and had made a good post. This was incorrect.&lt;&#x2F;p&gt;
+
+&lt;p&gt;To summarize &lt;a href=&quot;&#x2F;2021&#x2F;03&#x2F;01&#x2F;conditionals-in-ginger.html&quot;&gt;the previous post&lt;&#x2F;a&gt;, it’s not obvious which is the best way
+to structure conditionals in a graphical programming language. My favorite
+solution looked something like this:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;       in -&amp;gt; } -&amp;gt; } -if-&amp;gt; } -0-&amp;gt; } -add-&amp;gt; out
+in -1-&amp;gt; } -&amp;gt; }    }       } -1-&amp;gt; } -sub-&amp;gt; out
+in -0-&amp;gt; }         }
+                  }
+         in -lt-&amp;gt; }
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;Essentially an &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; operator which accepts a value and a boolean, and which has
+two output edges. If the boolean is true then the input value is sent along the
+first output edge, and if it’s false it’s sent along the second.&lt;&#x2F;p&gt;
+
+&lt;p&gt;This structure is not possible, given the properties of ginger graphs that have
+been laid out in &lt;a href=&quot;&#x2F;2021&#x2F;01&#x2F;09&#x2F;ginger.html&quot;&gt;other posts in the series&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;nodes-tuples-and-edges&quot;&gt;Nodes, Tuples, and Edges&lt;&#x2F;h2&gt;
+
+&lt;p&gt;A ginger graph, as it has been presented so far, is composed of these three
+elements. A node has a value, and its value is unique to the graph; if two nodes
+have the same value then they are the same node. Edges connect two nodes or
+tuples together, and have a value and direction. Tuples are, in essence, a node
+whose value is its input edges.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; operation above lies on an edge, not a node or tuple. It cannot have
+multiple output edges, since it cannot have any edges at all. It &lt;em&gt;is&lt;&#x2F;em&gt; an edge.&lt;&#x2F;p&gt;
+
+&lt;p&gt;So it’s back to the drawing board, to some extent. But luckily I’ve got some
+more ideas in my back pocket.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;forks-and-junctions&quot;&gt;Forks and Junctions&lt;&#x2F;h2&gt;
+
+&lt;p&gt;In an older conception of ginger there was no tuple, but instead there were
+forks and junctions. A junction was essentially the same as a tuple, just named
+differently: a node whose value is its input edges. A fork was just the
+opposite, a node whose value is its output edges. Junctions and forks naturally
+complimented each other, but ultimately I didn’t find forks to be useful for
+much because there weren’t cases where it was necessary to have a single edge be
+split across multiple output edges directly; any case which appeared to require
+a fork could be satisfied by directing the edge into a 1-tuple and using the
+output edges of the 1-tuple.&lt;&#x2F;p&gt;
+
+&lt;p&gt;But now we have such a case. The 1-tuple won’t work, because the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; operator
+would only see the 1-tuple, not its edges. It could be supposed that the graph
+interpreter could say that an &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; operation must be followed by a 1-tuple, and
+that the 1-tuple’s output edges have a special meaning in that circumstance. But
+making the output edges of a 1-tuple have different meaning in different
+circumstances isn’t very elegant.&lt;&#x2F;p&gt;
+
+&lt;p&gt;So a fork might be just the thing here. For the example I will represent a
+fork as the opposite of a tuple: a vertical column of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;{&lt;&#x2F;code&gt; characters.&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;       in -&amp;gt; } -&amp;gt; } -if-&amp;gt; { -0-&amp;gt; } -add-&amp;gt; out
+in -1-&amp;gt; } -&amp;gt; }    }       { -1-&amp;gt; } -sub-&amp;gt; out
+in -0-&amp;gt; }         }
+                  }
+         in -lt-&amp;gt; }
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;It &lt;em&gt;looks&lt;&#x2F;em&gt; elegant, which is nice. I am curious though if there’s any other
+possible use-case where a fork might be useful… if there’s not then it seems
+odd to introduce an entire new element just to support a single operation. Why
+not just make that operation itself the new element?&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;switch-it-up&quot;&gt;Switch it Up&lt;&#x2F;h2&gt;
+
+&lt;p&gt;In most conceptions of a flowchart that I’ve seen a conditional is usually
+represented as a node with a different shape than the other nodes (often a
+diamond). Ginger could borrow this idea for itself, and declare a new graph
+element, alongside nodes, tuples, and edges, called a switch.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Let’s say a switch is simply represented by a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-&amp;lt;&amp;gt;&lt;&#x2F;code&gt;, and acts like a node in all
+aspects except that it has no value and is not unique to the graph.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The example presented in the &lt;a href=&quot;&#x2F;2021&#x2F;03&#x2F;01&#x2F;conditionals-in-ginger.html&quot;&gt;previous post&lt;&#x2F;a&gt; would look something like
+this:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;       in -&amp;gt; } -&amp;gt; } -&amp;lt;&amp;gt; -0-&amp;gt; } -add-&amp;gt; out
+in -1-&amp;gt; } -&amp;gt; }    }     -1-&amp;gt; } -sub-&amp;gt; out
+in -0-&amp;gt; }         }
+                  }
+         in -lt-&amp;gt; }
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;This isn’t the &lt;em&gt;worst&lt;&#x2F;em&gt;. Like the fork it’s adding a new element, but that
+element’s existence is required and its usage is very specific to that
+requirement, whereas the fork’s existence is required but ambiguously useful
+outside of that requirement.&lt;&#x2F;p&gt;
+
+&lt;p&gt;On the other hand, there are macros to consider…&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;macrophillic&quot;&gt;Macrophillic&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Ginger will certainly support macros, and as alluded to in the last post I’d
+like even conditional operations to be fair game for those who want to construct
+their own more complex operators. In the context of the switch &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-&amp;lt;&amp;gt;&lt;&#x2F;code&gt; element,
+would someone be able to create something like a pattern matching conditional?
+If the builtin conditional is implemented as a new graph element then it seems
+that the primary way to implement a custom conditional macro will also involve a
+new graph element.&lt;&#x2F;p&gt;
+
+&lt;p&gt;While I’m not flat out opposed to allowing for custom graph elements, I’m
+extremely skeptical that it’s necessary, and would like it to be proven
+necessary before considering it. So if we can have a basic conditional, &lt;em&gt;and&lt;&#x2F;em&gt;
+custom conditional macros built on top of the same broadly useful element, that
+seems like the better strategy.&lt;&#x2F;p&gt;
+
+&lt;p&gt;So all of that said, it seems I’m leaning towards forks as the better strategy
+in this. But I’d like a different name. “Fork” was nice as being the compliment
+of a “junction”, but I like “tuple” way more than “junction” because the term
+applies well both to the structural element &lt;em&gt;and&lt;&#x2F;em&gt; to the transformation that
+element performs (i.e. a tuple element combines its input edges’ values into a
+tuple value). But “tuple” and “fork” seem weird together…&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;many-minutes-later&quot;&gt;Many Minutes Later…&lt;&#x2F;h2&gt;
+
+&lt;p&gt;A brief search of the internet reveals no better word than “fork”. A place
+where a tree’s trunk splits into two separate trunks is called a “fork”. A
+place where a river splits into two separate rivers is called a “fork”.
+Similarly with roads. And that &lt;em&gt;is&lt;&#x2F;em&gt; what’s happening, from the point of view of
+the graph’s structure: it is an element whose only purpose is to denote multiple
+outward edges.&lt;&#x2F;p&gt;
+
+&lt;p&gt;So “fork” it is.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;other-considerations&quot;&gt;Other considerations&lt;&#x2F;h2&gt;
+
+&lt;p&gt;A 1-tuple is interesting in that it acts essentially as a concatenation of two
+edges. A 1-fork could, theoretically, do the same thing:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;a -foo-&amp;gt; } -bar-&amp;gt; b
+
+c -far-&amp;gt; { -boo-&amp;gt; d
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;The top uses a tuple, the bottom a fork. Each is, conceptually, valid, but I
+don’t like that two different elements can be used for the exact same use-case.&lt;&#x2F;p&gt;
+
+&lt;p&gt;A 1-tuple is an established concept in data structures, so I am loath to give it
+up.  A 1-fork, on the other hand, doesn’t make sense structurally (would you
+point to any random point on a river and call it a “1-fork”?), and fork as a
+whole doesn’t really have any analog in the realm of data structures. So I’m
+prepared to declare 1-forks invalid from the viewpoint of the language
+interpreter.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Another consideration: I already expect that there’s going to be confusion as to
+when to use a fork and when to use multiple outputs from a node. For example,
+here’s a graph which uses a fork:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;a -&amp;gt; { -op1-&amp;gt; foo
+     { -op2-&amp;gt; bar
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;and here’s a graph which has multiple outputs from the same node:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;a -op1-&amp;gt; foo
+  -op2-&amp;gt; bar
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;Each could be interpreted to mean the same thing: “set &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;foo&lt;&#x2F;code&gt; to the result of
+passing &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;a&lt;&#x2F;code&gt; into &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;op1&lt;&#x2F;code&gt;, and set &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bar&lt;&#x2F;code&gt; to the result of passing &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;a&lt;&#x2F;code&gt; into &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;op2&lt;&#x2F;code&gt;.”
+As with the 1-tuple vs 1-fork issue, we have another case where the same
+task might be accomplished with two different patterns. This case is trickier
+though, and I don’t have as confident an answer.&lt;&#x2F;p&gt;
+
+&lt;p&gt;I think an interim rule which could be put in place, subject to review later, is
+that multiple edges from a node or tuple indicate that that same value is being
+used for multiple operations, while a fork indicates something specific to the
+operation on its input edge. It’s not a pretty rule, but I think it will do.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Stay tuned for next week when I realize that actually all of this is wrong and
+we start over again!&lt;&#x2F;p&gt;
+      
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Conditionals in Ginger</title>
         <author>
