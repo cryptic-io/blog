@@ -4,8 +4,330 @@
   <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2021-03-07T00:00:00+00:00</updated>
+  <updated>2021-03-12T00:00:00+00:00</updated>
   <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Ripple: A Game</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2021-03-12T00:00:00+00:00</published>
+    <updated>2021-03-12T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-ripple-a-game/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-ripple-a-game/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/03/12/ripple-a-game.html</id>
+        <link href="https://blog.mediocregopher.com/2021/03/12/ripple-a-game.html"/>
+        <title>Ripple: A Game</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2021-03-12T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-ripple-a-game/</id>
+    <content type="html">
+        &lt;p&gt;
+    &lt;b&gt;Movement:&lt;&#x2F;b&gt; Arrow keys or WASD&lt;br &#x2F;&gt;
+    &lt;b&gt;Jump:&lt;&#x2F;b&gt; Space&lt;br &#x2F;&gt;
+    &lt;b&gt;Goal:&lt;&#x2F;b&gt; Jump as many times as possible without touching a ripple!&lt;br &#x2F;&gt;
+    &lt;br &#x2F;&gt;
+    &lt;b&gt;Press Jump To Begin!&lt;&#x2F;b&gt;
+&lt;&#x2F;p&gt;
+
+&lt;canvas id=&quot;canvas&quot; style=&quot;border:1px dashed #AAA&quot; tabindex=&quot;0&quot;&gt;
+Your browser doesn&#x27;t support canvas. At this point in the world that&#x27;s actually
+pretty cool, well done!
+&lt;&#x2F;canvas&gt;
+&lt;p&gt;&lt;button onclick=&quot;resetGame()&quot;&gt;(R)eset&lt;&#x2F;button&gt;
+&lt;span style=&quot;font-size: 2rem; margin-left: 1rem;&quot;&gt;Score:
+    &lt;span style=&quot;font-weight: bold&quot; id=&quot;score&quot;&gt;0&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;p&gt;
+
+&lt;script type=&quot;text&#x2F;javascript&quot;&gt;
+
+const palette = [
+    &quot;#264653&quot;,
+    &quot;#2A9D8F&quot;,
+    &quot;#E9C46A&quot;,
+    &quot;#F4A261&quot;,
+    &quot;#E76F51&quot;,
+];
+
+const width = 800;
+const height = 600;
+
+function hypotenuse(w, h) {
+    return Math.sqrt(Math.pow(w, 2) + Math.pow(h, 2));
+}
+
+let canvas = document.getElementById(&quot;canvas&quot;);
+canvas.width = width;
+canvas.height = height;
+
+let score = document.getElementById(&quot;score&quot;);
+
+const whitelistedKeys = {
+    &quot;ArrowUp&quot;: {},
+    &quot;KeyW&quot;: {map: &quot;ArrowUp&quot;},
+    &quot;ArrowLeft&quot;: {},
+    &quot;KeyA&quot;: {map: &quot;ArrowLeft&quot;},
+    &quot;ArrowRight&quot;: {},
+    &quot;KeyD&quot;: {map: &quot;ArrowRight&quot;},
+    &quot;ArrowDown&quot;: {},
+    &quot;KeyS&quot;: {map: &quot;ArrowDown&quot;},
+    &quot;Space&quot;: {},
+    &quot;KeyR&quot;: {},
+};
+
+let keyboard = {};
+
+canvas.addEventListener(&#x27;keydown&#x27;, (event) =&gt; {
+    let keyInfo = whitelistedKeys[event.code];
+    if (!keyInfo) return;
+
+    let code = event.code;
+    if (keyInfo.map) code = keyInfo.map;
+
+    event.preventDefault();
+    keyboard[code] = true;
+});
+
+canvas.addEventListener(&#x27;keyup&#x27;, (event) =&gt; {
+    let keyInfo = whitelistedKeys[event.code];
+    if (!keyInfo) return;
+
+    let code = event.code;
+    if (keyInfo.map) code = keyInfo.map;
+
+    event.preventDefault();
+    delete keyboard[code];
+});
+
+let ctx = canvas.getContext(&quot;2d&quot;);
+
+let currTick;
+let drops;
+
+class Drop {
+    constructor(x, y, bounces, color) {
+        this.tick = currTick;
+        this.x = x;
+        this.y = y;
+        this.thickness = (bounces+1) * 0.25;
+        this.color = color ? color : palette[Math.floor(Math.random() * palette.length)];
+        this.winner = false;
+
+        this.maxRadius = hypotenuse(x, y);
+        this.maxRadius = Math.max(this.maxRadius, hypotenuse(width-x, y));
+        this.maxRadius = Math.max(this.maxRadius, hypotenuse(x, height-y));
+        this.maxRadius = Math.max(this.maxRadius, hypotenuse(width-x, height-y));
+
+        drops.push(this);
+
+        if (bounces &gt; 0) {
+            new Drop(x, -y, bounces-1, this.color);
+            new Drop(-x, y, bounces-1, this.color);
+            new Drop((2*width)-x, y, bounces-1, this.color);
+            new Drop(x, (2*height)-y, bounces-1, this.color);
+        }
+    }
+
+    radius() { return currTick - this.tick; }
+
+    draw() {
+        ctx.beginPath();
+        ctx.arc(this.x, this.y, this.radius(), 0, Math.PI * 2, false);
+        ctx.closePath();
+        ctx.lineWidth = this.thickness;
+        ctx.strokeStyle = this.winner ? &quot;#FF0000&quot; : this.color;
+        ctx.stroke();
+    }
+
+    canGC() {
+        return this.radius() &gt; this.maxRadius;
+    }
+}
+
+const playerRadius = 10;
+const playerMoveAccel = 0.5;
+const playerMoveDecel = 0.7;
+const playerMaxMoveSpeed = 4;
+const playerJumpSpeed = 0.08;
+const playerMaxHeight = 1;
+const playerGravity = 0.01;
+
+class Player{
+    constructor(x, y, color) {
+        this.x = x;
+        this.y = y;
+        this.z = 0;
+        this.xVelocity = 0;
+        this.yVelocity = 0;
+        this.zVelocity = 0;
+        this.color = color;
+        this.falling = false;
+        this.lastJumpHeight = 0;
+        this.loser = false;
+    }
+
+    act() {
+        if (keyboard[&quot;ArrowUp&quot;]) {
+            this.yVelocity = Math.max(-playerMaxMoveSpeed, this.yVelocity - playerMoveAccel);
+        } else if (keyboard[&quot;ArrowDown&quot;]) {
+            this.yVelocity = Math.min(playerMaxMoveSpeed, this.yVelocity + playerMoveAccel);
+        } else if (this.yVelocity &gt; 0) {
+            this.yVelocity = Math.max(0, this.yVelocity - playerMoveDecel);
+        } else if (this.yVelocity &lt; 0) {
+            this.yVelocity = Math.min(0, this.yVelocity + playerMoveDecel);
+        }
+
+        this.y += this.yVelocity;
+        this.y = Math.max(0+playerRadius, this.y);
+        this.y = Math.min(height-playerRadius, this.y);
+
+        if (keyboard[&quot;ArrowLeft&quot;]) {
+            this.xVelocity = Math.max(-playerMaxMoveSpeed, this.xVelocity - playerMoveAccel);
+        } else if (keyboard[&quot;ArrowRight&quot;]) {
+            this.xVelocity = Math.min(playerMaxMoveSpeed, this.xVelocity + playerMoveAccel);
+        } else if (this.xVelocity &gt; 0) {
+            this.xVelocity = Math.max(0, this.xVelocity - playerMoveDecel);
+        } else if (this.xVelocity &lt; 0) {
+            this.xVelocity = Math.min(0, this.xVelocity + playerMoveDecel);
+        }
+
+        this.x += this.xVelocity;
+        this.x = Math.max(0+playerRadius, this.x);
+        this.x = Math.min(width-playerRadius, this.x);
+
+        let jumpHeld = keyboard[&quot;Space&quot;];
+
+        if (jumpHeld &amp;&amp; !this.falling &amp;&amp; this.z &lt; playerMaxHeight) {
+            this.lastJumpHeight = 0;
+            this.zVelocity = playerJumpSpeed;
+        } else {
+            this.zVelocity = Math.max(-playerJumpSpeed, this.zVelocity - playerGravity);
+            this.falling = this.z &gt; 0;
+        }
+
+        let prevZ = this.z;
+        this.z = Math.max(0, this.z + this.zVelocity);
+        this.lastJumpHeight = Math.max(this.z, this.lastJumpHeight);
+    }
+
+    draw() {
+        let y = this.y - (this.z * 40);
+        let radius = playerRadius * (this.z+1)
+
+        &#x2F;&#x2F; draw main
+        ctx.beginPath();
+        ctx.arc(this.x, y, radius, 0, Math.PI * 2, false);
+        ctx.closePath();
+        ctx.lineWidth = 0;
+        ctx.fillStyle = this.color;
+        ctx.fill();
+        if (this.loser) {
+            ctx.strokeStyle = &#x27;#FF0000&#x27;;
+            ctx.lineWidth = 2;
+            ctx.stroke();
+        }
+
+        &#x2F;&#x2F; draw shadow, if in the air
+        if (this.z &gt; 0) {
+            let radius = Math.max(0, playerRadius * (1.2 - this.z));
+            ctx.beginPath();
+            ctx.arc(this.x, this.y, radius, 0, Math.PI * 2, false);
+            ctx.closePath();
+            ctx.lineWidth = 0;
+            ctx.fillStyle = this.color+&quot;33&quot;;
+            ctx.fill();
+        }
+    }
+}
+
+let player;
+let gameState;
+let numJumps;
+
+function resetGame() {
+    currTick = 0;
+    drops = [];
+    player = new Player(width&#x2F;2, height&#x2F;2, palette[0]);
+    gameState = &#x27;play&#x27;;
+    numJumps = 0;
+    canvas.focus();
+}
+resetGame();
+
+let requestAnimationFrame =
+    window.requestAnimationFrame ||
+    window.mozRequestAnimationFrame ||
+    window.webkitRequestAnimationFrame ||
+    window.msRequestAnimationFrame;
+
+function doTick() {
+    if (keyboard[&#x27;KeyR&#x27;]) {
+        resetGame();
+    }
+
+    if (gameState == &#x27;play&#x27;) {
+        let playerPrevZ = player.z;
+        player.act();
+        if (playerPrevZ &gt; 0 &amp;&amp; player.z == 0) {
+            let bounces = Math.floor((player.lastJumpHeight*1.8)+1);
+            console.log(&quot;spawning drop with bounces:&quot;, bounces);
+            new Drop(player.x, player.y, bounces);
+        } else if (playerPrevZ == 0 &amp;&amp; player.z &gt; 0) {
+            numJumps++;
+        }
+        score.innerHTML = numJumps;
+
+        if (player.z == 0) {
+            for (let i in drops) {
+                let drop = drops[i];
+                let dropRadius = drop.radius();
+                if (dropRadius &lt; playerRadius * 1.5) continue;
+                let hs = Math.pow(drop.x-player.x, 2) + Math.pow(drop.y-player.y, 2);
+                if (hs &gt; Math.pow(playerRadius + dropRadius, 2)) {
+                    continue;
+                } else if (Math.sqrt(hs) &lt;= Math.abs(dropRadius-playerRadius)) {
+                    continue;
+                } else {
+                    console.log(&quot;game over&quot;);
+                    drop.winner = true;
+                    player.loser = true;
+                    gameState = &#x27;gameOver&#x27;;
+                }
+            }
+        }
+    }
+
+    drops = drops.filter(drop =&gt; !drop.canGC());
+
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    drops.forEach(drop =&gt; drop.draw());
+    player.draw()
+
+    if (gameState == &#x27;play&#x27;) currTick++;
+    requestAnimationFrame(doTick);
+}
+requestAnimationFrame(doTick);
+
+&lt;&#x2F;script&gt;
+
+&lt;p&gt;&lt;em&gt;Do you have the patience to wait&lt;br &#x2F;&gt;
+till your mud settles and the water is clear?&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;backstory&quot;&gt;Backstory&lt;&#x2F;h2&gt;
+
+&lt;p&gt;This is a game I originally implemented in lua, which you can find &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;ripple&quot;&gt;here&lt;&#x2F;a&gt;.
+It’s a fun concept that I wanted to show off again, as well as to see if I could
+whip it up in an evening in javascript (I can!)&lt;&#x2F;p&gt;
+
+&lt;p&gt;Send me your high scores! I top out around 17.&lt;&#x2F;p&gt;
+      
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Backups made simple</title>
         <author>
