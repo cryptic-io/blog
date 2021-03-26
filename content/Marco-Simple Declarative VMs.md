@@ -1,7 +1,7 @@
 
 +++
 title = "Simple Declarative VMs"
-date = 2021-03-07T00:00:00.000Z
+date = 2021-03-24T00:00:00.000Z
 template = "html_content/raw.html"
 summary = """
 I've been on a hunt to find a simple and declarative way to define VMs. I wanted
