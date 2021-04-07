@@ -4,8 +4,426 @@
   <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2021-03-24T00:00:00+00:00</updated>
+  <updated>2021-04-06T00:00:00+00:00</updated>
   <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Evaluation of Network Filesystems</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2021-04-06T00:00:00+00:00</published>
+    <updated>2021-04-06T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-evaluation-of-network-filesystems/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-evaluation-of-network-filesystems/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/04/06/evaluation-of-network-filesystems.html</id>
+        <link href="https://blog.mediocregopher.com/2021/04/06/evaluation-of-network-filesystems.html"/>
+        <title>Evaluation of Network Filesystems</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2021-04-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-evaluation-of-network-filesystems/</id>
+    <content type="html">
+        &lt;p&gt;It’s been a bit since updating my progress on what I’ve been lately calling the
+“cryptic nebula” project. When I last left off I was working on building the
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;cryptic-io&#x2F;mobile_nebula&quot;&gt;mobile nebula&lt;&#x2F;a&gt; using &lt;a href=&quot;https:&#x2F;&#x2F;nixos.org&#x2F;manual&#x2F;nix&#x2F;stable&#x2F;&quot;&gt;nix&lt;&#x2F;a&gt;. For the moment I gave up on
+that dream, as flutter and nix just &lt;em&gt;really&lt;&#x2F;em&gt; don’t get along and I don’t want to
+get to distracted on problems that aren’t critical to the actual goal.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Instead I’d like to pursue the next critical component of the system, and
+that’s a shared filesystem. The use-case I’m ultimately trying to achieve is:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;All hosts communicate with each other via the nebula network.&lt;&#x2F;li&gt;
+  &lt;li&gt;All hosts are personal machines owned by individuals, &lt;em&gt;not&lt;&#x2F;em&gt; cloud VMs.&lt;&#x2F;li&gt;
+  &lt;li&gt;A handful of hosts are always-on, or at least as always-on as can be achieved
+in a home environment.&lt;&#x2F;li&gt;
+  &lt;li&gt;All hosts are able to read&#x2F;write to a shared filesystem, which is mounted via
+FUSE (or some other mechanism, though I can’t imagine what) on their computer.&lt;&#x2F;li&gt;
+  &lt;li&gt;Top-level directories within the shared filesystem can be restricted, so
+that only a certain person (or host) can read&#x2F;write to them.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;What I’m looking for is some kind of network filesystem, of which there are
+&lt;em&gt;many&lt;&#x2F;em&gt;. This document will attempt to evaluate all relevant projects and come up
+with the next steps. It may be that no project fits the bill perfectly, and that
+I’m stuck either modifying an existing project to my needs or, if things are
+looking really dire, starting a new project.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The ultimate use-case here is something like a self-hosted, distributed &lt;a href=&quot;https:&#x2F;&#x2F;book.keybase.io&#x2F;docs&#x2F;files&quot;&gt;keybase
+filesystem&lt;&#x2F;a&gt;; somewhere where individuals in
+the cluster can back up their personal projects, share files with each other,
+and possibly even be used as the base layer for more complex applications on
+top.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The individuals involved shouldn’t have to deal with configuring their
+distributed FS, either to read from it or add storage resources to it. Ideally
+the FS process can be bundled together with the nebula process and run opaquely;
+the user is just running their “cryptic nebula” process and everything else is
+handled in the background.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;low-pass-filter&quot;&gt;Low Pass Filter&lt;&#x2F;h2&gt;
+
+&lt;p&gt;There are some criteria for these projects that I’m not willing to compromise
+on; these criteria will form a low pass filter which, hopefully, will narrow our
+search appreciably.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The network filesystem used by the cryptic nebula must:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Be able to operate over a nebula network (obviously).&lt;&#x2F;li&gt;
+  &lt;li&gt;Be open-source. The license doesn’t matter, as long as the code is available.&lt;&#x2F;li&gt;
+  &lt;li&gt;Run on both Mac and Linux.&lt;&#x2F;li&gt;
+  &lt;li&gt;Not require a third-party to function.&lt;&#x2F;li&gt;
+  &lt;li&gt;Allows for a replication factor of 3.&lt;&#x2F;li&gt;
+  &lt;li&gt;Supports sharding of data (ie each host need not have the entire dataset).&lt;&#x2F;li&gt;
+  &lt;li&gt;Allow for mounting a FUSE filesystem in any hosts’ machine to interact with
+the network filesystem.&lt;&#x2F;li&gt;
+  &lt;li&gt;Not run in the JVM, or any other VM which is memory-greedy.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;The last may come across as mean, but the reason for it is that I forsee the
+network filesystem client running on users’ personal laptops, which cannot be
+assumed to have resources to spare.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;rubric&quot;&gt;Rubric&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Each criteria in the next set lies along a spectrum. Any project may meet one of
+thses criteria fully, partially, or not at all. For each criteria I assign a
+point value according to how fully a project meets the criteria, and then sum up
+the points to give the project a final score. The project with the highest final
+score is not necessarily the winner, but this system should at least give some
+good candidates for final consideration.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The criteria, and their associated points values, are:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Hackability&lt;&#x2F;strong&gt;: is the source-code of the project approachable?
+    &lt;ul&gt;
+      &lt;li&gt;0: No&lt;&#x2F;li&gt;
+      &lt;li&gt;1: Kind of, and there’s not much of a community.&lt;&#x2F;li&gt;
+      &lt;li&gt;2: Kind of, but there is an active community.&lt;&#x2F;li&gt;
+      &lt;li&gt;3: Yes&lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;strong&gt;Documentation&lt;&#x2F;strong&gt;: is the project well documented?
+    &lt;ul&gt;
+      &lt;li&gt;0: No docs.&lt;&#x2F;li&gt;
+      &lt;li&gt;1: Incomplete or out-of-date docs.&lt;&#x2F;li&gt;
+      &lt;li&gt;2: Very well documented.&lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;strong&gt;Transience&lt;&#x2F;strong&gt;: how does the system handle hosts appearing or disappearing?
+    &lt;ul&gt;
+      &lt;li&gt;0: Requires an automated system to be built to handle adding&#x2F;removing
+hosts.&lt;&#x2F;li&gt;
+      &lt;li&gt;1: Gracefully handled.&lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;strong&gt;Priority&lt;&#x2F;strong&gt;: is it possible to give certain hosts priority when choosing
+which will host&#x2F;replicate some piece of data?
+    &lt;ul&gt;
+      &lt;li&gt;0: No.&lt;&#x2F;li&gt;
+      &lt;li&gt;1: Yes.&lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;strong&gt;Caching&lt;&#x2F;strong&gt;: will hosts reading a file have that file cached locally for the
+next reading (until the file is modified)?
+    &lt;ul&gt;
+      &lt;li&gt;0: No.&lt;&#x2F;li&gt;
+      &lt;li&gt;1: Yes.&lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;strong&gt;Conflicts&lt;&#x2F;strong&gt;: if two hosts updated the same file at the same time, how is
+that handled?
+    &lt;ul&gt;
+      &lt;li&gt;0: The file can no longer be updated.&lt;&#x2F;li&gt;
+      &lt;li&gt;1: One update clobbers the other, or both go through in an undefined
+order.&lt;&#x2F;li&gt;
+      &lt;li&gt;2: One update is disallowed.&lt;&#x2F;li&gt;
+      &lt;li&gt;3: A copy of the file containing the “losing” update is created (ie: how
+dropbox does it).&lt;&#x2F;li&gt;
+      &lt;li&gt;4: Strategy can be configured on the file&#x2F;directory level.&lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;strong&gt;Consistency&lt;&#x2F;strong&gt;: how does the system handle a file being changed frequently?
+    &lt;ul&gt;
+      &lt;li&gt;0: File changes must be propagated before subsequent updates are allowed (fully consistent).&lt;&#x2F;li&gt;
+      &lt;li&gt;1: Files are snapshotted at some large-ish interval (eventually consistent).&lt;&#x2F;li&gt;
+      &lt;li&gt;2: File state (ie content hash, last modifid, etc) is propagated
+frequently but contents are only fully propagated once the file has
+“settled” (eventually consistent with debounce).&lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;strong&gt;POSIX&lt;&#x2F;strong&gt;: how POSIX compliant is the mounted fileystem?
+    &lt;ul&gt;
+      &lt;li&gt;0: Only the most basic features are implemented.&lt;&#x2F;li&gt;
+      &lt;li&gt;1: Some extra features are implemented.&lt;&#x2F;li&gt;
+      &lt;li&gt;2: Fully POSIX compliant.&lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;strong&gt;Scale&lt;&#x2F;strong&gt;: how many hosts can be a part of the cluster?
+    &lt;ul&gt;
+      &lt;li&gt;0: A finite number.&lt;&#x2F;li&gt;
+      &lt;li&gt;1: A finite number of dedicated hosts, infinite ephemeral.&lt;&#x2F;li&gt;
+      &lt;li&gt;2: Infinite hosts.&lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;strong&gt;Failure&lt;&#x2F;strong&gt;: how does the system handle failures (network partitions, hosts
+hanging, buggy client versions)?
+    &lt;ul&gt;
+      &lt;li&gt;0: Data loss.&lt;&#x2F;li&gt;
+      &lt;li&gt;1: Reads and writes are halted.&lt;&#x2F;li&gt;
+      &lt;li&gt;2: Reads are allowed but writes are halted.&lt;&#x2F;li&gt;
+      &lt;li&gt;3: System is partially read&#x2F;write, except effected parts.&lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;strong&gt;Limitations&lt;&#x2F;strong&gt;: are there limits on how big files can be, or how big
+directories can be?
+    &lt;ul&gt;
+      &lt;li&gt;0: Files are limited to below 1TB in size.&lt;&#x2F;li&gt;
+      &lt;li&gt;1: Directories are limited to below 100,000 files.&lt;&#x2F;li&gt;
+      &lt;li&gt;2: No limits.&lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;strong&gt;Encryption&lt;&#x2F;strong&gt;: how is data encrypted?
+    &lt;ul&gt;
+      &lt;li&gt;0: Not at all, DIY.&lt;&#x2F;li&gt;
+      &lt;li&gt;1: Encrypted at rest.&lt;&#x2F;li&gt;
+      &lt;li&gt;2: Per-user encryption.&lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;strong&gt;Permissions&lt;&#x2F;strong&gt;: how are modifications to data restricted?
+    &lt;ul&gt;
+      &lt;li&gt;0: Not at all.&lt;&#x2F;li&gt;
+      &lt;li&gt;1: Permissions are only superifically enforced.&lt;&#x2F;li&gt;
+      &lt;li&gt;2: Fully enforced user&#x2F;group restrictions, complex patterns, and&#x2F;or POSIX ACLs.&lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;strong&gt;Administration&lt;&#x2F;strong&gt;: how much administration is required for the system to
+function?
+    &lt;ul&gt;
+      &lt;li&gt;0: Frequent.&lt;&#x2F;li&gt;
+      &lt;li&gt;1: Infrequent.&lt;&#x2F;li&gt;
+      &lt;li&gt;2: Essentially none.&lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;strong&gt;Simplicity&lt;&#x2F;strong&gt;: how understandable is the system as a whole?
+    &lt;ul&gt;
+      &lt;li&gt;0: Very complex.&lt;&#x2F;li&gt;
+      &lt;li&gt;1: Understandable with some study.&lt;&#x2F;li&gt;
+      &lt;li&gt;2: Very simple, easy to predict.&lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;&lt;strong&gt;Visibility&lt;&#x2F;strong&gt;: how much visibility is available into processes within the
+system?
+    &lt;ul&gt;
+      &lt;li&gt;0: Total black box.&lt;&#x2F;li&gt;
+      &lt;li&gt;1: Basic logging.&lt;&#x2F;li&gt;
+      &lt;li&gt;2: CLI tooling.&lt;&#x2F;li&gt;
+      &lt;li&gt;3: Exportable metrics (e.g. prometheus).&lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;h2 id=&quot;evaluations&quot;&gt;Evaluations&lt;&#x2F;h2&gt;
+
+&lt;p&gt;With the rubric defined, let’s start actually working through our options! There
+are many, many different possibilities, so this may not be an exhaustive list.&lt;&#x2F;p&gt;
+
+&lt;h3 id=&quot;ceph&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.ceph.com&#x2F;en&#x2F;latest&#x2F;cephfs&#x2F;index.html&quot;&gt;Ceph&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Ceph File System, or CephFS, is a POSIX-compliant file system built on
+top of Ceph’s distributed object store, RADOS. CephFS endeavors to provide a
+state-of-the-art, multi-use, highly available, and performant file store for
+a variety of applications, including traditional use-cases like shared home
+directories, HPC scratch space, and distributed workflow shared storage.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hackability: 2. Very active community, but it’s C++.&lt;&#x2F;li&gt;
+  &lt;li&gt;Documentation: 2. Hella docs, very daunting.&lt;&#x2F;li&gt;
+  &lt;li&gt;Transience: 0. Adding hosts seems to require multiple configuration steps.&lt;&#x2F;li&gt;
+  &lt;li&gt;Priority: 1. There is fine-tuning on a per-host basis.&lt;&#x2F;li&gt;
+  &lt;li&gt;Caching: 1. Clients can cache both metadata and block data.&lt;&#x2F;li&gt;
+  &lt;li&gt;Conflicts: 1. The FS behaves as much like a real FS as possible.&lt;&#x2F;li&gt;
+  &lt;li&gt;Consistency: 0. System is CP.&lt;&#x2F;li&gt;
+  &lt;li&gt;POSIX: 2. Fully POSIX compliant.&lt;&#x2F;li&gt;
+  &lt;li&gt;Scale: 2. Cluster can grow without any real bounds.&lt;&#x2F;li&gt;
+  &lt;li&gt;Failure: 3. There’s no indication anywhere that Ceph goes into any kind of cluster-wide failure mode.&lt;&#x2F;li&gt;
+  &lt;li&gt;Limitations: 2. There are performance considerations with large directories, but no hard limits.&lt;&#x2F;li&gt;
+  &lt;li&gt;Encryption: 0. None to speak of.&lt;&#x2F;li&gt;
+  &lt;li&gt;Permissions: 2. POSIX ACLs supported.&lt;&#x2F;li&gt;
+  &lt;li&gt;Administration: 1. This is a guess, but Ceph seems to be self-healing in general, but still needs hand-holding in certain situations (adding&#x2F;removing nodes, etc…)&lt;&#x2F;li&gt;
+  &lt;li&gt;Simplicity: 0. There are many moving pieces, as well as many different kinds of processes and entities.&lt;&#x2F;li&gt;
+  &lt;li&gt;Visibility: 3. Lots of tooling to dig into the state of the cluster, as well as a prometheus module.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;TOTAL: 22&lt;&#x2F;p&gt;
+
+&lt;h4 id=&quot;comments&quot;&gt;Comments&lt;&#x2F;h4&gt;
+
+&lt;p&gt;Ceph has been recommended to me by a few people. It is clearly a very mature
+project, though that maturity has brought with it a lot of complexity. A lot of
+the complexity of Ceph seems to be rooted in its strong consistency guarantees,
+which I’m confident it fulfills well, but are not really needed for the
+use-case I’m interested in. I’d prefer a simpler, eventually consistent,
+system. It’s also not clear to me that Ceph would even perform very well in my
+use-case as it seems to want an actual datacenter deployment, with beefy
+hardware and hosts which are generally close together.&lt;&#x2F;p&gt;
+
+&lt;h3 id=&quot;glusterfs&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.gluster.org&#x2F;en&#x2F;latest&#x2F;&quot;&gt;GlusterFS&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;GlusterFS is a scalable network filesystem suitable for data-intensive tasks
+such as cloud storage and media streaming. GlusterFS is free and open source
+software and can utilize common off-the-shelf hardware.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hackability: 2. Mostly C code, but there is an active community.&lt;&#x2F;li&gt;
+  &lt;li&gt;Documentation: 2. Good docs.&lt;&#x2F;li&gt;
+  &lt;li&gt;Transience: 0. New nodes cannot add themselves to the pool.&lt;&#x2F;li&gt;
+  &lt;li&gt;Priority: 0. Data is distributed based on consistent hashing algo, nothing else.&lt;&#x2F;li&gt;
+  &lt;li&gt;Caching: 1. Docs mention client-side caching layer.&lt;&#x2F;li&gt;
+  &lt;li&gt;Conflicts: 0. File becomes frozen, manual intervention is needed to save it.&lt;&#x2F;li&gt;
+  &lt;li&gt;Consistency: 0. Gluster aims to be fully consistent.&lt;&#x2F;li&gt;
+  &lt;li&gt;POSIX: 2. Fully POSIX compliant.&lt;&#x2F;li&gt;
+  &lt;li&gt;Scale: 2. No apparent limits.&lt;&#x2F;li&gt;
+  &lt;li&gt;Failure: 3. Clients determine on their own whether or not they have a quorum for a particular sub-volume.&lt;&#x2F;li&gt;
+  &lt;li&gt;Limitations: 2. Limited by the file system underlying each volume, I think.&lt;&#x2F;li&gt;
+  &lt;li&gt;Encryption: 2. Encryption can be done on the volume level, each user could have a private volume.&lt;&#x2F;li&gt;
+  &lt;li&gt;Permissions: 2. ACL checking is enforced on the server-side, but requires syncing of users and group membership across servers.&lt;&#x2F;li&gt;
+  &lt;li&gt;Administration: 1. Beyond adding&#x2F;removing nodes the system is fairly self-healing.&lt;&#x2F;li&gt;
+  &lt;li&gt;Simplicity: 1. There’s only one kind of server process, and the configuration of volumes is is well documented and straightforward.&lt;&#x2F;li&gt;
+  &lt;li&gt;Visibility: 3. Prometheus exporter available.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;TOTAL: 23&lt;&#x2F;p&gt;
+
+&lt;h4 id=&quot;comments-1&quot;&gt;Comments&lt;&#x2F;h4&gt;
+
+&lt;p&gt;GlusterFS was my initial choice when I did a brief survey of DFSs for this
+use-case. However, after further digging into it I think it will suffer the
+same ultimate problem as CephFS: too much consistency for a wide-area
+application like I’m envisioning. The need for syncing user&#x2F;groups across
+machines as actual system users is also cumbersome enough to make it not a
+great choice.&lt;&#x2F;p&gt;
+
+&lt;h3 id=&quot;moosefs&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;moosefs.com&#x2F;&quot;&gt;MooseFS&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;MooseFS is a Petabyte Open Source Network Distributed File System. It is easy
+to deploy and maintain, highly reliable, fault tolerant, highly performing,
+easily scalable and POSIX compliant.&lt;&#x2F;p&gt;
+
+  &lt;p&gt;MooseFS spreads data over a number of commodity servers, which are visible to
+the user as one resource. For standard file operations MooseFS acts like
+ordinary Unix-like file system.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hackability: 2. All C code, pretty dense, but backed by a company.&lt;&#x2F;li&gt;
+  &lt;li&gt;Documentation: 2. There’s a giant PDF you can read through like a book. I
+guess that’s…. good?&lt;&#x2F;li&gt;
+  &lt;li&gt;Transience: 0. Nodes must be added manually.&lt;&#x2F;li&gt;
+  &lt;li&gt;Priority: 1. There’s “Storage Classes”.&lt;&#x2F;li&gt;
+  &lt;li&gt;Caching: 1. Caching is done on the client, and there’s some synchronization
+with the master server around it.&lt;&#x2F;li&gt;
+  &lt;li&gt;Conflicts: 1. Both update operations will go through.&lt;&#x2F;li&gt;
+  &lt;li&gt;Consistency: 0. Afaict it’s a fully consistent system, with a master server
+being used to synchronize changes.&lt;&#x2F;li&gt;
+  &lt;li&gt;POSIX: 2. Fully POSIX compliant.&lt;&#x2F;li&gt;
+  &lt;li&gt;Scale: 2. Cluster can grow without any real bounds.&lt;&#x2F;li&gt;
+  &lt;li&gt;Failure: 1. If the master server is unreachable then the client can’t
+function.&lt;&#x2F;li&gt;
+  &lt;li&gt;Limitations: 2. Limits are very large, effectively no limit.&lt;&#x2F;li&gt;
+  &lt;li&gt;Encryption: 0. Docs make no mention of encryption.&lt;&#x2F;li&gt;
+  &lt;li&gt;Permissions: 1. Afaict permissions are done by the OS on the fuse mount.&lt;&#x2F;li&gt;
+  &lt;li&gt;Administration: 1. It seems that if the topology is stable there shouldn’t be
+much going on.&lt;&#x2F;li&gt;
+  &lt;li&gt;Simplicity: 0. There are many moving pieces, as well as many different kinds of processes and entities.&lt;&#x2F;li&gt;
+  &lt;li&gt;Visibility: 2. Lots of cli tooling, no prometheus metrics that I could find.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;TOTAL: 17&lt;&#x2F;p&gt;
+
+&lt;p&gt;Overall MooseFS seems to me like a poor-developer’s Ceph. It can do exactly the
+same things, but with less of a community around it. The sale’s pitch and
+feature-gating also don’t ingratiate it to me. The most damning “feature” is the
+master metadata server, which acts as a SPOF and only sort of supports
+replication (but not failover, unless you get Pro).&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;cutting-room-floor&quot;&gt;Cutting Room Floor&lt;&#x2F;h2&gt;
+
+&lt;p&gt;The following projects were intended to be reviewed, but didn’t make the cut for
+various reasons.&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tahoe-LAFS: The FUSE mount (which is actually an SFTP mount) doesn’t support
+mutable files.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;HekaFS: Doesn’t appear to exist anymore(?)&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;IPFS-cluster: Doesn’t support sharding.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;MinFS: Seems to only work off S3, no longer maintained anyway.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;DRDB: Linux specific, no mac support.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;BeeGFS: No mac support (I don’t think? I couldn’t find any indication it
+supports macs at any rate).&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;NFS: No support for sharding the dataset.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;h2 id=&quot;conclusions&quot;&gt;Conclusions&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Going through the featuresets of all these different projects really helped me
+focus in on how I actually expect this system to function, and a few things
+stood out to me:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Perfect consistency is not a goal, and is ultimately harmful for this
+use-case. The FS needs to propagate changes relatively quickly, but if two
+different hosts are updating the same file it’s not necessary to synchronize
+those updates like a local filesystem would; just let one changeset clobber
+the other and let the outer application deal with coordination.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Permissions are extremely important, and yet for all these projects are
+generally an afterthought. In a distributed setting we can’t rely on the OS
+user&#x2F;groups of a host to permission read&#x2F;write access. Instead that must be
+done primarily via e2e encryption.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Transience is not something most of these project expect, but is a hard
+requirement of this use-case. In the long run we need something which can be
+run on home hardware on home ISPs, which is not reliable at all. Hosts need to
+be able to flit in and out of existence, and the cluster as a whole needs to
+self-heal through that process.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;In the end, it may be necessary to roll our own project for this, as I don’t
+think any of the existing distributed file systems are suitable for what’s
+needed.&lt;&#x2F;p&gt;
+      
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Simple Declarative VMs</title>
         <author>
