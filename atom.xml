@@ -4,8 +4,249 @@
   <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2021-04-11T00:00:00+00:00</updated>
+  <updated>2021-04-27T00:00:00+00:00</updated>
   <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Loops in Ginger</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2021-04-27T00:00:00+00:00</published>
+    <updated>2021-04-27T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-loops-in-ginger/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-loops-in-ginger/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/04/27/loops-in-ginger.html</id>
+        <link href="https://blog.mediocregopher.com/2021/04/27/loops-in-ginger.html"/>
+        <title>Loops in Ginger</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2021-04-27T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-loops-in-ginger/</id>
+    <content type="html">
+        &lt;p&gt;In previous posts in this series I went over the general idea of the ginger
+programming language, and some of its properties. To recap:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ginger is a programming language whose syntax defines a directed graph, in the
+same way that a LISP language’s syntax defines nested lists.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Graph edges indicate an operation, while nodes indicate a value.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The special values &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;in&lt;&#x2F;code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;out&lt;&#x2F;code&gt; are used when interpreting a graph as a
+function.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A special node type, the tuple, is defined as being a node whose value is an
+ordered set of input edges.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Another special node type, the fork, is the complement to the tuple. A fork is
+defined as being a node whose value is an ordered set of output edges.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The special &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; operation accepts a 2-tuple, the first value being some state
+value and the second being a tuple. The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; operation expects to be directed
+towards a 2-fork. If the boolean is true then the top output edge of the fork
+is taken, otherwise the bottom is taken. The state value is what’s passed to
+the taken edge.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;There were some other detail rules but I don’t remember them off the top of my
+head.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;loops&quot;&gt;Loops&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Today I’d like to go over my ideas for how loops would work in ginger. With
+loops established ginger would officially be a Turing complete language and,
+given time and energy, real work could actually begin on it.&lt;&#x2F;p&gt;
+
+&lt;p&gt;As with conditionals I’ll start by establishing a base example. Let’s say we’d
+like to define an operation which prints out numbers from 0 up to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n&lt;&#x2F;code&gt;, where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n&lt;&#x2F;code&gt;
+is given as an argument. In go this would look like:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-go highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;func&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;printRange&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;&#x2F;span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;&#x2F;span&gt;
+    &lt;span class=&quot;k&quot;&gt;for&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;:=&lt;&#x2F;span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;++&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;&#x2F;span&gt;
+        &lt;span class=&quot;n&quot;&gt;fmt&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Println&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;&#x2F;span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;&#x2F;span&gt;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;With that established, let’s start looking at different patterns.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;goto&quot;&gt;Goto&lt;&#x2F;h2&gt;
+
+&lt;p&gt;In the olden days the primary looping construct was &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;goto&lt;&#x2F;code&gt;, which essentially
+teleports the program counter (aka instruction pointer) to another place in the
+execution stack. Pretty much any other looping construct can be derived from
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;goto&lt;&#x2F;code&gt; and some kind of conditional, so it’s a good starting place when
+considering loops in ginger.&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;(in -println-&amp;gt; } -incr-&amp;gt; out) -&amp;gt; println-incr
+
+0  -&amp;gt; }    -&amp;gt; } -if-&amp;gt; { -&amp;gt; out
+in -&amp;gt; } -eq-&amp;gt; }       { -&amp;gt; } -upd-&amp;gt; } -+
+      ^               0 -&amp;gt; }           |
+      |    println-incr -&amp;gt; }           |
+      |                                |
+      +--------------------------------+
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;(Note: the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;upd&lt;&#x2F;code&gt; operation is used here for convenience. It takes in three
+arguments: A tuple, an index, and an operation. It applies the operation to the
+tuple element at the given index, and returns a new tuple with that index set to
+the value returned.)&lt;&#x2F;p&gt;
+
+&lt;p&gt;Here &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;goto&lt;&#x2F;code&gt; is performed using a literal arrow going from the right to left.
+it’s ugly and hard to write, and would only be moreso the more possible gotos an
+operation has.&lt;&#x2F;p&gt;
+
+&lt;p&gt;It also complicates our graphs in a significant way: up till now ginger graphs
+have have always been directed &lt;em&gt;acyclic&lt;&#x2F;em&gt; graphs (DAGs), but by introducing this
+construct we allow that graphs might be cyclic. It’s not immediately clear to me
+what the consequences of this will be, but I’m sure they will be great. If
+nothign else it will make the compiler much more complex, as each value can no
+longer be defined in terms of its input edge, as that edge might resolve back to
+the value itself.&lt;&#x2F;p&gt;
+
+&lt;p&gt;While conceptually sound, I think this strategy fails the practability test. We
+can do better.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;while&quot;&gt;While&lt;&#x2F;h2&gt;
+
+&lt;p&gt;The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;while&lt;&#x2F;code&gt; construct is the basic looping primitive of iterative languages
+(some call it &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;for&lt;&#x2F;code&gt;, but they’re just lying to themselves).&lt;&#x2F;p&gt;
+
+&lt;p&gt;Try as I might, I can’t come up with a way to make &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;while&lt;&#x2F;code&gt; work with ginger.
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;while&lt;&#x2F;code&gt; ultimately relies on scoped variables being updated in place to
+function, while ginger is based on the concept of pipelining a set of values
+through a series of operations. From the point of view of the programmer these
+operations are essentially immutable, so the requirement of a variable which can
+be updated in place cannot be met.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;recur&quot;&gt;Recur&lt;&#x2F;h2&gt;
+
+&lt;p&gt;This pattern is based on how many functional languages, for example erlang,
+handle looping. Rather than introducing new primitives around looping, these
+language instead ensure that tail calls are properly optimized and uses those
+instead. So loops are implemented as recursive function calls.&lt;&#x2F;p&gt;
+
+&lt;p&gt;For ginger to do this it would make sense to introduce a new special value,
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;recur&lt;&#x2F;code&gt;, which could be used alongside &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;in&lt;&#x2F;code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;out&lt;&#x2F;code&gt; within operations. When
+the execution path hits a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;recur&lt;&#x2F;code&gt; then it gets teleported back to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;in&lt;&#x2F;code&gt;
+value, with the input to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;recur&lt;&#x2F;code&gt; now being the output from &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;in&lt;&#x2F;code&gt;. Usage of it
+would look like:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;(
+
+    (in -println-&amp;gt; } -incr-&amp;gt; out) -&amp;gt; println-incr
+
+    in    -&amp;gt; } -if-&amp;gt; { -&amp;gt; out
+    in -eq-&amp;gt; }       { -&amp;gt; } -upd-&amp;gt; } -&amp;gt; recur
+                     0 -&amp;gt; }
+          println-incr -&amp;gt; }
+
+) -&amp;gt; inner-op
+
+0  -&amp;gt; } -inner-op-&amp;gt; out
+in -&amp;gt; }
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;This looks pretty similar to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;goto&lt;&#x2F;code&gt; example overall, but with the major
+difference that the looping body had to be wrapped into an inner operation. The
+reason for this is that the outer operation only takes in one argument, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n&lt;&#x2F;code&gt;, but
+the loop actually needs two pieces of state to function: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n&lt;&#x2F;code&gt; and the current
+value. So the inner operation loops over these two pieces of state, and the
+outer operation supplies &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n&lt;&#x2F;code&gt; and an initial iteration value (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;0&lt;&#x2F;code&gt;) to that inner
+operation.&lt;&#x2F;p&gt;
+
+&lt;p&gt;This seems cumbersome on the surface, but what other languages do (such as
+erlang, which is the one I’m most familiar with) is to provide built-in macros
+on top of this primitive which make it more pleasant to use. These include
+function polymorphism and a more familiar &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;for&lt;&#x2F;code&gt; construct. With a decent macro
+capability ginger could do the same.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The benefits here are that the graphs remain acyclic, and the syntax has not
+been made more cumbersome. It follows conventions established by other
+languages, and ensures the language will be capable of tail-recursion.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;mapreduce&quot;&gt;Map&#x2F;Reduce&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Another functional strategy which is useful is that of the map&#x2F;reduce power
+couple. The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;map&lt;&#x2F;code&gt; operation takes a sequence of values and an operation, and
+returns a sequence of the same length where the operation has been applied to
+each value in the original sequence individually. The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reduce&lt;&#x2F;code&gt; operation is more
+complicated (and not necessary for out example), but it’s essentially a
+mechanism to turn a sequence of values into a single value.&lt;&#x2F;p&gt;
+
+&lt;p&gt;For our example we only need &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;map&lt;&#x2F;code&gt;, plus one more helper operation: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;range&lt;&#x2F;code&gt;.
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;range&lt;&#x2F;code&gt; takes a number &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n&lt;&#x2F;code&gt; and returns a sequence of numbers starting at &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;0&lt;&#x2F;code&gt; and
+ending at &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n-1&lt;&#x2F;code&gt;. Our print example now looks like:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;in -range-&amp;gt; } -map-&amp;gt; out
+ println -&amp;gt; }
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;Very simple! Map&#x2F;reduce is a well established pattern and is probably the
+best way to construct functional programs. However, the question remains whether
+these are the best &lt;em&gt;primitives&lt;&#x2F;em&gt; for looping, and I don’t believe they are. Both
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;map&lt;&#x2F;code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reduce&lt;&#x2F;code&gt; can be derived from conditional and looping primitives like
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;recur&lt;&#x2F;code&gt;, and they can’t do some things that those primitives can. While&lt;&#x2F;p&gt;
+
+&lt;p&gt;I expect one of the first things which will be done in ginger is to define &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;map&lt;&#x2F;code&gt;
+and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reduce&lt;&#x2F;code&gt; in terms of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; and a looping primitive, and use them generously
+throughout the code, I think the fact that they can be defined in terms of
+lower-level primitives indicates that they aren’t the right looping primitives
+for ginger.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Unlike with the conditionals posts, where I started out not really knowing what
+I wanted to do with conditionals, I more or less knew where this post was going
+from the beginning. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;recur&lt;&#x2F;code&gt; is, in my mind, the best primitive for looping in
+ginger. It provides the flexibility to be extended to any use-case, while not
+complicating the structure of the language. While possibly cumbersome to
+implement directly, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;recur&lt;&#x2F;code&gt; can be used as a primitive to construct more
+convenient looping operations like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;map&lt;&#x2F;code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reduce&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+
+&lt;p&gt;As a final treat (lucky you!), here’s &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;map&lt;&#x2F;code&gt; defined using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;recur&lt;&#x2F;code&gt;:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;(
+    in -0-&amp;gt; mapped-seq
+    in -1-&amp;gt; orig-seq
+    in -2-&amp;gt; op
+
+    mapped-seq -len-&amp;gt; i
+
+              mapped-seq -&amp;gt; } -if-&amp;gt; { -&amp;gt; out
+    orig-seq -len-&amp;gt; } -eq-&amp;gt; }       { -&amp;gt; } -append-&amp;gt; } -&amp;gt; recur
+               i -&amp;gt; }                    }           }
+                                         }           }
+                   orig-seq -i-&amp;gt; } -op-&amp;gt; }           }
+                                                     }
+                                         orig-seq -&amp;gt; }
+                                               op -&amp;gt; }
+) -&amp;gt; inner-map
+
+  () -&amp;gt; } -inner-map-&amp;gt; out
+in -0-&amp;gt; }
+in -1-&amp;gt; }
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;The next step for ginger is going to be writing an actual implementation of the
+graph structure in some other language (let’s be honest, it’ll be in go). After
+that we’ll need a syntax definition which can be used to encode&#x2F;decode that
+structure, and from there we can start actually implementing the language!&lt;&#x2F;p&gt;
+      
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Ripple V2: A Better Game</title>
         <author>
