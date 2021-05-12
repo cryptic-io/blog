@@ -4,8 +4,468 @@
   <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2021-05-02T00:00:00+00:00</updated>
+  <updated>2021-05-11T00:00:00+00:00</updated>
   <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Ripple V3</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2021-05-11T00:00:00+00:00</published>
+    <updated>2021-05-11T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-ripple-v3/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-ripple-v3/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/05/11/ripple-v3.html</id>
+        <link href="https://blog.mediocregopher.com/2021/05/11/ripple-v3.html"/>
+        <title>Ripple V3</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2021-05-11T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-ripple-v3/</id>
+    <content type="html">
+        &lt;p&gt;
+    &lt;b&gt;Movement:&lt;&#x2F;b&gt; Arrow keys or WASD&lt;br &#x2F;&gt;
+    &lt;b&gt;Jump:&lt;&#x2F;b&gt; Space&lt;br &#x2F;&gt;
+    &lt;b&gt;Goal:&lt;&#x2F;b&gt; Jump as many times as possible without touching a ripple!&lt;br &#x2F;&gt;
+    &lt;br &#x2F;&gt;
+    &lt;b&gt;Press Jump To Begin!&lt;&#x2F;b&gt;
+&lt;&#x2F;p&gt;
+
+&lt;p&gt;&lt;em&gt;Who can make the muddy water clear?&lt;br &#x2F;&gt;
+Let it be still, and it will gradually become clear.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+
+&lt;canvas id=&quot;canvas&quot; style=&quot;border:1px dashed #AAA&quot; tabindex=&quot;0&quot;&gt;
+Your browser doesn&#x27;t support canvas. At this point in the world that&#x27;s actually
+pretty cool, well done!
+&lt;&#x2F;canvas&gt;
+&lt;p&gt;&lt;button onclick=&quot;reset()&quot;&gt;(R)eset&lt;&#x2F;button&gt;
+&lt;span style=&quot;font-size: 2rem; margin-left: 1rem;&quot;&gt;Score:
+    &lt;span style=&quot;font-weight: bold&quot; id=&quot;score&quot;&gt;0&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;p&gt;
+
+&lt;script type=&quot;text&#x2F;javascript&quot;&gt;
+
+const palette = [
+    &quot;#264653&quot;,
+    &quot;#2A9D8F&quot;,
+    &quot;#E9C46A&quot;,
+    &quot;#F4A261&quot;,
+    &quot;#E76F51&quot;,
+];
+
+const width = 800;
+const height = 600;
+
+function hypotenuse(w, h) {
+    return Math.sqrt(Math.pow(w, 2) + Math.pow(h, 2));
+}
+
+let canvas = document.getElementById(&quot;canvas&quot;);
+canvas.width = width;
+canvas.height = height;
+
+const whitelistedKeys = {
+    &quot;ArrowUp&quot;: {},
+    &quot;KeyW&quot;: {map: &quot;ArrowUp&quot;},
+    &quot;ArrowLeft&quot;: {},
+    &quot;KeyA&quot;: {map: &quot;ArrowLeft&quot;},
+    &quot;ArrowRight&quot;: {},
+    &quot;KeyD&quot;: {map: &quot;ArrowRight&quot;},
+    &quot;ArrowDown&quot;: {},
+    &quot;KeyS&quot;: {map: &quot;ArrowDown&quot;},
+    &quot;Space&quot;: {},
+    &quot;KeyR&quot;: {},
+};
+
+let keyboard = {};
+
+canvas.addEventListener(&#x27;keydown&#x27;, (event) =&gt; {
+    let keyInfo = whitelistedKeys[event.code];
+    if (!keyInfo) return;
+
+    let code = event.code;
+    if (keyInfo.map) code = keyInfo.map;
+
+    event.preventDefault();
+    keyboard[code] = true;
+});
+
+canvas.addEventListener(&#x27;keyup&#x27;, (event) =&gt; {
+    let keyInfo = whitelistedKeys[event.code];
+    if (!keyInfo) return;
+
+    let code = event.code;
+    if (keyInfo.map) code = keyInfo.map;
+
+    event.preventDefault();
+    delete keyboard[code];
+});
+
+
+const C = 700; &#x2F;&#x2F; scales the overall speed of the radius
+const T = 500; &#x2F;&#x2F; on which tick the radius change becomes linear
+
+&#x2F;*
+    f(x) = sqrt(C*x)                        when x &lt; T
+           (C&#x2F;(2*sqrt(CT)))(x-T) + sqrt(CT) when x &gt;= T
+
+    radius(x) = f(x) + playerRadius;
+*&#x2F;
+
+const F1 = (x) =&gt; Math.sqrt(C*x);
+const F2C1 = C &#x2F; (2 * Math.sqrt(C*T));
+const F2C2 = Math.sqrt(C * T);
+const F2 = (x) =&gt; (F2C1 * (x - T)) + F2C2;
+const F = (x) =&gt; {
+    if (x &lt; T) return F1(x);
+    return F2(x);
+};
+
+class Ripple {
+
+    constructor(id, currTick, x, y, bounces, color) {
+        this.id = id;
+        this.tick = currTick;
+        this.x = x;
+        this.y = y;
+        this.thickness = Math.pow(bounces+1, 1.25);
+        this.color = color;
+        this.winner = false;
+
+        this.maxRadius = hypotenuse(x, y);
+        this.maxRadius = Math.max(this.maxRadius, hypotenuse(width-x, y));
+        this.maxRadius = Math.max(this.maxRadius, hypotenuse(x, height-y));
+        this.maxRadius = Math.max(this.maxRadius, hypotenuse(width-x, height-y));
+    }
+
+    radius(currTick) {
+        const x = currTick - this.tick;
+        return F(x) + playerRadius;
+    }
+
+    draw(ctx, currTick) {
+        ctx.beginPath();
+        ctx.arc(this.x, this.y, this.radius(currTick), 0, Math.PI * 2, false);
+        ctx.closePath();
+        ctx.lineWidth = this.thickness;
+        ctx.strokeStyle = this.winner ? &quot;#FF0000&quot; : this.color;
+        ctx.stroke();
+    }
+
+    canGC(currTick) {
+        return this.radius(currTick) &gt; this.maxRadius;
+    }
+}
+
+const playerRadius = 10;
+const playerMoveAccel = 0.5;
+const playerMoveDecel = 0.7;
+const playerMaxMoveSpeed = 4;
+const playerJumpSpeed = 0.08;
+const playerMaxHeight = 1;
+const playerGravity = 0.01;
+
+class Player{
+
+    constructor(x, y, color) {
+        this.x = x;
+        this.y = y;
+        this.z = 0;
+        this.xVelocity = 0;
+        this.yVelocity = 0;
+        this.zVelocity = 0;
+        this.color = color;
+        this.falling = false;
+        this.lastJumpHeight = 0;
+        this.loser = false;
+    }
+
+    act() {
+        if (keyboard[&quot;ArrowUp&quot;]) {
+            this.yVelocity = Math.max(-playerMaxMoveSpeed, this.yVelocity - playerMoveAccel);
+        } else if (keyboard[&quot;ArrowDown&quot;]) {
+            this.yVelocity = Math.min(playerMaxMoveSpeed, this.yVelocity + playerMoveAccel);
+        } else if (this.yVelocity &gt; 0) {
+            this.yVelocity = Math.max(0, this.yVelocity - playerMoveDecel);
+        } else if (this.yVelocity &lt; 0) {
+            this.yVelocity = Math.min(0, this.yVelocity + playerMoveDecel);
+        }
+
+        this.y += this.yVelocity;
+        if (this.y &lt; 0) this.y += height;
+        else if (this.y &gt; height) this.y -= height;
+
+        if (keyboard[&quot;ArrowLeft&quot;]) {
+            this.xVelocity = Math.max(-playerMaxMoveSpeed, this.xVelocity - playerMoveAccel);
+        } else if (keyboard[&quot;ArrowRight&quot;]) {
+            this.xVelocity = Math.min(playerMaxMoveSpeed, this.xVelocity + playerMoveAccel);
+        } else if (this.xVelocity &gt; 0) {
+            this.xVelocity = Math.max(0, this.xVelocity - playerMoveDecel);
+        } else if (this.xVelocity &lt; 0) {
+            this.xVelocity = Math.min(0, this.xVelocity + playerMoveDecel);
+        }
+
+        this.x += this.xVelocity;
+        if (this.x &lt; 0) this.x += width;
+        else if (this.x &gt; width) this.x -= width;
+
+        let jumpHeld = keyboard[&quot;Space&quot;];
+
+        if (jumpHeld &amp;&amp; !this.falling &amp;&amp; this.z &lt; playerMaxHeight) {
+            this.lastJumpHeight = 0;
+            this.zVelocity = playerJumpSpeed;
+        } else {
+            this.zVelocity = Math.max(-playerJumpSpeed, this.zVelocity - playerGravity);
+            this.falling = this.z &gt; 0;
+        }
+
+        let prevZ = this.z;
+        this.z = Math.max(0, this.z + this.zVelocity);
+        this.lastJumpHeight = Math.max(this.z, this.lastJumpHeight);
+    }
+
+    drawAt(ctx, atX, atY) {
+        const y = atY - (this.z * 40);
+        const radius = playerRadius * (this.z+1)
+
+        &#x2F;&#x2F; draw main
+        ctx.beginPath();
+        ctx.arc(atX, y, radius, 0, Math.PI * 2, false);
+        ctx.closePath();
+        ctx.lineWidth = 0;
+        ctx.fillStyle = this.color;
+        ctx.fill();
+        if (this.loser) {
+            ctx.strokeStyle = &#x27;#FF0000&#x27;;
+            ctx.lineWidth = 2;
+            ctx.stroke();
+        }
+
+        &#x2F;&#x2F; draw shadow, if in the air
+        if (this.z &gt; 0) {
+            let radius = Math.max(0, playerRadius * (1.2 - this.z));
+            ctx.beginPath();
+            ctx.arc(atX, atY, radius, 0, Math.PI * 2, false);
+            ctx.closePath();
+            ctx.lineWidth = 0;
+            ctx.fillStyle = this.color+&quot;33&quot;;
+            ctx.fill();
+        }
+    }
+
+    draw(ctx) {
+        [-1, 0, 1].forEach((wScalar) =&gt; {
+            const w = width * wScalar;
+            [-1, 0, 1].forEach((hScalar) =&gt; {
+                const h = height * hScalar;
+                this.drawAt(ctx, this.x+w, this.y+h);
+            })
+        })
+    }
+}
+
+class Game {
+
+    constructor(canvas, scoreEl) {
+        this.currTick = 0;
+        this.player = new Player(width&#x2F;2, height&#x2F;2, palette[0]);
+        this.state = &#x27;play&#x27;;
+        this.score = 0;
+        this.scoreEl = scoreEl;
+        this.canvas = canvas;
+        this.ctx = canvas.getContext(&quot;2d&quot;);
+        this.ripples = [];
+        this.nextRippleID = 0;
+    }
+
+    shouldReset() {
+        return keyboard[&#x27;KeyR&#x27;];
+    }
+
+    newRippleID() {
+        let id = this.nextRippleID;
+        this.nextRippleID++;
+        return id;
+    }
+
+    &#x2F;&#x2F; newRipple initializes and stores a new ripple at the given coordinates, as
+    &#x2F;&#x2F; well as all sub-ripples which make up the initial ripple&#x27;s reflections.
+    newRipple(x, y, bounces, color) {
+        color = color ? color : palette[Math.floor(Math.random() * palette.length)];
+
+        let ripplePos = [];
+        let nextRipples = [];
+
+        let addRipple = (x, y) =&gt; {
+            for (let i in ripplePos) {
+                if (ripplePos[i][0] == x &amp;&amp; ripplePos[i][1] == y) return;
+            }
+
+            let ripple = new Ripple(this.newRippleID(), this.currTick, x, y, bounces, color);
+            nextRipples.push(ripple);
+            ripplePos.push([x, y]);
+            this.ripples.push(ripple);
+        };
+
+        &#x2F;&#x2F; add initial ripple, after this we deal with the sub-ripples.
+        addRipple(x, y);
+
+        while (bounces &gt; 0) {
+            bounces--;
+            let prevRipples = nextRipples;
+            nextRipples = [];
+
+            for (let i in prevRipples) {
+                let prevX = prevRipples[i].x;
+                let prevY = prevRipples[i].y;
+
+                [-1, 0, 1].forEach((wScalar) =&gt; {
+                    const w = this.canvas.width * wScalar;
+                    [-1, 0, 1].forEach((hScalar) =&gt; {
+                        const h = this.canvas.height * hScalar;
+                        addRipple(prevX + w, prevY + h);
+                    })
+                })
+            }
+        }
+    }
+
+    &#x2F;&#x2F; playerRipplesState returns a mapping of rippleID -&gt; boolean, where each
+    &#x2F;&#x2F; boolean indicates the ripple&#x27;s relation to the player at the moment. true
+    &#x2F;&#x2F; indicates the player is outside the ripple, false indicates the player is
+    &#x2F;&#x2F; within the ripple.
+    playerRipplesState() {
+        let state = {};
+        for (let i in this.ripples) {
+            let ripple = this.ripples[i];
+            let rippleRadius = ripple.radius(this.currTick);
+            let hs = Math.pow(ripple.x-this.player.x, 2) + Math.pow(ripple.y-this.player.y, 2);
+            state[ripple.id] = hs &gt; Math.pow(rippleRadius + playerRadius, 2);
+        }
+        return state;
+    }
+
+    playerHasJumpedOverRipple(prev, curr) {
+        for (const rippleID in prev) {
+            if (!curr.hasOwnProperty(rippleID)) continue;
+            if (curr[rippleID] != prev[rippleID]) return true;
+        }
+        return false;
+    }
+
+    update() {
+        if (this.state != &#x27;play&#x27;) return;
+
+        let playerPrevZ = this.player.z;
+        this.player.act();
+
+        if (playerPrevZ == 0 &amp;&amp; this.player.z &gt; 0) {
+            &#x2F;&#x2F; player has jumped
+            this.prevPlayerRipplesState = this.playerRipplesState();
+
+        } else if (playerPrevZ &gt; 0 &amp;&amp; this.player.z == 0) {
+
+            &#x2F;&#x2F; player has landed, don&#x27;t produce a ripple unless there are no
+            &#x2F;&#x2F; existing ripples or the player jumped over an existing one.
+            if (
+                this.ripples.length == 0 ||
+                this.playerHasJumpedOverRipple(
+                    this.prevPlayerRipplesState,
+                    this.playerRipplesState()
+                )
+            ) {
+                &#x2F;&#x2F;let bounces = Math.floor((this.player.lastJumpHeight*1.8)+1);
+                const bounces = 1;
+
+                console.log(&quot;spawning ripple with bounces:&quot;, bounces);
+                this.newRipple(this.player.x, this.player.y, bounces);
+                this.score += bounces;
+            }
+        }
+
+        if (this.player.z == 0) {
+            for (let i in this.ripples) {
+                let ripple = this.ripples[i];
+                let rippleRadius = ripple.radius(this.currTick);
+                if (rippleRadius &lt; playerRadius * 1.5) continue;
+                let hs = Math.pow(ripple.x-this.player.x, 2) + Math.pow(ripple.y-this.player.y, 2);
+                if (hs &gt; Math.pow(rippleRadius + playerRadius, 2)) {
+                    continue;
+                } else if (hs &lt;= Math.pow(rippleRadius - playerRadius, 2)) {
+                    continue;
+                } else {
+                    console.log(&quot;game over&quot;, ripple);
+                    ripple.winner = true;
+                    this.player.loser = true;
+                    this.state = &#x27;gameOver&#x27;;
+                    &#x2F;&#x2F; deliberately don&#x27;t break here, in case multiple ripples hit
+                    &#x2F;&#x2F; the player on the same frame
+                }
+            }
+        }
+
+        this.ripples = this.ripples.filter(ripple =&gt; !ripple.canGC(this.currTick));
+
+        this.currTick++;
+    }
+
+    draw() {
+        this.ctx.clearRect(0, 0, this.canvas.width, this.canvas.height);
+        this.ripples.forEach(ripple =&gt; ripple.draw(this.ctx, this.currTick));
+        this.player.draw(this.ctx)
+        this.scoreEl.innerHTML = this.score;
+    }
+}
+
+
+const requestAnimationFrame =
+    window.requestAnimationFrame ||
+    window.mozRequestAnimationFrame ||
+    window.webkitRequestAnimationFrame ||
+    window.msRequestAnimationFrame;
+
+let game = new Game(canvas, document.getElementById(&quot;score&quot;));
+
+function reset() {
+    game = new Game(canvas, document.getElementById(&quot;score&quot;));
+}
+
+function nextFrame() {
+    if (game.shouldReset()) reset();
+
+    game.update()
+    game.draw()
+    requestAnimationFrame(nextFrame);
+}
+requestAnimationFrame(nextFrame);
+
+canvas.focus();
+
+&lt;&#x2F;script&gt;
+
+&lt;h2 id=&quot;changelog&quot;&gt;Changelog&lt;&#x2F;h2&gt;
+
+&lt;p&gt;The previous version was two easy to break, even with the requirement of jumping
+over a ripple to generate a new one and increase your score. This led to the
+following major changes:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The game now incorporates asteroid&#x2F;pacman mechanics. Rather than bouncing off
+walls, the player and ripples will instead come out the opposite wall they
+travel through.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Jump height no longer affects score or the “strength” of a ripple.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+      
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>NFTs</title>
         <author>
