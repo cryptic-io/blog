@@ -467,6 +467,231 @@ travel through.&lt;&#x2F;p&gt;
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Declarative Dev Environments</title>
+        <author>
+            <name>Marco</name>
+        </author>
+    <published>2021-05-10T00:00:00+00:00</published>
+    <updated>2021-05-10T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/marco-declarative-dev-environments/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/marco-declarative-dev-environments/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/declarative-dev-environments/</id>
+        <link href="https://marcopolo.io/code/declarative-dev-environments/"/>
+        <title>Declarative Dev Environments</title>
+        <author>
+            <name>Marco</name>
+        </author>
+        <updated>2021-05-10T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/marco-declarative-dev-environments/</id>
+    <content type="html">
+        &lt;p&gt;I don&#x27;t install development tools globally. I don&#x27;t have &lt;code&gt;node&lt;&#x2F;code&gt; added to my
+&lt;code&gt;PATH&lt;&#x2F;code&gt; in my &lt;code&gt;~&#x2F;.zshrc&lt;&#x2F;code&gt; file, and running &lt;code&gt;cargo&lt;&#x2F;code&gt; outside a project folder
+returns &amp;quot;command not found.&amp;quot; I wipe my computer on every reboot. With the
+exception of four folders (&lt;code&gt;&#x2F;boot&lt;&#x2F;code&gt;, &lt;code&gt;&#x2F;nix&lt;&#x2F;code&gt;, &lt;code&gt;&#x2F;home&lt;&#x2F;code&gt;, and &lt;code&gt;&#x2F;persist&lt;&#x2F;code&gt;), everything
+gets &lt;a href=&quot;https:&#x2F;&#x2F;grahamc.com&#x2F;blog&#x2F;erase-your-darlings&quot;&gt;deleted&lt;&#x2F;a&gt;. And it has worked
+out great.&lt;&#x2F;p&gt;
+&lt;p&gt;Instead of installing development packages globally, I declare them as a
+dependency in my project&#x27;s dev environment. They become available as soon as I
+&lt;code&gt;cd&lt;&#x2F;code&gt; into the project folder. If two projects use the same tool then I only keep
+one version of that tool on my computer.&lt;&#x2F;p&gt;
+&lt;p&gt;I think installing dev tools globally is a bad pattern that leads to nothing but
+heartache and woe. If you are running &lt;code&gt;sudo apt-get install&lt;&#x2F;code&gt; or &lt;code&gt;brew install&lt;&#x2F;code&gt;
+prior to building a project, you are doing it wrong. By defining your dev tool
+dependencies explicitly you allow your projects to easily build on any
+machine at any point in time. Whether it&#x27;s on a friends machine today, or a new
+laptop in 10 years. It even makes CI integration a breeze.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-do-i-mean-by-a-declarative-dev-environment&quot;&gt;What do I mean by a declarative dev environment?&lt;&#x2F;h2&gt;
+&lt;p&gt;I mean a project that has a special file (or files) that define all the
+dependencies required to build and run your project. It doesn&#x27;t necessarily have
+to include the actual binaries you will run in the repo, but it should be
+reproducible. If you clone my project you should be running the exact
+same tools as me.&lt;&#x2F;p&gt;
+&lt;p&gt;Just like you have explicit dependencies on libraries you use in your program, a
+declarative dev environment lets you define your tooling dependencies (e.g.
+which version of Node, Yarn, or your specific cross compiler toolchain).&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-i-setup-my-declarative-dev-environments&quot;&gt;How I setup my declarative dev environments&lt;&#x2F;h2&gt;
+&lt;p&gt;To accomplish this I use &lt;a href=&quot;https:&#x2F;&#x2F;nixos.org&quot;&gt;Nix&lt;&#x2F;a&gt; with &lt;a href=&quot;https:&#x2F;&#x2F;www.tweag.io&#x2F;blog&#x2F;2020-05-25-flakes&#x2F;&quot;&gt;Nix Flakes&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;direnv.net&#x2F;&quot;&gt;direnv&lt;&#x2F;a&gt;. There are three
+relevant files: &lt;code&gt;flake.nix&lt;&#x2F;code&gt; which defines the build of the project and the tools
+I need for development; &lt;code&gt;flake.lock&lt;&#x2F;code&gt; which is similar in spirit to a &lt;code&gt;yarn.lock&lt;&#x2F;code&gt;
+or &lt;code&gt;Cargo.lock&lt;&#x2F;code&gt; file, it &lt;em&gt;locks&lt;&#x2F;em&gt; the exact version of any tool used and
+generated automatically the first time you introduce dependencies; and finally a
+&lt;code&gt;.envrc&lt;&#x2F;code&gt; file which simply tells direnv to ask Nix what the environment should
+be, and sets up the environment when you &lt;code&gt;cd&lt;&#x2F;code&gt; into the folder. Here are some
+simple examples:
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;MarcoPolo&#x2F;templates&#x2F;tree&#x2F;master&#x2F;trivial&quot;&gt;flake.nix&lt;&#x2F;a&gt;,
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;MarcoPolo&#x2F;templates&#x2F;blob&#x2F;master&#x2F;trivial&#x2F;.envrc&quot;&gt;.envrc&lt;&#x2F;a&gt;
+(&lt;code&gt;flake.lock&lt;&#x2F;code&gt; omitted since it&#x27;s automatically generated).&lt;&#x2F;p&gt;
+&lt;p&gt;As a shortcut for setting up a &lt;code&gt;flake.nix&lt;&#x2F;code&gt; and &lt;code&gt;.envrc&lt;&#x2F;code&gt;, you can use a template
+to provide the boilerplate. When I start a new project I&#x27;ll run &lt;code&gt;nix flake init -t github:marcopolo&#x2F;templates&lt;&#x2F;code&gt; which copies the files from this
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;MarcoPolo&#x2F;templates&#x2F;tree&#x2F;master&#x2F;trivial&quot;&gt;repo&lt;&#x2F;a&gt; and puts them
+in your current working directory. Then running &lt;code&gt;direnv allow&lt;&#x2F;code&gt; will setup your
+local environment, installing any missing dependencies through Nix as a side
+effect.&lt;&#x2F;p&gt;
+&lt;p&gt;This blog itself makes use of &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;MarcoPolo&#x2F;marcopolo.github.io&#x2F;blob&#x2F;master&#x2F;flake.nix#L14&quot;&gt;declarative dev
+environments&lt;&#x2F;a&gt;.
+Zola is the static site generator I use. When I &lt;code&gt;cd&lt;&#x2F;code&gt; into my blog my environment
+is automatically setup with Zola available for previewing the blog.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;how-nix-works-roughly&quot;&gt;How Nix works, roughly&lt;&#x2F;h2&gt;
+&lt;p&gt;This all works off &lt;a href=&quot;https:&#x2F;&#x2F;nixos.org&quot;&gt;Nix&lt;&#x2F;a&gt;. Nix is a fantastic package manager and build tool that
+provides reproducible versions of packages that don&#x27;t rely on a specific global
+system configuration. Specifically packages installed through Nix don&#x27;t rely an
+a user&#x27;s &lt;code&gt;&#x2F;usr&#x2F;lib&lt;&#x2F;code&gt; or anything outside of &lt;code&gt;&#x2F;nix&#x2F;store&lt;&#x2F;code&gt;. You don&#x27;t even need
+glibc installed (as may be the case if you are on &lt;a href=&quot;https:&#x2F;&#x2F;www.alpinelinux.org&#x2F;&quot;&gt;Alpine
+Linux&lt;&#x2F;a&gt;).&lt;&#x2F;p&gt;
+&lt;p&gt;For a deeper dive see &lt;a href=&quot;https:&#x2F;&#x2F;nixos.org&#x2F;guides&#x2F;how-nix-works.html&quot;&gt;How Nix Works&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;an-example-how-to-setup-a-yarn-based-js-project&quot;&gt;An example, how to setup a Yarn based JS project.&lt;&#x2F;h2&gt;
+&lt;p&gt;To be concrete, let me show an example. If I wanted to start a JS project and
+use &lt;a href=&quot;https:&#x2F;&#x2F;yarnpkg.com&#x2F;&quot;&gt;Yarn&lt;&#x2F;a&gt; as my dependency manager, I would do something
+like this: &lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;&quot;&gt;
+&lt;code&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;# 1. Create the project folder
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;mkdir&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt; my-project
+
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;# 2. Add the boilerplate files.
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;nix flake init&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt; -t&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt; github:marcopolo&#x2F;templates
+
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;# 3. Edit flake.nix file to add yarn and NodeJS.
+# With your text editor apply this diff:
+# -          buildInputs = [ pkgs.hello ];
+# +          buildInputs = [ pkgs.yarn pkgs.nodejs-12_x ];
+
+# 4. Allow direnv to run this environment. This will also fetch yarn with Nix
+#    and add it to your path.
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;direnv allow
+
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;# 5. Yarn is now available, proceed as normal. 
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;yarn init
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;You can simplify this further by making a Nix Flake template that already has
+Yarn and NodeJS included. &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;another-example-setting-up-a-rust-project&quot;&gt;Another example. Setting up a Rust project.&lt;&#x2F;h2&gt;
+&lt;pre style=&quot;background-color:#2b303b;&quot;&gt;
+&lt;code&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;# 1. Create the project folder
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;mkdir&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt; rust-project
+
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;# 2. Add the boilerplate files.
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;nix flake init&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt; -t&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt; github:marcopolo&#x2F;templates#rust
+
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;# 3. Cargo and rust is now available, proceed as normal. 
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;cargo init
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;cargo&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt; run
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Here we used a Rust specific template, so no post template init changes were required.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;dissecting-the-flake-nix-file&quot;&gt;Dissecting the &lt;code&gt;flake.nix&lt;&#x2F;code&gt; file&lt;&#x2F;h2&gt;
+&lt;p&gt;Let&#x27;s break down the &lt;code&gt;flake.nix&lt;&#x2F;code&gt; file so we can understand what it is we are
+declaring.&lt;&#x2F;p&gt;
+&lt;p&gt;First off, the file is written in &lt;a href=&quot;https:&#x2F;&#x2F;nixos.wiki&#x2F;wiki&#x2F;Nix_Expression_Language&quot;&gt;Nix, the programming
+language&lt;&#x2F;a&gt;. At a high level you
+can read this as JSON but with functions. Like JSON it can only represent
+expressions (you can only have one top level JSON object), unlike JSON you can
+have functions and variables. &lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;&quot;&gt;
+&lt;code&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;# This is our top level set expression. Equivalent to the top level JSON object.
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;{
+  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;# These are comments
+
+  # Here we are defining a set. This is equivalent to a JSON object.
+  # The key is description, and the value is the string.
+  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;description &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;= &amp;quot;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;A very basic flake&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;&amp;quot;;
+
+  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;# You can define nested sets by using a `.` between key parts.
+  # This is equivalent to the JSON object {inputs: {flake-utils: {url: &amp;quot;github:...&amp;quot;}}}
+  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;inputs&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;flake-utils&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;url &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;= &amp;quot;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;github:numtide&#x2F;flake-utils&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;&amp;quot;;
+
+  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;# Functions are defined with the syntax of `param: functionBodyExpression`.
+  # The param can be destructured if it expects a set, like what we are doing here. 
+  # This defines the output of this flake. Our dev environment will make use of
+  # the devShell attribute, but you can also define the release build of your
+  # package here.
+  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;outputs &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fa1b3;&quot;&gt;{ &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;self, nixpkgs, flake-utils &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8fa1b3;&quot;&gt;}&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;:
+    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;# This is a helper to generate these outputs for each system (x86-linux,
+    # arm-linux, macOS, ...)
+    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;flake-utils&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;lib&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;eachDefaultSystem &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;(system:
+      &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;let
+        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;# The nixpkgs repo has to know which system we are using.
+        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;pkgs &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;import &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;nixpkgs &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;{ &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;system &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;system&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;; };
+      &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;in
+      &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;{
+        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;# This is the environment that direnv will use. You can also enter the
+        # shell with `nix shell`. The packages in `buildInputs` are what become
+        # available to you in your $PATH. As an example this only has the hello
+        # package.
+        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;devShell &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;pkgs&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;mkShell &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;{
+          &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;buildInputs &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;= [ &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;pkgs&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;hello &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;];
+        };
+
+        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;# You can also define a package that is built by default when you run
+        # `nix build`.  The build command creates a new folder, `result`, that
+        # is a symlink to the build output.
+        &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;defaultPackage &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;pkgs&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;hello&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;;
+      });
+}
+
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;h2 id=&quot;on-dev-tools-and-a-dev-setup&quot;&gt;On Dev Tools and A Dev Setup&lt;&#x2F;h2&gt;
+&lt;p&gt;There is a subtle distinction on what constitutes a Dev Tool vs A Dev Setup. I
+classify Dev Tools as things that need to be available to build or develop a given
+project specifically. Think of &lt;code&gt;gcc&lt;&#x2F;code&gt;, &lt;code&gt;yarn&lt;&#x2F;code&gt;, or &lt;code&gt;cargo&lt;&#x2F;code&gt;. The Dev Setup category
+are for things that are useful when developing in general. Vim, Emacs,
+&lt;a href=&quot;https:&#x2F;&#x2F;geoff.greer.fm&#x2F;ag&#x2F;&quot;&gt;ag&lt;&#x2F;a&gt; are some examples.&lt;&#x2F;p&gt;
+&lt;p&gt;Dev tools are worth defining explicitly in your project&#x27;s declarative dev environment (in
+a &lt;code&gt;flake.nix&lt;&#x2F;code&gt; file). A Dev Setup is highly personal and not worth defining in the
+project&#x27;s declarative dev environment. But that&#x27;s not to say your dev setup in not
+worth defining at all. In fact, if you are (or when you become) familiar with
+Nix, you can extend the same ideas of this post to your user account with &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nix-community&#x2F;home-manager&quot;&gt;Home
+Manager&lt;&#x2F;a&gt;. &lt;&#x2F;p&gt;
+&lt;p&gt;With Home Manager You can declaratively define which programs you want available
+in your dev setup, what Vim plugins you want installed, what ZSH plugins you
+want available and much more. It&#x27;s the core idea of declarative dev environments
+taken to the user account level.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;why-not-docker&quot;&gt;Why not Docker?&lt;&#x2F;h2&gt;
+&lt;p&gt;Many folks use Docker to get something like this, but while it gets close – and
+in some cases functionally equivalent – it has some shortcomings:&lt;&#x2F;p&gt;
+&lt;p&gt;For one, a Dockerfile is not reproducible out of the box. It is common to use
+&lt;code&gt;apt-get install&lt;&#x2F;code&gt; in a Dockerfile to add packages. This part isn&#x27;t reproducible
+and brings you back to the initial problem I outlined. &lt;&#x2F;p&gt;
+&lt;p&gt;Docker is less effecient with storage. It uses layers as the base block of
+Docker images rather than packages. This means that it&#x27;s relatively easy to end
+up with many similar docker images (for a more thorough analysis check
+out &lt;a href=&quot;https:&#x2F;&#x2F;grahamc.com&#x2F;blog&#x2F;nix-and-layered-docker-images&quot;&gt;Optimising Docker Layers for Better Caching with
+Nix&lt;&#x2F;a&gt;).&lt;&#x2F;p&gt;
+&lt;p&gt;Spinning up a container and doing development inside may not leverage your
+existing dev setup. For example you may have Vim setup neatly on your machine,
+but resort to &lt;code&gt;vi&lt;&#x2F;code&gt; when developing inside a container.  Or worse, you&#x27;ll 
+rebuild your dev setup inside the container, which does nothing more than
+add dead weight to the container since it&#x27;s an addition solely for you and not
+really part of the project. Of course there are some workarounds to this issue,
+you can bind mount a folder and VS Code supports opening a project inside a
+container.  &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;zmkfirmware&#x2F;zmk&quot;&gt;ZMK&lt;&#x2F;a&gt; does this and it has
+worked great.&lt;&#x2F;p&gt;
+&lt;p&gt;If you are on MacOS, developing inside a container is actually slower. Docker
+on Mac relies on running a linux VM in the background and running containers in
+that VM. By default that VM is underpowered relative to the host MacOS machine.&lt;&#x2F;p&gt;
+&lt;p&gt;There are cases where you actually do only want to run the code in an
+x86-linux environment and Docker provides a convenient proxy for this. In these
+cases I&#x27;d suggest using Nix to generate the Docker images. This way you get the
+declarative and reproducible properties from Nix and the convenience from Docker.&lt;&#x2F;p&gt;
+&lt;p&gt;As a caveat to all of the above, if you already have a reproducible dev environment
+with a Docker container that works for you, please don&#x27;t throw that all out and
+redesign your system from scratch. Keep using it until it stops meeting your
+needs and come back to this when it happens. Until then, keep building.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;on-nix-flakes&quot;&gt;On Nix Flakes&lt;&#x2F;h2&gt;
+&lt;p&gt;Nix Flakes is still new and in beta, so it&#x27;s likely that if you install Nix from
+their &lt;a href=&quot;https:&#x2F;&#x2F;nixos.org&#x2F;download.html&quot;&gt;download page&lt;&#x2F;a&gt; you won&#x27;t have Nix Flakes
+available. If you don&#x27;t already have Nix installed, you can install a version
+with Nix Flakes &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;numtide&#x2F;nix-unstable-installer&quot;&gt;with the unstable installer&lt;&#x2F;a&gt;,
+otherwise read the section on &lt;a href=&quot;https:&#x2F;&#x2F;nixos.wiki&#x2F;wiki&#x2F;Flakes#Installing_flakes&quot;&gt;installing flakes&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;closing-thoughts&quot;&gt;Closing thoughts&lt;&#x2F;h2&gt;
+&lt;p&gt;In modern programming languages we define all our dependencies explicitly and
+lock the specific versions used. It&#x27;s about time we do that for all our tools
+too. Let&#x27;s get rid of the &lt;code&gt;apt-get install&lt;&#x2F;code&gt; and &lt;code&gt;brew install&lt;&#x2F;code&gt; section of READMEs.&lt;&#x2F;p&gt;
+
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>NFTs</title>
         <author>
             <name>Brian Picciano</name>
