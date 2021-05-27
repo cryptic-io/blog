@@ -4,8 +4,236 @@
   <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2021-05-11T00:00:00+00:00</updated>
+  <updated>2021-05-26T00:00:00+00:00</updated>
   <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Visualization 4</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2021-05-26T00:00:00+00:00</published>
+    <updated>2021-05-26T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-visualization-4/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-visualization-4/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/05/26/viz-4.html</id>
+        <link href="https://blog.mediocregopher.com/2021/05/26/viz-4.html"/>
+        <title>Visualization 4</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2021-05-26T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-visualization-4/</id>
+    <content type="html">
+        &lt;canvas id=&quot;canvas&quot; style=&quot;padding-bottom: 2rem;&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;&#x2F;canvas&gt;
+
+&lt;p&gt;This visualization is a conglomeration of ideas from all the previous ones. On
+each tick up to 20 new pixels are generated. The color of each new pixel is
+based on the average color of its neighbors, plus some random drift.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Each pixel dies after a certain number of ticks, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;N&lt;&#x2F;code&gt;. A pixel’s life can be
+extended by up to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;8N&lt;&#x2F;code&gt; ticks, one for each neighbor it has which is still alive.
+This mechanism accounts for the strange behavior which is seen when the
+visualization first loads, but also allows for more coherent clusters of pixels
+to hold together as time goes on.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The asteroid rule is also in effect in this visualization, so the top row and
+bottom row pixels are neighbors of each other, and similarly for the rightmost
+and leftmost column pixels.&lt;&#x2F;p&gt;
+
+&lt;script type=&quot;text&#x2F;javascript&quot;&gt;
+
+function randn(n) {
+    return Math.floor(Math.random() * n);
+}
+
+const canvas = document.getElementById(&quot;canvas&quot;);
+const parentWidth = canvas.parentElement.offsetWidth;
+
+const rectSize = Math.floor(parentWidth &#x2F;100 &#x2F;2) *2; &#x2F;&#x2F; must be even number
+console.log(&quot;rectSize&quot;, rectSize);
+
+canvas.width = parentWidth - rectSize - (parentWidth % rectSize);
+canvas.height = canvas.width * 0.75;
+canvas.height -= canvas.height % rectSize;
+const ctx = canvas.getContext(&quot;2d&quot;);
+
+const w = (canvas.width &#x2F; rectSize) - 1;
+const h = (canvas.height &#x2F; rectSize) - 1;
+
+class Elements {
+  constructor() {
+    this.els = {};
+    this.diff = {};
+  }
+
+  _normCoord(coord) {
+    if (typeof coord !== &#x27;string&#x27;) coord = JSON.stringify(coord);
+    return coord;
+  }
+
+  get(coord) {
+    return this.els[this._normCoord(coord)];
+  }
+
+  getAll() {
+    return Object.values(this.els);
+  }
+
+  set(coord, el) {
+    this.diff[this._normCoord(coord)] = {action: &quot;set&quot;, coord: coord, ...el};
+  }
+
+  unset(coord) {
+    this.diff[this._normCoord(coord)] = {action: &quot;unset&quot;};
+  }
+
+  drawDiff(ctx) {
+    for (const coordStr in this.diff) {
+      const el = this.diff[coordStr];
+      const coord = JSON.parse(coordStr);
+
+      if (el.action == &quot;set&quot;) {
+        ctx.fillStyle = `hsl(${el.h}, ${el.s}, ${el.l})`;
+      } else {
+        ctx.fillStyle = `#FFF`;
+      }
+
+      ctx.fillRect(coord[0]*rectSize, coord[1]*rectSize, rectSize, rectSize);
+    }
+  }
+
+  applyDiff() {
+    for (const coordStr in this.diff) {
+      const el = this.diff[coordStr];
+      delete this.diff[coordStr];
+
+      if (el.action == &quot;set&quot;) {
+        delete el.action;
+        this.els[coordStr] = el;
+      } else {
+        delete this.els[coordStr];
+      }
+    }
+  }
+}
+
+const neighbors = [
+    [-1, -1],   [0, -1],   [1, -1],
+    [-1, 0], &#x2F;* [0, 0], *&#x2F; [1, 0],
+    [-1, 1],    [0, 1],    [1, 1],
+];
+
+function neighborsOf(coord) {
+  return neighbors.map((n) =&gt; {
+    let nX = coord[0]+n[0];
+    let nY = coord[1]+n[1];
+    nX = (nX + w) % w;
+    nY = (nY + h) % h;
+    return [nX, nY];
+  });
+}
+
+function randEmptyNeighboringCoord(els, coord) {
+  const neighbors = neighborsOf(coord).sort(() =&gt; Math.random() - 0.5);
+  for (const nCoord of neighbors) {
+    if (!els.get(nCoord)) return nCoord;
+  }
+  return null;
+}
+
+function neighboringElsOf(els, coord) {
+  const neighboringEls = [];
+  for (const nCoord of neighborsOf(coord)) {
+    const el = els.get(nCoord);
+    if (el) neighboringEls.push(el);
+  }
+  return neighboringEls;
+}
+
+const drift = 30;
+function newEl(nEls) {
+
+  &#x2F;&#x2F; for each h (which can be considered as degrees around a circle) break the h
+  &#x2F;&#x2F; down into x and y vectors, and add those up separately. Then find the angle
+  &#x2F;&#x2F; between those two resulting vectors, and that&#x27;s the &quot;average&quot; h value.
+  let x = 0;
+  let y = 0;
+  nEls.forEach((el) =&gt; {
+    const hRad = el.h * Math.PI &#x2F; 180;
+    x += Math.cos(hRad);
+    y += Math.sin(hRad);
+  });
+
+  let h = Math.atan2(y, x);
+  h = h &#x2F; Math.PI * 180;
+
+  &#x2F;&#x2F; apply some random drift, normalize
+  h += (Math.random() * drift * 2) - drift;
+  h = (h + 360) % 360;
+
+  return {
+    h: h,
+    s: &quot;100%&quot;,
+    l: &quot;50%&quot;,
+  };
+}
+
+const requestAnimationFrame = 
+  window.requestAnimationFrame || 
+  window.mozRequestAnimationFrame || 
+  window.webkitRequestAnimationFrame || 
+  window.msRequestAnimationFrame;
+
+const els = new Elements();
+
+const maxNewElsPerTick = 20;
+const deathThresh = 20;
+
+let tick = 0;
+function doTick() {
+  tick++;
+
+  const allEls = els.getAll().sort(() =&gt; Math.random() - 0.5);
+
+  if (allEls.length == 0) {
+    els.set([w&#x2F;2, h&#x2F;2], {
+      h: randn(360),
+      s: &quot;100%&quot;,
+      l: &quot;50%&quot;,
+    });
+  }
+
+  let newEls = 0;
+  for (const el of allEls) {
+    const nCoord = randEmptyNeighboringCoord(els, el.coord);
+    if (!nCoord) continue; &#x2F;&#x2F; el has no empty neighboring spots
+
+    const nEl = newEl(neighboringElsOf(els, nCoord))
+    nEl.tick = tick;
+    els.set(nCoord, nEl);
+
+    newEls++;
+    if (newEls &gt;= maxNewElsPerTick) break;
+  }
+
+  for (const el of allEls) {
+    const nEls = neighboringElsOf(els, el.coord);
+    if (tick - el.tick - (nEls.length * deathThresh) &gt;= deathThresh) els.unset(el.coord);
+  }
+
+  els.drawDiff(ctx);
+  els.applyDiff();
+  requestAnimationFrame(doTick);
+}
+requestAnimationFrame(doTick);
+
+&lt;&#x2F;script&gt;
+      
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Ripple V3</title>
         <author>
