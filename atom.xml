@@ -4,8 +4,424 @@
   <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2021-05-28T00:00:00+00:00</updated>
+  <updated>2021-06-23T00:00:00+00:00</updated>
   <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Visualization 6</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2021-06-23T00:00:00+00:00</published>
+    <updated>2021-06-23T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-visualization-6/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-visualization-6/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/06/23/viz-6.html</id>
+        <link href="https://blog.mediocregopher.com/2021/06/23/viz-6.html"/>
+        <title>Visualization 6</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2021-06-23T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-visualization-6/</id>
+    <content type="html">
+        &lt;script type=&quot;text&#x2F;javascript&quot;&gt;
+
+function randn(n) {
+    return Math.floor(Math.random() * n);
+}
+
+const w = 100;
+const h = 50;
+
+class Canvas {
+  constructor(canvasDOM) {
+    this.dom = canvasDOM;
+    this.ctx = canvasDOM.getContext(&quot;2d&quot;);
+
+    &#x2F;&#x2F; expand canvas element&#x27;s width to match parent.
+    this.dom.width = this.dom.parentElement.offsetWidth;
+
+    &#x2F;&#x2F; rectSize must be an even number or the pixels don&#x27;t display nicely.
+    this.rectSize = Math.floor(this.dom.width &#x2F; w &#x2F;2) * 2;
+
+    this.dom.width = w * this.rectSize;
+    this.dom.height = h * this.rectSize;
+  }
+
+  rectSize() {
+    return Math.floor(this.dom.width &#x2F; w);
+  }
+}
+
+class Layer {
+  constructor(className, newEl, {
+    maxNewElsPerTick = 10,
+    ageOfDeath = 60,
+    neighborBonusScalar = 1,
+    layerBonusScalar = 1,
+    chaos = 0,
+  } = {}) {
+    this.className = className;
+    this.els = {};
+    this.diff = {};
+
+    this.newEl = newEl;
+    this.maxNewElsPerTick = maxNewElsPerTick;
+    this.ageOfDeath = ageOfDeath;
+    this.neighborBonusScalar = neighborBonusScalar;
+    this.layerBonusScalar = layerBonusScalar;
+    this.chaos = chaos;
+  }
+
+  _normCoord(coord) {
+    if (typeof coord !== &#x27;string&#x27;) coord = JSON.stringify(coord);
+    return coord;
+  }
+
+  get(coord) {
+    return this.els[this._normCoord(coord)];
+  }
+
+  getAll() {
+    return Object.values(this.els);
+  }
+
+  set(coord, el) {
+    this.diff[this._normCoord(coord)] = {action: &quot;set&quot;, coord: coord, ...el};
+  }
+
+  unset(coord) {
+    this.diff[this._normCoord(coord)] = {action: &quot;unset&quot;};
+  }
+
+  applyDiff() {
+    for (const coordStr in this.diff) {
+      const el = this.diff[coordStr];
+      delete this.diff[coordStr];
+
+      if (el.action == &quot;set&quot;) {
+        delete el.action;
+        this.els[coordStr] = el;
+      } else {
+        delete this.els[coordStr];
+      }
+    }
+  }
+
+  update(state, prevLayer) {
+    &#x2F;&#x2F; Apply diff from previous update first. The diff can&#x27;t be applied last
+    &#x2F;&#x2F; because it needs to be present during the draw phase.
+    this.applyDiff();
+
+    const allEls = this.getAll().sort(() =&gt; Math.random() - 0.5);
+
+    if (allEls.length == 0) {
+      const nEl = this.newEl([])
+      nEl.tick = state.tick;
+      this.set([w&#x2F;2, h&#x2F;2], nEl);
+      return;
+    }
+
+    let newEls = 0;
+    for (const el of allEls) {
+      const nCoord = randEmptyNeighboringCoord(this, el.coord);
+      if (!nCoord) continue; &#x2F;&#x2F; el has no empty neighboring spots
+
+      const nEl = this.newEl(neighboringElsOf(this, nCoord))
+      nEl.tick = state.tick;
+      this.set(nCoord, nEl);
+
+      newEls++;
+      if (newEls &gt;= this.maxNewElsPerTick) break;
+    }
+
+    for (const el of allEls) {
+      const age = state.tick - el.tick;
+      const neighborBonus = neighboringElsOf(this, el.coord).length * this.neighborBonusScalar;
+
+      const layerBonus = prevLayer
+        ? neighboringElsOf(prevLayer, el.coord, true).length * this.layerBonusScalar
+        : 0;
+
+      const chaos = (this.chaos &gt; 0) ? randn(this.chaos) : 0;
+
+      if (age - neighborBonus - layerBonus + chaos &gt;= this.ageOfDeath) {
+        this.unset(el.coord);
+      }
+    }
+}
+
+  draw(canvas) {
+    for (const coordStr in this.diff) {
+      const el = this.diff[coordStr];
+      const coord = JSON.parse(coordStr);
+
+      if (el.action == &quot;set&quot;) {
+        canvas.ctx.fillStyle = `hsl(${el.h}, ${el.s}, ${el.l})`;
+        canvas.ctx.fillRect(
+          coord[0]*canvas.rectSize, coord[1]*canvas.rectSize,
+          canvas.rectSize, canvas.rectSize,
+        );
+
+      } else {
+        canvas.ctx.clearRect(
+          coord[0]*canvas.rectSize, coord[1]*canvas.rectSize,
+          canvas.rectSize, canvas.rectSize,
+        );
+      }
+    }
+  }
+}
+
+const neighbors = [
+    [-1, -1],   [0, -1],   [1, -1],
+    [-1, 0], &#x2F;* [0, 0], *&#x2F; [1, 0],
+    [-1, 1],    [0, 1],    [1, 1],
+];
+
+function neighborsOf(coord) {
+  return neighbors.map((n) =&gt; {
+    let nX = coord[0]+n[0];
+    let nY = coord[1]+n[1];
+    nX = (nX + w) % w;
+    nY = (nY + h) % h;
+    return [nX, nY];
+  });
+}
+
+function randEmptyNeighboringCoord(layer, coord) {
+  const neighbors = neighborsOf(coord).sort(() =&gt; Math.random() - 0.5);
+  for (const nCoord of neighbors) {
+    if (!layer.get(nCoord)) return nCoord;
+  }
+  return null;
+}
+
+function neighboringElsOf(layer, coord, includeCoord = false) {
+  const neighboringEls = [];
+
+  const neighboringCoords = neighborsOf(coord);
+  if (includeCoord) neighboringCoords.push(coord);
+
+  for (const nCoord of neighboringCoords) {
+    const el = layer.get(nCoord);
+    if (el) neighboringEls.push(el);
+  }
+  return neighboringEls;
+}
+
+const drift = 30;
+function mkNewEl(l) {
+  return (nEls) =&gt; {
+    const s = &quot;100%&quot;;
+    if (nEls.length == 0) {
+      return {
+        h: randn(360),
+        s: s,
+        l: l,
+      };
+    }
+
+    &#x2F;&#x2F; for each h (which can be considered as degrees around a circle) break the h
+    &#x2F;&#x2F; down into x and y vectors, and add those up separately. Then find the angle
+    &#x2F;&#x2F; between those two resulting vectors, and that&#x27;s the &quot;average&quot; h value.
+    let x = 0;
+    let y = 0;
+    nEls.forEach((el) =&gt; {
+      const hRad = el.h * Math.PI &#x2F; 180;
+      x += Math.cos(hRad);
+      y += Math.sin(hRad);
+    });
+
+    let h = Math.atan2(y, x);
+    h = h &#x2F; Math.PI * 180;
+
+    &#x2F;&#x2F; apply some random drift, normalize
+    h += (Math.random() * drift * 2) - drift;
+    h = (h + 360) % 360;
+
+    return {
+      h: h,
+      s: s,
+      l: l,
+    };
+  }
+}
+
+class Universe {
+  constructor(canvasesByClass, layers) {
+    this.canvasesByClass = canvasesByClass;
+    this.state = {
+      tick: 0,
+      layers: layers,
+    };
+  }
+
+  update() {
+    this.state.tick++;
+    let prevLayer;
+    this.state.layers.forEach((layer) =&gt; {
+        layer.update(this.state, prevLayer);
+        prevLayer = layer;
+    });
+  }
+
+  draw() {
+    this.state.layers.forEach((layer) =&gt; {
+      if (!this.canvasesByClass[layer.className]) return;
+      this.canvasesByClass[layer.className].forEach((canvas) =&gt; {
+        layer.draw(canvas);
+      });
+    });
+  }
+}
+
+&lt;&#x2F;script&gt;
+
+&lt;style&gt;
+
+.canvasContainer {
+  display: grid;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+canvas {
+  border: 1px dashed #AAA;
+  width: 100%;
+  grid-area: 1&#x2F;1&#x2F;2&#x2F;2;
+}
+
+&lt;&#x2F;style&gt;
+
+&lt;div class=&quot;canvasContainer&quot;&gt;
+  &lt;canvas class=&quot;layer1&quot;&gt;&lt;&#x2F;canvas&gt;
+  &lt;canvas class=&quot;layer2&quot;&gt;&lt;&#x2F;canvas&gt;
+&lt;&#x2F;div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+
+  &lt;div class=&quot;columns six&quot;&gt;
+    &lt;h3&gt;Bottom Layer&lt;&#x2F;h3&gt;
+    &lt;div class=&quot;canvasContainer&quot;&gt;&lt;canvas class=&quot;layer1&quot;&gt;&lt;&#x2F;canvas&gt;&lt;&#x2F;div&gt;
+    &lt;div class=&quot;layer1 layerParams&quot;&gt;
+        &lt;label&gt;Max New Elements Per Tick&lt;&#x2F;label&gt;&lt;input type=&quot;text&quot; param=&quot;maxNewElsPerTick&quot; &#x2F;&gt;
+        &lt;label&gt;Age of Death&lt;&#x2F;label&gt;&lt;input type=&quot;text&quot; param=&quot;ageOfDeath&quot; &#x2F;&gt;
+        &lt;label&gt;Neighbor Bonus Scalar&lt;&#x2F;label&gt;&lt;input type=&quot;text&quot; param=&quot;neighborBonusScalar&quot; &#x2F;&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;div&gt;
+
+  &lt;div class=&quot;columns six&quot;&gt;
+    &lt;h3&gt;Top Layer&lt;&#x2F;h3&gt;
+    &lt;div class=&quot;canvasContainer&quot;&gt;&lt;canvas class=&quot;layer2&quot;&gt;&lt;&#x2F;canvas&gt;&lt;&#x2F;div&gt;
+    &lt;div class=&quot;layer2 layerParams&quot;&gt;
+        &lt;label&gt;Max New Elements Per Tick&lt;&#x2F;label&gt;&lt;input type=&quot;text&quot; param=&quot;maxNewElsPerTick&quot; &#x2F;&gt;
+        &lt;label&gt;Age of Death&lt;&#x2F;label&gt;&lt;input type=&quot;text&quot; param=&quot;ageOfDeath&quot; &#x2F;&gt;
+        &lt;label&gt;Neighbor Bonus Scalar&lt;&#x2F;label&gt;&lt;input type=&quot;text&quot; param=&quot;neighborBonusScalar&quot; &#x2F;&gt;
+        &lt;label&gt;Layer Bonus Scalar&lt;&#x2F;label&gt;&lt;input type=&quot;text&quot; param=&quot;layerBonusScalar&quot; &#x2F;&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;div&gt;
+
+&lt;&#x2F;div&gt;
+
+&lt;p&gt;This visualization is essentially the same as the previous, except that each
+layer now operates with different parameters than the other, allowing each to
+exhibit different behavior.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Additionally, the top layer has been made to be responsive to the bottom, via a
+new mechanism where the age of an element on the top layer can be extended based
+on the number of bottom layer elements it neighbors.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Finally, the UI now exposes the actual parameters which are used to tweak the
+behavior of each layer. Modifying any parameter will change the behavior of the
+associated layer in real-time. The default parameters have been chosen such that
+the top layer is now rather dependent on the bottom for sustenance, although it
+can venture away to some extent. However, by playing the parameters yourself you
+can find other behaviors and interesting cause-and-effects that aren’t
+immediately obvious. Try it!&lt;&#x2F;p&gt;
+
+&lt;p&gt;An explanation of the parameters is as follows:&lt;&#x2F;p&gt;
+
+&lt;p&gt;On each tick, up to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;maxNewElements&lt;&#x2F;code&gt; are created in each layer, where each new
+element neighbors an existing one.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Additionally, on each tick, &lt;em&gt;all&lt;&#x2F;em&gt; elements in a layer are iterated through. Each
+one’s age is determined as follows:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;age = (currentTick - birthTick)
+age -= (numNeighbors * neighborBonusScalar)
+age -= (numBottomLayerNeighbors * layerBonusScalar) &#x2F;&#x2F; only for top layer
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;If an element’s age is greater than or equal to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ageOfDeath&lt;&#x2F;code&gt; for that layer,
+then the element is removed.&lt;&#x2F;p&gt;
+
+&lt;script&gt;
+
+const canvasesByClass = {};
+[...document.getElementsByTagName(&quot;canvas&quot;)].forEach((canvasDOM) =&gt; {
+
+  const canvas = new Canvas(canvasDOM);
+  canvasDOM.classList.forEach((name) =&gt; {
+    if (!canvasesByClass[name]) canvasesByClass[name] = [];
+    canvasesByClass[name].push(canvas);
+  })
+});
+
+const layers = [
+
+  new Layer(&quot;layer1&quot;, mkNewEl(&quot;90%&quot;), {
+    maxNewElsPerTick: 2,
+    ageOfDeath: 30,
+    neighborBonusScalar: 50,
+  }),
+
+  new Layer(&quot;layer2&quot;, mkNewEl(&quot;50%&quot;, ), {
+    maxNewElsPerTick: 10,
+    ageOfDeath: 1,
+    neighborBonusScalar: 15,
+    layerBonusScalar: 5,
+  }),
+
+];
+
+for (const layer of layers) {
+    document.querySelectorAll(`.${layer.className}.layerParams &gt; input`).forEach((input) =&gt; {
+        const param = input.getAttribute(&quot;param&quot;);
+
+        &#x2F;&#x2F; pre-fill input values
+        input.value = layer[param];
+
+        input.onchange = () =&gt; {
+            console.log(`setting ${layer.className}.${param} to ${input.value}`);
+            layer[param] = input.value;
+        };
+    });
+}
+
+const universe = new Universe(canvasesByClass, layers);
+
+const requestAnimationFrame =
+  window.requestAnimationFrame ||
+  window.mozRequestAnimationFrame ||
+  window.webkitRequestAnimationFrame ||
+  window.msRequestAnimationFrame;
+
+function doTick() {
+  universe.update();
+  universe.draw();
+  requestAnimationFrame(doTick);
+}
+
+doTick();
+
+&lt;&#x2F;script&gt;
+      
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Visualization 5</title>
         <author>
