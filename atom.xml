@@ -4,8 +4,285 @@
   <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2021-06-23T00:00:00+00:00</updated>
+  <updated>2021-06-26T00:00:00+00:00</updated>
   <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Self-Hosted Email With maddy: A Naive First Attempt</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2021-06-26T00:00:00+00:00</published>
+    <updated>2021-06-26T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-self-hosted-email-with-maddy-a-naive-first-attempt/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-self-hosted-email-with-maddy-a-naive-first-attempt/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/06/26/selfhosted-email-with-maddy.html</id>
+        <link href="https://blog.mediocregopher.com/2021/06/26/selfhosted-email-with-maddy.html"/>
+        <title>Self-Hosted Email With maddy: A Naive First Attempt</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2021-06-26T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-self-hosted-email-with-maddy-a-naive-first-attempt/</id>
+    <content type="html">
+        &lt;p&gt;For a &lt;em&gt;long&lt;&#x2F;em&gt; time now I’ve wanted to get off gmail and host my own email
+domains. I’ve looked into it a few times, but have been discouraged on multiple
+fronts:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Understanding the protocols underlying email isn’t straightforward; it’s an
+old system, there’s a lot of cruft, lots of auxiliary protocols that are now
+essentially required, and a lot of different services required to tape it all
+together.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The services which are required are themselves old, and use operational
+patterns that maybe used to make sense but are now pretty freaking cumbersome.
+For example, postfix requires something like 3 different system accounts.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Deviating from the non-standard route and using something like
+&lt;a href=&quot;https:&#x2F;&#x2F;mailinabox.email&#x2F;&quot;&gt;Mail-in-a-box&lt;&#x2F;a&gt; involves running docker, which I’m trying to avoid.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;So up till now I had let the idea sit, waiting for something better to come
+along.&lt;&#x2F;p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;maddy.email&quot;&gt;maddy&lt;&#x2F;a&gt; is, I think, something better. According to the homepage
+“[maddy] replaces Postfix, Dovecot, OpenDKIM, OpenSPF, OpenDMARC and more with
+one daemon with uniform configuration and minimal maintenance cost.” Sounds
+perfect! The homepage is clean and to the point, it’s written in go, and the
+docs appear to be reasonably well written. And, to top it all off, it’s already
+been added to &lt;a href=&quot;https:&#x2F;&#x2F;search.nixos.org&#x2F;packages?channel=21.05&amp;amp;from=0&amp;amp;size=50&amp;amp;sort=relevance&amp;amp;query=maddy&quot;&gt;nixpkgs&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+
+&lt;p&gt;So in this post (and subsequent posts) I’ll be documenting my journey into
+getting a maddy server running to see how well it works out.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;just-do-it&quot;&gt;Just Do It&lt;&#x2F;h2&gt;
+
+&lt;p&gt;I’m almost 100% sure this won’t work, but to start with I’m going to simply get
+maddy up and running on my home media server as per the tutorial on its site,
+and go from there.&lt;&#x2F;p&gt;
+
+&lt;p&gt;First there’s some global system configuration I need to perform. Ideally maddy
+could be completely packaged up and not pollute the rest of the system at all,
+and if I was using NixOS I think that would be possible, but as it is I need to
+create a user for maddy and ensure it’s able to read the TLS certificates that I
+manage via &lt;a href=&quot;https:&#x2F;&#x2F;letsencrypt.org&#x2F;&quot;&gt;LetsEncrypt&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;&#x2F;span&gt;useradd &lt;span class=&quot;nt&quot;&gt;-mrU&lt;&#x2F;span&gt; &lt;span class=&quot;nt&quot;&gt;-s&lt;&#x2F;span&gt; &#x2F;sbin&#x2F;nologin &lt;span class=&quot;nt&quot;&gt;-d&lt;&#x2F;span&gt; &#x2F;var&#x2F;lib&#x2F;maddy &lt;span class=&quot;nt&quot;&gt;-c&lt;&#x2F;span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;maddy mail server&quot;&lt;&#x2F;span&gt; maddy
+&lt;span class=&quot;nb&quot;&gt;sudo &lt;&#x2F;span&gt;setfacl &lt;span class=&quot;nt&quot;&gt;-R&lt;&#x2F;span&gt; &lt;span class=&quot;nt&quot;&gt;-m&lt;&#x2F;span&gt; u:maddy:rX &#x2F;etc&#x2F;letsencrypt&#x2F;&lt;span class=&quot;o&quot;&gt;{&lt;&#x2F;span&gt;live,archive&lt;span class=&quot;o&quot;&gt;}&lt;&#x2F;span&gt;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;The next step is to set up the nix build of the systemd service file. This is a
+strategy I’ve been using recently to nix-ify my services without needing to deal
+with nix profiles. The idea is to encode the nix store path to everything
+directly into the systemd service file, and install that file normally. In this
+case this looks something like:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;pkgs.writeTextFile {
+    name = &quot;mediocregopher-maddy-service&quot;;
+    text = &#x27;&#x27;
+        [Unit]
+        Description=mediocregopher maddy
+        Documentation=man:maddy(1)
+        Documentation=man:maddy.conf(5)
+        Documentation=https:&#x2F;&#x2F;maddy.email
+        After=network.target
+
+        [Service]
+        Type=notify
+        NotifyAccess=main
+        Restart=always
+        RestartSec=1s
+
+        User=maddy
+        Group=maddy
+
+        # cd to state directory to make sure any relative paths
+        # in config will be relative to it unless handled specially.
+        WorkingDirectory=&#x2F;mnt&#x2F;vol1&#x2F;maddy
+        ReadWritePaths=&#x2F;mnt&#x2F;vol1&#x2F;maddy
+
+        # ... lots of directives from
+        # https:&#x2F;&#x2F;github.com&#x2F;foxcpp&#x2F;maddy&#x2F;blob&#x2F;master&#x2F;dist&#x2F;systemd&#x2F;maddy.service
+        # that we&#x27;ll elide here ...
+
+        ExecStart=${pkgs.maddy}&#x2F;bin&#x2F;maddy -config ${.&#x2F;maddy.conf}
+
+        ExecReload=&#x2F;bin&#x2F;kill -USR1 $MAINPID
+        ExecReload=&#x2F;bin&#x2F;kill -USR2 $MAINPID
+
+        [Install]
+        WantedBy=multi-user.target
+    &#x27;&#x27;;
+}
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;With the service now testable, it falls on me to actually go through the setup
+steps described in the &lt;a href=&quot;https:&#x2F;&#x2F;maddy.email&#x2F;tutorials&#x2F;setting-up&#x2F;&quot;&gt;tutorial&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;following-the-tutorial&quot;&gt;Following The Tutorial&lt;&#x2F;h2&gt;
+
+&lt;p&gt;The first step in the tutorial is setting up of domain names, which I first
+perform in cloudflare (where my DNS is hosted) and then reflect into the conf
+file. Then I point the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tls file&lt;&#x2F;code&gt; configuration line at my LetsEncrypt
+directory by changing the line to:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;tls file &#x2F;etc&#x2F;letsencrypt&#x2F;live&#x2F;$(hostname)&#x2F;fullchain.pem &#x2F;etc&#x2F;letsencrypt&#x2F;live&#x2F;$(hostname)&#x2F;privkey.pem
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;maddy can access these files thanks to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;setfacl&lt;&#x2F;code&gt; command I performed
+earlier.&lt;&#x2F;p&gt;
+
+&lt;p&gt;At this point the server should be effectively configured. However, starting it
+via systemd results in this error:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;failed to load &#x2F;etc&#x2F;letsencrypt&#x2F;live&#x2F;mx.mydomain.com&#x2F;fullchain.pem and &#x2F;etc&#x2F;letsencrypt&#x2F;live&#x2F;mx.mydomain.com&#x2F;privkey.pem
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;(For my own security I’m not going to be using the actual email domain in this
+post, I’ll use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mydomain.com&lt;&#x2F;code&gt; instead.)&lt;&#x2F;p&gt;
+
+&lt;p&gt;This makes sense… I use a wildcard domain with LetsEncrypt, so certs for the
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mx&lt;&#x2F;code&gt; sub-domain specifically won’t exist. I need to figure out how to tell maddy
+to use the wildcard, or actually create a separate certificate for the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mx&lt;&#x2F;code&gt;
+sub-domain. I’d rather the former, obviously, as it’s far less work.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Luckily, making it use the wildcard isn’t too hard, all that is needed is to
+change the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tls file&lt;&#x2F;code&gt; line to:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;tls file &#x2F;etc&#x2F;letsencrypt&#x2F;live&#x2F;$(primary_domain)&#x2F;fullchain.pem &#x2F;etc&#x2F;letsencrypt&#x2F;live&#x2F;$(primary_domain)&#x2F;privkey.pem
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;This works because my &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;primary_domain&lt;&#x2F;code&gt; domain is set to the top-level
+(&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mydomain.com&lt;&#x2F;code&gt;), which is what the wildcard cert is issued for.&lt;&#x2F;p&gt;
+
+&lt;p&gt;At this point maddy is up and running, but there’s still a slight problem. maddy
+appears to be placing all of its state files in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&#x2F;var&#x2F;lib&#x2F;maddy&lt;&#x2F;code&gt;, even though
+I’d like to place them in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&#x2F;mnt&#x2F;vol1&#x2F;maddy&lt;&#x2F;code&gt;. I had set the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;WorkingDirectory&lt;&#x2F;code&gt; in
+the systemd service file to this, but apparently that’s not enough. After
+digging through the codebase I discover an undocumented directive which can be
+added to the conf file:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;state_dir &#x2F;mnt&#x2F;vol1&#x2F;maddy
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;Kind of annoying, but at least it works.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The next step is to fiddle with DNS records some more. I add the SPF, DMARC and
+DKIM records to cloudflare as described by the tutorial (what do these do? I
+have no fuckin clue).&lt;&#x2F;p&gt;
+
+&lt;p&gt;I also need to set up MTA-STS (again, not really knowing what that is). The
+tutorial says I need to make a file with certain contents available at the URL
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https:&#x2F;&#x2F;mta-sts.mydomain.com&#x2F;.well-known&#x2F;mta-sts.txt&lt;&#x2F;code&gt;. I love it when protocol
+has to give up and resort to another one in order to keep itself afloat, it
+really inspires confidence.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Anyway, I set that subdomain up in cloudflare, and add the following to my nginx
+configuration:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;server {
+    listen      80;
+    server_name mta-sts.mydomain.com;
+    include     include&#x2F;public_whitelist.conf;
+
+    location &#x2F; {
+        return 404;
+    }
+
+    location &#x2F;.well-known&#x2F;mta-sts.txt {
+
+        # Check out openresty if you want to get super useful nginx plugins, like
+        # the echo module, out-of-the-box.
+        echo &#x27;mode: enforce&#x27;;
+        echo &#x27;max_age: 604800&#x27;;
+        echo &#x27;mx: mx.mydomain.com&#x27;;
+    }
+}
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;(Note: my &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;public_whitelist.conf&lt;&#x2F;code&gt; only allows cloudflare IPs to access this
+sub-domain, which is something I do for all sub-domains which I can put through
+cloudflare.)&lt;&#x2F;p&gt;
+
+&lt;p&gt;Finally, I need to create some actual credentials in maddy with which to send my
+email. I do this via the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;maddyctl&lt;&#x2F;code&gt; command-line utility:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; sudo maddyctl --config maddy.conf creds create &#x27;me@mydomain.com&#x27;
+Enter password for new user:
+&amp;gt; sudo maddyctl --config maddy.conf imap-acct create &#x27;me@mydomain.com&#x27;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;h2 id=&quot;send-it&quot;&gt;Send It!&lt;&#x2F;h2&gt;
+
+&lt;p&gt;At this point I’m ready to actually test the email sending. I’m going to use
+&lt;a href=&quot;https:&#x2F;&#x2F;wiki.archlinux.org&#x2F;title&#x2F;S-nail&quot;&gt;S-nail&lt;&#x2F;a&gt; to do so, and after reading through the docs there I put the
+following in my &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;~&#x2F;.mailrc&lt;&#x2F;code&gt;:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;set v15-compat
+set mta=smtp:&#x2F;&#x2F;me%40mydomain.com:password@localhost:587 smtp-use-starttls
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;And attempt the following &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mailx&lt;&#x2F;code&gt; command to send an email from my new mail
+server:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; echo &#x27;Hello! This is a cool email&#x27; | mailx -s &#x27;Subject&#x27; -r &#x27;Me &amp;lt;me@mydomain.com&amp;gt;&#x27; &#x27;test.email@gmail.com&#x27;
+reproducible_build: TLS certificate does not match: localhost:587
+&#x2F;home&#x2F;mediocregopher&#x2F;dead.letter 10&#x2F;313
+reproducible_build: ... message not sent
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;Damn. TLS is failing because I’m connecting over &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;localhost&lt;&#x2F;code&gt;, but maddy is
+serving the TLS certs for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mydomain.com&lt;&#x2F;code&gt;. Since I haven’t gone through the steps
+of exposing maddy publicly yet (which would require port forwarding in my
+router, as well as opening a port in iptables) I can’t properly test this with
+TLS not being required. &lt;em&gt;It’s very important that I remember to re-require TLS
+before putting anything public.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+
+&lt;p&gt;In the meantime I remove the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;smtp-use-starttls&lt;&#x2F;code&gt; entry from my &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;~&#x2F;.mailrc&lt;&#x2F;code&gt;, and
+retry the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mailx&lt;&#x2F;code&gt; command. This time I get a different error:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;reproducible_build: SMTP server: 523 5.7.10 TLS is required
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;It turns out there’s a further configuration directive I need to add, this time
+in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;maddy.conf&lt;&#x2F;code&gt;. Within my &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;submission&lt;&#x2F;code&gt; configuration block I add the following
+line:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;insecure_auth true
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;This allows plaintext auth over non-TLS connections. Kind of sketchy, but again
+I’ll undo this before putting anything public.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Finally, I try the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mailx&lt;&#x2F;code&gt; command one more time, and it successfully returns!&lt;&#x2F;p&gt;
+
+&lt;p&gt;Unfortunately, no email is ever received in my gmail :( I check the maddy logs
+and see what I feared most all along:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Jun 29 08:44:58 maddy[127396]: remote: cannot use MX        {&quot;domain&quot;:&quot;gmail.com&quot;,&quot;io_op&quot;:&quot;dial&quot;,&quot;msg_id&quot;:&quot;5c23d76a-60db30e7&quot;,&quot;reason&quot;:&quot;dial tcp 142.250.152.26:25: connect: connection timed out&quot;,&quot;remote_addr&quot;:&quot;142.250.152.
+26:25&quot;,&quot;remote_server&quot;:&quot;alt1.gmail-smtp-in.l.google.com.&quot;,&quot;smtp_code&quot;:450,&quot;smtp_enchcode&quot;:&quot;4.4.2&quot;,&quot;smtp_msg&quot;:&quot;Network I&#x2F;O error&quot;}
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;My ISP is blocking outbound connections on port 25. This is classic email
+bullshit; ISPs essentially can’t allow outbound SMTP connections, as email is so
+easily abusable it would drastically increase the amount of spam being sent from
+their networks.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;lessons-learned&quot;&gt;Lessons Learned&lt;&#x2F;h2&gt;
+
+&lt;p&gt;The next attempt will involve an external VPS which allows SMTP, and a lot more
+interesting configuration. But for now I’m forced to turn off maddy and let this
+dream sit for a little while longer.&lt;&#x2F;p&gt;
+      
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Visualization 6</title>
         <author>
