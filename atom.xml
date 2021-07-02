@@ -4,8 +4,463 @@
   <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2021-06-26T00:00:00+00:00</updated>
+  <updated>2021-07-01T00:00:00+00:00</updated>
   <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Visualization 7</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2021-07-01T00:00:00+00:00</published>
+    <updated>2021-07-01T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-visualization-7/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-visualization-7/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/07/01/viz-7.html</id>
+        <link href="https://blog.mediocregopher.com/2021/07/01/viz-7.html"/>
+        <title>Visualization 7</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2021-07-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-visualization-7/</id>
+    <content type="html">
+        &lt;script type=&quot;text&#x2F;javascript&quot;&gt;
+
+function randn(n) {
+    return Math.floor(Math.random() * n);
+}
+
+const w = 100;
+const h = 60;
+
+class Canvas {
+  constructor(canvasDOM) {
+    this.dom = canvasDOM;
+    this.ctx = canvasDOM.getContext(&quot;2d&quot;);
+
+    &#x2F;&#x2F; expand canvas element&#x27;s width to match parent.
+    this.dom.width = this.dom.parentElement.offsetWidth;
+
+    &#x2F;&#x2F; rectSize must be an even number or the pixels don&#x27;t display nicely.
+    this.rectSize = Math.floor(this.dom.width &#x2F; w &#x2F;2) * 2;
+
+    this.dom.width = w * this.rectSize;
+    this.dom.height = h * this.rectSize;
+  }
+
+  rectSize() {
+    return Math.floor(this.dom.width &#x2F; w);
+  }
+}
+
+class UniverseState {
+  constructor(layers) {
+    this.tick = 0;
+    this.layers = layers;
+  }
+
+  neighboringLayers(layerIndex) {
+    const prevIndex = layerIndex-1;
+    const prev = prevIndex &lt; 0 ? null : this.layers[prevIndex];
+
+    const nextIndex = layerIndex+1;
+    const next = nextIndex &gt;= this.layers.length ? null : this.layers[nextIndex];
+
+    return [prev, next];
+  }
+}
+
+const defaultKnobs = {
+  maxNewElsPerTick: 10,
+  ageOfDeath: 30,
+  drift: 30,
+  neighborScalar: 0,
+  prevLayerScalar: 0,
+  prevLayerLikenessScalar: 0,
+  nextLayerScalar: 0,
+  nextLayerLikenessScalar: 0,
+  chaos: 0,
+};
+
+class Layer {
+  constructor(className, newEl, knobs = {}) {
+    this.className = className;
+    this.els = {};
+    this.diff = {};
+    this.newEl = newEl;
+    this.knobs = { ...defaultKnobs, ...knobs };
+  }
+
+  _normCoord(coord) {
+    if (typeof coord !== &#x27;string&#x27;) coord = JSON.stringify(coord);
+    return coord;
+  }
+
+  get(coord) {
+    return this.els[this._normCoord(coord)];
+  }
+
+  getAll() {
+    return Object.values(this.els);
+  }
+
+  set(coord, el) {
+    this.diff[this._normCoord(coord)] = {action: &quot;set&quot;, coord: coord, ...el};
+  }
+
+  unset(coord) {
+    this.diff[this._normCoord(coord)] = {action: &quot;unset&quot;};
+  }
+
+  applyDiff() {
+    for (const coordStr in this.diff) {
+      const el = this.diff[coordStr];
+      delete this.diff[coordStr];
+
+      if (el.action == &quot;set&quot;) {
+        delete el.action;
+        this.els[coordStr] = el;
+      } else {
+        delete this.els[coordStr];
+      }
+    }
+  }
+
+  update(state, thisLayerIndex) {
+    &#x2F;&#x2F; Apply diff from previous update first. The diff can&#x27;t be applied last
+    &#x2F;&#x2F; because it needs to be present during the draw phase.
+    this.applyDiff();
+
+    const allEls = this.getAll().sort(() =&gt; Math.random() - 0.5);
+
+    if (allEls.length == 0) {
+      const newEl = this.newEl(this, [])
+      newEl.tick = state.tick;
+      this.set([w&#x2F;2, h&#x2F;2], newEl);
+      return;
+    }
+
+    let newEls = 0;
+    for (const el of allEls) {
+      const nCoord = randEmptyNeighboringCoord(this, el.coord);
+      if (!nCoord) continue; &#x2F;&#x2F; el has no empty neighboring spots
+
+      const newEl = this.newEl(this, neighboringElsOf(this, nCoord))
+      newEl.tick = state.tick;
+      this.set(nCoord, newEl);
+
+      newEls++;
+      if (newEls &gt;= this.knobs.maxNewElsPerTick) break;
+    }
+
+    const calcLayerBonus = (el, layer, scalar, likenessScalar) =&gt; {
+        if (!layer) return 0;
+        const nEls = neighboringElsOf(layer, el.coord, true)
+
+        const likeness = nEls.reduce((likeness, nEl) =&gt; {
+            const diff = Math.abs(nEl.c - el.c);
+            return likeness + Math.max(diff, Math.abs(1 - diff));
+        }, 0);
+
+        return (nEls.length * scalar) + (likeness * likenessScalar);
+    };
+
+    const [prevLayer, nextLayer] = state.neighboringLayers(thisLayerIndex);
+
+    for (const el of allEls) {
+      const age = state.tick - el.tick;
+      const neighborBonus = neighboringElsOf(this, el.coord).length * this.knobs.neighborScalar;
+      const prevLayerBonus = calcLayerBonus(el, prevLayer, this.knobs.prevLayerScalar, this.knobs.prevLayerLikenessScalar);
+      const nextLayerBonus = calcLayerBonus(el, nextLayer, this.knobs.nextLayerScalar, this.knobs.nextLayerLikenessScalar);
+      const chaos = (this.chaos &gt; 0) ? randn(this.knobs.chaos) : 0;
+
+      if (age - neighborBonus - prevLayerBonus - nextLayerBonus + chaos &gt;= this.knobs.ageOfDeath) {
+        this.unset(el.coord);
+      }
+    }
+  }
+
+  draw(canvas) {
+    for (const coordStr in this.diff) {
+      const el = this.diff[coordStr];
+      const coord = JSON.parse(coordStr);
+
+      if (el.action == &quot;set&quot;) {
+        canvas.ctx.fillStyle = `hsl(${el.h}, ${el.s}, ${el.l})`;
+        canvas.ctx.fillRect(
+          coord[0]*canvas.rectSize, coord[1]*canvas.rectSize,
+          canvas.rectSize, canvas.rectSize,
+        );
+
+      } else {
+        canvas.ctx.clearRect(
+          coord[0]*canvas.rectSize, coord[1]*canvas.rectSize,
+          canvas.rectSize, canvas.rectSize,
+        );
+      }
+    }
+  }
+}
+
+const neighbors = [
+    [-1, -1],   [0, -1],   [1, -1],
+    [-1, 0], &#x2F;* [0, 0], *&#x2F; [1, 0],
+    [-1, 1],    [0, 1],    [1, 1],
+];
+
+function neighborsOf(coord) {
+  return neighbors.map((n) =&gt; {
+    let nX = coord[0]+n[0];
+    let nY = coord[1]+n[1];
+    nX = (nX + w) % w;
+    nY = (nY + h) % h;
+    return [nX, nY];
+  });
+}
+
+function randEmptyNeighboringCoord(layer, coord) {
+  const neighbors = neighborsOf(coord).sort(() =&gt; Math.random() - 0.5);
+  for (const nCoord of neighbors) {
+    if (!layer.get(nCoord)) return nCoord;
+  }
+  return null;
+}
+
+function neighboringElsOf(layer, coord, includeCoord = false) {
+  const neighboringEls = [];
+
+  const neighboringCoords = neighborsOf(coord);
+  if (includeCoord) neighboringCoords.push(coord);
+
+  for (const nCoord of neighboringCoords) {
+    const el = layer.get(nCoord);
+    if (el) neighboringEls.push(el);
+  }
+  return neighboringEls;
+}
+
+function newEl(h, l) {
+  return {
+    h: h,
+    s: &quot;100%&quot;,
+    l: l,
+    c: h &#x2F; 360, &#x2F;&#x2F; c is used to compare the element to others
+  };
+}
+
+function mkNewEl(l) {
+  return (layer, nEls) =&gt; {
+    const s = &quot;100%&quot;;
+    if (nEls.length == 0) {
+      const h = randn(360);
+      return newEl(h, l);
+    }
+
+    &#x2F;&#x2F; for each h (which can be considered as degrees around a circle) break the
+    &#x2F;&#x2F; h down into x and y vectors, and add those up separately. Then find the
+    &#x2F;&#x2F; angle between those two resulting vectors, and that&#x27;s the &quot;average&quot; h
+    &#x2F;&#x2F; value.
+    let x = 0;
+    let y = 0;
+    nEls.forEach((el) =&gt; {
+      const hRad = el.h * Math.PI &#x2F; 180;
+      x += Math.cos(hRad);
+      y += Math.sin(hRad);
+    });
+
+    let h = Math.atan2(y, x);
+    h = h &#x2F; Math.PI * 180;
+
+    &#x2F;&#x2F; apply some random drift, normalize
+    h += (Math.random() * layer.knobs.drift * 2) - layer.knobs.drift;
+    h = (h + 360) % 360;
+
+    return newEl(h, l);
+  }
+}
+
+class Universe {
+  constructor(canvasesByClass, layers) {
+    this.canvasesByClass = canvasesByClass;
+    this.state = new UniverseState(layers);
+  }
+
+  update() {
+    this.state.tick++;
+    let prevLayer;
+    this.state.layers.forEach((layer, i) =&gt; {
+        layer.update(this.state, i);
+        prevLayer = layer;
+    });
+  }
+
+  draw() {
+    this.state.layers.forEach((layer) =&gt; {
+      if (!this.canvasesByClass[layer.className]) return;
+      this.canvasesByClass[layer.className].forEach((canvas) =&gt; {
+        layer.draw(canvas);
+      });
+    });
+  }
+}
+
+&lt;&#x2F;script&gt;
+
+&lt;style&gt;
+
+.canvasContainer {
+  display: grid;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+canvas {
+  border: 1px dashed #AAA;
+  width: 100%;
+  grid-area: 1&#x2F;1&#x2F;2&#x2F;2;
+}
+
+&lt;&#x2F;style&gt;
+
+&lt;div class=&quot;canvasContainer&quot;&gt;
+  &lt;canvas class=&quot;layer1&quot;&gt;&lt;&#x2F;canvas&gt;
+  &lt;canvas class=&quot;layer2&quot;&gt;&lt;&#x2F;canvas&gt;
+&lt;&#x2F;div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+
+  &lt;div class=&quot;columns six&quot;&gt;
+    &lt;h3&gt;Bottom Layer&lt;&#x2F;h3&gt;
+    &lt;div class=&quot;canvasContainer&quot;&gt;&lt;canvas class=&quot;layer1&quot;&gt;&lt;&#x2F;canvas&gt;&lt;&#x2F;div&gt;
+    &lt;div class=&quot;layer1 layerParams&quot;&gt;
+        &lt;label&gt;Max New Elements Per Tick&lt;&#x2F;label&gt;&lt;input type=&quot;text&quot; param=&quot;maxNewElsPerTick&quot; &#x2F;&gt;
+        &lt;label&gt;Color Drift&lt;&#x2F;label&gt;&lt;input type=&quot;text&quot; param=&quot;drift&quot; &#x2F;&gt;
+        &lt;label&gt;Age of Death&lt;&#x2F;label&gt;&lt;input type=&quot;text&quot; param=&quot;ageOfDeath&quot; &#x2F;&gt;
+        &lt;label&gt;Neighbor Scalar&lt;&#x2F;label&gt;&lt;input type=&quot;text&quot; param=&quot;neighborScalar&quot; &#x2F;&gt;
+        &lt;label&gt;Top Layer Neighbor Scalar&lt;&#x2F;label&gt;&lt;input type=&quot;text&quot; param=&quot;nextLayerScalar&quot; &#x2F;&gt;
+        &lt;label&gt;Top Layer Neighbor Likeness Scalar&lt;&#x2F;label&gt;&lt;input type=&quot;text&quot; param=&quot;nextLayerLikenessScalar&quot; &#x2F;&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;div&gt;
+
+  &lt;div class=&quot;columns six&quot;&gt;
+    &lt;h3&gt;Top Layer&lt;&#x2F;h3&gt;
+    &lt;div class=&quot;canvasContainer&quot;&gt;&lt;canvas class=&quot;layer2&quot;&gt;&lt;&#x2F;canvas&gt;&lt;&#x2F;div&gt;
+    &lt;div class=&quot;layer2 layerParams&quot;&gt;
+        &lt;label&gt;Max New Elements Per Tick&lt;&#x2F;label&gt;&lt;input type=&quot;text&quot; param=&quot;maxNewElsPerTick&quot; &#x2F;&gt;
+        &lt;label&gt;Color Drift&lt;&#x2F;label&gt;&lt;input type=&quot;text&quot; param=&quot;drift&quot; &#x2F;&gt;
+        &lt;label&gt;Age of Death&lt;&#x2F;label&gt;&lt;input type=&quot;text&quot; param=&quot;ageOfDeath&quot; &#x2F;&gt;
+        &lt;label&gt;Neighbor Scalar&lt;&#x2F;label&gt;&lt;input type=&quot;text&quot; param=&quot;neighborScalar&quot; &#x2F;&gt;
+        &lt;label&gt;Bottom Layer Neighbor Scalar&lt;&#x2F;label&gt;&lt;input type=&quot;text&quot; param=&quot;prevLayerScalar&quot; &#x2F;&gt;
+        &lt;label&gt;Bottom Layer Neighbor Likeness Scalar&lt;&#x2F;label&gt;&lt;input type=&quot;text&quot; param=&quot;prevLayerLikenessScalar&quot; &#x2F;&gt;
+    &lt;&#x2F;div&gt;
+  &lt;&#x2F;div&gt;
+
+&lt;&#x2F;div&gt;
+
+&lt;p&gt;Once again, this visualization iterates upon the previous. In the last one the
+top layer was able to “see” the bottom, and was therefore able to bolster or
+penalize its own elements which were on or near bottom layer elements, but not
+vice-versa. This time both layers can see each other, and the “Layer Neighbor
+Scalar” can be used to adjust lifetime of elements which are on&#x2F;near elements of
+the neighboring layer.&lt;&#x2F;p&gt;
+
+&lt;p&gt;By default, the bottom layer has a high affinity to the top, and the top layer
+has a some (but not as much) affinity in return.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Another addition is the “likeness” scalar. Likeness is defined as the degree to
+which one element is like another. In this visualization likeness is determined
+by color. The “Layer Neighbor Likeness Scalar” adjusts the lifetime of elements
+based on how like they are to nearby elements on the neighboring layer.&lt;&#x2F;p&gt;
+
+&lt;p&gt;By default, the top layer has a high affinity for the bottom’s color, but the
+bottom doesn’t care about the top’s color at all (and so its color will drift
+aimlessly).&lt;&#x2F;p&gt;
+
+&lt;p&gt;And finally “Color Drift” can be used to adjust the degree to which the color of
+new elements can diverge from its parents. This has always been hardcoded, but
+can now be adjusted separately across the different layers.&lt;&#x2F;p&gt;
+
+&lt;p&gt;In the default configuration the top layer will (eventually) converge to roughly
+match the bottom both in shape and color. When I first implemented the likeness
+scaling I thought it was broken, because the top would never converge to the
+bottom’s color.&lt;&#x2F;p&gt;
+
+&lt;p&gt;What I eventually realized was that the top must have a higher color drift than
+the bottom in order for it to do so, otherwise the top would always be playing
+catchup. However, if the drift difference is &lt;em&gt;too&lt;&#x2F;em&gt; high then the top layer
+becomes chaos and also doesn’t really follow the color of the bottom. A
+difference of 10 (degrees out of 360) is seemingly enough.&lt;&#x2F;p&gt;
+
+&lt;script&gt;
+
+const canvasesByClass = {};
+[...document.getElementsByTagName(&quot;canvas&quot;)].forEach((canvasDOM) =&gt; {
+
+  const canvas = new Canvas(canvasDOM);
+  canvasDOM.classList.forEach((name) =&gt; {
+    if (!canvasesByClass[name]) canvasesByClass[name] = [];
+    canvasesByClass[name].push(canvas);
+  })
+});
+
+const layers = [
+
+  new Layer(&quot;layer1&quot;, mkNewEl(&quot;90%&quot;), {
+    maxNewElsPerTick: 2,
+    ageOfDeath: 30,
+    drift: 40,
+    neighborScalar: 50,
+    nextLayerScalar: 20,
+  }),
+
+  new Layer(&quot;layer2&quot;, mkNewEl(&quot;50%&quot;, ), {
+    maxNewElsPerTick: 15,
+    ageOfDeath: 1,
+    drift: 50,
+    neighborScalar: 5,
+    prevLayerScalar: 5,
+    prevLayerLikenessScalar: 20,
+  }),
+
+];
+
+for (const layer of layers) {
+    document.querySelectorAll(`.${layer.className}.layerParams &gt; input`).forEach((input) =&gt; {
+        const param = input.getAttribute(&quot;param&quot;);
+
+        &#x2F;&#x2F; pre-fill input values
+        input.value = layer.knobs[param];
+
+        input.onchange = () =&gt; {
+            console.log(`setting ${layer.className}.${param} to ${input.value}`);
+            layer.knobs[param] = input.value;
+        };
+    });
+}
+
+const universe = new Universe(canvasesByClass, layers);
+
+const requestAnimationFrame =
+  window.requestAnimationFrame ||
+  window.mozRequestAnimationFrame ||
+  window.webkitRequestAnimationFrame ||
+  window.msRequestAnimationFrame;
+
+function doTick() {
+  universe.update();
+  universe.draw();
+  requestAnimationFrame(doTick);
+}
+
+doTick();
+
+&lt;&#x2F;script&gt;
+      
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Self-Hosted Email With maddy: A Naive First Attempt</title>
         <author>
