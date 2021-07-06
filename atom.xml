@@ -4,8 +4,145 @@
   <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2021-07-01T00:00:00+00:00</updated>
+  <updated>2021-07-06T00:00:00+00:00</updated>
   <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Setting Up maddy On A VPS</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2021-07-06T00:00:00+00:00</published>
+    <updated>2021-07-06T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-setting-up-maddy-on-a-vps/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-setting-up-maddy-on-a-vps/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/07/06/maddy-vps.html</id>
+        <link href="https://blog.mediocregopher.com/2021/07/06/maddy-vps.html"/>
+        <title>Setting Up maddy On A VPS</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2021-07-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-setting-up-maddy-on-a-vps/</id>
+    <content type="html">
+        &lt;p&gt;In the previous post I left off with being blocked by my ISP from sending
+outbound emails on port 25, effectively forcing me to set up &lt;a href=&quot;https:&#x2F;&#x2F;maddy.email&quot;&gt;maddy&lt;&#x2F;a&gt; on a
+virtual private server (VPS) somewhere else.&lt;&#x2F;p&gt;
+
+&lt;p&gt;After some research I chose &lt;a href=&quot;https:&#x2F;&#x2F;www.vultr.com&#x2F;&quot;&gt;Vultr&lt;&#x2F;a&gt; as my VPS of choice. They apparently
+don’t block you from sending outbound emails on port 25, and are in general
+pretty cheap. I rented their smallest VPS server for $5&#x2F;month, plus an
+additional $3&#x2F;month to reserve an IPv4 address (though I’m not sure I really
+need that, I have dDNS set up at home and could easily get that working here as
+well).&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;tls&quot;&gt;TLS&lt;&#x2F;h2&gt;
+
+&lt;p&gt;The first major hurdle was getting TLS certs for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mydomain.com&lt;&#x2F;code&gt; (not the real
+domain) onto my Vultr box. For the time being I’ve opted to effectively
+copy-paste my local &lt;a href=&quot;https:&#x2F;&#x2F;letsencrypt.org&#x2F;&quot;&gt;LetsEncrypt&lt;&#x2F;a&gt; setup to Vultr, using certbot to
+periodically update my records using DNS TXT challenges.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The downside to this is that I now require my Cloudflare API key to be present
+on the Vultr box, which effectively means that if the box ever gets owned
+someone will have full access to all my DNS. For now I’ve locked down the box as
+best as I can, and will look into changing the setup in the future. There’s two
+ways I could go about it:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;SCP the certs from my local box to the remote everytime they’re renewed. This
+would require setting up a new user on the remote box with very narrow
+privileges. This isn’t the worst thing though.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Use a different challenge method than DNS TXT records.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;But again, I’m trying to set up maddy, not LetsEncrypt, and so I needed to move
+on.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;deployment&quot;&gt;Deployment&lt;&#x2F;h2&gt;
+
+&lt;p&gt;In the previous post I talked about how I’m using nix to generate a systemd
+service file which encompasses all dependencies automatically, without needing
+to install anything to the global system or my nix profile.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Since that’s already been set up, it’s fairly trivial to use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nix-copy-closure&lt;&#x2F;code&gt;
+to copy a service file, and &lt;em&gt;all&lt;&#x2F;em&gt; of its dependencies (including configuration)
+from my local box to the remote Vultr box. Simply:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;nix-copy-closure -s &amp;lt;ssh host&amp;gt; &amp;lt;nix store path&amp;gt;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;I whipped up some scripts around this so that I can run a single make target and
+have it build the service (and all deps), do a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nix-copy-closure&lt;&#x2F;code&gt; to the remote
+host, copy the service file into &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&#x2F;etc&#x2F;systemd&#x2F;service&lt;&#x2F;code&gt;, and restart the
+service.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;changes&quot;&gt;Changes&lt;&#x2F;h2&gt;
+
+&lt;p&gt;For the most part the maddy deployment on the remote box is the same as on the
+local one. Down the road I will likely change them both significantly, so that
+the remote one only deals with SMTP (no need for IMAP) and the local one will
+automatically forward all submitted messages to it.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Once that’s done, and the remote Vultr box is set up on my &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;slackhq&#x2F;nebula&quot;&gt;nebula&lt;&#x2F;a&gt;
+network, there won’t be a need for the remote maddy to do any SMTP
+authentication, since the submission endpoint can be made entirely private.&lt;&#x2F;p&gt;
+
+&lt;p&gt;For now, however, I’ve set up maddy on the remote box’s public interface with
+SMTP authentication enabled, to make testing easier.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;testing&quot;&gt;Testing&lt;&#x2F;h2&gt;
+
+&lt;p&gt;And now, to test it! I changed the SMTP credentials in my &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;~&#x2F;.mailrc&lt;&#x2F;code&gt; file as
+appropriate, and let a test email rip:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;echo &#x27;Hello! This is a cool email&#x27; | mailx -s &#x27;Subject&#x27; -r &#x27;Me &amp;lt;me@mydomain.com&amp;gt;&#x27; &#x27;test.email@gmail.com&#x27;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;This would, ideally, send an email from my SMTP server (on my domain) to a test
+gmail domain. Unfortunately, it did not do that, but instead maddy spit this out
+in its log:&lt;&#x2F;p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;maddy[1547]: queue: delivery attempt failed        {“msg_id”:”330a1ed9”,”rcpt”:”mediocregopher@gmail.com”,”reason”:”[2001:19f0:5001:355a:5400:3ff:fe73:3d02] Our system has detected that\nthis message does not meet IPv6 sending guidelines regarding PTR\nrecords and authentication. Please review\n https:&#x2F;&#x2F;support.google.com&#x2F;mail&#x2F;?p=IPv6AuthError for more information\n. gn42si18496961ejc.717 - gsmtp”,”remote_server”:”gmail-smtp-in.l.google.com.”,”smtp_code”:550,”smtp_enchcode”:”5.7.1”,”smtp_msg”:”gmail-smtp-in.l.google.com. said: [2001:19f0:5001:355a:5400:3ff:fe73:3d02] Our system has detected that\nthis message does not meet IPv6 sending guidelines regarding PTR\nrecords and authentication. Please review\n https:&#x2F;&#x2F;support.google.com&#x2F;mail&#x2F;?p=IPv6AuthError for more information\n. gn42si18496961ejc.717 - gsmtp”}&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+
+&lt;p&gt;Luckily Vultr makes setting up PTR records for reverse DNS fairly easy. They
+even allowed me to do it on my box’s IPv6 address which I’m not paying to
+reserve (though I’m not sure what the long-term risks of that are… can it
+change?).&lt;&#x2F;p&gt;
+
+&lt;p&gt;Once done, I attempted to send my email again, and what do you know…&lt;&#x2F;p&gt;
+
+&lt;p&gt;&lt;img src=&quot;&#x2F;assets&#x2F;maddy-vps&#x2F;success.png&quot; alt=&quot;Success!&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+
+&lt;p&gt;Success!&lt;&#x2F;p&gt;
+
+&lt;p&gt;So now I can send emails. There are a few next steps from here:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Get the VPS on my nebula network and lock it down properly.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Fix the TLS cert situation.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Set up the remote maddy to forward submissions to my local maddy.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Use my sick new email!&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+      
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Visualization 7</title>
         <author>
