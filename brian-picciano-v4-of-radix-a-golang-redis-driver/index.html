@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
+
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+
+        <title>V4 of Radix, a Golang Redis Driver | Cryptic – Blog</title>
+<meta content="V4 of Radix, a Golang Redis Driver | Cryptic – Blog" property="og:title"/><meta content="V4 of Radix, a Golang Redis Driver | Cryptic – Blog" name="twitter:title"/>
+
+        
+
+        <meta property="og:site_name" content="Cryptic – Blog" />
+        <meta property="og:url" content="https:&#x2F;&#x2F;blog.cryptic.io" />
+
+        
+
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;base.css" />
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+        <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;fontawesome&#x2F;fontawesome.css" rel="stylesheet">
+        <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;fontawesome&#x2F;brands.css" rel="stylesheet">
+        <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;fontawesome&#x2F;solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="Cryptic – Blog" href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;atom.xml">
+
+        
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="l-header">
+            <h1 class="c-title p-title"><a href="https:&#x2F;&#x2F;blog.cryptic.io" class="p-title__link">Cryptic – Blog</a></h1>
+            </header>
+
+        <main id="main" class="l-main">
+            <article class="p-article">
+<header>
+  <h1>V4 of Radix, a Golang Redis Driver
+</h1>
+  <div>
+    <div class="c-time">
+      <time datetime="2021-07-18">
+        2021-07-18
+      </time>
+      by Brian Picciano
+       - (12 min read)
+    </div>
+  </div>
+</header>
+
+<section class="p-article__body" id="js-article">
+  <p>Radix is a Go driver for the <a href="https://redis.io">Redis</a> database. The current stable release
+is v3, the docs for which can be found <a href="https://pkg.go.dev/github.com/mediocregopher/radix/v3#section-documentation">here</a>. Over the past year
+(perhaps longer) I’ve been working on a new version, v4, with the aim of
+addressing some of the shortcomings of v3 and distilling the API a bit better.</p>
+
+<p>At this point v4 is in beta. While there’s still some internal bugs and QoL
+improvements which need to be made, the API is roughly stable and I wouldn’t
+discourage anyone from using it for a non-critical project. In the coming months
+I intend on finishing the polish and tagging a <code class="language-plaintext highlighter-rouge">v4.0.0</code> release, but in the
+meantime let’s go over the major changes and improvements in v4!</p>
+
+<p>You can see the v4 documentation <a href="https://pkg.go.dev/github.com/mediocregopher/radix/v4#section-documentation">here</a>, if you’d like to follow along with
+any of the particulars, and you can see the full CHANGELOG <a href="https://github.com/mediocregopher/radix/blob/v4/CHANGELOG.md">here</a>.</p>
+
+<h2 id="shoutouts">Shoutouts</h2>
+
+<p>Before continuing I want to give to give a huge shoutout to
+<a href="https://github.com/nussjustin">nussjustin</a>. Since before v3 was even stable Justin has been
+contributing to radix in every way possible, from running benchmarks and making
+very low-level performance improvements to building whole user-facing features
+and responding to github issues when I get lost in the woods. Thank you Justin!</p>
+
+<h2 id="resp3">RESP3</h2>
+
+<p>Starting at the lowest level, v4 supports new redis’s new wire protocol,
+<a href="https://github.com/antirez/RESP3">RESP3</a>. This new protocol is (mostly) backwards compatible with the
+previous wire protocol, and is really more an extension than anything. The <a href="https://pkg.go.dev/github.com/mediocregopher/radix/v4/resp/resp3">new
+resp3 sub-package</a> is capable of marshaling and unmarshaling all new
+wire types, including the streamed aggregates and streamed strings.</p>
+
+<p>A major improvement made on the API level is addition of the
+<a href="https://pkg.go.dev/github.com/mediocregopher/radix/v4/resp#Opts">resp.Opts</a> type, which is used to propagate things like byte buffers
+and buffered readers. Doing this allows the resp3 package to reduce memory
+allocations without relying on something like <code class="language-plaintext highlighter-rouge">sync.Pool</code>, which introduces
+locking overhead.</p>
+
+<p>There’s still some question to be answered regarding the best way for the main
+radix package to deal with the new push and attribute types, but the resp3
+package is general-purpose enough to handle most strategies in the future.</p>
+
+<p>In fact, the RESP3 protocol as a whole (and therefore v4’s associated resp3
+sub-package) is totally usable outside of redis. If you’re looking for a
+human-readable, binary safe, fast, and simple wire protocol which already has
+great tooling and libraries across multiple programming languages, I highly
+recommend checking out RESP3.</p>
+
+<h2 id="conn">Conn</h2>
+
+<p>Arguably one of the biggest design warts of v3, in my eyes, is the
+<a href="https://pkg.go.dev/github.com/mediocregopher/radix/v3#CmdAction">CmdAction</a> type. This type required to allow for pipelining, which
+is a feature of redis where you can write new commands to a redis connection
+prior to previous ones returning their results. The major upside of pipelining
+is that N pipelined commands will only result in 2 system calls (a network write
+then a network read), rather than 2N system calls (N writes and N reads) if each
+command was performed independently.</p>
+
+<p>The normal v3 Action type is fairly opaque, and would perform both the write and
+read internally without exposing any way to do some other action in between
+(such as performing writes/reads for other commands in a pipeline). CmdAction
+extends Action to allow the write and read to be performed independently, and
+then leaves it to the Pipeline type to deal with the batching.</p>
+
+<p>v4 gets rid of the need for CmdAction, while allowing even more Action types to
+be pipeline-able than before (e.g. <a href="https://pkg.go.dev/github.com/mediocregopher/radix/v4#EvalScript">EvalScript</a>). This was done by
+coalescing the Encode and Decode methods on the <a href="https://pkg.go.dev/github.com/mediocregopher/radix/v4#Conn">Conn</a> type into a single
+method: EncodeDecode. By doing this we allow Actions to perform the write/read
+steps in a way which groups the two together, but leaves it to Conn to actually
+perform the steps in its own way.</p>
+
+<p>Because Conn now has knowledge of which read/write steps go together, it’s
+possible to perform pipelining in nearly all cases. Aside from using the
+Pipeline type manually, the v4 Conn is able to automatically pipeline most
+Actions when they are performed concurrently on the same Conn. v3 had a similar
+feature, called “implicit pipelining”, but v4 rebrands the feature as
+“connection sharing” since the mechanism is slightly different and the
+applicability is broader.</p>
+
+<p>Despite the apparent simplicity of the change (combining Encode and Decode
+methods), this resulted in probably the largest code difference between v3 and
+v4, involving the most complex new logic and package-wide refactorings. But the
+end result is a simpler, smaller API which can be applied to more use-cases. A
+great win!</p>
+
+<h2 id="pool">Pool</h2>
+
+<p>In v3 the connection pool, the Pool type, was implemented with the assumption
+that each Action (or CmdAction) would borrow a Conn for the duration of the
+Action. As such the Pool expects to be creating and destroying connections as
+load increases and decreases; if number of concurrent commands goes up then
+number of connections required to handle them goes up as well, and vice-versa.</p>
+
+<p>Down the road the Pool became responsible for performing implicit pipelining as
+well. This allowed for grouping together many commands on the same connection,
+reducing pressure on connection creation greatly, but nevertheless the Pool kept
+that same general pattern of dynamic connection pool sizing.</p>
+
+<p>In v4 there is no longer the assumption that each command gets its own
+connection, and in fact that assumption is flipped: each connection is expected
+to handle multiple commands concurrently in almost all cases. This means the
+Pool can get rid of the dynamism, and opt instead for a simple static connection
+pool size. There is still room in the API for some dynamic connection sizing to
+be implemented later, but it’s mostly unnecessary now.</p>
+
+<p>Some care should be used with commands which <em>can’t</em> be pipelined, for example
+blocking commands like BRPOPLPUSH and XREAD. These commands, ideally, should be
+performed on an individual Conn created just for that purpose. Pool <em>will</em>
+properly handle them if needed, but with the caveat that the Action which will
+essentially remove a Conn from the Pool for its duration.</p>
+
+<p><a href="https://pkg.go.dev/github.com/mediocregopher/radix/v4#PoolConfig.New">The new Pool</a> is <em>vastly</em> simpler in implementation than the old, as most
+of the complexity has been moved into Conn. Really this whole section is an
+extension of the refactoring which was started by the changes to Conn.</p>
+
+<h2 id="multiclient">MultiClient</h2>
+
+<p>In v3 there was a single Client type which was used to encompass Conn, Pool,
+Sentinel, and Cluster, with the aim that users could just use Client in their
+code and easily swap out the underlying implementation as needed.</p>
+
+<p>In practice this didn’t work out. The original Client type only had a Do method
+for performing Actions, which would always perform the Actions against the
+primary instance in the case of Cluster and Sentinel. Cluster and Sentinel ended
+up being extended with DoSecondary methods, and Cluster required its own
+constructor for Scanner, so if you used any of those features you would not be
+able to use Client.</p>
+
+<p>v4 improves this situation by introducing the <a href="https://pkg.go.dev/github.com/mediocregopher/radix/v4#MultiClient">MultiClient</a>
+interface, which is implemented by both Cluster and Sentinel, while Conn and
+Pool only implement <a href="https://pkg.go.dev/github.com/mediocregopher/radix/v4#Client">Client</a>. Client is intended for clients which
+interact with only a single redis instance, while MultiClient is intended for
+use by clients which encompass multiple redis instances, and makes the
+distinction between primary and secondary instances.</p>
+
+<p>In general, users will want to use MultiClient in their code and swap the
+underlying implementation as their infrastructure evolves. When using only a
+single Pool, one can make it into a MultiClient using the new
+<a href="https://pkg.go.dev/github.com/mediocregopher/radix/v4#ReplicaSet">ReplicaSet</a>.</p>
+
+<p>One can also implement their own MultiClient’s fairly easily, to handle their
+own custom sharding or failover systems. It’s not a common use-case, but it’s
+cool that existing types like Scanner will still continue to work.</p>
+
+<h2 id="contexts">Contexts</h2>
+
+<p>A common feature request of v3 was for support for Go’s <a href="https://blog.golang.org/context">Contexts</a>,
+which would allow callers to unblock blocked operations in a dynamic way. There
+wasn’t a clear way to incorporate Contexts into v3 without greatly expanding the
+API (something the Go standard library has had to do), and so I saved them for
+v4.</p>
+
+<p>In v4 all operations which might potentially block accept a Context argument.
+This takes the place of timeout options and some trace events which were used in
+v3, and in general simplifies things for the user.</p>
+
+<p>This was a change for which there is not much to talk about, but which required
+a <em>lot</em> of work internally. Go’s Contexts do not play nicely with its networking
+primitives, and making this all work alongside connection sharing and pipelining
+is a really hairy puzzle (for which there’s a few open bugs still). I may one
+day write a blog post just about this topic, if I can figure out how to explain
+it in a way which isn’t completely mind-numbing.</p>
+
+<h2 id="configuration">Configuration</h2>
+
+<p>Constructors in v3 took advantage of the <a href="https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis">functional options pattern</a> for
+accepting optional parameters. While this pattern <em>looks</em> nice, I’ve since
+grown out of love with it. The implementation is a lot more complex, its
+behavior is more ambiguous to users in certain cases (what happens if the same
+option is passed in twice?), it makes documentation more complex, and a slice of
+option functions isn’t inspectable or serializable like a struct is.</p>
+
+<p>v4 uses a config struct pattern, but in a different way than I’ve generally seen
+it. See <a href="https://pkg.go.dev/github.com/mediocregopher/radix/v4#PoolConfig.New">Pool’s constructor</a> for an example. This pattern is functionally
+the same as passing the config struct as an argument to the constructor, but I
+think it results in a nicer grouping in the documentation.</p>
+
+<h2 id="smaller-changes">Smaller Changes</h2>
+
+<p>There’s some smaller sets of changes which are worth mentioning. These didn’t
+result in huge, package-wide changes, but will be useful for users of specific
+functionality.</p>
+
+<h3 id="action-properties">Action Properties</h3>
+
+<p><a href="https://pkg.go.dev/github.com/mediocregopher/radix/v4#Action">v4’s Action type</a> has a Properties method which returns a struct
+containing various fields which are useful for client’s performing the Action.
+This is an improvement over v3’s Action, which had no such method, in that it’s
+more extensible going forward. Those implementing their own custom Actions
+should take care to understand the Action properties.</p>
+
+<h3 id="pubsub">PubSub</h3>
+
+<p>The v4 <a href="https://pkg.go.dev/github.com/mediocregopher/radix/v4#PubSubConn">PubSubConn</a> has been completely redesigned from v3’s
+implementation. The old design tried to do too much, and resulted in weird
+edge-cases when trying to tear down a connection that a user would have to
+handle themselves. The new design is simple both in implementation and usage.</p>
+
+<h3 id="tracing">Tracing</h3>
+
+<p>The v4 <a href="https://pkg.go.dev/github.com/mediocregopher/radix/v4/trace">trace</a> sub-package has been extended to support tracing Sentinel
+events, but at the same time has been cleaned out of all events which could be
+otherwise inferred by using Context values or wrapping an interface like Conn,
+Action, etc…</p>
+
+<h2 id="whats-next">What’s Next</h2>
+
+<p>Obviously the most immediate goal is to get v4 stable and tagged. Once that’s
+done I’m sure there will be many small bugs, feature requests, etc… which come
+up over time, and I’ll do my best to address those as quickly as I can. I’m
+very excited to start using v4 in my own day-to-day work like I currently do for
+v3; it has a lot of great improvements and new flexibility that will make using
+Go and redis together an even better experience than it already is.</p>
+
+<p>That all said, I don’t expect there to be a radix v5. I have a lot of other
+projects I’d like to work on, and radix is a huge time-sink. As time goes on v4
+will stabilize further and further, until all that’s left is for it to gain
+additional support for whatever new crazy features redis comes up with. My hope
+is that the existing API is flexibile enough to allow others to fill in those
+gaps without any major changes to the existing code, and radix v4 can be the
+final major radix version.</p>
+</section>
+<footer>
+  <nav class="c-pagination p-pagination">
+    <div class="c-pagination__ctrl">
+      <div class="c-pagination__newer">
+        
+      </div>
+      <div class="c-pagination__older">
+        <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-how-to-secure-a-webapp&#x2F;">How to Secure a Webapp</a>
+      </div>
+    </div>
+  </nav>
+</footer></article>
+        </main>
+
+     
+      <footer class="l-footer">
+          <p class="p-copyright">
+              
+          </p>
+      </footer>
+
+       
+      
+    </body>
+</html>
+            
