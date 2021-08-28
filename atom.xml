@@ -4,8 +4,506 @@
   <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2021-07-18T00:00:00+00:00</updated>
+  <updated>2021-08-26T00:00:00+00:00</updated>
   <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Syntax of Ginger</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2021-08-26T00:00:00+00:00</published>
+    <updated>2021-08-26T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-the-syntax-of-ginger/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-the-syntax-of-ginger/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/08/26/the-syntax-of-ginger.html</id>
+        <link href="https://blog.mediocregopher.com/2021/08/26/the-syntax-of-ginger.html"/>
+        <title>The Syntax of Ginger</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2021-08-26T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-the-syntax-of-ginger/</id>
+    <content type="html">
+        &lt;p&gt;Finally I have a syntax for ginger that I’m happy with. This has actually been a
+huge roadblock for me up till this point. There’s a bit of a chicken-and-the-egg
+problem with the syntax: without pinning down the structures underlying the
+syntax it’s difficult to develop one, but without an idea of syntax it’s
+difficult to know what structures will be ergonomic to use.&lt;&#x2F;p&gt;
+
+&lt;p&gt;I’ve been focusing on the structures so far, and have only now pinned down the
+syntax. Let’s see what it looks like.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;preface-conditionals&quot;&gt;Preface: Conditionals&lt;&#x2F;h2&gt;
+
+&lt;p&gt;I’ve so far written &lt;a href=&quot;&#x2F;2021&#x2F;03&#x2F;01&#x2F;conditionals-in-ginger.html&quot;&gt;two&lt;&#x2F;a&gt; &lt;a href=&quot;&#x2F;2021&#x2F;03&#x2F;04&#x2F;conditionals-in-ginger-errata.html&quot;&gt;posts&lt;&#x2F;a&gt; regarding conditionals in
+ginger. After more reflection, I think I’m going to stick with my &lt;em&gt;original&lt;&#x2F;em&gt;
+gut, which was to only have value and tuple vertices (no forks), and to use a
+function which accepts both a boolean and two input edges: the first being the
+one to take if the boolean is true, and the second being the one to take if it’s
+false.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Aka, the very first proposal in the &lt;a href=&quot;&#x2F;2021&#x2F;03&#x2F;01&#x2F;conditionals-in-ginger.html&quot;&gt;first post&lt;&#x2F;a&gt;. It’s hard to justify
+up-front, but I think once you see it in action with a clean syntax you’ll agree
+it just kind of works.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;designing-a-syntax&quot;&gt;Designing a Syntax&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Ginger is a bit of a strange language. It uses strange datastructures in strange
+ways. But approaching the building of a syntax for any language is actually
+straightforward: you’re designing a serialization protocol.&lt;&#x2F;p&gt;
+
+&lt;p&gt;To pull back a bit, consider a list of words. How would you encode this list in
+order to write it to a file? To answer this, let’s flip the question: how would
+you design a sequence of characters (ie the contents of the file) such that the
+reader could reconstruct the list?&lt;&#x2F;p&gt;
+
+&lt;p&gt;Well, constructing the list from a sequence of characters requires being able to
+construct it &lt;em&gt;at all&lt;&#x2F;em&gt;, so in what ways is the list constructed? For this list,
+let’s say there’s only an append operation, which accepts a list and a value to
+append to it, and returns the result.&lt;&#x2F;p&gt;
+
+&lt;p&gt;If we say that append is encoded via wrapping parenthesis around its two
+arguments, and that &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;()&lt;&#x2F;code&gt; encodes the empty list, then we get a syntax like…&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;(((() foo) bar) baz)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;…which, in this instance, decodes to a list containing the words, “foo”, “bar”,
+and “baz”, in that order.&lt;&#x2F;p&gt;
+
+&lt;p&gt;It’s not a pretty syntax, but it demonstrates the method. If you know how the
+datastructure is constructed via code, you know what capabilities the syntax must
+have and how it needs to fit together.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;gg&quot;&gt;gg&lt;&#x2F;h2&gt;
+
+&lt;p&gt;All of this amounted to me needing to implement the ginger graph in some other
+language, in order to see what features the syntax must have.&lt;&#x2F;p&gt;
+
+&lt;p&gt;A few years ago I had begun an implementation of a graph datastructure in go, to
+use as the base (or at least a reference) for ginger. I had called this
+implementation &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gg&lt;&#x2F;code&gt; (ginger graph), with the intention that this would also be
+the file extension used to hold ginger code (how clever).&lt;&#x2F;p&gt;
+
+&lt;p&gt;The basic qualities I wanted in a graph datastructure for ginger were, and still
+are:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Immutability, ie all operations which modify the structure should return a
+copy, leaving the original intact.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Support for tuples.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The property that it should be impossible to construct an invalid graph. An
+invalid graph might be, for example, one where there is a single node with no
+edges.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Well tested, and reasonably performant.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;Coming back to all this after a few years I had expected to have a graph
+datastructure implemented, possibly with immutability, but lacking in tuples and
+tests. As it turns out I completely underestimated my past self, because as far
+as I can tell I had already finished the damn thing, tuples, tests and all.&lt;&#x2F;p&gt;
+
+&lt;p&gt;It looks like that’s the point where I stopped, probably for being unsure about
+some other aspect of the language, and my motivation fell off. The fact that
+I’ve come back to ginger, after all these years, and essentially rederived the
+same language all over again, gives me a lot of confidence that I’m on the right
+track (and a lot of respect for my past self for having done all this work!)&lt;&#x2F;p&gt;
+
+&lt;p&gt;The basic API I came up with for building ginger graphs (ggs) looks like this:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-go highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;package&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;gg&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; OpenEdge represents an edge with a source value but no destination value,&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; with an optional value on it. On its own an OpenEdge has no meaning, but is&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; used as a building block for making Graphs.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;type&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;OpenEdge&lt;&#x2F;span&gt; &lt;span class=&quot;k&quot;&gt;struct&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;...&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; TupleOut constructs an OpenEdge leading from a tuple, which is comprised of&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; the given OpenEdges leading into it, with an optional edge value.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;func&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;TupleOut&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;ins&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;[]&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;OpenEdge&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;edgeVal&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Value&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;OpenEdge&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; ValueOut constructs an OpenEdge leading from a non-tuple value, with an&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; optional edge value.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;func&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;ValueOut&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;val&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;edgeVal&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Value&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;OpenEdge&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; ZeroGraph is an empty Graph, from which all Graphs are constructed via calls&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; to AddValueIn.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;var&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;ZeroGraph&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Graph&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;...&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; Graph is an immutable graph structure, formed from a collection of edges&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; between values and tuples.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;type&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Graph&lt;&#x2F;span&gt; &lt;span class=&quot;k&quot;&gt;struct&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;...&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; AddValueIn returns a new Graph which is a copy of the original, with the&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; addition of a new edge. The new edge&#x27;s source and edge value come from the&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; given OpenEdge, and the edge&#x27;s destination value is the given value.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;func&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;g&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Graph&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;AddValueIn&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;oe&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;OpenEdge&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;val&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Value&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Graph&lt;&#x2F;span&gt;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;The actual API is larger than this, and includes methods to remove edges,
+iterate over edges and values, and perform unions and disjoins of ggs. But the
+above are the elements which are required only for &lt;em&gt;making&lt;&#x2F;em&gt; ggs, which is all
+that a syntax is concerned with.&lt;&#x2F;p&gt;
+
+&lt;p&gt;As a demonstration, here is how one would construct the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;min&lt;&#x2F;code&gt; operation, which
+takes two numbers and returns the smaller, using the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gg&lt;&#x2F;code&gt; package:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-go highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; a, b, in, out, if, etc.. are Values which represent the respective symbol.&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; a is the result of passing in to the 0 operation, ie a is the 0th element of&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; the in tuple.&lt;&#x2F;span&gt;
+&lt;span class=&quot;n&quot;&gt;min&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;:=&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;gg&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;ZeroGraph&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;AddValueIn&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;gg&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;ValueOut&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;in&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; b is the 1st element of the in tuple&lt;&#x2F;span&gt;
+&lt;span class=&quot;n&quot;&gt;min&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;min&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;AddValueIn&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;gg&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;ValueOut&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;in&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;m&quot;&gt;1&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; out is the result of an if which compares a and b together, and which returns&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; the lesser.&lt;&#x2F;span&gt;
+&lt;span class=&quot;n&quot;&gt;min&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;min&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;AddValueIn&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;out&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;gg&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;TupleOut&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;([]&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;gg&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;OpenEdge&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;&#x2F;span&gt;
+    &lt;span class=&quot;n&quot;&gt;gg&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;TupleOut&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;([]&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;gg&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;OpenEdge&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;lt&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;&#x2F;span&gt;
+    &lt;span class=&quot;n&quot;&gt;a&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt;
+    &lt;span class=&quot;n&quot;&gt;b&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt;
+&lt;span class=&quot;p&quot;&gt;},&lt;&#x2F;span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;And here’s a demonstration of how this &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;min&lt;&#x2F;code&gt; would be used:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-go highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; out is the result of passing 1 and 5 to the min operation.&lt;&#x2F;span&gt;
+&lt;span class=&quot;n&quot;&gt;gg&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;ZeroGraph&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;AddValueIn&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;gg&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;TupleOut&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;([]&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;gg&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;OpenEdge&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;&#x2F;span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;m&quot;&gt;5&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;min&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;out&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;h2 id=&quot;make-it-nice&quot;&gt;Make it Nice&lt;&#x2F;h2&gt;
+
+&lt;p&gt;&lt;em&gt;Technically&lt;&#x2F;em&gt; we’re done. We have an implementation of the language’s underlying
+structure, and a syntax which encodes it (ie the ugly ass go syntax above). But
+obviously I’m not proposing anyone actually use that.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Another thing I found when digging around in the old ginger repo was a text
+file, tucked away in a directory called “sandbox”, which had a primitive syntax
+which &lt;em&gt;almost&lt;&#x2F;em&gt; worked. I won’t copy it here, but you can find it if you care to.
+But with that as a foundation I came up with a crude, rough draft spec, which
+maps the go syntax to the new syntax.&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ValueOut(val, edgeVal)    : -edgeVal-val
+ValueOut(val, null)       : -val
+TupleOut([]val, edgeVal)  : -edgeVal-(val, ...)
+TupleOut([]val, null)     : -(val, ...)
+Graph(openEdge-&amp;gt;val, ...) : { val openEdge, ... }
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;A couple things to note about this spec:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;null&lt;&#x2F;code&gt; is used to indicate absence of value on an edge. The details of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;null&lt;&#x2F;code&gt;
+are yet to be worked out, but we can use this placeholder for now.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Graph&lt;&#x2F;code&gt; is cheating a bit. In the original &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gg&lt;&#x2F;code&gt; implementation a Graph gains
+its OpenEdge&#x2F;Value pairs via successive calls to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;AddValueIn&lt;&#x2F;code&gt;. However, such a
+pattern doesn’t translate well to text, and since we’re dealing purely with
+constructing an entire Graph at once we can instead have our Graph syntax
+declare all OpenEdge&#x2F;Value pairs at once.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;It’s backwards! Eg where the go syntax does &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ValueOut(val, edgeVal)&lt;&#x2F;code&gt;, the
+proposed spec puts the values in the opposite order: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-edgeVal-val&lt;&#x2F;code&gt;. The
+former results in code which is read from input to output, while the latter
+results in the opposite: output to input.&lt;&#x2F;p&gt;
+
+    &lt;p&gt;This was a tip I picked up from the old text file I found, and the result is
+code which is more familiar to an existing programmer. I &lt;em&gt;think&lt;&#x2F;em&gt; (but am
+not sure) that it’s also more in line with how programming is done mentally,
+ie we start with a result and work backwards to figure out what it takes to
+get there.&lt;&#x2F;p&gt;
+
+    &lt;p&gt;It’s possible, though, that I’m wrong, so at this end of this post I’m going
+to put some examples of the same code both “forwards” and “backwards” and see
+how I feel about it.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;With all that said, let’s see it in action! Here’s &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;min&lt;&#x2F;code&gt; implemented in our shiny new syntax:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;min -{
+    a -0-in,
+    b -1-in,
+    out -if-(
+        -lt-(-a,-b),
+        -a,
+        -b
+    )
+}
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;and then here’s it being used:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;out -min-(-1,-5)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;h2 id=&quot;make-it-nicer&quot;&gt;Make it &lt;em&gt;Nicer&lt;&#x2F;em&gt;&lt;&#x2F;h2&gt;
+
+&lt;p&gt;The most striking feature of this rough draft spec is all the prefix dashes,
+such as in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-min-(-1,-5)&lt;&#x2F;code&gt; statement. These dashes were included as they make
+sense in the context of what the intended human interpretation of the structure
+is: two values, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;1&lt;&#x2F;code&gt;, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;5&lt;&#x2F;code&gt;, are being &lt;em&gt;piped into&lt;&#x2F;em&gt; the two slots of a 2-tuple,
+and that 2-tuple is being &lt;em&gt;piped into&lt;&#x2F;em&gt; the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;min&lt;&#x2F;code&gt; operation, the output of which
+is being &lt;em&gt;piped into&lt;&#x2F;em&gt; something &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;out&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The “piping into” is what the dash represents, which is why the top level values
+in the graph, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;a&lt;&#x2F;code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;b&lt;&#x2F;code&gt;, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;out&lt;&#x2F;code&gt;, don’t have a preceding dash; they are the
+ultimate destinations of the pipes leading to them. But these pipes are
+ultimately ugly, and also introduce odd questions like “how do we represent
+-1?”, so they need to go.&lt;&#x2F;p&gt;
+
+&lt;p&gt;So I’ve made a second draft, which is only a few changes away from the rough,
+but oh man do those changes make a world of difference. Here’s the cleaned up
+spec:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ValueOut(val, edgeVal)    : edgeVal(val)
+ValueOut(val, null)       : val
+TupleOut([]val, edgeVal)  : edgeVal(val, ...)
+TupleOut([]val, null)     : (val, ...)
+Graph(openEdge-&amp;gt;val, ...) : { val = openEdge, ... }
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;The dashes were simply removed, and the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;edgeVal&lt;&#x2F;code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;val&lt;&#x2F;code&gt; concatted together.
+For &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ValueOut(val, edgeVal)&lt;&#x2F;code&gt; wrapping parenthesis were put around &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;val&lt;&#x2F;code&gt;, to
+delineate it and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;edgeVal&lt;&#x2F;code&gt;. This conflicts with the syntax for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;TupleOut([]val,
+edgeVal)&lt;&#x2F;code&gt;, but that conflict is easy to remedy: when parenthesis wrap only a
+single &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;val&lt;&#x2F;code&gt; then that is a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ValueOut&lt;&#x2F;code&gt;, otherwise it’s a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;TupleOut&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Another change is to add an &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;=&lt;&#x2F;code&gt; between the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;val&lt;&#x2F;code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;openEdge&lt;&#x2F;code&gt; in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Graph&lt;&#x2F;code&gt;
+constructor. This is a purely aesthetic change, but as you’ll see it works well.&lt;&#x2F;p&gt;
+
+&lt;p&gt;So let’s see it! &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;min&lt;&#x2F;code&gt; implemented with this cleaned up syntax:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;min = {
+    a = 0(in),
+    b = 1(in),
+    out = if(
+        lt(a,b),
+        a,
+        b
+    )
+}
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;And then its use:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;min(1,5)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;Well well well, look what we have here: a conventional programming language
+syntax! &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;{&lt;&#x2F;code&gt;&#x2F;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;}&lt;&#x2F;code&gt; wrap a scope, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;(&lt;&#x2F;code&gt;&#x2F;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;)&lt;&#x2F;code&gt; wrap function arguments and
+(optionally) single values. It’s a lot clearer now that &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;0&lt;&#x2F;code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;1&lt;&#x2F;code&gt; are being
+used as operations themselves when instantiating &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;a&lt;&#x2F;code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;b&lt;&#x2F;code&gt;, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; is much
+more readable.&lt;&#x2F;p&gt;
+
+&lt;p&gt;I was extremely surprised at how well this actually worked out. Despite having
+drastically different underpinnings than most languages it ends up looking both
+familiar and obvious. How cool!&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;examples-examples-examples&quot;&gt;Examples Examples Examples&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Here’s a collection of example programs written in this new syntax. The base
+structure of these are borrowed from previous posts, I’m merely translating that
+structure into a new form:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&#x2F;&#x2F; decr outputs one less than the input.
+decr = { out = add(in, -1) }
+
+&#x2F;&#x2F; fib accepts a number i, and outputs the ith fibonacci number.
+fib = {
+
+    inner = {
+        n = 0(in),
+        a = 1(in),
+        b = 2(in),
+
+        out = if(zero?(n),
+            a,
+            inner(decr(n), b, add(a,b))
+        )
+
+    },
+
+    out = inner(in, 0, 1)
+}
+
+&#x2F;&#x2F; map accepts a sequence and a function, and returns a sequence consisting of
+&#x2F;&#x2F; the result of applying the function to each of the elements in the given
+&#x2F;&#x2F; sequence.
+map = {
+    inner = {
+        mapped-seq = 0(in),
+        orig-seq = 1(in),
+        op = 2(in),
+
+        i = len(mapped-seq),
+
+        &#x2F;&#x2F; graphs provide an inherent laziness to the language. Just because
+        &#x2F;&#x2F; next-el is _defined_ here doesn&#x27;t mean it&#x27;s evaluated here at runtime.
+        &#x2F;&#x2F; In reality it will only be evaluated if&#x2F;when evaluating out requires
+        &#x2F;&#x2F; evaluating next-el.
+        next-el = op(i(orig-seq)),
+        next-mapped-seq = append(mapped-seq, next-el),
+
+        out = if(
+            eq(len(mapped-seq), len(orig-seq)),
+            mapped-seq,
+            inner(next-mapped-seq, orig-seq, op)
+        )
+    }
+
+    &#x2F;&#x2F; zero-seq returns an empty sequence
+    out = inner(zero-seq(), 0(in), 1(in))
+}
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;h2 id=&quot;selpmexa-selpmexa-selpmexa&quot;&gt;Selpmexa Selpmexa Selpmexa&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Our syntax encodes a graph, and a graph doesn’t really care if the syntax was
+encoded in an input-to-output vs an output-to-input direction. So, as promised,
+here’s all the above examples, but “backwards”:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&#x2F;&#x2F; min returns the lesser of the two numbers it is given
+{
+    (in)0 = a,
+    (in)1 = b,
+
+    (
+        (a,b)lt,
+        a,
+        b
+    )if = out
+
+} = min
+
+&#x2F;&#x2F; decr outputs one less than the input.
+{ (in, -1)add = out } = decr
+
+&#x2F;&#x2F; fib accepts a number i, and outputs the ith fibonacci number.
+{
+    {
+        (in)0 = n,
+        (in)1 = a,
+        (in)2 = b,
+
+        (
+            (n)zero?
+            a,
+            ((n)decr, b, (a,b)add)inner
+        )if = out
+
+    } = inner,
+
+    (in, 0, 1)inner = out
+
+} = fib
+
+&#x2F;&#x2F; map accepts a sequence and a function, and returns a sequence consisting of
+&#x2F;&#x2F; the result of applying the function to each of the elements in the given
+&#x2F;&#x2F; sequence.
+{
+    {
+        (in)0 = mapped-seq,
+        (in)1 = orig-seq,
+        (in)2 = op,
+
+        (mapped-seq)len = i,
+
+        ((orig-seq)i)op = next-el,
+        (mapped-seq, next-el)append = next-mapped-seq,
+
+        (
+            ((mapped-seq)len, (orig-seq)len)eq,
+            mapped-seq,
+            (next-mapped-seq, orig-seq, op)inner
+        )if = out
+
+    } = inner,
+
+    (()zero-seq, (in)0, (in)1)inner = out
+} = map
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;Do these make you itchy? They kind of make me itchy. But… parts of them also
+appeal to me.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The obvious reason why these feel wrong to me is the placement of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt;:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;(
+    (a,b)lt,
+    a,
+    b
+)if = out
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;The tuple which is being passed to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; here is confusing unless you already
+know that it’s going to be passed to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt;. But on your first readthrough you
+won’t know that till you get to the end, so you’ll be in the dark until then.
+For more complex programs I’m sure this problem will compound.&lt;&#x2F;p&gt;
+
+&lt;p&gt;On the other hand, pretty much everything else looks &lt;em&gt;better&lt;&#x2F;em&gt;, imo. For example:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&#x2F;&#x2F; copied and slightly modified from the original to make it even more complex
+
+(mapped-seq, ((orig-seq)i)op)append = next-mapped-seq
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;Something like this reads very clearly to me, and requires a lot less mental
+backtracking to comprehend. The main difficulty I have is tracking the
+parenthesis, but the overall “flow” of data and the order of events is plain to
+read.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;next-steps&quot;&gt;Next Steps&lt;&#x2F;h2&gt;
+
+&lt;p&gt;The syntax here is not done yet, not by a long shot. If my record with past
+posts about ginger (wherein I’ve “decided” on something and then completely
+backtracked in later posts every single time) is any indication then this syntax
+won’t even look remotely familiar in a very short while. But it’s a great
+starting point, I think, and raises a lot of good questions.&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Can I make parenthesis chains, a la the last example, more palatable in some
+way?&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Should I go with the “backwards” syntax afterall? In a functional style of
+programming &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; statements &lt;em&gt;should&lt;&#x2F;em&gt; be in the minority, and so the syntax
+which better represents the flow of data in that style might be the way.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Destructuring of tuples seems to be wanted, as evidenced by all the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;a =
+0(in)&lt;&#x2F;code&gt; lines. Should this be reflected in the structure or solely be
+syntactical sugar?&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Should the commas be replaced with any whitespace (and make commas count as
+whitespace, as clojure has done)? If this is possible then I think they should
+be, but I won’t know for sure until I begin implementing the parser.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;And, surely, many more! I’ve felt a bit lost with ginger for a &lt;em&gt;long&lt;&#x2F;em&gt; time, but
+seeing a real, usable syntax emerge has really invigorated me, and I’ll be
+tackling it again in earnest soon (fingers crossed).&lt;&#x2F;p&gt;
+      
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>V4 of Radix, a Golang Redis Driver</title>
         <author>

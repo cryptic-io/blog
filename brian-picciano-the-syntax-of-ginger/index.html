@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
+
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+
+        <title>The Syntax of Ginger | Cryptic – Blog</title>
+<meta content="The Syntax of Ginger | Cryptic – Blog" property="og:title"/><meta content="The Syntax of Ginger | Cryptic – Blog" name="twitter:title"/>
+
+        
+
+        <meta property="og:site_name" content="Cryptic – Blog" />
+        <meta property="og:url" content="https:&#x2F;&#x2F;blog.cryptic.io" />
+
+        
+
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;base.css" />
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+        <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;fontawesome&#x2F;fontawesome.css" rel="stylesheet">
+        <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;fontawesome&#x2F;brands.css" rel="stylesheet">
+        <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;fontawesome&#x2F;solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="Cryptic – Blog" href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;atom.xml">
+
+        
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="l-header">
+            <h1 class="c-title p-title"><a href="https:&#x2F;&#x2F;blog.cryptic.io" class="p-title__link">Cryptic – Blog</a></h1>
+            </header>
+
+        <main id="main" class="l-main">
+            <article class="p-article">
+<header>
+  <h1>The Syntax of Ginger
+</h1>
+  <div>
+    <div class="c-time">
+      <time datetime="2021-08-26">
+        2021-08-26
+      </time>
+      by Brian Picciano
+       - (22 min read)
+    </div>
+  </div>
+</header>
+
+<section class="p-article__body" id="js-article">
+  <p>Finally I have a syntax for ginger that I’m happy with. This has actually been a
+huge roadblock for me up till this point. There’s a bit of a chicken-and-the-egg
+problem with the syntax: without pinning down the structures underlying the
+syntax it’s difficult to develop one, but without an idea of syntax it’s
+difficult to know what structures will be ergonomic to use.</p>
+
+<p>I’ve been focusing on the structures so far, and have only now pinned down the
+syntax. Let’s see what it looks like.</p>
+
+<h2 id="preface-conditionals">Preface: Conditionals</h2>
+
+<p>I’ve so far written <a href="/2021/03/01/conditionals-in-ginger.html">two</a> <a href="/2021/03/04/conditionals-in-ginger-errata.html">posts</a> regarding conditionals in
+ginger. After more reflection, I think I’m going to stick with my <em>original</em>
+gut, which was to only have value and tuple vertices (no forks), and to use a
+function which accepts both a boolean and two input edges: the first being the
+one to take if the boolean is true, and the second being the one to take if it’s
+false.</p>
+
+<p>Aka, the very first proposal in the <a href="/2021/03/01/conditionals-in-ginger.html">first post</a>. It’s hard to justify
+up-front, but I think once you see it in action with a clean syntax you’ll agree
+it just kind of works.</p>
+
+<h2 id="designing-a-syntax">Designing a Syntax</h2>
+
+<p>Ginger is a bit of a strange language. It uses strange datastructures in strange
+ways. But approaching the building of a syntax for any language is actually
+straightforward: you’re designing a serialization protocol.</p>
+
+<p>To pull back a bit, consider a list of words. How would you encode this list in
+order to write it to a file? To answer this, let’s flip the question: how would
+you design a sequence of characters (ie the contents of the file) such that the
+reader could reconstruct the list?</p>
+
+<p>Well, constructing the list from a sequence of characters requires being able to
+construct it <em>at all</em>, so in what ways is the list constructed? For this list,
+let’s say there’s only an append operation, which accepts a list and a value to
+append to it, and returns the result.</p>
+
+<p>If we say that append is encoded via wrapping parenthesis around its two
+arguments, and that <code class="language-plaintext highlighter-rouge">()</code> encodes the empty list, then we get a syntax like…</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(((() foo) bar) baz)
+</code></pre></div></div>
+
+<p>…which, in this instance, decodes to a list containing the words, “foo”, “bar”,
+and “baz”, in that order.</p>
+
+<p>It’s not a pretty syntax, but it demonstrates the method. If you know how the
+datastructure is constructed via code, you know what capabilities the syntax must
+have and how it needs to fit together.</p>
+
+<h2 id="gg">gg</h2>
+
+<p>All of this amounted to me needing to implement the ginger graph in some other
+language, in order to see what features the syntax must have.</p>
+
+<p>A few years ago I had begun an implementation of a graph datastructure in go, to
+use as the base (or at least a reference) for ginger. I had called this
+implementation <code class="language-plaintext highlighter-rouge">gg</code> (ginger graph), with the intention that this would also be
+the file extension used to hold ginger code (how clever).</p>
+
+<p>The basic qualities I wanted in a graph datastructure for ginger were, and still
+are:</p>
+
+<ul>
+  <li>
+    <p>Immutability, ie all operations which modify the structure should return a
+copy, leaving the original intact.</p>
+  </li>
+  <li>
+    <p>Support for tuples.</p>
+  </li>
+  <li>
+    <p>The property that it should be impossible to construct an invalid graph. An
+invalid graph might be, for example, one where there is a single node with no
+edges.</p>
+  </li>
+  <li>
+    <p>Well tested, and reasonably performant.</p>
+  </li>
+</ul>
+
+<p>Coming back to all this after a few years I had expected to have a graph
+datastructure implemented, possibly with immutability, but lacking in tuples and
+tests. As it turns out I completely underestimated my past self, because as far
+as I can tell I had already finished the damn thing, tuples, tests and all.</p>
+
+<p>It looks like that’s the point where I stopped, probably for being unsure about
+some other aspect of the language, and my motivation fell off. The fact that
+I’ve come back to ginger, after all these years, and essentially rederived the
+same language all over again, gives me a lot of confidence that I’m on the right
+track (and a lot of respect for my past self for having done all this work!)</p>
+
+<p>The basic API I came up with for building ginger graphs (ggs) looks like this:</p>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">package</span> <span class="n">gg</span>
+
+<span class="c">// OpenEdge represents an edge with a source value but no destination value,</span>
+<span class="c">// with an optional value on it. On its own an OpenEdge has no meaning, but is</span>
+<span class="c">// used as a building block for making Graphs.</span>
+<span class="k">type</span> <span class="n">OpenEdge</span> <span class="k">struct</span><span class="p">{</span> <span class="o">...</span> <span class="p">}</span>
+
+<span class="c">// TupleOut constructs an OpenEdge leading from a tuple, which is comprised of</span>
+<span class="c">// the given OpenEdges leading into it, with an optional edge value.</span>
+<span class="k">func</span> <span class="n">TupleOut</span><span class="p">(</span><span class="n">ins</span> <span class="p">[]</span><span class="n">OpenEdge</span><span class="p">,</span> <span class="n">edgeVal</span> <span class="n">Value</span><span class="p">)</span> <span class="n">OpenEdge</span>
+
+<span class="c">// ValueOut constructs an OpenEdge leading from a non-tuple value, with an</span>
+<span class="c">// optional edge value.</span>
+<span class="k">func</span> <span class="n">ValueOut</span><span class="p">(</span><span class="n">val</span><span class="p">,</span> <span class="n">edgeVal</span> <span class="n">Value</span><span class="p">)</span> <span class="n">OpenEdge</span>
+
+<span class="c">// ZeroGraph is an empty Graph, from which all Graphs are constructed via calls</span>
+<span class="c">// to AddValueIn.</span>
+<span class="k">var</span> <span class="n">ZeroGraph</span> <span class="o">=</span> <span class="o">&amp;</span><span class="n">Graph</span><span class="p">{</span> <span class="o">...</span> <span class="p">}</span>
+
+<span class="c">// Graph is an immutable graph structure, formed from a collection of edges</span>
+<span class="c">// between values and tuples.</span>
+<span class="k">type</span> <span class="n">Graph</span> <span class="k">struct</span><span class="p">{</span> <span class="o">...</span> <span class="p">}</span>
+
+<span class="c">// AddValueIn returns a new Graph which is a copy of the original, with the</span>
+<span class="c">// addition of a new edge. The new edge's source and edge value come from the</span>
+<span class="c">// given OpenEdge, and the edge's destination value is the given value.</span>
+<span class="k">func</span> <span class="p">(</span><span class="n">g</span> <span class="o">*</span><span class="n">Graph</span><span class="p">)</span> <span class="n">AddValueIn</span><span class="p">(</span><span class="n">oe</span> <span class="n">OpenEdge</span><span class="p">,</span> <span class="n">val</span> <span class="n">Value</span><span class="p">)</span> <span class="o">*</span><span class="n">Graph</span>
+</code></pre></div></div>
+
+<p>The actual API is larger than this, and includes methods to remove edges,
+iterate over edges and values, and perform unions and disjoins of ggs. But the
+above are the elements which are required only for <em>making</em> ggs, which is all
+that a syntax is concerned with.</p>
+
+<p>As a demonstration, here is how one would construct the <code class="language-plaintext highlighter-rouge">min</code> operation, which
+takes two numbers and returns the smaller, using the <code class="language-plaintext highlighter-rouge">gg</code> package:</p>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">// a, b, in, out, if, etc.. are Values which represent the respective symbol.</span>
+
+<span class="c">// a is the result of passing in to the 0 operation, ie a is the 0th element of</span>
+<span class="c">// the in tuple.</span>
+<span class="n">min</span> <span class="o">:=</span> <span class="n">gg</span><span class="o">.</span><span class="n">ZeroGraph</span><span class="o">.</span><span class="n">AddValueIn</span><span class="p">(</span><span class="n">gg</span><span class="o">.</span><span class="n">ValueOut</span><span class="p">(</span><span class="n">in</span><span class="p">,</span> <span class="m">0</span><span class="p">),</span> <span class="n">a</span><span class="p">)</span>
+
+<span class="c">// b is the 1st element of the in tuple</span>
+<span class="n">min</span> <span class="o">=</span> <span class="n">min</span><span class="o">.</span><span class="n">AddValueIn</span><span class="p">(</span><span class="n">gg</span><span class="o">.</span><span class="n">ValueOut</span><span class="p">(</span><span class="n">in</span><span class="p">,</span> <span class="m">1</span><span class="p">),</span> <span class="n">b</span><span class="p">)</span>
+
+<span class="c">// out is the result of an if which compares a and b together, and which returns</span>
+<span class="c">// the lesser.</span>
+<span class="n">min</span> <span class="o">=</span> <span class="n">min</span><span class="o">.</span><span class="n">AddValueIn</span><span class="p">(</span><span class="n">out</span><span class="p">,</span> <span class="n">gg</span><span class="o">.</span><span class="n">TupleOut</span><span class="p">([]</span><span class="n">gg</span><span class="o">.</span><span class="n">OpenEdge</span><span class="p">{</span>
+    <span class="n">gg</span><span class="o">.</span><span class="n">TupleOut</span><span class="p">([]</span><span class="n">gg</span><span class="o">.</span><span class="n">OpenEdge</span><span class="p">{</span><span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">},</span> <span class="n">lt</span><span class="p">),</span>
+    <span class="n">a</span><span class="p">,</span>
+    <span class="n">b</span><span class="p">,</span>
+<span class="p">},</span> <span class="k">if</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>And here’s a demonstration of how this <code class="language-plaintext highlighter-rouge">min</code> would be used:</p>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">// out is the result of passing 1 and 5 to the min operation.</span>
+<span class="n">gg</span><span class="o">.</span><span class="n">ZeroGraph</span><span class="o">.</span><span class="n">AddValueIn</span><span class="p">(</span><span class="n">gg</span><span class="o">.</span><span class="n">TupleOut</span><span class="p">([]</span><span class="n">gg</span><span class="o">.</span><span class="n">OpenEdge</span><span class="p">{</span><span class="m">1</span><span class="p">,</span> <span class="m">5</span><span class="p">},</span> <span class="n">min</span><span class="p">),</span> <span class="n">out</span><span class="p">)</span>
+</code></pre></div></div>
+
+<h2 id="make-it-nice">Make it Nice</h2>
+
+<p><em>Technically</em> we’re done. We have an implementation of the language’s underlying
+structure, and a syntax which encodes it (ie the ugly ass go syntax above). But
+obviously I’m not proposing anyone actually use that.</p>
+
+<p>Another thing I found when digging around in the old ginger repo was a text
+file, tucked away in a directory called “sandbox”, which had a primitive syntax
+which <em>almost</em> worked. I won’t copy it here, but you can find it if you care to.
+But with that as a foundation I came up with a crude, rough draft spec, which
+maps the go syntax to the new syntax.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ValueOut(val, edgeVal)    : -edgeVal-val
+ValueOut(val, null)       : -val
+TupleOut([]val, edgeVal)  : -edgeVal-(val, ...)
+TupleOut([]val, null)     : -(val, ...)
+Graph(openEdge-&gt;val, ...) : { val openEdge, ... }
+</code></pre></div></div>
+
+<p>A couple things to note about this spec:</p>
+
+<ul>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">null</code> is used to indicate absence of value on an edge. The details of <code class="language-plaintext highlighter-rouge">null</code>
+are yet to be worked out, but we can use this placeholder for now.</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">Graph</code> is cheating a bit. In the original <code class="language-plaintext highlighter-rouge">gg</code> implementation a Graph gains
+its OpenEdge/Value pairs via successive calls to <code class="language-plaintext highlighter-rouge">AddValueIn</code>. However, such a
+pattern doesn’t translate well to text, and since we’re dealing purely with
+constructing an entire Graph at once we can instead have our Graph syntax
+declare all OpenEdge/Value pairs at once.</p>
+  </li>
+  <li>
+    <p>It’s backwards! Eg where the go syntax does <code class="language-plaintext highlighter-rouge">ValueOut(val, edgeVal)</code>, the
+proposed spec puts the values in the opposite order: <code class="language-plaintext highlighter-rouge">-edgeVal-val</code>. The
+former results in code which is read from input to output, while the latter
+results in the opposite: output to input.</p>
+
+    <p>This was a tip I picked up from the old text file I found, and the result is
+code which is more familiar to an existing programmer. I <em>think</em> (but am
+not sure) that it’s also more in line with how programming is done mentally,
+ie we start with a result and work backwards to figure out what it takes to
+get there.</p>
+
+    <p>It’s possible, though, that I’m wrong, so at this end of this post I’m going
+to put some examples of the same code both “forwards” and “backwards” and see
+how I feel about it.</p>
+  </li>
+</ul>
+
+<p>With all that said, let’s see it in action! Here’s <code class="language-plaintext highlighter-rouge">min</code> implemented in our shiny new syntax:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>min -{
+    a -0-in,
+    b -1-in,
+    out -if-(
+        -lt-(-a,-b),
+        -a,
+        -b
+    )
+}
+</code></pre></div></div>
+
+<p>and then here’s it being used:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>out -min-(-1,-5)
+</code></pre></div></div>
+
+<h2 id="make-it-nicer">Make it <em>Nicer</em></h2>
+
+<p>The most striking feature of this rough draft spec is all the prefix dashes,
+such as in the <code class="language-plaintext highlighter-rouge">-min-(-1,-5)</code> statement. These dashes were included as they make
+sense in the context of what the intended human interpretation of the structure
+is: two values, <code class="language-plaintext highlighter-rouge">1</code>, and <code class="language-plaintext highlighter-rouge">5</code>, are being <em>piped into</em> the two slots of a 2-tuple,
+and that 2-tuple is being <em>piped into</em> the <code class="language-plaintext highlighter-rouge">min</code> operation, the output of which
+is being <em>piped into</em> something <code class="language-plaintext highlighter-rouge">out</code>.</p>
+
+<p>The “piping into” is what the dash represents, which is why the top level values
+in the graph, <code class="language-plaintext highlighter-rouge">a</code>, <code class="language-plaintext highlighter-rouge">b</code>, and <code class="language-plaintext highlighter-rouge">out</code>, don’t have a preceding dash; they are the
+ultimate destinations of the pipes leading to them. But these pipes are
+ultimately ugly, and also introduce odd questions like “how do we represent
+-1?”, so they need to go.</p>
+
+<p>So I’ve made a second draft, which is only a few changes away from the rough,
+but oh man do those changes make a world of difference. Here’s the cleaned up
+spec:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ValueOut(val, edgeVal)    : edgeVal(val)
+ValueOut(val, null)       : val
+TupleOut([]val, edgeVal)  : edgeVal(val, ...)
+TupleOut([]val, null)     : (val, ...)
+Graph(openEdge-&gt;val, ...) : { val = openEdge, ... }
+</code></pre></div></div>
+
+<p>The dashes were simply removed, and the <code class="language-plaintext highlighter-rouge">edgeVal</code> and <code class="language-plaintext highlighter-rouge">val</code> concatted together.
+For <code class="language-plaintext highlighter-rouge">ValueOut(val, edgeVal)</code> wrapping parenthesis were put around <code class="language-plaintext highlighter-rouge">val</code>, to
+delineate it and <code class="language-plaintext highlighter-rouge">edgeVal</code>. This conflicts with the syntax for <code class="language-plaintext highlighter-rouge">TupleOut([]val,
+edgeVal)</code>, but that conflict is easy to remedy: when parenthesis wrap only a
+single <code class="language-plaintext highlighter-rouge">val</code> then that is a <code class="language-plaintext highlighter-rouge">ValueOut</code>, otherwise it’s a <code class="language-plaintext highlighter-rouge">TupleOut</code>.</p>
+
+<p>Another change is to add an <code class="language-plaintext highlighter-rouge">=</code> between the <code class="language-plaintext highlighter-rouge">val</code> and <code class="language-plaintext highlighter-rouge">openEdge</code> in the <code class="language-plaintext highlighter-rouge">Graph</code>
+constructor. This is a purely aesthetic change, but as you’ll see it works well.</p>
+
+<p>So let’s see it! <code class="language-plaintext highlighter-rouge">min</code> implemented with this cleaned up syntax:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>min = {
+    a = 0(in),
+    b = 1(in),
+    out = if(
+        lt(a,b),
+        a,
+        b
+    )
+}
+</code></pre></div></div>
+
+<p>And then its use:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>min(1,5)
+</code></pre></div></div>
+
+<p>Well well well, look what we have here: a conventional programming language
+syntax! <code class="language-plaintext highlighter-rouge">{</code>/<code class="language-plaintext highlighter-rouge">}</code> wrap a scope, and <code class="language-plaintext highlighter-rouge">(</code>/<code class="language-plaintext highlighter-rouge">)</code> wrap function arguments and
+(optionally) single values. It’s a lot clearer now that <code class="language-plaintext highlighter-rouge">0</code> and <code class="language-plaintext highlighter-rouge">1</code> are being
+used as operations themselves when instantiating <code class="language-plaintext highlighter-rouge">a</code> and <code class="language-plaintext highlighter-rouge">b</code>, and <code class="language-plaintext highlighter-rouge">if</code> is much
+more readable.</p>
+
+<p>I was extremely surprised at how well this actually worked out. Despite having
+drastically different underpinnings than most languages it ends up looking both
+familiar and obvious. How cool!</p>
+
+<h2 id="examples-examples-examples">Examples Examples Examples</h2>
+
+<p>Here’s a collection of example programs written in this new syntax. The base
+structure of these are borrowed from previous posts, I’m merely translating that
+structure into a new form:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// decr outputs one less than the input.
+decr = { out = add(in, -1) }
+
+// fib accepts a number i, and outputs the ith fibonacci number.
+fib = {
+
+    inner = {
+        n = 0(in),
+        a = 1(in),
+        b = 2(in),
+
+        out = if(zero?(n),
+            a,
+            inner(decr(n), b, add(a,b))
+        )
+
+    },
+
+    out = inner(in, 0, 1)
+}
+
+// map accepts a sequence and a function, and returns a sequence consisting of
+// the result of applying the function to each of the elements in the given
+// sequence.
+map = {
+    inner = {
+        mapped-seq = 0(in),
+        orig-seq = 1(in),
+        op = 2(in),
+
+        i = len(mapped-seq),
+
+        // graphs provide an inherent laziness to the language. Just because
+        // next-el is _defined_ here doesn't mean it's evaluated here at runtime.
+        // In reality it will only be evaluated if/when evaluating out requires
+        // evaluating next-el.
+        next-el = op(i(orig-seq)),
+        next-mapped-seq = append(mapped-seq, next-el),
+
+        out = if(
+            eq(len(mapped-seq), len(orig-seq)),
+            mapped-seq,
+            inner(next-mapped-seq, orig-seq, op)
+        )
+    }
+
+    // zero-seq returns an empty sequence
+    out = inner(zero-seq(), 0(in), 1(in))
+}
+</code></pre></div></div>
+
+<h2 id="selpmexa-selpmexa-selpmexa">Selpmexa Selpmexa Selpmexa</h2>
+
+<p>Our syntax encodes a graph, and a graph doesn’t really care if the syntax was
+encoded in an input-to-output vs an output-to-input direction. So, as promised,
+here’s all the above examples, but “backwards”:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// min returns the lesser of the two numbers it is given
+{
+    (in)0 = a,
+    (in)1 = b,
+
+    (
+        (a,b)lt,
+        a,
+        b
+    )if = out
+
+} = min
+
+// decr outputs one less than the input.
+{ (in, -1)add = out } = decr
+
+// fib accepts a number i, and outputs the ith fibonacci number.
+{
+    {
+        (in)0 = n,
+        (in)1 = a,
+        (in)2 = b,
+
+        (
+            (n)zero?
+            a,
+            ((n)decr, b, (a,b)add)inner
+        )if = out
+
+    } = inner,
+
+    (in, 0, 1)inner = out
+
+} = fib
+
+// map accepts a sequence and a function, and returns a sequence consisting of
+// the result of applying the function to each of the elements in the given
+// sequence.
+{
+    {
+        (in)0 = mapped-seq,
+        (in)1 = orig-seq,
+        (in)2 = op,
+
+        (mapped-seq)len = i,
+
+        ((orig-seq)i)op = next-el,
+        (mapped-seq, next-el)append = next-mapped-seq,
+
+        (
+            ((mapped-seq)len, (orig-seq)len)eq,
+            mapped-seq,
+            (next-mapped-seq, orig-seq, op)inner
+        )if = out
+
+    } = inner,
+
+    (()zero-seq, (in)0, (in)1)inner = out
+} = map
+</code></pre></div></div>
+
+<p>Do these make you itchy? They kind of make me itchy. But… parts of them also
+appeal to me.</p>
+
+<p>The obvious reason why these feel wrong to me is the placement of <code class="language-plaintext highlighter-rouge">if</code>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(
+    (a,b)lt,
+    a,
+    b
+)if = out
+</code></pre></div></div>
+
+<p>The tuple which is being passed to <code class="language-plaintext highlighter-rouge">if</code> here is confusing unless you already
+know that it’s going to be passed to <code class="language-plaintext highlighter-rouge">if</code>. But on your first readthrough you
+won’t know that till you get to the end, so you’ll be in the dark until then.
+For more complex programs I’m sure this problem will compound.</p>
+
+<p>On the other hand, pretty much everything else looks <em>better</em>, imo. For example:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// copied and slightly modified from the original to make it even more complex
+
+(mapped-seq, ((orig-seq)i)op)append = next-mapped-seq
+</code></pre></div></div>
+
+<p>Something like this reads very clearly to me, and requires a lot less mental
+backtracking to comprehend. The main difficulty I have is tracking the
+parenthesis, but the overall “flow” of data and the order of events is plain to
+read.</p>
+
+<h2 id="next-steps">Next Steps</h2>
+
+<p>The syntax here is not done yet, not by a long shot. If my record with past
+posts about ginger (wherein I’ve “decided” on something and then completely
+backtracked in later posts every single time) is any indication then this syntax
+won’t even look remotely familiar in a very short while. But it’s a great
+starting point, I think, and raises a lot of good questions.</p>
+
+<ul>
+  <li>
+    <p>Can I make parenthesis chains, a la the last example, more palatable in some
+way?</p>
+  </li>
+  <li>
+    <p>Should I go with the “backwards” syntax afterall? In a functional style of
+programming <code class="language-plaintext highlighter-rouge">if</code> statements <em>should</em> be in the minority, and so the syntax
+which better represents the flow of data in that style might be the way.</p>
+  </li>
+  <li>
+    <p>Destructuring of tuples seems to be wanted, as evidenced by all the <code class="language-plaintext highlighter-rouge">a =
+0(in)</code> lines. Should this be reflected in the structure or solely be
+syntactical sugar?</p>
+  </li>
+  <li>
+    <p>Should the commas be replaced with any whitespace (and make commas count as
+whitespace, as clojure has done)? If this is possible then I think they should
+be, but I won’t know for sure until I begin implementing the parser.</p>
+  </li>
+</ul>
+
+<p>And, surely, many more! I’ve felt a bit lost with ginger for a <em>long</em> time, but
+seeing a real, usable syntax emerge has really invigorated me, and I’ll be
+tackling it again in earnest soon (fingers crossed).</p>
+</section>
+<footer>
+  <nav class="c-pagination p-pagination">
+    <div class="c-pagination__ctrl">
+      <div class="c-pagination__newer">
+        
+      </div>
+      <div class="c-pagination__older">
+        <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-v4-of-radix-a-golang-redis-driver&#x2F;">V4 of Radix, a Golang Redis Driver</a>
+      </div>
+    </div>
+  </nav>
+</footer></article>
+        </main>
+
+     
+      <footer class="l-footer">
+          <p class="p-copyright">
+              
+          </p>
+      </footer>
+
+       
+      
+    </body>
+</html>
+            
