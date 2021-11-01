@@ -44,6 +44,69 @@
             <article class="c-article p-list-article">
                 
     <header>
+        <h2 class="c-title c-article__title"><a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-visualization-5&#x2F;">Visualization 5
+</a></h2>
+        <p class="c-article__meta">
+            <time datetime="2021-05-28">
+                2021-05-28
+            </time>
+            by Brian Picciano
+             - (4 min read)
+        </p>
+    </header>
+
+                <div class="c-article__summary">
+                    
+                    
+
+function randn(n) {
+    return Math.floor(Math.random() * n);
+}
+
+const w = 100;
+const h = 50;
+
+const maxNewElsPerTick = 10;
+const deathThresh = 10;
+
+class Canvas {
+  constructor(canvasDOM) {
+    this.dom = canvasDOM;
+    this.ctx = canvasDOM.getContext("2d");
+
+    // expand can…
+                </div>
+                <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-visualization-5&#x2F;" class="c-article__btn p-list-article__btn">Read more...</a>
+            </article>
+            
+            <article class="c-article p-list-article">
+                
+    <header>
+        <h2 class="c-title c-article__title"><a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-visualization-4&#x2F;">Visualization 4
+</a></h2>
+        <p class="c-article__meta">
+            <time datetime="2021-05-26">
+                2021-05-26
+            </time>
+            by Brian Picciano
+             - (4 min read)
+        </p>
+    </header>
+
+                <div class="c-article__summary">
+                    
+                    
+This visualization is a conglomeration of ideas from all the previous ones. On
+each tick up to 20 new pixels are generated. The color of each new pixel is
+based on the average color of its neighbors, plus some random drift.
+Each pixel dies after a certain number of ticks, N. A p…
+                </div>
+                <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-visualization-4&#x2F;" class="c-article__btn p-list-article__btn">Read more...</a>
+            </article>
+            
+            <article class="c-article p-list-article">
+                
+    <header>
         <h2 class="c-title c-article__title"><a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-ripple-v3&#x2F;">Ripple V3
 </a></h2>
         <p class="c-article__meta">
@@ -249,70 +312,6 @@ be sure that my errors are propagated upwards with everything needed to debug
 problems, while not containing tons of extraneo…
                 </div>
                 <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-a-simple-rule-for-better-errors&#x2F;" class="c-article__btn p-list-article__btn">Read more...</a>
-            </article>
-            
-            <article class="c-article p-list-article">
-                
-    <header>
-        <h2 class="c-title c-article__title"><a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-ripple-a-game&#x2F;">Ripple: A Game
-</a></h2>
-        <p class="c-article__meta">
-            <time datetime="2021-03-12">
-                2021-03-12
-            </time>
-            by Brian Picciano
-             - (5 min read)
-        </p>
-    </header>
-
-                <div class="c-article__summary">
-                    
-                    
-    Movement: Arrow keys or WASD
-    Jump: Space
-    Goal: Jump as many times as possible without touching a ripple!
-    
-    Press Jump To Begin!
-
-
-Your browser doesn't support canvas. At this point in the world that's actually
-pretty cool, well done!
-
-(R)eset
-Score:
-    0
-
-
-
-c…
-                </div>
-                <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-ripple-a-game&#x2F;" class="c-article__btn p-list-article__btn">Read more...</a>
-            </article>
-            
-            <article class="c-article p-list-article">
-                
-    <header>
-        <h2 class="c-title c-article__title"><a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;marco-backups-made-simple&#x2F;">Backups made simple
-</a></h2>
-        <p class="c-article__meta">
-            <time datetime="2021-03-07">
-                2021-03-07
-            </time>
-            by Marco
-             - (16 min read)
-        </p>
-    </header>
-
-                <div class="c-article__summary">
-                    
-                    I've made a backup system I can be proud of, and I'd like to share it with you
-today. It follows a philosophy I've been fleshing out called The
-Functional Infra. Concretely it aims to:
-
-Be pure. An output should only be a function of its inputs.
-Be declarative and reproducible. A…
-                </div>
-                <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;marco-backups-made-simple&#x2F;" class="c-article__btn p-list-article__btn">Read more...</a>
             </article>
             
             

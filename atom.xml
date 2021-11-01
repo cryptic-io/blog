@@ -4,8 +4,48 @@
   <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2021-09-22T00:00:00+00:00</updated>
+  <updated>2021-10-31T00:00:00+00:00</updated>
   <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>DOG! MONEY!</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2021-10-31T00:00:00+00:00</published>
+    <updated>2021-10-31T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-dog-money/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-dog-money/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/10/31/dog-money.html</id>
+        <link href="https://blog.mediocregopher.com/2021/10/31/dog-money.html"/>
+        <title>DOG! MONEY!</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2021-10-31T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-dog-money/</id>
+    <content type="html">
+        &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;opensea.io&#x2F;collection&#x2F;dog-money-exclamation-point&quot;&gt;&lt;img src=&quot;&#x2F;assets&#x2F;dog-money.png&quot; alt=&quot;DOG! MONEY!&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+
+&lt;p&gt;Officially presenting a collection of original artworks, made by me! This was an
+ambitious project I set myself out on this weekend, but I’m really happy to say
+that I seem to be completing it on time.&lt;&#x2F;p&gt;
+
+&lt;p&gt;You can check out the collection’s OpenSea page &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;opensea.io&#x2F;collection&#x2F;dog-money-exclamation-point&quot;&gt;HERE&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Each piece is a tesselating image in SVG format. While it’s pretty easy to just
+churn out different combinations of images like this, I decided to keep the
+collection small for… artistic integrity? Lack of time? Artificial scarcity??
+Who knows how these things are decided.&lt;&#x2F;p&gt;
+
+&lt;p&gt;It was a fun project, to say the least, and even if nothing comes of it
+financially it’s nice to have an outlet&#x2F;portfolio for my art (which usually just
+sits in a notebook or git repo somewhere.)&lt;&#x2F;p&gt;
+      
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Building AppImages with Nix</title>
         <author>
@@ -777,6 +817,248 @@ be, but I won’t know for sure until I begin implementing the parser.&lt;&#x2F;
 &lt;p&gt;And, surely, many more! I’ve felt a bit lost with ginger for a &lt;em&gt;long&lt;&#x2F;em&gt; time, but
 seeing a real, usable syntax emerge has really invigorated me, and I’ll be
 tackling it again in earnest soon (fingers crossed).&lt;&#x2F;p&gt;
+      
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Self-Hosting a Blog Mailing List</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2021-08-04T00:00:00+00:00</published>
+    <updated>2021-08-04T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-self-hosting-a-blog-mailing-list/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-self-hosting-a-blog-mailing-list/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/08/04/selfhosting-a-blog-mailing-list.html</id>
+        <link href="https://blog.mediocregopher.com/2021/08/04/selfhosting-a-blog-mailing-list.html"/>
+        <title>Self-Hosting a Blog Mailing List</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2021-08-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-self-hosting-a-blog-mailing-list/</id>
+    <content type="html">
+        &lt;p&gt;As of this week the Mediocre Blog has a new follow mechanism: email! &lt;a href=&quot;&#x2F;follow.html&quot;&gt;Sign up
+on the &lt;strong&gt;Follow&lt;&#x2F;strong&gt; page&lt;&#x2F;a&gt; and you’ll get an email everytime a new post
+is published to the blog. It’s like RSS, except there’s a slight chance you
+might actually use it.&lt;&#x2F;p&gt;
+
+&lt;p&gt;This post will detail my relatively simple setup for this, linking to points
+within my blog’s server code which are relevant. While I didn’t deliberately
+package my code up into a nice public package, if you know have some cursory
+knowledge of Go you could probably rip my code and make it work for you. Don’t
+worry, it has a &lt;a href=&quot;&#x2F;assets&#x2F;wtfpl.txt&quot;&gt;permissive license&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;email-server&quot;&gt;Email Server&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Self-hosting email is the hardest and most foreign part of this whole
+thing for most devs. The long and the short of it is that it’s very unlikely you
+can do this without renting a VPS somewhere. Luckily there are VPSs out there
+which are cheap and which allow SMTP traffic, so it’s really just a matter of
+biting the cost bullet and letting your definition of “self-hosted” be a bit
+flexible. At least you still control the code!&lt;&#x2F;p&gt;
+
+&lt;p&gt;I highly recommend &lt;a href=&quot;https:&#x2F;&#x2F;maddy.email&quot;&gt;maddy&lt;&#x2F;a&gt; as an email server which has everything you
+need out of the box, no docker requirements, and a flexible-yet-simple
+configuration language.  I’ve discussed &lt;a href=&quot;&#x2F;2021&#x2F;07&#x2F;06&#x2F;maddy-vps.html&quot;&gt;in previous posts&lt;&#x2F;a&gt; the
+general steps I’ve used to set up maddy on a remote VPS, and so I won’t
+re-iterate here. Just know that I have a VPS on my private &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;slackhq&#x2F;nebula&quot;&gt;nebula&lt;&#x2F;a&gt; VPN,
+with a maddy server listening for outgoing mail on port 587, with
+username&#x2F;password authentication on that port.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;general-api-design&quot;&gt;General API Design&lt;&#x2F;h2&gt;
+
+&lt;p&gt;The rest of the system lies within the Go server which hosts my blog. There is
+only a single instance of the server, and it runs in my living room. With these
+as the baseline environmental requirements, the rest of the design follows
+easily:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Go server provides &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;blog.mediocregopher.com&#x2F;blob&#x2F;5ca7dadd02fb49dd62ad448d12021359e41beec1&#x2F;srv&#x2F;cmd&#x2F;mediocre-blog&#x2F;main.go#L169&quot;&gt;three REST API endpoints&lt;&#x2F;a&gt;:&lt;&#x2F;p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;POST &#x2F;api&#x2F;mailinglist&#x2F;subscribe&lt;&#x2F;code&gt;: Accepts a POST form argument &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;email&lt;&#x2F;code&gt;, sends a
+verification email to that email address.&lt;&#x2F;p&gt;
+      &lt;&#x2F;li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;POST &#x2F;api&#x2F;mailinglist&#x2F;finalize&lt;&#x2F;code&gt;: Accepts a POST form argument &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;subToken&lt;&#x2F;code&gt;,
+which is a random token sent to the user when they subscribe. Only by
+finalizing their subscription can a user be considered actually
+subscribed.&lt;&#x2F;p&gt;
+      &lt;&#x2F;li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;POST &#x2F;api&#x2F;mailinglist&#x2F;unsubscribe&lt;&#x2F;code&gt;: Accepts a POST form argument
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;unsubToken&lt;&#x2F;code&gt;, which is sent with each blog post notification to the user.&lt;&#x2F;p&gt;
+      &lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The static frontend code has &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;blog.mediocregopher.com&#x2F;tree&#x2F;9c3ea8dd803d6f0df768e3ae37f8c4ab2efbcc5c&#x2F;static&#x2F;src&#x2F;mailinglist&quot;&gt;two pages&lt;&#x2F;a&gt; related to the mailing
+list:&lt;&#x2F;p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&#x2F;mailinglist&#x2F;finalize.html&lt;&#x2F;code&gt;: The verification email which is sent to the
+user links to this page, with the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;subToken&lt;&#x2F;code&gt; as a GET argument. This page
+then submits the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;subToken&lt;&#x2F;code&gt; to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;POST &#x2F;api&#x2F;mailinglist&#x2F;finalize&lt;&#x2F;code&gt;
+endpoint.&lt;&#x2F;p&gt;
+      &lt;&#x2F;li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&#x2F;mailinglist&#x2F;unsubscribe.html&lt;&#x2F;code&gt;: Each blog post notification email sent to
+users contains a link to this page, with an &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;unsubToken&lt;&#x2F;code&gt; as a GET
+argument. This page then submits the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;unsubToken&lt;&#x2F;code&gt; to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;POST
+&#x2F;api&#x2F;mailinglist&#x2F;unsubscribe&lt;&#x2F;code&gt; endpoint.&lt;&#x2F;p&gt;
+      &lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;It’s a pretty small API, but it covers all the important things, namely
+verification (because I don’t want people signed up against their will, nor do I
+want to be sending emails to fake email addresses), and unsubscribing.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;proof-of-work&quot;&gt;Proof-of-work&lt;&#x2F;h2&gt;
+
+&lt;p&gt;It was important to me that someone couldn’t just sit and submit random emails
+to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;POST &#x2F;api&#x2F;mailinglist&#x2F;subscribe&lt;&#x2F;code&gt; endpoint in a loop, causing my email
+server to eventually get blacklisted. To prevent this I’ve implemented a simple
+proof-of-work (PoW) system, whereby the client must first obtain a PoW
+challenge, generate a solution for that challenge (which involves a lot of CPU
+time), and then submit that solution as part of the subscribe endpoint call.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Both the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;blog.mediocregopher.com&#x2F;blob&#x2F;9c3ea8dd803d6f0df768e3ae37f8c4ab2efbcc5c&#x2F;srv&#x2F;pow&#x2F;pow.go&quot;&gt;server-side&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;blog.mediocregopher.com&#x2F;blob&#x2F;9c3ea8dd803d6f0df768e3ae37f8c4ab2efbcc5c&#x2F;static&#x2F;src&#x2F;assets&#x2F;solvePow.js&quot;&gt;client-side&lt;&#x2F;a&gt; code can be found
+in the blog’s git repo. You could theoretically view the Go documentation for
+the server code on pkg.go.dev, but apparently their bot doesn’t like my WTFPL.&lt;&#x2F;p&gt;
+
+&lt;p&gt;When providing a challenge to the client, the server sends back two values: the
+seed and the target.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The target is simply a number whose purpose will become apparent in a second.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The seed is a byte-string which encodes:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Some random bytes.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;An expiration timestamp.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A target (matching the one returned to the client alongside the seed).&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;An HMAC-MD5 which signs all of the above.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;When the client submits a valid solution the server checks the HMAC to ensure
+that the seed was generated by the server, it checks the expiration to make sure
+the client didn’t take too long to solve it, and it checks in an &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;blog.mediocregopher.com&#x2F;blob&#x2F;5ca7dadd02fb49dd62ad448d12021359e41beec1&#x2F;srv&#x2F;pow&#x2F;store.go&quot;&gt;internal
+storage&lt;&#x2F;a&gt; whether that seed hasn’t already been solved. Because
+the expiration is built into the seed the server doesn’t have to store each
+solved seed forever, only until the seed has expired.&lt;&#x2F;p&gt;
+
+&lt;p&gt;To generate a solution to the challenge the client does the following:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Concatenate up to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;len(seed)&lt;&#x2F;code&gt; random bytes onto the original seed given by the
+server.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Calculate the SHA512 of that.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Parse the first 4 bytes of the resulting hash as a big-endian uint32.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If that uint32 is less than the target then the random bytes generated in the
+first step are a valid solution. Otherwise the client loops back to the first
+step.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;Finally, a new endpoint was added: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;GET &#x2F;api&#x2F;pow&#x2F;challenge&lt;&#x2F;code&gt;, which returns a PoW
+seed and target for the client to solve. Since seeds don’t require storage in a
+database until &lt;em&gt;after&lt;&#x2F;em&gt; they are solved there are essentially no consequences to
+someone spamming this in a loop.&lt;&#x2F;p&gt;
+
+&lt;p&gt;With all of that in place, the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;POST &#x2F;api&#x2F;mailinglist&#x2F;subscribe&lt;&#x2F;code&gt; endpoint
+described before now also requires a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;powSeed&lt;&#x2F;code&gt; and a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;powSolution&lt;&#x2F;code&gt; argument. The
+&lt;a href=&quot;&#x2F;follow.html&quot;&gt;Follow&lt;&#x2F;a&gt; page, prior to submitting a subscribe request, first retrieves
+a PoW challenge, generates a solution, and only &lt;em&gt;then&lt;&#x2F;em&gt; will it submit the
+subscribe request.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;storage&quot;&gt;Storage&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Storage of emails is fairly straightforward: since I’m not running this server
+on multiple hosts, I can just use &lt;a href=&quot;https:&#x2F;&#x2F;sqlite.org&#x2F;index.html&quot;&gt;SQLite&lt;&#x2F;a&gt;. My code for storage in
+SQLite can all be found &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;blog.mediocregopher.com&#x2F;blob&#x2F;5ca7dadd02fb49dd62ad448d12021359e41beec1&#x2F;srv&#x2F;mailinglist&#x2F;store.go&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+
+&lt;p&gt;My SQLite table has a single table:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;CREATE TABLE emails (
+	id          TEXT PRIMARY KEY,
+	email       TEXT NOT NULL,
+	sub_token   TEXT NOT NULL,
+	created_at  INTEGER NOT NULL,
+
+	unsub_token TEXT,
+	verified_at INTEGER
+)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;It will probably one day need an index on &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sub_token&lt;&#x2F;code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;unsub_token&lt;&#x2F;code&gt;, but I’m
+not quite there yet.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;id&lt;&#x2F;code&gt; field is generated by first lowercasing the email (because emails are
+case-insensitive) and then hashing it. This way I can be sure to identify
+duplicates easily. It’s still possible for someone to do the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;+&lt;&#x2F;code&gt; trick to get
+their email in multiple times, but as long as they verify each one I don’t
+really care.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;publishing&quot;&gt;Publishing&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Publishing is quite easy: my &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;blog.mediocregopher.com&#x2F;blob&#x2F;5ca7dadd02fb49dd62ad448d12021359e41beec1&#x2F;srv&#x2F;mailinglist&#x2F;mailinglist.go#L23&quot;&gt;MailingList interface&lt;&#x2F;a&gt; has a
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Publish&lt;&#x2F;code&gt; method on it, which loops through all records in the SQLite table,
+discards those which aren’t verified, and sends an email to the rest containing:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;A pleasant greeting.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The new post’s title and URL.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;An unsubscribe link.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;I will then use a command-line interface to call this &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Publish&lt;&#x2F;code&gt; method. I
+haven’t actually made that interface yet, but no one is subscribed yet so it
+doesn’t matter.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;easy-peasy&quot;&gt;Easy-Peasy&lt;&#x2F;h2&gt;
+
+&lt;p&gt;The hardest part of the whole thing was probably getting maddy set up, with a
+close second being trying to decode a hex string to a byte string in javascript
+(I tried Crypto-JS, but it wasn’t working without dragging in webpack or a bunch
+of other nonsense, and vanilla JS doesn’t have any way to do it!).&lt;&#x2F;p&gt;
+
+&lt;p&gt;Hopefully reading this will make you consider self-hosting your own blog’s
+mailing list as well. If we let these big companies keep taking over all
+internet functionality then eventually they’ll finagle the standards so that
+no one can self-host anything, and we’ll have to start all over.&lt;&#x2F;p&gt;
+
+&lt;p&gt;And really, do you &lt;em&gt;need&lt;&#x2F;em&gt; tracking code on the emails you send out for your
+recipe blog? Just let your users ignore you in peace and quiet.&lt;&#x2F;p&gt;
       
     </content>
   </entry>
