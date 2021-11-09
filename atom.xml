@@ -4,8 +4,288 @@
   <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2021-10-31T00:00:00+00:00</updated>
+  <updated>2021-11-08T00:00:00+00:00</updated>
   <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Managing a Home Server With Nix</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2021-11-08T00:00:00+00:00</published>
+    <updated>2021-11-08T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-managing-a-home-server-with-nix/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-managing-a-home-server-with-nix/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/11/08/managing-a-home-server-with-nix.html</id>
+        <link href="https://blog.mediocregopher.com/2021/11/08/managing-a-home-server-with-nix.html"/>
+        <title>Managing a Home Server With Nix</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2021-11-08T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-managing-a-home-server-with-nix/</id>
+    <content type="html">
+        &lt;p&gt;My home server has a lot running on it. Some of it I’ve written about in this
+blog previously, some of it I haven’t. It’s hosting this blog itself, even!&lt;&#x2F;p&gt;
+
+&lt;p&gt;With all of these services comes management overhead, both in terms of managing
+packages and configuration. I’m pretty strict about tracking packages and
+configuration in version control, and backing up all state I care about in B2,
+such that if, &lt;em&gt;at any moment&lt;&#x2F;em&gt;, the server is abducted by aliens, I won’t have
+lost much.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;docker&quot;&gt;Docker&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Previously I accomplished this with docker. Each service ran in a container
+under the docker daemon, with configuration files and state directories shared
+in via volume shares. Configuration files could then be stored in a git repo,
+and my &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;docker run&lt;&#x2F;code&gt; commands were documented in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Makefile&lt;&#x2F;code&gt;s, because that was
+easy.&lt;&#x2F;p&gt;
+
+&lt;p&gt;This approach had drawbacks, notably:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Docker networking is a pain. To be fair I should have just used
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--network=host&lt;&#x2F;code&gt; and dodged the issue, but I didn’t.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Docker images aren’t actually deterministically built, so if I were to ever
+have to rebuild any of the images I was using it I couldn’t be sure I’d end up
+with the same code as before. For some services this is actually a nagging
+security concern in the back of my head.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;File permissions with docker volumes are fucked.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Who knows how long the current version of docker will support the old ass
+images and configuration system I’m using now. Probably not the next 10 years.
+And what if dockerhub goes away, or changes its pricing model?&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;As previously noted, docker is for boomers.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;h2 id=&quot;nix&quot;&gt;Nix&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Nix is the new hotness, and it solves all of the above problems quite nicely.
+I’m not going to get into too much detail about how nix works here (honestly I’m
+not very good at explaining it), but suffice to say I’m switching everything
+over, and this post is about how that actually looks in a practical sense.&lt;&#x2F;p&gt;
+
+&lt;p&gt;For the most part I eschew things like &lt;a href=&quot;https:&#x2F;&#x2F;nixos.wiki&#x2F;wiki&#x2F;Flakes&quot;&gt;flakes&lt;&#x2F;a&gt;,
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nix-community&#x2F;home-manager&quot;&gt;home-manager&lt;&#x2F;a&gt;, and any other frameworks built on nix. While the
+framework of the day may come and go, the base nix language should remain
+constant.&lt;&#x2F;p&gt;
+
+&lt;p&gt;As before with docker, I have a single git repo being stored privately in a way
+I’m confident is secure (which is necessary because it contains some secrets).&lt;&#x2F;p&gt;
+
+&lt;p&gt;At the root of the repo there exists a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pkgs.nix&lt;&#x2F;code&gt; file, which looks like this:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;{
+  src ? builtins.fetchTarball {
+    name = &quot;nixpkgs-d50923ab2d308a1ddb21594ba6ae064cab65d8ae&quot;;
+    url = &quot;https:&#x2F;&#x2F;github.com&#x2F;NixOS&#x2F;nixpkgs&#x2F;archive&#x2F;d50923ab2d308a1ddb21594ba6ae064cab65d8ae.tar.gz&quot;;
+    sha256 = &quot;1k7xpymhzb4hilv6a1jp2lsxgc4yiqclh944m8sxyhriv9p2yhpv&quot;;
+  },
+}: (import src) {}
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;This file exists to provide a pinned version of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nixpkgs&lt;&#x2F;code&gt; which will get used
+for all services. As long as I don’t change this file the tools available to me
+for building my services will remain constant forever, no matter what else
+happens in the nix ecosystem.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Each directory in the repo corresponds to a service I run. I’ll focus on a
+particular service, &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;navidrome&#x2F;navidrome&quot;&gt;navidrome&lt;&#x2F;a&gt;, for now:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;:: &lt;span class=&quot;nb&quot;&gt;ls&lt;&#x2F;span&gt; &lt;span class=&quot;nt&quot;&gt;-1&lt;&#x2F;span&gt; navidrome
+Makefile
+default.nix
+navidrome.toml
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;Not much to it!&lt;&#x2F;p&gt;
+
+&lt;h3 id=&quot;defaultnix&quot;&gt;default.nix&lt;&#x2F;h3&gt;
+
+&lt;p&gt;The first file to look at is the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;default.nix&lt;&#x2F;code&gt;, as that contains
+all the logic. The overall file looks like this:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;let
+
+  pkgs = (import ..&#x2F;pkgs.nix) {};
+
+in rec {
+
+    entrypoint = ...;
+
+    service = ...;
+
+    install = ...;
+
+}
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;The file describes an attribute set with three attributes, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;entrypoint&lt;&#x2F;code&gt;,
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;service&lt;&#x2F;code&gt;, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;install&lt;&#x2F;code&gt;. These form the basic pattern I use for all my
+services; pretty much every service I manage has a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;default.nix&lt;&#x2F;code&gt; which has
+attributes corresponding to these.&lt;&#x2F;p&gt;
+
+&lt;h4 id=&quot;entrypoint&quot;&gt;Entrypoint&lt;&#x2F;h4&gt;
+
+&lt;p&gt;The first &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;entrypoint&lt;&#x2F;code&gt;, looks like this:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  entrypoint = pkgs.writeScript &quot;mediocregopher-navidrome&quot; &#x27;&#x27;
+    #!${pkgs.bash}&#x2F;bin&#x2F;bash
+    exec ${pkgs.navidrome}&#x2F;bin&#x2F;navidrome --configfile ${.&#x2F;navidrome.toml}
+  &#x27;&#x27;;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;The goal here is to provide an executable which can be run directly, and which
+will put together all necessary environment and configuration (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;navidrome.toml&lt;&#x2F;code&gt;,
+in this case) needed to run the service. Having the entrypoint split out into
+its own target, as opposed to inlining it into the service file (defined next),
+is convenient for testing; it allows you test &lt;em&gt;exactly&lt;&#x2F;em&gt; what’s going to happen
+when running the service normally.&lt;&#x2F;p&gt;
+
+&lt;h4 id=&quot;service&quot;&gt;Service&lt;&#x2F;h4&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;service&lt;&#x2F;code&gt; looks like this:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  service = pkgs.writeText &quot;mediocregopher-navidrome-service&quot; &#x27;&#x27;
+    [Unit]
+    Description=mediocregopher navidrome
+    Requires=network.target
+    After=network.target
+
+    [Service]
+    Restart=always
+    RestartSec=1s
+    User=mediocregopher
+    Group=mediocregopher
+    LimitNOFILE=10000
+
+    # The important part!
+    ExecStart=${entrypoint}
+
+    # EXTRA DIRECTIVES ELIDED, SEE
+    # https:&#x2F;&#x2F;www.navidrome.org&#x2F;docs&#x2F;installation&#x2F;pre-built-binaries&#x2F;
+
+    [Install]
+    WantedBy=multi-user.target
+  &#x27;&#x27;;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;It’s function is to produce a systemd service file. The service file will
+reference the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;entrypoint&lt;&#x2F;code&gt; which has already been defined, and in general does
+nothing else.&lt;&#x2F;p&gt;
+
+&lt;h4 id=&quot;install&quot;&gt;Install&lt;&#x2F;h4&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;install&lt;&#x2F;code&gt; looks like this:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  install = pkgs.writeScript &quot;mediocregopher-navidrome-install&quot; &#x27;&#x27;
+    #!${pkgs.bash}&#x2F;bin&#x2F;bash
+    sudo cp ${service} &#x2F;etc&#x2F;systemd&#x2F;system&#x2F;mediocregopher-navidrome.service
+    sudo systemctl daemon-reload
+    sudo systemctl enable mediocregopher-navidrome
+    sudo systemctl restart mediocregopher-navidrome
+  &#x27;&#x27;;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;This attribute produces a script which will install a systemd service on the
+system it’s run on. Assuming this is done in the context of a functional nix
+environment and standard systemd installation it will “just work”; all relevant
+binaries, configuration, etc, will all come along for the ride, and the service
+will be running &lt;em&gt;exactly&lt;&#x2F;em&gt; what’s defined in my repo, everytime. Eat your heart
+out, ansible!&lt;&#x2F;p&gt;
+
+&lt;p&gt;Nix is usually used for building things, not &lt;em&gt;doing&lt;&#x2F;em&gt; things, so it may seem
+unusual for this to be here. But there’s a very good reason for it, which I’ll
+get to soon.&lt;&#x2F;p&gt;
+
+&lt;h3 id=&quot;makefile&quot;&gt;Makefile&lt;&#x2F;h3&gt;
+
+&lt;p&gt;While &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;default.nix&lt;&#x2F;code&gt; &lt;em&gt;could&lt;&#x2F;em&gt; exist alone, and I &lt;em&gt;could&lt;&#x2F;em&gt; just interact with it
+directly using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nix-build&lt;&#x2F;code&gt; commands, I don’t like to do that. Most of the reason
+is that I don’t want to have to &lt;em&gt;remember&lt;&#x2F;em&gt; the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nix-build&lt;&#x2F;code&gt; commands I need. So
+in each directory there’s a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Makefile&lt;&#x2F;code&gt;, which acts as a kind of index of useful
+commands. The one for navidrome looks like this:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;install:
+	$$(nix-build -A install --no-out-link)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;Yup, that’s it. It builds the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;install&lt;&#x2F;code&gt; attribute, and runs the resulting script
+inline. Easy peasy. Other services might have some other targets, like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;init&lt;&#x2F;code&gt;,
+which operate the same way but with different script targets.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;nix-remotely&quot;&gt;Nix Remotely&lt;&#x2F;h2&gt;
+
+&lt;p&gt;If you were waiting for me to explain &lt;em&gt;why&lt;&#x2F;em&gt; the install target is in
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;default.nix&lt;&#x2F;code&gt;, rather than just being in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Makefile&lt;&#x2F;code&gt; (which would also make
+sense), this is the part where I do that.&lt;&#x2F;p&gt;
+
+&lt;p&gt;My home server isn’t the only place where I host services, I also have a remote
+host which runs some services. These services are defined in this same repo, in
+essentially the same way as my local services. The only difference is in the
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Makefile&lt;&#x2F;code&gt;. Let’s look at an example from my &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;maddy&#x2F;Makefile&lt;&#x2F;code&gt;:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;install-vultr:
+	nix-build -A install --arg paramsFile .&#x2F;vultr.nix
+	nix-copy-closure -s ${VULTR} $$(readlink result)
+	ssh -tt -q ${VULTR} $$(readlink result)
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;Vultr is the hosting company I’m renting the server from. Apparently I think I
+will only ever have one host with them, because I just call it “vultr”.&lt;&#x2F;p&gt;
+
+&lt;p&gt;I’ll go through this one line at a time. The first line is essentially the same
+as the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;install&lt;&#x2F;code&gt; line from my &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;navidrome&lt;&#x2F;code&gt; configuration, but with two small
+differences: it takes in a parameters file containing the configuration
+specific to the vultr host, and it’s only &lt;em&gt;building&lt;&#x2F;em&gt; the install script, not
+running it.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The second line is the cool part. My remote host has a working nix environment
+already, so I can just use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nix-copy-closure&lt;&#x2F;code&gt; to copy the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;install&lt;&#x2F;code&gt; script to
+it. Since the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;install&lt;&#x2F;code&gt; script references the service file, which in turn
+references the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;entrypoint&lt;&#x2F;code&gt;, which in turn references the service binary itself,
+and all of its configuration, &lt;em&gt;all&lt;&#x2F;em&gt; of it will get synced to the remote host as
+part of the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nix-copy-closure&lt;&#x2F;code&gt; command.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The third line runs the install script remotely. Since &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nix-copy-closure&lt;&#x2F;code&gt;
+already copied over all possible dependencies of the service, the end result is
+a systemd service running &lt;em&gt;exactly&lt;&#x2F;em&gt; as it would have if I were running it
+locally.&lt;&#x2F;p&gt;
+
+&lt;p&gt;All of this said, it’s clear that provisioning this remote host in the first
+place was pretty simple:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add my ssh key (done automatically by Vultr).&lt;&#x2F;li&gt;
+  &lt;li&gt;Add my user to sudoers (done automatically by Vultr).&lt;&#x2F;li&gt;
+  &lt;li&gt;Install single-user nix (two bash commands from
+&lt;a href=&quot;https:&#x2F;&#x2F;nixos.wiki&#x2F;wiki&#x2F;Nix_Installation_Guide#Stable_Nix&quot;&gt;here&lt;&#x2F;a&gt;).&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;And that’s literally it. No docker, no terraform, no kubernubernetes, no yaml
+files… it all “just works”. Will it ever require manual intervention? Yeah,
+probably… I haven’t defined uninstall or stop targets, for instance (though
+that would be trivial to do). But overall, for a use-case like mine where I
+don’t need a lot, I’m quite happy.&lt;&#x2F;p&gt;
+
+&lt;p&gt;That’s pretty much the post. Hosting services at home isn’t very difficult to
+begin with, and with this pattern those of us who use nix can do so with greater
+reliability and confidence going forward.&lt;&#x2F;p&gt;
+      
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>DOG! MONEY!</title>
         <author>
