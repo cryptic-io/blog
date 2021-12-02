@@ -4,8 +4,105 @@
   <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2021-11-08T00:00:00+00:00</updated>
+  <updated>2021-12-01T00:00:00+00:00</updated>
   <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Minting A Single NFT</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2021-12-01T00:00:00+00:00</published>
+    <updated>2021-12-01T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-minting-a-single-nft/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-minting-a-single-nft/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/12/01/minting-a-single-nft.html</id>
+        <link href="https://blog.mediocregopher.com/2021/12/01/minting-a-single-nft.html"/>
+        <title>Minting A Single NFT</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2021-12-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-minting-a-single-nft/</id>
+    <content type="html">
+        &lt;p&gt;In a &lt;a href=&quot;&#x2F;2021&#x2F;10&#x2F;31&#x2F;dog-money.html&quot;&gt;previous post&lt;&#x2F;a&gt; I made a page to sell some NFTs I had designed. I say
+“designed”, not “made”, because the NFTs don’t actually exist yet.&lt;&#x2F;p&gt;
+
+&lt;p&gt;On &lt;a href=&quot;https:&#x2F;&#x2F;opensea.io&quot;&gt;OpenSea&lt;&#x2F;a&gt;, where those NFTs are listed, the NFT isn’t
+actually “minted” (created) until first sale. This is primarily done to save the
+artist the cost of minting an NFT which no one else is going to buy. There might
+be a way to mint outside of a sale on OpenSea, but I haven’t dug too much into
+it because it doesn’t matter.&lt;&#x2F;p&gt;
+
+&lt;p&gt;It doesn’t matter because a primary goal here is to not go broke. And OpenSea is
+primarily on Ethereum, a blockchain that can’t actually be used by normal people
+because of the crazy fees. There are some L2s for it, but I don’t have any set
+up, and keeping an NFT in an L2 feels like borrowed time.&lt;&#x2F;p&gt;
+
+&lt;p&gt;So, as an initial test, I’ve printed an NFT on Solana, using
+&lt;a href=&quot;https:&#x2F;&#x2F;holaplex.com&#x2F;&quot;&gt;Holaplex&lt;&#x2F;a&gt;. Solana because it’s cheap and fast and
+wonderful, and Holaplex because… a lot of reasons.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The main one is that other projects, like &lt;a href=&quot;https:&#x2F;&#x2F;solsea.io&#x2F;&quot;&gt;SolSea&lt;&#x2F;a&gt; and
+&lt;a href=&quot;https:&#x2F;&#x2F;www.alpha.art&#x2F;&quot;&gt;AlphaArt&lt;&#x2F;a&gt;, require a sign-up just to print NFTs. And
+not a crypto signup, where you just connect a wallet. But like a real one, with
+an email. &lt;a href=&quot;https:&#x2F;&#x2F;solanart.io&#x2F;&quot;&gt;Solanart&lt;&#x2F;a&gt; requires you to contact them
+privately through discord to mint on them!&lt;&#x2F;p&gt;
+
+&lt;p&gt;Why? NFTs are a weird market. A lot of these platforms appear to the
+&lt;del&gt;customer&lt;&#x2F;del&gt; user more like casino games than anything, where the object is to
+find the shiny thing which is going to get popular for one whimsical reason or
+another. The artists get paid, the platform takes a cut, and whoever minted the
+NFT prays.&lt;&#x2F;p&gt;
+
+&lt;p&gt;For reasons involving the word “rug”, the artist, the one who is attaching their
+work to an NFT, is not necessarily to be trusted. So there’s a lot of mechanisms
+within the Solana NFT world to build trust between the audience and the artist.
+Things like chain-enforced fair auctions (open to everyone at the same time) and
+gatekeeping measures are examples.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Which is all well and good, but I still couldn’t mint an NFT.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;metaplex&quot;&gt;Metaplex&lt;&#x2F;h2&gt;
+
+&lt;p&gt;So I tried another tact: self-hosting. It’s like, my favorite thing? I talk
+about it a lot.&lt;&#x2F;p&gt;
+
+&lt;p&gt;I attempted to get &lt;a href=&quot;https:&#x2F;&#x2F;www.metaplex.com&#x2F;&quot;&gt;Metaplex&lt;&#x2F;a&gt; set up locally. Metaplex is an organization,
+associated with Solana Labs in some way I think, that’s helped develop the NFT
+standard on Solana. And they also develop an open-source toolkit for hosting
+your own NFT store, complete with NFT minting with no fees or other road blocks.
+Sounds perfect!&lt;&#x2F;p&gt;
+
+&lt;p&gt;Except that I’m not a capable enough javascript developer to get it running. I
+got as far as the running the Next server and loading the app in my browser, but
+a second into running it spits out some error in the console and nothing works
+after that. I’ve spent too much time on it already, I won’t go into it more.&lt;&#x2F;p&gt;
+
+&lt;p&gt;So metaplex, for now, is out.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;holaplex&quot;&gt;Holaplex&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Until I, somehow, (how actually though…?), found &lt;a href=&quot;https:&#x2F;&#x2F;holaplex.com&#x2F;&quot;&gt;Holaplex&lt;&#x2F;a&gt;. It’s
+a very thinly skinned hosted Metaplex, with a really smooth signup process which
+doesn’t involve any emails. Each user gets a storefront under their own
+subdomain of whatever NFTs they want, and that’s it. It’s like geocities for
+NFTs; pretty much the next best thing to self-hosted.&lt;&#x2F;p&gt;
+
+&lt;p&gt;But to mint an NFT you don’t even need to do that, you just hit the “Mint NFTs”
+button. So I did that, I uploaded an image, I paid the hosting fee ($2), and
+that was it!&lt;&#x2F;p&gt;
+
+&lt;p&gt;You can view my first NFT &lt;a href=&quot;https:&#x2F;&#x2F;solscan.io&#x2F;token&#x2F;HsFpMvY9j5uy68CSDxRvb5aeoj4L3D4vsAkHsFqKvDYb&quot;&gt;here&lt;&#x2F;a&gt;! It’s not for sale.&lt;&#x2F;p&gt;
+
+&lt;p&gt;I’m hoping that one day I can get back to Metaplex and get it working, I’d much
+prefer to have my store hosted myself. But at least this NFT exists now, and I
+have a mechanism to make other ones for other people.&lt;&#x2F;p&gt;
+      
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Managing a Home Server With Nix</title>
         <author>
