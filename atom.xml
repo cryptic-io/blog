@@ -4,8 +4,446 @@
   <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2021-12-01T00:00:00+00:00</updated>
+  <updated>2021-12-31T00:00:00+00:00</updated>
   <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Ginger: It’s Alive!</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2021-12-31T00:00:00+00:00</published>
+    <updated>2021-12-31T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-ginger-it-s-alive/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-ginger-it-s-alive/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2021/12/31/ginger-its-alive.html</id>
+        <link href="https://blog.mediocregopher.com/2021/12/31/ginger-its-alive.html"/>
+        <title>Ginger: It’s Alive!</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2021-12-31T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-ginger-it-s-alive/</id>
+    <content type="html">
+        &lt;p&gt;As a kind of Christmas present to myself I took a whole week off of work
+specifically to dedicate myself to working on ginger.&lt;&#x2F;p&gt;
+
+&lt;p&gt;My concrete goal was to be able to run a ginger program to compute any Nth
+fibonacci number, a goal I chose because it would require the implementation of
+conditionals, some kind of looping or recursion, and basic addition&#x2F;subtraction.
+In other words, it would require all the elements which comprise a Turing
+complete language.&lt;&#x2F;p&gt;
+
+&lt;p&gt;And you know what? I actually succeeded!&lt;&#x2F;p&gt;
+
+&lt;p&gt;The implementation can be found &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;ginger&#x2F;tree&#x2F;ebf57591a8ac08da8a312855fc3a6d9c1ee6dcb2&quot;&gt;here&lt;&#x2F;a&gt;. At this point ginger is an
+interpreted language running in a golang-based VM. The dream is for it to be
+self-hosted on LLVM (and other platforms after), but as an intermediate step to
+that I decided on sticking to what I know (golang) rather than having to learn
+two things at once.&lt;&#x2F;p&gt;
+
+&lt;p&gt;In this post I’m going to describe the components of this VM at a high level,
+show a quick demo of it working, and finally talk about the roadmap going
+forward.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;graph&quot;&gt;Graph&lt;&#x2F;h2&gt;
+
+&lt;p&gt;The core package of the whole project is the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;ginger&#x2F;blob&#x2F;ebf57591a8ac08da8a312855fc3a6d9c1ee6dcb2&#x2F;graph&#x2F;graph.go&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;graph&lt;&#x2F;code&gt;&lt;&#x2F;a&gt; package. This
+package implements a generic directed graph datastructure.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The generic part is worth noting; I was able to take advantage of go’s new
+generics which are currently &lt;a href=&quot;https:&#x2F;&#x2F;go.dev&#x2F;blog&#x2F;go1.18beta1&quot;&gt;in beta&lt;&#x2F;a&gt;. I’d read quite a bit on how the
+generic system would work even before the beta was announced, so I was able to
+hit the ground running and start using them without much issue.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Ginger’s unique graph datastructure has been discussed in previous posts in this
+series quite a bit, and this latest implementation doesn’t deviate much at a
+high level. Below are the most up-to-date core datatypes and functions which are
+used to construct ginger graphs:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-go highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; Value is any value which can be stored within a Graph. Values should be&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; considered immutable, ie once used with the graph package their internal&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; value does not change.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;type&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Value&lt;&#x2F;span&gt; &lt;span class=&quot;k&quot;&gt;interface&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;&#x2F;span&gt;
+	&lt;span class=&quot;n&quot;&gt;Equal&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Value&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt; &lt;span class=&quot;kt&quot;&gt;bool&lt;&#x2F;span&gt;
+	&lt;span class=&quot;n&quot;&gt;String&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;&#x2F;span&gt; &lt;span class=&quot;kt&quot;&gt;string&lt;&#x2F;span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; OpenEdge consists of the edge value (E) and source vertex value (V) of an&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; edge in a Graph. When passed into the AddValueIn method a full edge is&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; created. An OpenEdge can also be sourced from a tuple vertex, whose value is&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; an ordered set of OpenEdges of this same type.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;type&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;OpenEdge&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;E&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;V&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Value&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;&#x2F;span&gt; &lt;span class=&quot;k&quot;&gt;struct&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;...&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; ValueOut creates a OpenEdge which, when used to construct a Graph, represents&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; an edge (with edgeVal attached to it) coming from the vertex containing val.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;func&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;ValueOut&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;E&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;V&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Value&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;edgeVal&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;E&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;val&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;V&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;OpenEdge&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;E&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;V&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; TupleOut creates an OpenEdge which, when used to construct a Graph,&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; represents an edge (with edgeVal attached to it) coming from the vertex&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; comprised of the given ordered-set of input edges.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;func&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;TupleOut&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;E&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;V&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Value&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;edgeVal&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;E&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;ins&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;...*&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;OpenEdge&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;E&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;V&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;OpenEdge&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;E&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;V&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; Graph is an immutable container of a set of vertices. The Graph keeps track&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; of all Values which terminate an OpenEdge. E indicates the type of edge&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; values, while V indicates the type of vertex values.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;type&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Graph&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;E&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;V&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Value&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;&#x2F;span&gt; &lt;span class=&quot;k&quot;&gt;struct&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;...&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; AddValueIn takes a OpenEdge and connects it to the Value vertex containing&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; val, returning the new Graph which reflects that connection.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;func&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Graph&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;E&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;V&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;AddValueIn&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;val&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;V&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;oe&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;OpenEdge&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;E&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;V&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Graph&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;E&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;V&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; ValueIns returns, if any, all OpenEdges which lead to the given Value in the&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; Graph (ie, all those added via AddValueIn).&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;func&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Graph&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;E&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;V&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;ValueIns&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;val&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Value&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;[]&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;OpenEdge&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;E&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;V&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;&#x2F;span&gt;
+
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;The current &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Graph&lt;&#x2F;code&gt; implementation is &lt;em&gt;incredibly&lt;&#x2F;em&gt; inefficient, it does a lot of
+copying, looping, and equality checks which could be optimized out one day.
+That’s going to be a recurring theme of this post, as I had to perform a
+balancing act between actually reaching my goal for the week while not incurring
+too much tech debt for myself.&lt;&#x2F;p&gt;
+
+&lt;h3 id=&quot;mapreduce&quot;&gt;MapReduce&lt;&#x2F;h3&gt;
+
+&lt;p&gt;There’s a final operation I implemented as part of the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;graph&lt;&#x2F;code&gt; package:
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;ginger&#x2F;blob&#x2F;ebf57591a8ac08da8a312855fc3a6d9c1ee6dcb2&#x2F;graph&#x2F;graph.go#L338&quot;&gt;MapReduce&lt;&#x2F;a&gt;. It’s a difficult operation to describe, but I’m going to
+do my best in this section for those who are interested. If you don’t understand
+it, or don’t care, just know that &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MapReduce&lt;&#x2F;code&gt; is a generic tool for transforming
+graphs.&lt;&#x2F;p&gt;
+
+&lt;p&gt;For a description of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MapReduce&lt;&#x2F;code&gt; we need to present an example graph:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;        +&amp;lt;--b---
+        +       \
+X &amp;lt;--a--+&amp;lt;--c----+&amp;lt;--f-- A
+        +               &#x2F;
+        +      +&amp;lt;---g---
+        +&amp;lt;--d--+
+               +&amp;lt;---h---
+                        \
+Y &amp;lt;---------e----------- B
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;Plus signs indicate tuples, and lowercase letters are edge values while upper
+case letters are vertex values. The pseudo-code to construct this graph in go
+might look like:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-go highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &lt;span class=&quot;n&quot;&gt;g&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;:=&lt;&#x2F;span&gt; &lt;span class=&quot;nb&quot;&gt;new&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Graph&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt;
+
+    &lt;span class=&quot;n&quot;&gt;fA&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;:=&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;ValueOut&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;s&quot;&gt;&quot;f&quot;&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;s&quot;&gt;&quot;A&quot;&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt;
+
+    &lt;span class=&quot;n&quot;&gt;g&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;g&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;AddValueIn&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;
+        &lt;span class=&quot;s&quot;&gt;&quot;X&quot;&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt;
+        &lt;span class=&quot;n&quot;&gt;TupleOut&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;
+            &lt;span class=&quot;s&quot;&gt;&quot;a&quot;&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt;
+            &lt;span class=&quot;n&quot;&gt;TupleOut&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;s&quot;&gt;&quot;b&quot;&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;fA&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;&#x2F;span&gt;
+            &lt;span class=&quot;n&quot;&gt;TupleOut&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;s&quot;&gt;&quot;c&quot;&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;fA&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;&#x2F;span&gt;
+            &lt;span class=&quot;n&quot;&gt;TupleOut&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;
+                &lt;span class=&quot;s&quot;&gt;&quot;d&quot;&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt;
+                &lt;span class=&quot;n&quot;&gt;ValueOut&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;s&quot;&gt;&quot;g&quot;&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;s&quot;&gt;&quot;A&quot;&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;&#x2F;span&gt;
+                &lt;span class=&quot;n&quot;&gt;ValueOut&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;s&quot;&gt;&quot;h&quot;&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;s&quot;&gt;&quot;B&quot;&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;&#x2F;span&gt;
+            &lt;span class=&quot;p&quot;&gt;),&lt;&#x2F;span&gt;
+        &lt;span class=&quot;p&quot;&gt;),&lt;&#x2F;span&gt;
+    &lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt;
+
+    &lt;span class=&quot;n&quot;&gt;g&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;g&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;AddValueIn&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;s&quot;&gt;&quot;e&quot;&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;s&quot;&gt;&quot;B&quot;&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;As can be seen in the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;ginger&#x2F;blob&#x2F;ebf57591a8ac08da8a312855fc3a6d9c1ee6dcb2&#x2F;graph&#x2F;graph.go#L338&quot;&gt;code&lt;&#x2F;a&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MapReduce&lt;&#x2F;code&gt;’s first argument is an
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;OpenEdge&lt;&#x2F;code&gt;, &lt;em&gt;not&lt;&#x2F;em&gt; a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Graph&lt;&#x2F;code&gt;. Fundamentally &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MapReduce&lt;&#x2F;code&gt; is a reduction of the
+&lt;em&gt;dependencies&lt;&#x2F;em&gt; of a particular value into a new value; to reduce the
+dependencies of multiple values at the same time would be equivalent to looping
+over those values and calling &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MapReduce&lt;&#x2F;code&gt; on each individually. Having
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MapReduce&lt;&#x2F;code&gt; only deal with one edge at a time is more flexible.&lt;&#x2F;p&gt;
+
+&lt;p&gt;So let’s focus on a particular &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;OpenEdge&lt;&#x2F;code&gt;, the one leading into &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X&lt;&#x2F;code&gt; (returned by
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;TupleOut(&quot;a&quot;, etc...)&lt;&#x2F;code&gt;. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MapReduce&lt;&#x2F;code&gt; is going to descend into this &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;OpenEdge&lt;&#x2F;code&gt;
+recursively, in order to first find all value vertices (ie the leaf vertices,
+those without any children of their own).&lt;&#x2F;p&gt;
+
+&lt;p&gt;At this point &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MapReduce&lt;&#x2F;code&gt; will use its second argument, the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mapVal&lt;&#x2F;code&gt; function,
+which accepts a value of one type and returns a value of another type. This
+function is called on each value from every value vertex encountered. In this
+case both &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;A&lt;&#x2F;code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;B&lt;&#x2F;code&gt; are connectable from &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X&lt;&#x2F;code&gt;, so &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mapVal&lt;&#x2F;code&gt; will be called on
+each &lt;em&gt;only once&lt;&#x2F;em&gt;. This is the case even though &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;A&lt;&#x2F;code&gt; is connected to multiple
+times (once with an edge value of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;f&lt;&#x2F;code&gt;, another with an edge value of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;b&lt;&#x2F;code&gt;).
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mapVal&lt;&#x2F;code&gt; only gets called once per vertex, not per connection.&lt;&#x2F;p&gt;
+
+&lt;p&gt;With all values mapped, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MapReduce&lt;&#x2F;code&gt; will begin reducing. For each edge leaving
+each value vertex, the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reduceEdge&lt;&#x2F;code&gt; function is called. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reduceEdge&lt;&#x2F;code&gt; accepts as
+arguments the edge value of the edge and the &lt;em&gt;mapped value&lt;&#x2F;em&gt; (not the original
+value) of the vertex, and returns a new value of the same type that &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mapVal&lt;&#x2F;code&gt;
+returned. Like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mapVal&lt;&#x2F;code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reduceEdge&lt;&#x2F;code&gt; will only be called once per edge. In our
+example, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;--f--A&lt;&#x2F;code&gt; is used twice (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;b&lt;&#x2F;code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;c&lt;&#x2F;code&gt;), but &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reduceEdge&lt;&#x2F;code&gt; will only be
+called on it once.&lt;&#x2F;p&gt;
+
+&lt;p&gt;With each value vertex edge having been reduced, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reduceEdge&lt;&#x2F;code&gt; is called again on
+each edge leaving &lt;em&gt;those&lt;&#x2F;em&gt; edges, which must be tuple edges. An array of the
+values returned from the previous &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reduceEdge&lt;&#x2F;code&gt; calls for each of the tuples’
+input edges is used as the value argument in the next call. This is done until
+the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;OpenEdge&lt;&#x2F;code&gt; is fully reduced into a single value.&lt;&#x2F;p&gt;
+
+&lt;p&gt;To flesh out our example, let’s imagine a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mapVal&lt;&#x2F;code&gt; which returns the input
+string repeated twice, and a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reduceEdge&lt;&#x2F;code&gt; which returns the input values joined
+with the edge value, and then wrapped with the edge value (eg &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reduceEdge(a, [B,
+C]) -&amp;gt; aBaCa&lt;&#x2F;code&gt;).&lt;&#x2F;p&gt;
+
+&lt;p&gt;Calling &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MapReduce&lt;&#x2F;code&gt; on the edge leading into &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X&lt;&#x2F;code&gt; will then give us the following
+calls:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Map the value vertices
+
+mapVal(A) -&amp;gt; AA
+mapVal(B) -&amp;gt; BB
+
+# Reduce the value vertex edges
+
+reduceEdge(f, [AA]) -&amp;gt; fAAf
+reduceEdge(g, [AA]) -&amp;gt; gAAg
+reduceEdge(h, [BB]) -&amp;gt; hBBh
+
+# Reduce tuple vertex edges
+
+reduceEdge(b, [fAAf]) -&amp;gt; bfAAfb
+reduceEdge(c, [fAAf]) -&amp;gt; cfAAfc
+reduceEdge(d, [gAAg, hBBh]) -&amp;gt; dgAAgdhBBhd
+
+reduceEdge(a, [bfAAfb, cfAAfc, dgAAgdhBBhd]) -&amp;gt; abfAAfbacfAAfcadgAAgdhBBhda
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;Beautiful, exactly what we wanted.&lt;&#x2F;p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MapReduce&lt;&#x2F;code&gt; will prove extremely useful when it comes time for the VM to execute
+the graph. It enables the VM to evaluate only the values which are needed to
+produce an output, and to only evaluate each value once no matter how many times
+it’s used. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MapReduce&lt;&#x2F;code&gt; also takes care of the recursive traversal of the
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Graph&lt;&#x2F;code&gt;, which simplifies the VM code significantly.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;gg&quot;&gt;gg&lt;&#x2F;h2&gt;
+
+&lt;p&gt;With a generic graph implementation out of the way, it was then required to
+define a specific implementation which could be parsed from a file and later
+used for execution in the VM.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The file extension used for ginger code is &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.gg&lt;&#x2F;code&gt;, as in “ginger graph” (of
+course). The package name for decoding this file format is, therefore, also
+called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gg&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The core datatype for the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gg&lt;&#x2F;code&gt; package is the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;ginger&#x2F;blob&#x2F;ebf57591a8ac08da8a312855fc3a6d9c1ee6dcb2&#x2F;gg&#x2F;gg.go#L14&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Value&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;, since the
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;graph&lt;&#x2F;code&gt; package takes care of essentially everything else in the realm of graph
+construction and manipulation. The type definition is:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-go highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; Value represents a value which can be serialized by the gg text format.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;type&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Value&lt;&#x2F;span&gt; &lt;span class=&quot;k&quot;&gt;struct&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;&#x2F;span&gt;
+
+	&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; Only one of these fields may be set&lt;&#x2F;span&gt;
+	&lt;span class=&quot;n&quot;&gt;Name&lt;&#x2F;span&gt;   &lt;span class=&quot;o&quot;&gt;*&lt;&#x2F;span&gt;&lt;span class=&quot;kt&quot;&gt;string&lt;&#x2F;span&gt;
+	&lt;span class=&quot;n&quot;&gt;Number&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;&#x2F;span&gt;&lt;span class=&quot;kt&quot;&gt;int64&lt;&#x2F;span&gt;
+	&lt;span class=&quot;n&quot;&gt;Graph&lt;&#x2F;span&gt;  &lt;span class=&quot;o&quot;&gt;*&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Graph&lt;&#x2F;span&gt;
+
+	&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; Optional fields indicating the token which was used to construct this&lt;&#x2F;span&gt;
+	&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; Value, if any.&lt;&#x2F;span&gt;
+	&lt;span class=&quot;n&quot;&gt;LexerToken&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;LexerToken&lt;&#x2F;span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;&#x2F;span&gt;
+
+&lt;span class=&quot;k&quot;&gt;type&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Graph&lt;&#x2F;span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;graph&lt;&#x2F;span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Graph&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Value&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Value&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;&#x2F;span&gt; &lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; type alias for convenience&lt;&#x2F;span&gt;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;Note that it’s currently only possible to describe three different types in a
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gg&lt;&#x2F;code&gt; file, and one of them is the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Graph&lt;&#x2F;code&gt;! These are the only ones needed to
+implement a fibonacci function, so they’re all I implemented.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The lexing&#x2F;parsing of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gg&lt;&#x2F;code&gt; files is not super interesting, you can check out the
+package code for more details. The only other thing worth noting is that, for
+now, all statements are required to end with a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;;&lt;&#x2F;code&gt;. I had originally wanted to
+be less strict with this, and allow newlines and other tokens to indicate the
+end of statements, but it was complicating the code and I wanted to move on.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Another small thing worth noting is that I decided to make each entire &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.gg&lt;&#x2F;code&gt;
+file implicitly define a graph. So you can imagine each file’s contents wrapped
+in curly braces.&lt;&#x2F;p&gt;
+
+&lt;p&gt;With the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gg&lt;&#x2F;code&gt; package out of the way I was able to finally parse ginger
+programs! The following is the actual, real-life implementation of the fibonacci
+function (though at this point it didn’t actually work, because the VM was still
+not implemented:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;out = {
+
+    decr = { out = add &amp;lt; (in; -1;); };
+
+    n = tupEl &amp;lt; (in; 0;);
+    a = tupEl &amp;lt; (in; 1;);
+    b = tupEl &amp;lt; (in; 2;);
+
+    out = if &amp;lt; (
+        isZero &amp;lt; n;
+        a;
+        recur &amp;lt; (
+            decr &amp;lt; n;
+            b;
+            add &amp;lt; (a;b;);
+        );
+    );
+
+} &amp;lt; (in; 0; 1;);
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;h2 id=&quot;vm&quot;&gt;VM&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Finally, the meat of all this. If the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;graph&lt;&#x2F;code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gg&lt;&#x2F;code&gt; packages are the sturdy,
+well constructed foundations of a tall building, then the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vm&lt;&#x2F;code&gt; package is the
+extremely long, flimsy stick someone propped up vertically so they could say
+they built a structure of impressive height.&lt;&#x2F;p&gt;
+
+&lt;p&gt;In other words, it’s very likely that the current iteration of the VM will not
+be long for this world, and so I won’t waste time describing it in super detail.&lt;&#x2F;p&gt;
+
+&lt;p&gt;What I will say about it is that within the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vm&lt;&#x2F;code&gt; package I’ve defined a &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;ginger&#x2F;blob&#x2F;ebf57591a8ac08da8a312855fc3a6d9c1ee6dcb2&#x2F;vm&#x2F;vm.go#L18&quot;&gt;new
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Value&lt;&#x2F;code&gt; type&lt;&#x2F;a&gt;, which extends the one defined in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gg&lt;&#x2F;code&gt;. The necessity of
+this was that there are types which cannot be represented syntactically in a
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.gg&lt;&#x2F;code&gt; file, but which &lt;em&gt;can&lt;&#x2F;em&gt; be used as values within a program being run.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The first of these is the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Operation&lt;&#x2F;code&gt;, which is essentially a first-class
+function. The VM will automatically interpret a graph as an &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Operation&lt;&#x2F;code&gt; when it
+is used as an edge value, as has been discussed in previous posts, but there are
+also built-in operations (like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;recur&lt;&#x2F;code&gt;) which cannot be represented as
+datastructures, and so it was necessary to introduce a new in-memory type to
+properly represent operations.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The second is the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Tuple&lt;&#x2F;code&gt; type. This may seem strange, as ginger graphs already
+have a concept of a tuple. But the ginger graph tuple is a &lt;em&gt;vertex type&lt;&#x2F;em&gt;, not a
+value type. The distinction is small, but important. Essentially the graph tuple
+is a structural element which describes how to create a tuple value, but it is
+not yet that value. So we need a new Value type to hold the tuple once it &lt;em&gt;has&lt;&#x2F;em&gt;
+been created during runtime.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Another thing worth describing about the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vm&lt;&#x2F;code&gt; package, even though I think they
+might change drastically, are &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;ginger&#x2F;blob&#x2F;ebf57591a8ac08da8a312855fc3a6d9c1ee6dcb2&#x2F;vm&#x2F;op.go#L11&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Thunk&lt;&#x2F;code&gt;s&lt;&#x2F;a&gt;:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-go highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; Thunk is returned from the performance of an Operation. When called it will&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; return the result of that Operation having been called with the particular&lt;&#x2F;span&gt;
+&lt;span class=&quot;c&quot;&gt;&#x2F;&#x2F; arguments which were passed in.&lt;&#x2F;span&gt;
+&lt;span class=&quot;k&quot;&gt;type&lt;&#x2F;span&gt; &lt;span class=&quot;n&quot;&gt;Thunk&lt;&#x2F;span&gt; &lt;span class=&quot;k&quot;&gt;func&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;&#x2F;span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;n&quot;&gt;Value&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;kt&quot;&gt;error&lt;&#x2F;span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;&#x2F;span&gt;
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;The term “thunk” is borrowed from Haskell, which I don’t actually know so I’m
+probably using it wrong, but anyway…&lt;&#x2F;p&gt;
+
+&lt;p&gt;A thunk is essentially a value which has yet to be evaluated; the VM knows
+exactly &lt;em&gt;how&lt;&#x2F;em&gt; to evaluate it, but it hasn’t done so yet. The primary reason for
+their existence within ginger is to account for conditionals, ie the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt;
+operation. The VM can’t evaluate each of an &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if&lt;&#x2F;code&gt;’s arguments all at once, it
+must only evaluate the first argument (to obtain a boolean), and then based on
+that evaluate the second or third argument.&lt;&#x2F;p&gt;
+
+&lt;p&gt;This is where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;graph.MapReduce&lt;&#x2F;code&gt; comes in. The VM uses &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;graph.MapReduce&lt;&#x2F;code&gt; to
+reduce each edge in a graph to a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Thunk&lt;&#x2F;code&gt;, where the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Thunk&lt;&#x2F;code&gt;’s value is based on
+the operation (the edge’s value) and the inputs to the edge (which will
+themselves be &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Thunk&lt;&#x2F;code&gt;s). Because each &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Thunk&lt;&#x2F;code&gt; represents a potential value, not
+an actual one, the VM is able to completely parse the program to be executed
+(using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;graph.MapReduce&lt;&#x2F;code&gt;) while allowing conditionals to still work correctly.&lt;&#x2F;p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;ginger&#x2F;blob&#x2F;ebf57591a8ac08da8a312855fc3a6d9c1ee6dcb2&#x2F;vm&#x2F;scope.go#L29&quot;&gt;EvaluateEdge&lt;&#x2F;a&gt; is where all that happens, if you’re interested, but be
+warned that the code is a hot mess right now and it’s probably not worth
+spending a ton of time understanding it as it will change a lot.&lt;&#x2F;p&gt;
+
+&lt;p&gt;A final thing I’ll mention is that the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;recur&lt;&#x2F;code&gt; operation is, I think, broken. Or
+probably more accurately, the entire VM is broken in a way which prevents
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;recur&lt;&#x2F;code&gt; from working correctly. It &lt;em&gt;does&lt;&#x2F;em&gt; produce the correct output, so I
+haven’t prioritized debugging it, but for any large number of iterations it
+takes a very long time to run.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;demo&quot;&gt;Demo&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Finally, to show it off! I put together a super stupid &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;eval&lt;&#x2F;code&gt; binary which takes
+two arguments: a graph to be used as an operation, and a value to be used as an
+argument to that operation. It doesn’t even read the code from a file, you have
+to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cat&lt;&#x2F;code&gt; it in.&lt;&#x2F;p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mediocregopher&#x2F;ginger&#x2F;blob&#x2F;ebf57591a8ac08da8a312855fc3a6d9c1ee6dcb2&#x2F;README.md&quot;&gt;README&lt;&#x2F;a&gt; documents how to run the demo, so if you’d like to do so
+then please clone the repo and give it a shot! It should look like this when you
+do:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# go run .&#x2F;cmd&#x2F;eval&#x2F;main.go &quot;$(cat examples&#x2F;fib.gg)&quot; 8
+21
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;You can put any number you like instead of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;8&lt;&#x2F;code&gt;, but as mentioned, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;recur&lt;&#x2F;code&gt; is
+broken so it can take a while for larger numbers.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;next-steps&quot;&gt;Next Steps&lt;&#x2F;h2&gt;
+
+&lt;p&gt;The following are all the things I’d like to address the next time I work on
+ginger:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gg&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;Allow for newlines (and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;)&lt;&#x2F;code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;}&lt;&#x2F;code&gt;) to terminate statements, not just
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;;&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+      &lt;&#x2F;li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Allow names to have punctuation characters in them (maybe?).&lt;&#x2F;p&gt;
+      &lt;&#x2F;li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Don’t read all tokens into memory prior to parsing.&lt;&#x2F;p&gt;
+      &lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vm&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;Fix &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;recur&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+      &lt;&#x2F;li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Implement tail call optimization.&lt;&#x2F;p&gt;
+      &lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;General&lt;&#x2F;p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;A bit of polish on the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;eval&lt;&#x2F;code&gt; tool.&lt;&#x2F;p&gt;
+      &lt;&#x2F;li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Expose graph creation, traversal, and transformation functions as
+builtins.&lt;&#x2F;p&gt;
+      &lt;&#x2F;li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Create plan (if not actually implement it yet) for how code will be
+imported from one file to another. Namespacing in general will fall into
+this bucket.&lt;&#x2F;p&gt;
+      &lt;&#x2F;li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Create plan (if not actually implement it yet) for how users can
+extend&#x2F;replace the lexer&#x2F;parser.&lt;&#x2F;p&gt;
+      &lt;&#x2F;li&gt;
+    &lt;&#x2F;ul&gt;
+  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;I don’t know &lt;em&gt;when&lt;&#x2F;em&gt; I’ll get to work on these next, ginger will come back up in
+my rotation of projects eventually. It could be a few months. In the meantime I
+hope you’re as excited about this progress as I am, and if you have any feedback
+I’d love to hear it.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Thanks for reading!&lt;&#x2F;p&gt;
+      
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Minting A Single NFT</title>
         <author>

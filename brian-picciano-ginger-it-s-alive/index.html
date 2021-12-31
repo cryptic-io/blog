@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="referrer" content="no-referrer">
+
+        <!-- Enable responsiveness on mobile devices-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+
+        <title>Ginger: It’s Alive! | Cryptic – Blog</title>
+<meta content="Ginger: It’s Alive! | Cryptic – Blog" property="og:title"/><meta content="Ginger: It’s Alive! | Cryptic – Blog" name="twitter:title"/>
+
+        
+
+        <meta property="og:site_name" content="Cryptic – Blog" />
+        <meta property="og:url" content="https:&#x2F;&#x2F;blog.cryptic.io" />
+
+        
+
+
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;base.css" />
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+        <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;fontawesome&#x2F;fontawesome.css" rel="stylesheet">
+        <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;fontawesome&#x2F;brands.css" rel="stylesheet">
+        <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;fontawesome&#x2F;solid.css" rel="stylesheet">
+
+        <link rel='icon' type='image/x-icon' href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;favicon.ico" />
+
+        <link rel="alternate" type="application/atom+xml" title="Cryptic – Blog" href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;atom.xml">
+
+        
+
+    </head>
+    <body>
+        <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
+        <header class="l-header">
+            <h1 class="c-title p-title"><a href="https:&#x2F;&#x2F;blog.cryptic.io" class="p-title__link">Cryptic – Blog</a></h1>
+            </header>
+
+        <main id="main" class="l-main">
+            <article class="p-article">
+<header>
+  <h1>Ginger: It’s Alive!
+</h1>
+  <div>
+    <div class="c-time">
+      <time datetime="2021-12-31">
+        2021-12-31
+      </time>
+      by Brian Picciano
+       - (24 min read)
+    </div>
+  </div>
+</header>
+
+<section class="p-article__body" id="js-article">
+  <p>As a kind of Christmas present to myself I took a whole week off of work
+specifically to dedicate myself to working on ginger.</p>
+
+<p>My concrete goal was to be able to run a ginger program to compute any Nth
+fibonacci number, a goal I chose because it would require the implementation of
+conditionals, some kind of looping or recursion, and basic addition/subtraction.
+In other words, it would require all the elements which comprise a Turing
+complete language.</p>
+
+<p>And you know what? I actually succeeded!</p>
+
+<p>The implementation can be found <a href="https://github.com/mediocregopher/ginger/tree/ebf57591a8ac08da8a312855fc3a6d9c1ee6dcb2">here</a>. At this point ginger is an
+interpreted language running in a golang-based VM. The dream is for it to be
+self-hosted on LLVM (and other platforms after), but as an intermediate step to
+that I decided on sticking to what I know (golang) rather than having to learn
+two things at once.</p>
+
+<p>In this post I’m going to describe the components of this VM at a high level,
+show a quick demo of it working, and finally talk about the roadmap going
+forward.</p>
+
+<h2 id="graph">Graph</h2>
+
+<p>The core package of the whole project is the <a href="https://github.com/mediocregopher/ginger/blob/ebf57591a8ac08da8a312855fc3a6d9c1ee6dcb2/graph/graph.go"><code class="language-plaintext highlighter-rouge">graph</code></a> package. This
+package implements a generic directed graph datastructure.</p>
+
+<p>The generic part is worth noting; I was able to take advantage of go’s new
+generics which are currently <a href="https://go.dev/blog/go1.18beta1">in beta</a>. I’d read quite a bit on how the
+generic system would work even before the beta was announced, so I was able to
+hit the ground running and start using them without much issue.</p>
+
+<p>Ginger’s unique graph datastructure has been discussed in previous posts in this
+series quite a bit, and this latest implementation doesn’t deviate much at a
+high level. Below are the most up-to-date core datatypes and functions which are
+used to construct ginger graphs:</p>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="c">// Value is any value which can be stored within a Graph. Values should be</span>
+<span class="c">// considered immutable, ie once used with the graph package their internal</span>
+<span class="c">// value does not change.</span>
+<span class="k">type</span> <span class="n">Value</span> <span class="k">interface</span> <span class="p">{</span>
+	<span class="n">Equal</span><span class="p">(</span><span class="n">Value</span><span class="p">)</span> <span class="kt">bool</span>
+	<span class="n">String</span><span class="p">()</span> <span class="kt">string</span>
+<span class="p">}</span>
+
+<span class="c">// OpenEdge consists of the edge value (E) and source vertex value (V) of an</span>
+<span class="c">// edge in a Graph. When passed into the AddValueIn method a full edge is</span>
+<span class="c">// created. An OpenEdge can also be sourced from a tuple vertex, whose value is</span>
+<span class="c">// an ordered set of OpenEdges of this same type.</span>
+<span class="k">type</span> <span class="n">OpenEdge</span><span class="p">[</span><span class="n">E</span><span class="p">,</span> <span class="n">V</span> <span class="n">Value</span><span class="p">]</span> <span class="k">struct</span> <span class="p">{</span> <span class="o">...</span> <span class="p">}</span>
+
+<span class="c">// ValueOut creates a OpenEdge which, when used to construct a Graph, represents</span>
+<span class="c">// an edge (with edgeVal attached to it) coming from the vertex containing val.</span>
+<span class="k">func</span> <span class="n">ValueOut</span><span class="p">[</span><span class="n">E</span><span class="p">,</span> <span class="n">V</span> <span class="n">Value</span><span class="p">](</span><span class="n">edgeVal</span> <span class="n">E</span><span class="p">,</span> <span class="n">val</span> <span class="n">V</span><span class="p">)</span> <span class="o">*</span><span class="n">OpenEdge</span><span class="p">[</span><span class="n">E</span><span class="p">,</span> <span class="n">V</span><span class="p">]</span>
+
+<span class="c">// TupleOut creates an OpenEdge which, when used to construct a Graph,</span>
+<span class="c">// represents an edge (with edgeVal attached to it) coming from the vertex</span>
+<span class="c">// comprised of the given ordered-set of input edges.</span>
+<span class="k">func</span> <span class="n">TupleOut</span><span class="p">[</span><span class="n">E</span><span class="p">,</span> <span class="n">V</span> <span class="n">Value</span><span class="p">](</span><span class="n">edgeVal</span> <span class="n">E</span><span class="p">,</span> <span class="n">ins</span> <span class="o">...*</span><span class="n">OpenEdge</span><span class="p">[</span><span class="n">E</span><span class="p">,</span> <span class="n">V</span><span class="p">])</span> <span class="o">*</span><span class="n">OpenEdge</span><span class="p">[</span><span class="n">E</span><span class="p">,</span> <span class="n">V</span><span class="p">]</span>
+
+<span class="c">// Graph is an immutable container of a set of vertices. The Graph keeps track</span>
+<span class="c">// of all Values which terminate an OpenEdge. E indicates the type of edge</span>
+<span class="c">// values, while V indicates the type of vertex values.</span>
+<span class="k">type</span> <span class="n">Graph</span><span class="p">[</span><span class="n">E</span><span class="p">,</span> <span class="n">V</span> <span class="n">Value</span><span class="p">]</span> <span class="k">struct</span> <span class="p">{</span> <span class="o">...</span> <span class="p">}</span>
+
+<span class="c">// AddValueIn takes a OpenEdge and connects it to the Value vertex containing</span>
+<span class="c">// val, returning the new Graph which reflects that connection.</span>
+<span class="k">func</span> <span class="p">(</span><span class="o">*</span><span class="n">Graph</span><span class="p">[</span><span class="n">E</span><span class="p">,</span> <span class="n">V</span><span class="p">])</span> <span class="n">AddValueIn</span><span class="p">(</span><span class="n">val</span> <span class="n">V</span><span class="p">,</span> <span class="n">oe</span> <span class="o">*</span><span class="n">OpenEdge</span><span class="p">[</span><span class="n">E</span><span class="p">,</span> <span class="n">V</span><span class="p">])</span> <span class="o">*</span><span class="n">Graph</span><span class="p">[</span><span class="n">E</span><span class="p">,</span> <span class="n">V</span><span class="p">]</span>
+
+<span class="c">// ValueIns returns, if any, all OpenEdges which lead to the given Value in the</span>
+<span class="c">// Graph (ie, all those added via AddValueIn).</span>
+<span class="k">func</span> <span class="p">(</span><span class="o">*</span><span class="n">Graph</span><span class="p">[</span><span class="n">E</span><span class="p">,</span> <span class="n">V</span><span class="p">])</span> <span class="n">ValueIns</span><span class="p">(</span><span class="n">val</span> <span class="n">Value</span><span class="p">)</span> <span class="p">[]</span><span class="o">*</span><span class="n">OpenEdge</span><span class="p">[</span><span class="n">E</span><span class="p">,</span> <span class="n">V</span><span class="p">]</span>
+
+</code></pre></div></div>
+
+<p>The current <code class="language-plaintext highlighter-rouge">Graph</code> implementation is <em>incredibly</em> inefficient, it does a lot of
+copying, looping, and equality checks which could be optimized out one day.
+That’s going to be a recurring theme of this post, as I had to perform a
+balancing act between actually reaching my goal for the week while not incurring
+too much tech debt for myself.</p>
+
+<h3 id="mapreduce">MapReduce</h3>
+
+<p>There’s a final operation I implemented as part of the <code class="language-plaintext highlighter-rouge">graph</code> package:
+<a href="https://github.com/mediocregopher/ginger/blob/ebf57591a8ac08da8a312855fc3a6d9c1ee6dcb2/graph/graph.go#L338">MapReduce</a>. It’s a difficult operation to describe, but I’m going to
+do my best in this section for those who are interested. If you don’t understand
+it, or don’t care, just know that <code class="language-plaintext highlighter-rouge">MapReduce</code> is a generic tool for transforming
+graphs.</p>
+
+<p>For a description of <code class="language-plaintext highlighter-rouge">MapReduce</code> we need to present an example graph:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>        +&lt;--b---
+        +       \
+X &lt;--a--+&lt;--c----+&lt;--f-- A
+        +               /
+        +      +&lt;---g---
+        +&lt;--d--+
+               +&lt;---h---
+                        \
+Y &lt;---------e----------- B
+</code></pre></div></div>
+
+<p>Plus signs indicate tuples, and lowercase letters are edge values while upper
+case letters are vertex values. The pseudo-code to construct this graph in go
+might look like:</p>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="n">g</span> <span class="o">:=</span> <span class="nb">new</span><span class="p">(</span><span class="n">Graph</span><span class="p">)</span>
+
+    <span class="n">fA</span> <span class="o">:=</span> <span class="n">ValueOut</span><span class="p">(</span><span class="s">"f"</span><span class="p">,</span> <span class="s">"A"</span><span class="p">)</span>
+
+    <span class="n">g</span> <span class="o">=</span> <span class="n">g</span><span class="o">.</span><span class="n">AddValueIn</span><span class="p">(</span>
+        <span class="s">"X"</span><span class="p">,</span>
+        <span class="n">TupleOut</span><span class="p">(</span>
+            <span class="s">"a"</span><span class="p">,</span>
+            <span class="n">TupleOut</span><span class="p">(</span><span class="s">"b"</span><span class="p">,</span> <span class="n">fA</span><span class="p">),</span>
+            <span class="n">TupleOut</span><span class="p">(</span><span class="s">"c"</span><span class="p">,</span> <span class="n">fA</span><span class="p">),</span>
+            <span class="n">TupleOut</span><span class="p">(</span>
+                <span class="s">"d"</span><span class="p">,</span>
+                <span class="n">ValueOut</span><span class="p">(</span><span class="s">"g"</span><span class="p">,</span> <span class="s">"A"</span><span class="p">),</span>
+                <span class="n">ValueOut</span><span class="p">(</span><span class="s">"h"</span><span class="p">,</span> <span class="s">"B"</span><span class="p">),</span>
+            <span class="p">),</span>
+        <span class="p">),</span>
+    <span class="p">)</span>
+
+    <span class="n">g</span> <span class="o">=</span> <span class="n">g</span><span class="o">.</span><span class="n">AddValueIn</span><span class="p">(</span><span class="s">"e"</span><span class="p">,</span> <span class="s">"B"</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>As can be seen in the <a href="https://github.com/mediocregopher/ginger/blob/ebf57591a8ac08da8a312855fc3a6d9c1ee6dcb2/graph/graph.go#L338">code</a>, <code class="language-plaintext highlighter-rouge">MapReduce</code>’s first argument is an
+<code class="language-plaintext highlighter-rouge">OpenEdge</code>, <em>not</em> a <code class="language-plaintext highlighter-rouge">Graph</code>. Fundamentally <code class="language-plaintext highlighter-rouge">MapReduce</code> is a reduction of the
+<em>dependencies</em> of a particular value into a new value; to reduce the
+dependencies of multiple values at the same time would be equivalent to looping
+over those values and calling <code class="language-plaintext highlighter-rouge">MapReduce</code> on each individually. Having
+<code class="language-plaintext highlighter-rouge">MapReduce</code> only deal with one edge at a time is more flexible.</p>
+
+<p>So let’s focus on a particular <code class="language-plaintext highlighter-rouge">OpenEdge</code>, the one leading into <code class="language-plaintext highlighter-rouge">X</code> (returned by
+<code class="language-plaintext highlighter-rouge">TupleOut("a", etc...)</code>. <code class="language-plaintext highlighter-rouge">MapReduce</code> is going to descend into this <code class="language-plaintext highlighter-rouge">OpenEdge</code>
+recursively, in order to first find all value vertices (ie the leaf vertices,
+those without any children of their own).</p>
+
+<p>At this point <code class="language-plaintext highlighter-rouge">MapReduce</code> will use its second argument, the <code class="language-plaintext highlighter-rouge">mapVal</code> function,
+which accepts a value of one type and returns a value of another type. This
+function is called on each value from every value vertex encountered. In this
+case both <code class="language-plaintext highlighter-rouge">A</code> and <code class="language-plaintext highlighter-rouge">B</code> are connectable from <code class="language-plaintext highlighter-rouge">X</code>, so <code class="language-plaintext highlighter-rouge">mapVal</code> will be called on
+each <em>only once</em>. This is the case even though <code class="language-plaintext highlighter-rouge">A</code> is connected to multiple
+times (once with an edge value of <code class="language-plaintext highlighter-rouge">f</code>, another with an edge value of <code class="language-plaintext highlighter-rouge">b</code>).
+<code class="language-plaintext highlighter-rouge">mapVal</code> only gets called once per vertex, not per connection.</p>
+
+<p>With all values mapped, <code class="language-plaintext highlighter-rouge">MapReduce</code> will begin reducing. For each edge leaving
+each value vertex, the <code class="language-plaintext highlighter-rouge">reduceEdge</code> function is called. <code class="language-plaintext highlighter-rouge">reduceEdge</code> accepts as
+arguments the edge value of the edge and the <em>mapped value</em> (not the original
+value) of the vertex, and returns a new value of the same type that <code class="language-plaintext highlighter-rouge">mapVal</code>
+returned. Like <code class="language-plaintext highlighter-rouge">mapVal</code>, <code class="language-plaintext highlighter-rouge">reduceEdge</code> will only be called once per edge. In our
+example, <code class="language-plaintext highlighter-rouge">&lt;--f--A</code> is used twice (<code class="language-plaintext highlighter-rouge">b</code> and <code class="language-plaintext highlighter-rouge">c</code>), but <code class="language-plaintext highlighter-rouge">reduceEdge</code> will only be
+called on it once.</p>
+
+<p>With each value vertex edge having been reduced, <code class="language-plaintext highlighter-rouge">reduceEdge</code> is called again on
+each edge leaving <em>those</em> edges, which must be tuple edges. An array of the
+values returned from the previous <code class="language-plaintext highlighter-rouge">reduceEdge</code> calls for each of the tuples’
+input edges is used as the value argument in the next call. This is done until
+the <code class="language-plaintext highlighter-rouge">OpenEdge</code> is fully reduced into a single value.</p>
+
+<p>To flesh out our example, let’s imagine a <code class="language-plaintext highlighter-rouge">mapVal</code> which returns the input
+string repeated twice, and a <code class="language-plaintext highlighter-rouge">reduceEdge</code> which returns the input values joined
+with the edge value, and then wrapped with the edge value (eg <code class="language-plaintext highlighter-rouge">reduceEdge(a, [B,
+C]) -&gt; aBaCa</code>).</p>
+
+<p>Calling <code class="language-plaintext highlighter-rouge">MapReduce</code> on the edge leading into <code class="language-plaintext highlighter-rouge">X</code> will then give us the following
+calls:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Map the value vertices
+
+mapVal(A) -&gt; AA
+mapVal(B) -&gt; BB
+
+# Reduce the value vertex edges
+
+reduceEdge(f, [AA]) -&gt; fAAf
+reduceEdge(g, [AA]) -&gt; gAAg
+reduceEdge(h, [BB]) -&gt; hBBh
+
+# Reduce tuple vertex edges
+
+reduceEdge(b, [fAAf]) -&gt; bfAAfb
+reduceEdge(c, [fAAf]) -&gt; cfAAfc
+reduceEdge(d, [gAAg, hBBh]) -&gt; dgAAgdhBBhd
+
+reduceEdge(a, [bfAAfb, cfAAfc, dgAAgdhBBhd]) -&gt; abfAAfbacfAAfcadgAAgdhBBhda
+</code></pre></div></div>
+
+<p>Beautiful, exactly what we wanted.</p>
+
+<p><code class="language-plaintext highlighter-rouge">MapReduce</code> will prove extremely useful when it comes time for the VM to execute
+the graph. It enables the VM to evaluate only the values which are needed to
+produce an output, and to only evaluate each value once no matter how many times
+it’s used. <code class="language-plaintext highlighter-rouge">MapReduce</code> also takes care of the recursive traversal of the
+<code class="language-plaintext highlighter-rouge">Graph</code>, which simplifies the VM code significantly.</p>
+
+<h2 id="gg">gg</h2>
+
+<p>With a generic graph implementation out of the way, it was then required to
+define a specific implementation which could be parsed from a file and later
+used for execution in the VM.</p>
+
+<p>The file extension used for ginger code is <code class="language-plaintext highlighter-rouge">.gg</code>, as in “ginger graph” (of
+course). The package name for decoding this file format is, therefore, also
+called <code class="language-plaintext highlighter-rouge">gg</code>.</p>
+
+<p>The core datatype for the <code class="language-plaintext highlighter-rouge">gg</code> package is the <a href="https://github.com/mediocregopher/ginger/blob/ebf57591a8ac08da8a312855fc3a6d9c1ee6dcb2/gg/gg.go#L14"><code class="language-plaintext highlighter-rouge">Value</code></a>, since the
+<code class="language-plaintext highlighter-rouge">graph</code> package takes care of essentially everything else in the realm of graph
+construction and manipulation. The type definition is:</p>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">// Value represents a value which can be serialized by the gg text format.</span>
+<span class="k">type</span> <span class="n">Value</span> <span class="k">struct</span> <span class="p">{</span>
+
+	<span class="c">// Only one of these fields may be set</span>
+	<span class="n">Name</span>   <span class="o">*</span><span class="kt">string</span>
+	<span class="n">Number</span> <span class="o">*</span><span class="kt">int64</span>
+	<span class="n">Graph</span>  <span class="o">*</span><span class="n">Graph</span>
+
+	<span class="c">// Optional fields indicating the token which was used to construct this</span>
+	<span class="c">// Value, if any.</span>
+	<span class="n">LexerToken</span> <span class="o">*</span><span class="n">LexerToken</span>
+<span class="p">}</span>
+
+<span class="k">type</span> <span class="n">Graph</span> <span class="o">=</span> <span class="n">graph</span><span class="o">.</span><span class="n">Graph</span><span class="p">[</span><span class="n">Value</span><span class="p">,</span> <span class="n">Value</span><span class="p">]</span> <span class="c">// type alias for convenience</span>
+</code></pre></div></div>
+
+<p>Note that it’s currently only possible to describe three different types in a
+<code class="language-plaintext highlighter-rouge">gg</code> file, and one of them is the <code class="language-plaintext highlighter-rouge">Graph</code>! These are the only ones needed to
+implement a fibonacci function, so they’re all I implemented.</p>
+
+<p>The lexing/parsing of <code class="language-plaintext highlighter-rouge">gg</code> files is not super interesting, you can check out the
+package code for more details. The only other thing worth noting is that, for
+now, all statements are required to end with a <code class="language-plaintext highlighter-rouge">;</code>. I had originally wanted to
+be less strict with this, and allow newlines and other tokens to indicate the
+end of statements, but it was complicating the code and I wanted to move on.</p>
+
+<p>Another small thing worth noting is that I decided to make each entire <code class="language-plaintext highlighter-rouge">.gg</code>
+file implicitly define a graph. So you can imagine each file’s contents wrapped
+in curly braces.</p>
+
+<p>With the <code class="language-plaintext highlighter-rouge">gg</code> package out of the way I was able to finally parse ginger
+programs! The following is the actual, real-life implementation of the fibonacci
+function (though at this point it didn’t actually work, because the VM was still
+not implemented:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>out = {
+
+    decr = { out = add &lt; (in; -1;); };
+
+    n = tupEl &lt; (in; 0;);
+    a = tupEl &lt; (in; 1;);
+    b = tupEl &lt; (in; 2;);
+
+    out = if &lt; (
+        isZero &lt; n;
+        a;
+        recur &lt; (
+            decr &lt; n;
+            b;
+            add &lt; (a;b;);
+        );
+    );
+
+} &lt; (in; 0; 1;);
+</code></pre></div></div>
+
+<h2 id="vm">VM</h2>
+
+<p>Finally, the meat of all this. If the <code class="language-plaintext highlighter-rouge">graph</code> and <code class="language-plaintext highlighter-rouge">gg</code> packages are the sturdy,
+well constructed foundations of a tall building, then the <code class="language-plaintext highlighter-rouge">vm</code> package is the
+extremely long, flimsy stick someone propped up vertically so they could say
+they built a structure of impressive height.</p>
+
+<p>In other words, it’s very likely that the current iteration of the VM will not
+be long for this world, and so I won’t waste time describing it in super detail.</p>
+
+<p>What I will say about it is that within the <code class="language-plaintext highlighter-rouge">vm</code> package I’ve defined a <a href="https://github.com/mediocregopher/ginger/blob/ebf57591a8ac08da8a312855fc3a6d9c1ee6dcb2/vm/vm.go#L18">new
+<code class="language-plaintext highlighter-rouge">Value</code> type</a>, which extends the one defined in <code class="language-plaintext highlighter-rouge">gg</code>. The necessity of
+this was that there are types which cannot be represented syntactically in a
+<code class="language-plaintext highlighter-rouge">.gg</code> file, but which <em>can</em> be used as values within a program being run.</p>
+
+<p>The first of these is the <code class="language-plaintext highlighter-rouge">Operation</code>, which is essentially a first-class
+function. The VM will automatically interpret a graph as an <code class="language-plaintext highlighter-rouge">Operation</code> when it
+is used as an edge value, as has been discussed in previous posts, but there are
+also built-in operations (like <code class="language-plaintext highlighter-rouge">if</code> and <code class="language-plaintext highlighter-rouge">recur</code>) which cannot be represented as
+datastructures, and so it was necessary to introduce a new in-memory type to
+properly represent operations.</p>
+
+<p>The second is the <code class="language-plaintext highlighter-rouge">Tuple</code> type. This may seem strange, as ginger graphs already
+have a concept of a tuple. But the ginger graph tuple is a <em>vertex type</em>, not a
+value type. The distinction is small, but important. Essentially the graph tuple
+is a structural element which describes how to create a tuple value, but it is
+not yet that value. So we need a new Value type to hold the tuple once it <em>has</em>
+been created during runtime.</p>
+
+<p>Another thing worth describing about the <code class="language-plaintext highlighter-rouge">vm</code> package, even though I think they
+might change drastically, are <a href="https://github.com/mediocregopher/ginger/blob/ebf57591a8ac08da8a312855fc3a6d9c1ee6dcb2/vm/op.go#L11"><code class="language-plaintext highlighter-rouge">Thunk</code>s</a>:</p>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">// Thunk is returned from the performance of an Operation. When called it will</span>
+<span class="c">// return the result of that Operation having been called with the particular</span>
+<span class="c">// arguments which were passed in.</span>
+<span class="k">type</span> <span class="n">Thunk</span> <span class="k">func</span><span class="p">()</span> <span class="p">(</span><span class="n">Value</span><span class="p">,</span> <span class="kt">error</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>The term “thunk” is borrowed from Haskell, which I don’t actually know so I’m
+probably using it wrong, but anyway…</p>
+
+<p>A thunk is essentially a value which has yet to be evaluated; the VM knows
+exactly <em>how</em> to evaluate it, but it hasn’t done so yet. The primary reason for
+their existence within ginger is to account for conditionals, ie the <code class="language-plaintext highlighter-rouge">if</code>
+operation. The VM can’t evaluate each of an <code class="language-plaintext highlighter-rouge">if</code>’s arguments all at once, it
+must only evaluate the first argument (to obtain a boolean), and then based on
+that evaluate the second or third argument.</p>
+
+<p>This is where <code class="language-plaintext highlighter-rouge">graph.MapReduce</code> comes in. The VM uses <code class="language-plaintext highlighter-rouge">graph.MapReduce</code> to
+reduce each edge in a graph to a <code class="language-plaintext highlighter-rouge">Thunk</code>, where the <code class="language-plaintext highlighter-rouge">Thunk</code>’s value is based on
+the operation (the edge’s value) and the inputs to the edge (which will
+themselves be <code class="language-plaintext highlighter-rouge">Thunk</code>s). Because each <code class="language-plaintext highlighter-rouge">Thunk</code> represents a potential value, not
+an actual one, the VM is able to completely parse the program to be executed
+(using <code class="language-plaintext highlighter-rouge">graph.MapReduce</code>) while allowing conditionals to still work correctly.</p>
+
+<p><a href="https://github.com/mediocregopher/ginger/blob/ebf57591a8ac08da8a312855fc3a6d9c1ee6dcb2/vm/scope.go#L29">EvaluateEdge</a> is where all that happens, if you’re interested, but be
+warned that the code is a hot mess right now and it’s probably not worth
+spending a ton of time understanding it as it will change a lot.</p>
+
+<p>A final thing I’ll mention is that the <code class="language-plaintext highlighter-rouge">recur</code> operation is, I think, broken. Or
+probably more accurately, the entire VM is broken in a way which prevents
+<code class="language-plaintext highlighter-rouge">recur</code> from working correctly. It <em>does</em> produce the correct output, so I
+haven’t prioritized debugging it, but for any large number of iterations it
+takes a very long time to run.</p>
+
+<h2 id="demo">Demo</h2>
+
+<p>Finally, to show it off! I put together a super stupid <code class="language-plaintext highlighter-rouge">eval</code> binary which takes
+two arguments: a graph to be used as an operation, and a value to be used as an
+argument to that operation. It doesn’t even read the code from a file, you have
+to <code class="language-plaintext highlighter-rouge">cat</code> it in.</p>
+
+<p>The <a href="https://github.com/mediocregopher/ginger/blob/ebf57591a8ac08da8a312855fc3a6d9c1ee6dcb2/README.md">README</a> documents how to run the demo, so if you’d like to do so
+then please clone the repo and give it a shot! It should look like this when you
+do:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># go run ./cmd/eval/main.go "$(cat examples/fib.gg)" 8
+21
+</code></pre></div></div>
+
+<p>You can put any number you like instead of <code class="language-plaintext highlighter-rouge">8</code>, but as mentioned, <code class="language-plaintext highlighter-rouge">recur</code> is
+broken so it can take a while for larger numbers.</p>
+
+<h2 id="next-steps">Next Steps</h2>
+
+<p>The following are all the things I’d like to address the next time I work on
+ginger:</p>
+
+<ul>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">gg</code></p>
+
+    <ul>
+      <li>
+        <p>Allow for newlines (and <code class="language-plaintext highlighter-rouge">)</code> and <code class="language-plaintext highlighter-rouge">}</code>) to terminate statements, not just
+<code class="language-plaintext highlighter-rouge">;</code>.</p>
+      </li>
+      <li>
+        <p>Allow names to have punctuation characters in them (maybe?).</p>
+      </li>
+      <li>
+        <p>Don’t read all tokens into memory prior to parsing.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">vm</code></p>
+
+    <ul>
+      <li>
+        <p>Fix <code class="language-plaintext highlighter-rouge">recur</code>.</p>
+      </li>
+      <li>
+        <p>Implement tail call optimization.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>General</p>
+
+    <ul>
+      <li>
+        <p>A bit of polish on the <code class="language-plaintext highlighter-rouge">eval</code> tool.</p>
+      </li>
+      <li>
+        <p>Expose graph creation, traversal, and transformation functions as
+builtins.</p>
+      </li>
+      <li>
+        <p>Create plan (if not actually implement it yet) for how code will be
+imported from one file to another. Namespacing in general will fall into
+this bucket.</p>
+      </li>
+      <li>
+        <p>Create plan (if not actually implement it yet) for how users can
+extend/replace the lexer/parser.</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p>I don’t know <em>when</em> I’ll get to work on these next, ginger will come back up in
+my rotation of projects eventually. It could be a few months. In the meantime I
+hope you’re as excited about this progress as I am, and if you have any feedback
+I’d love to hear it.</p>
+
+<p>Thanks for reading!</p>
+</section>
+<footer>
+  <nav class="c-pagination p-pagination">
+    <div class="c-pagination__ctrl">
+      <div class="c-pagination__newer">
+        
+      </div>
+      <div class="c-pagination__older">
+        <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-minting-a-single-nft&#x2F;">Minting A Single NFT</a>
+      </div>
+    </div>
+  </nav>
+</footer></article>
+        </main>
+
+     
+      <footer class="l-footer">
+          <p class="p-copyright">
+              
+          </p>
+      </footer>
+
+       
+      
+    </body>
+</html>
+            
