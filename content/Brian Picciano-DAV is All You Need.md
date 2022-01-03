@@ -1,0 +1,327 @@
+
++++
+title = "DAV is All You Need"
+date = 2022-01-01T00:00:00.000Z
+template = "html_content/raw.html"
+summary = """
+For some time now I’ve been trying to find an alternative solution to Google
+Keep for shared note ta..."""
+
+[extra]
+author = "Brian Picciano"
+originalLink = "https://blog.mediocregopher.com/2022/01/01/dav-is-all-you-need.html"
+raw = """
+<p>For some time now I’ve been trying to find an alternative solution to Google
+Keep for shared note taking. The motivation for this change was two-fold:</p>
+
+<ul>
+  <li>
+    <p>Google sucks, and I’m trying to get their products out of my life in favor of
+self-hosted options.</p>
+  </li>
+  <li>
+    <p>Google Keep <em>really</em> sucks. Seriously, it can barely load on my Chromebook
+because of whatever bloated ass web framework they’re using for it. It’s just
+a note taking app!</p>
+  </li>
+</ul>
+
+<p>So this weekend I buckled down and actually made the switch. The first step was
+to find something to switch <em>to</em>, however, which ended up being not trivial.
+There’s a million different options in this space, but surprisingly few which
+could fulfill the exact niche we need in our household:</p>
+
+<ul>
+  <li>
+    <p>Fully open-source and open protocol. If it’s not open it’s not worth the
+bother of switching, cause we’ll just have to do it all again once whatever
+product we switch to gets acqui-hired by a food delivery app.</p>
+  </li>
+  <li>
+    <p>Self-hosted using a <em>simple</em> server-side component. I’m talking something that
+listens on a public port and saves data to a file on disk, and <em>that’s it</em>.
+No database processes, no message queues, no bullshit. We’re not serving a
+million users here, there’s no reason to broaden the attack surface
+unnecessarily.</p>
+  </li>
+  <li>
+    <p>Multi-platform support, including mobile. Our primary use-case here is our
+grocery list, which needs to be accessible by everyone everywhere.</p>
+  </li>
+</ul>
+
+<p>I’ve already got a Nextcloud instance running at home, and there is certainly a
+notes extension for it, so that could have been an option here. But Nextcloud
+very much does not fall into the second point above: it’s not simple. It’s a
+giant PHP app that uses Postgres as a backend, has its own authentication and
+session system, and has a plugin system. Frankly, it was easily the biggest
+security hole on the entire server, and I wasn’t eager to add usage to it.</p>
+
+<p>Happily, I found another solution.</p>
+
+<h2 id="webdav">WebDAV</h2>
+
+<p>There’s a project called <a href="https://joplinapp.org/">Joplin</a> which implements a
+markdown-based notes system with clients for Android, iPhone, Linux, Mac, and
+Windows. Somewhat interestingly there is <em>not</em> a web client for it, but on
+further reflection I don’t think that’s a big deal… no bloated javascript
+frameworks to worry about at least.</p>
+
+<p>In addition to their own cloud backend, Joplin supports a number of others, with
+the most interesting being WebDAV. WebDAV is an XML-based extension to HTTP
+which allows for basic write operations on the server-side, and which uses
+HTTP’s basic auth for authentication. You can interact with it using curl if you
+like, it really can’t get simpler.</p>
+
+<p><a href="https://caddyserver.com/">Caddy</a> is the server I use to handle all incoming
+HTTP requests to my server, and luckily there’s a semi-official
+<a href="https://github.com/mholt/caddy-webdav">WebDAV</a> plugin which adds WebDAV
+support. With that compiled in, the <code class="language-plaintext highlighter-rouge">Caddyfile</code> configuration is nothing more
+than:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>hostname.com {
+
+    route {
+
+        basicauth {
+            sharedUser sharedPassword
+        }
+
+
+        webdav {
+            root /data/webdav
+        }
+
+    }
+
+}
+</code></pre></div></div>
+
+<p>With that in place, any Joplin client can be pointed at <code class="language-plaintext highlighter-rouge">hostname.com</code> using the
+shared username/assword, and all data is stored directly to <code class="language-plaintext highlighter-rouge">/data/webdav</code> by
+Caddy. Easy-peasy.</p>
+
+<h2 id="carddavcaldav">CardDAV/CalDAV</h2>
+
+<p>Where WebDAV is an extension of HTTP to allow for remotely modifying files
+genearlly, CardDAV and CalDAV are extensions of WebDAV for managing remote
+stores of contacts and calendar events, respectively. At least, that’s my
+understanding.</p>
+
+<p>Nextcloud has its own Web/Card/CalDAV service, and that’s what I had been, up
+till this point, using for syncing my contacts and calendar from my phone. But
+now that I was setting up a separate WebDAV endpoint, I figured it’d be worth
+setting up a separate Card/CalDAV service and get that much closer to getting
+off Nextcloud entirely.</p>
+
+<p>There is, as far as I know, no Card or CalDAV extension for Caddy, so I’d still
+need a new service running. I came across
+<a href="https://radicale.org/v3.html">radicale</a>, which fits the bill nicely. It’s a
+simple CalDAV and CardDAV server which saves directly to disk, much like the
+Caddy WebDAV plugin. With that running, I needed only to add the following to my
+<code class="language-plaintext highlighter-rouge">Caddyfile</code>, above the <code class="language-plaintext highlighter-rouge">webdav</code> directive:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>handle /radicale/* {
+
+    uri strip_prefix /radicale
+
+    reverse_proxy 127.0.0.1:5454 {
+        header_up X-Script-Name /radicale
+    }
+
+}
+</code></pre></div></div>
+
+<p>Now I could point the <a href="https://www.davx5.com/">DAVx5</a> app on my phone to
+<code class="language-plaintext highlighter-rouge">hostname.com/radicale</code> and boom, contact and calendar syncing was within reach.
+I <em>did</em> have a lot of problems getting DAVx5 working properly, but those were
+more to do with Android than self-hosting, and I eventually worked through them.</p>
+
+<h2 id="passwords">Passwords</h2>
+
+<p>At this point I considered that the only thing I was still really using
+Nextcloud for was password management, a la Lastpass or 1Password. I have a lot
+of gripes with Nextcloud’s password manager, in addition to my aforementioned
+grips with Nextcloud generally, so I thought it was worth seeing if some DAV or
+another could be the final nail in Nextcloud’s coffin.</p>
+
+<p>A bit of searching around led me to <a href="https://subdavis.com/Tusk/">Tusk</a>, a chrome
+extension which allows the chrome browser to fetch a
+<a href="https://keepassxc.org/">KeePassXC</a> database from a WebDAV server, decode it,
+and autofill it into a website. Basically perfect. I had only to export my
+passwords from Nextcloud as a CSV, import them into a fresh KDBX file using the
+KeePassXC GUI, place the file in my WebDAV folder, and point Tusk at that.</p>
+
+<p>I found the whole experience of using Tusk to be extremely pleasant. Everything
+is very well labeled and described, and there’s appropriate warnings and such in
+places where someone might commit a security crime (e.g. using the same password
+for WebDAV and their KDBX file).</p>
+
+<p>My one gripe is that it seems to be very slow to unlock the file in practice. I
+don’t <em>think</em> this has to do with my server, as Joplin is quite responsive, so
+it could instead have to do with my KDBX file’s decryption difficulty setting.
+Perhaps Tusk is doing the decryption in userspace javascript… I’ll have to
+play with it some.</p>
+
+<p>But it’s a small price to be able to turn off Nextcloud completely, which I have
+now done. I can sleep easier at night now, knowing there’s not some PHP
+equivalent to Log4j which is going to bite me in the ass one day while I’m on
+vacation.</p>"""
+
++++
+<p>For some time now I’ve been trying to find an alternative solution to Google
+Keep for shared note taking. The motivation for this change was two-fold:</p>
+
+<ul>
+  <li>
+    <p>Google sucks, and I’m trying to get their products out of my life in favor of
+self-hosted options.</p>
+  </li>
+  <li>
+    <p>Google Keep <em>really</em> sucks. Seriously, it can barely load on my Chromebook
+because of whatever bloated ass web framework they’re using for it. It’s just
+a note taking app!</p>
+  </li>
+</ul>
+
+<p>So this weekend I buckled down and actually made the switch. The first step was
+to find something to switch <em>to</em>, however, which ended up being not trivial.
+There’s a million different options in this space, but surprisingly few which
+could fulfill the exact niche we need in our household:</p>
+
+<ul>
+  <li>
+    <p>Fully open-source and open protocol. If it’s not open it’s not worth the
+bother of switching, cause we’ll just have to do it all again once whatever
+product we switch to gets acqui-hired by a food delivery app.</p>
+  </li>
+  <li>
+    <p>Self-hosted using a <em>simple</em> server-side component. I’m talking something that
+listens on a public port and saves data to a file on disk, and <em>that’s it</em>.
+No database processes, no message queues, no bullshit. We’re not serving a
+million users here, there’s no reason to broaden the attack surface
+unnecessarily.</p>
+  </li>
+  <li>
+    <p>Multi-platform support, including mobile. Our primary use-case here is our
+grocery list, which needs to be accessible by everyone everywhere.</p>
+  </li>
+</ul>
+
+<p>I’ve already got a Nextcloud instance running at home, and there is certainly a
+notes extension for it, so that could have been an option here. But Nextcloud
+very much does not fall into the second point above: it’s not simple. It’s a
+giant PHP app that uses Postgres as a backend, has its own authentication and
+session system, and has a plugin system. Frankly, it was easily the biggest
+security hole on the entire server, and I wasn’t eager to add usage to it.</p>
+
+<p>Happily, I found another solution.</p>
+
+<h2 id="webdav">WebDAV</h2>
+
+<p>There’s a project called <a href="https://joplinapp.org/">Joplin</a> which implements a
+markdown-based notes system with clients for Android, iPhone, Linux, Mac, and
+Windows. Somewhat interestingly there is <em>not</em> a web client for it, but on
+further reflection I don’t think that’s a big deal… no bloated javascript
+frameworks to worry about at least.</p>
+
+<p>In addition to their own cloud backend, Joplin supports a number of others, with
+the most interesting being WebDAV. WebDAV is an XML-based extension to HTTP
+which allows for basic write operations on the server-side, and which uses
+HTTP’s basic auth for authentication. You can interact with it using curl if you
+like, it really can’t get simpler.</p>
+
+<p><a href="https://caddyserver.com/">Caddy</a> is the server I use to handle all incoming
+HTTP requests to my server, and luckily there’s a semi-official
+<a href="https://github.com/mholt/caddy-webdav">WebDAV</a> plugin which adds WebDAV
+support. With that compiled in, the <code class="language-plaintext highlighter-rouge">Caddyfile</code> configuration is nothing more
+than:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>hostname.com {
+
+    route {
+
+        basicauth {
+            sharedUser sharedPassword
+        }
+
+
+        webdav {
+            root /data/webdav
+        }
+
+    }
+
+}
+</code></pre></div></div>
+
+<p>With that in place, any Joplin client can be pointed at <code class="language-plaintext highlighter-rouge">hostname.com</code> using the
+shared username/assword, and all data is stored directly to <code class="language-plaintext highlighter-rouge">/data/webdav</code> by
+Caddy. Easy-peasy.</p>
+
+<h2 id="carddavcaldav">CardDAV/CalDAV</h2>
+
+<p>Where WebDAV is an extension of HTTP to allow for remotely modifying files
+genearlly, CardDAV and CalDAV are extensions of WebDAV for managing remote
+stores of contacts and calendar events, respectively. At least, that’s my
+understanding.</p>
+
+<p>Nextcloud has its own Web/Card/CalDAV service, and that’s what I had been, up
+till this point, using for syncing my contacts and calendar from my phone. But
+now that I was setting up a separate WebDAV endpoint, I figured it’d be worth
+setting up a separate Card/CalDAV service and get that much closer to getting
+off Nextcloud entirely.</p>
+
+<p>There is, as far as I know, no Card or CalDAV extension for Caddy, so I’d still
+need a new service running. I came across
+<a href="https://radicale.org/v3.html">radicale</a>, which fits the bill nicely. It’s a
+simple CalDAV and CardDAV server which saves directly to disk, much like the
+Caddy WebDAV plugin. With that running, I needed only to add the following to my
+<code class="language-plaintext highlighter-rouge">Caddyfile</code>, above the <code class="language-plaintext highlighter-rouge">webdav</code> directive:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>handle /radicale/* {
+
+    uri strip_prefix /radicale
+
+    reverse_proxy 127.0.0.1:5454 {
+        header_up X-Script-Name /radicale
+    }
+
+}
+</code></pre></div></div>
+
+<p>Now I could point the <a href="https://www.davx5.com/">DAVx5</a> app on my phone to
+<code class="language-plaintext highlighter-rouge">hostname.com/radicale</code> and boom, contact and calendar syncing was within reach.
+I <em>did</em> have a lot of problems getting DAVx5 working properly, but those were
+more to do with Android than self-hosting, and I eventually worked through them.</p>
+
+<h2 id="passwords">Passwords</h2>
+
+<p>At this point I considered that the only thing I was still really using
+Nextcloud for was password management, a la Lastpass or 1Password. I have a lot
+of gripes with Nextcloud’s password manager, in addition to my aforementioned
+grips with Nextcloud generally, so I thought it was worth seeing if some DAV or
+another could be the final nail in Nextcloud’s coffin.</p>
+
+<p>A bit of searching around led me to <a href="https://subdavis.com/Tusk/">Tusk</a>, a chrome
+extension which allows the chrome browser to fetch a
+<a href="https://keepassxc.org/">KeePassXC</a> database from a WebDAV server, decode it,
+and autofill it into a website. Basically perfect. I had only to export my
+passwords from Nextcloud as a CSV, import them into a fresh KDBX file using the
+KeePassXC GUI, place the file in my WebDAV folder, and point Tusk at that.</p>
+
+<p>I found the whole experience of using Tusk to be extremely pleasant. Everything
+is very well labeled and described, and there’s appropriate warnings and such in
+places where someone might commit a security crime (e.g. using the same password
+for WebDAV and their KDBX file).</p>
+
+<p>My one gripe is that it seems to be very slow to unlock the file in practice. I
+don’t <em>think</em> this has to do with my server, as Joplin is quite responsive, so
+it could instead have to do with my KDBX file’s decryption difficulty setting.
+Perhaps Tusk is doing the decryption in userspace javascript… I’ll have to
+play with it some.</p>
+
+<p>But it’s a small price to be able to turn off Nextcloud completely, which I have
+now done. I can sleep easier at night now, knowing there’s not some PHP
+equivalent to Log4j which is going to bite me in the ass one day while I’m on
+vacation.</p>
