@@ -4,8 +4,188 @@
   <link href="https://blog.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://blog.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2021-12-31T00:00:00+00:00</updated>
+  <updated>2022-01-01T00:00:00+00:00</updated>
   <id>https://blog.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>DAV is All You Need</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2022-01-01T00:00:00+00:00</published>
+    <updated>2022-01-01T00:00:00+00:00</updated>
+    <link href="https://blog.cryptic.io/brian-picciano-dav-is-all-you-need/"/>
+    <link rel="alternate" href="https://blog.cryptic.io/brian-picciano-dav-is-all-you-need/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2022/01/01/dav-is-all-you-need.html</id>
+        <link href="https://blog.mediocregopher.com/2022/01/01/dav-is-all-you-need.html"/>
+        <title>DAV is All You Need</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2022-01-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://blog.cryptic.io/brian-picciano-dav-is-all-you-need/</id>
+    <content type="html">
+        &lt;p&gt;For some time now I’ve been trying to find an alternative solution to Google
+Keep for shared note taking. The motivation for this change was two-fold:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Google sucks, and I’m trying to get their products out of my life in favor of
+self-hosted options.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Google Keep &lt;em&gt;really&lt;&#x2F;em&gt; sucks. Seriously, it can barely load on my Chromebook
+because of whatever bloated ass web framework they’re using for it. It’s just
+a note taking app!&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;So this weekend I buckled down and actually made the switch. The first step was
+to find something to switch &lt;em&gt;to&lt;&#x2F;em&gt;, however, which ended up being not trivial.
+There’s a million different options in this space, but surprisingly few which
+could fulfill the exact niche we need in our household:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Fully open-source and open protocol. If it’s not open it’s not worth the
+bother of switching, cause we’ll just have to do it all again once whatever
+product we switch to gets acqui-hired by a food delivery app.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Self-hosted using a &lt;em&gt;simple&lt;&#x2F;em&gt; server-side component. I’m talking something that
+listens on a public port and saves data to a file on disk, and &lt;em&gt;that’s it&lt;&#x2F;em&gt;.
+No database processes, no message queues, no bullshit. We’re not serving a
+million users here, there’s no reason to broaden the attack surface
+unnecessarily.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Multi-platform support, including mobile. Our primary use-case here is our
+grocery list, which needs to be accessible by everyone everywhere.&lt;&#x2F;p&gt;
+  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;I’ve already got a Nextcloud instance running at home, and there is certainly a
+notes extension for it, so that could have been an option here. But Nextcloud
+very much does not fall into the second point above: it’s not simple. It’s a
+giant PHP app that uses Postgres as a backend, has its own authentication and
+session system, and has a plugin system. Frankly, it was easily the biggest
+security hole on the entire server, and I wasn’t eager to add usage to it.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Happily, I found another solution.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;webdav&quot;&gt;WebDAV&lt;&#x2F;h2&gt;
+
+&lt;p&gt;There’s a project called &lt;a href=&quot;https:&#x2F;&#x2F;joplinapp.org&#x2F;&quot;&gt;Joplin&lt;&#x2F;a&gt; which implements a
+markdown-based notes system with clients for Android, iPhone, Linux, Mac, and
+Windows. Somewhat interestingly there is &lt;em&gt;not&lt;&#x2F;em&gt; a web client for it, but on
+further reflection I don’t think that’s a big deal… no bloated javascript
+frameworks to worry about at least.&lt;&#x2F;p&gt;
+
+&lt;p&gt;In addition to their own cloud backend, Joplin supports a number of others, with
+the most interesting being WebDAV. WebDAV is an XML-based extension to HTTP
+which allows for basic write operations on the server-side, and which uses
+HTTP’s basic auth for authentication. You can interact with it using curl if you
+like, it really can’t get simpler.&lt;&#x2F;p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;caddyserver.com&#x2F;&quot;&gt;Caddy&lt;&#x2F;a&gt; is the server I use to handle all incoming
+HTTP requests to my server, and luckily there’s a semi-official
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mholt&#x2F;caddy-webdav&quot;&gt;WebDAV&lt;&#x2F;a&gt; plugin which adds WebDAV
+support. With that compiled in, the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Caddyfile&lt;&#x2F;code&gt; configuration is nothing more
+than:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;hostname.com {
+
+    route {
+
+        basicauth {
+            sharedUser sharedPassword
+        }
+
+
+        webdav {
+            root &#x2F;data&#x2F;webdav
+        }
+
+    }
+
+}
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;With that in place, any Joplin client can be pointed at &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;hostname.com&lt;&#x2F;code&gt; using the
+shared username&#x2F;assword, and all data is stored directly to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&#x2F;data&#x2F;webdav&lt;&#x2F;code&gt; by
+Caddy. Easy-peasy.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;carddavcaldav&quot;&gt;CardDAV&#x2F;CalDAV&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Where WebDAV is an extension of HTTP to allow for remotely modifying files
+genearlly, CardDAV and CalDAV are extensions of WebDAV for managing remote
+stores of contacts and calendar events, respectively. At least, that’s my
+understanding.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Nextcloud has its own Web&#x2F;Card&#x2F;CalDAV service, and that’s what I had been, up
+till this point, using for syncing my contacts and calendar from my phone. But
+now that I was setting up a separate WebDAV endpoint, I figured it’d be worth
+setting up a separate Card&#x2F;CalDAV service and get that much closer to getting
+off Nextcloud entirely.&lt;&#x2F;p&gt;
+
+&lt;p&gt;There is, as far as I know, no Card or CalDAV extension for Caddy, so I’d still
+need a new service running. I came across
+&lt;a href=&quot;https:&#x2F;&#x2F;radicale.org&#x2F;v3.html&quot;&gt;radicale&lt;&#x2F;a&gt;, which fits the bill nicely. It’s a
+simple CalDAV and CardDAV server which saves directly to disk, much like the
+Caddy WebDAV plugin. With that running, I needed only to add the following to my
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Caddyfile&lt;&#x2F;code&gt;, above the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;webdav&lt;&#x2F;code&gt; directive:&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;handle &#x2F;radicale&#x2F;* {
+
+    uri strip_prefix &#x2F;radicale
+
+    reverse_proxy 127.0.0.1:5454 {
+        header_up X-Script-Name &#x2F;radicale
+    }
+
+}
+&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;&lt;&#x2F;div&gt;
+
+&lt;p&gt;Now I could point the &lt;a href=&quot;https:&#x2F;&#x2F;www.davx5.com&#x2F;&quot;&gt;DAVx5&lt;&#x2F;a&gt; app on my phone to
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;hostname.com&#x2F;radicale&lt;&#x2F;code&gt; and boom, contact and calendar syncing was within reach.
+I &lt;em&gt;did&lt;&#x2F;em&gt; have a lot of problems getting DAVx5 working properly, but those were
+more to do with Android than self-hosting, and I eventually worked through them.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;passwords&quot;&gt;Passwords&lt;&#x2F;h2&gt;
+
+&lt;p&gt;At this point I considered that the only thing I was still really using
+Nextcloud for was password management, a la Lastpass or 1Password. I have a lot
+of gripes with Nextcloud’s password manager, in addition to my aforementioned
+grips with Nextcloud generally, so I thought it was worth seeing if some DAV or
+another could be the final nail in Nextcloud’s coffin.&lt;&#x2F;p&gt;
+
+&lt;p&gt;A bit of searching around led me to &lt;a href=&quot;https:&#x2F;&#x2F;subdavis.com&#x2F;Tusk&#x2F;&quot;&gt;Tusk&lt;&#x2F;a&gt;, a chrome
+extension which allows the chrome browser to fetch a
+&lt;a href=&quot;https:&#x2F;&#x2F;keepassxc.org&#x2F;&quot;&gt;KeePassXC&lt;&#x2F;a&gt; database from a WebDAV server, decode it,
+and autofill it into a website. Basically perfect. I had only to export my
+passwords from Nextcloud as a CSV, import them into a fresh KDBX file using the
+KeePassXC GUI, place the file in my WebDAV folder, and point Tusk at that.&lt;&#x2F;p&gt;
+
+&lt;p&gt;I found the whole experience of using Tusk to be extremely pleasant. Everything
+is very well labeled and described, and there’s appropriate warnings and such in
+places where someone might commit a security crime (e.g. using the same password
+for WebDAV and their KDBX file).&lt;&#x2F;p&gt;
+
+&lt;p&gt;My one gripe is that it seems to be very slow to unlock the file in practice. I
+don’t &lt;em&gt;think&lt;&#x2F;em&gt; this has to do with my server, as Joplin is quite responsive, so
+it could instead have to do with my KDBX file’s decryption difficulty setting.
+Perhaps Tusk is doing the decryption in userspace javascript… I’ll have to
+play with it some.&lt;&#x2F;p&gt;
+
+&lt;p&gt;But it’s a small price to be able to turn off Nextcloud completely, which I have
+now done. I can sleep easier at night now, knowing there’s not some PHP
+equivalent to Log4j which is going to bite me in the ass one day while I’m on
+vacation.&lt;&#x2F;p&gt;
+      
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Ginger: It’s Alive!</title>
         <author>
