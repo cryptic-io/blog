@@ -1,19 +1,19 @@
 # The URL the site will be built for
-base_url = "https://blog.cryptic.io"
+base_url = "https://news.cryptic.io"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
 theme = "zola-pickles"
 
-title = "Cryptic – Blog"
+title = "Cryptic News"
 
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = true
+#highlight_code = true
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
+#build_search_index = true
 
 # Build RSS feed Using atom https://nullprogram.com/blog/2013/09/23/
 generate_feed = true
