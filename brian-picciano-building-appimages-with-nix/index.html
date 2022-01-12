@@ -7,27 +7,27 @@
         <!-- Enable responsiveness on mobile devices-->
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
 
-        <title>Building AppImages with Nix | Cryptic – Blog</title>
-<meta content="Building AppImages with Nix | Cryptic – Blog" property="og:title"/><meta content="Building AppImages with Nix | Cryptic – Blog" name="twitter:title"/>
+        <title>Building AppImages with Nix | Cryptic News</title>
+<meta content="Building AppImages with Nix | Cryptic News" property="og:title"/><meta content="Building AppImages with Nix | Cryptic News" name="twitter:title"/>
 
         
 
-        <meta property="og:site_name" content="Cryptic – Blog" />
-        <meta property="og:url" content="https:&#x2F;&#x2F;blog.cryptic.io" />
+        <meta property="og:site_name" content="Cryptic News" />
+        <meta property="og:url" content="https:&#x2F;&#x2F;news.cryptic.io" />
 
         
 
 
         <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-        <link rel="stylesheet" href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;base.css" />
+        <link rel="stylesheet" href="https://news.cryptic.io/base.css" />
         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
-        <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;fontawesome&#x2F;fontawesome.css" rel="stylesheet">
-        <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;fontawesome&#x2F;brands.css" rel="stylesheet">
-        <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;fontawesome&#x2F;solid.css" rel="stylesheet">
+        <link href="https://news.cryptic.io/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="https://news.cryptic.io/fontawesome/brands.css" rel="stylesheet">
+        <link href="https://news.cryptic.io/fontawesome/solid.css" rel="stylesheet">
 
-        <link rel='icon' type='image/x-icon' href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;favicon.ico" />
+        <link rel='icon' type='image/svg+xml' href="https://news.cryptic.io/logo.svg" />
 
-        <link rel="alternate" type="application/atom+xml" title="Cryptic – Blog" href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;atom.xml">
+        <link rel="alternate" type="application/atom+xml" title="Cryptic News" href="https://news.cryptic.io/atom.xml">
 
         
 
@@ -35,7 +35,16 @@
     <body>
         <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
         <header class="l-header">
-            <h1 class="c-title p-title"><a href="https:&#x2F;&#x2F;blog.cryptic.io" class="p-title__link">Cryptic – Blog</a></h1>
+
+            <h1 class="c-title p-title">
+              <a href="https:&#x2F;&#x2F;news.cryptic.io" class="p-title__link">
+                <img src="https://news.cryptic.io/logo.svg"
+                     class="logo"
+                     alt="Cryptic Logo" />
+                <span>Cryptic News</span>
+              </a>
+            </h1>
+
             </header>
 
         <main id="main" class="l-main">
@@ -49,273 +58,22 @@
         2021-09-22
       </time>
       by Brian Picciano
-       - (9 min read)
+       - (0 min read)
     </div>
   </div>
 </header>
 
 <section class="p-article__body" id="js-article">
-  <p>It’s been a bit since I’ve written an update on the cryptic nebula project,
-almost 5 months (since <a href="/2021/04/22/composing-processes-into-a-static-binary-with-nix.html">this post</a>, which wasn’t officially part of the
-blog series but whatever). Since then it’s switched names to “cryptic-net”, and
-that we would likely use <a href="https://min.io/">MinIO</a> as our network storage
-service, but neither of those is the most interesting update.</p>
-
-<p>The project had been stalled because of a lack of a build system which could
-fulfill the following requirements:</p>
-
-<ul>
-  <li>
-    <p>Network configuration (static IP, VPN certificates) of individual hosts is
-baked into the binary they run.</p>
-  </li>
-  <li>
-    <p>Binaries are completely static; no external dependencies need to exist on the
-host in order to run them.</p>
-  </li>
-  <li>
-    <p>Each binary runs a composition of multiple sub-services, each being a separate
-sub-process, and all of them having been configured to work together (with
-some possible glue code on our side) to provide the features we want.</p>
-  </li>
-  <li>
-    <p>The builder itself should be deterministic; no matter where it runs it should
-produce the same binary given the same input parameters.</p>
-  </li>
-</ul>
-
-<p>Lacking such a build system we’re not able to distribute cryptic-net in a way
-which “just works”; it would require some kind of configuration, or some kind of
-runtime environment to be set up, both of which would be a pain for users. And
-lacking a definite build system makes it difficult to move forward on any other
-aspect of a project, as it’s not clear what may need to be redone in the future
-when the build system is decided upon.</p>
-
-<h2 id="why-not-nix-bundle">Why not nix-bundle?</h2>
-
-<p>My usage of <a href="https://github.com/matthewbauer/nix-bundle">nix-bundle</a> in a <a href="/2021/04/22/composing-processes-into-a-static-binary-with-nix.html">previous post</a> was an
-attempt at fulfilling these requirements. Nix in general does very well in
-fulfilling all but the second requirement, and nix-bundle was supposed to
-fulfill even that by packaging a nix derivation into a static binary.</p>
-
-<p>And all of this it did! Except that the mechanism of nix-bundle is a bit odd.
-The process of a nix-bundle’d binary jails itself within a chroot, which it then
-uses to fake the <code class="language-plaintext highlighter-rouge">/nix/store</code> path which nix built binaries expect to exist.</p>
-
-<p>This might work in a lot of cases, but it did not work in ours. For one, <a href="https://github.com/matthewbauer/nix-bundle/issues/78">nebula
-can’t create its network interface when run from inside
-nix-bundle’s chroot</a>. For another, being run in a chroot means
-there’s going to be strange restrictions on what our binary is able to do and
-not.</p>
-
-<h2 id="appimage">AppImage</h2>
-
-<p>What we really needed was an <a href="https://appimage.org/">AppImage</a>. AppImages are static binaries
-which can bundle complex applications, even those which don’t expect to be
-bundled into single binaries. In this way the end result is the same as
-nix-bundle, but the mechanism AppImage uses is different and places far fewer
-restrictions on what we can and can’t do with our program.</p>
-
-<h2 id="building-sub-services-statically-with-nix">Building Sub-Services Statically with Nix</h2>
-
-<p>It’s probably possible to use nix to generate an AppImage which has the
-<code class="language-plaintext highlighter-rouge">/nix/store</code> built into it, similar to what nix-bundle does, and therefore not
-worry about whether the binaries it’s bundling are static or not. But if your
-services are written in sane languages it’s not that difficult to build them
-statically and dodge the issue.</p>
-
-<p>For example, here is how you build a go binary statically:</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{
-    buildGoModule,
-    fetchFromGitHub,
-}:
-    buildGoModule rec {
-        pname = "nebula";
-        version = "1.4.0";
-
-        src = fetchFromGitHub {
-            owner = "slackhq";
-            repo = pname;
-            rev = "v${version}";
-            sha256 = "lu2/rSB9cFD7VUiK+niuqCX9CI2x+k4Pi+U5yksETSU=";
-        };
-
-        vendorSha256 = "p1inJ9+NAb2d81cn+y+ofhxFz9ObUiLgj+9cACa6Jqg=";
-
-        doCheck = false;
-
-        subPackages = [ "cmd/nebula" "cmd/nebula-cert" ];
-
-        CGO_ENABLED=0;
-        tags = [ "netgo" ];
-        ldflags = [
-            "-X main.Build=${version}"
-            "-w"
-            "-extldflags=-static"
-        ];
-    };
-</code></pre></div></div>
-
-<p>And here’s how to statically build a C binary:</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{
-    stdenv,
-    glibcStatic, # e.g. pkgs.glibc.static
-}:
-    stdenv.mkDerivation rec {
-        pname = "dnsmasq";
-        version = "2.85";
-
-        src = builtins.fetchurl {
-          url = "https://www.thekelleys.org.uk/dnsmasq/${pname}-${version}.tar.xz";
-          sha256 = "sha256-rZjTgD32h+W5OAgPPSXGKP5ByHh1LQP7xhmXh/7jEvo=";
-        };
-
-        nativeBuildInputs = [ glibcStatic ];
-
-        makeFlags = [
-            "LDFLAGS=-static"
-            "DESTDIR="
-            "BINDIR=$(out)/bin"
-            "MANDIR=$(out)/man"
-            "LOCALEDIR=$(out)/share/locale"
-        ];
-    };
-</code></pre></div></div>
-
-<p>The derivations created by either of these expressions can be plugged right into
-the <code class="language-plaintext highlighter-rouge">pkgs.buildEnv</code> used to create the AppDir (see AppDir section below).</p>
-
-<h2 id="process-manager">Process Manager</h2>
-
-<p>An important piece of the puzzle for getting cryptic-net into an AppImage was a
-process manager. We need something which can run multiple service processes
-simultaneously, restart processes which exit unexpectedly, gracefully handle
-shutting down all those processes, and coalesce the logs of all processes into a
-single stream.</p>
-
-<p>There are quite a few process managers out there which could fit the bill, but
-finding any which could be statically compiled ended up not being an easy task.
-In the end I decided to see how long it would take me to implement such a
-program in go, and hope it would be less time than it would take to get
-<code class="language-plaintext highlighter-rouge">circus</code>, a python program, bundled into the AppImage.</p>
-
-<p>2 hours later, <a href="https://github.com/cryptic-io/pmux">pmux</a> was born! Check it out. It’s a go program so
-building it looks pretty similar to the nebula builder above, so I won’t repeat
-it. However I will show the configuration we’re using for it within the
-AppImage, to show how it ties all the processes together:</p>
-
-<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">processes</span><span class="pi">:</span>
-    <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">nebula</span>
-      <span class="na">cmd</span><span class="pi">:</span> <span class="s">bin/nebula</span>
-      <span class="na">args</span><span class="pi">:</span>
-        <span class="pi">-</span> <span class="s2">"</span><span class="s">-config"</span>
-        <span class="pi">-</span> <span class="s">etc/nebula/nebula.yml</span>
-
-    <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">dnsmasq</span>
-      <span class="na">cmd</span><span class="pi">:</span> <span class="s">bin/dnsmasq</span>
-      <span class="na">args</span><span class="pi">:</span>
-        <span class="pi">-</span> <span class="s2">"</span><span class="s">-d"</span>
-        <span class="pi">-</span> <span class="s2">"</span><span class="s">-C"</span>
-        <span class="pi">-</span> <span class="s">${dnsmasq}/etc/dnsmasq/dnsmasq.conf</span>
-</code></pre></div></div>
-
-<h2 id="appdir---appimage">AppDir -&gt; AppImage</h2>
-
-<p>Generating an AppImage requires an AppDir. An AppDir is a directory which
-contains all files required by a program, rooted to the AppDir. For example, if
-the program expects a file to be at <code class="language-plaintext highlighter-rouge">/etc/some/conf</code>, then that file should be
-places in the AppDir at <code class="language-plaintext highlighter-rouge">&lt;AppDir-path&gt;/etc/some/conf</code>.</p>
-
-<p><a href="https://docs.appimage.org/packaging-guide/manual.html#ref-manual">These docs</a>
-were very helpful for me in figuring out how to construct the AppDir. I then
-used the <code class="language-plaintext highlighter-rouge">pkgs.buildEnv</code> utility to create an AppDir derivation containing
-everything cryptic-net needs to run:</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    appDir = pkgs.buildEnv {
-        name = "cryptic-net-AppDir";
-        paths = [
-
-            # real directory containing non-built files, e.g. the pmux config
-            ./AppDir
-
-            # static binary derivations shown previously
-            nebula
-            dnsmasq
-            pmux
-        ];
-    };
-</code></pre></div></div>
-
-<p>Once the AppDir is built one needs to use <code class="language-plaintext highlighter-rouge">appimagetool</code> to turn it into an
-AppImage. There is an <code class="language-plaintext highlighter-rouge">appimagetool</code> build in the standard nixpkgs, but
-unfortunately it doesn’t seem to actually work…</p>
-
-<p>Luckily nix-bundle is working on AppImage support, and includes a custom build
-of <code class="language-plaintext highlighter-rouge">appimagetool</code> which does work!</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{
-    fetchFromGitHub,
-    callPackage,
-}: let
-    src = fetchFromGitHub {
-        owner = "matthewbauer";
-        repo = "nix-bundle";
-        rev = "223f4ffc4179aa318c34dc873a08cb00090db829";
-        sha256 = "0pqpx9vnjk9h24h9qlv4la76lh5ykljch6g487b26r1r2s9zg7kh";
-    };
-in
-    callPackage "${src}/appimagetool.nix" {}
-</code></pre></div></div>
-
-<p>Using <code class="language-plaintext highlighter-rouge">callPackage</code> on this expression will give you a functional <code class="language-plaintext highlighter-rouge">appimagetool</code>
-derivation. From there’s it’s a simple matter of writing a derivation which
-generates the AppImage from a created AppDir:</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{
-    appDir,
-    appimagetool,
-}:
-    pkgs.stdenv.mkDerivation {
-        name = "cryptic-net-AppImage";
-
-        src = appDir;
-        buildInputs = [ appimagetool ];
-        ARCH = "x86_64"; # required by appimagetool
-
-        builder = builtins.toFile "build.sh" ''
-            source $stdenv/setup
-            cp -rL "$src" buildAppDir
-            chmod +w buildAppDir -R
-            mkdir $out
-
-            appimagetool cryptic-net "$out/cryptic-net-bin"
-        '';
-    }
-</code></pre></div></div>
-
-<p>Running that derivation deterministically spits out a binary at
-<code class="language-plaintext highlighter-rouge">result/cryptic-net-bin</code> which can be executed and run immediately, on any
-system using the <code class="language-plaintext highlighter-rouge">x86_46</code> CPU architecture.</p>
-
-<h2 id="fin">Fin</h2>
-
-<p>I’m extremely hyped to now have the ability to generate binaries for cryptic-net
-that people can <em>just run</em>, without them worrying about which sub-services that
-binary is running under-the-hood. From a usability perspective it’s way nicer
-than having to tell people to “install docker” or “install nix”, and from a dev
-perspective we have a really solid foundation on which to build a quite complex
-application.</p>
+  
 </section>
 <footer>
   <nav class="c-pagination p-pagination">
     <div class="c-pagination__ctrl">
       <div class="c-pagination__newer">
-        <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-dog-money&#x2F;">DOG! MONEY!</a>
+        <a href="https:&#x2F;&#x2F;news.cryptic.io&#x2F;brian-picciano-dog-money&#x2F;">DOG! MONEY!</a>
       </div>
       <div class="c-pagination__older">
-        <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-the-syntax-of-ginger&#x2F;">The Syntax of Ginger</a>
+        <a href="https:&#x2F;&#x2F;news.cryptic.io&#x2F;brian-picciano-the-syntax-of-ginger&#x2F;">The Syntax of Ginger</a>
       </div>
     </div>
   </nav>
@@ -333,4 +91,3 @@ application.</p>
       
     </body>
 </html>
-            

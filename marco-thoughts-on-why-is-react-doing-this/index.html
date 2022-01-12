@@ -7,27 +7,27 @@
         <!-- Enable responsiveness on mobile devices-->
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
 
-        <title>Thoughts on &quot;Why is React doing this?&quot; | Cryptic – Blog</title>
-<meta content="Thoughts on &quot;Why is React doing this?&quot; | Cryptic – Blog" property="og:title"/><meta content="Thoughts on &quot;Why is React doing this?&quot; | Cryptic – Blog" name="twitter:title"/>
+        <title>Thoughts on &quot;Why is React doing this?&quot; | Cryptic News</title>
+<meta content="Thoughts on &quot;Why is React doing this?&quot; | Cryptic News" property="og:title"/><meta content="Thoughts on &quot;Why is React doing this?&quot; | Cryptic News" name="twitter:title"/>
 
         
 
-        <meta property="og:site_name" content="Cryptic – Blog" />
-        <meta property="og:url" content="https:&#x2F;&#x2F;blog.cryptic.io" />
+        <meta property="og:site_name" content="Cryptic News" />
+        <meta property="og:url" content="https:&#x2F;&#x2F;news.cryptic.io" />
 
         
 
 
         <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-        <link rel="stylesheet" href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;base.css" />
+        <link rel="stylesheet" href="https://news.cryptic.io/base.css" />
         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
-        <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;fontawesome&#x2F;fontawesome.css" rel="stylesheet">
-        <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;fontawesome&#x2F;brands.css" rel="stylesheet">
-        <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;fontawesome&#x2F;solid.css" rel="stylesheet">
+        <link href="https://news.cryptic.io/fontawesome/fontawesome.css" rel="stylesheet">
+        <link href="https://news.cryptic.io/fontawesome/brands.css" rel="stylesheet">
+        <link href="https://news.cryptic.io/fontawesome/solid.css" rel="stylesheet">
 
-        <link rel='icon' type='image/x-icon' href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;favicon.ico" />
+        <link rel='icon' type='image/svg+xml' href="https://news.cryptic.io/logo.svg" />
 
-        <link rel="alternate" type="application/atom+xml" title="Cryptic – Blog" href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;atom.xml">
+        <link rel="alternate" type="application/atom+xml" title="Cryptic News" href="https://news.cryptic.io/atom.xml">
 
         
 
@@ -35,7 +35,16 @@
     <body>
         <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
         <header class="l-header">
-            <h1 class="c-title p-title"><a href="https:&#x2F;&#x2F;blog.cryptic.io" class="p-title__link">Cryptic – Blog</a></h1>
+
+            <h1 class="c-title p-title">
+              <a href="https:&#x2F;&#x2F;news.cryptic.io" class="p-title__link">
+                <img src="https://news.cryptic.io/logo.svg"
+                     class="logo"
+                     alt="Cryptic Logo" />
+                <span>Cryptic News</span>
+              </a>
+            </h1>
+
             </header>
 
         <main id="main" class="l-main">
@@ -49,49 +58,22 @@
         2019-09-06
       </time>
       by Marco
-       - (5 min read)
+       - (0 min read)
     </div>
   </div>
 </header>
 
 <section class="p-article__body" id="js-article">
-  <h1 id="response-to-why-react">Response to <a href="https://gist.github.com/sebmarkbage/a5ef436427437a98408672108df01919">Why React?</a></h1>
-<p>Some quick thoughts I had after reading the <a href="https://gist.github.com/sebmarkbage/a5ef436427437a98408672108df01919">Why React?</a> gist.</p>
-<p>Disclaimer: <em>I want to be critical with React. I don't disagree that it has done some amazing things</em></p>
-<h2 id="compiled-output-results-in-smaller-apps">&quot;Compiled output results in smaller apps&quot;</h2>
-<blockquote>
-<p>E.g. Svelte apps start smaller but the compiler output is 3-4x larger per component than the equivalent VDOM approach.</p>
-</blockquote>
-<p>This may be true currently, but that doesn't mean it will always be true of compiled-to frameworks. A theoretical compiler can produce a component that uses a shared library for all components. If a user doesn't use all the features of a framework, then a compiler could remove the unused features from the output. Which is something that could not happen with a framework that relies on a full runtime.</p>
-<p>Note: I'm not advocating for a compiled-to approach, I just think this point was misleading</p>
-<h2 id="dom-is-stateful-imperative-so-we-should-embrace-it">&quot;DOM is stateful/imperative, so we should embrace it&quot;</h2>
-<p>I agree with OP here. Most use-cases would not benefit from an imperative UI api.</p>
-<h2 id="react-leaks-implementation-details-through-usememo">&quot;React leaks implementation details through useMemo&quot;</h2>
-<p>A common problem to bite new comers is when they pass a closure to a component, and that closure gets changed every time which causes their component to re-render every time. <code>useMemo</code> can fix this issue, but it offloads a bit of work to the developer.</p>
-<p>In the above context, it's an implementation detail. I'm not saying it's the wrong or right trade off, I'm only saying that the reason you have to reach for <code>useMemo</code> when passing around closures is because of how React is implemented. So the quote is accurate.</p>
-<p>Is that a bad thing? That's where it gets more subjective. I think it is, because these types of things happen very often and, in a big app, you quickly succumb to death by a thousand cuts (one closure causing a component to re-render isn't a big deal, but when you have hundreds of components with various closures it gets hairy).</p>
-<p>The next example OP posts is about setting users in a list.</p>
-<pre style="background-color:#2b303b;">
-<code><span style="color:#bf616a;">setUsers</span><span style="color:#c0c5ce;">([
-  ...</span><span style="color:#bf616a;">users</span><span style="color:#c0c5ce;">.</span><span style="color:#bf616a;">filter</span><span style="color:#c0c5ce;">(user </span><span style="color:#b48ead;">=&gt; </span><span style="color:#bf616a;">user</span><span style="color:#c0c5ce;">.name !== &quot;</span><span style="color:#a3be8c;">Sebastian</span><span style="color:#c0c5ce;">&quot;),
-  { name: &quot;</span><span style="color:#a3be8c;">Sebastian</span><span style="color:#c0c5ce;">&quot; }
-]);
-</span></code></pre>
-<p>If you are happy with that syntax, and the tradeoff of having to use <code>key</code> props whenever you display lists, and relying on React's heuristics to efficiently update the views corresponding to the list, then React is fine. If, however, you are okay with a different syntax you may be interested in another idea I've seen. The basic idea is you keep track of the diffs themselves instead of the old version vs. the new version. Knowing the diffs directly let you know exactly how to update the views directly so you don't have to rely on the <code>key</code> prop, heuristics, and you can efficiently/quickly update the View list. This is similar to how <a href="https://github.com/immerjs/immer">Immer</a> works. <a href="https://docs.rs/futures-signals/0.3.8/futures_signals/tutorial/index.html">Futures Signals</a> also does this to efficiently send updates of a list to consumers (look at <code>SignalVec</code>).</p>
-<h2 id="stale-closures-in-hooks-are-confusing">&quot;Stale closures in Hooks are confusing&quot;</h2>
-<p>I agree with OP's points here. It's important to know where your data is coming from. In the old hook-less style of React, your data was what you got from your props/state and nothing else. With hooks, it's easier to work with stale data that comes in from outside your props. It's a learning curve, but not necessarily bad.</p>
-<p>One thing I find interesting is that the use of hooks moves functional components into becoming more stateful components. I think this is fine, but it loses the pure functional guarantees you had before.</p>
-<p>I haven't yet made up my mind about hooks that interact with the context. (i.e. <code>useSelector</code> or <code>useDispatch</code>) since the context is less structured. i.e. This component's selector function for <code>useSelector</code> relies on the state being <code>X</code>, but <code>X</code> isn't passed in, it's set as the store in redux configuration file somewhere else. Now that the component relies on the shape of the store being <code>X</code> it makes it harder to move out. This may not actually matter in practice, and it may be much more useful to be able to pull arbitrary things out of your store. Hence why I'm currently undecided about it.</p>
-
+  
 </section>
 <footer>
   <nav class="c-pagination p-pagination">
     <div class="c-pagination__ctrl">
       <div class="c-pagination__newer">
-        <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;marco-wasm-is-the-future-of-serverless-terrafirma-serverless-wasm-functions&#x2F;">Wasm is the future of serverless. Terrafirma, serverless wasm functions.</a>
+        <a href="https:&#x2F;&#x2F;news.cryptic.io&#x2F;mechatronicsguy-waves-at-besselonsea&#x2F;">Waves at Bessel-on-Sea</a>
       </div>
       <div class="c-pagination__older">
-        <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;marco-bart-facts&#x2F;">Bart Facts</a>
+        <a href="https:&#x2F;&#x2F;news.cryptic.io&#x2F;marco-bart-facts&#x2F;">Bart Facts</a>
       </div>
     </div>
   </nav>
@@ -109,4 +91,3 @@
       
     </body>
 </html>
-            

@@ -8,27 +8,27 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
 
         
-                <title>Cryptic – Blog</title>
+                <title>Cryptic News</title>
             
-        <meta property="og:title" content="Cryptic – Blog" />
-        <meta name="twitter:title" content="Cryptic – Blog" />
+        <meta property="og:title" content="Cryptic News" />
+        <meta name="twitter:title" content="Cryptic News" />
 
         
 
-        <meta property="og:site_name" content="Cryptic – Blog" />
-        <meta property="og:url" content="https:&#x2F;&#x2F;blog.cryptic.io" />
+        <meta property="og:site_name" content="Cryptic News" />
+        <meta property="og:url" content="https:&#x2F;&#x2F;news.cryptic.io" />
 
         
 
 
         
-  <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;fonts.css" rel="stylesheet"/>
-  <link href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;main.css" rel="stylesheet"/>
+  <link href="https://news.cryptic.io/fonts.css" rel="stylesheet"/>
+  <link href="https://news.cryptic.io/main.css" rel="stylesheet"/>
 
 
-        <link rel='icon' type='image/x-icon' href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;favicon.ico" />
+        <link rel='icon' type='image/svg+xml' href="https://news.cryptic.io/logo.svg" />
 
-        <link rel="alternate" type="application/atom+xml" title="Cryptic – Blog" href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;atom.xml">
+        <link rel="alternate" type="application/atom+xml" title="Cryptic News" href="https://news.cryptic.io/atom.xml">
 
         
 
@@ -36,314 +36,728 @@
     <body>
         <a href="#main" class="skip-link p-screen-reader-text">Skip to content</a>
         <header class="l-header">
-            <h1 class="c-title p-title"><a href="https:&#x2F;&#x2F;blog.cryptic.io" class="p-title__link">Cryptic – Blog</a></h1>
+
+            <h1 class="c-title p-title">
+              <a href="https:&#x2F;&#x2F;news.cryptic.io" class="p-title__link">
+                <img src="https://news.cryptic.io/logo.svg"
+                     class="logo"
+                     alt="Cryptic Logo" />
+                <span>Cryptic News</span>
+              </a>
+            </h1>
+
             </header>
 
         <main id="main" class="l-main">
+            <table class="main-table">
+
             
-            <article class="c-article p-list-article">
-                
-    <header>
-        <h2 class="c-title c-article__title"><a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-setting-up-maddy-on-a-vps&#x2F;">Setting Up maddy On A VPS
-</a></h2>
-        <p class="c-article__meta">
-            <time datetime="2021-07-06">
-                2021-07-06
-            </time>
-            by Brian Picciano
-             - (5 min read)
-        </p>
-    </header>
 
-                <div class="c-article__summary">
-                    
-                    In the previous post I left off with being blocked by my ISP from sending
-outbound emails on port 25, effectively forcing me to set up maddy on a
-virtual private server (VPS) somewhere else.
-After some research I chose Vultr as my VPS of choice. They apparently
-don’t block you fr…
-                </div>
-                <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-setting-up-maddy-on-a-vps&#x2F;" class="c-article__btn p-list-article__btn">Read more...</a>
-            </article>
+              <tr>
+
+                <td class="time">
+                  <time datetime="2021-11-08">
+                    2021-11-08
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://blog.mediocregopher.com/2021/11/08/managing-a-home-server-with-nix.html" target="_blank">
+                    Managing a Home Server With Nix
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Mediocre Blog
+                </td>
+
+              </tr>
+
             
-            <article class="c-article p-list-article">
-                
-    <header>
-        <h2 class="c-title c-article__title"><a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-visualization-7&#x2F;">Visualization 7
-</a></h2>
-        <p class="c-article__meta">
-            <time datetime="2021-07-01">
-                2021-07-01
-            </time>
-            by Brian Picciano
-             - (7 min read)
-        </p>
-    </header>
 
-                <div class="c-article__summary">
-                    
-                    
+              <tr>
 
-function randn(n) {
-    return Math.floor(Math.random() * n);
-}
+                <td class="time">
+                  <time datetime="2021-10-31">
+                    2021-10-31
+                  </time>
+                </td>
 
-const w = 100;
-const h = 60;
+                <td class="title">
+                  <a href="https://blog.mediocregopher.com/2021/10/31/dog-money.html" target="_blank">
+                    DOG! MONEY!
 
-class Canvas {
-  constructor(canvasDOM) {
-    this.dom = canvasDOM;
-    this.ctx = canvasDOM.getContext("2d");
+                  </a>
+                </td>
 
-    // expand canvas element's width to match parent.
-    this.dom.widt…
-                </div>
-                <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-visualization-7&#x2F;" class="c-article__btn p-list-article__btn">Read more...</a>
-            </article>
+                <td class="source">
+                  Mediocre Blog
+                </td>
+
+              </tr>
+
             
-            <article class="c-article p-list-article">
-                
-    <header>
-        <h2 class="c-title c-article__title"><a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-self-hosted-email-with-maddy-a-naive-first-attempt&#x2F;">Self-Hosted Email With maddy: A Naive First Attempt
-</a></h2>
-        <p class="c-article__meta">
-            <time datetime="2021-06-26">
-                2021-06-26
-            </time>
-            by Brian Picciano
-             - (11 min read)
-        </p>
-    </header>
 
-                <div class="c-article__summary">
-                    
-                    For a long time now I’ve wanted to get off gmail and host my own email
-domains. I’ve looked into it a few times, but have been discouraged on multiple
-fronts:
+              <tr>
 
-  
-    Understanding the protocols underlying email isn’t straightforward; it’s an
-old system, there’s a lot of cruft, l…
-                </div>
-                <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-self-hosted-email-with-maddy-a-naive-first-attempt&#x2F;" class="c-article__btn p-list-article__btn">Read more...</a>
-            </article>
+                <td class="time">
+                  <time datetime="2021-09-22">
+                    2021-09-22
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://blog.mediocregopher.com/2021/09/22/building-appimages-with-nix.html" target="_blank">
+                    Building AppImages with Nix
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Mediocre Blog
+                </td>
+
+              </tr>
+
             
-            <article class="c-article p-list-article">
-                
-    <header>
-        <h2 class="c-title c-article__title"><a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-visualization-6&#x2F;">Visualization 6
-</a></h2>
-        <p class="c-article__meta">
-            <time datetime="2021-06-23">
-                2021-06-23
-            </time>
-            by Brian Picciano
-             - (6 min read)
-        </p>
-    </header>
 
-                <div class="c-article__summary">
-                    
-                    
+              <tr>
 
-function randn(n) {
-    return Math.floor(Math.random() * n);
-}
+                <td class="time">
+                  <time datetime="2021-08-26">
+                    2021-08-26
+                  </time>
+                </td>
 
-const w = 100;
-const h = 50;
+                <td class="title">
+                  <a href="https://blog.mediocregopher.com/2021/08/26/the-syntax-of-ginger.html" target="_blank">
+                    The Syntax of Ginger
 
-class Canvas {
-  constructor(canvasDOM) {
-    this.dom = canvasDOM;
-    this.ctx = canvasDOM.getContext("2d");
+                  </a>
+                </td>
 
-    // expand canvas element's width to match parent.
-    this.dom.widt…
-                </div>
-                <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-visualization-6&#x2F;" class="c-article__btn p-list-article__btn">Read more...</a>
-            </article>
+                <td class="source">
+                  Mediocre Blog
+                </td>
+
+              </tr>
+
             
-            <article class="c-article p-list-article">
-                
-    <header>
-        <h2 class="c-title c-article__title"><a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-visualization-5&#x2F;">Visualization 5
-</a></h2>
-        <p class="c-article__meta">
-            <time datetime="2021-05-28">
-                2021-05-28
-            </time>
-            by Brian Picciano
-             - (4 min read)
-        </p>
-    </header>
 
-                <div class="c-article__summary">
-                    
-                    
+              <tr>
 
-function randn(n) {
-    return Math.floor(Math.random() * n);
-}
+                <td class="time">
+                  <time datetime="2021-08-04">
+                    2021-08-04
+                  </time>
+                </td>
 
-const w = 100;
-const h = 50;
+                <td class="title">
+                  <a href="https://blog.mediocregopher.com/2021/08/04/selfhosting-a-blog-mailing-list.html" target="_blank">
+                    Self-Hosting a Blog Mailing List
 
-const maxNewElsPerTick = 10;
-const deathThresh = 10;
+                  </a>
+                </td>
 
-class Canvas {
-  constructor(canvasDOM) {
-    this.dom = canvasDOM;
-    this.ctx = canvasDOM.getContext("2d");
+                <td class="source">
+                  Mediocre Blog
+                </td>
 
-    // expand can…
-                </div>
-                <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-visualization-5&#x2F;" class="c-article__btn p-list-article__btn">Read more...</a>
-            </article>
+              </tr>
+
             
-            <article class="c-article p-list-article">
-                
-    <header>
-        <h2 class="c-title c-article__title"><a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-visualization-4&#x2F;">Visualization 4
-</a></h2>
-        <p class="c-article__meta">
-            <time datetime="2021-05-26">
-                2021-05-26
-            </time>
-            by Brian Picciano
-             - (4 min read)
-        </p>
-    </header>
 
-                <div class="c-article__summary">
-                    
-                    
-This visualization is a conglomeration of ideas from all the previous ones. On
-each tick up to 20 new pixels are generated. The color of each new pixel is
-based on the average color of its neighbors, plus some random drift.
-Each pixel dies after a certain number of ticks, N. A p…
-                </div>
-                <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-visualization-4&#x2F;" class="c-article__btn p-list-article__btn">Read more...</a>
-            </article>
+              <tr>
+
+                <td class="time">
+                  <time datetime="2021-07-21">
+                    2021-07-21
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://apenwarr.ca/log/20201123" target="_blank">
+                      Thoughts you mightn&#x27;t&#x27;a thunk about remote meetings
+
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  apenwarr
+                </td>
+
+              </tr>
+
             
-            <article class="c-article p-list-article">
-                
-    <header>
-        <h2 class="c-title c-article__title"><a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-ripple-v3&#x2F;">Ripple V3
-</a></h2>
-        <p class="c-article__meta">
-            <time datetime="2021-05-11">
-                2021-05-11
-            </time>
-            by Brian Picciano
-             - (7 min read)
-        </p>
-    </header>
 
-                <div class="c-article__summary">
-                    
-                    
-    Movement: Arrow keys or WASD
-    Jump: Space
-    Goal: Jump as many times as possible without touching a ripple!
-    
-    Press Jump To Begin!
+              <tr>
 
-Who can make the muddy water clear?
-Let it be still, and it will gradually become clear.
+                <td class="time">
+                  <time datetime="2021-07-18">
+                    2021-07-18
+                  </time>
+                </td>
 
-Your browser doesn't support canvas. At t…
-                </div>
-                <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-ripple-v3&#x2F;" class="c-article__btn p-list-article__btn">Read more...</a>
-            </article>
+                <td class="title">
+                  <a href="https://blog.mediocregopher.com/2021/07/18/radix-v4.html" target="_blank">
+                    V4 of Radix, a Golang Redis Driver
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Mediocre Blog
+                </td>
+
+              </tr>
+
             
-            <article class="c-article p-list-article">
-                
-    <header>
-        <h2 class="c-title c-article__title"><a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;marco-declarative-dev-environments&#x2F;">Declarative Dev Environments
-</a></h2>
-        <p class="c-article__meta">
-            <time datetime="2021-05-10">
-                2021-05-10
-            </time>
-            by Marco
-             - (13 min read)
-        </p>
-    </header>
 
-                <div class="c-article__summary">
-                    
-                    I don't install development tools globally. I don't have node added to my
-PATH in my ~/.zshrc file, and running cargo outside a project folder
-returns &quot;command not found.&quot; I wipe my computer on every reboot. With the
-exception of four folders (/boot, /nix, /home, and /p…
-                </div>
-                <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;marco-declarative-dev-environments&#x2F;" class="c-article__btn p-list-article__btn">Read more...</a>
-            </article>
-            
-            <article class="c-article p-list-article">
-                
-    <header>
-        <h2 class="c-title c-article__title"><a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-nfts&#x2F;">NFTs
-</a></h2>
-        <p class="c-article__meta">
-            <time datetime="2021-05-02">
-                2021-05-02
-            </time>
-            by Brian Picciano
-             - (20 min read)
-        </p>
-    </header>
+              <tr>
 
-                <div class="c-article__summary">
-                    
-                    NFT stands for “non-fungible token”. The “token” part refers to an NFT being a
-token whose ownership is recorded on a blockchain. Pretty much all
-cryptocurrencies, from bitcoin to your favorite shitcoin, could be called tokens
-in this sense. Each token has exactly one owner, and …
-                </div>
-                <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-nfts&#x2F;" class="c-article__btn p-list-article__btn">Read more...</a>
-            </article>
-            
-            <article class="c-article p-list-article">
-                
-    <header>
-        <h2 class="c-title c-article__title"><a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-loops-in-ginger&#x2F;">Loops in Ginger
-</a></h2>
-        <p class="c-article__meta">
-            <time datetime="2021-04-27">
-                2021-04-27
-            </time>
-            by Brian Picciano
-             - (11 min read)
-        </p>
-    </header>
+                <td class="time">
+                  <time datetime="2021-07-14">
+                    2021-07-14
+                  </time>
+                </td>
 
-                <div class="c-article__summary">
-                    
-                    In previous posts in this series I went over the general idea of the ginger
-programming language, and some of its properties. To recap:
+                <td class="title">
+                  <a href="https://blog.mediocregopher.com/2021/07/14/how-to-secure-a-webapp.html" target="_blank">
+                    How to Secure a Webapp
 
-  
-    Ginger is a programming language whose syntax defines a directed graph, in the
-same way that a LISP language’s syntax defines nested lis…
-                </div>
-                <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;brian-picciano-loops-in-ginger&#x2F;" class="c-article__btn p-list-article__btn">Read more...</a>
-            </article>
+                  </a>
+                </td>
+
+                <td class="source">
+                  Mediocre Blog
+                </td>
+
+              </tr>
+
             
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2021-05-10">
+                    2021-05-10
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://marcopolo.io/code/declarative-dev-environments/" target="_blank">
+                    Declarative Dev Environments
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Partially Functional
+                </td>
+
+              </tr>
+
             
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2021-04-02">
+                    2021-04-02
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://tinkerings.org/2021/04/02/origami-maths-face-graph-of-a-hypercube/" target="_blank">
+                    Origami Maths – Face Graph of a Hypercube
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Tinkerings
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2021-03-24">
+                    2021-03-24
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://marcopolo.io/code/simple-vms/" target="_blank">
+                    Simple Declarative VMs
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Partially Functional
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2021-03-07">
+                    2021-03-07
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://marcopolo.io/code/backups-made-simple/" target="_blank">
+                    Backups made simple
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Partially Functional
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2021-02-01">
+                    2021-02-01
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://marcopolo.io/code/goodbye-bit-rot/" target="_blank">
+                    Goodbye, bit rot
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Partially Functional
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2020-12-29">
+                    2020-12-29
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://apenwarr.ca/log/20201227" target="_blank">
+                      Systems design explains the world: volume 1
+
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  apenwarr
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2020-12-25">
+                    2020-12-25
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://tinkerings.org/2020/12/25/roman-dodecahedrons-part-iv/" target="_blank">
+                    Roman Dodecahedrons – Part IV
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Tinkerings
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2020-12-25">
+                    2020-12-25
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://tinkerings.org/2020/12/25/roman-dodecahedrons-part-iii/" target="_blank">
+                    Roman Dodecahedrons Part III
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Tinkerings
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2020-11-23">
+                    2020-11-23
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://apenwarr.ca/log/20201121" target="_blank">
+                      Can I work for a bad company and still be a good person?
+
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  apenwarr
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2020-07-22">
+                    2020-07-22
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://apenwarr.ca/log/20200708" target="_blank">
+                      IPv4, IPv6, and a sudden change in attitude
+
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  apenwarr
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2020-06-17">
+                    2020-06-17
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://tinkerings.org/2020/06/17/roman-dodecahedrons-part-ii/" target="_blank">
+                    Roman Dodecahedrons Part II
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Tinkerings
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2020-06-17">
+                    2020-06-17
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://tinkerings.org/2020/06/17/roman-dodecahedrons-part-i/" target="_blank">
+                    Roman Dodecahedrons Part I
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Tinkerings
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2020-05-15">
+                    2020-05-15
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://marcopolo.io/code/nix-and-small-containers/" target="_blank">
+                    Nix and small containers with Docker multi-stage builds
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Partially Functional
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2020-04-24">
+                    2020-04-24
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://tinkerings.org/2020/04/24/homemade-pomodoro-timer/" target="_blank">
+                    Homemade Pomodoro timer
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Tinkerings
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2020-04-02">
+                    2020-04-02
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://tinkerings.org/2020/04/02/homemade-masks-w-wire-nosepieces/" target="_blank">
+                    Homemade masks w/ wire nosepieces
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Tinkerings
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2019-12-12">
+                    2019-12-12
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://marcopolo.io/code/from-c-to-rust-to-c/" target="_blank">
+                    From C to Rust to C again. Or: Re-exporting C exports in Rust
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Partially Functional
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2019-11-06">
+                    2019-11-06
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://marcopolo.io/code/terrafirma/" target="_blank">
+                    Wasm is the future of serverless. Terrafirma, serverless wasm functions.
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Partially Functional
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2019-09-21">
+                    2019-09-21
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://tinkerings.org/2019/09/21/waves-at-bessel-on-sea/" target="_blank">
+                    Waves at Bessel-on-Sea
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Tinkerings
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2019-09-06">
+                    2019-09-06
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://marcopolo.io/code/why-react-response/" target="_blank">
+                    Thoughts on &quot;Why is React doing this?&quot;
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Partially Functional
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2019-09-05">
+                    2019-09-05
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://marcopolo.io/code/bart-facts/" target="_blank">
+                    Bart Facts
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Partially Functional
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2019-08-26">
+                    2019-08-26
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://tinkerings.org/2019/08/26/the-crystallographers-watch/" target="_blank">
+                    The Crystallographer’s Watch
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Tinkerings
+                </td>
+
+              </tr>
+
+            
+
+              <tr>
+
+                <td class="time">
+                  <time datetime="2019-08-23">
+                    2019-08-23
+                  </time>
+                </td>
+
+                <td class="title">
+                  <a href="https://marcopolo.io/code/my-recurse-experience/" target="_blank">
+                    My Experience at The Recurse Center
+
+                  </a>
+                </td>
+
+                <td class="source">
+                  Partially Functional
+                </td>
+
+              </tr>
+
+            
+
+            </table>
+
             <nav class="c-pagination p-pagination">
                 <div class="c-pagination__ctrl">
                     <div class="c-pagination__newer">
-                        <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;">Newer</a>
+                        <a href="https:&#x2F;&#x2F;news.cryptic.io&#x2F;">Newer</a>
                     </div>
                     <div class="c-pagination__older">
-                        <a href="https:&#x2F;&#x2F;blog.cryptic.io&#x2F;page&#x2F;3&#x2F;">Older</a>
+                        
                     </div>
                 </div>
-                <span class="c-pagination__count p-pagination__count">Page 2 of 5</span>
             </nav>
         </main>
 
@@ -358,4 +772,3 @@ same way that a LISP language’s syntax defines nested lis…
       
     </body>
 </html>
-            
