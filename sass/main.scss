@@ -18,3 +18,33 @@ h6 {
   font-weight: 300;
   font-family: $Overpass !important;
 }
+
+.l-header {
+  .p-title {
+    .logo {
+        height: 7rem;
+        vertical-align: middle;
+    }
+  }
+}
+
+.main-table {
+
+  width: 100%;
+
+  tr:nth-child(even) {
+      background-color: #F5F5F5;
+  }
+
+  td { border: none; }
+
+  .title { font-size: 1.75rem; }
+
+  .time {
+    font-size: 1.25rem;
+    width: 10rem;
+  }
+
+  .source { font-size: 1.25rem; }
+
+}

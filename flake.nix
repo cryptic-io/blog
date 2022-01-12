@@ -1,5 +1,5 @@
 {
-  description = "blog.cryptic.io";
+  description = "news.cryptic.io";
   # inputs.nixpkgs.url = "github:NixOS/nixpkgs/release-20.09";
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
   inputs.flake-utils.url = "github:numtide/flake-utils";
@@ -13,13 +13,23 @@
         let
           pkgs = nixpkgs.legacyPackages.${system};
           syn-rss-bin = "${syndicate-rss.defaultPackage.${system}}/bin/syndicate-rss";
-          syndicateBlogPosts = pkgs.writeScriptBin "syndicateBlogPosts" ''
-            # Fetch from Marco's Blog
-            ${syn-rss-bin} --in https://marcopolo.io/code/atom.xml --out ./content --lastN 10
 
-            # Fetch from Brian's Blog
-            ${syn-rss-bin} --in https://blog.mediocregopher.com/feed/by_tag/tech.xml --out ./content --lastN 10
-          '';
+          syndicateBlogPosts = pkgs.writeScriptBin "syndicateBlogPosts"
+            (builtins.concatStringsSep "\n"
+              (builtins.map
+                (feed:
+                  ''${syn-rss-bin} \
+                      --in '${feed.url}' \
+                      --out ./content \
+                      --noContent \
+                      --extraFieldValue feedName="${feed.name}" \
+                      ${if feed?author
+                        then ''--author "${feed.author}"''
+                        else ""} \
+                      --lastN 10 \
+                  ''
+                )
+                (import "${self}/feeds.nix")));
         in
         {
           devShell = pkgs.mkShell {

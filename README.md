@@ -1,45 +1,26 @@
 # Setup
+
 Install [Nix](https://nixos.org/) and optionally [direnv](https://direnv.net/).
 
-# I want to contribute
+# Add a blog for syndication
 
-Nice! there are two ways: you can add a blog post here to this repo, or you
-can have your own blog syndicated here.
+Any blog with a compatible RSS or Atom feed can be added to the `feeds.nix`
+file. The full set of steps are:
 
-## Post just for Cryptic
-If you want to just make a blog post for cryptic:
-
-1. Create a Markdown file inside `content/` of the form
-   `content/YOUR_NAME-TITLE.md`.
-2. Add some frontmatter metadata to the start of the markdown file, like so:
-```
-+++
-title = "Your title"
-# Your publish date
-date = 2021-02-01T00:00:00.000Z
-[extra]
-author = "Your name"
-+++
-
-Your post content
-```
-3. Write your post after the closing `+++` marker.
-
-## Syndicate my blog
-
-This is nice if you already have a blog and would like it to cross post to the
-cryptic blog.
-
-1. Create an atom RSS feed for a specific category of posts that you want to
-   syndicate. I syndicate everything from my
+1. Create or find an atom RSS feed for a specific category of posts that you
+   want to syndicate. I syndicate everything from my
    [code](https://marcopolo.io/code/atom.xml) section, and Brian syndicates
    everything from his
    [tech](https://blog.mediocregopher.com/feed/by_tag/tech.xml) section.
+
 2. Validate this feed by going to https://validator.w3.org/feed/. Warnings are
    ok.
-3. Add your blog to the `syndicateBlogPosts` section in `flake.nix`. Follow the
-   examples of Brian and I.
-4. Create a PR, and we'll merge it. After that all updates will happen
+
+3. Add your blog to the `feeds.nix` file. You may have to manually set the
+   `author` field here if the feed doesn't set it itself. Other fields are
+   required.
+
+4. Create a PR, and we'll maybe merge it. After that all updates will happen
    automatically every hour.
 
 # Serve the blog
