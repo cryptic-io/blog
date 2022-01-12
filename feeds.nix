@@ -24,7 +24,22 @@
     url = "https://apenwarr.ca/log/rss.php";
   }
   {
-    name = "Seth's Blog";
-    url = "https://seths.blog/feed/atom/";
+    name = "Jim Nielsen's Blog";
+    author = "Jim Nielsen";
+    url = "https://blog.jim-nielsen.com/feed.xml";
+  }
+  {
+    name = "Vitalik Buterin's Website";
+    author = "Vitalik Buterin";
+    url = "https://vitalik.ca/feed.xml";
+  }
+  {
+    name = "Low Tech Magazine";
+    url = "https://solar.lowtechmagazine.com/feeds/all-en.atom.xml";
+  }
+  {
+    name = "unixsheikh";
+    author = "unixsheikh"; # ???
+    url = "https://unixsheikh.com/feed.rss";
   }
 ]
