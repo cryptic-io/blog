@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-01-13T00:00:00+00:00</updated>
+  <updated>2022-01-15T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The RISC-V experience</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2022-01-15T00:00:00+00:00</published>
+    <updated>2022-01-15T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-the-riscv-experience/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-the-riscv-experience/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2022/01/15/2022-01-15-The-RISC-V-experience.html</id>
+        <link href="https://drewdevault.com/2022/01/15/2022-01-15-The-RISC-V-experience.html"/>
+        <title>The RISC-V experience</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2022-01-15T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-the-riscv-experience/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A warning to business owners and managers, you are a big part of the problem!</title>
         <author>
