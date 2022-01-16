@@ -42,4 +42,13 @@
     author = "unixsheikh"; # ???
     url = "https://unixsheikh.com/feed.rss";
   }
+  {
+    name = "arunkprasad.com";
+    url = "https://arunkprasad.com/atom.xml";
+  }
+  {
+    name = "danluu.com";
+    author = "Dan Luu";
+    url = "https://danluu.com/atom.xml";
+  }
 ]
