@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-01-18T19:00:00+00:00</updated>
+  <updated>2022-01-19T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Help Chile write free software values, privacy, and digital sovereignty into their constitution</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2022-01-19T00:00:00+00:00</published>
+    <updated>2022-01-19T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-help-chile-write-free-software-values-privacy-and-digital-sovereignty-into-their-constitution/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-help-chile-write-free-software-values-privacy-and-digital-sovereignty-into-their-constitution/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2022/01/19/Help-Chile-promote-digital-freedoms.html</id>
+        <link href="https://drewdevault.com/2022/01/19/Help-Chile-promote-digital-freedoms.html"/>
+        <title>Help Chile write free software values, privacy, and digital sovereignty into their constitution</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2022-01-19T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-help-chile-write-free-software-values-privacy-and-digital-sovereignty-into-their-constitution/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Exporting and Parsing Emails for “The iOS App Icon Book”</title>
         <author>
