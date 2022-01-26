@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-01-25T07:53:00+00:00</updated>
+  <updated>2022-01-26T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Soulbound</title>
+        <author>
+            <name>Vitalik Buterin</name>
+        </author>
+    <published>2022-01-26T00:00:00+00:00</published>
+    <updated>2022-01-26T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/vitalik-buterin-soulbound/"/>
+    <link rel="alternate" href="https://news.cryptic.io/vitalik-buterin-soulbound/" type="text/html"/>
+      <source>
+        <id>https://vitalik.ca/general/2022/01/26/soulbound.html</id>
+        <link href="https://vitalik.ca/general/2022/01/26/soulbound.html"/>
+        <title>Soulbound</title>
+        <author>
+            <name>Vitalik Buterin</name>
+        </author>
+        <updated>2022-01-26T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/vitalik-buterin-soulbound/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Bill Walsh and Perfectionism</title>
         <author>
