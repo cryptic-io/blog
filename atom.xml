@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-01-24T07:53:00+00:00</updated>
+  <updated>2022-01-25T07:53:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Bill Walsh and Perfectionism</title>
+        <author>
+            <name>Arun Prasad</name>
+        </author>
+    <published>2022-01-25T07:53:00+00:00</published>
+    <updated>2022-01-25T07:53:00+00:00</updated>
+    <link href="https://news.cryptic.io/arun-prasad-bill-walsh-and-perfectionism/"/>
+    <link rel="alternate" href="https://news.cryptic.io/arun-prasad-bill-walsh-and-perfectionism/" type="text/html"/>
+      <source>
+        <id>https://arunkprasad.com/log/bill-walsh-and-perfectionism/</id>
+        <link href="https://arunkprasad.com/log/bill-walsh-and-perfectionism/"/>
+        <title>Bill Walsh and Perfectionism</title>
+        <author>
+            <name>Arun Prasad</name>
+        </author>
+        <updated>2022-01-25T07:53:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/arun-prasad-bill-walsh-and-perfectionism/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Three Poems from the &lt;cite&gt;Gitanjali&lt;&#x2F;cite&gt;</title>
         <author>
@@ -50,6 +74,30 @@
       </source>
 
     <id>https://news.cryptic.io/arun-prasad-strict-function-parameters-in-python/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Cryptic Filesystem</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+    <published>2022-01-23T00:00:00+00:00</published>
+    <updated>2022-01-23T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/brian-picciano-the-cryptic-filesystem/"/>
+    <link rel="alternate" href="https://news.cryptic.io/brian-picciano-the-cryptic-filesystem/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/2022/01/23/the-cryptic-filesystem.html</id>
+        <link href="https://blog.mediocregopher.com/2022/01/23/the-cryptic-filesystem.html"/>
+        <title>The Cryptic Filesystem</title>
+        <author>
+            <name>Brian Picciano</name>
+        </author>
+        <updated>2022-01-23T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/brian-picciano-the-cryptic-filesystem/</id>
     <content type="html">
         
     </content>
