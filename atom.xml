@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-01-27T07:53:00+00:00</updated>
+  <updated>2022-01-28T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Implementing a MIME database in XXXX</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2022-01-28T00:00:00+00:00</published>
+    <updated>2022-01-28T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-implementing-a-mime-database-in-xxxx/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-implementing-a-mime-database-in-xxxx/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2022/01/28/Implementing-mime-in-xxxx.html</id>
+        <link href="https://drewdevault.com/2022/01/28/Implementing-mime-in-xxxx.html"/>
+        <title>Implementing a MIME database in XXXX</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2022-01-28T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-implementing-a-mime-database-in-xxxx/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Writing Lessons from Three Weeks of Blogging</title>
         <author>
