@@ -57,7 +57,7 @@
     url = "https://nathanieltravis.com/feed/";
   }
   {
-    name = "https://blog.wesleyac.com/";
+    name = "blog.wesleyac.com";
     author = "Wesley Aptekar-Cassels";
     url = "https://blog.wesleyac.com/feed.xml";
   }
