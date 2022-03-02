@@ -67,7 +67,7 @@
     url = "https://acoup.blog/feed/";
   }
   {
-    name = "Go Make Thigns";
+    name = "Go Make Things";
     author = "Chris Ferdinandi";
     url = "https://gomakethings.com/feed/index.xml";
   }
