@@ -51,4 +51,24 @@
     author = "Dan Luu";
     url = "https://danluu.com/atom.xml";
   }
+  {
+    name = "nathanieltravis.com";
+    author = "Nathaniel Travis";
+    url = "https://nathanieltravis.com/feed/";
+  }
+  {
+    name = "https://blog.wesleyac.com/";
+    author = "Wesley Aptekar-Cassels";
+    url = "https://blog.wesleyac.com/feed.xml";
+  }
+  {
+    name = "ACOUP";
+    author = "Bret Devereaux";
+    url = "https://acoup.blog/feed/";
+  }
+  {
+    name = "Go Make Thigns";
+    author = "Chris Ferdinandi";
+    url = "https://gomakethings.com/feed/index.xml";
+  }
 ]
