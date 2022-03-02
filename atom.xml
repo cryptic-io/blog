@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-03-01T19:00:00+00:00</updated>
+  <updated>2022-03-02T15:30:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Progressive Enhancement, the New Hotness™</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+    <published>2022-03-02T15:30:00+00:00</published>
+    <updated>2022-03-02T15:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-ferdinandi-progressive-enhancement-the-new-hotness/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-progressive-enhancement-the-new-hotness/" type="text/html"/>
+      <source>
+        <id>https://gomakethings.com/progressive-enhancement-the-new-hotness/</id>
+        <link href="https://gomakethings.com/progressive-enhancement-the-new-hotness/"/>
+        <title>Progressive Enhancement, the New Hotness™</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+        <updated>2022-03-02T15:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-ferdinandi-progressive-enhancement-the-new-hotness/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>My Guest Appearance on ShopTalkShow #504</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-my-guest-appearance-on-shoptalkshow-504/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>How to write good comments</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+    <published>2022-03-01T15:30:00+00:00</published>
+    <updated>2022-03-01T15:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-ferdinandi-how-to-write-good-comments/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-how-to-write-good-comments/" type="text/html"/>
+      <source>
+        <id>https://gomakethings.com/how-to-write-good-comments/</id>
+        <link href="https://gomakethings.com/how-to-write-good-comments/"/>
+        <title>How to write good comments</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+        <updated>2022-03-01T15:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-ferdinandi-how-to-write-good-comments/</id>
     <content type="html">
         
     </content>
@@ -98,6 +146,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-inspecting-web-views-in-macos/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Vanilla JS Projects</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+    <published>2022-02-28T15:30:00+00:00</published>
+    <updated>2022-02-28T15:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-ferdinandi-vanilla-js-projects/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-vanilla-js-projects/" type="text/html"/>
+      <source>
+        <id>https://gomakethings.com/vanilla-js-projects/</id>
+        <link href="https://gomakethings.com/vanilla-js-projects/"/>
+        <title>Vanilla JS Projects</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+        <updated>2022-02-28T15:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-ferdinandi-vanilla-js-projects/</id>
     <content type="html">
         
     </content>
@@ -247,6 +319,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Interview with a senior JavaScript developer in 2022</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+    <published>2022-02-24T15:30:00+00:00</published>
+    <updated>2022-02-24T15:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-ferdinandi-interview-with-a-senior-javascript-developer-in-2022/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-interview-with-a-senior-javascript-developer-in-2022/" type="text/html"/>
+      <source>
+        <id>https://gomakethings.com/interview-with-a-senior-javascript-developer-in-2022/</id>
+        <link href="https://gomakethings.com/interview-with-a-senior-javascript-developer-in-2022/"/>
+        <title>Interview with a senior JavaScript developer in 2022</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+        <updated>2022-02-24T15:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-ferdinandi-interview-with-a-senior-javascript-developer-in-2022/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Sleep Deprivation</title>
         <author>
             <name>Arun Prasad</name>
@@ -266,6 +362,30 @@
       </source>
 
     <id>https://news.cryptic.io/arun-prasad-sleep-deprivation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>How to make MPAs that are as fast as SPAs</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+    <published>2022-02-23T15:30:00+00:00</published>
+    <updated>2022-02-23T15:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-ferdinandi-how-to-make-mpas-that-are-as-fast-as-spas/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-how-to-make-mpas-that-are-as-fast-as-spas/" type="text/html"/>
+      <source>
+        <id>https://gomakethings.com/how-to-make-mpas-that-are-as-fast-as-spas/</id>
+        <link href="https://gomakethings.com/how-to-make-mpas-that-are-as-fast-as-spas/"/>
+        <title>How to make MPAs that are as fast as SPAs</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+        <updated>2022-02-23T15:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-ferdinandi-how-to-make-mpas-that-are-as-fast-as-spas/</id>
     <content type="html">
         
     </content>
@@ -314,6 +434,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-things-the-css-spec-folks-got-right/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>SPAs were a mistake</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+    <published>2022-02-22T15:30:00+00:00</published>
+    <updated>2022-02-22T15:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-ferdinandi-spas-were-a-mistake/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-spas-were-a-mistake/" type="text/html"/>
+      <source>
+        <id>https://gomakethings.com/spas-were-a-mistake/</id>
+        <link href="https://gomakethings.com/spas-were-a-mistake/"/>
+        <title>SPAs were a mistake</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+        <updated>2022-02-22T15:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-ferdinandi-spas-were-a-mistake/</id>
     <content type="html">
         
     </content>
@@ -530,6 +674,30 @@
       </source>
 
     <id>https://news.cryptic.io/bret-devereaux-miscellanea-thoughts-on-ckiii-royal-court/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>How to update the URL of a page without causing a reload using vanilla JavaScript</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+    <published>2022-02-18T15:30:00+00:00</published>
+    <updated>2022-02-18T15:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-ferdinandi-how-to-update-the-url-of-a-page-without-causing-a-reload-using-vanilla-javascript/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-how-to-update-the-url-of-a-page-without-causing-a-reload-using-vanilla-javascript/" type="text/html"/>
+      <source>
+        <id>https://gomakethings.com/how-to-update-the-url-of-a-page-without-causing-a-reload-using-vanilla-javascript/</id>
+        <link href="https://gomakethings.com/how-to-update-the-url-of-a-page-without-causing-a-reload-using-vanilla-javascript/"/>
+        <title>How to update the URL of a page without causing a reload using vanilla JavaScript</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+        <updated>2022-02-18T15:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-ferdinandi-how-to-update-the-url-of-a-page-without-causing-a-reload-using-vanilla-javascript/</id>
     <content type="html">
         
     </content>
