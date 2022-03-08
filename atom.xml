@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-03-07T15:30:00+00:00</updated>
+  <updated>2022-03-07T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Family IT Support Turned Blog Post Turned Anecdote in The Wall Street Journal</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-03-07T19:00:00+00:00</published>
+    <updated>2022-03-07T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-family-it-support-turned-blog-post-turned-anecdote-in-the-wall-street-journal/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-family-it-support-turned-blog-post-turned-anecdote-in-the-wall-street-journal/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/my-mom-and-the-wsj/</id>
+        <link href="https://blog.jim-nielsen.com/2022/my-mom-and-the-wsj/"/>
+        <title>Family IT Support Turned Blog Post Turned Anecdote in The Wall Street Journal</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-03-07T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-family-it-support-turned-blog-post-turned-anecdote-in-the-wall-street-journal/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>When are developer worth using, and when do they just add more overhead?</title>
         <author>
