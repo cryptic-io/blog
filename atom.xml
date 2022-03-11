@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-03-10T19:00:00+00:00</updated>
+  <updated>2022-03-11T15:30:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>JavaScript, ADHD, and PAW Patrol</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+    <published>2022-03-11T15:30:00+00:00</published>
+    <updated>2022-03-11T15:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-ferdinandi-javascript-adhd-and-paw-patrol/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-javascript-adhd-and-paw-patrol/" type="text/html"/>
+      <source>
+        <id>https://gomakethings.com/javascript-adhd-and-paw-patrol/</id>
+        <link href="https://gomakethings.com/javascript-adhd-and-paw-patrol/"/>
+        <title>JavaScript, ADHD, and PAW Patrol</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+        <updated>2022-03-11T15:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-ferdinandi-javascript-adhd-and-paw-patrol/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Inline All The Things</title>
         <author>
