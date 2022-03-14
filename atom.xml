@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-03-13T07:53:00+00:00</updated>
+  <updated>2022-03-14T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>It takes a village</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2022-03-14T00:00:00+00:00</published>
+    <updated>2022-03-14T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-it-takes-a-village/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-it-takes-a-village/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2022/03/14/It-takes-a-village.html</id>
+        <link href="https://drewdevault.com/2022/03/14/It-takes-a-village.html"/>
+        <title>It takes a village</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2022-03-14T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-it-takes-a-village/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Novels and Living</title>
         <author>
