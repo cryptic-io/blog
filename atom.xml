@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-03-15T19:00:00+00:00</updated>
+  <updated>2022-03-16T14:30:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Accessibility, assistive technology, and JavaScript</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+    <published>2022-03-16T14:30:00+00:00</published>
+    <updated>2022-03-16T14:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-ferdinandi-accessibility-assistive-technology-and-javascript/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-accessibility-assistive-technology-and-javascript/" type="text/html"/>
+      <source>
+        <id>https://gomakethings.com/accessibility-assistive-technology-and-javascript/</id>
+        <link href="https://gomakethings.com/accessibility-assistive-technology-and-javascript/"/>
+        <title>Accessibility, assistive technology, and JavaScript</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+        <updated>2022-03-16T14:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-ferdinandi-accessibility-assistive-technology-and-javascript/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Deno is Webby (pt. 2)</title>
         <author>
