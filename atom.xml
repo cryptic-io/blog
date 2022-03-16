@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-03-15T14:30:00+00:00</updated>
+  <updated>2022-03-15T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Deno is Webby (pt. 2)</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-03-15T19:00:00+00:00</published>
+    <updated>2022-03-15T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-deno-is-webby-pt-2/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-deno-is-webby-pt-2/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/deno-is-webby-pt-2/</id>
+        <link href="https://blog.jim-nielsen.com/2022/deno-is-webby-pt-2/"/>
+        <title>Deno is Webby (pt. 2)</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-03-15T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-deno-is-webby-pt-2/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>How to automatically size a textarea based on its using vanilla JavaScript</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/chris-ferdinandi-how-to-automatically-size-a-textarea-based-on-its-using-vanilla-javascript/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Notes to Self on Learning Finance</title>
+        <author>
+            <name>Arun Prasad</name>
+        </author>
+    <published>2022-03-15T07:53:00+00:00</published>
+    <updated>2022-03-15T07:53:00+00:00</updated>
+    <link href="https://news.cryptic.io/arun-prasad-notes-to-self-on-learning-finance/"/>
+    <link rel="alternate" href="https://news.cryptic.io/arun-prasad-notes-to-self-on-learning-finance/" type="text/html"/>
+      <source>
+        <id>https://arunkprasad.com/log/notes-to-self-on-learning-finance/</id>
+        <link href="https://arunkprasad.com/log/notes-to-self-on-learning-finance/"/>
+        <title>Notes to Self on Learning Finance</title>
+        <author>
+            <name>Arun Prasad</name>
+        </author>
+        <updated>2022-03-15T07:53:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/arun-prasad-notes-to-self-on-learning-finance/</id>
     <content type="html">
         
     </content>
