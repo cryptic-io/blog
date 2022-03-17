@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-03-16T14:30:00+00:00</updated>
+  <updated>2022-03-17T14:30:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Climbing up the DOM tree with vanilla JavaScript</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+    <published>2022-03-17T14:30:00+00:00</published>
+    <updated>2022-03-17T14:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-ferdinandi-climbing-up-the-dom-tree-with-vanilla-javascript/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-climbing-up-the-dom-tree-with-vanilla-javascript/" type="text/html"/>
+      <source>
+        <id>https://gomakethings.com/climbing-up-the-dom-tree-with-vanilla-javascript/</id>
+        <link href="https://gomakethings.com/climbing-up-the-dom-tree-with-vanilla-javascript/"/>
+        <title>Climbing up the DOM tree with vanilla JavaScript</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+        <updated>2022-03-17T14:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-ferdinandi-climbing-up-the-dom-tree-with-vanilla-javascript/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Accessibility, assistive technology, and JavaScript</title>
         <author>
