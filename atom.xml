@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-03-17T14:30:00+00:00</updated>
+  <updated>2022-03-18T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Questions about which operating system is more secure or fastest makes no sense</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2022-03-18T00:00:00+00:00</published>
+    <updated>2022-03-18T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-questions-about-which-operating-system-is-more-secure-or-fastest-makes-no-sense/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-questions-about-which-operating-system-is-more-secure-or-fastest-makes-no-sense/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/articles/questions-about-which-operating-system-is-more-secure-or-fastest-makes-no-sense.html</id>
+        <link href="https://unixsheikh.com/articles/questions-about-which-operating-system-is-more-secure-or-fastest-makes-no-sense.html"/>
+        <title>Questions about which operating system is more secure or fastest makes no sense</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2022-03-18T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-questions-about-which-operating-system-is-more-secure-or-fastest-makes-no-sense/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Climbing up the DOM tree with vanilla JavaScript</title>
         <author>
