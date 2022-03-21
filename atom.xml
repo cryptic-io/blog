@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-03-20T07:53:00+00:00</updated>
+  <updated>2022-03-20T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>What is the Web?</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-03-20T19:00:00+00:00</published>
+    <updated>2022-03-20T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-what-is-the-web/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-what-is-the-web/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/what-is-the-web/</id>
+        <link href="https://blog.jim-nielsen.com/2022/what-is-the-web/"/>
+        <title>What is the Web?</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-03-20T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-what-is-the-web/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>My Current Tech Stack</title>
         <author>
