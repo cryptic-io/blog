@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-03-21T14:30:00+00:00</updated>
+  <updated>2022-03-22T14:30:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>My code is sloppy</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+    <published>2022-03-22T14:30:00+00:00</published>
+    <updated>2022-03-22T14:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-ferdinandi-my-code-is-sloppy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-my-code-is-sloppy/" type="text/html"/>
+      <source>
+        <id>https://gomakethings.com/my-code-is-sloppy/</id>
+        <link href="https://gomakethings.com/my-code-is-sloppy/"/>
+        <title>My code is sloppy</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+        <updated>2022-03-22T14:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-ferdinandi-my-code-is-sloppy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>HTML semantics</title>
         <author>
