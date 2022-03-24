@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-03-23T19:00:00+00:00</updated>
+  <updated>2022-03-24T14:30:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Is jQuery still relevant in 2022?</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+    <published>2022-03-24T14:30:00+00:00</published>
+    <updated>2022-03-24T14:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-ferdinandi-is-jquery-still-relevant-in-2022/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-is-jquery-still-relevant-in-2022/" type="text/html"/>
+      <source>
+        <id>https://gomakethings.com/is-jquery-still-relevant-in-2022/</id>
+        <link href="https://gomakethings.com/is-jquery-still-relevant-in-2022/"/>
+        <title>Is jQuery still relevant in 2022?</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+        <updated>2022-03-24T14:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-ferdinandi-is-jquery-still-relevant-in-2022/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Netherlands so far</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2022-03-24T00:00:00+00:00</published>
+    <updated>2022-03-24T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-the-netherlands-so-far/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-the-netherlands-so-far/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2022/03/24/Netherlands-update.html</id>
+        <link href="https://drewdevault.com/2022/03/24/Netherlands-update.html"/>
+        <title>The Netherlands so far</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2022-03-24T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-the-netherlands-so-far/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Implementation Details of My New Blog Theme</title>
         <author>
