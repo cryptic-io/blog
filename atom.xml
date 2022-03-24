@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-03-23T07:53:00+00:00</updated>
+  <updated>2022-03-23T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Implementation Details of My New Blog Theme</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-03-23T19:00:00+00:00</published>
+    <updated>2022-03-23T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-implementation-details-of-my-new-blog-theme/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-implementation-details-of-my-new-blog-theme/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/new-blog-theme-implementation-details/</id>
+        <link href="https://blog.jim-nielsen.com/2022/new-blog-theme-implementation-details/"/>
+        <title>Implementation Details of My New Blog Theme</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-03-23T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-implementation-details-of-my-new-blog-theme/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Vocabulary of Visual Emphasis</title>
         <author>
