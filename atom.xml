@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-03-25T06:45:13+00:00</updated>
+  <updated>2022-03-25T14:30:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Learning the fundamentals</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+    <published>2022-03-25T14:30:00+00:00</published>
+    <updated>2022-03-25T14:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-ferdinandi-learning-the-fundamentals/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-learning-the-fundamentals/" type="text/html"/>
+      <source>
+        <id>https://gomakethings.com/learning-the-fundamentals/</id>
+        <link href="https://gomakethings.com/learning-the-fundamentals/"/>
+        <title>Learning the fundamentals</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+        <updated>2022-03-25T14:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-ferdinandi-learning-the-fundamentals/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Miscellanea: A Very Short Glossary of Military Terminology</title>
         <author>
