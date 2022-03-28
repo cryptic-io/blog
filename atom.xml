@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-03-26T19:00:00+00:00</updated>
+  <updated>2022-03-27T07:53:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Fried</title>
+        <author>
+            <name>Arun Prasad</name>
+        </author>
+    <published>2022-03-27T07:53:00+00:00</published>
+    <updated>2022-03-27T07:53:00+00:00</updated>
+    <link href="https://news.cryptic.io/arun-prasad-fried/"/>
+    <link rel="alternate" href="https://news.cryptic.io/arun-prasad-fried/" type="text/html"/>
+      <source>
+        <id>https://arunkprasad.com/log/fried/</id>
+        <link href="https://arunkprasad.com/log/fried/"/>
+        <title>Fried</title>
+        <author>
+            <name>Arun Prasad</name>
+        </author>
+        <updated>2022-03-27T07:53:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/arun-prasad-fried/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Miscellaneous Thoughts From an Article on User Research</title>
         <author>
