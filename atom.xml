@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-03-27T07:53:00+00:00</updated>
+  <updated>2022-03-28T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>There’s More to Design Than Data and Rationality</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-03-28T19:00:00+00:00</published>
+    <updated>2022-03-28T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-theres-more-to-design-than-data-and-rationality/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-theres-more-to-design-than-data-and-rationality/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/more-to-design-than-data-and-rationality/</id>
+        <link href="https://blog.jim-nielsen.com/2022/more-to-design-than-data-and-rationality/"/>
+        <title>There’s More to Design Than Data and Rationality</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-03-28T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-theres-more-to-design-than-data-and-rationality/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Preventing layout shift with numbers using CSS</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+    <published>2022-03-28T14:30:00+00:00</published>
+    <updated>2022-03-28T14:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-ferdinandi-preventing-layout-shift-with-numbers-using-css/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-preventing-layout-shift-with-numbers-using-css/" type="text/html"/>
+      <source>
+        <id>https://gomakethings.com/preventing-layout-shift-with-numbers-using-css/</id>
+        <link href="https://gomakethings.com/preventing-layout-shift-with-numbers-using-css/"/>
+        <title>Preventing layout shift with numbers using CSS</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+        <updated>2022-03-28T14:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-ferdinandi-preventing-layout-shift-with-numbers-using-css/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Fried</title>
         <author>
