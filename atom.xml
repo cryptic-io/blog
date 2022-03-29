@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-03-29T00:00:00+00:00</updated>
+  <updated>2022-03-29T14:30:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Working with forms with vanilla JavaScript</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+    <published>2022-03-29T14:30:00+00:00</published>
+    <updated>2022-03-29T14:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-ferdinandi-working-with-forms-with-vanilla-javascript/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-working-with-forms-with-vanilla-javascript/" type="text/html"/>
+      <source>
+        <id>https://gomakethings.com/working-with-forms-with-vanilla-javascript/</id>
+        <link href="https://gomakethings.com/working-with-forms-with-vanilla-javascript/"/>
+        <title>Working with forms with vanilla JavaScript</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+        <updated>2022-03-29T14:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-ferdinandi-working-with-forms-with-vanilla-javascript/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>It is important for free software to use free software infrastructure</title>
         <author>
