@@ -7,6 +7,30 @@
   <updated>2022-03-29T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
+    <title>It is important for free software to use free software infrastructure</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2022-03-29T00:00:00+00:00</published>
+    <updated>2022-03-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-it-is-important-for-free-software-to-use-free-software-infrastructure/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-it-is-important-for-free-software-to-use-free-software-infrastructure/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2022/03/29/free-software-free-infrastructure.html</id>
+        <link href="https://drewdevault.com/2022/03/29/free-software-free-infrastructure.html"/>
+        <title>It is important for free software to use free software infrastructure</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2022-03-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-it-is-important-for-free-software-to-use-free-software-infrastructure/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How security is handled by package maintainers</title>
         <author>
             <name>unixsheikh</name>
