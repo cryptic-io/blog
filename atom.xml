@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-03-30T19:00:00+00:00</updated>
+  <updated>2022-03-31T14:30:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Removing jQuery is good for performance</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+    <published>2022-03-31T14:30:00+00:00</published>
+    <updated>2022-03-31T14:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-ferdinandi-removing-jquery-is-good-for-performance/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-removing-jquery-is-good-for-performance/" type="text/html"/>
+      <source>
+        <id>https://gomakethings.com/removing-jquery-is-good-for-performance/</id>
+        <link href="https://gomakethings.com/removing-jquery-is-good-for-performance/"/>
+        <title>Removing jQuery is good for performance</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+        <updated>2022-03-31T14:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-ferdinandi-removing-jquery-is-good-for-performance/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Reading Notes, March 2022</title>
         <author>
