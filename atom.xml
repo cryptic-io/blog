@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-04-01T00:00:00+00:00</updated>
+  <updated>2022-04-01T14:30:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The importance of habits</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+    <published>2022-04-01T14:30:00+00:00</published>
+    <updated>2022-04-01T14:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-ferdinandi-the-importance-of-habits/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-the-importance-of-habits/" type="text/html"/>
+      <source>
+        <id>https://gomakethings.com/the-importance-of-habits/</id>
+        <link href="https://gomakethings.com/the-importance-of-habits/"/>
+        <title>The importance of habits</title>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+        <updated>2022-04-01T14:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-ferdinandi-the-importance-of-habits/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Announcing git snail-mail</title>
         <author>
