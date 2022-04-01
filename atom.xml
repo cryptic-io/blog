@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-03-31T14:30:00+00:00</updated>
+  <updated>2022-04-01T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Linux distribution long term support might not be what you think it is</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2022-04-01T00:00:00+00:00</published>
+    <updated>2022-04-01T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-linux-distribution-long-term-support-might-not-be-what-you-think-it-is/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-linux-distribution-long-term-support-might-not-be-what-you-think-it-is/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/articles/linux-distribution-long-term-support-might-not-be-what-you-think-it-is.html</id>
+        <link href="https://unixsheikh.com/articles/linux-distribution-long-term-support-might-not-be-what-you-think-it-is.html"/>
+        <title>Linux distribution long term support might not be what you think it is</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2022-04-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-linux-distribution-long-term-support-might-not-be-what-you-think-it-is/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Removing jQuery is good for performance</title>
         <author>
