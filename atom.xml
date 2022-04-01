@@ -7,6 +7,30 @@
   <updated>2022-04-01T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
+    <title>Announcing git snail-mail</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2022-04-01T00:00:00+00:00</published>
+    <updated>2022-04-01T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-announcing-git-snailmail/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-announcing-git-snailmail/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2022/04/01/git-snail-mail.html</id>
+        <link href="https://drewdevault.com/2022/04/01/git-snail-mail.html"/>
+        <title>Announcing git snail-mail</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2022-04-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-announcing-git-snailmail/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Linux distribution long term support might not be what you think it is</title>
         <author>
             <name>unixsheikh</name>
