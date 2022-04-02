@@ -61,4 +61,82 @@
     author = "Wesley Aptekar-Cassels";
     url = "https://blog.wesleyac.com/feed.xml";
   }
+  {
+    name = "AndreGarzia.com";
+    url = "https://andregarzia.com/feeds/all.atom.xml";
+  }
+  {
+    name = "mxb.dev";
+    author = "Max Böck";
+    url = "https://mxb.dev/feed.xml";
+  }
+  {
+    name = "dkb.io";
+    url = "https://dkb.io/rss.xml";
+  }
+  {
+    name = "Miscellaneous Stuff";
+    author = "Tie";
+    # specifically not https:
+    # http://misc-stuff.terraaeon.com/articles/not-https.html
+    url = "http://misc-stuff.terraaeon.com/misc-stuff-rss-feed.xml";
+  }
+  {
+    name = "THE SPORKS SPACE";
+    # if their rss feed included the author on each entry we could delete this
+    author = "Various";
+    url = "https://sporks.space/feed/";
+  }
+  {
+    name = "Read the Tea Leaves";
+    author = "Nolan Lawson";
+    url = "https://nolanlawson.com/feed/";
+  }
+  {
+    name = "Rough Type";
+    url = "https://www.roughtype.com/atom.xml";
+  }
+  {
+    name = "rachelbythebay.com";
+    author = "rachelbythebay";
+    url = "https://rachelbythebay.com/w/atom.xml";
+  }
+  {
+    name = "adam-p.ca";
+    author = "Adam Pritchard";
+    url = "https://adam-p.ca/blog/feed.xml";
+  }
+  {
+    name = "vaghetti.dev";
+    author = "Douglas Vaghetti";
+    url = "https://vaghetti.dev/index.xml";
+  }
+  {
+    name = "bastian.rieck.me";
+    author = "Bastian Rieck";
+    url = "https://bastian.rieck.me/blog/index.xml";
+  }
+  {
+    name = "Mendhak / Code";
+    url = "https://code.mendhak.com/feed.xml";
+  }
+  {
+    name = "matklad";
+    url = "https://matklad.github.io/feed.xml";
+  }
+  {
+    name = "rohanrd.xyz";
+    author = "Rohan Deshmukh";
+    url = "https://rohanrd.xyz/index.xml";
+  }
+  {
+    name = "www.johnwhiles.com";
+    author = "John Whiles";
+    url = "https://www.johnwhiles.com/atom.xml";
+  }
+  {
+    name = "Tim's website";
+    author = "Tim Daubenschütz";
+    url = "https://timdaub.github.io/atom.xml";
+  }
 ]
