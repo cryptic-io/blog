@@ -4,56 +4,8 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-04-01T17:34:08+00:00</updated>
+  <updated>2022-04-01T07:53:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
-  <entry xml:lang="en">
-    <title>Collection: Total War’s Missing Infantry-Type</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-    <published>2022-04-01T17:34:08+00:00</published>
-    <updated>2022-04-01T17:34:08+00:00</updated>
-    <link href="https://news.cryptic.io/bret-devereaux-collection-total-wars-missing-infantrytype/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bret-devereaux-collection-total-wars-missing-infantrytype/" type="text/html"/>
-      <source>
-        <id>https://acoup.blog/2022/04/01/collection-total-wars-missing-infantry-type/?utm_source=rss&utm_medium=rss&utm_campaign=collection-total-wars-missing-infantry-type</id>
-        <link href="https://acoup.blog/2022/04/01/collection-total-wars-missing-infantry-type/?utm_source=rss&utm_medium=rss&utm_campaign=collection-total-wars-missing-infantry-type"/>
-        <title>Collection: Total War’s Missing Infantry-Type</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-        <updated>2022-04-01T17:34:08+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bret-devereaux-collection-total-wars-missing-infantrytype/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The importance of habits</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-04-01T14:30:00+00:00</published>
-    <updated>2022-04-01T14:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-the-importance-of-habits/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-the-importance-of-habits/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/the-importance-of-habits/</id>
-        <link href="https://gomakethings.com/the-importance-of-habits/"/>
-        <title>The importance of habits</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-04-01T14:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-the-importance-of-habits/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
   <entry xml:lang="en">
     <title>Signal Boost: Debugging Stories</title>
         <author>
@@ -151,30 +103,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Removing jQuery is good for performance</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-31T14:30:00+00:00</published>
-    <updated>2022-03-31T14:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-removing-jquery-is-good-for-performance/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-removing-jquery-is-good-for-performance/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/removing-jquery-is-good-for-performance/</id>
-        <link href="https://gomakethings.com/removing-jquery-is-good-for-performance/"/>
-        <title>Removing jQuery is good for performance</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-31T14:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-removing-jquery-is-good-for-performance/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>A Quarter of 2022</title>
         <author>
             <name>Arun Prasad</name>
@@ -223,30 +151,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Building things to last</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-30T14:30:00+00:00</published>
-    <updated>2022-03-30T14:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-building-things-to-last/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-building-things-to-last/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/building-things-to-last/</id>
-        <link href="https://gomakethings.com/building-things-to-last/"/>
-        <title>Building things to last</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-30T14:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-building-things-to-last/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Good API, Bad API</title>
         <author>
             <name>Arun Prasad</name>
@@ -290,30 +194,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-the-delusions-of-debian/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Working with forms with vanilla JavaScript</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-29T14:30:00+00:00</published>
-    <updated>2022-03-29T14:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-working-with-forms-with-vanilla-javascript/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-working-with-forms-with-vanilla-javascript/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/working-with-forms-with-vanilla-javascript/</id>
-        <link href="https://gomakethings.com/working-with-forms-with-vanilla-javascript/"/>
-        <title>Working with forms with vanilla JavaScript</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-29T14:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-working-with-forms-with-vanilla-javascript/</id>
     <content type="html">
         
     </content>
@@ -439,30 +319,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Preventing layout shift with numbers using CSS</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-28T14:30:00+00:00</published>
-    <updated>2022-03-28T14:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-preventing-layout-shift-with-numbers-using-css/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-preventing-layout-shift-with-numbers-using-css/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/preventing-layout-shift-with-numbers-using-css/</id>
-        <link href="https://gomakethings.com/preventing-layout-shift-with-numbers-using-css/"/>
-        <title>Preventing layout shift with numbers using CSS</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-28T14:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-preventing-layout-shift-with-numbers-using-css/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>On Cleaning Pools</title>
         <author>
             <name>Arun Prasad</name>
@@ -559,30 +415,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Learning the fundamentals</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-25T14:30:00+00:00</published>
-    <updated>2022-03-25T14:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-learning-the-fundamentals/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-learning-the-fundamentals/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/learning-the-fundamentals/</id>
-        <link href="https://gomakethings.com/learning-the-fundamentals/"/>
-        <title>Learning the fundamentals</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-25T14:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-learning-the-fundamentals/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How to Steal</title>
         <author>
             <name>Arun Prasad</name>
@@ -602,54 +434,6 @@
       </source>
 
     <id>https://news.cryptic.io/arun-prasad-how-to-steal/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Miscellanea: A Very Short Glossary of Military Terminology</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-    <published>2022-03-25T06:45:13+00:00</published>
-    <updated>2022-03-25T06:45:13+00:00</updated>
-    <link href="https://news.cryptic.io/bret-devereaux-miscellanea-a-very-short-glossary-of-military-terminology/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bret-devereaux-miscellanea-a-very-short-glossary-of-military-terminology/" type="text/html"/>
-      <source>
-        <id>https://acoup.blog/2022/03/25/miscellanea-a-very-short-glossary-of-military-terminology/?utm_source=rss&utm_medium=rss&utm_campaign=miscellanea-a-very-short-glossary-of-military-terminology</id>
-        <link href="https://acoup.blog/2022/03/25/miscellanea-a-very-short-glossary-of-military-terminology/?utm_source=rss&utm_medium=rss&utm_campaign=miscellanea-a-very-short-glossary-of-military-terminology"/>
-        <title>Miscellanea: A Very Short Glossary of Military Terminology</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-        <updated>2022-03-25T06:45:13+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bret-devereaux-miscellanea-a-very-short-glossary-of-military-terminology/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Is jQuery still relevant in 2022?</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-24T14:30:00+00:00</published>
-    <updated>2022-03-24T14:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-is-jquery-still-relevant-in-2022/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-is-jquery-still-relevant-in-2022/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/is-jquery-still-relevant-in-2022/</id>
-        <link href="https://gomakethings.com/is-jquery-still-relevant-in-2022/"/>
-        <title>Is jQuery still relevant in 2022?</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-24T14:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-is-jquery-still-relevant-in-2022/</id>
     <content type="html">
         
     </content>
@@ -751,30 +535,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>My code is sloppy</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-22T14:30:00+00:00</published>
-    <updated>2022-03-22T14:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-my-code-is-sloppy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-my-code-is-sloppy/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/my-code-is-sloppy/</id>
-        <link href="https://gomakethings.com/my-code-is-sloppy/"/>
-        <title>My code is sloppy</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-22T14:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-my-code-is-sloppy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Signal Boost: Refactoring UI</title>
         <author>
             <name>Arun Prasad</name>
@@ -794,30 +554,6 @@
       </source>
 
     <id>https://news.cryptic.io/arun-prasad-signal-boost-refactoring-ui/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>HTML semantics</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-21T14:30:00+00:00</published>
-    <updated>2022-03-21T14:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-html-semantics/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-html-semantics/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/html-semantics/</id>
-        <link href="https://gomakethings.com/html-semantics/"/>
-        <title>HTML semantics</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-21T14:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-html-semantics/</id>
     <content type="html">
         
     </content>
@@ -919,30 +655,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Collections: The Roman Dictatorship: How Did It Work?  Did It Work?</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-    <published>2022-03-18T15:54:30+00:00</published>
-    <updated>2022-03-18T15:54:30+00:00</updated>
-    <link href="https://news.cryptic.io/bret-devereaux-collections-the-roman-dictatorship-how-did-it-work-did-it-work/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bret-devereaux-collections-the-roman-dictatorship-how-did-it-work-did-it-work/" type="text/html"/>
-      <source>
-        <id>https://acoup.blog/2022/03/18/collections-the-roman-dictatorship-how-did-it-work-did-it-work/?utm_source=rss&utm_medium=rss&utm_campaign=collections-the-roman-dictatorship-how-did-it-work-did-it-work</id>
-        <link href="https://acoup.blog/2022/03/18/collections-the-roman-dictatorship-how-did-it-work-did-it-work/?utm_source=rss&utm_medium=rss&utm_campaign=collections-the-roman-dictatorship-how-did-it-work-did-it-work"/>
-        <title>Collections: The Roman Dictatorship: How Did It Work?  Did It Work?</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-        <updated>2022-03-18T15:54:30+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bret-devereaux-collections-the-roman-dictatorship-how-did-it-work-did-it-work/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Why Do Seagulls Have a Red Dot on Their Bills?</title>
         <author>
             <name>Arun Prasad</name>
@@ -991,30 +703,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Climbing up the DOM tree with vanilla JavaScript</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-17T14:30:00+00:00</published>
-    <updated>2022-03-17T14:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-climbing-up-the-dom-tree-with-vanilla-javascript/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-climbing-up-the-dom-tree-with-vanilla-javascript/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/climbing-up-the-dom-tree-with-vanilla-javascript/</id>
-        <link href="https://gomakethings.com/climbing-up-the-dom-tree-with-vanilla-javascript/"/>
-        <title>Climbing up the DOM tree with vanilla JavaScript</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-17T14:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-climbing-up-the-dom-tree-with-vanilla-javascript/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Early Notes on Learning</title>
         <author>
             <name>Arun Prasad</name>
@@ -1034,30 +722,6 @@
       </source>
 
     <id>https://news.cryptic.io/arun-prasad-early-notes-on-learning/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Accessibility, assistive technology, and JavaScript</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-16T14:30:00+00:00</published>
-    <updated>2022-03-16T14:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-accessibility-assistive-technology-and-javascript/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-accessibility-assistive-technology-and-javascript/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/accessibility-assistive-technology-and-javascript/</id>
-        <link href="https://gomakethings.com/accessibility-assistive-technology-and-javascript/"/>
-        <title>Accessibility, assistive technology, and JavaScript</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-16T14:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-accessibility-assistive-technology-and-javascript/</id>
     <content type="html">
         
     </content>
@@ -1106,30 +770,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-deno-is-webby-pt-2/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to automatically size a textarea based on its using vanilla JavaScript</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-15T14:30:00+00:00</published>
-    <updated>2022-03-15T14:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-how-to-automatically-size-a-textarea-based-on-its-using-vanilla-javascript/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-how-to-automatically-size-a-textarea-based-on-its-using-vanilla-javascript/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/how-to-automatically-size-a-textarea-based-on-its-using-vanilla-javascript/</id>
-        <link href="https://gomakethings.com/how-to-automatically-size-a-textarea-based-on-its-using-vanilla-javascript/"/>
-        <title>How to automatically size a textarea based on its using vanilla JavaScript</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-15T14:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-how-to-automatically-size-a-textarea-based-on-its-using-vanilla-javascript/</id>
     <content type="html">
         
     </content>
@@ -1399,54 +1039,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Collections: Nuclear Deterrence 101</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-    <published>2022-03-11T19:47:28+00:00</published>
-    <updated>2022-03-11T19:47:28+00:00</updated>
-    <link href="https://news.cryptic.io/bret-devereaux-collections-nuclear-deterrence-101/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bret-devereaux-collections-nuclear-deterrence-101/" type="text/html"/>
-      <source>
-        <id>https://acoup.blog/2022/03/11/collections-nuclear-deterrence-101/?utm_source=rss&utm_medium=rss&utm_campaign=collections-nuclear-deterrence-101</id>
-        <link href="https://acoup.blog/2022/03/11/collections-nuclear-deterrence-101/?utm_source=rss&utm_medium=rss&utm_campaign=collections-nuclear-deterrence-101"/>
-        <title>Collections: Nuclear Deterrence 101</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-        <updated>2022-03-11T19:47:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bret-devereaux-collections-nuclear-deterrence-101/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>JavaScript, ADHD, and PAW Patrol</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-11T15:30:00+00:00</published>
-    <updated>2022-03-11T15:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-javascript-adhd-and-paw-patrol/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-javascript-adhd-and-paw-patrol/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/javascript-adhd-and-paw-patrol/</id>
-        <link href="https://gomakethings.com/javascript-adhd-and-paw-patrol/"/>
-        <title>JavaScript, ADHD, and PAW Patrol</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-11T15:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-javascript-adhd-and-paw-patrol/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Why Didn&#x27;t Cavemen Need Braces?</title>
         <author>
             <name>Arun Prasad</name>
@@ -1495,30 +1087,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Browser-native TypeScript? What about JSX or dom diffing?</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-10T15:30:00+00:00</published>
-    <updated>2022-03-10T15:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-browsernative-typescript-what-about-jsx-or-dom-diffing/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-browsernative-typescript-what-about-jsx-or-dom-diffing/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/browser-native-typescript-what-about-jsx-or-dom-diffing/</id>
-        <link href="https://gomakethings.com/browser-native-typescript-what-about-jsx-or-dom-diffing/"/>
-        <title>Browser-native TypeScript? What about JSX or dom diffing?</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-10T15:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-browsernative-typescript-what-about-jsx-or-dom-diffing/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The Good Side of the Jevons Paradox</title>
         <author>
             <name>Arun Prasad</name>
@@ -1543,30 +1111,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Join me for a live chat on Thunder Nerds</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-09T15:30:00+00:00</published>
-    <updated>2022-03-09T15:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-join-me-for-a-live-chat-on-thunder-nerds/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-join-me-for-a-live-chat-on-thunder-nerds/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/join-me-for-a-live-chat-on-thunder-nerds/</id>
-        <link href="https://gomakethings.com/join-me-for-a-live-chat-on-thunder-nerds/"/>
-        <title>Join me for a live chat on Thunder Nerds</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-09T15:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-join-me-for-a-live-chat-on-thunder-nerds/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>First Words of Epic Poems</title>
         <author>
             <name>Arun Prasad</name>
@@ -1586,30 +1130,6 @@
       </source>
 
     <id>https://news.cryptic.io/arun-prasad-first-words-of-epic-poems/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to become a vanilla JavaScript badass</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-08T15:30:00+00:00</published>
-    <updated>2022-03-08T15:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-how-to-become-a-vanilla-javascript-badass/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-how-to-become-a-vanilla-javascript-badass/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/how-to-become-a-vanilla-javascript-badass/</id>
-        <link href="https://gomakethings.com/how-to-become-a-vanilla-javascript-badass/"/>
-        <title>How to become a vanilla JavaScript badass</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-08T15:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-how-to-become-a-vanilla-javascript-badass/</id>
     <content type="html">
         
     </content>
@@ -1658,54 +1178,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-family-it-support-turned-blog-post-turned-anecdote-in-the-wall-street-journal/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>When are developer tools worth using, and when do they just add more overhead?</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-07T15:30:00+00:00</published>
-    <updated>2022-03-07T15:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-when-are-developer-tools-worth-using-and-when-do-they-just-add-more-overhead/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-when-are-developer-tools-worth-using-and-when-do-they-just-add-more-overhead/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/when-are-developer-worth-using-and-when-do-they-just-add-more-overhead/</id>
-        <link href="https://gomakethings.com/when-are-developer-worth-using-and-when-do-they-just-add-more-overhead/"/>
-        <title>When are developer tools worth using, and when do they just add more overhead?</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-07T15:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-when-are-developer-tools-worth-using-and-when-do-they-just-add-more-overhead/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>When are developer worth using, and when do they just add more overhead?</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-07T15:30:00+00:00</published>
-    <updated>2022-03-07T15:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-when-are-developer-worth-using-and-when-do-they-just-add-more-overhead/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-when-are-developer-worth-using-and-when-do-they-just-add-more-overhead/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/when-are-developer-worth-using-and-when-do-they-just-add-more-overhead/</id>
-        <link href="https://gomakethings.com/when-are-developer-worth-using-and-when-do-they-just-add-more-overhead/"/>
-        <title>When are developer worth using, and when do they just add more overhead?</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-07T15:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-when-are-developer-worth-using-and-when-do-they-just-add-more-overhead/</id>
     <content type="html">
         
     </content>
@@ -1807,30 +1279,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Third-party scripts were a mistake</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-04T15:30:00+00:00</published>
-    <updated>2022-03-04T15:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-thirdparty-scripts-were-a-mistake/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-thirdparty-scripts-were-a-mistake/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/third-party-scripts-were-a-mistake/</id>
-        <link href="https://gomakethings.com/third-party-scripts-were-a-mistake/"/>
-        <title>Third-party scripts were a mistake</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-04T15:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-thirdparty-scripts-were-a-mistake/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>&lt;i&gt;Yubitsume&lt;&#x2F;i&gt; and Skin in the Game</title>
         <author>
             <name>Arun Prasad</name>
@@ -1874,54 +1322,6 @@
       </source>
 
     <id>https://news.cryptic.io/arun-prasad-yubitsume-and-skin-in-the-game/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Collections: How the Weak Can Win – A Primer on Protracted War</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-    <published>2022-03-03T23:29:45+00:00</published>
-    <updated>2022-03-03T23:29:45+00:00</updated>
-    <link href="https://news.cryptic.io/bret-devereaux-collections-how-the-weak-can-win-a-primer-on-protracted-war/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bret-devereaux-collections-how-the-weak-can-win-a-primer-on-protracted-war/" type="text/html"/>
-      <source>
-        <id>https://acoup.blog/2022/03/03/collections-how-the-weak-can-win-a-primer-on-protracted-war/?utm_source=rss&utm_medium=rss&utm_campaign=collections-how-the-weak-can-win-a-primer-on-protracted-war</id>
-        <link href="https://acoup.blog/2022/03/03/collections-how-the-weak-can-win-a-primer-on-protracted-war/?utm_source=rss&utm_medium=rss&utm_campaign=collections-how-the-weak-can-win-a-primer-on-protracted-war"/>
-        <title>Collections: How the Weak Can Win – A Primer on Protracted War</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-        <updated>2022-03-03T23:29:45+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bret-devereaux-collections-how-the-weak-can-win-a-primer-on-protracted-war/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>JavaScript is weird</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-03T15:30:00+00:00</published>
-    <updated>2022-03-03T15:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-javascript-is-weird/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-javascript-is-weird/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/javascript-is-weird/</id>
-        <link href="https://gomakethings.com/javascript-is-weird/"/>
-        <title>JavaScript is weird</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-03T15:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-javascript-is-weird/</id>
     <content type="html">
         
     </content>
@@ -1975,30 +1375,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Progressive Enhancement, the New Hotness™</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-02T15:30:00+00:00</published>
-    <updated>2022-03-02T15:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-progressive-enhancement-the-new-hotness/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-progressive-enhancement-the-new-hotness/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/progressive-enhancement-the-new-hotness/</id>
-        <link href="https://gomakethings.com/progressive-enhancement-the-new-hotness/"/>
-        <title>Progressive Enhancement, the New Hotness™</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-02T15:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-progressive-enhancement-the-new-hotness/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Eight Tiny Posts</title>
         <author>
             <name>Arun Prasad</name>
@@ -2042,30 +1418,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-my-guest-appearance-on-shoptalkshow-504/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to write good comments</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-03-01T15:30:00+00:00</published>
-    <updated>2022-03-01T15:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-how-to-write-good-comments/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-how-to-write-good-comments/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/how-to-write-good-comments/</id>
-        <link href="https://gomakethings.com/how-to-write-good-comments/"/>
-        <title>How to write good comments</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-03-01T15:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-how-to-write-good-comments/</id>
     <content type="html">
         
     </content>
@@ -2138,30 +1490,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-inspecting-web-views-in-macos/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Vanilla JS Projects</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-02-28T15:30:00+00:00</published>
-    <updated>2022-02-28T15:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-vanilla-js-projects/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-vanilla-js-projects/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/vanilla-js-projects/</id>
-        <link href="https://gomakethings.com/vanilla-js-projects/"/>
-        <title>Vanilla JS Projects</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-02-28T15:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-vanilla-js-projects/</id>
     <content type="html">
         
     </content>
@@ -2287,54 +1615,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Miscellanea: Understanding the War in Ukraine</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-    <published>2022-02-25T06:29:49+00:00</published>
-    <updated>2022-02-25T06:29:49+00:00</updated>
-    <link href="https://news.cryptic.io/bret-devereaux-miscellanea-understanding-the-war-in-ukraine/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bret-devereaux-miscellanea-understanding-the-war-in-ukraine/" type="text/html"/>
-      <source>
-        <id>https://acoup.blog/2022/02/25/miscellanea-understanding-the-war-in-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=miscellanea-understanding-the-war-in-ukraine</id>
-        <link href="https://acoup.blog/2022/02/25/miscellanea-understanding-the-war-in-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=miscellanea-understanding-the-war-in-ukraine"/>
-        <title>Miscellanea: Understanding the War in Ukraine</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-        <updated>2022-02-25T06:29:49+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bret-devereaux-miscellanea-understanding-the-war-in-ukraine/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Interview with a senior JavaScript developer in 2022</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-02-24T15:30:00+00:00</published>
-    <updated>2022-02-24T15:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-interview-with-a-senior-javascript-developer-in-2022/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-interview-with-a-senior-javascript-developer-in-2022/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/interview-with-a-senior-javascript-developer-in-2022/</id>
-        <link href="https://gomakethings.com/interview-with-a-senior-javascript-developer-in-2022/"/>
-        <title>Interview with a senior JavaScript developer in 2022</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-02-24T15:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-interview-with-a-senior-javascript-developer-in-2022/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Sleep Deprivation</title>
         <author>
             <name>Arun Prasad</name>
@@ -2354,30 +1634,6 @@
       </source>
 
     <id>https://news.cryptic.io/arun-prasad-sleep-deprivation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to make MPAs that are as fast as SPAs</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-02-23T15:30:00+00:00</published>
-    <updated>2022-02-23T15:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-how-to-make-mpas-that-are-as-fast-as-spas/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-how-to-make-mpas-that-are-as-fast-as-spas/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/how-to-make-mpas-that-are-as-fast-as-spas/</id>
-        <link href="https://gomakethings.com/how-to-make-mpas-that-are-as-fast-as-spas/"/>
-        <title>How to make MPAs that are as fast as SPAs</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-02-23T15:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-how-to-make-mpas-that-are-as-fast-as-spas/</id>
     <content type="html">
         
     </content>
@@ -2426,30 +1682,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-things-the-css-spec-folks-got-right/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>SPAs were a mistake</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-02-22T15:30:00+00:00</published>
-    <updated>2022-02-22T15:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-spas-were-a-mistake/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-spas-were-a-mistake/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/spas-were-a-mistake/</id>
-        <link href="https://gomakethings.com/spas-were-a-mistake/"/>
-        <title>SPAs were a mistake</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-02-22T15:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-spas-were-a-mistake/</id>
     <content type="html">
         
     </content>
@@ -2642,54 +1874,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-plaid-is-an-evil-nightmare-product-from-security-hell/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Miscellanea: Thoughts on CKIII: Royal Court</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-    <published>2022-02-18T16:24:38+00:00</published>
-    <updated>2022-02-18T16:24:38+00:00</updated>
-    <link href="https://news.cryptic.io/bret-devereaux-miscellanea-thoughts-on-ckiii-royal-court/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bret-devereaux-miscellanea-thoughts-on-ckiii-royal-court/" type="text/html"/>
-      <source>
-        <id>https://acoup.blog/2022/02/18/miscellanea-thoughts-on-ckiii-royal-court/?utm_source=rss&utm_medium=rss&utm_campaign=miscellanea-thoughts-on-ckiii-royal-court</id>
-        <link href="https://acoup.blog/2022/02/18/miscellanea-thoughts-on-ckiii-royal-court/?utm_source=rss&utm_medium=rss&utm_campaign=miscellanea-thoughts-on-ckiii-royal-court"/>
-        <title>Miscellanea: Thoughts on CKIII: Royal Court</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-        <updated>2022-02-18T16:24:38+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bret-devereaux-miscellanea-thoughts-on-ckiii-royal-court/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to update the URL of a page without causing a reload using vanilla JavaScript</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-    <published>2022-02-18T15:30:00+00:00</published>
-    <updated>2022-02-18T15:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-ferdinandi-how-to-update-the-url-of-a-page-without-causing-a-reload-using-vanilla-javascript/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-ferdinandi-how-to-update-the-url-of-a-page-without-causing-a-reload-using-vanilla-javascript/" type="text/html"/>
-      <source>
-        <id>https://gomakethings.com/how-to-update-the-url-of-a-page-without-causing-a-reload-using-vanilla-javascript/</id>
-        <link href="https://gomakethings.com/how-to-update-the-url-of-a-page-without-causing-a-reload-using-vanilla-javascript/"/>
-        <title>How to update the URL of a page without causing a reload using vanilla JavaScript</title>
-        <author>
-            <name>Chris Ferdinandi</name>
-        </author>
-        <updated>2022-02-18T15:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-ferdinandi-how-to-update-the-url-of-a-page-without-causing-a-reload-using-vanilla-javascript/</id>
     <content type="html">
         
     </content>
@@ -3026,30 +2210,6 @@
       </source>
 
     <id>https://news.cryptic.io/arun-prasad-gnocchi-for-breakfast-gelato-for-dinner/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Collections: Rome: Decline and Fall?  Part III: Things</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-    <published>2022-02-11T16:07:22+00:00</published>
-    <updated>2022-02-11T16:07:22+00:00</updated>
-    <link href="https://news.cryptic.io/bret-devereaux-collections-rome-decline-and-fall-part-iii-things/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bret-devereaux-collections-rome-decline-and-fall-part-iii-things/" type="text/html"/>
-      <source>
-        <id>https://acoup.blog/2022/02/11/collections-rome-decline-and-fall-part-iii-things/?utm_source=rss&utm_medium=rss&utm_campaign=collections-rome-decline-and-fall-part-iii-things</id>
-        <link href="https://acoup.blog/2022/02/11/collections-rome-decline-and-fall-part-iii-things/?utm_source=rss&utm_medium=rss&utm_campaign=collections-rome-decline-and-fall-part-iii-things"/>
-        <title>Collections: Rome: Decline and Fall?  Part III: Things</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-        <updated>2022-02-11T16:07:22+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bret-devereaux-collections-rome-decline-and-fall-part-iii-things/</id>
     <content type="html">
         
     </content>
@@ -3439,30 +2599,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Fireside Friday, February 4, 2022</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-    <published>2022-02-04T06:02:44+00:00</published>
-    <updated>2022-02-04T06:02:44+00:00</updated>
-    <link href="https://news.cryptic.io/bret-devereaux-fireside-friday-february-4-2022/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bret-devereaux-fireside-friday-february-4-2022/" type="text/html"/>
-      <source>
-        <id>https://acoup.blog/2022/02/04/fireside-friday-february-4-2022/?utm_source=rss&utm_medium=rss&utm_campaign=fireside-friday-february-4-2022</id>
-        <link href="https://acoup.blog/2022/02/04/fireside-friday-february-4-2022/?utm_source=rss&utm_medium=rss&utm_campaign=fireside-friday-february-4-2022"/>
-        <title>Fireside Friday, February 4, 2022</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-        <updated>2022-02-04T06:02:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bret-devereaux-fireside-friday-february-4-2022/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>What Do Editors Do?</title>
         <author>
             <name>Arun Prasad</name>
@@ -3698,30 +2834,6 @@
       </source>
 
     <id>https://news.cryptic.io/arun-prasad-yes-use-black-for-python/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Collections: Rome: Decline and Fall?  Part II: Institutions</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-    <published>2022-01-28T18:09:41+00:00</published>
-    <updated>2022-01-28T18:09:41+00:00</updated>
-    <link href="https://news.cryptic.io/bret-devereaux-collections-rome-decline-and-fall-part-ii-institutions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bret-devereaux-collections-rome-decline-and-fall-part-ii-institutions/" type="text/html"/>
-      <source>
-        <id>https://acoup.blog/2022/01/28/collections-rome-decline-and-fall-part-ii-institutions/?utm_source=rss&utm_medium=rss&utm_campaign=collections-rome-decline-and-fall-part-ii-institutions</id>
-        <link href="https://acoup.blog/2022/01/28/collections-rome-decline-and-fall-part-ii-institutions/?utm_source=rss&utm_medium=rss&utm_campaign=collections-rome-decline-and-fall-part-ii-institutions"/>
-        <title>Collections: Rome: Decline and Fall?  Part II: Institutions</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-        <updated>2022-01-28T18:09:41+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bret-devereaux-collections-rome-decline-and-fall-part-ii-institutions/</id>
     <content type="html">
         
     </content>
@@ -4034,30 +3146,6 @@
       </source>
 
     <id>https://news.cryptic.io/arun-prasad-how-does-sqlite-work/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Fireside Friday, January 21, 2022 (On Public Scholarship)</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-    <published>2022-01-21T05:50:03+00:00</published>
-    <updated>2022-01-21T05:50:03+00:00</updated>
-    <link href="https://news.cryptic.io/bret-devereaux-fireside-friday-january-21-2022-on-public-scholarship/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bret-devereaux-fireside-friday-january-21-2022-on-public-scholarship/" type="text/html"/>
-      <source>
-        <id>https://acoup.blog/2022/01/21/fireside-friday-january-21-2022-on-public-scholarship/?utm_source=rss&utm_medium=rss&utm_campaign=fireside-friday-january-21-2022-on-public-scholarship</id>
-        <link href="https://acoup.blog/2022/01/21/fireside-friday-january-21-2022-on-public-scholarship/?utm_source=rss&utm_medium=rss&utm_campaign=fireside-friday-january-21-2022-on-public-scholarship"/>
-        <title>Fireside Friday, January 21, 2022 (On Public Scholarship)</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-        <updated>2022-01-21T05:50:03+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bret-devereaux-fireside-friday-january-21-2022-on-public-scholarship/</id>
     <content type="html">
         
     </content>
@@ -4495,30 +3583,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Collections: Rome: Decline and Fall?  Part I: Words</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-    <published>2022-01-14T20:24:51+00:00</published>
-    <updated>2022-01-14T20:24:51+00:00</updated>
-    <link href="https://news.cryptic.io/bret-devereaux-collections-rome-decline-and-fall-part-i-words/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bret-devereaux-collections-rome-decline-and-fall-part-i-words/" type="text/html"/>
-      <source>
-        <id>https://acoup.blog/2022/01/14/collections-rome-decline-and-fall-part-i-words/?utm_source=rss&utm_medium=rss&utm_campaign=collections-rome-decline-and-fall-part-i-words</id>
-        <link href="https://acoup.blog/2022/01/14/collections-rome-decline-and-fall-part-i-words/?utm_source=rss&utm_medium=rss&utm_campaign=collections-rome-decline-and-fall-part-i-words"/>
-        <title>Collections: Rome: Decline and Fall?  Part I: Words</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-        <updated>2022-01-14T20:24:51+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bret-devereaux-collections-rome-decline-and-fall-part-i-words/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How Do Passwords Work?</title>
         <author>
             <name>Arun Prasad</name>
@@ -4759,30 +3823,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Fireside Friday: January 7, 2022</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-    <published>2022-01-07T08:38:25+00:00</published>
-    <updated>2022-01-07T08:38:25+00:00</updated>
-    <link href="https://news.cryptic.io/bret-devereaux-fireside-friday-january-7-2022/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bret-devereaux-fireside-friday-january-7-2022/" type="text/html"/>
-      <source>
-        <id>https://acoup.blog/2022/01/07/fireside-friday-january-7-2022/?utm_source=rss&utm_medium=rss&utm_campaign=fireside-friday-january-7-2022</id>
-        <link href="https://acoup.blog/2022/01/07/fireside-friday-january-7-2022/?utm_source=rss&utm_medium=rss&utm_campaign=fireside-friday-january-7-2022"/>
-        <title>Fireside Friday: January 7, 2022</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-        <updated>2022-01-07T08:38:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bret-devereaux-fireside-friday-january-7-2022/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>My 70 year old mother has been using Linux on the desktop for the past 21 years</title>
         <author>
             <name>unixsheikh</name>
@@ -4878,30 +3918,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-picciano-dav-is-all-you-need/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Collections: Fortification, Part V: The Age of Industrial Firepower</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-    <published>2021-12-31T06:29:42+00:00</published>
-    <updated>2021-12-31T06:29:42+00:00</updated>
-    <link href="https://news.cryptic.io/bret-devereaux-collections-fortification-part-v-the-age-of-industrial-firepower/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bret-devereaux-collections-fortification-part-v-the-age-of-industrial-firepower/" type="text/html"/>
-      <source>
-        <id>https://acoup.blog/2021/12/31/collections-fortification-part-v-the-age-of-industrial-firepower/?utm_source=rss&utm_medium=rss&utm_campaign=collections-fortification-part-v-the-age-of-industrial-firepower</id>
-        <link href="https://acoup.blog/2021/12/31/collections-fortification-part-v-the-age-of-industrial-firepower/?utm_source=rss&utm_medium=rss&utm_campaign=collections-fortification-part-v-the-age-of-industrial-firepower"/>
-        <title>Collections: Fortification, Part V: The Age of Industrial Firepower</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-        <updated>2021-12-31T06:29:42+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bret-devereaux-collections-fortification-part-v-the-age-of-industrial-firepower/</id>
     <content type="html">
         
     </content>
@@ -5070,30 +4086,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-please-use-me-as-a-resource/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Gap Week: December 24, 2021</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-    <published>2021-12-24T18:20:31+00:00</published>
-    <updated>2021-12-24T18:20:31+00:00</updated>
-    <link href="https://news.cryptic.io/bret-devereaux-gap-week-december-24-2021/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bret-devereaux-gap-week-december-24-2021/" type="text/html"/>
-      <source>
-        <id>https://acoup.blog/2021/12/24/gap-week-december-24-2021/?utm_source=rss&utm_medium=rss&utm_campaign=gap-week-december-24-2021</id>
-        <link href="https://acoup.blog/2021/12/24/gap-week-december-24-2021/?utm_source=rss&utm_medium=rss&utm_campaign=gap-week-december-24-2021"/>
-        <title>Gap Week: December 24, 2021</title>
-        <author>
-            <name>Bret Devereaux</name>
-        </author>
-        <updated>2021-12-24T18:20:31+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bret-devereaux-gap-week-december-24-2021/</id>
     <content type="html">
         
     </content>
