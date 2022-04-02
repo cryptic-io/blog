@@ -61,14 +61,4 @@
     author = "Wesley Aptekar-Cassels";
     url = "https://blog.wesleyac.com/feed.xml";
   }
-  {
-    name = "ACOUP";
-    author = "Bret Devereaux";
-    url = "https://acoup.blog/feed/";
-  }
-  {
-    name = "Go Make Things";
-    author = "Chris Ferdinandi";
-    url = "https://gomakethings.com/feed/index.xml";
-  }
 ]
