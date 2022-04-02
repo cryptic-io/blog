@@ -130,7 +130,7 @@
     url = "https://rohanrd.xyz/index.xml";
   }
   {
-    name = "www.johnwhiles.com";
+    name = "johnwhiles.com";
     author = "John Whiles";
     url = "https://www.johnwhiles.com/atom.xml";
   }
