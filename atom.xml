@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-04-02T07:53:00+00:00</updated>
+  <updated>2022-04-03T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Big on hacker news</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2022-04-03T00:00:00+00:00</published>
+    <updated>2022-04-03T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-big-on-hacker-news/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-big-on-hacker-news/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/big-on-hacker-news.html</id>
+        <link href="https://johnwhiles.com/posts/big-on-hacker-news.html"/>
+        <title>Big on hacker news</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2022-04-03T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-big-on-hacker-news/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>How They Eat in Heaven</title>
         <author>
