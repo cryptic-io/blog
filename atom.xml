@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-04-04T19:00:00+00:00</updated>
+  <updated>2022-04-05T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Next Google</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+    <published>2022-04-05T00:00:00+00:00</published>
+    <updated>2022-04-05T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dkbdkbfyi-dkb-the-next-google/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-the-next-google/" type="text/html"/>
+      <source>
+        <id>https://dkb.io/post/the-next-google</id>
+        <link href="https://dkb.io/post/the-next-google"/>
+        <title>The Next Google</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+        <updated>2022-04-05T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dkbdkbfyi-dkb-the-next-google/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Thoughts on Exerting Control With Media Queries</title>
         <author>
