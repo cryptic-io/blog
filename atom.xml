@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-04-07T21:59:29+00:00</updated>
+  <updated>2022-04-08T00:30:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>We need platform regulation</title>
+        <author>
+            <name>Douglas Vaghetti</name>
+        </author>
+    <published>2022-04-08T00:30:00+00:00</published>
+    <updated>2022-04-08T00:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/douglas-vaghetti-we-need-platform-regulation/"/>
+    <link rel="alternate" href="https://news.cryptic.io/douglas-vaghetti-we-need-platform-regulation/" type="text/html"/>
+      <source>
+        <id>https://vaghetti.dev/posts/platform-regulation/</id>
+        <link href="https://vaghetti.dev/posts/platform-regulation/"/>
+        <title>We need platform regulation</title>
+        <author>
+            <name>Douglas Vaghetti</name>
+        </author>
+        <updated>2022-04-08T00:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/douglas-vaghetti-we-need-platform-regulation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Lots of feedback about &#x2F;bin&#x2F;true, and more empty file fun</title>
         <author>
