@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-04-10T14:54:27+00:00</updated>
+  <updated>2022-04-11T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The flaws of distro hopping and asking other people about their OS of choice</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2022-04-11T00:00:00+00:00</published>
+    <updated>2022-04-11T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-the-flaws-of-distro-hopping-and-asking-other-people-about-their-os-of-choice/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-the-flaws-of-distro-hopping-and-asking-other-people-about-their-os-of-choice/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/articles/the-flaws-of-distro-hopping-and-asking-other-people-about-their-os-of-choice.html</id>
+        <link href="https://unixsheikh.com/articles/the-flaws-of-distro-hopping-and-asking-other-people-about-their-os-of-choice.html"/>
+        <title>The flaws of distro hopping and asking other people about their OS of choice</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2022-04-11T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-the-flaws-of-distro-hopping-and-asking-other-people-about-their-os-of-choice/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>&quot;You Don&#x27;t Need to Trust Science Because You Can Test It.&quot; -  but Can You?</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/douglas-vaghetti-you-dont-need-to-trust-science-because-you-can-test-it-but-can-you/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Arthur Ryder on Kalidasa</title>
+        <author>
+            <name>Arun Prasad</name>
+        </author>
+    <published>2022-04-10T07:53:00+00:00</published>
+    <updated>2022-04-10T07:53:00+00:00</updated>
+    <link href="https://news.cryptic.io/arun-prasad-arthur-ryder-on-kalidasa/"/>
+    <link rel="alternate" href="https://news.cryptic.io/arun-prasad-arthur-ryder-on-kalidasa/" type="text/html"/>
+      <source>
+        <id>https://arunkprasad.com/log/arthur-ryder-on-kalidasa/</id>
+        <link href="https://arunkprasad.com/log/arthur-ryder-on-kalidasa/"/>
+        <title>Arthur Ryder on Kalidasa</title>
+        <author>
+            <name>Arun Prasad</name>
+        </author>
+        <updated>2022-04-10T07:53:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/arun-prasad-arthur-ryder-on-kalidasa/</id>
     <content type="html">
         
     </content>
