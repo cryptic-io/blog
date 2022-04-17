@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-04-16T19:00:00+00:00</updated>
+  <updated>2022-04-17T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Arnie films I&#x27;ve watched recently</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2022-04-17T00:00:00+00:00</published>
+    <updated>2022-04-17T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-arnie-films-ive-watched-recently/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-arnie-films-ive-watched-recently/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/arnie-films-part-one.html</id>
+        <link href="https://johnwhiles.com/posts/arnie-films-part-one.html"/>
+        <title>Arnie films I&#x27;ve watched recently</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2022-04-17T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-arnie-films-ive-watched-recently/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Having Fun Writing APIs With Glitch</title>
         <author>
