@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-04-19T19:00:00+00:00</updated>
+  <updated>2022-04-20T09:13:09+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Debian&#x2F;Raspbian rngd with -S0 will bite you after a week</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-04-20T09:13:09+00:00</published>
+    <updated>2022-04-20T09:13:09+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-debianraspbian-rngd-with-s0-will-bite-you-after-a-week/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-debianraspbian-rngd-with-s0-will-bite-you-after-a-week/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/04/20/rngd/</id>
+        <link href="https://rachelbythebay.com/w/2022/04/20/rngd/"/>
+        <title>Debian&#x2F;Raspbian rngd with -S0 will bite you after a week</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-04-20T09:13:09+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-debianraspbian-rngd-with-s0-will-bite-you-after-a-week/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Ordering CSS Declarations</title>
         <author>
