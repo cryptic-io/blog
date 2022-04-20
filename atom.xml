@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-04-19T00:00:00+00:00</updated>
+  <updated>2022-04-19T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Ordering CSS Declarations</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-04-19T19:00:00+00:00</published>
+    <updated>2022-04-19T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-ordering-css-declarations/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-ordering-css-declarations/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/ordering-css-delcarations/</id>
+        <link href="https://blog.jim-nielsen.com/2022/ordering-css-delcarations/"/>
+        <title>Ordering CSS Declarations</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-04-19T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-ordering-css-declarations/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>‘Zero Trust’ security is a poor choice of words</title>
         <author>
