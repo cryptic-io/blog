@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-04-20T09:13:09+00:00</updated>
+  <updated>2022-04-21T07:53:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Youth is Wasted on the Young</title>
+        <author>
+            <name>Arun Prasad</name>
+        </author>
+    <published>2022-04-21T07:53:00+00:00</published>
+    <updated>2022-04-21T07:53:00+00:00</updated>
+    <link href="https://news.cryptic.io/arun-prasad-youth-is-wasted-on-the-young/"/>
+    <link rel="alternate" href="https://news.cryptic.io/arun-prasad-youth-is-wasted-on-the-young/" type="text/html"/>
+      <source>
+        <id>https://arunkprasad.com/log/youth-is-wasted-on-the-young/</id>
+        <link href="https://arunkprasad.com/log/youth-is-wasted-on-the-young/"/>
+        <title>Youth is Wasted on the Young</title>
+        <author>
+            <name>Arun Prasad</name>
+        </author>
+        <updated>2022-04-21T07:53:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/arun-prasad-youth-is-wasted-on-the-young/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Debian&#x2F;Raspbian rngd with -S0 will bite you after a week</title>
         <author>
