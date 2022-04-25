@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-04-24T00:00:00+00:00</updated>
+  <updated>2022-04-25T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Why LSP?</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+    <published>2022-04-25T00:00:00+00:00</published>
+    <updated>2022-04-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/aleksey-kladov-why-lsp/"/>
+    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-why-lsp/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io//2022/04/25/why-lsp.html</id>
+        <link href="https://matklad.github.io//2022/04/25/why-lsp.html"/>
+        <title>Why LSP?</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+        <updated>2022-04-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/aleksey-kladov-why-lsp/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Six things I sort of believe about making music&#x2F;art</title>
         <author>
