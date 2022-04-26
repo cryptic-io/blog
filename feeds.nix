@@ -139,4 +139,89 @@
     author = "Tim Daubenschütz";
     url = "https://timdaub.github.io/atom.xml";
   }
+  {
+    name = "ᕕ( ᐛ )ᕗ Herman's blog";
+    url = "https://herman.bearblog.dev/feed/";
+  }
+  {
+    name = "Pursuit of Laziness";
+    author = "Jesse Duffield";
+    url = "https://jesseduffield.com/feed.xml";
+  }
+  {
+    name = "austinhenley.com";
+    author = "Austin Z. Henley";
+    url = "https://austinhenley.com/blog/feed.rss";
+  }
+  {
+    name = "Languages and Architecture";
+    author = "Evan Ovadia";
+    url = "https://verdagon.dev/rss.xml";
+  }
+  {
+    name = "DYNOMIGHT";
+    url = "https://dynomight.net/feed.xml";
+  }
+  {
+    name = "patzhong.com";
+    author = "Patrick Zhong";
+    url = "https://patzhong.com/feed/";
+  }
+  {
+    name = "Annoying Technology";
+    url = "https://annoying.technology/index.xml";
+  }
+  {
+    name = "jacobian.org";
+    url = "https://jacobian.org/index.xml";
+  }
+  {
+    name = "Zeptonaut";
+    author = "Charlie Andrews";
+    url = "https://www.zeptonaut.com/index.xml";
+  }
+  {
+    name = "see shy jo";
+    author = "Joey Hess";
+    url = "https://joeyh.name/blog/index.rss";
+  }
+  {
+    name = "the singularity is nearer";
+    author = "geohot";
+    url = "https://geohot.github.io/blog/feed.xml";
+  }
+  {
+    name = "xkcd";
+    author = "Randall Munroe";
+    url = "https://xkcd.com/atom.xml";
+  }
+  {
+    name = "j3s.sh";
+    author = "Jes Olson";
+    url = "https://j3s.sh/feed.atom";
+  }
+  {
+    name = "Molly White";
+    url = "https://blog.mollywhite.net/feed.xml";
+  }
+  {
+    name = "andersource";
+    author = "andersource";
+    url = "https://andersource.dev/feed.xml";
+  }
+  {
+    name = "jefftk.com";
+    author = "Jeff Kaufman";
+    url = "https://www.jefftk.com/news.rss";
+  }
+  {
+    name = "The Roots of Progress";
+    author = "Various";
+    url = "https://rootsofprogress.org/feed.xml";
+  }
+  {
+    name = "royvanrijn";
+    author = "Roy van Rijn";
+    url = "https://www.royvanrijn.com/feed/index.xml";
+  }
 ]
