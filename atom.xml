@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-04-27T08:57:48+00:00</updated>
+  <updated>2022-04-27T16:15:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Const Generics and the Compile Time Spread Operator</title>
+        <author>
+            <name>Evan Ovadia</name>
+        </author>
+    <published>2022-04-27T16:15:00+00:00</published>
+    <updated>2022-04-27T16:15:00+00:00</updated>
+    <link href="https://news.cryptic.io/evan-ovadia-const-generics-and-the-compile-time-spread-operator/"/>
+    <link rel="alternate" href="https://news.cryptic.io/evan-ovadia-const-generics-and-the-compile-time-spread-operator/" type="text/html"/>
+      <source>
+        <id>https://verdagon.dev/blog/const-generics-spread</id>
+        <link href="https://verdagon.dev/blog/const-generics-spread"/>
+        <title>Const Generics and the Compile Time Spread Operator</title>
+        <author>
+            <name>Evan Ovadia</name>
+        </author>
+        <updated>2022-04-27T16:15:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/evan-ovadia-const-generics-and-the-compile-time-spread-operator/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>My Raspberry Pi-based temperature tracking project</title>
         <author>
@@ -592,8 +616,8 @@
     <link href="https://news.cryptic.io/evan-ovadia-on-removing-let-and-let-mut/"/>
     <link rel="alternate" href="https://news.cryptic.io/evan-ovadia-on-removing-let-and-let-mut/" type="text/html"/>
       <source>
-        <id>https://verdagon.dev/blog/0.2/on-removing-let-let-mut</id>
-        <link href="https://verdagon.dev/blog/0.2/on-removing-let-let-mut"/>
+        <id>https://verdagon.dev/blog/on-removing-let-let-mut</id>
+        <link href="https://verdagon.dev/blog/on-removing-let-let-mut"/>
         <title>On Removing Let and Let Mut</title>
         <author>
             <name>Evan Ovadia</name>
