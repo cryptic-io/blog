@@ -7,7 +7,7 @@ template = "html_content/raw.html"
 [extra]
 feedName = "Languages and Architecture"
 author = "Evan Ovadia"
-originalLink = "https://verdagon.dev/blog/0.2/on-removing-let-let-mut"
+originalLink = "https://verdagon.dev/blog/on-removing-let-let-mut"
 raw = ""
 
 +++
