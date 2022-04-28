@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-04-27T16:15:00+00:00</updated>
+  <updated>2022-04-28T03:39:30+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Start small</title>
+        <author>
+            <name>Patrick Zhong</name>
+        </author>
+    <published>2022-04-28T03:39:30+00:00</published>
+    <updated>2022-04-28T03:39:30+00:00</updated>
+    <link href="https://news.cryptic.io/patrick-zhong-start-small/"/>
+    <link rel="alternate" href="https://news.cryptic.io/patrick-zhong-start-small/" type="text/html"/>
+      <source>
+        <id>https://patzhong.com/start-small/?utm_source=rss&utm_medium=rss&utm_campaign=start-small</id>
+        <link href="https://patzhong.com/start-small/?utm_source=rss&utm_medium=rss&utm_campaign=start-small"/>
+        <title>Start small</title>
+        <author>
+            <name>Patrick Zhong</name>
+        </author>
+        <updated>2022-04-28T03:39:30+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/patrick-zhong-start-small/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Const Generics and the Compile Time Spread Operator</title>
         <author>
