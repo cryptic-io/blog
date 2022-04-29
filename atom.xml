@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-04-29T13:41:18+00:00</updated>
+  <updated>2022-04-29T15:15:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Added to Vale 0.2 Beta: Concept Functions</title>
+        <author>
+            <name>Evan Ovadia</name>
+        </author>
+    <published>2022-04-29T15:15:00+00:00</published>
+    <updated>2022-04-29T15:15:00+00:00</updated>
+    <link href="https://news.cryptic.io/evan-ovadia-added-to-vale-02-beta-concept-functions/"/>
+    <link rel="alternate" href="https://news.cryptic.io/evan-ovadia-added-to-vale-02-beta-concept-functions/" type="text/html"/>
+      <source>
+        <id>https://verdagon.dev/blog/concept-functions</id>
+        <link href="https://verdagon.dev/blog/concept-functions"/>
+        <title>Added to Vale 0.2 Beta: Concept Functions</title>
+        <author>
+            <name>Evan Ovadia</name>
+        </author>
+        <updated>2022-04-29T15:15:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/evan-ovadia-added-to-vale-02-beta-concept-functions/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Worker Editor</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/chris-coyier-worker-editor/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Bad Map Projection: Madagascator</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-04-29T00:00:00+00:00</published>
+    <updated>2022-04-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-bad-map-projection-madagascator/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-bad-map-projection-madagascator/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2613/</id>
+        <link href="https://xkcd.com/2613/"/>
+        <title>Bad Map Projection: Madagascator</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-04-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-bad-map-projection-madagascator/</id>
     <content type="html">
         
     </content>
