@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-04-28T22:09:12+00:00</updated>
+  <updated>2022-04-29T13:41:18+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Worker Editor</title>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    <published>2022-04-29T13:41:18+00:00</published>
+    <updated>2022-04-29T13:41:18+00:00</updated>
+    <link href="https://news.cryptic.io/chris-coyier-worker-editor/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-coyier-worker-editor/" type="text/html"/>
+      <source>
+        <id>https://chriscoyier.net/2022/04/29/worker-editor/</id>
+        <link href="https://chriscoyier.net/2022/04/29/worker-editor/"/>
+        <title>Worker Editor</title>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+        <updated>2022-04-29T13:41:18+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-coyier-worker-editor/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>My Raspberry Pi-based temperature tracking project</title>
         <author>
