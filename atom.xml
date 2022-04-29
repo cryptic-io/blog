@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-04-29T15:15:00+00:00</updated>
+  <updated>2022-04-29T19:19:29+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>RSS</title>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    <published>2022-04-29T19:19:29+00:00</published>
+    <updated>2022-04-29T19:19:29+00:00</updated>
+    <link href="https://news.cryptic.io/chris-coyier-rss/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-coyier-rss/" type="text/html"/>
+      <source>
+        <id>https://chriscoyier.net/2022/04/29/rss-3/</id>
+        <link href="https://chriscoyier.net/2022/04/29/rss-3/"/>
+        <title>RSS</title>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+        <updated>2022-04-29T19:19:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-coyier-rss/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Added to Vale 0.2 Beta: Concept Functions</title>
         <author>
