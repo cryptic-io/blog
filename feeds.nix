@@ -224,4 +224,32 @@
     author = "Roy van Rijn";
     url = "https://www.royvanrijn.com/feed/index.xml";
   }
+  {
+    name = "THEJAYMO";
+    author = "Jay";
+    url = "https://www.thejaymo.net/feed/";
+  }
+
+  # Returns a 406 when called within syndicateBlogPosts for some reason
+  #{
+  #  name = "adactio";
+  #  author = "Jeremy Keith";
+  #  url = "https://adactio.com/journal/rss";
+  #}
+
+  {
+    name = "chriscoyier.net";
+    author = "Chris Coyier";
+    url = "https://chriscoyier.net/blog/feed/";
+  }
+  {
+    name = "tomcritchlow.com";
+    author = "Tom Critchlow";
+    url = "https://tomcritchlow.com/feed";
+  }
+  {
+    name = "Sentiers";
+    author = "Patrick Tanguay";
+    url = "https://sentiers.media/blog/feed.xml";
+  }
 ]
