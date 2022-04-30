@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-04-29T22:22:22+00:00</updated>
+  <updated>2022-04-30T06:17:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>We are not Adults Just Because We Say So</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-04-30T06:17:00+00:00</published>
+    <updated>2022-04-30T06:17:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/adults.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/adults.html"/>
+        <title>We are not Adults Just Because We Say So</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-04-30T06:17:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Paying a visit to planet BSD</title>
         <author>
