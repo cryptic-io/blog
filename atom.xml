@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-04-30T22:23:56+00:00</updated>
+  <updated>2022-05-01T00:34:31+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Paying a visit to planet BSD</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-05-01T00:34:31+00:00</published>
+    <updated>2022-05-01T00:34:31+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-paying-a-visit-to-planet-bsd/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-paying-a-visit-to-planet-bsd/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/04/29/bsd/</id>
+        <link href="https://rachelbythebay.com/w/2022/04/29/bsd/"/>
+        <title>Paying a visit to planet BSD</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-05-01T00:34:31+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-paying-a-visit-to-planet-bsd/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Speed Barbie, Racer Knight | 2217</title>
         <author>
@@ -98,30 +122,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-how-to-attain-power-and-influence/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Paying a visit to planet BSD</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-04-29T22:22:22+00:00</published>
-    <updated>2022-04-29T22:22:22+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-paying-a-visit-to-planet-bsd/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-paying-a-visit-to-planet-bsd/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/04/29/bsd/</id>
-        <link href="https://rachelbythebay.com/w/2022/04/29/bsd/"/>
-        <title>Paying a visit to planet BSD</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-04-29T22:22:22+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-paying-a-visit-to-planet-bsd/</id>
     <content type="html">
         
     </content>
