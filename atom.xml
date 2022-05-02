@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-05-02T17:06:02+00:00</updated>
+  <updated>2022-05-02T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Joining Remix</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-05-02T19:00:00+00:00</published>
+    <updated>2022-05-02T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-joining-remix/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-joining-remix/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/joining-remix/</id>
+        <link href="https://blog.jim-nielsen.com/2022/joining-remix/"/>
+        <title>Joining Remix</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-05-02T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-joining-remix/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Where them individual borders in Figma at?</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/chris-coyier-where-them-individual-borders-in-figma-at/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>2</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-05-02T00:00:00+00:00</published>
+    <updated>2022-05-02T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-2/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-2/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2614/</id>
+        <link href="https://xkcd.com/2614/"/>
+        <title>2</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-05-02T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-2/</id>
     <content type="html">
         
     </content>
