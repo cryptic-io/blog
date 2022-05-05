@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-05-04T14:26:30+00:00</updated>
+  <updated>2022-05-04T22:48:41+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>It doesn’t much matter how CDNy your Jamstack site is if everything important happens from a single-origin server. Edge functions are probably part of the solution.</title>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    <published>2022-05-04T22:48:41+00:00</published>
+    <updated>2022-05-04T22:48:41+00:00</updated>
+    <link href="https://news.cryptic.io/chris-coyier-it-doesnt-much-matter-how-cdny-your-jamstack-site-is-if-everything-important-happens-from-a-singleorigin-server-edge-functions-are-probably-part-of-the-solution/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-coyier-it-doesnt-much-matter-how-cdny-your-jamstack-site-is-if-everything-important-happens-from-a-singleorigin-server-edge-functions-are-probably-part-of-the-solution/" type="text/html"/>
+      <source>
+        <id>https://chriscoyier.net/2022/05/04/it-doesnt-much-matter-how-cdny-your-jamstack-site-is-if-everything-important-happens-from-a-single-origin-server-edge-functions-are-probably-part-of-the-solution/</id>
+        <link href="https://chriscoyier.net/2022/05/04/it-doesnt-much-matter-how-cdny-your-jamstack-site-is-if-everything-important-happens-from-a-single-origin-server-edge-functions-are-probably-part-of-the-solution/"/>
+        <title>It doesn’t much matter how CDNy your Jamstack site is if everything important happens from a single-origin server. Edge functions are probably part of the solution.</title>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+        <updated>2022-05-04T22:48:41+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-coyier-it-doesnt-much-matter-how-cdny-your-jamstack-site-is-if-everything-important-happens-from-a-singleorigin-server-edge-functions-are-probably-part-of-the-solution/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>What are the best examples of catastrophic resource shortages?</title>
         <author>
