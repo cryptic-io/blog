@@ -127,6 +127,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Deep End</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-05-06T00:00:00+00:00</published>
+    <updated>2022-05-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-deep-end/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-deep-end/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2616/</id>
+        <link href="https://xkcd.com/2616/"/>
+        <title>Deep End</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-05-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-deep-end/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Some Notes on Executive Dashboards</title>
         <author>
             <name>Tom Critchlow</name>
