@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-05-06T14:01:43+00:00</updated>
+  <updated>2022-05-06T14:55:25+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Wind-up Worlds</title>
+        <author>
+            <name>Jay</name>
+        </author>
+    <published>2022-05-06T14:55:25+00:00</published>
+    <updated>2022-05-06T14:55:25+00:00</updated>
+    <link href="https://news.cryptic.io/jay-windup-worlds/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jay-windup-worlds/" type="text/html"/>
+      <source>
+        <id>https://www.thejaymo.net/2022/05/06/wind-up-worlds/</id>
+        <link href="https://www.thejaymo.net/2022/05/06/wind-up-worlds/"/>
+        <title>Wind-up Worlds</title>
+        <author>
+            <name>Jay</name>
+        </author>
+        <updated>2022-05-06T14:55:25+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jay-windup-worlds/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Alpinist</title>
         <author>
@@ -26,6 +50,78 @@
       </source>
 
     <id>https://news.cryptic.io/chris-coyier-the-alpinist/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Contra Dance Mask Policy</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+    <published>2022-05-06T13:00:00+00:00</published>
+    <updated>2022-05-06T13:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-kaufman-contra-dance-mask-policy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-kaufman-contra-dance-mask-policy/" type="text/html"/>
+      <source>
+        <id>https://www.jefftk.com/p/contra-dance-mask-policy</id>
+        <link href="https://www.jefftk.com/p/contra-dance-mask-policy"/>
+        <title>Contra Dance Mask Policy</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+        <updated>2022-05-06T13:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-kaufman-contra-dance-mask-policy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Interview with Brave Search</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+    <published>2022-05-06T00:00:00+00:00</published>
+    <updated>2022-05-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-brave-search/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-brave-search/" type="text/html"/>
+      <source>
+        <id>https://dkb.io/post/brave-search-interview</id>
+        <link href="https://dkb.io/post/brave-search-interview"/>
+        <title>Interview with Brave Search</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+        <updated>2022-05-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-brave-search/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Some Notes on Executive Dashboards</title>
+        <author>
+            <name>Tom Critchlow</name>
+        </author>
+    <published>2022-05-06T00:00:00+00:00</published>
+    <updated>2022-05-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tom-critchlow-some-notes-on-executive-dashboards/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tom-critchlow-some-notes-on-executive-dashboards/" type="text/html"/>
+      <source>
+        <id>http://tomcritchlow.com/2022/05/06/executive-dashboards/</id>
+        <link href="http://tomcritchlow.com/2022/05/06/executive-dashboards/"/>
+        <title>Some Notes on Executive Dashboards</title>
+        <author>
+            <name>Tom Critchlow</name>
+        </author>
+        <updated>2022-05-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tom-critchlow-some-notes-on-executive-dashboards/</id>
     <content type="html">
         
     </content>
