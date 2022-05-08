@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-05-08T00:00:00+00:00</updated>
+  <updated>2022-05-08T17:38:47+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Bonus Shakes | Weeknotes</title>
+        <author>
+            <name>Jay</name>
+        </author>
+    <published>2022-05-08T17:38:47+00:00</published>
+    <updated>2022-05-08T17:38:47+00:00</updated>
+    <link href="https://news.cryptic.io/jay-bonus-shakes-weeknotes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jay-bonus-shakes-weeknotes/" type="text/html"/>
+      <source>
+        <id>https://www.thejaymo.net/2022/05/08/244-bonus-shakes/</id>
+        <link href="https://www.thejaymo.net/2022/05/08/244-bonus-shakes/"/>
+        <title>Bonus Shakes | Weeknotes</title>
+        <author>
+            <name>Jay</name>
+        </author>
+        <updated>2022-05-08T17:38:47+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jay-bonus-shakes-weeknotes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Thinking about desktop apps</title>
         <author>
@@ -146,30 +170,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-shaving-is-too-expensive-also-the-world-is-out-to-get-you/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Bonus Shakes | Weeknotes</title>
-        <author>
-            <name>Jay</name>
-        </author>
-    <published>2022-05-06T19:25:47+00:00</published>
-    <updated>2022-05-06T19:25:47+00:00</updated>
-    <link href="https://news.cryptic.io/jay-bonus-shakes-weeknotes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jay-bonus-shakes-weeknotes/" type="text/html"/>
-      <source>
-        <id>https://www.thejaymo.net/2022/05/06/244-bonus-shakes/</id>
-        <link href="https://www.thejaymo.net/2022/05/06/244-bonus-shakes/"/>
-        <title>Bonus Shakes | Weeknotes</title>
-        <author>
-            <name>Jay</name>
-        </author>
-        <updated>2022-05-06T19:25:47+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jay-bonus-shakes-weeknotes/</id>
     <content type="html">
         
     </content>
