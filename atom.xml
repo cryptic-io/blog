@@ -127,6 +127,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Side Project Stories</title>
+        <author>
+            <name>Arun Prasad</name>
+        </author>
+    <published>2022-05-09T07:53:00+00:00</published>
+    <updated>2022-05-09T07:53:00+00:00</updated>
+    <link href="https://news.cryptic.io/arun-prasad-side-project-stories/"/>
+    <link rel="alternate" href="https://news.cryptic.io/arun-prasad-side-project-stories/" type="text/html"/>
+      <source>
+        <id>https://arunkprasad.com/log/side-project-stories/</id>
+        <link href="https://arunkprasad.com/log/side-project-stories/"/>
+        <title>Side Project Stories</title>
+        <author>
+            <name>Arun Prasad</name>
+        </author>
+        <updated>2022-05-09T07:53:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/arun-prasad-side-project-stories/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Implementing an SSH agent in Hare</title>
         <author>
             <name>Drew DeVault</name>
