@@ -1,7 +1,7 @@
 
 +++
 title = "Working on a new book: Four Decentralisation Protocols"
-date = 2022-04-30T23:00:00.000Z
+date = 2022-05-01T00:00:00.000Z
 template = "html_content/raw.html"
 
 [extra]

@@ -1,7 +1,7 @@
 
 +++
 title = "Launching a bookish channel"
-date = 2022-03-29T23:00:00.000Z
+date = 2022-03-30T00:00:00.000Z
 template = "html_content/raw.html"
 
 [extra]
