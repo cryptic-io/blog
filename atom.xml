@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-05-13T07:53:00+00:00</updated>
+  <updated>2022-05-14T13:01:08+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Post Normal | 2219</title>
+        <author>
+            <name>Jay</name>
+        </author>
+    <published>2022-05-14T13:01:08+00:00</published>
+    <updated>2022-05-14T13:01:08+00:00</updated>
+    <link href="https://news.cryptic.io/jay-post-normal-2219/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jay-post-normal-2219/" type="text/html"/>
+      <source>
+        <id>https://www.thejaymo.net/2022/05/14/301-2219-post-normal/</id>
+        <link href="https://www.thejaymo.net/2022/05/14/301-2219-post-normal/"/>
+        <title>Post Normal | 2219</title>
+        <author>
+            <name>Jay</name>
+        </author>
+        <updated>2022-05-14T13:01:08+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jay-post-normal-2219/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A Hare code generator for finding ioctl numbers</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2022-05-14T00:00:00+00:00</published>
+    <updated>2022-05-14T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-a-hare-code-generator-for-finding-ioctl-numbers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-a-hare-code-generator-for-finding-ioctl-numbers/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2022/05/14/generating-ioctls.html</id>
+        <link href="https://drewdevault.com/2022/05/14/generating-ioctls.html"/>
+        <title>A Hare code generator for finding ioctl numbers</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2022-05-14T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-a-hare-code-generator-for-finding-ioctl-numbers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Link Roundup 1</title>
         <author>
