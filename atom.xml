@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-05-17T20:55:59+00:00</updated>
+  <updated>2022-05-18T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Using Twitter at a Distance</title>
+        <author>
+            <name>Patrick Tanguay</name>
+        </author>
+    <published>2022-05-18T00:00:00+00:00</published>
+    <updated>2022-05-18T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/patrick-tanguay-using-twitter-at-a-distance/"/>
+    <link rel="alternate" href="https://news.cryptic.io/patrick-tanguay-using-twitter-at-a-distance/" type="text/html"/>
+      <source>
+        <id>https://sentiers.media/using-twitter-distance/</id>
+        <link href="https://sentiers.media/using-twitter-distance/"/>
+        <title>Using Twitter at a Distance</title>
+        <author>
+            <name>Patrick Tanguay</name>
+        </author>
+        <updated>2022-05-18T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/patrick-tanguay-using-twitter-at-a-distance/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Interview: Hear this Idea with Fin Moorhouse and Luca Righetti</title>
         <author>
@@ -842,6 +866,30 @@
       </source>
 
     <id>https://news.cryptic.io/molly-white-the-nft-creation-user-journey/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Ceci N’est Pas Un Humble Brag</title>
+        <author>
+            <name>Patrick Tanguay</name>
+        </author>
+    <published>2022-05-11T00:00:00+00:00</published>
+    <updated>2022-05-11T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/patrick-tanguay-ceci-nest-pas-un-humble-brag/"/>
+    <link rel="alternate" href="https://news.cryptic.io/patrick-tanguay-ceci-nest-pas-un-humble-brag/" type="text/html"/>
+      <source>
+        <id>https://sentiers.media/not-humblebrag/</id>
+        <link href="https://sentiers.media/not-humblebrag/"/>
+        <title>Ceci N’est Pas Un Humble Brag</title>
+        <author>
+            <name>Patrick Tanguay</name>
+        </author>
+        <updated>2022-05-11T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/patrick-tanguay-ceci-nest-pas-un-humble-brag/</id>
     <content type="html">
         
     </content>
