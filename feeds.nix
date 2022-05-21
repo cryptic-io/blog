@@ -5,7 +5,7 @@
   }
   {
     name = "Mediocre Blog";
-    url = "https://blog.mediocregopher.com/feed/by_tag/tech.xml";
+    url = "https://blog.mediocregopher.com/feed.xml?tag=tech";
   }
   {
     name = "Drew DeVault's Blog";
