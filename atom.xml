@@ -55,6 +55,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Weekly</title>
+        <author>
+            <name>Arun Prasad</name>
+        </author>
+    <published>2022-05-22T07:53:00+00:00</published>
+    <updated>2022-05-22T07:53:00+00:00</updated>
+    <link href="https://news.cryptic.io/arun-prasad-weekly/"/>
+    <link rel="alternate" href="https://news.cryptic.io/arun-prasad-weekly/" type="text/html"/>
+      <source>
+        <id>https://arunkprasad.com/log/weekly/</id>
+        <link href="https://arunkprasad.com/log/weekly/"/>
+        <title>Weekly</title>
+        <author>
+            <name>Arun Prasad</name>
+        </author>
+        <updated>2022-05-22T07:53:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/arun-prasad-weekly/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Old Blog, New Bones</title>
         <author>
             <name>mediocregopher</name>
