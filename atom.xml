@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-05-28T19:00:00+00:00</updated>
+  <updated>2022-05-29T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Builder Lite</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+    <published>2022-05-29T00:00:00+00:00</published>
+    <updated>2022-05-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/aleksey-kladov-builder-lite/"/>
+    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-builder-lite/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io//2022/05/29/builder-lite.html</id>
+        <link href="https://matklad.github.io//2022/05/29/builder-lite.html"/>
+        <title>Builder Lite</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+        <updated>2022-05-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/aleksey-kladov-builder-lite/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Avoiding Flash of Inaccurate Theme Color</title>
         <author>
