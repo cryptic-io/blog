@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-05-29T00:00:00+00:00</updated>
+  <updated>2022-05-29T17:00:46+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Recharging | Weeknotes</title>
+        <author>
+            <name>Jay</name>
+        </author>
+    <published>2022-05-29T17:00:46+00:00</published>
+    <updated>2022-05-29T17:00:46+00:00</updated>
+    <link href="https://news.cryptic.io/jay-recharging-weeknotes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jay-recharging-weeknotes/" type="text/html"/>
+      <source>
+        <id>https://www.thejaymo.net/2022/05/29/247-recharging/</id>
+        <link href="https://www.thejaymo.net/2022/05/29/247-recharging/"/>
+        <title>Recharging | Weeknotes</title>
+        <author>
+            <name>Jay</name>
+        </author>
+        <updated>2022-05-29T17:00:46+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jay-recharging-weeknotes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>State is hard: why SPAs will persist</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2022-05-29T16:43:10+00:00</published>
+    <updated>2022-05-29T16:43:10+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-state-is-hard-why-spas-will-persist/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-state-is-hard-why-spas-will-persist/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2022/05/29/state-is-hard-why-spas-will-persist/</id>
+        <link href="https://nolanlawson.com/2022/05/29/state-is-hard-why-spas-will-persist/"/>
+        <title>State is hard: why SPAs will persist</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2022-05-29T16:43:10+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-state-is-hard-why-spas-will-persist/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Builder Lite</title>
         <author>
