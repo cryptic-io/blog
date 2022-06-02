@@ -1,13 +1,13 @@
 
 +++
 title = "Philipp was annoyed"
-date = 2022-03-10T20:36:16.000Z
+date = 2022-03-21T21:48:36.000Z
 template = "html_content/raw.html"
 
 [extra]
 feedName = "Annoying Technology"
 author = "Philipp"
-originalLink = "https://annoying.technology/posts/d9d6d289a06def25/"
+originalLink = "https://annoying.technology/posts/cd6d4a1da456c43d/"
 raw = ""
 
 +++
