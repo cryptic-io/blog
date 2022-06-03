@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-06-03T00:00:00+00:00</updated>
+  <updated>2022-06-03T20:55:58+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Another Small Step For Maddy</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2022-06-03T20:55:58+00:00</published>
+    <updated>2022-06-03T20:55:58+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-another-small-step-for-maddy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-another-small-step-for-maddy/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/posts/another-small-step-for-maddy</id>
+        <link href="https://blog.mediocregopher.com/posts/another-small-step-for-maddy"/>
+        <title>Another Small Step For Maddy</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2022-06-03T20:55:58+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-another-small-step-for-maddy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A map for indie living</title>
         <author>
@@ -7375,6 +7399,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Philipp was annoyed</title>
+        <author>
+            <name>Philipp</name>
+        </author>
+    <published>2022-04-02T19:50:57+00:00</published>
+    <updated>2022-04-02T19:50:57+00:00</updated>
+    <link href="https://news.cryptic.io/philipp-philipp-was-annoyed/"/>
+    <link rel="alternate" href="https://news.cryptic.io/philipp-philipp-was-annoyed/" type="text/html"/>
+      <source>
+        <id>https://annoying.technology/posts/e9598663311f4153/</id>
+        <link href="https://annoying.technology/posts/e9598663311f4153/"/>
+        <title>Philipp was annoyed</title>
+        <author>
+            <name>Philipp</name>
+        </author>
+        <updated>2022-04-02T19:50:57+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/philipp-philipp-was-annoyed/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How They Eat in Heaven</title>
         <author>
             <name>Arun Prasad</name>
@@ -8882,30 +8930,6 @@
       </source>
 
     <id>https://news.cryptic.io/adam-pritchard-a-tiny-flaw-in-gos-netip-design/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Philipp was annoyed</title>
-        <author>
-            <name>Philipp</name>
-        </author>
-    <published>2022-03-21T21:48:36+00:00</published>
-    <updated>2022-03-21T21:48:36+00:00</updated>
-    <link href="https://news.cryptic.io/philipp-philipp-was-annoyed/"/>
-    <link rel="alternate" href="https://news.cryptic.io/philipp-philipp-was-annoyed/" type="text/html"/>
-      <source>
-        <id>https://annoying.technology/posts/cd6d4a1da456c43d/</id>
-        <link href="https://annoying.technology/posts/cd6d4a1da456c43d/"/>
-        <title>Philipp was annoyed</title>
-        <author>
-            <name>Philipp</name>
-        </author>
-        <updated>2022-03-21T21:48:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/philipp-philipp-was-annoyed/</id>
     <content type="html">
         
     </content>
