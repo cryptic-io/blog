@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-06-04T21:25:30+00:00</updated>
+  <updated>2022-06-04T22:15:20+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Reinventing the wheel</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2022-06-04T22:15:20+00:00</published>
+    <updated>2022-06-04T22:15:20+00:00</updated>
+    <link href="https://news.cryptic.io/various-reinventing-the-wheel/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-reinventing-the-wheel/" type="text/html"/>
+      <source>
+        <id>https://rootsofprogress.org/reinventing-the-wheel</id>
+        <link href="https://rootsofprogress.org/reinventing-the-wheel"/>
+        <title>Reinventing the wheel</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2022-06-04T22:15:20+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-reinventing-the-wheel/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Meetup in SF, June 11: Progress Studies + Effective Altruism</title>
         <author>
