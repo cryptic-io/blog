@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-06-05T16:30:00+00:00</updated>
+  <updated>2022-06-05T21:15:18+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Busy Week | Weeknotes</title>
+        <author>
+            <name>Jay</name>
+        </author>
+    <published>2022-06-05T21:15:18+00:00</published>
+    <updated>2022-06-05T21:15:18+00:00</updated>
+    <link href="https://news.cryptic.io/jay-busy-week-weeknotes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jay-busy-week-weeknotes/" type="text/html"/>
+      <source>
+        <id>https://www.thejaymo.net/2022/06/05/248-busy-week/</id>
+        <link href="https://www.thejaymo.net/2022/06/05/248-busy-week/"/>
+        <title>Busy Week | Weeknotes</title>
+        <author>
+            <name>Jay</name>
+        </author>
+        <updated>2022-06-05T21:15:18+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jay-busy-week-weeknotes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Interactive data exploration</title>
         <author>
@@ -218,6 +242,30 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-a-map-for-indie-living/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Philipp was annoyed</title>
+        <author>
+            <name>Philipp</name>
+        </author>
+    <published>2022-06-02T18:13:10+00:00</published>
+    <updated>2022-06-02T18:13:10+00:00</updated>
+    <link href="https://news.cryptic.io/philipp-philipp-was-annoyed/"/>
+    <link rel="alternate" href="https://news.cryptic.io/philipp-philipp-was-annoyed/" type="text/html"/>
+      <source>
+        <id>https://annoying.technology/posts/1f2fafffcda6e809/</id>
+        <link href="https://annoying.technology/posts/1f2fafffcda6e809/"/>
+        <title>Philipp was annoyed</title>
+        <author>
+            <name>Philipp</name>
+        </author>
+        <updated>2022-06-02T18:13:10+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/philipp-philipp-was-annoyed/</id>
     <content type="html">
         
     </content>
@@ -7562,30 +7610,6 @@
       </source>
 
     <id>https://news.cryptic.io/jay-from-penny-theatre-to-social-media-2213/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Philipp was annoyed</title>
-        <author>
-            <name>Philipp</name>
-        </author>
-    <published>2022-04-02T19:50:57+00:00</published>
-    <updated>2022-04-02T19:50:57+00:00</updated>
-    <link href="https://news.cryptic.io/philipp-philipp-was-annoyed/"/>
-    <link rel="alternate" href="https://news.cryptic.io/philipp-philipp-was-annoyed/" type="text/html"/>
-      <source>
-        <id>https://annoying.technology/posts/e9598663311f4153/</id>
-        <link href="https://annoying.technology/posts/e9598663311f4153/"/>
-        <title>Philipp was annoyed</title>
-        <author>
-            <name>Philipp</name>
-        </author>
-        <updated>2022-04-02T19:50:57+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/philipp-philipp-was-annoyed/</id>
     <content type="html">
         
     </content>
