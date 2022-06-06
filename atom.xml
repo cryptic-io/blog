@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-06-05T21:15:18+00:00</updated>
+  <updated>2022-06-06T12:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Machine Learning Scientist as Toolsmith</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2022-06-06T12:00:00+00:00</published>
+    <updated>2022-06-06T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-the-machine-learning-scientist-as-toolsmith/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-the-machine-learning-scientist-as-toolsmith/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2022/toolsmith/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2022/toolsmith/"/>
+        <title>The Machine Learning Scientist as Toolsmith</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2022-06-06T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-the-machine-learning-scientist-as-toolsmith/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Busy Week | Weeknotes</title>
         <author>
