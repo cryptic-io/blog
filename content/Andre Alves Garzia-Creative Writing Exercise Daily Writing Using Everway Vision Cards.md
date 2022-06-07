@@ -1,7 +1,7 @@
 
 +++
 title = "Creative Writing Exercise: Daily Writing Using Everway Vision Cards"
-date = 2022-05-25T00:00:00.000Z
+date = 2022-05-24T23:00:00.000Z
 template = "html_content/raw.html"
 
 [extra]
