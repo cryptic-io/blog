@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-06-09T02:59:04+00:00</updated>
+  <updated>2022-06-09T15:13:17+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The collapse of complex software</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2022-06-09T15:13:17+00:00</published>
+    <updated>2022-06-09T15:13:17+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-the-collapse-of-complex-software/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-the-collapse-of-complex-software/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/</id>
+        <link href="https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/"/>
+        <title>The collapse of complex software</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2022-06-09T15:13:17+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-the-collapse-of-complex-software/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Links and tweets, 2022-06-08</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-links-and-tweets-20220608/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Why it’s bad to kill Grandma</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+    <published>2022-06-09T00:00:00+00:00</published>
+    <updated>2022-06-09T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dynomight-why-its-bad-to-kill-grandma/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dynomight-why-its-bad-to-kill-grandma/" type="text/html"/>
+      <source>
+        <id>https://dynomight.net/grandma/</id>
+        <link href="https://dynomight.net/grandma/"/>
+        <title>Why it’s bad to kill Grandma</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+        <updated>2022-06-09T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dynomight-why-its-bad-to-kill-grandma/</id>
     <content type="html">
         
     </content>
