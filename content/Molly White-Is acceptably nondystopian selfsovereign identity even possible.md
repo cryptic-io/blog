@@ -1,6 +1,6 @@
 
 +++
-title = "Is “acceptably non-dystopian” self-sovereign identity even possible?"
+title = 'Is "acceptably non-dystopian" self-sovereign identity even possible?'
 date = 2022-06-10T00:00:00.000Z
 template = "html_content/raw.html"
 
