@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-06-10T13:00:00+00:00</updated>
+  <updated>2022-06-11T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Caches In Rust</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+    <published>2022-06-11T00:00:00+00:00</published>
+    <updated>2022-06-11T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/aleksey-kladov-caches-in-rust/"/>
+    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-caches-in-rust/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io//2022/06/11/caches-in-rust.html</id>
+        <link href="https://matklad.github.io//2022/06/11/caches-in-rust.html"/>
+        <title>Caches In Rust</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+        <updated>2022-06-11T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/aleksey-kladov-caches-in-rust/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Leaving Google, Joining the Nucleic Acid Observatory</title>
         <author>
