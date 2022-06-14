@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-06-13T23:01:19+00:00</updated>
+  <updated>2022-06-14T14:47:38+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Dialogs and shadow DOM: can we make it accessible?</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2022-06-14T14:47:38+00:00</published>
+    <updated>2022-06-14T14:47:38+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-dialogs-and-shadow-dom-can-we-make-it-accessible/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-dialogs-and-shadow-dom-can-we-make-it-accessible/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2022/06/14/dialogs-and-shadow-dom-can-we-make-it-accessible/</id>
+        <link href="https://nolanlawson.com/2022/06/14/dialogs-and-shadow-dom-can-we-make-it-accessible/"/>
+        <title>Dialogs and shadow DOM: can we make it accessible?</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2022-06-14T14:47:38+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-dialogs-and-shadow-dom-can-we-make-it-accessible/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>They don’t know it’s the last time when you hold them</title>
         <author>
