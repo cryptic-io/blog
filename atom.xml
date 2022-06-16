@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-06-15T20:35:50+00:00</updated>
+  <updated>2022-06-16T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Rejecting Specialization</title>
+        <author>
+            <name>Tom Critchlow</name>
+        </author>
+    <published>2022-06-16T00:00:00+00:00</published>
+    <updated>2022-06-16T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tom-critchlow-rejecting-specialization/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tom-critchlow-rejecting-specialization/" type="text/html"/>
+      <source>
+        <id>http://tomcritchlow.com/2022/06/16/rejecting-specialization/</id>
+        <link href="http://tomcritchlow.com/2022/06/16/rejecting-specialization/"/>
+        <title>Rejecting Specialization</title>
+        <author>
+            <name>Tom Critchlow</name>
+        </author>
+        <updated>2022-06-16T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tom-critchlow-rejecting-specialization/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Place name mappings probably need a time dimension too</title>
         <author>
