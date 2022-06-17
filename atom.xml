@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-06-16T22:33:09+00:00</updated>
+  <updated>2022-06-17T03:17:04+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Free associating from &#x27;df&#x27; to RCE</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-06-17T03:17:04+00:00</published>
+    <updated>2022-06-17T03:17:04+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/06/16/rce/</id>
+        <link href="https://rachelbythebay.com/w/2022/06/16/rce/"/>
+        <title>Free associating from &#x27;df&#x27; to RCE</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-06-17T03:17:04+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>BBC Future covers progress studies</title>
         <author>
