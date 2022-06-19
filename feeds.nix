@@ -215,19 +215,9 @@
     url = "https://www.jefftk.com/news.rss";
   }
   {
-    name = "The Roots of Progress";
-    author = "Various";
-    url = "https://rootsofprogress.org/feed.xml";
-  }
-  {
     name = "royvanrijn";
     author = "Roy van Rijn";
     url = "https://www.royvanrijn.com/feed/index.xml";
-  }
-  {
-    name = "THEJAYMO";
-    author = "Jay";
-    url = "https://www.thejaymo.net/feed/";
   }
 
   # Returns a 406 when called within syndicateBlogPosts for some reason
