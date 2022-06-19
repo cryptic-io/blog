@@ -242,4 +242,51 @@
     author = "Patrick Tanguay";
     url = "https://sentiers.media/blog/feed.xml";
   }
+  {
+    name = "www.nathalielawhead.com";
+    author = "Nathalie Lawhead";
+    url = "http://www.nathalielawhead.com/candybox/feed";
+  }
+  {
+    name = "tylercipriani.com";
+    url = "https://tylercipriani.com/blog/index.atom";
+  }
+  {
+    name = "The Universe of Discourse";
+    url = "https://blog.plover.com/index.atom";
+  }
+  {
+    name = "bkardell.com";
+    author = "Brian Kardell";
+    url = "https://bkardell.com/blog/feed.rss";
+  }
+  {
+    name = "Andraž Bajt's blog";
+    author = "Andraž Bajt";
+    url = "https://edofic.com/index.xml";
+  }
+  {
+    name = "The Autodidacts";
+    author = "Various";
+    url = "https://www.autodidacts.io/tag/essay/rss/";
+  }
+  {
+    name = "The Cheapskate's Guide to Computers and the Internet";
+    author = "Cheapskate";
+    url = "https://cheapskatesguide.org/cheapskates-guide-rss-feed.xml";
+  }
+  {
+    name = "Palladium";
+    author = "Various";
+    url = "https://palladiummag.com/feed/";
+  }
+  {
+    name = "justinjackson.ca";
+    author = "Justin Jackson";
+    url = "https://justinjackson.ca/feed";
+  }
+  {
+    name = "shutdown -r now";
+    url = "https://ounapuu.ee/index.xml";
+  }
 ]
