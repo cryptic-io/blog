@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-06-18T16:03:17+00:00</updated>
+  <updated>2022-06-18T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Message Behind the Medium of a Personal Blog</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-06-18T19:00:00+00:00</published>
+    <updated>2022-06-18T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-the-message-behind-the-medium-of-a-personal-blog/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-the-message-behind-the-medium-of-a-personal-blog/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/the-message-and-medium-of-the-personal-blog/</id>
+        <link href="https://blog.jim-nielsen.com/2022/the-message-and-medium-of-the-personal-blog/"/>
+        <title>The Message Behind the Medium of a Personal Blog</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-06-18T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-the-message-behind-the-medium-of-a-personal-blog/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Win Condition | 2224</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/jay-win-condition-2224/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Juneberry Cake</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+    <published>2022-06-18T13:00:00+00:00</published>
+    <updated>2022-06-18T13:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-kaufman-juneberry-cake/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-kaufman-juneberry-cake/" type="text/html"/>
+      <source>
+        <id>https://www.jefftk.com/p/juneberry-cake</id>
+        <link href="https://www.jefftk.com/p/juneberry-cake"/>
+        <title>Juneberry Cake</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+        <updated>2022-06-18T13:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-kaufman-juneberry-cake/</id>
     <content type="html">
         
     </content>
