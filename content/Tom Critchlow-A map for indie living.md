@@ -7,7 +7,7 @@ template = "html_content/raw.html"
 [extra]
 feedName = "tomcritchlow.com"
 author = "Tom Critchlow"
-originalLink = "http://tomcritchlow.com/2022/06/03/indie-consulting-map/"
+originalLink = "https://tomcritchlow.com/2022/06/03/indie-consulting-map/"
 raw = ""
 
 +++
