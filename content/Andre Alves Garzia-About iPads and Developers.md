@@ -1,7 +1,7 @@
 
 +++
 title = "About iPads and Developers"
-date = 2022-06-07T13:00:00.000Z
+date = 2022-06-07T14:00:00.000Z
 template = "html_content/raw.html"
 
 [extra]

@@ -1,7 +1,7 @@
 
 +++
 title = "Wonderful time at Cymera Festival"
-date = 2022-06-06T23:00:00.000Z
+date = 2022-06-07T00:00:00.000Z
 template = "html_content/raw.html"
 
 [extra]

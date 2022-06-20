@@ -1,7 +1,7 @@
 
 +++
 title = "Patchfox reborn as a desktop app"
-date = 2022-05-25T23:00:00.000Z
+date = 2022-05-26T00:00:00.000Z
 template = "html_content/raw.html"
 
 [extra]
