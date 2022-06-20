@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-06-18T19:00:00+00:00</updated>
+  <updated>2022-06-20T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Introducing the Himitsu keyring &amp; password manager for Unix</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2022-06-20T00:00:00+00:00</published>
+    <updated>2022-06-20T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-introducing-the-himitsu-keyring-password-manager-for-unix/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-introducing-the-himitsu-keyring-password-manager-for-unix/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2022/06/20/Himitsu.html</id>
+        <link href="https://drewdevault.com/2022/06/20/Himitsu.html"/>
+        <title>Introducing the Himitsu keyring &amp; password manager for Unix</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2022-06-20T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-introducing-the-himitsu-keyring-password-manager-for-unix/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Message Behind the Medium of a Personal Blog</title>
         <author>
