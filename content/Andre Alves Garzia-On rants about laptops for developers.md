@@ -1,7 +1,7 @@
 
 +++
 title = "On rants about laptops for developers"
-date = 2022-05-21T00:00:00.000Z
+date = 2022-05-20T23:00:00.000Z
 template = "html_content/raw.html"
 
 [extra]

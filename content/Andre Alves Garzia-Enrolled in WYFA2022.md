@@ -1,7 +1,7 @@
 
 +++
 title = "Enrolled in WYFA2022"
-date = 2022-06-20T14:31:00.000Z
+date = 2022-06-20T13:31:00.000Z
 template = "html_content/raw.html"
 
 [extra]
