@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-06-20T22:39:15+00:00</updated>
+  <updated>2022-06-21T14:15:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Vale&#x27;s Fearless FFI, for Safer Dependencies and Supply-Chain Attack Mitigation</title>
+        <author>
+            <name>Evan Ovadia</name>
+        </author>
+    <published>2022-06-21T14:15:00+00:00</published>
+    <updated>2022-06-21T14:15:00+00:00</updated>
+    <link href="https://news.cryptic.io/evan-ovadia-vales-fearless-ffi-for-safer-dependencies-and-supplychain-attack-mitigation/"/>
+    <link rel="alternate" href="https://news.cryptic.io/evan-ovadia-vales-fearless-ffi-for-safer-dependencies-and-supplychain-attack-mitigation/" type="text/html"/>
+      <source>
+        <id>https://verdagon.dev/blog/fearless-ffi</id>
+        <link href="https://verdagon.dev/blog/fearless-ffi"/>
+        <title>Vale&#x27;s Fearless FFI, for Safer Dependencies and Supply-Chain Attack Mitigation</title>
+        <author>
+            <name>Evan Ovadia</name>
+        </author>
+        <updated>2022-06-21T14:15:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/evan-ovadia-vales-fearless-ffi-for-safer-dependencies-and-supplychain-attack-mitigation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>More on geo-tagging photos with a time element</title>
         <author>
