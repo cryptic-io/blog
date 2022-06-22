@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-06-21T14:15:00+00:00</updated>
+  <updated>2022-06-22T14:09:11+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Style scoping versus shadow DOM: which is fastest?</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2022-06-22T14:09:11+00:00</published>
+    <updated>2022-06-22T14:09:11+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-style-scoping-versus-shadow-dom-which-is-fastest/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-style-scoping-versus-shadow-dom-which-is-fastest/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2022/06/22/style-scoping-versus-shadow-dom-which-is-fastest/</id>
+        <link href="https://nolanlawson.com/2022/06/22/style-scoping-versus-shadow-dom-which-is-fastest/"/>
+        <title>Style scoping versus shadow DOM: which is fastest?</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2022-06-22T14:09:11+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-style-scoping-versus-shadow-dom-which-is-fastest/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Vale&#x27;s Fearless FFI, for Safer Dependencies and Supply-Chain Attack Mitigation</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-vales-fearless-ffi-for-safer-dependencies-and-supplychain-attack-mitigation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>House Phone</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+    <published>2022-06-21T13:00:00+00:00</published>
+    <updated>2022-06-21T13:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-kaufman-house-phone/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-kaufman-house-phone/" type="text/html"/>
+      <source>
+        <id>https://www.jefftk.com/p/house-phone</id>
+        <link href="https://www.jefftk.com/p/house-phone"/>
+        <title>House Phone</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+        <updated>2022-06-21T13:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-kaufman-house-phone/</id>
     <content type="html">
         
     </content>
