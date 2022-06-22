@@ -79,6 +79,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>What If? 2 Countdown</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-06-22T00:00:00+00:00</published>
+    <updated>2022-06-22T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-what-if-2-countdown/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-what-if-2-countdown/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2636/</id>
+        <link href="https://xkcd.com/2636/"/>
+        <title>What If? 2 Countdown</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-06-22T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-what-if-2-countdown/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Vale&#x27;s Fearless FFI, for Safer Dependencies and Supply-Chain Attack Mitigation</title>
         <author>
             <name>Evan Ovadia</name>
