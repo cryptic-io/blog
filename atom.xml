@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-06-26T19:00:00+00:00</updated>
+  <updated>2022-06-27T15:54:52+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>SPAs: theory versus practice</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2022-06-27T15:54:52+00:00</published>
+    <updated>2022-06-27T15:54:52+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-spas-theory-versus-practice/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-spas-theory-versus-practice/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2022/06/27/spas-theory-versus-practice/</id>
+        <link href="https://nolanlawson.com/2022/06/27/spas-theory-versus-practice/"/>
+        <title>SPAs: theory versus practice</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2022-06-27T15:54:52+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-spas-theory-versus-practice/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A Previous Sibling Selector</title>
         <author>
