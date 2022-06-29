@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-06-29T08:00:00+00:00</updated>
+  <updated>2022-06-29T17:16:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Things I wish everyone knew about Git (Part I)</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2022-06-29T17:16:00+00:00</published>
+    <updated>2022-06-29T17:16:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-things-i-wish-everyone-knew-about-git-part-i/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-things-i-wish-everyone-knew-about-git-part-i/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/prog/git/tips.html</id>
+        <link href="https://blog.plover.com/prog/git/tips.html"/>
+        <title>Things I wish everyone knew about Git (Part I)</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2022-06-29T17:16:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-things-i-wish-everyone-knew-about-git-part-i/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The absolute state of Bluetooth audio in 2022</title>
         <author>
