@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-07-04T00:00:00+00:00</updated>
+  <updated>2022-07-04T22:54:24+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Public Release of cryptic-net</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2022-07-04T22:54:24+00:00</published>
+    <updated>2022-07-04T22:54:24+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-public-release-of-crypticnet/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-public-release-of-crypticnet/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/posts/public-release-of-cryptic-net</id>
+        <link href="https://blog.mediocregopher.com/posts/public-release-of-cryptic-net"/>
+        <title>Public Release of cryptic-net</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2022-07-04T22:54:24+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-public-release-of-crypticnet/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Unit and Integration Tests</title>
         <author>
