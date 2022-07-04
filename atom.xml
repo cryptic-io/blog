@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-07-03T07:53:00+00:00</updated>
+  <updated>2022-07-04T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Unit and Integration Tests</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+    <published>2022-07-04T00:00:00+00:00</published>
+    <updated>2022-07-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/aleksey-kladov-unit-and-integration-tests/"/>
+    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-unit-and-integration-tests/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io//2022/07/04/unit-and-integration-tests.html</id>
+        <link href="https://matklad.github.io//2022/07/04/unit-and-integration-tests.html"/>
+        <title>Unit and Integration Tests</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+        <updated>2022-07-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/aleksey-kladov-unit-and-integration-tests/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Side Projects</title>
         <author>
