@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-07-04T22:54:24+00:00</updated>
+  <updated>2022-07-05T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Some Notes on Agency at Work</title>
+        <author>
+            <name>Tom Critchlow</name>
+        </author>
+    <published>2022-07-05T00:00:00+00:00</published>
+    <updated>2022-07-05T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tom-critchlow-some-notes-on-agency-at-work/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tom-critchlow-some-notes-on-agency-at-work/" type="text/html"/>
+      <source>
+        <id>https://tomcritchlow.com/2022/07/05/agency/</id>
+        <link href="https://tomcritchlow.com/2022/07/05/agency/"/>
+        <title>Some Notes on Agency at Work</title>
+        <author>
+            <name>Tom Critchlow</name>
+        </author>
+        <updated>2022-07-05T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tom-critchlow-some-notes-on-agency-at-work/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Public Release of cryptic-net</title>
         <author>
