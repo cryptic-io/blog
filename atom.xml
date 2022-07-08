@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-07-07T13:00:00+00:00</updated>
+  <updated>2022-07-07T18:42:12+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Solving the daily calendar puzzle</title>
+        <author>
+            <name>Roy van Rijn</name>
+        </author>
+    <published>2022-07-07T18:42:12+00:00</published>
+    <updated>2022-07-07T18:42:12+00:00</updated>
+    <link href="https://news.cryptic.io/roy-van-rijn-solving-the-daily-calendar-puzzle/"/>
+    <link rel="alternate" href="https://news.cryptic.io/roy-van-rijn-solving-the-daily-calendar-puzzle/" type="text/html"/>
+      <source>
+        <id>https://royvanrijn.com/blog/2022/07/daily-calendar-puzzle-solutions/</id>
+        <link href="https://royvanrijn.com/blog/2022/07/daily-calendar-puzzle-solutions/"/>
+        <title>Solving the daily calendar puzzle</title>
+        <author>
+            <name>Roy van Rijn</name>
+        </author>
+        <updated>2022-07-07T18:42:12+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/roy-van-rijn-solving-the-daily-calendar-puzzle/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Babysitting as Parenting Trial?</title>
         <author>
@@ -50,6 +74,32 @@
       </source>
 
     <id>https://news.cryptic.io/cheapskate-the-cheapskates-guide-to-computers-and-the-internet/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Eurasia Will Not Unite
+</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2022-07-07T09:53:25+00:00</published>
+    <updated>2022-07-07T09:53:25+00:00</updated>
+    <link href="https://news.cryptic.io/various-eurasia-will-not-unite/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-eurasia-will-not-unite/" type="text/html"/>
+      <source>
+        <id>https://palladiummag.com/2022/07/07/eurasia-will-not-unite/</id>
+        <link href="https://palladiummag.com/2022/07/07/eurasia-will-not-unite/"/>
+        <title>Eurasia Will Not Unite
+</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2022-07-07T09:53:25+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-eurasia-will-not-unite/</id>
     <content type="html">
         
     </content>
@@ -914,32 +964,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-kaufman-lowfriction-mbta-predictions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Eurasia Will Not Unite
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2022-06-28T09:53:25+00:00</published>
-    <updated>2022-06-28T09:53:25+00:00</updated>
-    <link href="https://news.cryptic.io/various-eurasia-will-not-unite/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-eurasia-will-not-unite/" type="text/html"/>
-      <source>
-        <id>https://palladiummag.com/2022/06/28/eurasia-will-not-unite/</id>
-        <link href="https://palladiummag.com/2022/06/28/eurasia-will-not-unite/"/>
-        <title>Eurasia Will Not Unite
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2022-06-28T09:53:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-eurasia-will-not-unite/</id>
     <content type="html">
         
     </content>
