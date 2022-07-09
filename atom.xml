@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-07-08T07:00:00+00:00</updated>
+  <updated>2022-07-09T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Fediverse can be pretty toxic</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2022-07-09T00:00:00+00:00</published>
+    <updated>2022-07-09T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-the-fediverse-can-be-pretty-toxic/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-the-fediverse-can-be-pretty-toxic/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2022/07/09/Fediverse-toxicity.html</id>
+        <link href="https://drewdevault.com/2022/07/09/Fediverse-toxicity.html"/>
+        <title>The Fediverse can be pretty toxic</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2022-07-09T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-the-fediverse-can-be-pretty-toxic/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Older founders do this better</title>
         <author>
