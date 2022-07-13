@@ -7,6 +7,30 @@
   <updated>2022-07-13T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
+    <title>The Best Camera</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-07-13T00:00:00+00:00</published>
+    <updated>2022-07-13T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-the-best-camera/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-the-best-camera/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2645/</id>
+        <link href="https://xkcd.com/2645/"/>
+        <title>The Best Camera</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-07-13T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-the-best-camera/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>What do I think about network states?</title>
         <author>
             <name>Vitalik Buterin</name>
