@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-07-15T08:37:00+00:00</updated>
+  <updated>2022-07-16T14:16:29+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A better mental model for reasoning about Typescript types</title>
+        <author>
+            <name>Douglas Vaghetti</name>
+        </author>
+    <published>2022-07-16T14:16:29+00:00</published>
+    <updated>2022-07-16T14:16:29+00:00</updated>
+    <link href="https://news.cryptic.io/douglas-vaghetti-a-better-mental-model-for-reasoning-about-typescript-types/"/>
+    <link rel="alternate" href="https://news.cryptic.io/douglas-vaghetti-a-better-mental-model-for-reasoning-about-typescript-types/" type="text/html"/>
+      <source>
+        <id>https://vaghetti.dev/posts/typescript-types/</id>
+        <link href="https://vaghetti.dev/posts/typescript-types/"/>
+        <title>A better mental model for reasoning about Typescript types</title>
+        <author>
+            <name>Douglas Vaghetti</name>
+        </author>
+        <updated>2022-07-16T14:16:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/douglas-vaghetti-a-better-mental-model-for-reasoning-about-typescript-types/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>US State Laws and Municipal Agreements that Promote ISP Monopolies are Anti-Free Speech</title>
         <author>
