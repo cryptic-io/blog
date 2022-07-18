@@ -1,6 +1,6 @@
 
 +++
-title = 'Cryptocurrency "market caps" and notional value'
+title = "Cryptocurrency “market caps” and notional value"
 date = 2022-07-17T00:00:00.000Z
 template = "html_content/raw.html"
 
