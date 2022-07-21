@@ -7,7 +7,7 @@ template = "html_content/raw.html"
 [extra]
 feedName = "ᕕ( ᐛ )ᕗ Herman's blog"
 author = "herman"
-originalLink = "http://herman.bearblog.dev/how-to-procrastinate/"
+originalLink = "https://herman.bearblog.dev/how-to-procrastinate/"
 raw = ""
 
 +++

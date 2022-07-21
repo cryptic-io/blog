@@ -7,7 +7,7 @@ template = "html_content/raw.html"
 [extra]
 feedName = "ᕕ( ᐛ )ᕗ Herman's blog"
 author = "herman"
-originalLink = "http://herman.bearblog.dev/hello-world/"
+originalLink = "https://herman.bearblog.dev/hello-world/"
 raw = ""
 
 +++
