@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-07-24T19:00:00+00:00</updated>
+  <updated>2022-07-25T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Code review at the speed of email</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2022-07-25T00:00:00+00:00</published>
+    <updated>2022-07-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-code-review-at-the-speed-of-email/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-code-review-at-the-speed-of-email/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2022/07/25/Code-review-with-aerc.html</id>
+        <link href="https://drewdevault.com/2022/07/25/Code-review-with-aerc.html"/>
+        <title>Code review at the speed of email</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2022-07-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-code-review-at-the-speed-of-email/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Book Notes: “On Writing” by Steven King</title>
         <author>
