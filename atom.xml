@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-07-25T19:38:18+00:00</updated>
+  <updated>2022-07-25T23:04:41+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>My TODO System</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2022-07-25T23:04:41+00:00</published>
+    <updated>2022-07-25T23:04:41+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-my-todo-system/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-my-todo-system/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/posts/todos</id>
+        <link href="https://blog.mediocregopher.com/posts/todos"/>
+        <title>My TODO System</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2022-07-25T23:04:41+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-my-todo-system/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Overthunk Note-taking Workflows</title>
         <author>
