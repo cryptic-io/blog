@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-07-25T23:04:41+00:00</updated>
+  <updated>2022-07-26T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Conciseness</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2022-07-26T00:00:00+00:00</published>
+    <updated>2022-07-26T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-conciseness/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-conciseness/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2022/07/26/Conciseness.html</id>
+        <link href="https://drewdevault.com/2022/07/26/Conciseness.html"/>
+        <title>Conciseness</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2022-07-26T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-conciseness/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>My TODO System</title>
         <author>
