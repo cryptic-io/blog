@@ -4,8 +4,926 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-07-27T15:31:06+00:00</updated>
+  <updated>2022-08-10T02:09:15+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Running ruTorrent With Nix</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2022-08-10T02:09:15+00:00</published>
+    <updated>2022-08-10T02:09:15+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-running-rutorrent-with-nix/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-running-rutorrent-with-nix/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/posts/rutorrent-nix</id>
+        <link href="https://blog.mediocregopher.com/posts/rutorrent-nix"/>
+        <title>Running ruTorrent With Nix</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2022-08-10T02:09:15+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-running-rutorrent-with-nix/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Society of the Statistic: Where Does Science Fit?</title>
+        <author>
+            <name>Nathaniel Travis</name>
+        </author>
+    <published>2022-08-09T21:22:11+00:00</published>
+    <updated>2022-08-09T21:22:11+00:00</updated>
+    <link href="https://news.cryptic.io/nathaniel-travis-the-society-of-the-statistic-where-does-science-fit/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathaniel-travis-the-society-of-the-statistic-where-does-science-fit/" type="text/html"/>
+      <source>
+        <id>https://nathanieltravis.com/2022/08/09/the-society-of-the-statistic-where-does-science-fit/</id>
+        <link href="https://nathanieltravis.com/2022/08/09/the-society-of-the-statistic-where-does-science-fit/"/>
+        <title>The Society of the Statistic: Where Does Science Fit?</title>
+        <author>
+            <name>Nathaniel Travis</name>
+        </author>
+        <updated>2022-08-09T21:22:11+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathaniel-travis-the-society-of-the-statistic-where-does-science-fit/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Coming Mineral Conflict
+</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2022-08-09T01:42:04+00:00</published>
+    <updated>2022-08-09T01:42:04+00:00</updated>
+    <link href="https://news.cryptic.io/various-the-coming-mineral-conflict/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-the-coming-mineral-conflict/" type="text/html"/>
+      <source>
+        <id>https://palladiummag.com/2022/08/08/the-coming-mineral-conflict/</id>
+        <link href="https://palladiummag.com/2022/08/08/the-coming-mineral-conflict/"/>
+        <title>The Coming Mineral Conflict
+</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2022-08-09T01:42:04+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-the-coming-mineral-conflict/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Mineral Conflict Is Here
+</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2022-08-09T01:42:04+00:00</published>
+    <updated>2022-08-09T01:42:04+00:00</updated>
+    <link href="https://news.cryptic.io/various-the-mineral-conflict-is-here/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-the-mineral-conflict-is-here/" type="text/html"/>
+      <source>
+        <id>https://palladiummag.com/2022/08/08/the-mineral-conflict-is-here/</id>
+        <link href="https://palladiummag.com/2022/08/08/the-mineral-conflict-is-here/"/>
+        <title>The Mineral Conflict Is Here
+</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2022-08-09T01:42:04+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-the-mineral-conflict-is-here/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Markdown Sans Front Matter</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-08-08T19:00:00+00:00</published>
+    <updated>2022-08-08T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-markdown-sans-front-matter/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-markdown-sans-front-matter/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/markdown-sans-front-matter/</id>
+        <link href="https://blog.jim-nielsen.com/2022/markdown-sans-front-matter/"/>
+        <title>Markdown Sans Front Matter</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-08-08T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-markdown-sans-front-matter/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Shorts for August</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dynomight-shorts-for-august/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dynomight-shorts-for-august/" type="text/html"/>
+      <source>
+        <id>https://dynomight.net/shorts-3/</id>
+        <link href="https://dynomight.net/shorts-3/"/>
+        <title>Shorts for August</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+        <updated>2022-08-08T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dynomight-shorts-for-august/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Shorts: Noise, Indian cheetahs, and Fighting Joe</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dynomight-shorts-noise-indian-cheetahs-and-fighting-joe/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dynomight-shorts-noise-indian-cheetahs-and-fighting-joe/" type="text/html"/>
+      <source>
+        <id>https://dynomight.net/shorts-3/</id>
+        <link href="https://dynomight.net/shorts-3/"/>
+        <title>Shorts: Noise, Indian cheetahs, and Fighting Joe</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+        <updated>2022-08-08T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dynomight-shorts-noise-indian-cheetahs-and-fighting-joe/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Scientific Field Prefixes</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-08-08T00:00:00+00:00</published>
+    <updated>2022-08-08T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-scientific-field-prefixes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-scientific-field-prefixes/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2656/</id>
+        <link href="https://xkcd.com/2656/"/>
+        <title>Scientific Field Prefixes</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-08-08T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-scientific-field-prefixes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Careful with Caching</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+    <published>2022-08-07T13:00:00+00:00</published>
+    <updated>2022-08-07T13:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-kaufman-careful-with-caching/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-kaufman-careful-with-caching/" type="text/html"/>
+      <source>
+        <id>https://www.jefftk.com/p/careful-with-caching</id>
+        <link href="https://www.jefftk.com/p/careful-with-caching"/>
+        <title>Careful with Caching</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+        <updated>2022-08-07T13:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-kaufman-careful-with-caching/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Roadside Picnic – A Nitpick on How to Shoot the Earth</title>
+        <author>
+            <name>mechatronicsguy</name>
+        </author>
+    <published>2022-08-06T04:42:30+00:00</published>
+    <updated>2022-08-06T04:42:30+00:00</updated>
+    <link href="https://news.cryptic.io/mechatronicsguy-roadside-picnic-a-nitpick-on-how-to-shoot-the-earth/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mechatronicsguy-roadside-picnic-a-nitpick-on-how-to-shoot-the-earth/" type="text/html"/>
+      <source>
+        <id>https://tinkerings.org/2022/08/06/roadside-picnic-a-nitpick-on-how-to-shoot-the-earth/</id>
+        <link href="https://tinkerings.org/2022/08/06/roadside-picnic-a-nitpick-on-how-to-shoot-the-earth/"/>
+        <title>Roadside Picnic – A Nitpick on How to Shoot the Earth</title>
+        <author>
+            <name>mechatronicsguy</name>
+        </author>
+        <updated>2022-08-06T04:42:30+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mechatronicsguy-roadside-picnic-a-nitpick-on-how-to-shoot-the-earth/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Boston Rents Over Time II</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+    <published>2022-08-05T13:00:00+00:00</published>
+    <updated>2022-08-05T13:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-kaufman-boston-rents-over-time-ii/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-kaufman-boston-rents-over-time-ii/" type="text/html"/>
+      <source>
+        <id>https://www.jefftk.com/p/boston-rents-over-time-ii</id>
+        <link href="https://www.jefftk.com/p/boston-rents-over-time-ii"/>
+        <title>Boston Rents Over Time II</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+        <updated>2022-08-05T13:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-kaufman-boston-rents-over-time-ii/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Asking Scientists Questions</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-08-05T00:00:00+00:00</published>
+    <updated>2022-08-05T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-asking-scientists-questions/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-asking-scientists-questions/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2655/</id>
+        <link href="https://xkcd.com/2655/"/>
+        <title>Asking Scientists Questions</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-08-05T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-asking-scientists-questions/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Two Kids Crosswise</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+    <published>2022-08-04T13:00:00+00:00</published>
+    <updated>2022-08-04T13:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-kaufman-two-kids-crosswise/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-kaufman-two-kids-crosswise/" type="text/html"/>
+      <source>
+        <id>https://www.jefftk.com/p/two-kids-crosswise</id>
+        <link href="https://www.jefftk.com/p/two-kids-crosswise"/>
+        <title>Two Kids Crosswise</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+        <updated>2022-08-04T13:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-kaufman-two-kids-crosswise/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>I tried out the CyberPower UT650EG UPS</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2022-08-04T04:00:00+00:00</published>
+    <updated>2022-08-04T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-tried-out-the-cyberpower-ut650eg-ups/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-tried-out-the-cyberpower-ut650eg-ups/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2022/08/04/cyberpower-ut650eg-overview/</id>
+        <link href="https://ounapuu.ee/posts/2022/08/04/cyberpower-ut650eg-overview/"/>
+        <title>I tried out the CyberPower UT650EG UPS</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2022-08-04T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-tried-out-the-cyberpower-ut650eg-ups/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Old jokes</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+    <published>2022-08-04T00:00:00+00:00</published>
+    <updated>2022-08-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dynomight-old-jokes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dynomight-old-jokes/" type="text/html"/>
+      <source>
+        <id>https://dynomight.net/old-jokes/</id>
+        <link href="https://dynomight.net/old-jokes/"/>
+        <title>Old jokes</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+        <updated>2022-08-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dynomight-old-jokes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The different types of ZK-EVMs</title>
+        <author>
+            <name>Vitalik Buterin</name>
+        </author>
+    <published>2022-08-04T00:00:00+00:00</published>
+    <updated>2022-08-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/vitalik-buterin-the-different-types-of-zkevms/"/>
+    <link rel="alternate" href="https://news.cryptic.io/vitalik-buterin-the-different-types-of-zkevms/" type="text/html"/>
+      <source>
+        <id>https://vitalik.ca/general/2022/08/04/zkevm.html</id>
+        <link href="https://vitalik.ca/general/2022/08/04/zkevm.html"/>
+        <title>The different types of ZK-EVMs</title>
+        <author>
+            <name>Vitalik Buterin</name>
+        </author>
+        <updated>2022-08-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/vitalik-buterin-the-different-types-of-zkevms/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Saying Thank You</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-08-03T19:00:00+00:00</published>
+    <updated>2022-08-03T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-saying-thank-you/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-saying-thank-you/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/saying-thank-you/</id>
+        <link href="https://blog.jim-nielsen.com/2022/saying-thank-you/"/>
+        <title>Saying Thank You</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-08-03T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-saying-thank-you/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The OG Social Network: Other People’s Websites</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-08-03T19:00:00+00:00</published>
+    <updated>2022-08-03T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-the-og-social-network-other-peoples-websites/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-the-og-social-network-other-peoples-websites/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/other-peoples-websites/</id>
+        <link href="https://blog.jim-nielsen.com/2022/other-peoples-websites/"/>
+        <title>The OG Social Network: Other People’s Websites</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-08-03T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-the-og-social-network-other-peoples-websites/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Toddlers, management, and the illusion of choice</title>
+        <author>
+            <name>Charlie Andrews</name>
+        </author>
+    <published>2022-08-03T14:40:54+00:00</published>
+    <updated>2022-08-03T14:40:54+00:00</updated>
+    <link href="https://news.cryptic.io/charlie-andrews-toddlers-management-and-the-illusion-of-choice/"/>
+    <link rel="alternate" href="https://news.cryptic.io/charlie-andrews-toddlers-management-and-the-illusion-of-choice/" type="text/html"/>
+      <source>
+        <id>https://www.zeptonaut.com/posts/toddlers-management-and-the-illusion-of-choice/</id>
+        <link href="https://www.zeptonaut.com/posts/toddlers-management-and-the-illusion-of-choice/"/>
+        <title>Toddlers, management, and the illusion of choice</title>
+        <author>
+            <name>Charlie Andrews</name>
+        </author>
+        <updated>2022-08-03T14:40:54+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/charlie-andrews-toddlers-management-and-the-illusion-of-choice/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Clapping Lower</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+    <published>2022-08-03T13:00:00+00:00</published>
+    <updated>2022-08-03T13:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-kaufman-clapping-lower/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-kaufman-clapping-lower/" type="text/html"/>
+      <source>
+        <id>https://www.jefftk.com/p/clapping-lower</id>
+        <link href="https://www.jefftk.com/p/clapping-lower"/>
+        <title>Clapping Lower</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+        <updated>2022-08-03T13:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-kaufman-clapping-lower/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Chemtrails</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-08-03T00:00:00+00:00</published>
+    <updated>2022-08-03T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-chemtrails/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-chemtrails/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2654/</id>
+        <link href="https://xkcd.com/2654/"/>
+        <title>Chemtrails</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-08-03T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-chemtrails/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Multiple Inline SVGs (From QuickChart)</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-08-02T19:00:00+00:00</published>
+    <updated>2022-08-02T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-multiple-inline-svgs-from-quickchart/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-multiple-inline-svgs-from-quickchart/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/multiple-inline-svgs/</id>
+        <link href="https://blog.jim-nielsen.com/2022/multiple-inline-svgs/"/>
+        <title>Multiple Inline SVGs (From QuickChart)</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-08-02T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-multiple-inline-svgs-from-quickchart/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>AI Research: the Corporate Narrative and the Economic Reality</title>
+        <author>
+            <name>Nathaniel Travis</name>
+        </author>
+    <published>2022-08-02T02:06:58+00:00</published>
+    <updated>2022-08-02T02:06:58+00:00</updated>
+    <link href="https://news.cryptic.io/nathaniel-travis-ai-research-the-corporate-narrative-and-the-economic-reality/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathaniel-travis-ai-research-the-corporate-narrative-and-the-economic-reality/" type="text/html"/>
+      <source>
+        <id>https://nathanieltravis.com/2022/08/01/ai-research-the-corporate-narrative-and-the-economic-reality/</id>
+        <link href="https://nathanieltravis.com/2022/08/01/ai-research-the-corporate-narrative-and-the-economic-reality/"/>
+        <title>AI Research: the Corporate Narrative and the Economic Reality</title>
+        <author>
+            <name>Nathaniel Travis</name>
+        </author>
+        <updated>2022-08-02T02:06:58+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathaniel-travis-ai-research-the-corporate-narrative-and-the-economic-reality/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>No soap radio</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+    <published>2022-08-01T00:00:00+00:00</published>
+    <updated>2022-08-01T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dynomight-no-soap-radio/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dynomight-no-soap-radio/" type="text/html"/>
+      <source>
+        <id>https://dynomight.net/no-soap-radio/</id>
+        <link href="https://dynomight.net/no-soap-radio/"/>
+        <title>No soap radio</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+        <updated>2022-08-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dynomight-no-soap-radio/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Omnitaur</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-08-01T00:00:00+00:00</published>
+    <updated>2022-08-01T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-omnitaur/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-omnitaur/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2653/</id>
+        <link href="https://xkcd.com/2653/"/>
+        <title>Omnitaur</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-08-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-omnitaur/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Meshtastic: A Review</title>
+        <author>
+            <name>Tyler Cipriani</name>
+        </author>
+    <published>2022-07-31T22:15:47+00:00</published>
+    <updated>2022-07-31T22:15:47+00:00</updated>
+    <link href="https://news.cryptic.io/tyler-cipriani-meshtastic-a-review/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tyler-cipriani-meshtastic-a-review/" type="text/html"/>
+      <source>
+        <id>https://tylercipriani.com/blog/2022/07/31/meshtastic-a-review/</id>
+        <link href="https://tylercipriani.com/blog/2022/07/31/meshtastic-a-review/"/>
+        <title>Meshtastic: A Review</title>
+        <author>
+            <name>Tyler Cipriani</name>
+        </author>
+        <updated>2022-07-31T22:15:47+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tyler-cipriani-meshtastic-a-review/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>My HCI toolbox: Methods for designing and evaluating UIs</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2022-07-31T18:00:01+00:00</published>
+    <updated>2022-07-31T18:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-my-hci-toolbox-methods-for-designing-and-evaluating-uis/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-my-hci-toolbox-methods-for-designing-and-evaluating-uis/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/myhcitoolbox.html</id>
+        <link href="https://austinhenley.com/blog/myhcitoolbox.html"/>
+        <title>My HCI toolbox: Methods for designing and evaluating UIs</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2022-07-31T18:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-my-hci-toolbox-methods-for-designing-and-evaluating-uis/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Perverse Independence Incentives</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+    <published>2022-07-31T13:00:00+00:00</published>
+    <updated>2022-07-31T13:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-kaufman-perverse-independence-incentives/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-kaufman-perverse-independence-incentives/" type="text/html"/>
+      <source>
+        <id>https://www.jefftk.com/p/perverse-independence-incentives</id>
+        <link href="https://www.jefftk.com/p/perverse-independence-incentives"/>
+        <title>Perverse Independence Incentives</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+        <updated>2022-07-31T13:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-kaufman-perverse-independence-incentives/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A Papal Revolt Created Europe’s First Bureaucracy
+</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2022-07-31T12:47:30+00:00</published>
+    <updated>2022-07-31T12:47:30+00:00</updated>
+    <link href="https://news.cryptic.io/various-a-papal-revolt-created-europes-first-bureaucracy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-a-papal-revolt-created-europes-first-bureaucracy/" type="text/html"/>
+      <source>
+        <id>https://palladiummag.com/2022/07/31/a-papal-revolt-created-europes-first-bureaucracy/</id>
+        <link href="https://palladiummag.com/2022/07/31/a-papal-revolt-created-europes-first-bureaucracy/"/>
+        <title>A Papal Revolt Created Europe’s First Bureaucracy
+</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2022-07-31T12:47:30+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-a-papal-revolt-created-europes-first-bureaucracy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Some Thoughts on Collecting Computers</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2022-07-31T06:59:00+00:00</published>
+    <updated>2022-07-31T06:59:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-some-thoughts-on-collecting-computers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-some-thoughts-on-collecting-computers/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/collecting-computers.html</id>
+        <link href="https://cheapskatesguide.org/articles/collecting-computers.html"/>
+        <title>Some Thoughts on Collecting Computers</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2022-07-31T06:59:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-some-thoughts-on-collecting-computers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>the constantly collapsing horizon</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+    <published>2022-07-31T00:00:00+00:00</published>
+    <updated>2022-07-31T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jes-olson-the-constantly-collapsing-horizon/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jes-olson-the-constantly-collapsing-horizon/" type="text/html"/>
+      <source>
+        <id>https://j3s.sh/thought/the-constantly-collapsing-horizon.html</id>
+        <link href="https://j3s.sh/thought/the-constantly-collapsing-horizon.html"/>
+        <title>the constantly collapsing horizon</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+        <updated>2022-07-31T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jes-olson-the-constantly-collapsing-horizon/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Reading Notes, July 2022</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-07-30T19:00:00+00:00</published>
+    <updated>2022-07-30T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-reading-notes-july-2022/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-reading-notes-july-2022/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/reading-notes-july/</id>
+        <link href="https://blog.jim-nielsen.com/2022/reading-notes-july/"/>
+        <title>Reading Notes, July 2022</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-07-30T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-reading-notes-july-2022/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A Sustainable Pace Gets You to the Finish Line</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2022-07-30T12:00:00+00:00</published>
+    <updated>2022-07-30T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-a-sustainable-pace-gets-you-to-the-finish-line/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-a-sustainable-pace-gets-you-to-the-finish-line/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2022/sustainable/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2022/sustainable/"/>
+        <title>A Sustainable Pace Gets You to the Finish Line</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2022-07-30T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-a-sustainable-pace-gets-you-to-the-finish-line/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Fixing Duplicate and Stuck Messages in Akonadi</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2022-07-30T11:00:00+00:00</published>
+    <updated>2022-07-30T11:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-fixing-duplicate-and-stuck-messages-in-akonadi/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-fixing-duplicate-and-stuck-messages-in-akonadi/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2022/akonadi/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2022/akonadi/"/>
+        <title>Fixing Duplicate and Stuck Messages in Akonadi</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2022-07-30T11:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-fixing-duplicate-and-stuck-messages-in-akonadi/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Stop solving problems you don&#x27;t have</title>
+        <author>
+            <name>Charlie Andrews</name>
+        </author>
+    <published>2022-07-29T04:00:00+00:00</published>
+    <updated>2022-07-29T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/charlie-andrews-stop-solving-problems-you-dont-have/"/>
+    <link rel="alternate" href="https://news.cryptic.io/charlie-andrews-stop-solving-problems-you-dont-have/" type="text/html"/>
+      <source>
+        <id>https://www.zeptonaut.com/posts/stop-solving-problems-you-don-t-have/</id>
+        <link href="https://www.zeptonaut.com/posts/stop-solving-problems-you-don-t-have/"/>
+        <title>Stop solving problems you don&#x27;t have</title>
+        <author>
+            <name>Charlie Andrews</name>
+        </author>
+        <updated>2022-07-29T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/charlie-andrews-stop-solving-problems-you-dont-have/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Proxy Variable</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-07-29T00:00:00+00:00</published>
+    <updated>2022-07-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-proxy-variable/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-proxy-variable/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2652/</id>
+        <link href="https://xkcd.com/2652/"/>
+        <title>Proxy Variable</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-07-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-proxy-variable/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Nobody optimizes happiness</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+    <published>2022-07-28T00:00:00+00:00</published>
+    <updated>2022-07-28T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dynomight-nobody-optimizes-happiness/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dynomight-nobody-optimizes-happiness/" type="text/html"/>
+      <source>
+        <id>https://dynomight.net/happiness/</id>
+        <link href="https://dynomight.net/happiness/"/>
+        <title>Nobody optimizes happiness</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+        <updated>2022-07-28T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dynomight-nobody-optimizes-happiness/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>“Sorry, you are not allowed to add a term to one of the given taxonomies” error from WordPress</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2022-07-27T22:40:44+00:00</published>
+    <updated>2022-07-27T22:40:44+00:00</updated>
+    <link href="https://news.cryptic.io/various-sorry-you-are-not-allowed-to-add-a-term-to-one-of-the-given-taxonomies-error-from-wordpress/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-sorry-you-are-not-allowed-to-add-a-term-to-one-of-the-given-taxonomies-error-from-wordpress/" type="text/html"/>
+      <source>
+        <id>https://sporks.space/2022/07/27/sorry-you-are-not-allowed-to-add-a-term-to-one-of-the-given-taxonomies-error-from-wordpress/</id>
+        <link href="https://sporks.space/2022/07/27/sorry-you-are-not-allowed-to-add-a-term-to-one-of-the-given-taxonomies-error-from-wordpress/"/>
+        <title>“Sorry, you are not allowed to add a term to one of the given taxonomies” error from WordPress</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2022-07-27T22:40:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-sorry-you-are-not-allowed-to-add-a-term-to-one-of-the-given-taxonomies-error-from-wordpress/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>It&#x27;s Time To Think</title>
         <author>
@@ -26,6 +944,54 @@
       </source>
 
     <id>https://news.cryptic.io/tim-daubenschtz-its-time-to-think/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Statement to the Financial Stability Oversight Council: Regulating digital assets</title>
+        <author>
+            <name>Molly White</name>
+        </author>
+    <published>2022-07-27T00:00:00+00:00</published>
+    <updated>2022-07-27T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/molly-white-statement-to-the-financial-stability-oversight-council-regulating-digital-assets/"/>
+    <link rel="alternate" href="https://news.cryptic.io/molly-white-statement-to-the-financial-stability-oversight-council-regulating-digital-assets/" type="text/html"/>
+      <source>
+        <id>https://blog.mollywhite.net/fsoc-statement-regulating-digital-assets/</id>
+        <link href="https://blog.mollywhite.net/fsoc-statement-regulating-digital-assets/"/>
+        <title>Statement to the Financial Stability Oversight Council: Regulating digital assets</title>
+        <author>
+            <name>Molly White</name>
+        </author>
+        <updated>2022-07-27T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/molly-white-statement-to-the-financial-stability-oversight-council-regulating-digital-assets/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Air Gap</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-07-27T00:00:00+00:00</published>
+    <updated>2022-07-27T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-air-gap/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-air-gap/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2651/</id>
+        <link href="https://xkcd.com/2651/"/>
+        <title>Air Gap</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-07-27T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-air-gap/</id>
     <content type="html">
         
     </content>
@@ -295,7 +1261,7 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Opinions are Optional</title>
+    <title>Opinions Are Optional</title>
         <author>
             <name>Various</name>
         </author>
@@ -306,7 +1272,7 @@
       <source>
         <id>https://www.autodidacts.io/opinions-are-optional/</id>
         <link href="https://www.autodidacts.io/opinions-are-optional/"/>
-        <title>Opinions are Optional</title>
+        <title>Opinions Are Optional</title>
         <author>
             <name>Various</name>
         </author>
@@ -6873,6 +7839,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Computational notebooks research at CHI 2022</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2022-05-13T20:00:01+00:00</published>
+    <updated>2022-05-13T20:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-computational-notebooks-research-at-chi-2022/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-computational-notebooks-research-at-chi-2022/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/notebooksatchi2022.html</id>
+        <link href="https://austinhenley.com/blog/notebooksatchi2022.html"/>
+        <title>Computational notebooks research at CHI 2022</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2022-05-13T20:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-computational-notebooks-research-at-chi-2022/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Link Roundup 1</title>
         <author>
             <name>Arun Prasad</name>
@@ -10228,30 +11218,6 @@
       </source>
 
     <id>https://news.cryptic.io/randall-munroe-entwives/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Computational notebooks research at CHI 2022</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-    <published>2022-04-19T20:00:01+00:00</published>
-    <updated>2022-04-19T20:00:01+00:00</updated>
-    <link href="https://news.cryptic.io/austin-z-henley-computational-notebooks-research-at-chi-2022/"/>
-    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-computational-notebooks-research-at-chi-2022/" type="text/html"/>
-      <source>
-        <id>https://austinhenley.com/blog/notebooksatchi2022.html</id>
-        <link href="https://austinhenley.com/blog/notebooksatchi2022.html"/>
-        <title>Computational notebooks research at CHI 2022</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-        <updated>2022-04-19T20:00:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/austin-z-henley-computational-notebooks-research-at-chi-2022/</id>
     <content type="html">
         
     </content>
