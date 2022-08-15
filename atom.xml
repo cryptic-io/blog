@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-08-13T00:00:00+00:00</updated>
+  <updated>2022-08-14T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Trailing Commas Are Just The Beginning</title>
+        <author>
+            <name>Jesse Duffield</name>
+        </author>
+    <published>2022-08-14T00:00:00+00:00</published>
+    <updated>2022-08-14T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jesse-duffield-trailing-commas-are-just-the-beginning/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jesse-duffield-trailing-commas-are-just-the-beginning/" type="text/html"/>
+      <source>
+        <id>https://jesseduffield.com/TrailingCommas/</id>
+        <link href="https://jesseduffield.com/TrailingCommas/"/>
+        <title>Trailing Commas Are Just The Beginning</title>
+        <author>
+            <name>Jesse Duffield</name>
+        </author>
+        <updated>2022-08-14T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jesse-duffield-trailing-commas-are-just-the-beginning/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Lessons Learned Revamping Lazygit’s Integration Tests</title>
         <author>
