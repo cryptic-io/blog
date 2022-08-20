@@ -7,7 +7,7 @@ template = "html_content/raw.html"
 [extra]
 feedName = "The Cheapskate's Guide to Computers and the Internet"
 author = "Cheapskate"
-originalLink = "https://cheapskatesguide.org/articles/empowering-yourself.html"
+originalLink = "https://cheapskatesguide.org/articles/opnsense.html"
 raw = ""
 
 +++
