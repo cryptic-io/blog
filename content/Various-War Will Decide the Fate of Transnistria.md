@@ -9,7 +9,7 @@ template = "html_content/raw.html"
 [extra]
 feedName = "Palladium"
 author = "Various"
-originalLink = "https://palladiummag.com/2022/07/18/war-will-decide-the-fate-of-transnistria/"
+originalLink = "/2022/07/18/war-will-decide-the-fate-of-transnistria/"
 raw = ""
 
 +++

@@ -9,7 +9,7 @@ template = "html_content/raw.html"
 [extra]
 feedName = "Palladium"
 author = "Various"
-originalLink = "https://palladiummag.com/2022/07/31/a-papal-revolt-created-europes-first-bureaucracy/"
+originalLink = "/2022/07/31/a-papal-revolt-created-europes-first-bureaucracy/"
 raw = ""
 
 +++

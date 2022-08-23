@@ -9,7 +9,7 @@ template = "html_content/raw.html"
 [extra]
 feedName = "Palladium"
 author = "Various"
-originalLink = "https://palladiummag.com/2022/07/12/france-is-back-in-the-mediterranean/"
+originalLink = "/2022/07/12/france-is-back-in-the-mediterranean/"
 raw = ""
 
 +++

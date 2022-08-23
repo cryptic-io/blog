@@ -9,7 +9,7 @@ template = "html_content/raw.html"
 [extra]
 feedName = "Palladium"
 author = "Various"
-originalLink = "https://palladiummag.com/2022/07/07/eurasia-will-not-unite/"
+originalLink = "/2022/07/07/eurasia-will-not-unite/"
 raw = ""
 
 +++

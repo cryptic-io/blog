@@ -9,7 +9,7 @@ template = "html_content/raw.html"
 [extra]
 feedName = "Palladium"
 author = "Various"
-originalLink = "https://palladiummag.com/2022/06/17/epistemology-semantics-and-doublethink/"
+originalLink = "/2022/06/17/epistemology-semantics-and-doublethink/"
 raw = ""
 
 +++
