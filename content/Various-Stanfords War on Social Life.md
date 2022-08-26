@@ -9,7 +9,7 @@ template = "html_content/raw.html"
 [extra]
 feedName = "Palladium"
 author = "Various"
-originalLink = "/2022/06/13/stanfords-war-on-social-life/"
+originalLink = "/2022/06/13/stanfords-war-on-social-life/?utm_source=rss&utm_medium=rss&utm_campaign=stanfords-war-on-social-life"
 raw = ""
 
 +++

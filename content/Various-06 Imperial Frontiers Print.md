@@ -9,7 +9,7 @@ template = "html_content/raw.html"
 [extra]
 feedName = "Palladium"
 author = "Various"
-originalLink = "/2022/06/17/06-imperial-frontiers-print/"
+originalLink = "/2022/06/17/06-imperial-frontiers-print/?utm_source=rss&utm_medium=rss&utm_campaign=06-imperial-frontiers-print"
 raw = ""
 
 +++

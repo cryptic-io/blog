@@ -9,7 +9,7 @@ template = "html_content/raw.html"
 [extra]
 feedName = "Palladium"
 author = "Various"
-originalLink = "/2022/08/16/in-an-aging-world-the-metropole-beckons/"
+originalLink = "/2022/08/16/in-an-aging-world-the-metropole-beckons/?utm_source=rss&utm_medium=rss&utm_campaign=in-an-aging-world-the-metropole-beckons"
 raw = ""
 
 +++

@@ -9,7 +9,7 @@ template = "html_content/raw.html"
 [extra]
 feedName = "Palladium"
 author = "Various"
-originalLink = "/2022/08/08/the-mineral-conflict-is-here/"
+originalLink = "/2022/08/08/the-mineral-conflict-is-here/?utm_source=rss&utm_medium=rss&utm_campaign=the-mineral-conflict-is-here"
 raw = ""
 
 +++
