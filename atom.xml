@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-08-26T05:00:00+00:00</updated>
+  <updated>2022-08-26T13:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Contra Dance Contact Tracing</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+    <published>2022-08-26T13:00:00+00:00</published>
+    <updated>2022-08-26T13:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-kaufman-contra-dance-contact-tracing/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-kaufman-contra-dance-contact-tracing/" type="text/html"/>
+      <source>
+        <id>https://www.jefftk.com/p/contra-dance-contact-tracing</id>
+        <link href="https://www.jefftk.com/p/contra-dance-contact-tracing"/>
+        <title>Contra Dance Contact Tracing</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+        <updated>2022-08-26T13:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-kaufman-contra-dance-contact-tracing/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Overcoming hardware limitations: the time-to-sleep script</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-overcoming-hardware-limitations-the-timetosleep-script/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Cloud Swirls</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-08-26T00:00:00+00:00</published>
+    <updated>2022-08-26T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-cloud-swirls/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-cloud-swirls/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2664/</id>
+        <link href="https://xkcd.com/2664/"/>
+        <title>Cloud Swirls</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-08-26T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-cloud-swirls/</id>
     <content type="html">
         
     </content>
