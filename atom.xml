@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-08-28T12:49:14+00:00</updated>
+  <updated>2022-08-28T13:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>More Clothes Over Time?</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+    <published>2022-08-28T13:00:00+00:00</published>
+    <updated>2022-08-28T13:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-kaufman-more-clothes-over-time/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-kaufman-more-clothes-over-time/" type="text/html"/>
+      <source>
+        <id>https://www.jefftk.com/p/more-clothes-over-time</id>
+        <link href="https://www.jefftk.com/p/more-clothes-over-time"/>
+        <title>More Clothes Over Time?</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+        <updated>2022-08-28T13:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-kaufman-more-clothes-over-time/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Six unpopular opinions about software standard development</title>
         <author>
