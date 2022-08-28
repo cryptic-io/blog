@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-08-27T00:00:00+00:00</updated>
+  <updated>2022-08-28T12:49:14+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Six unpopular opinions about software standard development</title>
+        <author>
+            <name>Tim Daubenschütz</name>
+        </author>
+    <published>2022-08-28T12:49:14+00:00</published>
+    <updated>2022-08-28T12:49:14+00:00</updated>
+    <link href="https://news.cryptic.io/tim-daubenschtz-six-unpopular-opinions-about-software-standard-development/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-daubenschtz-six-unpopular-opinions-about-software-standard-development/" type="text/html"/>
+      <source>
+        <id>https://timdaub.github.io/2022/08/28/six-unpopular-opinions-about-software-standard-development/</id>
+        <link href="https://timdaub.github.io/2022/08/28/six-unpopular-opinions-about-software-standard-development/"/>
+        <title>Six unpopular opinions about software standard development</title>
+        <author>
+            <name>Tim Daubenschütz</name>
+        </author>
+        <updated>2022-08-28T12:49:14+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-daubenschtz-six-unpopular-opinions-about-software-standard-development/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Syncing your Github status with your currently playing Steam game</title>
         <author>
