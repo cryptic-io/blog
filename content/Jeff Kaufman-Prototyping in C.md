@@ -1,0 +1,14 @@
+
++++
+title = "Prototyping in C"
+date = 2022-09-04T13:00:00.000Z
+template = "html_content/raw.html"
+
+[extra]
+feedName = "jefftk.com"
+author = "Jeff Kaufman"
+originalLink = "https://www.jefftk.com/p/prototyping-in-c"
+raw = ""
+
++++
+
