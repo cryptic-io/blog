@@ -1,7 +1,7 @@
 
 +++
 title = "The conspiratorial Monty Hall problem"
-date = 2022-02-16T00:00:00.000Z
+date = 2022-09-23T00:00:00.000Z
 template = "html_content/raw.html"
 
 [extra]
