@@ -31,7 +31,14 @@ jobs:
           name: cryptic
           authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
       - run: nix develop --command syndicateBlogPosts
-      - run: nix build
+
+      # At this stage the syndicateBlogPosts will have dumped a bunch of md
+      # files into the `content` directory, but they will not be checked into
+      # git. nix flakes will generally ignore files which are not checked into
+      # git, unless the flake is specified with path://, which is why that's
+      # here.
+      - run: nix build path://$(pwd)
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
