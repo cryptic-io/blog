@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-09-28T13:00:00+00:00</updated>
+  <updated>2022-09-29T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Drive failure and IO errors? ZFS to the rescue!</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2022-09-29T00:00:00+00:00</published>
+    <updated>2022-09-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-drive-failure-and-io-errors-zfs-to-the-rescue/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-drive-failure-and-io-errors-zfs-to-the-rescue/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/articles/drive-failure-and-io-errors-zfs-to-the-rescue.html</id>
+        <link href="https://unixsheikh.com/articles/drive-failure-and-io-errors-zfs-to-the-rescue.html"/>
+        <title>Drive failure and IO errors? ZFS to the rescue!</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2022-09-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-drive-failure-and-io-errors-zfs-to-the-rescue/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Better Construction Cost Estimates?</title>
         <author>
@@ -7726,30 +7750,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-the-delusions-of-debian/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How security is handled by package maintainers</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2022-03-29T00:00:00+00:00</published>
-    <updated>2022-03-29T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-how-security-is-handled-by-package-maintainers/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-how-security-is-handled-by-package-maintainers/" type="text/html"/>
-      <source>
-        <id>https://unixsheikh.com/articles/how-security-is-handled-by-package-maintainers.html</id>
-        <link href="https://unixsheikh.com/articles/how-security-is-handled-by-package-maintainers.html"/>
-        <title>How security is handled by package maintainers</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2022-03-29T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-how-security-is-handled-by-package-maintainers/</id>
     <content type="html">
         
     </content>
