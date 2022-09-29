@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-09-28T12:41:00+00:00</updated>
+  <updated>2022-09-28T13:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Better Construction Cost Estimates?</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+    <published>2022-09-28T13:00:00+00:00</published>
+    <updated>2022-09-28T13:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-kaufman-better-construction-cost-estimates/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-kaufman-better-construction-cost-estimates/" type="text/html"/>
+      <source>
+        <id>https://www.jefftk.com/p/better-construction-cost-estimates</id>
+        <link href="https://www.jefftk.com/p/better-construction-cost-estimates"/>
+        <title>Better Construction Cost Estimates?</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+        <updated>2022-09-28T13:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-kaufman-better-construction-cost-estimates/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The appeal of small computers</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-the-appeal-of-small-computers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The ethics of AI-driven content</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+    <published>2022-09-28T07:00:00+00:00</published>
+    <updated>2022-09-28T07:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/justin-jackson-the-ethics-of-aidriven-content/"/>
+    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-the-ethics-of-aidriven-content/" type="text/html"/>
+      <source>
+        <id>https://justinjackson.ca/the-ethics-of-ai-driven-content</id>
+        <link href="https://justinjackson.ca/the-ethics-of-ai-driven-content"/>
+        <title>The ethics of AI-driven content</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+        <updated>2022-09-28T07:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/justin-jackson-the-ethics-of-aidriven-content/</id>
     <content type="html">
         
     </content>
@@ -654,30 +702,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-flying-j-pies/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Pretending not to Notice</title>
-        <author>
-            <name>Jeff Kaufman</name>
-        </author>
-    <published>2022-09-18T13:00:00+00:00</published>
-    <updated>2022-09-18T13:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-kaufman-pretending-not-to-notice/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-kaufman-pretending-not-to-notice/" type="text/html"/>
-      <source>
-        <id>https://www.jefftk.com/p/pretending-not-to-notice</id>
-        <link href="https://www.jefftk.com/p/pretending-not-to-notice"/>
-        <title>Pretending not to Notice</title>
-        <author>
-            <name>Jeff Kaufman</name>
-        </author>
-        <updated>2022-09-18T13:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-kaufman-pretending-not-to-notice/</id>
     <content type="html">
         
     </content>
@@ -7587,30 +7611,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Find a good party</title>
-        <author>
-            <name>Justin Jackson</name>
-        </author>
-    <published>2022-04-01T07:00:00+00:00</published>
-    <updated>2022-04-01T07:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/justin-jackson-find-a-good-party/"/>
-    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-find-a-good-party/" type="text/html"/>
-      <source>
-        <id>https://justinjackson.ca/party</id>
-        <link href="https://justinjackson.ca/party"/>
-        <title>Find a good party</title>
-        <author>
-            <name>Justin Jackson</name>
-        </author>
-        <updated>2022-04-01T07:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/justin-jackson-find-a-good-party/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Linux distribution long term support might not be what you think it is</title>
         <author>
             <name>unixsheikh</name>
@@ -8470,6 +8470,30 @@
       </source>
 
     <id>https://news.cryptic.io/charlie-andrews-dreams-and-risks/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>How to Build a Practical Household Bike Generator</title>
+        <author>
+            <name>Kris De Decker, Marie Verdeil</name>
+        </author>
+    <published>2022-03-05T23:00:00+00:00</published>
+    <updated>2022-03-05T23:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/kris-de-decker-marie-verdeil-how-to-build-a-practical-household-bikegenerator/"/>
+    <link rel="alternate" href="https://news.cryptic.io/kris-de-decker-marie-verdeil-how-to-build-a-practical-household-bikegenerator/" type="text/html"/>
+      <source>
+        <id>https://solar.lowtechmagazine.com/2022/03/how-to-build-bike-generator.html</id>
+        <link href="https://solar.lowtechmagazine.com/2022/03/how-to-build-bike-generator.html"/>
+        <title>How to Build a Practical Household Bike Generator</title>
+        <author>
+            <name>Kris De Decker, Marie Verdeil</name>
+        </author>
+        <updated>2022-03-05T23:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/kris-de-decker-marie-verdeil-how-to-build-a-practical-household-bikegenerator/</id>
     <content type="html">
         
     </content>
@@ -9435,6 +9459,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The Revenge of the Hot Water Bottle</title>
+        <author>
+            <name>Kris De Decker</name>
+        </author>
+    <published>2022-01-19T23:00:00+00:00</published>
+    <updated>2022-01-19T23:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/kris-de-decker-the-revenge-of-the-hot-waterbottle/"/>
+    <link rel="alternate" href="https://news.cryptic.io/kris-de-decker-the-revenge-of-the-hot-waterbottle/" type="text/html"/>
+      <source>
+        <id>https://solar.lowtechmagazine.com/2022/01/the-revenge-of-the-hot-water-bottle.html</id>
+        <link href="https://solar.lowtechmagazine.com/2022/01/the-revenge-of-the-hot-water-bottle.html"/>
+        <title>The Revenge of the Hot Water Bottle</title>
+        <author>
+            <name>Kris De Decker</name>
+        </author>
+        <updated>2022-01-19T23:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/kris-de-decker-the-revenge-of-the-hot-waterbottle/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>encountered near the start of a new chapter</title>
         <author>
             <name>Joey Hess</name>
@@ -9990,6 +10038,30 @@
       </source>
 
     <id>https://news.cryptic.io/apenwarr-100-years-of-whatever-this-will-be/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Printed Website: Volume III &amp; The Comments</title>
+        <author>
+            <name>Kris De Decker</name>
+        </author>
+    <published>2021-12-01T23:00:00+00:00</published>
+    <updated>2021-12-01T23:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/kris-de-decker-the-printed-website-volume-iii-thecomments/"/>
+    <link rel="alternate" href="https://news.cryptic.io/kris-de-decker-the-printed-website-volume-iii-thecomments/" type="text/html"/>
+      <source>
+        <id>https://solar.lowtechmagazine.com/2021/12/printed-website-third-volume.html</id>
+        <link href="https://solar.lowtechmagazine.com/2021/12/printed-website-third-volume.html"/>
+        <title>The Printed Website: Volume III &amp; The Comments</title>
+        <author>
+            <name>Kris De Decker</name>
+        </author>
+        <updated>2021-12-01T23:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/kris-de-decker-the-printed-website-volume-iii-thecomments/</id>
     <content type="html">
         
     </content>
