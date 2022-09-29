@@ -7,6 +7,30 @@
   <updated>2022-09-29T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
+    <title>The anxiety of the moderate</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+    <published>2022-09-29T00:00:00+00:00</published>
+    <updated>2022-09-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dynomight-the-anxiety-of-the-moderate/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dynomight-the-anxiety-of-the-moderate/" type="text/html"/>
+      <source>
+        <id>https://dynomight.net/moderate/</id>
+        <link href="https://dynomight.net/moderate/"/>
+        <title>The anxiety of the moderate</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+        <updated>2022-09-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dynomight-the-anxiety-of-the-moderate/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Drive failure and IO errors? ZFS to the rescue!</title>
         <author>
             <name>unixsheikh</name>
@@ -2948,30 +2972,6 @@
       </source>
 
     <id>https://news.cryptic.io/nathaniel-travis-ai-research-the-corporate-narrative-and-the-economic-reality/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>No soap radio</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-    <published>2022-08-01T00:00:00+00:00</published>
-    <updated>2022-08-01T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dynomight-no-soap-radio/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dynomight-no-soap-radio/" type="text/html"/>
-      <source>
-        <id>https://dynomight.net/no-soap-radio/</id>
-        <link href="https://dynomight.net/no-soap-radio/"/>
-        <title>No soap radio</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-        <updated>2022-08-01T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dynomight-no-soap-radio/</id>
     <content type="html">
         
     </content>
