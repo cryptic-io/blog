@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-09-29T13:00:00+00:00</updated>
+  <updated>2022-09-30T13:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Another Loft Bed</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+    <published>2022-09-30T13:00:00+00:00</published>
+    <updated>2022-09-30T13:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-kaufman-another-loft-bed/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-kaufman-another-loft-bed/" type="text/html"/>
+      <source>
+        <id>https://www.jefftk.com/p/another-loft-bed</id>
+        <link href="https://www.jefftk.com/p/another-loft-bed"/>
+        <title>Another Loft Bed</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+        <updated>2022-09-30T13:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-kaufman-another-loft-bed/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Prioritizing Parental Sleep</title>
         <author>
@@ -654,30 +678,6 @@
       </source>
 
     <id>https://news.cryptic.io/randall-munroe-pilot-priority-list/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Case Rates to Sequencing Reads</title>
-        <author>
-            <name>Jeff Kaufman</name>
-        </author>
-    <published>2022-09-20T13:00:00+00:00</published>
-    <updated>2022-09-20T13:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-kaufman-case-rates-to-sequencing-reads/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-kaufman-case-rates-to-sequencing-reads/" type="text/html"/>
-      <source>
-        <id>https://www.jefftk.com/p/case-rates-to-sequencing-reads</id>
-        <link href="https://www.jefftk.com/p/case-rates-to-sequencing-reads"/>
-        <title>Case Rates to Sequencing Reads</title>
-        <author>
-            <name>Jeff Kaufman</name>
-        </author>
-        <updated>2022-09-20T13:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-kaufman-case-rates-to-sequencing-reads/</id>
     <content type="html">
         
     </content>
