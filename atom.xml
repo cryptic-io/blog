@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-09-30T13:00:00+00:00</updated>
+  <updated>2022-09-30T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Reading Notes, September 2022</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-09-30T19:00:00+00:00</published>
+    <updated>2022-09-30T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-reading-notes-september-2022/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-reading-notes-september-2022/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/reading-notes-september/</id>
+        <link href="https://blog.jim-nielsen.com/2022/reading-notes-september/"/>
+        <title>Reading Notes, September 2022</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-09-30T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-reading-notes-september-2022/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Another Loft Bed</title>
         <author>
@@ -1452,30 +1476,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-notes-from-kernel-hacking-in-hare-part-1/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Generating an EPUB File in the Browser</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2022-09-05T19:00:00+00:00</published>
-    <updated>2022-09-05T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-generating-an-epub-file-in-the-browser/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-generating-an-epub-file-in-the-browser/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2022/generating-epub-file-in-browser/</id>
-        <link href="https://blog.jim-nielsen.com/2022/generating-epub-file-in-browser/"/>
-        <title>Generating an EPUB File in the Browser</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2022-09-05T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-generating-an-epub-file-in-the-browser/</id>
     <content type="html">
         
     </content>
