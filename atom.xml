@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-10-01T18:34:32+00:00</updated>
+  <updated>2022-10-02T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Happy Birthday to Me</title>
+        <author>
+            <name>geohot</name>
+        </author>
+    <published>2022-10-02T04:00:00+00:00</published>
+    <updated>2022-10-02T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/geohot-happy-birthday-to-me/"/>
+    <link rel="alternate" href="https://news.cryptic.io/geohot-happy-birthday-to-me/" type="text/html"/>
+      <source>
+        <id>https://geohot.github.io//blog/jekyll/update/2022/10/02/happy-brithday-to-me.html</id>
+        <link href="https://geohot.github.io//blog/jekyll/update/2022/10/02/happy-brithday-to-me.html"/>
+        <title>Happy Birthday to Me</title>
+        <author>
+            <name>geohot</name>
+        </author>
+        <updated>2022-10-02T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/geohot-happy-birthday-to-me/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>When Elite Physicists Advised Washington
 </title>
@@ -853,30 +877,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Manuel was annoyed</title>
-        <author>
-            <name>Manuel</name>
-        </author>
-    <published>2022-09-18T17:42:27+00:00</published>
-    <updated>2022-09-18T17:42:27+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-manuel-was-annoyed/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-manuel-was-annoyed/" type="text/html"/>
-      <source>
-        <id>https://annoying.technology/posts/5b1e40822c40dbd8/</id>
-        <link href="https://annoying.technology/posts/5b1e40822c40dbd8/"/>
-        <title>Manuel was annoyed</title>
-        <author>
-            <name>Manuel</name>
-        </author>
-        <updated>2022-09-18T17:42:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-manuel-was-annoyed/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Font Family and @supports</title>
         <author>
             <name>Jim Nielsen</name>
@@ -1607,8 +1607,8 @@
         <author>
             <name>geohot</name>
         </author>
-    <published>2022-09-03T07:00:00+00:00</published>
-    <updated>2022-09-03T07:00:00+00:00</updated>
+    <published>2022-09-03T04:00:00+00:00</published>
+    <updated>2022-09-03T04:00:00+00:00</updated>
     <link href="https://news.cryptic.io/geohot-on-device-learning/"/>
     <link rel="alternate" href="https://news.cryptic.io/geohot-on-device-learning/" type="text/html"/>
       <source>
@@ -1618,7 +1618,7 @@
         <author>
             <name>geohot</name>
         </author>
-        <updated>2022-09-03T07:00:00+00:00</updated>
+        <updated>2022-09-03T04:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/geohot-on-device-learning/</id>
@@ -1792,6 +1792,30 @@
       </source>
 
     <id>https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Echo reply (an incomplete update on things)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-08-29T21:02:07+00:00</published>
+    <updated>2022-08-29T21:02:07+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/08/29/pong/</id>
+        <link href="https://rachelbythebay.com/w/2022/08/29/pong/"/>
+        <title>Echo reply (an incomplete update on things)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-08-29T21:02:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/</id>
     <content type="html">
         
     </content>
@@ -3483,6 +3507,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Manuel was annoyed</title>
+        <author>
+            <name>Manuel</name>
+        </author>
+    <published>2022-07-19T18:22:30+00:00</published>
+    <updated>2022-07-19T18:22:30+00:00</updated>
+    <link href="https://news.cryptic.io/manuel-manuel-was-annoyed/"/>
+    <link rel="alternate" href="https://news.cryptic.io/manuel-manuel-was-annoyed/" type="text/html"/>
+      <source>
+        <id>https://annoying.technology/posts/0c1164b60cbb4f49/</id>
+        <link href="https://annoying.technology/posts/0c1164b60cbb4f49/"/>
+        <title>Manuel was annoyed</title>
+        <author>
+            <name>Manuel</name>
+        </author>
+        <updated>2022-07-19T18:22:30+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/manuel-manuel-was-annoyed/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Cryptocurrency “market caps” and notional value</title>
         <author>
             <name>Molly White</name>
@@ -4299,6 +4347,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Q&amp;A on 1972</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-06-25T21:10:26+00:00</published>
+    <updated>2022-06-25T21:10:26+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-qa-on-1972/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-qa-on-1972/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/06/25/qa/</id>
+        <link href="https://rachelbythebay.com/w/2022/06/25/qa/"/>
+        <title>Q&amp;A on 1972</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-06-25T21:10:26+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-qa-on-1972/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>What I like about Accountants</title>
         <author>
             <name>Tim Daubenschütz</name>
@@ -4318,6 +4390,30 @@
       </source>
 
     <id>https://news.cryptic.io/tim-daubenschtz-what-i-like-about-accountants/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>1972.</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-06-24T18:05:09+00:00</published>
+    <updated>2022-06-24T18:05:09+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-1972/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-1972/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/06/24/1972/</id>
+        <link href="https://rachelbythebay.com/w/2022/06/24/1972/"/>
+        <title>1972.</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-06-24T18:05:09+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-1972/</id>
     <content type="html">
         
     </content>
@@ -4467,6 +4563,54 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>More on geo-tagging photos with a time element</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-06-20T22:39:15+00:00</published>
+    <updated>2022-06-20T22:39:15+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-more-on-geotagging-photos-with-a-time-element/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-more-on-geotagging-photos-with-a-time-element/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/06/20/exif/</id>
+        <link href="https://rachelbythebay.com/w/2022/06/20/exif/"/>
+        <title>More on geo-tagging photos with a time element</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-06-20T22:39:15+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-more-on-geotagging-photos-with-a-time-element/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Place name mappings probably need a time dimension too</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-06-20T22:38:56+00:00</published>
+    <updated>2022-06-20T22:38:56+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-place-name-mappings-probably-need-a-time-dimension-too/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-place-name-mappings-probably-need-a-time-dimension-too/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/06/15/places/</id>
+        <link href="https://rachelbythebay.com/w/2022/06/15/places/"/>
+        <title>Place name mappings probably need a time dimension too</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-06-20T22:38:56+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-place-name-mappings-probably-need-a-time-dimension-too/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Enrolled in WYFA2022</title>
         <author>
             <name>Andre Alves Garzia</name>
@@ -4534,6 +4678,30 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-is-madlad-sentient-an-interview/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Free associating from &#x27;df&#x27; to RCE</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-06-17T03:17:04+00:00</published>
+    <updated>2022-06-17T03:17:04+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/06/16/rce/</id>
+        <link href="https://rachelbythebay.com/w/2022/06/16/rce/"/>
+        <title>Free associating from &#x27;df&#x27; to RCE</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-06-17T03:17:04+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/</id>
     <content type="html">
         
     </content>
@@ -5931,6 +6099,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Tasks, lists, and promises</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-05-20T02:00:41+00:00</published>
+    <updated>2022-05-20T02:00:41+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-tasks-lists-and-promises/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-tasks-lists-and-promises/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/05/19/priority/</id>
+        <link href="https://rachelbythebay.com/w/2022/05/19/priority/"/>
+        <title>Tasks, lists, and promises</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-05-20T02:00:41+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-tasks-lists-and-promises/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Predatory community</title>
         <author>
             <name>Molly White</name>
@@ -6843,6 +7035,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Paying a visit to planet BSD</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-05-01T20:42:30+00:00</published>
+    <updated>2022-05-01T20:42:30+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-paying-a-visit-to-planet-bsd/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-paying-a-visit-to-planet-bsd/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/04/29/bsd/</id>
+        <link href="https://rachelbythebay.com/w/2022/04/29/bsd/"/>
+        <title>Paying a visit to planet BSD</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-05-01T20:42:30+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-paying-a-visit-to-planet-bsd/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>We are not Adults Just Because We Say So</title>
         <author>
             <name>Tie</name>
@@ -6910,6 +7126,30 @@
       </source>
 
     <id>https://news.cryptic.io/justin-jackson-entrepreneurial-falsepositives/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>My Raspberry Pi-based temperature tracking project</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-04-28T22:09:12+00:00</published>
+    <updated>2022-04-28T22:09:12+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-my-raspberry-pibased-temperature-tracking-project/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-my-raspberry-pibased-temperature-tracking-project/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/04/27/thermo/</id>
+        <link href="https://rachelbythebay.com/w/2022/04/27/thermo/"/>
+        <title>My Raspberry Pi-based temperature tracking project</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-04-28T22:09:12+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-my-raspberry-pibased-temperature-tracking-project/</id>
     <content type="html">
         
     </content>
@@ -7107,6 +7347,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Debian&#x2F;Raspbian rngd with -S0 will bite you after a week</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-04-20T09:13:09+00:00</published>
+    <updated>2022-04-20T09:13:09+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-debianraspbian-rngd-with-s0-will-bite-you-after-a-week/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-debianraspbian-rngd-with-s0-will-bite-you-after-a-week/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/04/20/rngd/</id>
+        <link href="https://rachelbythebay.com/w/2022/04/20/rngd/"/>
+        <title>Debian&#x2F;Raspbian rngd with -S0 will bite you after a week</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-04-20T09:13:09+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-debianraspbian-rngd-with-s0-will-bite-you-after-a-week/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Personal Feeds</title>
         <author>
             <name>Patrick Tanguay</name>
@@ -7207,8 +7471,8 @@
         <author>
             <name>geohot</name>
         </author>
-    <published>2022-04-16T07:00:00+00:00</published>
-    <updated>2022-04-16T07:00:00+00:00</updated>
+    <published>2022-04-16T04:00:00+00:00</published>
+    <updated>2022-04-16T04:00:00+00:00</updated>
     <link href="https://news.cryptic.io/geohot-vampire-attack-twitter/"/>
     <link rel="alternate" href="https://news.cryptic.io/geohot-vampire-attack-twitter/" type="text/html"/>
       <source>
@@ -7218,7 +7482,7 @@
         <author>
             <name>geohot</name>
         </author>
-        <updated>2022-04-16T07:00:00+00:00</updated>
+        <updated>2022-04-16T04:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/geohot-vampire-attack-twitter/</id>
@@ -8523,30 +8787,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Beauty after COVID</title>
-        <author>
-            <name>geohot</name>
-        </author>
-    <published>2022-03-05T08:00:00+00:00</published>
-    <updated>2022-03-05T08:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/geohot-beauty-after-covid/"/>
-    <link rel="alternate" href="https://news.cryptic.io/geohot-beauty-after-covid/" type="text/html"/>
-      <source>
-        <id>https://geohot.github.io//blog/jekyll/update/2022/03/05/beauty-after-covid.html</id>
-        <link href="https://geohot.github.io//blog/jekyll/update/2022/03/05/beauty-after-covid.html"/>
-        <title>Beauty after COVID</title>
-        <author>
-            <name>geohot</name>
-        </author>
-        <updated>2022-03-05T08:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/geohot-beauty-after-covid/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Online Communities are Ephemeral</title>
         <author>
             <name>Various</name>
@@ -8566,6 +8806,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-online-communities-are-ephemeral/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Beauty after COVID</title>
+        <author>
+            <name>geohot</name>
+        </author>
+    <published>2022-03-05T05:00:00+00:00</published>
+    <updated>2022-03-05T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/geohot-beauty-after-covid/"/>
+    <link rel="alternate" href="https://news.cryptic.io/geohot-beauty-after-covid/" type="text/html"/>
+      <source>
+        <id>https://geohot.github.io//blog/jekyll/update/2022/03/05/beauty-after-covid.html</id>
+        <link href="https://geohot.github.io//blog/jekyll/update/2022/03/05/beauty-after-covid.html"/>
+        <title>Beauty after COVID</title>
+        <author>
+            <name>geohot</name>
+        </author>
+        <updated>2022-03-05T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/geohot-beauty-after-covid/</id>
     <content type="html">
         
     </content>
@@ -8935,8 +9199,8 @@
         <author>
             <name>geohot</name>
         </author>
-    <published>2022-02-17T08:00:00+00:00</published>
-    <updated>2022-02-17T08:00:00+00:00</updated>
+    <published>2022-02-17T05:00:00+00:00</published>
+    <updated>2022-02-17T05:00:00+00:00</updated>
     <link href="https://news.cryptic.io/geohot-brain-flops/"/>
     <link rel="alternate" href="https://news.cryptic.io/geohot-brain-flops/" type="text/html"/>
       <source>
@@ -8946,7 +9210,7 @@
         <author>
             <name>geohot</name>
         </author>
-        <updated>2022-02-17T08:00:00+00:00</updated>
+        <updated>2022-02-17T05:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/geohot-brain-flops/</id>
@@ -9175,8 +9439,8 @@
         <author>
             <name>geohot</name>
         </author>
-    <published>2022-02-09T08:00:00+00:00</published>
-    <updated>2022-02-09T08:00:00+00:00</updated>
+    <published>2022-02-09T05:00:00+00:00</published>
+    <updated>2022-02-09T05:00:00+00:00</updated>
     <link href="https://news.cryptic.io/geohot-the-problem-of-the-state/"/>
     <link rel="alternate" href="https://news.cryptic.io/geohot-the-problem-of-the-state/" type="text/html"/>
       <source>
@@ -9186,7 +9450,7 @@
         <author>
             <name>geohot</name>
         </author>
-        <updated>2022-02-09T08:00:00+00:00</updated>
+        <updated>2022-02-09T05:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/geohot-the-problem-of-the-state/</id>
@@ -9295,8 +9559,8 @@
         <author>
             <name>geohot</name>
         </author>
-    <published>2022-02-02T08:00:00+00:00</published>
-    <updated>2022-02-02T08:00:00+00:00</updated>
+    <published>2022-02-02T05:00:00+00:00</published>
+    <updated>2022-02-02T05:00:00+00:00</updated>
     <link href="https://news.cryptic.io/geohot-consumer-class-divide/"/>
     <link rel="alternate" href="https://news.cryptic.io/geohot-consumer-class-divide/" type="text/html"/>
       <source>
@@ -9306,7 +9570,7 @@
         <author>
             <name>geohot</name>
         </author>
-        <updated>2022-02-02T08:00:00+00:00</updated>
+        <updated>2022-02-02T05:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/geohot-consumer-class-divide/</id>
@@ -9827,8 +10091,8 @@
         <author>
             <name>geohot</name>
         </author>
-    <published>2021-12-18T08:00:00+00:00</published>
-    <updated>2021-12-18T08:00:00+00:00</updated>
+    <published>2021-12-18T05:00:00+00:00</published>
+    <updated>2021-12-18T05:00:00+00:00</updated>
     <link href="https://news.cryptic.io/geohot-the-fourth-estate/"/>
     <link rel="alternate" href="https://news.cryptic.io/geohot-the-fourth-estate/" type="text/html"/>
       <source>
@@ -9838,7 +10102,7 @@
         <author>
             <name>geohot</name>
         </author>
-        <updated>2021-12-18T08:00:00+00:00</updated>
+        <updated>2021-12-18T05:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/geohot-the-fourth-estate/</id>
@@ -9923,8 +10187,8 @@
         <author>
             <name>geohot</name>
         </author>
-    <published>2021-12-12T08:00:00+00:00</published>
-    <updated>2021-12-12T08:00:00+00:00</updated>
+    <published>2021-12-12T05:00:00+00:00</published>
+    <updated>2021-12-12T05:00:00+00:00</updated>
     <link href="https://news.cryptic.io/geohot-a-correction-on-my-ai-chip-thoughts/"/>
     <link rel="alternate" href="https://news.cryptic.io/geohot-a-correction-on-my-ai-chip-thoughts/" type="text/html"/>
       <source>
@@ -9934,7 +10198,7 @@
         <author>
             <name>geohot</name>
         </author>
-        <updated>2021-12-12T08:00:00+00:00</updated>
+        <updated>2021-12-12T05:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/geohot-a-correction-on-my-ai-chip-thoughts/</id>
@@ -10295,8 +10559,8 @@
         <author>
             <name>geohot</name>
         </author>
-    <published>2021-11-09T08:00:00+00:00</published>
-    <updated>2021-11-09T08:00:00+00:00</updated>
+    <published>2021-11-09T05:00:00+00:00</published>
+    <updated>2021-11-09T05:00:00+00:00</updated>
     <link href="https://news.cryptic.io/geohot-on-the-university-of-austin/"/>
     <link rel="alternate" href="https://news.cryptic.io/geohot-on-the-university-of-austin/" type="text/html"/>
       <source>
@@ -10306,34 +10570,10 @@
         <author>
             <name>geohot</name>
         </author>
-        <updated>2021-11-09T08:00:00+00:00</updated>
+        <updated>2021-11-09T05:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/geohot-on-the-university-of-austin/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>An Architecture for Life</title>
-        <author>
-            <name>geohot</name>
-        </author>
-    <published>2021-10-29T07:00:00+00:00</published>
-    <updated>2021-10-29T07:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/geohot-an-architecture-for-life/"/>
-    <link rel="alternate" href="https://news.cryptic.io/geohot-an-architecture-for-life/" type="text/html"/>
-      <source>
-        <id>https://geohot.github.io//blog/jekyll/update/2021/10/29/an-architecture-for-life.html</id>
-        <link href="https://geohot.github.io//blog/jekyll/update/2021/10/29/an-architecture-for-life.html"/>
-        <title>An Architecture for Life</title>
-        <author>
-            <name>geohot</name>
-        </author>
-        <updated>2021-10-29T07:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/geohot-an-architecture-for-life/</id>
     <content type="html">
         
     </content>
