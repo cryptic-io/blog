@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-10-03T21:27:17+00:00</updated>
+  <updated>2022-10-04T02:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Testing a cheap ExpressCard to NVMe SSD adapter on my ThinkPad T430</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2022-10-04T02:00:00+00:00</published>
+    <updated>2022-10-04T02:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-testing-a-cheap-expresscard-to-nvme-ssd-adapter-on-my-thinkpad-t430/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-testing-a-cheap-expresscard-to-nvme-ssd-adapter-on-my-thinkpad-t430/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2022/10/04/testing-expresscard-nvme-ssd-adapter/</id>
+        <link href="https://ounapuu.ee/posts/2022/10/04/testing-expresscard-nvme-ssd-adapter/"/>
+        <title>Testing a cheap ExpressCard to NVMe SSD adapter on my ThinkPad T430</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2022-10-04T02:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-testing-a-cheap-expresscard-to-nvme-ssd-adapter-on-my-thinkpad-t430/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Science Needs Sovereigns
 </title>
@@ -54,6 +78,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-palladium-podcast-81-dylan-levi-king-on-east-asian-ecotheology/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Adversarial vs Collaborative Contexts</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+    <published>2022-10-03T13:00:00+00:00</published>
+    <updated>2022-10-03T13:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-kaufman-adversarial-vs-collaborative-contexts/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-kaufman-adversarial-vs-collaborative-contexts/" type="text/html"/>
+      <source>
+        <id>https://www.jefftk.com/p/adversarial-vs-collaborative-contexts</id>
+        <link href="https://www.jefftk.com/p/adversarial-vs-collaborative-contexts"/>
+        <title>Adversarial vs Collaborative Contexts</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+        <updated>2022-10-03T13:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-kaufman-adversarial-vs-collaborative-contexts/</id>
     <content type="html">
         
     </content>
@@ -730,30 +778,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-surveilling-the-american-borderlands/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Set List Approaches</title>
-        <author>
-            <name>Jeff Kaufman</name>
-        </author>
-    <published>2022-09-23T13:00:00+00:00</published>
-    <updated>2022-09-23T13:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-kaufman-set-list-approaches/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-kaufman-set-list-approaches/" type="text/html"/>
-      <source>
-        <id>https://www.jefftk.com/p/set-list-approaches</id>
-        <link href="https://www.jefftk.com/p/set-list-approaches"/>
-        <title>Set List Approaches</title>
-        <author>
-            <name>Jeff Kaufman</name>
-        </author>
-        <updated>2022-09-23T13:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-kaufman-set-list-approaches/</id>
     <content type="html">
         
     </content>
@@ -6742,30 +6766,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-what-game-are-you-playing/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Trying out VR on an AMD Ryzen 4000 series APU</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2022-05-04T05:00:00+00:00</published>
-    <updated>2022-05-04T05:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-trying-out-vr-on-an-amd-ryzen-4000-series-apu/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-trying-out-vr-on-an-amd-ryzen-4000-series-apu/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2022/05/04/vr-on-integrated-graphics/</id>
-        <link href="https://ounapuu.ee/posts/2022/05/04/vr-on-integrated-graphics/"/>
-        <title>Trying out VR on an AMD Ryzen 4000 series APU</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2022-05-04T05:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-trying-out-vr-on-an-amd-ryzen-4000-series-apu/</id>
     <content type="html">
         
     </content>
