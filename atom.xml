@@ -203,6 +203,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>From Paxos to BFT</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+    <published>2022-10-03T00:00:00+00:00</published>
+    <updated>2022-10-03T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/aleksey-kladov-from-paxos-to-bft/"/>
+    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-from-paxos-to-bft/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io//2022/10/03/from-paxos-to-bft.html</id>
+        <link href="https://matklad.github.io//2022/10/03/from-paxos-to-bft.html"/>
+        <title>From Paxos to BFT</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+        <updated>2022-10-03T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/aleksey-kladov-from-paxos-to-bft/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Does Rust belong in the Linux kernel?</title>
         <author>
             <name>Drew DeVault</name>
@@ -3771,6 +3795,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Almost Rules</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+    <published>2022-07-10T00:00:00+00:00</published>
+    <updated>2022-07-10T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/aleksey-kladov-almost-rules/"/>
+    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-almost-rules/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io//2022/07/10/almost-rules.html</id>
+        <link href="https://matklad.github.io//2022/07/10/almost-rules.html"/>
+        <title>Almost Rules</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+        <updated>2022-07-10T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/aleksey-kladov-almost-rules/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>btrbk is awesome</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -4011,6 +4059,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Unit and Integration Tests</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+    <published>2022-07-04T00:00:00+00:00</published>
+    <updated>2022-07-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/aleksey-kladov-unit-and-integration-tests/"/>
+    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-unit-and-integration-tests/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io//2022/07/04/unit-and-integration-tests.html</id>
+        <link href="https://matklad.github.io//2022/07/04/unit-and-integration-tests.html"/>
+        <title>Unit and Integration Tests</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+        <updated>2022-07-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/aleksey-kladov-unit-and-integration-tests/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Side Projects</title>
         <author>
             <name>Arun Prasad</name>
@@ -4246,6 +4318,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-music-what-it-means-to-me/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Notes on GATs</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+    <published>2022-06-29T00:00:00+00:00</published>
+    <updated>2022-06-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/aleksey-kladov-notes-on-gats/"/>
+    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-notes-on-gats/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io//2022/06/29/notes-on-gats.html</id>
+        <link href="https://matklad.github.io//2022/06/29/notes-on-gats.html"/>
+        <title>Notes on GATs</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+        <updated>2022-06-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/aleksey-kladov-notes-on-gats/</id>
     <content type="html">
         
     </content>
@@ -4798,6 +4894,30 @@
       </source>
 
     <id>https://news.cryptic.io/vitalik-buterin-where-to-use-a-blockchain-in-nonfinancial-applications/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Caches In Rust</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+    <published>2022-06-11T00:00:00+00:00</published>
+    <updated>2022-06-11T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/aleksey-kladov-caches-in-rust/"/>
+    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-caches-in-rust/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io//2022/06/11/caches-in-rust.html</id>
+        <link href="https://matklad.github.io//2022/06/11/caches-in-rust.html"/>
+        <title>Caches In Rust</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+        <updated>2022-06-11T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/aleksey-kladov-caches-in-rust/</id>
     <content type="html">
         
     </content>
@@ -5374,6 +5494,54 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-state-is-hard-why-spas-will-persist/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Binary Privacy</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+    <published>2022-05-29T00:00:00+00:00</published>
+    <updated>2022-05-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/aleksey-kladov-binary-privacy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-binary-privacy/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io//2022/05/29/binary-privacy.html</id>
+        <link href="https://matklad.github.io//2022/05/29/binary-privacy.html"/>
+        <title>Binary Privacy</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+        <updated>2022-05-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/aleksey-kladov-binary-privacy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Builder Lite</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+    <published>2022-05-29T00:00:00+00:00</published>
+    <updated>2022-05-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/aleksey-kladov-builder-lite/"/>
+    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-builder-lite/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io//2022/05/29/builder-lite.html</id>
+        <link href="https://matklad.github.io//2022/05/29/builder-lite.html"/>
+        <title>Builder Lite</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+        <updated>2022-05-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/aleksey-kladov-builder-lite/</id>
     <content type="html">
         
     </content>
@@ -6891,6 +7059,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Why LSP?</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+    <published>2022-04-25T00:00:00+00:00</published>
+    <updated>2022-04-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/aleksey-kladov-why-lsp/"/>
+    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-why-lsp/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io//2022/04/25/why-lsp.html</id>
+        <link href="https://matklad.github.io//2022/04/25/why-lsp.html"/>
+        <title>Why LSP?</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+        <updated>2022-04-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/aleksey-kladov-why-lsp/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Where are good startup ideas born?</title>
         <author>
             <name>Charlie Andrews</name>
@@ -7731,6 +7923,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Self Modifying Code</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+    <published>2022-03-26T00:00:00+00:00</published>
+    <updated>2022-03-26T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/aleksey-kladov-self-modifying-code/"/>
+    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-self-modifying-code/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io//2022/03/26/self-modifying-code.html</id>
+        <link href="https://matklad.github.io//2022/03/26/self-modifying-code.html"/>
+        <title>Self Modifying Code</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+        <updated>2022-03-26T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/aleksey-kladov-self-modifying-code/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Itch.io creators you need to follow &amp; some of their beautiful work</title>
         <author>
             <name>Nathalie Lawhead</name>
@@ -8110,6 +8326,30 @@
       </source>
 
     <id>https://news.cryptic.io/roy-van-rijn-roadtrip-to-ludolph-van-ceulen/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>RPATH, or why lld doesn’t work on NixOS</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+    <published>2022-03-14T00:00:00+00:00</published>
+    <updated>2022-03-14T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/aleksey-kladov-rpath-or-why-lld-doesnt-work-on-nixos/"/>
+    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-rpath-or-why-lld-doesnt-work-on-nixos/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io//2022/03/14/rpath-or-why-lld-doesnt-work-on-nixos.html</id>
+        <link href="https://matklad.github.io//2022/03/14/rpath-or-why-lld-doesnt-work-on-nixos.html"/>
+        <title>RPATH, or why lld doesn’t work on NixOS</title>
+        <author>
+            <name>Aleksey Kladov</name>
+        </author>
+        <updated>2022-03-14T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/aleksey-kladov-rpath-or-why-lld-doesnt-work-on-nixos/</id>
     <content type="html">
         
     </content>
