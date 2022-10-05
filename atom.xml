@@ -203,30 +203,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>From Paxos to BFT</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-    <published>2022-10-03T00:00:00+00:00</published>
-    <updated>2022-10-03T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-from-paxos-to-bft/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-from-paxos-to-bft/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io//2022/10/03/from-paxos-to-bft.html</id>
-        <link href="https://matklad.github.io//2022/10/03/from-paxos-to-bft.html"/>
-        <title>From Paxos to BFT</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-        <updated>2022-10-03T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/aleksey-kladov-from-paxos-to-bft/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Does Rust belong in the Linux kernel?</title>
         <author>
             <name>Drew DeVault</name>
@@ -416,6 +392,30 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-kaufman-how-i-make-diagrams/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Chat log exhibits from Twitter v. Musk case</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2022-10-01T00:00:00+00:00</published>
+    <updated>2022-10-01T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-chat-log-exhibits-from-twitter-v-musk-case/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-chat-log-exhibits-from-twitter-v-musk-case/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/elon-twitter-texts/</id>
+        <link href="https://danluu.com/elon-twitter-texts/"/>
+        <title>Chat log exhibits from Twitter v. Musk case</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2022-10-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-chat-log-exhibits-from-twitter-v-musk-case/</id>
     <content type="html">
         
     </content>
@@ -2012,30 +2012,6 @@
       </source>
 
     <id>https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Echo reply (an incomplete update on things)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-08-29T21:02:07+00:00</published>
-    <updated>2022-08-29T21:02:07+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/08/29/pong/</id>
-        <link href="https://rachelbythebay.com/w/2022/08/29/pong/"/>
-        <title>Echo reply (an incomplete update on things)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-08-29T21:02:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/</id>
     <content type="html">
         
     </content>
@@ -3795,30 +3771,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Almost Rules</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-    <published>2022-07-10T00:00:00+00:00</published>
-    <updated>2022-07-10T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-almost-rules/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-almost-rules/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io//2022/07/10/almost-rules.html</id>
-        <link href="https://matklad.github.io//2022/07/10/almost-rules.html"/>
-        <title>Almost Rules</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-        <updated>2022-07-10T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/aleksey-kladov-almost-rules/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>btrbk is awesome</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -4054,30 +4006,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-public-release-of-crypticnet/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Unit and Integration Tests</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-    <published>2022-07-04T00:00:00+00:00</published>
-    <updated>2022-07-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-unit-and-integration-tests/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-unit-and-integration-tests/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io//2022/07/04/unit-and-integration-tests.html</id>
-        <link href="https://matklad.github.io//2022/07/04/unit-and-integration-tests.html"/>
-        <title>Unit and Integration Tests</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-        <updated>2022-07-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/aleksey-kladov-unit-and-integration-tests/</id>
     <content type="html">
         
     </content>
@@ -4323,30 +4251,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Notes on GATs</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-    <published>2022-06-29T00:00:00+00:00</published>
-    <updated>2022-06-29T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-notes-on-gats/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-notes-on-gats/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io//2022/06/29/notes-on-gats.html</id>
-        <link href="https://matklad.github.io//2022/06/29/notes-on-gats.html"/>
-        <title>Notes on GATs</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-        <updated>2022-06-29T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/aleksey-kladov-notes-on-gats/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Hypermedia driven micro frontends</title>
         <author>
             <name>Andraž Bajt</name>
@@ -4419,30 +4323,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Q&amp;A on 1972</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-25T21:10:26+00:00</published>
-    <updated>2022-06-25T21:10:26+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-qa-on-1972/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-qa-on-1972/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/25/qa/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/25/qa/"/>
-        <title>Q&amp;A on 1972</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-25T21:10:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-qa-on-1972/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>What I like about Accountants</title>
         <author>
             <name>Tim Daubenschütz</name>
@@ -4462,30 +4342,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-daubenschtz-what-i-like-about-accountants/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>1972.</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-24T18:05:09+00:00</published>
-    <updated>2022-06-24T18:05:09+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-1972/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-1972/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/24/1972/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/24/1972/"/>
-        <title>1972.</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-24T18:05:09+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-1972/</id>
     <content type="html">
         
     </content>
@@ -4635,54 +4491,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>More on geo-tagging photos with a time element</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-20T22:39:15+00:00</published>
-    <updated>2022-06-20T22:39:15+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-more-on-geotagging-photos-with-a-time-element/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-more-on-geotagging-photos-with-a-time-element/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/20/exif/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/20/exif/"/>
-        <title>More on geo-tagging photos with a time element</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-20T22:39:15+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-more-on-geotagging-photos-with-a-time-element/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Place name mappings probably need a time dimension too</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-20T22:38:56+00:00</published>
-    <updated>2022-06-20T22:38:56+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-place-name-mappings-probably-need-a-time-dimension-too/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-place-name-mappings-probably-need-a-time-dimension-too/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/15/places/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/15/places/"/>
-        <title>Place name mappings probably need a time dimension too</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-20T22:38:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-place-name-mappings-probably-need-a-time-dimension-too/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Enrolled in WYFA2022</title>
         <author>
             <name>Andre Alves Garzia</name>
@@ -4750,30 +4558,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-is-madlad-sentient-an-interview/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Free associating from &#x27;df&#x27; to RCE</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-17T03:17:04+00:00</published>
-    <updated>2022-06-17T03:17:04+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/16/rce/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/16/rce/"/>
-        <title>Free associating from &#x27;df&#x27; to RCE</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-17T03:17:04+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/</id>
     <content type="html">
         
     </content>
@@ -5014,30 +4798,6 @@
       </source>
 
     <id>https://news.cryptic.io/vitalik-buterin-where-to-use-a-blockchain-in-nonfinancial-applications/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Caches In Rust</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-    <published>2022-06-11T00:00:00+00:00</published>
-    <updated>2022-06-11T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-caches-in-rust/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-caches-in-rust/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io//2022/06/11/caches-in-rust.html</id>
-        <link href="https://matklad.github.io//2022/06/11/caches-in-rust.html"/>
-        <title>Caches In Rust</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-        <updated>2022-06-11T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/aleksey-kladov-caches-in-rust/</id>
     <content type="html">
         
     </content>
@@ -5619,54 +5379,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Binary Privacy</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-    <published>2022-05-29T00:00:00+00:00</published>
-    <updated>2022-05-29T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-binary-privacy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-binary-privacy/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io//2022/05/29/binary-privacy.html</id>
-        <link href="https://matklad.github.io//2022/05/29/binary-privacy.html"/>
-        <title>Binary Privacy</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-        <updated>2022-05-29T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/aleksey-kladov-binary-privacy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Builder Lite</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-    <published>2022-05-29T00:00:00+00:00</published>
-    <updated>2022-05-29T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-builder-lite/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-builder-lite/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io//2022/05/29/builder-lite.html</id>
-        <link href="https://matklad.github.io//2022/05/29/builder-lite.html"/>
-        <title>Builder Lite</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-        <updated>2022-05-29T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/aleksey-kladov-builder-lite/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Guide to Reviewing Pull Requests</title>
         <author>
             <name>Jesse Duffield</name>
@@ -6166,30 +5878,6 @@
       </source>
 
     <id>https://news.cryptic.io/arun-prasad-jang-bbijju/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Tasks, lists, and promises</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-05-20T02:00:41+00:00</published>
-    <updated>2022-05-20T02:00:41+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-tasks-lists-and-promises/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-tasks-lists-and-promises/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/05/19/priority/</id>
-        <link href="https://rachelbythebay.com/w/2022/05/19/priority/"/>
-        <title>Tasks, lists, and promises</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-05-20T02:00:41+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-tasks-lists-and-promises/</id>
     <content type="html">
         
     </content>
@@ -7083,30 +6771,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Paying a visit to planet BSD</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-05-01T20:42:30+00:00</published>
-    <updated>2022-05-01T20:42:30+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-paying-a-visit-to-planet-bsd/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-paying-a-visit-to-planet-bsd/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/04/29/bsd/</id>
-        <link href="https://rachelbythebay.com/w/2022/04/29/bsd/"/>
-        <title>Paying a visit to planet BSD</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-05-01T20:42:30+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-paying-a-visit-to-planet-bsd/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>We are not Adults Just Because We Say So</title>
         <author>
             <name>Tie</name>
@@ -7179,30 +6843,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>My Raspberry Pi-based temperature tracking project</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-04-28T22:09:12+00:00</published>
-    <updated>2022-04-28T22:09:12+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-my-raspberry-pibased-temperature-tracking-project/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-my-raspberry-pibased-temperature-tracking-project/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/04/27/thermo/</id>
-        <link href="https://rachelbythebay.com/w/2022/04/27/thermo/"/>
-        <title>My Raspberry Pi-based temperature tracking project</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-04-28T22:09:12+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-my-raspberry-pibased-temperature-tracking-project/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Self Governance 101: The Legislative Branch</title>
         <author>
             <name>Various</name>
@@ -7246,30 +6886,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-const-generics-and-the-compile-time-spread-operator/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why LSP?</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-    <published>2022-04-25T00:00:00+00:00</published>
-    <updated>2022-04-25T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-why-lsp/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-why-lsp/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io//2022/04/25/why-lsp.html</id>
-        <link href="https://matklad.github.io//2022/04/25/why-lsp.html"/>
-        <title>Why LSP?</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-        <updated>2022-04-25T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/aleksey-kladov-why-lsp/</id>
     <content type="html">
         
     </content>
@@ -7390,30 +7006,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-on-removing-let-and-let-mut/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Debian&#x2F;Raspbian rngd with -S0 will bite you after a week</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-04-20T09:13:09+00:00</published>
-    <updated>2022-04-20T09:13:09+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-debianraspbian-rngd-with-s0-will-bite-you-after-a-week/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-debianraspbian-rngd-with-s0-will-bite-you-after-a-week/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/04/20/rngd/</id>
-        <link href="https://rachelbythebay.com/w/2022/04/20/rngd/"/>
-        <title>Debian&#x2F;Raspbian rngd with -S0 will bite you after a week</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-04-20T09:13:09+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-debianraspbian-rngd-with-s0-will-bite-you-after-a-week/</id>
     <content type="html">
         
     </content>
@@ -8139,30 +7731,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Self Modifying Code</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-    <published>2022-03-26T00:00:00+00:00</published>
-    <updated>2022-03-26T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-self-modifying-code/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-self-modifying-code/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io//2022/03/26/self-modifying-code.html</id>
-        <link href="https://matklad.github.io//2022/03/26/self-modifying-code.html"/>
-        <title>Self Modifying Code</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-        <updated>2022-03-26T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/aleksey-kladov-self-modifying-code/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Itch.io creators you need to follow &amp; some of their beautiful work</title>
         <author>
             <name>Nathalie Lawhead</name>
@@ -8542,30 +8110,6 @@
       </source>
 
     <id>https://news.cryptic.io/roy-van-rijn-roadtrip-to-ludolph-van-ceulen/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>RPATH, or why lld doesn’t work on NixOS</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-    <published>2022-03-14T00:00:00+00:00</published>
-    <updated>2022-03-14T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-rpath-or-why-lld-doesnt-work-on-nixos/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-rpath-or-why-lld-doesnt-work-on-nixos/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io//2022/03/14/rpath-or-why-lld-doesnt-work-on-nixos.html</id>
-        <link href="https://matklad.github.io//2022/03/14/rpath-or-why-lld-doesnt-work-on-nixos.html"/>
-        <title>RPATH, or why lld doesn’t work on NixOS</title>
-        <author>
-            <name>Aleksey Kladov</name>
-        </author>
-        <updated>2022-03-14T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/aleksey-kladov-rpath-or-why-lld-doesnt-work-on-nixos/</id>
     <content type="html">
         
     </content>
@@ -10422,30 +9966,6 @@
       </source>
 
     <id>https://news.cryptic.io/adam-pritchard-timing-attack-mitigation-must-exclude-network/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Major errors on this blog (and their corrections)</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2021-11-22T00:00:00+00:00</published>
-    <updated>2021-11-22T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-major-errors-on-this-blog-and-their-corrections/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-major-errors-on-this-blog-and-their-corrections/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/corrections/</id>
-        <link href="https://danluu.com/corrections/"/>
-        <title>Major errors on this blog (and their corrections)</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2021-11-22T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-major-errors-on-this-blog-and-their-corrections/</id>
     <content type="html">
         
     </content>
