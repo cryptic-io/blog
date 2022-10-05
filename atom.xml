@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-10-04T22:00:01+00:00</updated>
+  <updated>2022-10-05T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Patching The Open Web</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-10-05T19:00:00+00:00</published>
+    <updated>2022-10-05T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-patching-the-open-web/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-patching-the-open-web/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/patching-open-web/</id>
+        <link href="https://blog.jim-nielsen.com/2022/patching-open-web/"/>
+        <title>Patching The Open Web</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-10-05T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-patching-the-open-web/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Monthly obsessions</title>
         <author>
@@ -1504,30 +1528,6 @@
       </source>
 
     <id>https://news.cryptic.io/nathalie-lawhead-momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Good Design</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2022-09-12T19:00:00+00:00</published>
-    <updated>2022-09-12T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-good-design/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-good-design/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2022/good-design/</id>
-        <link href="https://blog.jim-nielsen.com/2022/good-design/"/>
-        <title>Good Design</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2022-09-12T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-good-design/</id>
     <content type="html">
         
     </content>
