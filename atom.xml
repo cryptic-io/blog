@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-10-07T00:00:00+00:00</updated>
+  <updated>2022-10-07T13:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Preparing to Call a Family Dance</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+    <published>2022-10-07T13:00:00+00:00</published>
+    <updated>2022-10-07T13:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-kaufman-preparing-to-call-a-family-dance/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-kaufman-preparing-to-call-a-family-dance/" type="text/html"/>
+      <source>
+        <id>https://www.jefftk.com/p/preparing-to-call-a-family-dance</id>
+        <link href="https://www.jefftk.com/p/preparing-to-call-a-family-dance"/>
+        <title>Preparing to Call a Family Dance</title>
+        <author>
+            <name>Jeff Kaufman</name>
+        </author>
+        <updated>2022-10-07T13:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-kaufman-preparing-to-call-a-family-dance/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Setting up my new computer, vim, and listening to Spotify in the terminal</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-setting-up-my-new-computer-vim-and-listening-to-spotify-in-the-terminal/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Easy or Hard</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-10-07T00:00:00+00:00</published>
+    <updated>2022-10-07T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-easy-or-hard/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-easy-or-hard/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2682/</id>
+        <link href="https://xkcd.com/2682/"/>
+        <title>Easy or Hard</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-10-07T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-easy-or-hard/</id>
     <content type="html">
         
     </content>
@@ -853,30 +901,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Wing Lift</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2022-09-28T00:00:00+00:00</published>
-    <updated>2022-09-28T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-wing-lift/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-wing-lift/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2678/</id>
-        <link href="https://xkcd.com/2678/"/>
-        <title>Wing Lift</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2022-09-28T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-wing-lift/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>A Poorly Planned Loft Bed</title>
         <author>
             <name>Jeff Kaufman</name>
@@ -920,30 +944,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-creating-custom-rss-feeds-for-following-others/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Framery Phone Booth CO2 Accumulation</title>
-        <author>
-            <name>Jeff Kaufman</name>
-        </author>
-    <published>2022-09-26T13:00:00+00:00</published>
-    <updated>2022-09-26T13:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-kaufman-framery-phone-booth-co2-accumulation/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-kaufman-framery-phone-booth-co2-accumulation/" type="text/html"/>
-      <source>
-        <id>https://www.jefftk.com/p/framery-phone-booth-co2-accumulation</id>
-        <link href="https://www.jefftk.com/p/framery-phone-booth-co2-accumulation"/>
-        <title>Framery Phone Booth CO2 Accumulation</title>
-        <author>
-            <name>Jeff Kaufman</name>
-        </author>
-        <updated>2022-09-26T13:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-kaufman-framery-phone-booth-co2-accumulation/</id>
     <content type="html">
         
     </content>
