@@ -332,4 +332,34 @@
     name = "allenpike.com";
     url = "https://feeds.allenpike.com/feed/";
   }
+  {
+    name = "gabrielsieben.tech";
+    author = "Gabriel Sieban";
+    url = "https://gabrielsieben.tech/feed";
+  }
+  {
+    name = "thesephist.com";
+    author = "Linus Lee";
+    url = "https://thesephist.com/index.xml";
+  }
+  {
+    name = "maggieappleton.com";
+    author = "Maggie Appleton";
+    url = "https://maggieappleton.com/rss.xml";
+  }
+  {
+    name = "gay robot noises";
+    author = "ash";
+    url = "https://catgirl.ai/log/atom.xml";
+  }
+  {
+    name = "dergigi.com";
+    author = "Gigi";
+    url = "https://dergigi.com/feed";
+  }
+  {
+    name = "robinrendle.com";
+    author = "Robin Rendle";
+    url = "https://www.robinrendle.com/feed.xml";
+  }
 ]
