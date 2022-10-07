@@ -210,11 +210,6 @@
     url = "https://andersource.dev/feed.xml";
   }
   {
-    name = "jefftk.com";
-    author = "Jeff Kaufman";
-    url = "https://www.jefftk.com/news.rss";
-  }
-  {
     name = "royvanrijn";
     author = "Roy van Rijn";
     url = "https://www.royvanrijn.com/feed/index.xml";
@@ -288,5 +283,53 @@
   {
     name = "shutdown -r now";
     url = "https://ounapuu.ee/index.xml";
+  }
+  {
+    name = "craftyguy's blog";
+    author = "Clayton Craft";
+    url = "https://blog.craftyguy.net/atom.xml";
+  }
+  {
+    name = "ongoing";
+    author = "Tim Bray";
+    url = "https://www.tbray.org/ongoing/ongoing.atom";
+  }
+  {
+    name = "nutcroft.com";
+    author = "nutcroft";
+    url = "https://nutcroft.com/rss/";
+  }
+  {
+    name = "chriskiehl.com";
+    author = "Chris Kiehl";
+    url = "https://chriskiehl.com/rss.xml";
+  }
+  {
+    name = "Web3 is going just great";
+    author = "Molly White";
+    url = "https://web3isgoinggreat.com/feed.xml";
+  }
+  {
+    name = "alexanderell.is";
+    author = "Alex Ellis";
+    url = "https://alexanderell.is/index.xml";
+  }
+  {
+    name = "Terence Eden's Blog";
+    url = "https://shkspr.mobi/blog/feed/atom/";
+  }
+  {
+    name = "sive.rs";
+    author = "Derek Sivers";
+    url = "https://sive.rs/en.atom";
+  }
+  {
+    name = "Pixel Envy";
+    author = "Nick Heer";
+    url = "https://pxlnv.com/feed";
+  }
+  {
+    name = "allenpike.com";
+    url = "https://feeds.allenpike.com/feed/";
   }
 ]
