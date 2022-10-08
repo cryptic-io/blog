@@ -356,10 +356,6 @@
         <lastmod>2020-03-31T00:00:00Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/austin-z-henley-a-study-guide-for-software-engineering-students/</loc>
-        <lastmod>2022-03-14T20:00:01Z</lastmod>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/austin-z-henley-amplifying-others/</loc>
         <lastmod>2022-03-27T23:00:01Z</lastmod>
     </url>
@@ -394,6 +390,10 @@
     <url>
         <loc>https://news.cryptic.io/austin-z-henley-the-project-with-a-single-11000line-code-file/</loc>
         <lastmod>2022-04-03T20:00:01Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/austin-z-henley-why-is-it-hard-to-learn-another-programming-language/</loc>
+        <lastmod>2022-10-08T17:00:01Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/bastian-rieck-a-sustainable-pace-gets-you-to-the-finish-line/</loc>
@@ -1728,26 +1728,6 @@
         <lastmod>2022-08-21T00:00:00Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/molly-white-binance-smart-chain-halts-after-127-million-bridge-exploit/</loc>
-        <lastmod>2022-10-07T00:48:57.913Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/molly-white-buyer-and-seller-of-hacked-account-logins-busted-for-1-million-tax-fraud/</loc>
-        <lastmod>2022-10-06T02:02:19.783Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/molly-white-celsius-exposes-the-names-of-all-customers-and-their-recent-transactions-in-court-filing-including-their-execs/</loc>
-        <lastmod>2022-10-07T01:12:34.796Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/molly-white-coinbase-experiences-major-outage-related-to-us-bank-accounts/</loc>
-        <lastmod>2022-10-02T18:13:01.657Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/molly-white-coindesk-reports-that-decentraland-has-just-38-daily-active-users/</loc>
-        <lastmod>2022-10-08T02:49:08.304Z</lastmod>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/molly-white-cryptocurrency-market-caps-and-notional-value/</loc>
         <lastmod>2022-07-17T00:00:00Z</lastmod>
     </url>
@@ -1768,20 +1748,8 @@
         <lastmod>2022-06-10T00:00:00Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/molly-white-kim-kardashian-pays-126-million-fine-for-promoting-a-cryptocurrency-without-disclosure/</loc>
-        <lastmod>2022-10-03T14:13:06.249Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/molly-white-more-than-11-million-stolen-from-sovryn-defi-protocol/</loc>
-        <lastmod>2022-10-06T01:02:34.865Z</lastmod>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/molly-white-predatory-community/</loc>
         <lastmod>2022-05-20T00:00:00Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/molly-white-south-korea-reportedly-freezes-396-million-in-crypto-belonging-to-terra-founder-do-kwon-kwon-says-it-isnt-his/</loc>
-        <lastmod>2022-10-06T01:33:06.742Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/molly-white-statement-to-the-financial-stability-oversight-council-regulating-digital-assets/</loc>
@@ -1794,14 +1762,6 @@
     <url>
         <loc>https://news.cryptic.io/molly-white-the-nft-creation-user-journey/</loc>
         <lastmod>2022-05-11T00:00:00Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/molly-white-transit-swap-hacked-for-21-million-hacker-returns-large-portion/</loc>
-        <lastmod>2022-10-02T15:59:34.72Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/molly-white-zcash-continues-to-suffer-from-spam-attack-that-started-months-ago/</loc>
-        <lastmod>2022-10-06T01:24:54.512Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/nathalie-lawhead-abusing-you-was-by-the-book-documenting-two-years-of-abuse-from-game-journalism-after-sharing-my-metoo-the-whole-painful-story-all-in-one-place/</loc>
@@ -2142,6 +2102,46 @@
         <lastmod>2022-08-25T17:01:50Z</lastmod>
     </url>
     <url>
+        <loc>https://news.cryptic.io/rachelbythebay-1972/</loc>
+        <lastmod>2022-06-24T18:05:09Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-debianraspbian-rngd-with-s0-will-bite-you-after-a-week/</loc>
+        <lastmod>2022-04-20T09:13:09Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/</loc>
+        <lastmod>2022-08-29T21:02:07Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/</loc>
+        <lastmod>2022-06-17T03:17:04Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-more-on-geotagging-photos-with-a-time-element/</loc>
+        <lastmod>2022-06-20T22:39:15Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-my-raspberry-pibased-temperature-tracking-project/</loc>
+        <lastmod>2022-04-28T22:09:12Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-paying-a-visit-to-planet-bsd/</loc>
+        <lastmod>2022-05-01T20:42:30Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-place-name-mappings-probably-need-a-time-dimension-too/</loc>
+        <lastmod>2022-06-20T22:38:56Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-qa-on-1972/</loc>
+        <lastmod>2022-06-25T21:10:26Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-tasks-lists-and-promises/</loc>
+        <lastmod>2022-05-20T02:00:41Z</lastmod>
+    </url>
+    <url>
         <loc>https://news.cryptic.io/randall-munroe-archimedes-principle/</loc>
         <lastmod>2022-10-05T00:00:00Z</lastmod>
     </url>
@@ -2462,10 +2462,6 @@
         <lastmod>2021-11-09T18:41:00Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/various-life-goes-on-with-stewart-brand/</loc>
-        <lastmod>2022-09-14T21:20:08Z</lastmod>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/various-music-what-it-means-to-me/</loc>
         <lastmod>2022-06-29T02:37:58Z</lastmod>
     </url>
@@ -2490,24 +2486,8 @@
         <lastmod>2022-07-25T12:38:18Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/various-palladium-07-garden-planet/</loc>
-        <lastmod>2022-09-01T14:33:14Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/various-palladium-podcast-80-ash-milton-on-the-wages-of-revolution/</loc>
-        <lastmod>2022-09-13T19:16:50Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/various-palladium-podcast-81-dylan-levi-king-on-east-asian-ecotheology/</loc>
-        <lastmod>2022-10-03T20:25:15Z</lastmod>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/various-save-the-date/</loc>
         <lastmod>2020-08-31T18:11:05Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/various-science-needs-sovereigns/</loc>
-        <lastmod>2022-10-03T21:27:17Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/various-screaming-internally-anxiety-and-trauma/</loc>
@@ -2522,24 +2502,8 @@
         <lastmod>2022-07-27T22:40:44Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/various-surveilling-the-american-borderlands/</loc>
-        <lastmod>2022-09-23T19:52:10Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/various-the-apostle-of-the-french-revolution/</loc>
-        <lastmod>2022-08-29T07:00:31Z</lastmod>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/various-the-endless-dream-on-addiction-and-my-mental-health/</loc>
         <lastmod>2022-07-10T04:46:00Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/various-the-future-history-of-the-nuclear-renaissance-with-isabelle-boemeke/</loc>
-        <lastmod>2022-09-21T07:00:41Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/various-the-rise-of-the-garden-empires/</loc>
-        <lastmod>2022-09-08T12:14:46Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/various-they-dont-know-its-the-last-time-when-you-hold-them/</loc>
@@ -2548,10 +2512,6 @@
     <url>
         <loc>https://news.cryptic.io/various-what-game-are-you-playing/</loc>
         <lastmod>2022-05-04T17:13:18Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/various-when-elite-physicists-advised-washington/</loc>
-        <lastmod>2022-10-01T18:34:32Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/various-win32-is-the-stable-linux-userland-abi-and-the-consequences/</loc>
