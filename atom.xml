@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-10-10T21:36:36+00:00</updated>
+  <updated>2022-10-11T01:35:54+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>E.U. Standardizes USB-C Smartphone Charging for 2024, Laptops by 2026</title>
+        <author>
+            <name>Nick Heer</name>
+        </author>
+    <published>2022-10-11T01:35:54+00:00</published>
+    <updated>2022-10-11T01:35:54+00:00</updated>
+    <link href="https://news.cryptic.io/nick-heer-eu-standardizes-usbc-smartphone-charging-for-2024-laptops-by-2026/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nick-heer-eu-standardizes-usbc-smartphone-charging-for-2024-laptops-by-2026/" type="text/html"/>
+      <source>
+        <id>https://pxlnv.com/linklog/eu-usb-c-standardization/</id>
+        <link href="https://pxlnv.com/linklog/eu-usb-c-standardization/"/>
+        <title>E.U. Standardizes USB-C Smartphone Charging for 2024, Laptops by 2026</title>
+        <author>
+            <name>Nick Heer</name>
+        </author>
+        <updated>2022-10-11T01:35:54+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nick-heer-eu-standardizes-usbc-smartphone-charging-for-2024-laptops-by-2026/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Transformations of Science
 </title>
@@ -52,6 +76,30 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-coding-with-copilot-for-acceleration-and-exploration/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Fan Theories</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-10-10T00:00:00+00:00</published>
+    <updated>2022-10-10T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-fan-theories/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-fan-theories/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2683/</id>
+        <link href="https://xkcd.com/2683/"/>
+        <title>Fan Theories</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-10-10T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-fan-theories/</id>
     <content type="html">
         
     </content>
@@ -997,30 +1045,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Climate Impact of ‘Freight Sprawl’</title>
-        <author>
-            <name>Nick Heer</name>
-        </author>
-    <published>2022-10-03T00:15:33+00:00</published>
-    <updated>2022-10-03T00:15:33+00:00</updated>
-    <link href="https://news.cryptic.io/nick-heer-the-climate-impact-of-freight-sprawl/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nick-heer-the-climate-impact-of-freight-sprawl/" type="text/html"/>
-      <source>
-        <id>https://pxlnv.com/linklog/climate-freight-sprawl/</id>
-        <link href="https://pxlnv.com/linklog/climate-freight-sprawl/"/>
-        <title>The Climate Impact of ‘Freight Sprawl’</title>
-        <author>
-            <name>Nick Heer</name>
-        </author>
-        <updated>2022-10-03T00:15:33+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nick-heer-the-climate-impact-of-freight-sprawl/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>From Paxos to BFT</title>
         <author>
             <name>Aleksey Kladov</name>
@@ -1402,30 +1426,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-reading-notes-september-2022/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Quantified Self</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2022-09-30T00:00:00+00:00</published>
-    <updated>2022-09-30T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-quantified-self/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-quantified-self/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2679/</id>
-        <link href="https://xkcd.com/2679/"/>
-        <title>Quantified Self</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2022-09-30T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-quantified-self/</id>
     <content type="html">
         
     </content>
