@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-10-11T01:35:54+00:00</updated>
+  <updated>2022-10-11T05:29:09+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Car Crash Detection</title>
+        <author>
+            <name>Nick Heer</name>
+        </author>
+    <published>2022-10-11T05:29:09+00:00</published>
+    <updated>2022-10-11T05:29:09+00:00</updated>
+    <link href="https://news.cryptic.io/nick-heer-car-crash-detection/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nick-heer-car-crash-detection/" type="text/html"/>
+      <source>
+        <id>https://pxlnv.com/linklog/car-crash-detection/</id>
+        <link href="https://pxlnv.com/linklog/car-crash-detection/"/>
+        <title>Car Crash Detection</title>
+        <author>
+            <name>Nick Heer</name>
+        </author>
+        <updated>2022-10-11T05:29:09+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nick-heer-car-crash-detection/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>E.U. Standardizes USB-C Smartphone Charging for 2024, Laptops by 2026</title>
         <author>
@@ -1016,30 +1040,6 @@
       </source>
 
     <id>https://news.cryptic.io/nick-heer-would-you-like-to-buy-an-ad/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Advertising to Bots</title>
-        <author>
-            <name>Nick Heer</name>
-        </author>
-    <published>2022-10-03T00:48:52+00:00</published>
-    <updated>2022-10-03T00:48:52+00:00</updated>
-    <link href="https://news.cryptic.io/nick-heer-advertising-to-bots/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nick-heer-advertising-to-bots/" type="text/html"/>
-      <source>
-        <id>https://pxlnv.com/linklog/advertising-to-bots/</id>
-        <link href="https://pxlnv.com/linklog/advertising-to-bots/"/>
-        <title>Advertising to Bots</title>
-        <author>
-            <name>Nick Heer</name>
-        </author>
-        <updated>2022-10-03T00:48:52+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nick-heer-advertising-to-bots/</id>
     <content type="html">
         
     </content>
