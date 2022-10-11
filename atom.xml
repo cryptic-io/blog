@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-10-11T11:34:04+00:00</updated>
+  <updated>2022-10-11T17:04:07+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>News Website Appears to Have Been Duped by Fake Internal Meta Documents</title>
+        <author>
+            <name>Nick Heer</name>
+        </author>
+    <published>2022-10-11T17:04:07+00:00</published>
+    <updated>2022-10-11T17:04:07+00:00</updated>
+    <link href="https://news.cryptic.io/nick-heer-news-website-appears-to-have-been-duped-by-fake-internal-meta-documents/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nick-heer-news-website-appears-to-have-been-duped-by-fake-internal-meta-documents/" type="text/html"/>
+      <source>
+        <id>https://pxlnv.com/linklog/wire-meta-internal-documents/</id>
+        <link href="https://pxlnv.com/linklog/wire-meta-internal-documents/"/>
+        <title>News Website Appears to Have Been Duped by Fake Internal Meta Documents</title>
+        <author>
+            <name>Nick Heer</name>
+        </author>
+        <updated>2022-10-11T17:04:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nick-heer-news-website-appears-to-have-been-duped-by-fake-internal-meta-documents/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Two Anniversaries on One Day</title>
         <author>
@@ -1040,30 +1064,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-ellis-learning-by-working-on-problems-just-outside-of-your-reach/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Would You Like to Buy an Ad?</title>
-        <author>
-            <name>Nick Heer</name>
-        </author>
-    <published>2022-10-03T01:14:28+00:00</published>
-    <updated>2022-10-03T01:14:28+00:00</updated>
-    <link href="https://news.cryptic.io/nick-heer-would-you-like-to-buy-an-ad/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nick-heer-would-you-like-to-buy-an-ad/" type="text/html"/>
-      <source>
-        <id>https://pxlnv.com/linklog/sponsor-pxlnv/</id>
-        <link href="https://pxlnv.com/linklog/sponsor-pxlnv/"/>
-        <title>Would You Like to Buy an Ad?</title>
-        <author>
-            <name>Nick Heer</name>
-        </author>
-        <updated>2022-10-03T01:14:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nick-heer-would-you-like-to-buy-an-ad/</id>
     <content type="html">
         
     </content>
@@ -2107,30 +2107,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>DAOs are not corporations: where decentralization in autonomous organizations matters</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-    <published>2022-09-20T00:00:00+00:00</published>
-    <updated>2022-09-20T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/vitalik-buterin-daos-are-not-corporations-where-decentralization-in-autonomous-organizations-matters/"/>
-    <link rel="alternate" href="https://news.cryptic.io/vitalik-buterin-daos-are-not-corporations-where-decentralization-in-autonomous-organizations-matters/" type="text/html"/>
-      <source>
-        <id>https://vitalik.ca/general/2022/09/20/daos.html</id>
-        <link href="https://vitalik.ca/general/2022/09/20/daos.html"/>
-        <title>DAOs are not corporations: where decentralization in autonomous organizations matters</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-        <updated>2022-09-20T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/vitalik-buterin-daos-are-not-corporations-where-decentralization-in-autonomous-organizations-matters/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>My Contribution to Launching React Router 6.4</title>
         <author>
             <name>Jim Nielsen</name>
@@ -2294,30 +2270,6 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-accidentally-turning-the-asrock-deskmini-x300-into-a-semipassively-cooled-pc/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>What kind of layer 3s make sense?</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-    <published>2022-09-17T00:00:00+00:00</published>
-    <updated>2022-09-17T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/vitalik-buterin-what-kind-of-layer-3s-make-sense/"/>
-    <link rel="alternate" href="https://news.cryptic.io/vitalik-buterin-what-kind-of-layer-3s-make-sense/" type="text/html"/>
-      <source>
-        <id>https://vitalik.ca/general/2022/09/17/layer_3.html</id>
-        <link href="https://vitalik.ca/general/2022/09/17/layer_3.html"/>
-        <title>What kind of layer 3s make sense?</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-        <updated>2022-09-17T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/vitalik-buterin-what-kind-of-layer-3s-make-sense/</id>
     <content type="html">
         
     </content>
@@ -2946,30 +2898,6 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-quality-is-systemic/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Should there be demand-based recurring fees on ENS domains?</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-    <published>2022-09-09T00:00:00+00:00</published>
-    <updated>2022-09-09T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/vitalik-buterin-should-there-be-demandbased-recurring-fees-on-ens-domains/"/>
-    <link rel="alternate" href="https://news.cryptic.io/vitalik-buterin-should-there-be-demandbased-recurring-fees-on-ens-domains/" type="text/html"/>
-      <source>
-        <id>https://vitalik.ca/general/2022/09/09/ens.html</id>
-        <link href="https://vitalik.ca/general/2022/09/09/ens.html"/>
-        <title>Should there be demand-based recurring fees on ENS domains?</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-        <updated>2022-09-09T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/vitalik-buterin-should-there-be-demandbased-recurring-fees-on-ens-domains/</id>
     <content type="html">
         
     </content>
@@ -3646,30 +3574,6 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-generating-agency-through-blogging/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>不同類型的 ZK-EVM</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-    <published>2022-08-29T00:00:00+00:00</published>
-    <updated>2022-08-29T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/vitalik-buterin-zkevm/"/>
-    <link rel="alternate" href="https://news.cryptic.io/vitalik-buterin-zkevm/" type="text/html"/>
-      <source>
-        <id>https://vitalik.ca/general/2022/08/29/zkevm_zhTW.html</id>
-        <link href="https://vitalik.ca/general/2022/08/29/zkevm_zhTW.html"/>
-        <title>不同類型的 ZK-EVM</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-        <updated>2022-08-29T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/vitalik-buterin-zkevm/</id>
     <content type="html">
         
     </content>
@@ -4803,30 +4707,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The different types of ZK-EVMs</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-    <published>2022-08-04T00:00:00+00:00</published>
-    <updated>2022-08-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/vitalik-buterin-the-different-types-of-zkevms/"/>
-    <link rel="alternate" href="https://news.cryptic.io/vitalik-buterin-the-different-types-of-zkevms/" type="text/html"/>
-      <source>
-        <id>https://vitalik.ca/general/2022/08/04/zkevm.html</id>
-        <link href="https://vitalik.ca/general/2022/08/04/zkevm.html"/>
-        <title>The different types of ZK-EVMs</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-        <updated>2022-08-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/vitalik-buterin-the-different-types-of-zkevms/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Toddlers, management, and the illusion of choice</title>
         <author>
             <name>Charlie Andrews</name>
@@ -5614,30 +5494,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-living-with-models/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>What do I think about network states?</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-    <published>2022-07-13T00:00:00+00:00</published>
-    <updated>2022-07-13T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/vitalik-buterin-what-do-i-think-about-network-states/"/>
-    <link rel="alternate" href="https://news.cryptic.io/vitalik-buterin-what-do-i-think-about-network-states/" type="text/html"/>
-      <source>
-        <id>https://vitalik.ca/general/2022/07/13/networkstates.html</id>
-        <link href="https://vitalik.ca/general/2022/07/13/networkstates.html"/>
-        <title>What do I think about network states?</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-        <updated>2022-07-13T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/vitalik-buterin-what-do-i-think-about-network-states/</id>
     <content type="html">
         
     </content>
@@ -6651,30 +6507,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>My 40-liter backpack travel guide</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-    <published>2022-06-20T00:00:00+00:00</published>
-    <updated>2022-06-20T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/vitalik-buterin-my-40liter-backpack-travel-guide/"/>
-    <link rel="alternate" href="https://news.cryptic.io/vitalik-buterin-my-40liter-backpack-travel-guide/" type="text/html"/>
-      <source>
-        <id>https://vitalik.ca/general/2022/06/20/backpack.html</id>
-        <link href="https://vitalik.ca/general/2022/06/20/backpack.html"/>
-        <title>My 40-liter backpack travel guide</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-        <updated>2022-06-20T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/vitalik-buterin-my-40liter-backpack-travel-guide/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>the joke that changed my life</title>
         <author>
             <name>Derek Sivers</name>
@@ -6843,30 +6675,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Some ways to use ZK-SNARKs for privacy</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-    <published>2022-06-15T00:00:00+00:00</published>
-    <updated>2022-06-15T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/vitalik-buterin-some-ways-to-use-zksnarks-for-privacy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/vitalik-buterin-some-ways-to-use-zksnarks-for-privacy/" type="text/html"/>
-      <source>
-        <id>https://vitalik.ca/general/2022/06/15/using_snarks.html</id>
-        <link href="https://vitalik.ca/general/2022/06/15/using_snarks.html"/>
-        <title>Some ways to use ZK-SNARKs for privacy</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-        <updated>2022-06-15T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/vitalik-buterin-some-ways-to-use-zksnarks-for-privacy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Dialogs and shadow DOM: can we make it accessible?</title>
         <author>
             <name>Nolan Lawson</name>
@@ -6958,30 +6766,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-what-i-read-on-holiday/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Where to use a blockchain in non-financial applications?</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-    <published>2022-06-12T00:00:00+00:00</published>
-    <updated>2022-06-12T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/vitalik-buterin-where-to-use-a-blockchain-in-nonfinancial-applications/"/>
-    <link rel="alternate" href="https://news.cryptic.io/vitalik-buterin-where-to-use-a-blockchain-in-nonfinancial-applications/" type="text/html"/>
-      <source>
-        <id>https://vitalik.ca/general/2022/06/12/nonfin.html</id>
-        <link href="https://vitalik.ca/general/2022/06/12/nonfin.html"/>
-        <title>Where to use a blockchain in non-financial applications?</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-        <updated>2022-06-12T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/vitalik-buterin-where-to-use-a-blockchain-in-nonfinancial-applications/</id>
     <content type="html">
         
     </content>
@@ -7942,30 +7726,6 @@
       </source>
 
     <id>https://news.cryptic.io/chris-kiehl-rebuilding-the-really-really-specific-thing-holder/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Two thought experiments to evaluate automated stablecoins</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-    <published>2022-05-25T00:00:00+00:00</published>
-    <updated>2022-05-25T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/vitalik-buterin-two-thought-experiments-to-evaluate-automated-stablecoins/"/>
-    <link rel="alternate" href="https://news.cryptic.io/vitalik-buterin-two-thought-experiments-to-evaluate-automated-stablecoins/" type="text/html"/>
-      <source>
-        <id>https://vitalik.ca/general/2022/05/25/stable.html</id>
-        <link href="https://vitalik.ca/general/2022/05/25/stable.html"/>
-        <title>Two thought experiments to evaluate automated stablecoins</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-        <updated>2022-05-25T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/vitalik-buterin-two-thought-experiments-to-evaluate-automated-stablecoins/</id>
     <content type="html">
         
     </content>
