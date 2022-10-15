@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-10-14T03:05:35+00:00</updated>
+  <updated>2022-10-15T00:06:17+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Meta Is Ending Support for Instant Articles</title>
+        <author>
+            <name>Nick Heer</name>
+        </author>
+    <published>2022-10-15T00:06:17+00:00</published>
+    <updated>2022-10-15T00:06:17+00:00</updated>
+    <link href="https://news.cryptic.io/nick-heer-meta-is-ending-support-for-instant-articles/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nick-heer-meta-is-ending-support-for-instant-articles/" type="text/html"/>
+      <source>
+        <id>https://pxlnv.com/linklog/meta-sunset-instant-articles/</id>
+        <link href="https://pxlnv.com/linklog/meta-sunset-instant-articles/"/>
+        <title>Meta Is Ending Support for Instant Articles</title>
+        <author>
+            <name>Nick Heer</name>
+        </author>
+        <updated>2022-10-15T00:06:17+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nick-heer-meta-is-ending-support-for-instant-articles/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>More Than a Password</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+    <published>2022-10-14T20:31:07+00:00</published>
+    <updated>2022-10-14T20:31:07+00:00</updated>
+    <link href="https://news.cryptic.io/adam-pritchard-more-than-a-password/"/>
+    <link rel="alternate" href="https://news.cryptic.io/adam-pritchard-more-than-a-password/" type="text/html"/>
+      <source>
+        <id>https://adam-p.ca/blog/2022/10/password-plus-plus/</id>
+        <link href="https://adam-p.ca/blog/2022/10/password-plus-plus/"/>
+        <title>More Than a Password</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+        <updated>2022-10-14T20:31:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/adam-pritchard-more-than-a-password/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>⌥ Lipstick on a Pig</title>
         <author>
@@ -1132,30 +1180,6 @@
       </source>
 
     <id>https://news.cryptic.io/randall-munroe-easy-or-hard/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Most People on Twitter Are in Echo Chambers of Celebrity, Not Ideology</title>
-        <author>
-            <name>Nick Heer</name>
-        </author>
-    <published>2022-10-06T22:17:07+00:00</published>
-    <updated>2022-10-06T22:17:07+00:00</updated>
-    <link href="https://news.cryptic.io/nick-heer-most-people-on-twitter-are-in-echo-chambers-of-celebrity-not-ideology/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nick-heer-most-people-on-twitter-are-in-echo-chambers-of-celebrity-not-ideology/" type="text/html"/>
-      <source>
-        <id>https://pxlnv.com/linklog/twitter-celebrity-study/</id>
-        <link href="https://pxlnv.com/linklog/twitter-celebrity-study/"/>
-        <title>Most People on Twitter Are in Echo Chambers of Celebrity, Not Ideology</title>
-        <author>
-            <name>Nick Heer</name>
-        </author>
-        <updated>2022-10-06T22:17:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nick-heer-most-people-on-twitter-are-in-echo-chambers-of-celebrity-not-ideology/</id>
     <content type="html">
         
     </content>
@@ -13362,30 +13386,6 @@
       </source>
 
     <id>https://news.cryptic.io/andra-bajt-trying-out-prometheus/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Make sure you have a backup Yubikey</title>
-        <author>
-            <name>Adam Pritchard</name>
-        </author>
-    <published>2021-06-25T00:00:00+00:00</published>
-    <updated>2021-06-25T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/adam-pritchard-make-sure-you-have-a-backup-yubikey/"/>
-    <link rel="alternate" href="https://news.cryptic.io/adam-pritchard-make-sure-you-have-a-backup-yubikey/" type="text/html"/>
-      <source>
-        <id>https://adam-p.ca/blog/2021/06/backup-yubikey/</id>
-        <link href="https://adam-p.ca/blog/2021/06/backup-yubikey/"/>
-        <title>Make sure you have a backup Yubikey</title>
-        <author>
-            <name>Adam Pritchard</name>
-        </author>
-        <updated>2021-06-25T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/adam-pritchard-make-sure-you-have-a-backup-yubikey/</id>
     <content type="html">
         
     </content>
