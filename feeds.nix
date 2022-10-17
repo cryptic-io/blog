@@ -304,11 +304,11 @@
     author = "Chris Kiehl";
     url = "https://chriskiehl.com/rss.xml";
   }
-  {
-    name = "Web3 is going just great";
-    author = "Molly White";
-    url = "https://web3isgoinggreat.com/feed.xml";
-  }
+  #{
+  #  name = "Web3 is going just great";
+  #  author = "Molly White";
+  #  url = "https://web3isgoinggreat.com/feed.xml";
+  #}
   {
     name = "alexanderell.is";
     author = "Alex Ellis";
@@ -323,11 +323,11 @@
     author = "Derek Sivers";
     url = "https://sive.rs/en.atom";
   }
-  {
-    name = "Pixel Envy";
-    author = "Nick Heer";
-    url = "https://pxlnv.com/feed";
-  }
+  #{
+  #  name = "Pixel Envy";
+  #  author = "Nick Heer";
+  #  url = "https://pxlnv.com/feed";
+  #}
   {
     name = "allenpike.com";
     url = "https://feeds.allenpike.com/feed/";
