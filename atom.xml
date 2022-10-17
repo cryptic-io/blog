@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-10-16T11:34:19+00:00</updated>
+  <updated>2022-10-17T13:23:22+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Sponsor: Unread, an RSS Reader</title>
+        <author>
+            <name>Nick Heer</name>
+        </author>
+    <published>2022-10-17T13:23:22+00:00</published>
+    <updated>2022-10-17T13:23:22+00:00</updated>
+    <link href="https://news.cryptic.io/nick-heer-sponsor-unread-an-rss-reader/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nick-heer-sponsor-unread-an-rss-reader/" type="text/html"/>
+      <source>
+        <id>https://pxlnv.com/linklog/sponsor/unread-an-rss-reader/</id>
+        <link href="https://pxlnv.com/linklog/sponsor/unread-an-rss-reader/"/>
+        <title>Sponsor: Unread, an RSS Reader</title>
+        <author>
+            <name>Nick Heer</name>
+        </author>
+        <updated>2022-10-17T13:23:22+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nick-heer-sponsor-unread-an-rss-reader/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>HOWTO: Remove the Blubrry PowerPress &amp;quot;New!&amp;quot; Banner</title>
         <author>
@@ -1180,30 +1204,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-when-to-use-memory-safe-languages-part-1-safety-in-nonmemorysafe-languages/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Even the People Building Meta’s Augmented Reality Projects Do Not Find Them Compelling</title>
-        <author>
-            <name>Nick Heer</name>
-        </author>
-    <published>2022-10-07T02:57:47+00:00</published>
-    <updated>2022-10-07T02:57:47+00:00</updated>
-    <link href="https://news.cryptic.io/nick-heer-even-the-people-building-metas-augmented-reality-projects-do-not-find-them-compelling/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nick-heer-even-the-people-building-metas-augmented-reality-projects-do-not-find-them-compelling/" type="text/html"/>
-      <source>
-        <id>https://pxlnv.com/linklog/horizon-internal-memos/</id>
-        <link href="https://pxlnv.com/linklog/horizon-internal-memos/"/>
-        <title>Even the People Building Meta’s Augmented Reality Projects Do Not Find Them Compelling</title>
-        <author>
-            <name>Nick Heer</name>
-        </author>
-        <updated>2022-10-07T02:57:47+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nick-heer-even-the-people-building-metas-augmented-reality-projects-do-not-find-them-compelling/</id>
     <content type="html">
         
     </content>
