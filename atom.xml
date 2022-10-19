@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-10-19T10:59:00+00:00</updated>
+  <updated>2022-10-19T17:00:01+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Programming as play</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2022-10-19T17:00:01+00:00</published>
+    <updated>2022-10-19T17:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-programming-as-play/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-programming-as-play/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/programmingasplay.html</id>
+        <link href="https://austinhenley.com/blog/programmingasplay.html"/>
+        <title>Programming as play</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2022-10-19T17:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-programming-as-play/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>What&#x27;s this search algorithm usually called?</title>
         <author>
@@ -9718,30 +9742,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-a-tale-of-yak-shaving-accidentally-making-a-language-for-an-engine-for-a-game/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The project with a single 11,000-line code file</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-    <published>2022-04-03T20:00:01+00:00</published>
-    <updated>2022-04-03T20:00:01+00:00</updated>
-    <link href="https://news.cryptic.io/austin-z-henley-the-project-with-a-single-11000line-code-file/"/>
-    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-the-project-with-a-single-11000line-code-file/" type="text/html"/>
-      <source>
-        <id>https://austinhenley.com/blog/11000lines.html</id>
-        <link href="https://austinhenley.com/blog/11000lines.html"/>
-        <title>The project with a single 11,000-line code file</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-        <updated>2022-04-03T20:00:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/austin-z-henley-the-project-with-a-single-11000line-code-file/</id>
     <content type="html">
         
     </content>
