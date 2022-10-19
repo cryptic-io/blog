@@ -79,6 +79,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Division Notation</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-10-19T00:00:00+00:00</published>
+    <updated>2022-10-19T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-division-notation/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-division-notation/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2687/</id>
+        <link href="https://xkcd.com/2687/"/>
+        <title>Division Notation</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-10-19T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-division-notation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Tree search in Haskell</title>
         <author>
             <name>Mark Dominus</name>
@@ -822,30 +846,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-coding-with-copilot-for-acceleration-and-exploration/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Fan Theories</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2022-10-10T00:00:00+00:00</published>
-    <updated>2022-10-10T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-fan-theories/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-fan-theories/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2683/</id>
-        <link href="https://xkcd.com/2683/"/>
-        <title>Fan Theories</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2022-10-10T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-fan-theories/</id>
     <content type="html">
         
     </content>
