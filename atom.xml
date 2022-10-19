@@ -57,23 +57,23 @@
   <entry xml:lang="en">
     <title>Why Linux Troubleshooting Advice Sucks</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
     <published>2022-10-19T00:00:00+00:00</published>
     <updated>2022-10-19T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-why-linux-troubleshooting-advice-sucks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-why-linux-troubleshooting-advice-sucks/" type="text/html"/>
+    <link href="https://news.cryptic.io/alex-kladov-why-linux-troubleshooting-advice-sucks/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-why-linux-troubleshooting-advice-sucks/" type="text/html"/>
       <source>
-        <id>https://matklad.github.io//2022/10/19/why-linux-troubleshooting-advice-sucks.html</id>
-        <link href="https://matklad.github.io//2022/10/19/why-linux-troubleshooting-advice-sucks.html"/>
+        <id>https://matklad.github.io/2022/10/19/why-linux-troubleshooting-advice-sucks.html</id>
+        <link href="https://matklad.github.io/2022/10/19/why-linux-troubleshooting-advice-sucks.html"/>
         <title>Why Linux Troubleshooting Advice Sucks</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
         <updated>2022-10-19T00:00:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/aleksey-kladov-why-linux-troubleshooting-advice-sucks/</id>
+    <id>https://news.cryptic.io/alex-kladov-why-linux-troubleshooting-advice-sucks/</id>
     <content type="html">
         
     </content>
@@ -532,6 +532,30 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-a-hope/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Recovering a password-protected ThinkPad T60</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2022-10-13T05:00:00+00:00</published>
+    <updated>2022-10-13T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-recovering-a-passwordprotected-thinkpad-t60/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-recovering-a-passwordprotected-thinkpad-t60/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2022/10/13/recovering-password-locked-thinkpad-t60/</id>
+        <link href="https://ounapuu.ee/posts/2022/10/13/recovering-password-locked-thinkpad-t60/"/>
+        <title>Recovering a password-protected ThinkPad T60</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2022-10-13T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-recovering-a-passwordprotected-thinkpad-t60/</id>
     <content type="html">
         
     </content>
@@ -1045,23 +1069,23 @@
   <entry xml:lang="en">
     <title>Hard Mode Rust</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
     <published>2022-10-06T00:00:00+00:00</published>
     <updated>2022-10-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-hard-mode-rust/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-hard-mode-rust/" type="text/html"/>
+    <link href="https://news.cryptic.io/alex-kladov-hard-mode-rust/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-hard-mode-rust/" type="text/html"/>
       <source>
-        <id>https://matklad.github.io//2022/10/06/hard-mode-rust.html</id>
-        <link href="https://matklad.github.io//2022/10/06/hard-mode-rust.html"/>
+        <id>https://matklad.github.io/2022/10/06/hard-mode-rust.html</id>
+        <link href="https://matklad.github.io/2022/10/06/hard-mode-rust.html"/>
         <title>Hard Mode Rust</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
         <updated>2022-10-06T00:00:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/aleksey-kladov-hard-mode-rust/</id>
+    <id>https://news.cryptic.io/alex-kladov-hard-mode-rust/</id>
     <content type="html">
         
     </content>
@@ -1187,6 +1211,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Testing a cheap ExpressCard to NVMe SSD adapter on my ThinkPad T430</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2022-10-04T02:00:00+00:00</published>
+    <updated>2022-10-04T02:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-testing-a-cheap-expresscard-to-nvme-ssd-adapter-on-my-thinkpad-t430/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-testing-a-cheap-expresscard-to-nvme-ssd-adapter-on-my-thinkpad-t430/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2022/10/04/testing-expresscard-nvme-ssd-adapter/</id>
+        <link href="https://ounapuu.ee/posts/2022/10/04/testing-expresscard-nvme-ssd-adapter/"/>
+        <title>Testing a cheap ExpressCard to NVMe SSD adapter on my ThinkPad T430</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2022-10-04T02:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-testing-a-cheap-expresscard-to-nvme-ssd-adapter-on-my-thinkpad-t430/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Science Needs Sovereigns
 </title>
         <author>
@@ -1289,23 +1337,23 @@
   <entry xml:lang="en">
     <title>From Paxos to BFT</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
     <published>2022-10-03T00:00:00+00:00</published>
     <updated>2022-10-03T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-from-paxos-to-bft/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-from-paxos-to-bft/" type="text/html"/>
+    <link href="https://news.cryptic.io/alex-kladov-from-paxos-to-bft/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-from-paxos-to-bft/" type="text/html"/>
       <source>
-        <id>https://matklad.github.io//2022/10/03/from-paxos-to-bft.html</id>
-        <link href="https://matklad.github.io//2022/10/03/from-paxos-to-bft.html"/>
+        <id>https://matklad.github.io/2022/10/03/from-paxos-to-bft.html</id>
+        <link href="https://matklad.github.io/2022/10/03/from-paxos-to-bft.html"/>
         <title>From Paxos to BFT</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
         <updated>2022-10-03T00:00:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/aleksey-kladov-from-paxos-to-bft/</id>
+    <id>https://news.cryptic.io/alex-kladov-from-paxos-to-bft/</id>
     <content type="html">
         
     </content>
@@ -1836,6 +1884,30 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-the-food-issue/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The minimum viable fan control script</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2022-09-26T05:00:00+00:00</published>
+    <updated>2022-09-26T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-minimum-viable-fan-control-script/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-minimum-viable-fan-control-script/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2022/09/26/minimum-viable-fan-control-script/</id>
+        <link href="https://ounapuu.ee/posts/2022/09/26/minimum-viable-fan-control-script/"/>
+        <title>The minimum viable fan control script</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2022-09-26T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-minimum-viable-fan-control-script/</id>
     <content type="html">
         
     </content>
@@ -2392,6 +2464,30 @@
       </source>
 
     <id>https://news.cryptic.io/chris-kiehl-how-to-influence-query-planning-in-postgresql/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Accidentally turning the ASRock DeskMini X300 into a semi-passively cooled PC</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2022-09-17T05:00:00+00:00</published>
+    <updated>2022-09-17T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-accidentally-turning-the-asrock-deskmini-x300-into-a-semipassively-cooled-pc/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-accidentally-turning-the-asrock-deskmini-x300-into-a-semipassively-cooled-pc/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2022/09/17/asrock-deskmini-x300-semipassive/</id>
+        <link href="https://ounapuu.ee/posts/2022/09/17/asrock-deskmini-x300-semipassive/"/>
+        <title>Accidentally turning the ASRock DeskMini X300 into a semi-passively cooled PC</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2022-09-17T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-accidentally-turning-the-asrock-deskmini-x300-into-a-semipassively-cooled-pc/</id>
     <content type="html">
         
     </content>
@@ -3795,6 +3891,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Overcoming hardware limitations: the time-to-sleep script</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2022-08-26T05:00:00+00:00</published>
+    <updated>2022-08-26T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-overcoming-hardware-limitations-the-timetosleep-script/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-overcoming-hardware-limitations-the-timetosleep-script/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2022/08/26/the-time-to-sleep-script/</id>
+        <link href="https://ounapuu.ee/posts/2022/08/26/the-time-to-sleep-script/"/>
+        <title>Overcoming hardware limitations: the time-to-sleep script</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2022-08-26T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-overcoming-hardware-limitations-the-timetosleep-script/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Philipp was annoyed</title>
         <author>
             <name>Philipp</name>
@@ -4078,6 +4198,30 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-put-it-on-the-crazy-pile-ideas-and-creativity/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>This site will be offline on 2022-08-17 between 18:00-19:00 EEST</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2022-08-17T12:45:00+00:00</published>
+    <updated>2022-08-17T12:45:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-this-site-will-be-offline-on-20220817-between-18001900-eest/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-this-site-will-be-offline-on-20220817-between-18001900-eest/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2022/08/17/this-site-will-be-offline/</id>
+        <link href="https://ounapuu.ee/posts/2022/08/17/this-site-will-be-offline/"/>
+        <title>This site will be offline on 2022-08-17 between 18:00-19:00 EEST</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2022-08-17T12:45:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-this-site-will-be-offline-on-20220817-between-18001900-eest/</id>
     <content type="html">
         
     </content>
@@ -4582,6 +4726,30 @@
       </source>
 
     <id>https://news.cryptic.io/mechatronicsguy-roadside-picnic-a-nitpick-on-how-to-shoot-the-earth/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>I tried out the CyberPower UT650EG UPS</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2022-08-04T04:00:00+00:00</published>
+    <updated>2022-08-04T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-tried-out-the-cyberpower-ut650eg-ups/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-tried-out-the-cyberpower-ut650eg-ups/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2022/08/04/cyberpower-ut650eg-overview/</id>
+        <link href="https://ounapuu.ee/posts/2022/08/04/cyberpower-ut650eg-overview/"/>
+        <title>I tried out the CyberPower UT650EG UPS</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2022-08-04T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-tried-out-the-cyberpower-ut650eg-ups/</id>
     <content type="html">
         
     </content>
@@ -5501,23 +5669,47 @@
   <entry xml:lang="en">
     <title>Almost Rules</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
     <published>2022-07-10T00:00:00+00:00</published>
     <updated>2022-07-10T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-almost-rules/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-almost-rules/" type="text/html"/>
+    <link href="https://news.cryptic.io/alex-kladov-almost-rules/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-almost-rules/" type="text/html"/>
       <source>
-        <id>https://matklad.github.io//2022/07/10/almost-rules.html</id>
-        <link href="https://matklad.github.io//2022/07/10/almost-rules.html"/>
+        <id>https://matklad.github.io/2022/07/10/almost-rules.html</id>
+        <link href="https://matklad.github.io/2022/07/10/almost-rules.html"/>
         <title>Almost Rules</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
         <updated>2022-07-10T00:00:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/aleksey-kladov-almost-rules/</id>
+    <id>https://news.cryptic.io/alex-kladov-almost-rules/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>btrbk is awesome</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2022-07-09T13:00:00+00:00</published>
+    <updated>2022-07-09T13:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-btrbk-is-awesome/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-btrbk-is-awesome/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2022/07/09/btrbk-is-awesome/</id>
+        <link href="https://ounapuu.ee/posts/2022/07/09/btrbk-is-awesome/"/>
+        <title>btrbk is awesome</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2022-07-09T13:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-btrbk-is-awesome/</id>
     <content type="html">
         
     </content>
@@ -5765,23 +5957,23 @@
   <entry xml:lang="en">
     <title>Unit and Integration Tests</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
     <published>2022-07-04T00:00:00+00:00</published>
     <updated>2022-07-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-unit-and-integration-tests/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-unit-and-integration-tests/" type="text/html"/>
+    <link href="https://news.cryptic.io/alex-kladov-unit-and-integration-tests/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-unit-and-integration-tests/" type="text/html"/>
       <source>
-        <id>https://matklad.github.io//2022/07/04/unit-and-integration-tests.html</id>
-        <link href="https://matklad.github.io//2022/07/04/unit-and-integration-tests.html"/>
+        <id>https://matklad.github.io/2022/07/04/unit-and-integration-tests.html</id>
+        <link href="https://matklad.github.io/2022/07/04/unit-and-integration-tests.html"/>
         <title>Unit and Integration Tests</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
         <updated>2022-07-04T00:00:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/aleksey-kladov-unit-and-integration-tests/</id>
+    <id>https://news.cryptic.io/alex-kladov-unit-and-integration-tests/</id>
     <content type="html">
         
     </content>
@@ -5979,6 +6171,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The absolute state of Bluetooth audio in 2022</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2022-06-29T08:00:00+00:00</published>
+    <updated>2022-06-29T08:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-absolute-state-of-bluetooth-audio-in-2022/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-absolute-state-of-bluetooth-audio-in-2022/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2022/06/29/absolute-state-of-bluetooth-audio/</id>
+        <link href="https://ounapuu.ee/posts/2022/06/29/absolute-state-of-bluetooth-audio/"/>
+        <title>The absolute state of Bluetooth audio in 2022</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2022-06-29T08:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-absolute-state-of-bluetooth-audio-in-2022/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Music: What It Means to Me</title>
         <author>
             <name>Various</name>
@@ -6005,23 +6221,23 @@
   <entry xml:lang="en">
     <title>Notes on GATs</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
     <published>2022-06-29T00:00:00+00:00</published>
     <updated>2022-06-29T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-notes-on-gats/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-notes-on-gats/" type="text/html"/>
+    <link href="https://news.cryptic.io/alex-kladov-notes-on-gats/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-notes-on-gats/" type="text/html"/>
       <source>
-        <id>https://matklad.github.io//2022/06/29/notes-on-gats.html</id>
-        <link href="https://matklad.github.io//2022/06/29/notes-on-gats.html"/>
+        <id>https://matklad.github.io/2022/06/29/notes-on-gats.html</id>
+        <link href="https://matklad.github.io/2022/06/29/notes-on-gats.html"/>
         <title>Notes on GATs</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
         <updated>2022-06-29T00:00:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/aleksey-kladov-notes-on-gats/</id>
+    <id>https://news.cryptic.io/alex-kladov-notes-on-gats/</id>
     <content type="html">
         
     </content>
@@ -6629,23 +6845,23 @@
   <entry xml:lang="en">
     <title>Caches In Rust</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
     <published>2022-06-11T00:00:00+00:00</published>
     <updated>2022-06-11T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-caches-in-rust/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-caches-in-rust/" type="text/html"/>
+    <link href="https://news.cryptic.io/alex-kladov-caches-in-rust/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-caches-in-rust/" type="text/html"/>
       <source>
-        <id>https://matklad.github.io//2022/06/11/caches-in-rust.html</id>
-        <link href="https://matklad.github.io//2022/06/11/caches-in-rust.html"/>
+        <id>https://matklad.github.io/2022/06/11/caches-in-rust.html</id>
+        <link href="https://matklad.github.io/2022/06/11/caches-in-rust.html"/>
         <title>Caches In Rust</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
         <updated>2022-06-11T00:00:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/aleksey-kladov-caches-in-rust/</id>
+    <id>https://news.cryptic.io/alex-kladov-caches-in-rust/</id>
     <content type="html">
         
     </content>
@@ -7035,6 +7251,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Disabling the crappy Broadcom Bluetooth adapter in your ThinkPad T430 running Linux</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2022-06-01T09:00:00+00:00</published>
+    <updated>2022-06-01T09:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-disabling-the-crappy-broadcom-bluetooth-adapter-in-your-thinkpad-t430-running-linux/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-disabling-the-crappy-broadcom-bluetooth-adapter-in-your-thinkpad-t430-running-linux/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2022/06/01/thinkpad-t430-bluetooth-shenanigans/</id>
+        <link href="https://ounapuu.ee/posts/2022/06/01/thinkpad-t430-bluetooth-shenanigans/"/>
+        <title>Disabling the crappy Broadcom Bluetooth adapter in your ThinkPad T430 running Linux</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2022-06-01T09:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-disabling-the-crappy-broadcom-bluetooth-adapter-in-your-thinkpad-t430-running-linux/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>“Abusing you was by the book” (documenting two years of abuse from Game Journalism, after sharing my #metoo… the whole painful story all in one place)</title>
         <author>
             <name>Nathalie Lawhead</name>
@@ -7229,23 +7469,23 @@
   <entry xml:lang="en">
     <title>Binary Privacy</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
     <published>2022-05-29T00:00:00+00:00</published>
     <updated>2022-05-29T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-binary-privacy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-binary-privacy/" type="text/html"/>
+    <link href="https://news.cryptic.io/alex-kladov-binary-privacy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-binary-privacy/" type="text/html"/>
       <source>
-        <id>https://matklad.github.io//2022/05/29/binary-privacy.html</id>
-        <link href="https://matklad.github.io//2022/05/29/binary-privacy.html"/>
+        <id>https://matklad.github.io/2022/05/29/binary-privacy.html</id>
+        <link href="https://matklad.github.io/2022/05/29/binary-privacy.html"/>
         <title>Binary Privacy</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
         <updated>2022-05-29T00:00:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/aleksey-kladov-binary-privacy/</id>
+    <id>https://news.cryptic.io/alex-kladov-binary-privacy/</id>
     <content type="html">
         
     </content>
@@ -7253,23 +7493,23 @@
   <entry xml:lang="en">
     <title>Builder Lite</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
     <published>2022-05-29T00:00:00+00:00</published>
     <updated>2022-05-29T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-builder-lite/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-builder-lite/" type="text/html"/>
+    <link href="https://news.cryptic.io/alex-kladov-builder-lite/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-builder-lite/" type="text/html"/>
       <source>
-        <id>https://matklad.github.io//2022/05/29/builder-lite.html</id>
-        <link href="https://matklad.github.io//2022/05/29/builder-lite.html"/>
+        <id>https://matklad.github.io/2022/05/29/builder-lite.html</id>
+        <link href="https://matklad.github.io/2022/05/29/builder-lite.html"/>
         <title>Builder Lite</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
         <updated>2022-05-29T00:00:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/aleksey-kladov-builder-lite/</id>
+    <id>https://news.cryptic.io/alex-kladov-builder-lite/</id>
     <content type="html">
         
     </content>
@@ -8813,23 +9053,23 @@
   <entry xml:lang="en">
     <title>Why LSP?</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
     <published>2022-04-25T00:00:00+00:00</published>
     <updated>2022-04-25T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/aleksey-kladov-why-lsp/"/>
-    <link rel="alternate" href="https://news.cryptic.io/aleksey-kladov-why-lsp/" type="text/html"/>
+    <link href="https://news.cryptic.io/alex-kladov-why-lsp/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-why-lsp/" type="text/html"/>
       <source>
-        <id>https://matklad.github.io//2022/04/25/why-lsp.html</id>
-        <link href="https://matklad.github.io//2022/04/25/why-lsp.html"/>
+        <id>https://matklad.github.io/2022/04/25/why-lsp.html</id>
+        <link href="https://matklad.github.io/2022/04/25/why-lsp.html"/>
         <title>Why LSP?</title>
         <author>
-            <name>Aleksey Kladov</name>
+            <name>Alex Kladov</name>
         </author>
         <updated>2022-04-25T00:00:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/aleksey-kladov-why-lsp/</id>
+    <id>https://news.cryptic.io/alex-kladov-why-lsp/</id>
     <content type="html">
         
     </content>
