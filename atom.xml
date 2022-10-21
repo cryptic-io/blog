@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-10-21T00:56:00+00:00</updated>
+  <updated>2022-10-21T11:34:41+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>MSc: &amp;quot;So, You Have to Write a Literature Review&amp;quot;</title>
+        <author>
+            <name>@edent</name>
+        </author>
+    <published>2022-10-21T11:34:41+00:00</published>
+    <updated>2022-10-21T11:34:41+00:00</updated>
+    <link href="https://news.cryptic.io/edent-msc-quotso-you-have-to-write-a-literature-reviewquot/"/>
+    <link rel="alternate" href="https://news.cryptic.io/edent-msc-quotso-you-have-to-write-a-literature-reviewquot/" type="text/html"/>
+      <source>
+        <id>https://shkspr.mobi/blog/2022/10/msc-so-you-have-to-write-a-literature-review/</id>
+        <link href="https://shkspr.mobi/blog/2022/10/msc-so-you-have-to-write-a-literature-review/"/>
+        <title>MSc: &amp;quot;So, You Have to Write a Literature Review&amp;quot;</title>
+        <author>
+            <name>@edent</name>
+        </author>
+        <updated>2022-10-21T11:34:41+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/edent-msc-quotso-you-have-to-write-a-literature-reviewquot/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A linguistic oddity</title>
         <author>
@@ -2852,30 +2876,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-palladium-podcast-80-ash-milton-on-the-wages-of-revolution/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Some new HTTP verbs</title>
-        <author>
-            <name>@edent</name>
-        </author>
-    <published>2022-09-13T11:34:17+00:00</published>
-    <updated>2022-09-13T11:34:17+00:00</updated>
-    <link href="https://news.cryptic.io/edent-some-new-http-verbs/"/>
-    <link rel="alternate" href="https://news.cryptic.io/edent-some-new-http-verbs/" type="text/html"/>
-      <source>
-        <id>https://shkspr.mobi/blog/2022/09/some-new-http-verbs/</id>
-        <link href="https://shkspr.mobi/blog/2022/09/some-new-http-verbs/"/>
-        <title>Some new HTTP verbs</title>
-        <author>
-            <name>@edent</name>
-        </author>
-        <updated>2022-09-13T11:34:17+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/edent-some-new-http-verbs/</id>
     <content type="html">
         
     </content>
