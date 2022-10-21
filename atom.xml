@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-10-20T03:19:19+00:00</updated>
+  <updated>2022-10-21T00:56:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A linguistic oddity</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2022-10-21T00:56:00+00:00</published>
+    <updated>2022-10-21T00:56:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-a-linguistic-oddity/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-a-linguistic-oddity/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/lang/embedded.html</id>
+        <link href="https://blog.plover.com/lang/embedded.html"/>
+        <title>A linguistic oddity</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2022-10-21T00:56:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-a-linguistic-oddity/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Seeing vs. Using</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-10-20T19:00:00+00:00</published>
+    <updated>2022-10-20T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-seeing-vs-using/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-seeing-vs-using/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/seeing-vs-using/</id>
+        <link href="https://blog.jim-nielsen.com/2022/seeing-vs-using/"/>
+        <title>Seeing vs. Using</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-10-20T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-seeing-vs-using/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A years-late first-impressions review of the Dell XPS 13 9300</title>
         <author>
@@ -2421,30 +2469,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>My Contribution to Launching React Router 6.4</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2022-09-19T19:00:00+00:00</published>
-    <updated>2022-09-19T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-my-contribution-to-launching-react-router-64/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-my-contribution-to-launching-react-router-64/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2022/my-contribution-to-react-router/</id>
-        <link href="https://blog.jim-nielsen.com/2022/my-contribution-to-react-router/"/>
-        <title>My Contribution to Launching React Router 6.4</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2022-09-19T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-my-contribution-to-launching-react-router-64/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Why ‟controlling for a variable” doesn’t (usually) work</title>
         <author>
             <name>dynomight</name>
@@ -4126,30 +4150,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-daubenschtz-on-eating-with-the-rich/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The False Prophecy of “AGI”: A Quick TL;DR</title>
-        <author>
-            <name>Nathaniel Travis</name>
-        </author>
-    <published>2022-08-22T21:49:03+00:00</published>
-    <updated>2022-08-22T21:49:03+00:00</updated>
-    <link href="https://news.cryptic.io/nathaniel-travis-the-false-prophecy-of-agi-a-quick-tldr/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nathaniel-travis-the-false-prophecy-of-agi-a-quick-tldr/" type="text/html"/>
-      <source>
-        <id>https://nathanieltravis.com/2022/08/22/the-false-prophecy-of-agi-a-quick-tldr/</id>
-        <link href="https://nathanieltravis.com/2022/08/22/the-false-prophecy-of-agi-a-quick-tldr/"/>
-        <title>The False Prophecy of “AGI”: A Quick TL;DR</title>
-        <author>
-            <name>Nathaniel Travis</name>
-        </author>
-        <updated>2022-08-22T21:49:03+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nathaniel-travis-the-false-prophecy-of-agi-a-quick-tldr/</id>
     <content type="html">
         
     </content>
@@ -7678,30 +7678,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-daubenschtz-ceci-nest-pas-une-non-fungible-token/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Quick Spanish etymology question</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2022-05-26T12:43:00+00:00</published>
-    <updated>2022-05-26T12:43:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-quick-spanish-etymology-question/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-quick-spanish-etymology-question/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/lang/etym/llaves.html</id>
-        <link href="https://blog.plover.com/lang/etym/llaves.html"/>
-        <title>Quick Spanish etymology question</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2022-05-26T12:43:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-quick-spanish-etymology-question/</id>
     <content type="html">
         
     </content>
