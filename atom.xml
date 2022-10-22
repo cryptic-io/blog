@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-10-22T18:54:25+00:00</updated>
+  <updated>2022-10-23T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Void Linux root on an encrypted ZFS mirror with syslinux MBR and ZFSBootMenu</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2022-10-23T00:00:00+00:00</published>
+    <updated>2022-10-23T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-void-linux-root-on-an-encrypted-zfs-mirror-with-syslinux-mbr-and-zfsbootmenu/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-void-linux-root-on-an-encrypted-zfs-mirror-with-syslinux-mbr-and-zfsbootmenu/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/tutorials/void-linux-root-on-an-encrypted-zfs-mirror-with-syslinux-mbr-and-zfsbootmenu.html</id>
+        <link href="https://unixsheikh.com/tutorials/void-linux-root-on-an-encrypted-zfs-mirror-with-syslinux-mbr-and-zfsbootmenu.html"/>
+        <title>Void Linux root on an encrypted ZFS mirror with syslinux MBR and ZFSBootMenu</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2022-10-23T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-void-linux-root-on-an-encrypted-zfs-mirror-with-syslinux-mbr-and-zfsbootmenu/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Style performance and concurrent rendering</title>
         <author>
@@ -1573,6 +1597,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Philipp was annoyed</title>
+        <author>
+            <name>Philipp</name>
+        </author>
+    <published>2022-10-04T17:39:49+00:00</published>
+    <updated>2022-10-04T17:39:49+00:00</updated>
+    <link href="https://news.cryptic.io/philipp-philipp-was-annoyed/"/>
+    <link rel="alternate" href="https://news.cryptic.io/philipp-philipp-was-annoyed/" type="text/html"/>
+      <source>
+        <id>https://annoying.technology/posts/df3d50ab6acfb552/</id>
+        <link href="https://annoying.technology/posts/df3d50ab6acfb552/"/>
+        <title>Philipp was annoyed</title>
+        <author>
+            <name>Philipp</name>
+        </author>
+        <updated>2022-10-04T17:39:49+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/philipp-philipp-was-annoyed/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Testing a cheap ExpressCard to NVMe SSD adapter on my ThinkPad T430</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -2826,30 +2874,6 @@
       </source>
 
     <id>https://news.cryptic.io/vitalik-buterin-what-kind-of-layer-3s-make-sense/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Philipp was annoyed</title>
-        <author>
-            <name>Philipp</name>
-        </author>
-    <published>2022-09-16T14:40:10+00:00</published>
-    <updated>2022-09-16T14:40:10+00:00</updated>
-    <link href="https://news.cryptic.io/philipp-philipp-was-annoyed/"/>
-    <link rel="alternate" href="https://news.cryptic.io/philipp-philipp-was-annoyed/" type="text/html"/>
-      <source>
-        <id>https://annoying.technology/posts/f2b650c3c90d9588/</id>
-        <link href="https://annoying.technology/posts/f2b650c3c90d9588/"/>
-        <title>Philipp was annoyed</title>
-        <author>
-            <name>Philipp</name>
-        </author>
-        <updated>2022-09-16T14:40:10+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/philipp-philipp-was-annoyed/</id>
     <content type="html">
         
     </content>
@@ -9862,30 +9886,6 @@
       </source>
 
     <id>https://news.cryptic.io/nutcroft-fable-on-knowledge/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Linux distribution long term support might not be what you think it is</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2022-04-01T00:00:00+00:00</published>
-    <updated>2022-04-01T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-linux-distribution-long-term-support-might-not-be-what-you-think-it-is/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-linux-distribution-long-term-support-might-not-be-what-you-think-it-is/" type="text/html"/>
-      <source>
-        <id>https://unixsheikh.com/articles/linux-distribution-long-term-support-might-not-be-what-you-think-it-is.html</id>
-        <link href="https://unixsheikh.com/articles/linux-distribution-long-term-support-might-not-be-what-you-think-it-is.html"/>
-        <title>Linux distribution long term support might not be what you think it is</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2022-04-01T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-linux-distribution-long-term-support-might-not-be-what-you-think-it-is/</id>
     <content type="html">
         
     </content>
