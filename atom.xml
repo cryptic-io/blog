@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-10-21T20:45:12+00:00</updated>
+  <updated>2022-10-22T00:22:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>More notes on deriving Applicative from Monad</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2022-10-22T00:22:00+00:00</published>
+    <updated>2022-10-22T00:22:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-more-notes-on-deriving-applicative-from-monad/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-more-notes-on-deriving-applicative-from-monad/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/prog/haskell/how-to-ap.html</id>
+        <link href="https://blog.plover.com/prog/haskell/how-to-ap.html"/>
+        <title>More notes on deriving Applicative from Monad</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2022-10-22T00:22:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-more-notes-on-deriving-applicative-from-monad/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Palladium Podcast 82: Jesse Velay-Vitow on the Geopolitics of Climate Change
 </title>
@@ -105,6 +129,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The potential dark side of AI and GPT-3 writing tools</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+    <published>2022-10-21T07:00:00+00:00</published>
+    <updated>2022-10-21T07:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/justin-jackson-the-potential-dark-side-of-ai-and-gpt3-writing-tools/"/>
+    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-the-potential-dark-side-of-ai-and-gpt3-writing-tools/" type="text/html"/>
+      <source>
+        <id>https://justinjackson.ca/ai-darkside</id>
+        <link href="https://justinjackson.ca/ai-darkside"/>
+        <title>The potential dark side of AI and GPT-3 writing tools</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+        <updated>2022-10-21T07:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/justin-jackson-the-potential-dark-side-of-ai-and-gpt3-writing-tools/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>A linguistic oddity</title>
         <author>
             <name>Mark Dominus</name>
@@ -172,6 +220,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-seeing-vs-using/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Online Shopping, But…</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2022-10-20T19:00:00+00:00</published>
+    <updated>2022-10-20T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-online-shopping-but/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-online-shopping-but/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2022/10/20/Ordering-Things-Online</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2022/10/20/Ordering-Things-Online"/>
+        <title>Online Shopping, But…</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2022-10-20T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-online-shopping-but/</id>
     <content type="html">
         
     </content>
@@ -5451,30 +5523,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Dark Matter Fun</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2022-07-18T19:00:00+00:00</published>
-    <updated>2022-07-18T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-dark-matter-fun/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-dark-matter-fun/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2022/07/18/Long-Dark-Matter-Links</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2022/07/18/Long-Dark-Matter-Links"/>
-        <title>Dark Matter Fun</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2022-07-18T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-dark-matter-fun/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Comfy Software</title>
         <author>
             <name>ash</name>
@@ -7635,30 +7683,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>“Llaves” and other vanishing consonants</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2022-05-28T15:21:00+00:00</published>
-    <updated>2022-05-28T15:21:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-llaves-and-other-vanishing-consonants/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-llaves-and-other-vanishing-consonants/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/lang/etym/llaves-2.html</id>
-        <link href="https://blog.plover.com/lang/etym/llaves-2.html"/>
-        <title>“Llaves” and other vanishing consonants</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2022-05-28T15:21:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-llaves-and-other-vanishing-consonants/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Computers Were Not Meant to be Screwdrivers</title>
         <author>
             <name>Tie</name>
@@ -9574,30 +9598,6 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-the-struggle-of-using-native-emoji-on-the-web/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Do entrepreneurs create demand?</title>
-        <author>
-            <name>Justin Jackson</name>
-        </author>
-    <published>2022-04-08T07:00:00+00:00</published>
-    <updated>2022-04-08T07:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/justin-jackson-do-entrepreneurs-create-demand/"/>
-    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-do-entrepreneurs-create-demand/" type="text/html"/>
-      <source>
-        <id>https://justinjackson.ca/customer-demand</id>
-        <link href="https://justinjackson.ca/customer-demand"/>
-        <title>Do entrepreneurs create demand?</title>
-        <author>
-            <name>Justin Jackson</name>
-        </author>
-        <updated>2022-04-08T07:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/justin-jackson-do-entrepreneurs-create-demand/</id>
     <content type="html">
         
     </content>
