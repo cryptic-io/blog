@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-10-24T19:00:00+00:00</updated>
+  <updated>2022-10-25T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Understanding Unix filesystem timestamps</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2022-10-25T00:00:00+00:00</published>
+    <updated>2022-10-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-understanding-unix-filesystem-timestamps/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-understanding-unix-filesystem-timestamps/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/articles/understanding-unix-filesystem-timestamps.html</id>
+        <link href="https://unixsheikh.com/articles/understanding-unix-filesystem-timestamps.html"/>
+        <title>Understanding Unix filesystem timestamps</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2022-10-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-understanding-unix-filesystem-timestamps/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>What “Work” Looks Like</title>
         <author>
@@ -9694,30 +9718,6 @@
       </source>
 
     <id>https://news.cryptic.io/douglas-vaghetti-we-need-platform-regulation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Don&#x27;t use Reddit for Linux or BSD related questions</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2022-04-08T00:00:00+00:00</published>
-    <updated>2022-04-08T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-dont-use-reddit-for-linux-or-bsd-related-questions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-dont-use-reddit-for-linux-or-bsd-related-questions/" type="text/html"/>
-      <source>
-        <id>https://unixsheikh.com/articles/dont-use-reddit-for-linux-or-bsd-related-questions.html</id>
-        <link href="https://unixsheikh.com/articles/dont-use-reddit-for-linux-or-bsd-related-questions.html"/>
-        <title>Don&#x27;t use Reddit for Linux or BSD related questions</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2022-04-08T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-dont-use-reddit-for-linux-or-bsd-related-questions/</id>
     <content type="html">
         
     </content>
