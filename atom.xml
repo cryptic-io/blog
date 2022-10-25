@@ -7,6 +7,30 @@
   <updated>2022-10-25T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
+    <title>Performance &quot;Seasons&quot; Are Useless — Use Anniversary Reviews Instead</title>
+        <author>
+            <name>Jacob Kaplan-Moss</name>
+        </author>
+    <published>2022-10-25T00:00:00+00:00</published>
+    <updated>2022-10-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jacob-kaplanmoss-performance-seasons-are-useless-use-anniversary-reviews-instead/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jacob-kaplanmoss-performance-seasons-are-useless-use-anniversary-reviews-instead/" type="text/html"/>
+      <source>
+        <id>https://jacobian.org/2022/oct/25/against-performance-seasons/</id>
+        <link href="https://jacobian.org/2022/oct/25/against-performance-seasons/"/>
+        <title>Performance &quot;Seasons&quot; Are Useless — Use Anniversary Reviews Instead</title>
+        <author>
+            <name>Jacob Kaplan-Moss</name>
+        </author>
+        <updated>2022-10-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jacob-kaplanmoss-performance-seasons-are-useless-use-anniversary-reviews-instead/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Understanding Unix filesystem timestamps</title>
         <author>
             <name>unixsheikh</name>
@@ -6190,30 +6214,6 @@
       </source>
 
     <id>https://news.cryptic.io/clayton-craft-deleting-stuff-is-fun-and-helpful/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Checking References: What to do if a reference check goes wrong</title>
-        <author>
-            <name>Jacob Kaplan-Moss</name>
-        </author>
-    <published>2022-07-06T00:00:00+00:00</published>
-    <updated>2022-07-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jacob-kaplanmoss-checking-references-what-to-do-if-a-reference-check-goes-wrong/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jacob-kaplanmoss-checking-references-what-to-do-if-a-reference-check-goes-wrong/" type="text/html"/>
-      <source>
-        <id>https://jacobian.org/2022/jul/6/if-reference-checks-go-wrong/</id>
-        <link href="https://jacobian.org/2022/jul/6/if-reference-checks-go-wrong/"/>
-        <title>Checking References: What to do if a reference check goes wrong</title>
-        <author>
-            <name>Jacob Kaplan-Moss</name>
-        </author>
-        <updated>2022-07-06T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jacob-kaplanmoss-checking-references-what-to-do-if-a-reference-check-goes-wrong/</id>
     <content type="html">
         
     </content>
