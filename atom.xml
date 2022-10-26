@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-10-26T13:52:35+00:00</updated>
+  <updated>2022-10-26T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Scroll to Text Fragments</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-10-26T19:00:00+00:00</published>
+    <updated>2022-10-26T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-scroll-to-text-fragments/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-scroll-to-text-fragments/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/scroll-to-text-fragments/</id>
+        <link href="https://blog.jim-nielsen.com/2022/scroll-to-text-fragments/"/>
+        <title>Scroll to Text Fragments</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-10-26T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-scroll-to-text-fragments/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A beginner’s guide to Chrome tracing</title>
         <author>
@@ -2534,30 +2558,6 @@
       </source>
 
     <id>https://news.cryptic.io/derek-sivers-a-daily-run/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Creating Custom RSS Feeds For Following Others</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2022-09-26T19:00:00+00:00</published>
-    <updated>2022-09-26T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-creating-custom-rss-feeds-for-following-others/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-creating-custom-rss-feeds-for-following-others/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2022/custom-rss-feeds/</id>
-        <link href="https://blog.jim-nielsen.com/2022/custom-rss-feeds/"/>
-        <title>Creating Custom RSS Feeds For Following Others</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2022-09-26T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-creating-custom-rss-feeds-for-following-others/</id>
     <content type="html">
         
     </content>
