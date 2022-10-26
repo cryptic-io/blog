@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-10-26T00:00:00+00:00</updated>
+  <updated>2022-10-26T13:52:35+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A beginner’s guide to Chrome tracing</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2022-10-26T13:52:35+00:00</published>
+    <updated>2022-10-26T13:52:35+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-a-beginners-guide-to-chrome-tracing/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-a-beginners-guide-to-chrome-tracing/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2022/10/26/a-beginners-guide-to-chrome-tracing/</id>
+        <link href="https://nolanlawson.com/2022/10/26/a-beginners-guide-to-chrome-tracing/"/>
+        <title>A beginner’s guide to Chrome tracing</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2022-10-26T13:52:35+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-a-beginners-guide-to-chrome-tracing/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Cool S</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-10-26T00:00:00+00:00</published>
+    <updated>2022-10-26T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-cool-s/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-cool-s/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2690/</id>
+        <link href="https://xkcd.com/2690/"/>
+        <title>Cool S</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-10-26T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-cool-s/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>My choice of operating system</title>
         <author>
@@ -966,30 +1014,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-website-fidelity/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Space Adventure</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2022-10-17T00:00:00+00:00</published>
-    <updated>2022-10-17T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-space-adventure/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-space-adventure/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2686/</id>
-        <link href="https://xkcd.com/2686/"/>
-        <title>Space Adventure</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2022-10-17T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-space-adventure/</id>
     <content type="html">
         
     </content>
@@ -11446,30 +11470,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-enter-wolvic/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Five years of quitting Twitter</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-    <published>2022-02-02T16:45:33+00:00</published>
-    <updated>2022-02-02T16:45:33+00:00</updated>
-    <link href="https://news.cryptic.io/nolan-lawson-five-years-of-quitting-twitter/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-five-years-of-quitting-twitter/" type="text/html"/>
-      <source>
-        <id>https://nolanlawson.com/2022/02/02/five-years-of-quitting-twitter/</id>
-        <link href="https://nolanlawson.com/2022/02/02/five-years-of-quitting-twitter/"/>
-        <title>Five years of quitting Twitter</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-        <updated>2022-02-02T16:45:33+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nolan-lawson-five-years-of-quitting-twitter/</id>
     <content type="html">
         
     </content>
