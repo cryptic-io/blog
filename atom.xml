@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-10-27T00:00:00+00:00</updated>
+  <updated>2022-10-27T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Optimize For Nothing</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-10-27T19:00:00+00:00</published>
+    <updated>2022-10-27T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-optimize-for-nothing/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-optimize-for-nothing/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/optimize-for-nothing/</id>
+        <link href="https://blog.jim-nielsen.com/2022/optimize-for-nothing/"/>
+        <title>Optimize For Nothing</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-10-27T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-optimize-for-nothing/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Notes from kernel hacking in Hare, part 3: serial driver</title>
         <author>
@@ -415,30 +439,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Strategic and necessary</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-10-22T19:07:58+00:00</published>
-    <updated>2022-10-22T19:07:58+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-strategic-and-necessary/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-strategic-and-necessary/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/strategic-and-necessary/</id>
-        <link href="https://robinrendle.com/notes/strategic-and-necessary/"/>
-        <title>Strategic and necessary</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-10-22T19:07:58+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-strategic-and-necessary/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Style performance and concurrent rendering</title>
         <author>
             <name>Nolan Lawson</name>
@@ -458,30 +458,6 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-style-performance-and-concurrent-rendering/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Fake Work</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-10-22T18:48:54+00:00</published>
-    <updated>2022-10-22T18:48:54+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-fake-work/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-fake-work/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/fake-work-/</id>
-        <link href="https://robinrendle.com/notes/fake-work-/"/>
-        <title>Fake Work</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-10-22T18:48:54+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-fake-work/</id>
     <content type="html">
         
     </content>
@@ -1017,30 +993,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Monarch</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-10-17T23:47:00+00:00</published>
-    <updated>2022-10-17T23:47:00+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-monarch/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-monarch/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/monarch/</id>
-        <link href="https://robinrendle.com/notes/monarch/"/>
-        <title>Monarch</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-10-17T23:47:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-monarch/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The Genealogy of Chinese Cybernetics
 </title>
         <author>
@@ -1134,30 +1086,6 @@
       </source>
 
     <id>https://news.cryptic.io/edent-howto-remove-the-blubrry-powerpress-quotnewquot-banner/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Right Kind of Attention</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-10-15T16:34:55+00:00</published>
-    <updated>2022-10-15T16:34:55+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-right-kind-of-attention/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-right-kind-of-attention/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-right-kind-of-attention/</id>
-        <link href="https://robinrendle.com/notes/the-right-kind-of-attention/"/>
-        <title>The Right Kind of Attention</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-10-15T16:34:55+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-right-kind-of-attention/</id>
     <content type="html">
         
     </content>
@@ -1547,30 +1475,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Long Links</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2022-10-11T19:00:00+00:00</published>
-    <updated>2022-10-11T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-long-links/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-long-links/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2022/10/11/Long-Links</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2022/10/11/Long-Links"/>
-        <title>Long Links</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2022-10-11T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-long-links/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Two Anniversaries on One Day</title>
         <author>
             <name>@edent</name>
@@ -1640,30 +1544,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-coding-with-copilot-for-acceleration-and-exploration/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Take a Break You Idiot</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-10-09T00:12:33+00:00</published>
-    <updated>2022-10-09T00:12:33+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-take-a-break-you-idiot/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-take-a-break-you-idiot/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/take-a-break-you-idiot/</id>
-        <link href="https://robinrendle.com/notes/take-a-break-you-idiot/"/>
-        <title>Take a Break You Idiot</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-10-09T00:12:33+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-take-a-break-you-idiot/</id>
     <content type="html">
         
     </content>
@@ -2201,30 +2081,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Prototyping, prototyping, prototyping</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-10-02T15:34:00+00:00</published>
-    <updated>2022-10-02T15:34:00+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-prototyping-prototyping-prototyping/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-prototyping-prototyping-prototyping/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/prototyping,-prototyping,-prototyping/</id>
-        <link href="https://robinrendle.com/notes/prototyping,-prototyping,-prototyping/"/>
-        <title>Prototyping, prototyping, prototyping</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-10-02T15:34:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-prototyping-prototyping-prototyping/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>&quot;Your browser may not be compatible with all the features on this site.&quot;</title>
         <author>
             <name>Cheapskate</name>
@@ -2443,30 +2299,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Reading Notes, September 2022</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2022-09-30T19:00:00+00:00</published>
-    <updated>2022-09-30T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-reading-notes-september-2022/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-reading-notes-september-2022/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2022/reading-notes-september/</id>
-        <link href="https://blog.jim-nielsen.com/2022/reading-notes-september/"/>
-        <title>Reading Notes, September 2022</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2022-09-30T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-reading-notes-september-2022/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Autumn Golang Diary</title>
         <author>
             <name>Tim Bray</name>
@@ -2563,30 +2395,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Other Internet</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-09-28T15:53:36+00:00</published>
-    <updated>2022-09-28T15:53:36+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-other-internet/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-other-internet/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-other-internet/</id>
-        <link href="https://robinrendle.com/notes/the-other-internet/"/>
-        <title>The Other Internet</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-09-28T15:53:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-other-internet/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The appeal of small computers</title>
         <author>
             <name>Andre Alves Garzia</name>
@@ -2654,30 +2462,6 @@
       </source>
 
     <id>https://news.cryptic.io/derek-sivers-a-daily-run/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Food Issue</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-09-26T15:05:36+00:00</published>
-    <updated>2022-09-26T15:05:36+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-food-issue/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-food-issue/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-food-issue/</id>
-        <link href="https://robinrendle.com/notes/the-food-issue/"/>
-        <title>The Food Issue</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-09-26T15:05:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-food-issue/</id>
     <content type="html">
         
     </content>
@@ -3627,54 +3411,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Take Care of Your Blog</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-09-11T17:25:14+00:00</published>
-    <updated>2022-09-11T17:25:14+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-take-care-of-your-blog/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-take-care-of-your-blog/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/take-care-of-your-blog-/</id>
-        <link href="https://robinrendle.com/notes/take-care-of-your-blog-/"/>
-        <title>Take Care of Your Blog</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-09-11T17:25:14+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-take-care-of-your-blog/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Tale of the Third Finger Scan</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-09-10T16:28:15+00:00</published>
-    <updated>2022-09-10T16:28:15+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-tale-of-the-third-finger-scan/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-tale-of-the-third-finger-scan/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-tale-of-the-third-finger-scan/</id>
-        <link href="https://robinrendle.com/notes/the-tale-of-the-third-finger-scan/"/>
-        <title>The Tale of the Third Finger Scan</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-09-10T16:28:15+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-tale-of-the-third-finger-scan/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Book Review: Fundamentals of Software Architecture</title>
         <author>
             <name>Chris Kiehl</name>
@@ -4150,6 +3886,30 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-does-gratitude-increase-happiness/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Long Links</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2022-08-31T19:00:00+00:00</published>
+    <updated>2022-08-31T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-long-links/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-long-links/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2022/08/31/Long-Links</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2022/08/31/Long-Links"/>
+        <title>Long Links</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2022-08-31T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-long-links/</id>
     <content type="html">
         
     </content>
