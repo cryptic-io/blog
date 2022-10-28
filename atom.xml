@@ -7,6 +7,30 @@
   <updated>2022-10-28T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
+    <title>Elements Of a Great Markup Language</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2022-10-28T00:00:00+00:00</published>
+    <updated>2022-10-28T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-elements-of-a-great-markup-language/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-elements-of-a-great-markup-language/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2022/10/28/elements-of-a-great-markup-language.html</id>
+        <link href="https://matklad.github.io/2022/10/28/elements-of-a-great-markup-language.html"/>
+        <title>Elements Of a Great Markup Language</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2022-10-28T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-elements-of-a-great-markup-language/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The Revenue-Evil Curve: a different way to think about prioritizing public goods funding</title>
         <author>
             <name>Vitalik Buterin</name>
@@ -7966,30 +7990,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-binary-privacy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Builder Lite</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2022-05-29T00:00:00+00:00</published>
-    <updated>2022-05-29T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-builder-lite/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-builder-lite/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2022/05/29/builder-lite.html</id>
-        <link href="https://matklad.github.io/2022/05/29/builder-lite.html"/>
-        <title>Builder Lite</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2022-05-29T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-builder-lite/</id>
     <content type="html">
         
     </content>
