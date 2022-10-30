@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-10-29T19:00:00+00:00</updated>
+  <updated>2022-10-30T17:16:23+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Music for a Plague</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2022-10-30T17:16:23+00:00</published>
+    <updated>2022-10-30T17:16:23+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-music-for-a-plague/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-music-for-a-plague/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/music-for-a-plague/</id>
+        <link href="https://robinrendle.com/notes/music-for-a-plague/"/>
+        <title>Music for a Plague</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2022-10-30T17:16:23+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-music-for-a-plague/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Trollopes</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2022-10-30T17:05:00+00:00</published>
+    <updated>2022-10-30T17:05:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-trollopes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-trollopes/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/lang/poutine-3.html</id>
+        <link href="https://blog.plover.com/lang/poutine-3.html"/>
+        <title>Trollopes</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2022-10-30T17:05:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-trollopes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Reading Notes, October 2022</title>
         <author>
@@ -1712,30 +1760,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-fiddling-with-ios-app-icons-and-ai-art-generation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Long Links</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2022-10-11T19:00:00+00:00</published>
-    <updated>2022-10-11T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-long-links/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-long-links/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2022/10/11/Long-Links</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2022/10/11/Long-Links"/>
-        <title>Long Links</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2022-10-11T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-long-links/</id>
     <content type="html">
         
     </content>
@@ -3747,30 +3771,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Tale of the Third Finger Scan</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-09-10T16:28:15+00:00</published>
-    <updated>2022-09-10T16:28:15+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-tale-of-the-third-finger-scan/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-tale-of-the-third-finger-scan/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-tale-of-the-third-finger-scan/</id>
-        <link href="https://robinrendle.com/notes/the-tale-of-the-third-finger-scan/"/>
-        <title>The Tale of the Third Finger Scan</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-09-10T16:28:15+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-tale-of-the-third-finger-scan/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Book Review: Fundamentals of Software Architecture</title>
         <author>
             <name>Chris Kiehl</name>
@@ -4251,6 +4251,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Long Links</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2022-08-31T19:00:00+00:00</published>
+    <updated>2022-08-31T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-long-links/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-long-links/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2022/08/31/Long-Links</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2022/08/31/Long-Links"/>
+        <title>Long Links</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2022-08-31T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-long-links/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The purpose of SaaS is selling out</title>
         <author>
             <name>Tyler Cipriani</name>
@@ -4318,30 +4342,6 @@
       </source>
 
     <id>https://news.cryptic.io/chris-kiehl-webscraping-on-hard-mode-with-purescript/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Echo reply (an incomplete update on things)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-08-29T21:02:07+00:00</published>
-    <updated>2022-08-29T21:02:07+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/08/29/pong/</id>
-        <link href="https://rachelbythebay.com/w/2022/08/29/pong/"/>
-        <title>Echo reply (an incomplete update on things)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-08-29T21:02:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/</id>
     <content type="html">
         
     </content>
@@ -6627,30 +6627,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Things I wish everyone knew about Git (Part I)</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2022-06-29T17:16:00+00:00</published>
-    <updated>2022-06-29T17:16:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-things-i-wish-everyone-knew-about-git-part-i/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-things-i-wish-everyone-knew-about-git-part-i/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/prog/git/tips.html</id>
-        <link href="https://blog.plover.com/prog/git/tips.html"/>
-        <title>Things I wish everyone knew about Git (Part I)</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2022-06-29T17:16:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-things-i-wish-everyone-knew-about-git-part-i/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The absolute state of Bluetooth audio in 2022</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -6819,30 +6795,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Q&amp;A on 1972</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-25T21:10:26+00:00</published>
-    <updated>2022-06-25T21:10:26+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-qa-on-1972/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-qa-on-1972/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/25/qa/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/25/qa/"/>
-        <title>Q&amp;A on 1972</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-25T21:10:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-qa-on-1972/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>What I like about Accountants</title>
         <author>
             <name>Tim Daubenschütz</name>
@@ -6862,30 +6814,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-daubenschtz-what-i-like-about-accountants/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>1972.</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-24T18:05:09+00:00</published>
-    <updated>2022-06-24T18:05:09+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-1972/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-1972/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/24/1972/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/24/1972/"/>
-        <title>1972.</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-24T18:05:09+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-1972/</id>
     <content type="html">
         
     </content>
@@ -6982,54 +6910,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-vales-fearless-ffi-for-safer-dependencies-and-supplychain-attack-mitigation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>More on geo-tagging photos with a time element</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-20T22:39:15+00:00</published>
-    <updated>2022-06-20T22:39:15+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-more-on-geotagging-photos-with-a-time-element/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-more-on-geotagging-photos-with-a-time-element/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/20/exif/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/20/exif/"/>
-        <title>More on geo-tagging photos with a time element</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-20T22:39:15+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-more-on-geotagging-photos-with-a-time-element/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Place name mappings probably need a time dimension too</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-20T22:38:56+00:00</published>
-    <updated>2022-06-20T22:38:56+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-place-name-mappings-probably-need-a-time-dimension-too/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-place-name-mappings-probably-need-a-time-dimension-too/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/15/places/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/15/places/"/>
-        <title>Place name mappings probably need a time dimension too</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-20T22:38:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-place-name-mappings-probably-need-a-time-dimension-too/</id>
     <content type="html">
         
     </content>
@@ -7198,30 +7078,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-is-madlad-sentient-an-interview/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Free associating from &#x27;df&#x27; to RCE</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-17T03:17:04+00:00</published>
-    <updated>2022-06-17T03:17:04+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/16/rce/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/16/rce/"/>
-        <title>Free associating from &#x27;df&#x27; to RCE</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-17T03:17:04+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/</id>
     <content type="html">
         
     </content>
@@ -8475,30 +8331,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Tasks, lists, and promises</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-05-20T02:00:41+00:00</published>
-    <updated>2022-05-20T02:00:41+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-tasks-lists-and-promises/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-tasks-lists-and-promises/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/05/19/priority/</id>
-        <link href="https://rachelbythebay.com/w/2022/05/19/priority/"/>
-        <title>Tasks, lists, and promises</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-05-20T02:00:41+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-tasks-lists-and-promises/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Predatory community</title>
         <author>
             <name>Molly White</name>
@@ -9339,30 +9171,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Paying a visit to planet BSD</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-05-01T20:42:30+00:00</published>
-    <updated>2022-05-01T20:42:30+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-paying-a-visit-to-planet-bsd/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-paying-a-visit-to-planet-bsd/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/04/29/bsd/</id>
-        <link href="https://rachelbythebay.com/w/2022/04/29/bsd/"/>
-        <title>Paying a visit to planet BSD</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-05-01T20:42:30+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-paying-a-visit-to-planet-bsd/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Imagining better interfaces to language models</title>
         <author>
             <name>Linus Lee</name>
@@ -9478,30 +9286,6 @@
       </source>
 
     <id>https://news.cryptic.io/justin-jackson-entrepreneurial-falsepositives/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>My Raspberry Pi-based temperature tracking project</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-04-28T22:09:12+00:00</published>
-    <updated>2022-04-28T22:09:12+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-my-raspberry-pibased-temperature-tracking-project/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-my-raspberry-pibased-temperature-tracking-project/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/04/27/thermo/</id>
-        <link href="https://rachelbythebay.com/w/2022/04/27/thermo/"/>
-        <title>My Raspberry Pi-based temperature tracking project</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-04-28T22:09:12+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-my-raspberry-pibased-temperature-tracking-project/</id>
     <content type="html">
         
     </content>
@@ -9646,30 +9430,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-on-removing-let-and-let-mut/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Debian&#x2F;Raspbian rngd with -S0 will bite you after a week</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-04-20T09:13:09+00:00</published>
-    <updated>2022-04-20T09:13:09+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-debianraspbian-rngd-with-s0-will-bite-you-after-a-week/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-debianraspbian-rngd-with-s0-will-bite-you-after-a-week/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/04/20/rngd/</id>
-        <link href="https://rachelbythebay.com/w/2022/04/20/rngd/"/>
-        <title>Debian&#x2F;Raspbian rngd with -S0 will bite you after a week</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-04-20T09:13:09+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-debianraspbian-rngd-with-s0-will-bite-you-after-a-week/</id>
     <content type="html">
         
     </content>
