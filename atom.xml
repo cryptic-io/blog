@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-01T12:34:03+00:00</updated>
+  <updated>2022-11-02T00:28:03+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Practice being a beginner</title>
+        <author>
+            <name>Alex Ellis</name>
+        </author>
+    <published>2022-11-02T00:28:03+00:00</published>
+    <updated>2022-11-02T00:28:03+00:00</updated>
+    <link href="https://news.cryptic.io/alex-ellis-practice-being-a-beginner/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-ellis-practice-being-a-beginner/" type="text/html"/>
+      <source>
+        <id>https://alexanderell.is/posts/beginner/</id>
+        <link href="https://alexanderell.is/posts/beginner/"/>
+        <title>Practice being a beginner</title>
+        <author>
+            <name>Alex Ellis</name>
+        </author>
+        <updated>2022-11-02T00:28:03+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-ellis-practice-being-a-beginner/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>I&amp;#039;ve reached a local maxima in my career</title>
         <author>
@@ -6214,30 +6238,6 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-questions-to-sharpen-a-research-proposal/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Work context, home context</title>
-        <author>
-            <name>Alex Ellis</name>
-        </author>
-    <published>2022-07-10T16:38:39+00:00</published>
-    <updated>2022-07-10T16:38:39+00:00</updated>
-    <link href="https://news.cryptic.io/alex-ellis-work-context-home-context/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-ellis-work-context-home-context/" type="text/html"/>
-      <source>
-        <id>https://alexanderell.is/posts/context/</id>
-        <link href="https://alexanderell.is/posts/context/"/>
-        <title>Work context, home context</title>
-        <author>
-            <name>Alex Ellis</name>
-        </author>
-        <updated>2022-07-10T16:38:39+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-ellis-work-context-home-context/</id>
     <content type="html">
         
     </content>
