@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-03T12:34:17+00:00</updated>
+  <updated>2022-11-04T12:34:13+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Not Quite Emoji Domain Names</title>
+        <author>
+            <name>@edent</name>
+        </author>
+    <published>2022-11-04T12:34:13+00:00</published>
+    <updated>2022-11-04T12:34:13+00:00</updated>
+    <link href="https://news.cryptic.io/edent-not-quite-emoji-domain-names/"/>
+    <link rel="alternate" href="https://news.cryptic.io/edent-not-quite-emoji-domain-names/" type="text/html"/>
+      <source>
+        <id>https://shkspr.mobi/blog/2022/11/not-quite-emoji-domain-names/</id>
+        <link href="https://shkspr.mobi/blog/2022/11/not-quite-emoji-domain-names/"/>
+        <title>Not Quite Emoji Domain Names</title>
+        <author>
+            <name>@edent</name>
+        </author>
+        <updated>2022-11-04T12:34:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/edent-not-quite-emoji-domain-names/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Book Review: The Language Hoax - John H. McWhorter</title>
         <author>
@@ -2292,30 +2316,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-why-is-it-hard-to-learn-another-programming-language/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Theatre Review: Beatles Evolver 62</title>
-        <author>
-            <name>@edent</name>
-        </author>
-    <published>2022-10-08T11:34:29+00:00</published>
-    <updated>2022-10-08T11:34:29+00:00</updated>
-    <link href="https://news.cryptic.io/edent-theatre-review-beatles-evolver-62/"/>
-    <link rel="alternate" href="https://news.cryptic.io/edent-theatre-review-beatles-evolver-62/" type="text/html"/>
-      <source>
-        <id>https://shkspr.mobi/blog/2022/10/theatre-review-beatles-evolver-62/</id>
-        <link href="https://shkspr.mobi/blog/2022/10/theatre-review-beatles-evolver-62/"/>
-        <title>Theatre Review: Beatles Evolver 62</title>
-        <author>
-            <name>@edent</name>
-        </author>
-        <updated>2022-10-08T11:34:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/edent-theatre-review-beatles-evolver-62/</id>
     <content type="html">
         
     </content>
