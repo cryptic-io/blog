@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-04T12:34:13+00:00</updated>
+  <updated>2022-11-04T17:15:05+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Mastodon&#x27;s Biggest Problem is Its Name</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2022-11-04T17:15:05+00:00</published>
+    <updated>2022-11-04T17:15:05+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-mastodons-biggest-problem-is-its-name/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-mastodons-biggest-problem-is-its-name/" type="text/html"/>
+      <source>
+        <id>https://blog.mediocregopher.com/posts/mastodon-name</id>
+        <link href="https://blog.mediocregopher.com/posts/mastodon-name"/>
+        <title>Mastodon&#x27;s Biggest Problem is Its Name</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2022-11-04T17:15:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-mastodons-biggest-problem-is-its-name/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Not Quite Emoji Domain Names</title>
         <author>
@@ -9094,30 +9118,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-what-game-are-you-playing/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why Do We Have WiFi Passwords?</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2022-05-03T00:00:00+00:00</published>
-    <updated>2022-05-03T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-why-do-we-have-wifi-passwords/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-why-do-we-have-wifi-passwords/" type="text/html"/>
-      <source>
-        <id>https://blog.mediocregopher.com/posts/why-do-we-have-wifi-passwords</id>
-        <link href="https://blog.mediocregopher.com/posts/why-do-we-have-wifi-passwords"/>
-        <title>Why Do We Have WiFi Passwords?</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2022-05-03T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-why-do-we-have-wifi-passwords/</id>
     <content type="html">
         
     </content>
