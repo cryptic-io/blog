@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Idyllic Life</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-11-05T12:04:00+00:00</published>
+    <updated>2022-11-05T12:04:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-idyllic-life/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-idyllic-life/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/idyllic-life.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/idyllic-life.html"/>
+        <title>Idyllic Life</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-11-05T12:04:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-idyllic-life/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>A map of Haskell&#x27;s numeric types</title>
         <author>
             <name>Mark Dominus</name>
