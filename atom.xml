@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-07T00:00:00+00:00</updated>
+  <updated>2022-11-07T12:34:51+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Job leaving rituals in the WFH era</title>
+        <author>
+            <name>@edent</name>
+        </author>
+    <published>2022-11-07T12:34:51+00:00</published>
+    <updated>2022-11-07T12:34:51+00:00</updated>
+    <link href="https://news.cryptic.io/edent-job-leaving-rituals-in-the-wfh-era/"/>
+    <link rel="alternate" href="https://news.cryptic.io/edent-job-leaving-rituals-in-the-wfh-era/" type="text/html"/>
+      <source>
+        <id>https://shkspr.mobi/blog/2022/11/job-leaving-rituals-in-the-wfh-era/</id>
+        <link href="https://shkspr.mobi/blog/2022/11/job-leaving-rituals-in-the-wfh-era/"/>
+        <title>Job leaving rituals in the WFH era</title>
+        <author>
+            <name>@edent</name>
+        </author>
+        <updated>2022-11-07T12:34:51+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/edent-job-leaving-rituals-in-the-wfh-era/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Soil</title>
         <author>
@@ -2028,30 +2052,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-website-fidelity/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>HOWTO: Remove the Blubrry PowerPress &amp;quot;New!&amp;quot; Banner</title>
-        <author>
-            <name>@edent</name>
-        </author>
-    <published>2022-10-16T11:34:19+00:00</published>
-    <updated>2022-10-16T11:34:19+00:00</updated>
-    <link href="https://news.cryptic.io/edent-howto-remove-the-blubrry-powerpress-quotnewquot-banner/"/>
-    <link rel="alternate" href="https://news.cryptic.io/edent-howto-remove-the-blubrry-powerpress-quotnewquot-banner/" type="text/html"/>
-      <source>
-        <id>https://shkspr.mobi/blog/2022/10/howto-remove-the-blubrry-powerpress-new-banner/</id>
-        <link href="https://shkspr.mobi/blog/2022/10/howto-remove-the-blubrry-powerpress-new-banner/"/>
-        <title>HOWTO: Remove the Blubrry PowerPress &amp;quot;New!&amp;quot; Banner</title>
-        <author>
-            <name>@edent</name>
-        </author>
-        <updated>2022-10-16T11:34:19+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/edent-howto-remove-the-blubrry-powerpress-quotnewquot-banner/</id>
     <content type="html">
         
     </content>
