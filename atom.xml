@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-07T20:00:00+00:00</updated>
+  <updated>2022-11-08T12:34:29+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Cheers is Hell</title>
+        <author>
+            <name>@edent</name>
+        </author>
+    <published>2022-11-08T12:34:29+00:00</published>
+    <updated>2022-11-08T12:34:29+00:00</updated>
+    <link href="https://news.cryptic.io/edent-cheers-is-hell/"/>
+    <link rel="alternate" href="https://news.cryptic.io/edent-cheers-is-hell/" type="text/html"/>
+      <source>
+        <id>https://shkspr.mobi/blog/2022/11/cheers-is-hell/</id>
+        <link href="https://shkspr.mobi/blog/2022/11/cheers-is-hell/"/>
+        <title>Cheers is Hell</title>
+        <author>
+            <name>@edent</name>
+        </author>
+        <updated>2022-11-08T12:34:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/edent-cheers-is-hell/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Just Don’t</title>
         <author>
@@ -175,30 +199,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Idyllic Life</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-11-05T12:04:00+00:00</published>
-    <updated>2022-11-05T12:04:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-idyllic-life/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-idyllic-life/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/idyllic-life.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/idyllic-life.html"/>
-        <title>Idyllic Life</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-11-05T12:04:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-idyllic-life/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>A map of Haskell&#x27;s numeric types</title>
         <author>
             <name>Mark Dominus</name>
@@ -316,30 +316,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-mastodons-biggest-problem-is-its-name/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A Brief Review of Citadel Email Server Software Running on a Raspberry Pi 3</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2022-11-04T14:30:00+00:00</published>
-    <updated>2022-11-04T14:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-a-brief-review-of-citadel-email-server-software-running-on-a-raspberry-pi-3/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-a-brief-review-of-citadel-email-server-software-running-on-a-raspberry-pi-3/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/raspberry-pi-email-server.html</id>
-        <link href="https://cheapskatesguide.org/articles/raspberry-pi-email-server.html"/>
-        <title>A Brief Review of Citadel Email Server Software Running on a Raspberry Pi 3</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2022-11-04T14:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-a-brief-review-of-citadel-email-server-software-running-on-a-raspberry-pi-3/</id>
     <content type="html">
         
     </content>
@@ -1237,6 +1213,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Building software to last forever</title>
+        <author>
+            <name>herman</name>
+        </author>
+    <published>2022-10-25T10:04:58.756+00:00</published>
+    <updated>2022-10-25T10:04:58.756+00:00</updated>
+    <link href="https://news.cryptic.io/herman-building-software-to-last-forever/"/>
+    <link rel="alternate" href="https://news.cryptic.io/herman-building-software-to-last-forever/" type="text/html"/>
+      <source>
+        <id>https://herman.bearblog.dev/building-software-to-last-forever/</id>
+        <link href="https://herman.bearblog.dev/building-software-to-last-forever/"/>
+        <title>Building software to last forever</title>
+        <author>
+            <name>herman</name>
+        </author>
+        <updated>2022-10-25T10:04:58.756+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/herman-building-software-to-last-forever/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Performance &quot;Seasons&quot; Are Useless — Use Anniversary Reviews Instead</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -1549,30 +1549,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Age of Anonymous Email is Nearly Over</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2022-10-22T09:32:00+00:00</published>
-    <updated>2022-10-22T09:32:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-the-age-of-anonymous-email-is-nearly-over/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-age-of-anonymous-email-is-nearly-over/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/anonymous-email.html</id>
-        <link href="https://cheapskatesguide.org/articles/anonymous-email.html"/>
-        <title>The Age of Anonymous Email is Nearly Over</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2022-10-22T09:32:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-the-age-of-anonymous-email-is-nearly-over/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>More notes on deriving Applicative from Monad</title>
         <author>
             <name>Mark Dominus</name>
@@ -1671,25 +1647,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>MSc: &amp;quot;So, You Have to Write a Literature Review&amp;quot;</title>
+    <title>Don’t kill your darlings</title>
         <author>
-            <name>@edent</name>
+            <name>herman</name>
         </author>
-    <published>2022-10-21T11:34:41+00:00</published>
-    <updated>2022-10-21T11:34:41+00:00</updated>
-    <link href="https://news.cryptic.io/edent-msc-quotso-you-have-to-write-a-literature-reviewquot/"/>
-    <link rel="alternate" href="https://news.cryptic.io/edent-msc-quotso-you-have-to-write-a-literature-reviewquot/" type="text/html"/>
+    <published>2022-10-21T07:34:44.077+00:00</published>
+    <updated>2022-10-21T07:34:44.077+00:00</updated>
+    <link href="https://news.cryptic.io/herman-dont-kill-your-darlings/"/>
+    <link rel="alternate" href="https://news.cryptic.io/herman-dont-kill-your-darlings/" type="text/html"/>
       <source>
-        <id>https://shkspr.mobi/blog/2022/10/msc-so-you-have-to-write-a-literature-review/</id>
-        <link href="https://shkspr.mobi/blog/2022/10/msc-so-you-have-to-write-a-literature-review/"/>
-        <title>MSc: &amp;quot;So, You Have to Write a Literature Review&amp;quot;</title>
+        <id>https://herman.bearblog.dev/dont-kill-your-darlings/</id>
+        <link href="https://herman.bearblog.dev/dont-kill-your-darlings/"/>
+        <title>Don’t kill your darlings</title>
         <author>
-            <name>@edent</name>
+            <name>herman</name>
         </author>
-        <updated>2022-10-21T11:34:41+00:00</updated>
+        <updated>2022-10-21T07:34:44.077+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/edent-msc-quotso-you-have-to-write-a-literature-reviewquot/</id>
+    <id>https://news.cryptic.io/herman-dont-kill-your-darlings/</id>
     <content type="html">
         
     </content>
@@ -2105,6 +2081,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The humble roundabout</title>
+        <author>
+            <name>herman</name>
+        </author>
+    <published>2022-10-17T12:51:42.636+00:00</published>
+    <updated>2022-10-17T12:51:42.636+00:00</updated>
+    <link href="https://news.cryptic.io/herman-the-humble-roundabout/"/>
+    <link rel="alternate" href="https://news.cryptic.io/herman-the-humble-roundabout/" type="text/html"/>
+      <source>
+        <id>https://herman.bearblog.dev/the-humble-roundabout/</id>
+        <link href="https://herman.bearblog.dev/the-humble-roundabout/"/>
+        <title>The humble roundabout</title>
+        <author>
+            <name>herman</name>
+        </author>
+        <updated>2022-10-17T12:51:42.636+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/herman-the-humble-roundabout/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The Right Kind of Attention</title>
         <author>
             <name>Robin Rendle</name>
@@ -2393,30 +2393,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Reconsidering My Response to the Corporate Capture of Our Email System</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2022-10-12T10:40:00+00:00</published>
-    <updated>2022-10-12T10:40:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-reconsidering-my-response-to-the-corporate-capture-of-our-email-system/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-reconsidering-my-response-to-the-corporate-capture-of-our-email-system/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/email-corporate-capture.html</id>
-        <link href="https://cheapskatesguide.org/articles/email-corporate-capture.html"/>
-        <title>Reconsidering My Response to the Corporate Capture of Our Email System</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2022-10-12T10:40:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-reconsidering-my-response-to-the-corporate-capture-of-our-email-system/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>In praise of ffmpeg</title>
         <author>
             <name>Drew DeVault</name>
@@ -2484,30 +2460,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-fiddling-with-ios-app-icons-and-ai-art-generation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Long Links</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2022-10-11T19:00:00+00:00</published>
-    <updated>2022-10-11T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-long-links/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-long-links/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2022/10/11/Long-Links</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2022/10/11/Long-Links"/>
-        <title>Long Links</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2022-10-11T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-long-links/</id>
     <content type="html">
         
     </content>
@@ -3042,30 +2994,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-prototyping-prototyping-prototyping/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>&quot;Your browser may not be compatible with all the features on this site.&quot;</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2022-10-02T13:00:00+00:00</published>
-    <updated>2022-10-02T13:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-your-browser-may-not-be-compatible-with-all-the-features-on-this-site/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-your-browser-may-not-be-compatible-with-all-the-features-on-this-site/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/incompatible-browser.html</id>
-        <link href="https://cheapskatesguide.org/articles/incompatible-browser.html"/>
-        <title>&quot;Your browser may not be compatible with all the features on this site.&quot;</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2022-10-02T13:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-your-browser-may-not-be-compatible-with-all-the-features-on-this-site/</id>
     <content type="html">
         
     </content>
@@ -3723,30 +3651,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Reflections on the Internet: What It Should Be and Why</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2022-09-21T05:12:00+00:00</published>
-    <updated>2022-09-21T05:12:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-reflections-on-the-internet-what-it-should-be-and-why/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-reflections-on-the-internet-what-it-should-be-and-why/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/reflections-on-the-internet.html</id>
-        <link href="https://cheapskatesguide.org/articles/reflections-on-the-internet.html"/>
-        <title>Reflections on the Internet: What It Should Be and Why</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2022-09-21T05:12:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-reflections-on-the-internet-what-it-should-be-and-why/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Blockchain solutionism (Lecture transcript)</title>
         <author>
             <name>Molly White</name>
@@ -4347,6 +4251,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Where links go to die</title>
+        <author>
+            <name>herman</name>
+        </author>
+    <published>2022-09-08T09:50:00+00:00</published>
+    <updated>2022-09-08T09:50:00+00:00</updated>
+    <link href="https://news.cryptic.io/herman-where-links-go-to-die/"/>
+    <link rel="alternate" href="https://news.cryptic.io/herman-where-links-go-to-die/" type="text/html"/>
+      <source>
+        <id>https://herman.bearblog.dev/where-links-go-to-die/</id>
+        <link href="https://herman.bearblog.dev/where-links-go-to-die/"/>
+        <title>Where links go to die</title>
+        <author>
+            <name>herman</name>
+        </author>
+        <updated>2022-09-08T09:50:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/herman-where-links-go-to-die/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>full-length videobook for “Your Music and People”</title>
         <author>
             <name>Derek Sivers</name>
@@ -4438,6 +4366,30 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-notes-from-kernel-hacking-in-hare-part-1/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>30 thoughts on turning 30</title>
+        <author>
+            <name>herman</name>
+        </author>
+    <published>2022-09-06T12:30:17.796+00:00</published>
+    <updated>2022-09-06T12:30:17.796+00:00</updated>
+    <link href="https://news.cryptic.io/herman-30-thoughts-on-turning-30/"/>
+    <link rel="alternate" href="https://news.cryptic.io/herman-30-thoughts-on-turning-30/" type="text/html"/>
+      <source>
+        <id>https://herman.bearblog.dev/turning-30/</id>
+        <link href="https://herman.bearblog.dev/turning-30/"/>
+        <title>30 thoughts on turning 30</title>
+        <author>
+            <name>herman</name>
+        </author>
+        <updated>2022-09-06T12:30:17.796+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/herman-30-thoughts-on-turning-30/</id>
     <content type="html">
         
     </content>
@@ -4683,6 +4635,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Long Links</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2022-08-31T19:00:00+00:00</published>
+    <updated>2022-08-31T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-long-links/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-long-links/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2022/08/31/Long-Links</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2022/08/31/Long-Links"/>
+        <title>Long Links</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2022-08-31T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-long-links/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The purpose of SaaS is selling out</title>
         <author>
             <name>Tyler Cipriani</name>
@@ -4707,25 +4683,49 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
+    <title>Thoughts on buying a car</title>
         <author>
-            <name>Tie</name>
+            <name>herman</name>
         </author>
-    <published>2022-08-31T13:19:00+00:00</published>
-    <updated>2022-08-31T13:19:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/" type="text/html"/>
+    <published>2022-08-30T10:15:24.105+00:00</published>
+    <updated>2022-08-30T10:15:24.105+00:00</updated>
+    <link href="https://news.cryptic.io/herman-thoughts-on-buying-a-car/"/>
+    <link rel="alternate" href="https://news.cryptic.io/herman-thoughts-on-buying-a-car/" type="text/html"/>
       <source>
-        <id>http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html"/>
-        <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
+        <id>https://herman.bearblog.dev/thoughts-on-buying-a-car/</id>
+        <link href="https://herman.bearblog.dev/thoughts-on-buying-a-car/"/>
+        <title>Thoughts on buying a car</title>
         <author>
-            <name>Tie</name>
+            <name>herman</name>
         </author>
-        <updated>2022-08-31T13:19:00+00:00</updated>
+        <updated>2022-08-30T10:15:24.105+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/</id>
+    <id>https://news.cryptic.io/herman-thoughts-on-buying-a-car/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Praise for Bear</title>
+        <author>
+            <name>herman</name>
+        </author>
+    <published>2022-08-30T08:39:50.353+00:00</published>
+    <updated>2022-08-30T08:39:50.353+00:00</updated>
+    <link href="https://news.cryptic.io/herman-praise-for-bear/"/>
+    <link rel="alternate" href="https://news.cryptic.io/herman-praise-for-bear/" type="text/html"/>
+      <source>
+        <id>https://herman.bearblog.dev/praise-for-bear/</id>
+        <link href="https://herman.bearblog.dev/praise-for-bear/"/>
+        <title>Praise for Bear</title>
+        <author>
+            <name>herman</name>
+        </author>
+        <updated>2022-08-30T08:39:50.353+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/herman-praise-for-bear/</id>
     <content type="html">
         
     </content>
@@ -4750,30 +4750,6 @@
       </source>
 
     <id>https://news.cryptic.io/chris-kiehl-webscraping-on-hard-mode-with-purescript/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Echo reply (an incomplete update on things)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-08-29T21:02:07+00:00</published>
-    <updated>2022-08-29T21:02:07+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/08/29/pong/</id>
-        <link href="https://rachelbythebay.com/w/2022/08/29/pong/"/>
-        <title>Echo reply (an incomplete update on things)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-08-29T21:02:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/</id>
     <content type="html">
         
     </content>
@@ -6123,6 +6099,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The best investment</title>
+        <author>
+            <name>herman</name>
+        </author>
+    <published>2022-07-21T02:20:14.452+00:00</published>
+    <updated>2022-07-21T02:20:14.452+00:00</updated>
+    <link href="https://news.cryptic.io/herman-the-best-investment/"/>
+    <link rel="alternate" href="https://news.cryptic.io/herman-the-best-investment/" type="text/html"/>
+      <source>
+        <id>https://herman.bearblog.dev/the-best-investment/</id>
+        <link href="https://herman.bearblog.dev/the-best-investment/"/>
+        <title>The best investment</title>
+        <author>
+            <name>herman</name>
+        </author>
+        <updated>2022-07-21T02:20:14.452+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/herman-the-best-investment/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Master vs Main</title>
         <author>
             <name>Jesse Duffield</name>
@@ -6526,6 +6526,30 @@
       </source>
 
     <id>https://news.cryptic.io/roy-van-rijn-solving-the-daily-calendar-puzzle/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A better ranking algorithm</title>
+        <author>
+            <name>herman</name>
+        </author>
+    <published>2022-07-07T11:00:00+00:00</published>
+    <updated>2022-07-07T11:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/herman-a-better-ranking-algorithm/"/>
+    <link rel="alternate" href="https://news.cryptic.io/herman-a-better-ranking-algorithm/" type="text/html"/>
+      <source>
+        <id>https://herman.bearblog.dev/a-better-ranking-algorithm/</id>
+        <link href="https://herman.bearblog.dev/a-better-ranking-algorithm/"/>
+        <title>A better ranking algorithm</title>
+        <author>
+            <name>herman</name>
+        </author>
+        <updated>2022-07-07T11:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/herman-a-better-ranking-algorithm/</id>
     <content type="html">
         
     </content>
@@ -7011,30 +7035,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Q&amp;A on 1972</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-25T21:10:26+00:00</published>
-    <updated>2022-06-25T21:10:26+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-qa-on-1972/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-qa-on-1972/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/25/qa/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/25/qa/"/>
-        <title>Q&amp;A on 1972</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-25T21:10:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-qa-on-1972/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>What I like about Accountants</title>
         <author>
             <name>Tim Daubenschütz</name>
@@ -7054,30 +7054,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-daubenschtz-what-i-like-about-accountants/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>1972.</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-24T18:05:09+00:00</published>
-    <updated>2022-06-24T18:05:09+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-1972/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-1972/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/24/1972/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/24/1972/"/>
-        <title>1972.</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-24T18:05:09+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-1972/</id>
     <content type="html">
         
     </content>
@@ -7155,6 +7131,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Observations on 6 years of journaling</title>
+        <author>
+            <name>herman</name>
+        </author>
+    <published>2022-06-22T03:06:18.958+00:00</published>
+    <updated>2022-06-22T03:06:18.958+00:00</updated>
+    <link href="https://news.cryptic.io/herman-observations-on-6-years-of-journaling/"/>
+    <link rel="alternate" href="https://news.cryptic.io/herman-observations-on-6-years-of-journaling/" type="text/html"/>
+      <source>
+        <id>https://herman.bearblog.dev/years-of-journaling/</id>
+        <link href="https://herman.bearblog.dev/years-of-journaling/"/>
+        <title>Observations on 6 years of journaling</title>
+        <author>
+            <name>herman</name>
+        </author>
+        <updated>2022-06-22T03:06:18.958+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/herman-observations-on-6-years-of-journaling/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Vale&#x27;s Fearless FFI, for Safer Dependencies and Supply-Chain Attack Mitigation</title>
         <author>
             <name>Evan Ovadia</name>
@@ -7174,54 +7174,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-vales-fearless-ffi-for-safer-dependencies-and-supplychain-attack-mitigation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>More on geo-tagging photos with a time element</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-20T22:39:15+00:00</published>
-    <updated>2022-06-20T22:39:15+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-more-on-geotagging-photos-with-a-time-element/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-more-on-geotagging-photos-with-a-time-element/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/20/exif/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/20/exif/"/>
-        <title>More on geo-tagging photos with a time element</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-20T22:39:15+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-more-on-geotagging-photos-with-a-time-element/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Place name mappings probably need a time dimension too</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-20T22:38:56+00:00</published>
-    <updated>2022-06-20T22:38:56+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-place-name-mappings-probably-need-a-time-dimension-too/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-place-name-mappings-probably-need-a-time-dimension-too/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/15/places/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/15/places/"/>
-        <title>Place name mappings probably need a time dimension too</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-20T22:38:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-place-name-mappings-probably-need-a-time-dimension-too/</id>
     <content type="html">
         
     </content>
@@ -7366,30 +7318,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-is-madlad-sentient-an-interview/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Free associating from &#x27;df&#x27; to RCE</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-17T03:17:04+00:00</published>
-    <updated>2022-06-17T03:17:04+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/16/rce/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/16/rce/"/>
-        <title>Free associating from &#x27;df&#x27; to RCE</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-17T03:17:04+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/</id>
     <content type="html">
         
     </content>
@@ -8187,30 +8115,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Computers Were Not Meant to be Screwdrivers</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-05-28T10:34:00+00:00</published>
-    <updated>2022-05-28T10:34:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/computers-and-screwdrivers.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/computers-and-screwdrivers.html"/>
-        <title>Computers Were Not Meant to be Screwdrivers</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-05-28T10:34:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Backrooms Async Lab Diorama – One Day Build</title>
         <author>
             <name>mechatronicsguy</name>
@@ -8590,30 +8494,6 @@
       </source>
 
     <id>https://news.cryptic.io/arun-prasad-jang-bbijju/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Tasks, lists, and promises</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-05-20T02:00:41+00:00</published>
-    <updated>2022-05-20T02:00:41+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-tasks-lists-and-promises/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-tasks-lists-and-promises/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/05/19/priority/</id>
-        <link href="https://rachelbythebay.com/w/2022/05/19/priority/"/>
-        <title>Tasks, lists, and promises</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-05-20T02:00:41+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-tasks-lists-and-promises/</id>
     <content type="html">
         
     </content>
@@ -9411,30 +9291,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Paying a visit to planet BSD</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-05-01T20:42:30+00:00</published>
-    <updated>2022-05-01T20:42:30+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-paying-a-visit-to-planet-bsd/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-paying-a-visit-to-planet-bsd/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/04/29/bsd/</id>
-        <link href="https://rachelbythebay.com/w/2022/04/29/bsd/"/>
-        <title>Paying a visit to planet BSD</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-05-01T20:42:30+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-paying-a-visit-to-planet-bsd/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Imagining better interfaces to language models</title>
         <author>
             <name>Linus Lee</name>
@@ -9483,30 +9339,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>We are not Adults Just Because We Say So</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-04-30T06:17:00+00:00</published>
-    <updated>2022-04-30T06:17:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/adults.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/adults.html"/>
-        <title>We are not Adults Just Because We Say So</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-04-30T06:17:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Added to Vale 0.2 Beta: Concept Functions</title>
         <author>
             <name>Evan Ovadia</name>
@@ -9526,30 +9358,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-added-to-vale-02-beta-concept-functions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>My Raspberry Pi-based temperature tracking project</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-04-28T22:09:12+00:00</published>
-    <updated>2022-04-28T22:09:12+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-my-raspberry-pibased-temperature-tracking-project/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-my-raspberry-pibased-temperature-tracking-project/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/04/27/thermo/</id>
-        <link href="https://rachelbythebay.com/w/2022/04/27/thermo/"/>
-        <title>My Raspberry Pi-based temperature tracking project</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-04-28T22:09:12+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-my-raspberry-pibased-temperature-tracking-project/</id>
     <content type="html">
         
     </content>
@@ -9694,30 +9502,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-on-removing-let-and-let-mut/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Debian&#x2F;Raspbian rngd with -S0 will bite you after a week</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-04-20T09:13:09+00:00</published>
-    <updated>2022-04-20T09:13:09+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-debianraspbian-rngd-with-s0-will-bite-you-after-a-week/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-debianraspbian-rngd-with-s0-will-bite-you-after-a-week/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/04/20/rngd/</id>
-        <link href="https://rachelbythebay.com/w/2022/04/20/rngd/"/>
-        <title>Debian&#x2F;Raspbian rngd with -S0 will bite you after a week</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-04-20T09:13:09+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-debianraspbian-rngd-with-s0-will-bite-you-after-a-week/</id>
     <content type="html">
         
     </content>
@@ -10390,30 +10174,6 @@
       </source>
 
     <id>https://news.cryptic.io/andersource-woodlike-texture-generation-and-animation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Remembering Mrs. Ford</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-03-24T05:52:00+00:00</published>
-    <updated>2022-03-24T05:52:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-remembering-mrs-ford/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-remembering-mrs-ford/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/missis-ford.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/missis-ford.html"/>
-        <title>Remembering Mrs. Ford</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-03-24T05:52:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-remembering-mrs-ford/</id>
     <content type="html">
         
     </content>
@@ -11446,30 +11206,6 @@
       </source>
 
     <id>https://news.cryptic.io/dkbdkbfyi-dkb-google-search-is-dying/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Imprisoned for Your Safety</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-02-13T11:59:00+00:00</published>
-    <updated>2022-02-13T11:59:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-imprisoned-for-your-safety/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-imprisoned-for-your-safety/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/imprisoned.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/imprisoned.html"/>
-        <title>Imprisoned for Your Safety</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-02-13T11:59:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-imprisoned-for-your-safety/</id>
     <content type="html">
         
     </content>
@@ -14195,30 +13931,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Who killed the air-powered vehicle?</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2020-07-04T00:00:00+00:00</published>
-    <updated>2020-07-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/herman-who-killed-the-airpowered-vehicle/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-who-killed-the-airpowered-vehicle/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/air-powered-vehicle/</id>
-        <link href="https://herman.bearblog.dev/air-powered-vehicle/"/>
-        <title>Who killed the air-powered vehicle?</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2020-07-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-who-killed-the-airpowered-vehicle/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Whimsical Website Club</title>
         <author>
             <name>Max Böck</name>
@@ -14243,30 +13955,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Here&#x27;s why you don&#x27;t need blockchain</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2020-06-23T15:38:33+00:00</published>
-    <updated>2020-06-23T15:38:33+00:00</updated>
-    <link href="https://news.cryptic.io/herman-heres-why-you-dont-need-blockchain/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-heres-why-you-dont-need-blockchain/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/you-dont-need-blockchain/</id>
-        <link href="https://herman.bearblog.dev/you-dont-need-blockchain/"/>
-        <title>Here&#x27;s why you don&#x27;t need blockchain</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2020-06-23T15:38:33+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-heres-why-you-dont-need-blockchain/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Roman Dodecahedrons Part II</title>
         <author>
             <name>mechatronicsguy</name>
@@ -14286,102 +13974,6 @@
       </source>
 
     <id>https://news.cryptic.io/mechatronicsguy-roman-dodecahedrons-part-ii/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to procrastinate</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2020-06-16T00:00:00+00:00</published>
-    <updated>2020-06-16T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/herman-how-to-procrastinate/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-how-to-procrastinate/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/how-to-procrastinate/</id>
-        <link href="https://herman.bearblog.dev/how-to-procrastinate/"/>
-        <title>How to procrastinate</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2020-06-16T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-how-to-procrastinate/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Motherfucking Blog</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2020-06-06T00:00:00+00:00</published>
-    <updated>2020-06-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/herman-motherfucking-blog/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-motherfucking-blog/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/motherfucking-blog/</id>
-        <link href="https://herman.bearblog.dev/motherfucking-blog/"/>
-        <title>Motherfucking Blog</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2020-06-06T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-motherfucking-blog/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Markdown cheatsheet</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2020-06-01T00:00:00+00:00</published>
-    <updated>2020-06-01T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/herman-markdown-cheatsheet/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-markdown-cheatsheet/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/markdown-cheatsheet/</id>
-        <link href="https://herman.bearblog.dev/markdown-cheatsheet/"/>
-        <title>Markdown cheatsheet</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2020-06-01T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-markdown-cheatsheet/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Hacker News Hug</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2020-05-29T00:00:00+00:00</published>
-    <updated>2020-05-29T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/herman-the-hacker-news-hug/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-the-hacker-news-hug/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/the-hacker-news-hug/</id>
-        <link href="https://herman.bearblog.dev/the-hacker-news-hug/"/>
-        <title>The Hacker News Hug</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2020-05-29T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-the-hacker-news-hug/</id>
     <content type="html">
         
     </content>
@@ -14622,102 +14214,6 @@
       </source>
 
     <id>https://news.cryptic.io/marco-wasm-is-the-future-of-serverless-terrafirma-serverless-wasm-functions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Life is movement</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2019-10-07T12:53:01+00:00</published>
-    <updated>2019-10-07T12:53:01+00:00</updated>
-    <link href="https://news.cryptic.io/herman-life-is-movement/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-life-is-movement/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/life-is-movement/</id>
-        <link href="https://herman.bearblog.dev/life-is-movement/"/>
-        <title>Life is movement</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2019-10-07T12:53:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-life-is-movement/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Gods of Toil</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2019-09-30T12:51:22+00:00</published>
-    <updated>2019-09-30T12:51:22+00:00</updated>
-    <link href="https://news.cryptic.io/herman-the-gods-of-toil/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-the-gods-of-toil/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/the-gods-of-toil/</id>
-        <link href="https://herman.bearblog.dev/the-gods-of-toil/"/>
-        <title>The Gods of Toil</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2019-09-30T12:51:22+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-the-gods-of-toil/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why I started journaling</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2019-09-23T00:00:00+00:00</published>
-    <updated>2019-09-23T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/herman-why-i-started-journaling/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-why-i-started-journaling/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/why-i-journal/</id>
-        <link href="https://herman.bearblog.dev/why-i-journal/"/>
-        <title>Why I started journaling</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2019-09-23T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-why-i-started-journaling/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Hello World!</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2019-09-16T16:03:08+00:00</published>
-    <updated>2019-09-16T16:03:08+00:00</updated>
-    <link href="https://news.cryptic.io/herman-hello-world/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-hello-world/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/hello-world/</id>
-        <link href="https://herman.bearblog.dev/hello-world/"/>
-        <title>Hello World!</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2019-09-16T16:03:08+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-hello-world/</id>
     <content type="html">
         
     </content>
