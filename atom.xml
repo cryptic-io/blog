@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Hash Codes, Non-Determinism, and Other Eldritch Horrors</title>
+        <author>
+            <name>Evan Ovadia</name>
+        </author>
+    <published>2022-11-09T14:15:00+00:00</published>
+    <updated>2022-11-09T14:15:00+00:00</updated>
+    <link href="https://news.cryptic.io/evan-ovadia-hash-codes-nondeterminism-and-other-eldritch-horrors/"/>
+    <link rel="alternate" href="https://news.cryptic.io/evan-ovadia-hash-codes-nondeterminism-and-other-eldritch-horrors/" type="text/html"/>
+      <source>
+        <id>https://verdagon.dev/blog/generics-hash-codes-horrors</id>
+        <link href="https://verdagon.dev/blog/generics-hash-codes-horrors"/>
+        <title>Hash Codes, Non-Determinism, and Other Eldritch Horrors</title>
+        <author>
+            <name>Evan Ovadia</name>
+        </author>
+        <updated>2022-11-09T14:15:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/evan-ovadia-hash-codes-nondeterminism-and-other-eldritch-horrors/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Algorithm Induced Alcoholism</title>
         <author>
             <name>@edent</name>
@@ -10534,30 +10558,6 @@
       </source>
 
     <id>https://news.cryptic.io/adam-pritchard-should-you-strip-the-ipv6-zone/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Vale&#x27;s Higher RAII, the pattern that saved me a vital 5 hours in the 7DRL Challenge</title>
-        <author>
-            <name>Evan Ovadia</name>
-        </author>
-    <published>2022-03-22T20:15:00+00:00</published>
-    <updated>2022-03-22T20:15:00+00:00</updated>
-    <link href="https://news.cryptic.io/evan-ovadia-vales-higher-raii-the-pattern-that-saved-me-a-vital-5-hours-in-the-7drl-challenge/"/>
-    <link rel="alternate" href="https://news.cryptic.io/evan-ovadia-vales-higher-raii-the-pattern-that-saved-me-a-vital-5-hours-in-the-7drl-challenge/" type="text/html"/>
-      <source>
-        <id>https://verdagon.dev/blog/higher-raii-7drl</id>
-        <link href="https://verdagon.dev/blog/higher-raii-7drl"/>
-        <title>Vale&#x27;s Higher RAII, the pattern that saved me a vital 5 hours in the 7DRL Challenge</title>
-        <author>
-            <name>Evan Ovadia</name>
-        </author>
-        <updated>2022-03-22T20:15:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/evan-ovadia-vales-higher-raii-the-pattern-that-saved-me-a-vital-5-hours-in-the-7drl-challenge/</id>
     <content type="html">
         
     </content>
