@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-09T21:36:51+00:00</updated>
+  <updated>2022-11-10T12:59:38+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Better sharing of WordPress posts to Mastodon</title>
+        <author>
+            <name>@edent</name>
+        </author>
+    <published>2022-11-10T12:59:38+00:00</published>
+    <updated>2022-11-10T12:59:38+00:00</updated>
+    <link href="https://news.cryptic.io/edent-better-sharing-of-wordpress-posts-to-mastodon/"/>
+    <link rel="alternate" href="https://news.cryptic.io/edent-better-sharing-of-wordpress-posts-to-mastodon/" type="text/html"/>
+      <source>
+        <id>https://shkspr.mobi/blog/2022/11/better-sharing-of-wordpress-posts-to-mastodon/</id>
+        <link href="https://shkspr.mobi/blog/2022/11/better-sharing-of-wordpress-posts-to-mastodon/"/>
+        <title>Better sharing of WordPress posts to Mastodon</title>
+        <author>
+            <name>@edent</name>
+        </author>
+        <updated>2022-11-10T12:59:38+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/edent-better-sharing-of-wordpress-posts-to-mastodon/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Mirage of European Sovereignty
 </title>
@@ -316,6 +340,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-npm-dependency-queries-and-the-crosspollination-of-ideas/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Timeline is the Problem</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2022-11-06T16:43:29+00:00</published>
+    <updated>2022-11-06T16:43:29+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-the-timeline-is-the-problem/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-timeline-is-the-problem/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/the-timeline-is-the-problem-/</id>
+        <link href="https://robinrendle.com/notes/the-timeline-is-the-problem-/"/>
+        <title>The Timeline is the Problem</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2022-11-06T16:43:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-the-timeline-is-the-problem/</id>
     <content type="html">
         
     </content>
@@ -803,6 +851,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Food and Sleep: III</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2022-11-01T08:22:29+00:00</published>
+    <updated>2022-11-01T08:22:29+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-food-and-sleep-iii/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-food-and-sleep-iii/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/food-and-sleep:-iii/</id>
+        <link href="https://robinrendle.com/notes/food-and-sleep:-iii/"/>
+        <title>Food and Sleep: III</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2022-11-01T08:22:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-food-and-sleep-iii/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>musk twitter quitter, bitter?</title>
         <author>
             <name>Justin Jackson</name>
@@ -1016,6 +1088,30 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-does-experience-make-you-a-better-programmer/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Music for a Plague</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2022-10-30T17:16:23+00:00</published>
+    <updated>2022-10-30T17:16:23+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-music-for-a-plague/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-music-for-a-plague/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/music-for-a-plague/</id>
+        <link href="https://robinrendle.com/notes/music-for-a-plague/"/>
+        <title>Music for a Plague</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2022-10-30T17:16:23+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-music-for-a-plague/</id>
     <content type="html">
         
     </content>
@@ -1479,30 +1575,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Mobile Phones of Doctor Who - 2022 Specials</title>
-        <author>
-            <name>@edent</name>
-        </author>
-    <published>2022-10-24T11:34:44+00:00</published>
-    <updated>2022-10-24T11:34:44+00:00</updated>
-    <link href="https://news.cryptic.io/edent-the-mobile-phones-of-doctor-who-2022-specials/"/>
-    <link rel="alternate" href="https://news.cryptic.io/edent-the-mobile-phones-of-doctor-who-2022-specials/" type="text/html"/>
-      <source>
-        <id>https://shkspr.mobi/blog/2022/10/the-mobile-phones-of-doctor-who-series-13-specials/</id>
-        <link href="https://shkspr.mobi/blog/2022/10/the-mobile-phones-of-doctor-who-series-13-specials/"/>
-        <title>The Mobile Phones of Doctor Who - 2022 Specials</title>
-        <author>
-            <name>@edent</name>
-        </author>
-        <updated>2022-10-24T11:34:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/edent-the-mobile-phones-of-doctor-who-2022-specials/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How to plan a remote team retreat</title>
         <author>
             <name>Justin Jackson</name>
@@ -1623,6 +1695,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Strategic and necessary</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2022-10-22T19:07:58+00:00</published>
+    <updated>2022-10-22T19:07:58+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-strategic-and-necessary/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-strategic-and-necessary/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/strategic-and-necessary/</id>
+        <link href="https://robinrendle.com/notes/strategic-and-necessary/"/>
+        <title>Strategic and necessary</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2022-10-22T19:07:58+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-strategic-and-necessary/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Style performance and concurrent rendering</title>
         <author>
             <name>Nolan Lawson</name>
@@ -1642,6 +1738,30 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-style-performance-and-concurrent-rendering/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Fake Work</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2022-10-22T18:48:54+00:00</published>
+    <updated>2022-10-22T18:48:54+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-fake-work/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-fake-work/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/fake-work-/</id>
+        <link href="https://robinrendle.com/notes/fake-work-/"/>
+        <title>Fake Work</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2022-10-22T18:48:54+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-fake-work/</id>
     <content type="html">
         
     </content>
@@ -2105,6 +2225,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Monarch</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2022-10-17T23:47:00+00:00</published>
+    <updated>2022-10-17T23:47:00+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-monarch/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-monarch/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/monarch/</id>
+        <link href="https://robinrendle.com/notes/monarch/"/>
+        <title>Monarch</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2022-10-17T23:47:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-monarch/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The Genealogy of Chinese Cybernetics
 </title>
         <author>
@@ -2198,6 +2342,30 @@
       </source>
 
     <id>https://news.cryptic.io/herman-roundabouts-improve-cities-for-everyone/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Right Kind of Attention</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2022-10-15T16:34:55+00:00</published>
+    <updated>2022-10-15T16:34:55+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-the-right-kind-of-attention/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-right-kind-of-attention/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/the-right-kind-of-attention/</id>
+        <link href="https://robinrendle.com/notes/the-right-kind-of-attention/"/>
+        <title>The Right Kind of Attention</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2022-10-15T16:34:55+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-the-right-kind-of-attention/</id>
     <content type="html">
         
     </content>
@@ -2584,6 +2752,30 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-coding-with-copilot-for-acceleration-and-exploration/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Take a Break You Idiot</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2022-10-09T00:12:33+00:00</published>
+    <updated>2022-10-09T00:12:33+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-take-a-break-you-idiot/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-take-a-break-you-idiot/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/take-a-break-you-idiot/</id>
+        <link href="https://robinrendle.com/notes/take-a-break-you-idiot/"/>
+        <title>Take a Break You Idiot</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2022-10-09T00:12:33+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-take-a-break-you-idiot/</id>
     <content type="html">
         
     </content>
@@ -3025,6 +3217,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Prototyping, prototyping, prototyping</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2022-10-02T15:34:00+00:00</published>
+    <updated>2022-10-02T15:34:00+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-prototyping-prototyping-prototyping/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-prototyping-prototyping-prototyping/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/prototyping,-prototyping,-prototyping/</id>
+        <link href="https://robinrendle.com/notes/prototyping,-prototyping,-prototyping/"/>
+        <title>Prototyping, prototyping, prototyping</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2022-10-02T15:34:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-prototyping-prototyping-prototyping/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>&quot;Your browser may not be compatible with all the features on this site.&quot;</title>
         <author>
             <name>Cheapskate</name>
@@ -3310,6 +3526,30 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-drive-failure-and-io-errors-zfs-to-the-rescue/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Other Internet</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2022-09-28T15:53:36+00:00</published>
+    <updated>2022-09-28T15:53:36+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-the-other-internet/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-other-internet/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/the-other-internet/</id>
+        <link href="https://robinrendle.com/notes/the-other-internet/"/>
+        <title>The Other Internet</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2022-09-28T15:53:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-the-other-internet/</id>
     <content type="html">
         
     </content>
