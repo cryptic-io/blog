@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-11T12:34:41+00:00</updated>
+  <updated>2022-11-11T20:52:10+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Irony of Influencers</title>
+        <author>
+            <name>Rohan Deshmukh</name>
+        </author>
+    <published>2022-11-11T20:52:10+00:00</published>
+    <updated>2022-11-11T20:52:10+00:00</updated>
+    <link href="https://news.cryptic.io/rohan-deshmukh-the-irony-of-influencers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rohan-deshmukh-the-irony-of-influencers/" type="text/html"/>
+      <source>
+        <id>https://rohanrd.xyz/posts/the-irony-of-influencers/</id>
+        <link href="https://rohanrd.xyz/posts/the-irony-of-influencers/"/>
+        <title>The Irony of Influencers</title>
+        <author>
+            <name>Rohan Deshmukh</name>
+        </author>
+        <updated>2022-11-11T20:52:10+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rohan-deshmukh-the-irony-of-influencers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>WhatsApp Web for Android - a reasonable compromise?</title>
         <author>
@@ -26,30 +50,6 @@
       </source>
 
     <id>https://news.cryptic.io/edent-whatsapp-web-for-android-a-reasonable-compromise/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Art of Passive Aggressive Copywriting</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-11-11T05:27:57+00:00</published>
-    <updated>2022-11-11T05:27:57+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-art-of-passive-aggressive-copywriting/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-art-of-passive-aggressive-copywriting/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-art-of-passive-aggressive-copywriting/</id>
-        <link href="https://robinrendle.com/notes/the-art-of-passive-aggressive-copywriting/"/>
-        <title>The Art of Passive Aggressive Copywriting</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-11-11T05:27:57+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-art-of-passive-aggressive-copywriting/</id>
     <content type="html">
         
     </content>
@@ -513,30 +513,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Timeline is the Problem</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-11-06T16:43:29+00:00</published>
-    <updated>2022-11-06T16:43:29+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-timeline-is-the-problem/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-timeline-is-the-problem/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-timeline-is-the-problem-/</id>
-        <link href="https://robinrendle.com/notes/the-timeline-is-the-problem-/"/>
-        <title>The Timeline is the Problem</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-11-06T16:43:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-timeline-is-the-problem/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Is Open Graph Protocol dead?</title>
         <author>
             <name>@edent</name>
@@ -971,30 +947,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Food and Sleep: III</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-11-01T08:22:29+00:00</published>
-    <updated>2022-11-01T08:22:29+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-food-and-sleep-iii/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-food-and-sleep-iii/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/food-and-sleep:-iii/</id>
-        <link href="https://robinrendle.com/notes/food-and-sleep:-iii/"/>
-        <title>Food and Sleep: III</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-11-01T08:22:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-food-and-sleep-iii/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>musk twitter quitter, bitter?</title>
         <author>
             <name>Justin Jackson</name>
@@ -1208,30 +1160,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-does-experience-make-you-a-better-programmer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Music for a Plague</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-10-30T17:16:23+00:00</published>
-    <updated>2022-10-30T17:16:23+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-music-for-a-plague/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-music-for-a-plague/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/music-for-a-plague/</id>
-        <link href="https://robinrendle.com/notes/music-for-a-plague/"/>
-        <title>Music for a Plague</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-10-30T17:16:23+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-music-for-a-plague/</id>
     <content type="html">
         
     </content>
@@ -1815,30 +1743,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Strategic and necessary</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-10-22T19:07:58+00:00</published>
-    <updated>2022-10-22T19:07:58+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-strategic-and-necessary/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-strategic-and-necessary/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/strategic-and-necessary/</id>
-        <link href="https://robinrendle.com/notes/strategic-and-necessary/"/>
-        <title>Strategic and necessary</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-10-22T19:07:58+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-strategic-and-necessary/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Style performance and concurrent rendering</title>
         <author>
             <name>Nolan Lawson</name>
@@ -1858,30 +1762,6 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-style-performance-and-concurrent-rendering/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Fake Work</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-10-22T18:48:54+00:00</published>
-    <updated>2022-10-22T18:48:54+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-fake-work/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-fake-work/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/fake-work-/</id>
-        <link href="https://robinrendle.com/notes/fake-work-/"/>
-        <title>Fake Work</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-10-22T18:48:54+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-fake-work/</id>
     <content type="html">
         
     </content>
@@ -2345,30 +2225,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Monarch</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-10-17T23:47:00+00:00</published>
-    <updated>2022-10-17T23:47:00+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-monarch/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-monarch/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/monarch/</id>
-        <link href="https://robinrendle.com/notes/monarch/"/>
-        <title>Monarch</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-10-17T23:47:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-monarch/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The Genealogy of Chinese Cybernetics
 </title>
         <author>
@@ -2462,30 +2318,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-roundabouts-improve-cities-for-everyone/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Right Kind of Attention</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-10-15T16:34:55+00:00</published>
-    <updated>2022-10-15T16:34:55+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-right-kind-of-attention/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-right-kind-of-attention/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-right-kind-of-attention/</id>
-        <link href="https://robinrendle.com/notes/the-right-kind-of-attention/"/>
-        <title>The Right Kind of Attention</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-10-15T16:34:55+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-right-kind-of-attention/</id>
     <content type="html">
         
     </content>
@@ -2896,30 +2728,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-coding-with-copilot-for-acceleration-and-exploration/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Take a Break You Idiot</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-10-09T00:12:33+00:00</published>
-    <updated>2022-10-09T00:12:33+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-take-a-break-you-idiot/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-take-a-break-you-idiot/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/take-a-break-you-idiot/</id>
-        <link href="https://robinrendle.com/notes/take-a-break-you-idiot/"/>
-        <title>Take a Break You Idiot</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-10-09T00:12:33+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-take-a-break-you-idiot/</id>
     <content type="html">
         
     </content>
@@ -3356,30 +3164,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-does-rust-belong-in-the-linux-kernel/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Prototyping, prototyping, prototyping</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-10-02T15:34:00+00:00</published>
-    <updated>2022-10-02T15:34:00+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-prototyping-prototyping-prototyping/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-prototyping-prototyping-prototyping/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/prototyping,-prototyping,-prototyping/</id>
-        <link href="https://robinrendle.com/notes/prototyping,-prototyping,-prototyping/"/>
-        <title>Prototyping, prototyping, prototyping</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-10-02T15:34:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-prototyping-prototyping-prototyping/</id>
     <content type="html">
         
     </content>
@@ -11931,25 +11715,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Raspberry Pi Based Server Setup for Low Cost Self Hosting at Home</title>
+    <title>Low Cost Self Hosting at Home</title>
         <author>
             <name>Rohan Deshmukh</name>
         </author>
     <published>2022-02-09T02:29:26+00:00</published>
     <updated>2022-02-09T02:29:26+00:00</updated>
-    <link href="https://news.cryptic.io/rohan-deshmukh-raspberry-pi-based-server-setup-for-low-cost-self-hosting-at-home/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rohan-deshmukh-raspberry-pi-based-server-setup-for-low-cost-self-hosting-at-home/" type="text/html"/>
+    <link href="https://news.cryptic.io/rohan-deshmukh-low-cost-self-hosting-at-home/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rohan-deshmukh-low-cost-self-hosting-at-home/" type="text/html"/>
       <source>
-        <id>https://rohanrd.xyz/posts/raspberry-pi-based-server-setup-for-low-cost-self-hosting-at-home/</id>
-        <link href="https://rohanrd.xyz/posts/raspberry-pi-based-server-setup-for-low-cost-self-hosting-at-home/"/>
-        <title>Raspberry Pi Based Server Setup for Low Cost Self Hosting at Home</title>
+        <id>https://rohanrd.xyz/posts/low-cost-self-hosting-at-home/</id>
+        <link href="https://rohanrd.xyz/posts/low-cost-self-hosting-at-home/"/>
+        <title>Low Cost Self Hosting at Home</title>
         <author>
             <name>Rohan Deshmukh</name>
         </author>
         <updated>2022-02-09T02:29:26+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/rohan-deshmukh-raspberry-pi-based-server-setup-for-low-cost-self-hosting-at-home/</id>
+    <id>https://news.cryptic.io/rohan-deshmukh-low-cost-self-hosting-at-home/</id>
     <content type="html">
         
     </content>
