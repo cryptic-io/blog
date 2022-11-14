@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-13T19:00:00+00:00</updated>
+  <updated>2022-11-14T12:34:40+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>How to search Mastodon by date &amp;#038; time</title>
+        <author>
+            <name>@edent</name>
+        </author>
+    <published>2022-11-14T12:34:40+00:00</published>
+    <updated>2022-11-14T12:34:40+00:00</updated>
+    <link href="https://news.cryptic.io/edent-how-to-search-mastodon-by-date-038-time/"/>
+    <link rel="alternate" href="https://news.cryptic.io/edent-how-to-search-mastodon-by-date-038-time/" type="text/html"/>
+      <source>
+        <id>https://shkspr.mobi/blog/2022/11/building-an-on-this-day-service-for-mastodon/</id>
+        <link href="https://shkspr.mobi/blog/2022/11/building-an-on-this-day-service-for-mastodon/"/>
+        <title>How to search Mastodon by date &amp;#038; time</title>
+        <author>
+            <name>@edent</name>
+        </author>
+        <updated>2022-11-14T12:34:40+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/edent-how-to-search-mastodon-by-date-038-time/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Verified Personal Website</title>
         <author>
@@ -944,30 +968,6 @@
       </source>
 
     <id>https://news.cryptic.io/cheapskate-a-brief-review-of-citadel-email-server-software-running-on-a-raspberry-pi-3/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Not Quite Emoji Domain Names</title>
-        <author>
-            <name>@edent</name>
-        </author>
-    <published>2022-11-04T12:34:13+00:00</published>
-    <updated>2022-11-04T12:34:13+00:00</updated>
-    <link href="https://news.cryptic.io/edent-not-quite-emoji-domain-names/"/>
-    <link rel="alternate" href="https://news.cryptic.io/edent-not-quite-emoji-domain-names/" type="text/html"/>
-      <source>
-        <id>https://shkspr.mobi/blog/2022/11/not-quite-emoji-domain-names/</id>
-        <link href="https://shkspr.mobi/blog/2022/11/not-quite-emoji-domain-names/"/>
-        <title>Not Quite Emoji Domain Names</title>
-        <author>
-            <name>@edent</name>
-        </author>
-        <updated>2022-11-04T12:34:13+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/edent-not-quite-emoji-domain-names/</id>
     <content type="html">
         
     </content>
@@ -5235,6 +5235,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>We Are All Nerds: The Literary Works of Neal Stephenson</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2022-08-27T08:00:00+00:00</published>
+    <updated>2022-08-27T08:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-we-are-all-nerds-the-literary-works-of-neal-stephenson/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-we-are-all-nerds-the-literary-works-of-neal-stephenson/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2022/neal_stephenson/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2022/neal_stephenson/"/>
+        <title>We Are All Nerds: The Literary Works of Neal Stephenson</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2022-08-27T08:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-we-are-all-nerds-the-literary-works-of-neal-stephenson/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Syncing your Github status with your currently playing Steam game</title>
         <author>
             <name>mendhak</name>
@@ -5422,6 +5446,30 @@
       </source>
 
     <id>https://news.cryptic.io/molly-white-announcing-the-whitespace-newsletter-and-a-patreon/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Put it on the Crazy Pile: Ideas and Creativity</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2022-08-20T16:00:00+00:00</published>
+    <updated>2022-08-20T16:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-put-it-on-the-crazy-pile-ideas-and-creativity/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-put-it-on-the-crazy-pile-ideas-and-creativity/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2022/crazy_pile/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2022/crazy_pile/"/>
+        <title>Put it on the Crazy Pile: Ideas and Creativity</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2022-08-20T16:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-put-it-on-the-crazy-pile-ideas-and-creativity/</id>
     <content type="html">
         
     </content>
@@ -5638,54 +5686,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-walnuts-can-stain-your-hands-for-a-very-long-time/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>“AI Safety” is a Purposeful Distraction</title>
-        <author>
-            <name>Nathaniel Travis</name>
-        </author>
-    <published>2022-08-11T23:31:38+00:00</published>
-    <updated>2022-08-11T23:31:38+00:00</updated>
-    <link href="https://news.cryptic.io/nathaniel-travis-ai-safety-is-a-purposeful-distraction/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nathaniel-travis-ai-safety-is-a-purposeful-distraction/" type="text/html"/>
-      <source>
-        <id>https://nathanieltravis.com/2022/08/11/ai-safety-is-a-purposeful-distraction/</id>
-        <link href="https://nathanieltravis.com/2022/08/11/ai-safety-is-a-purposeful-distraction/"/>
-        <title>“AI Safety” is a Purposeful Distraction</title>
-        <author>
-            <name>Nathaniel Travis</name>
-        </author>
-        <updated>2022-08-11T23:31:38+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nathaniel-travis-ai-safety-is-a-purposeful-distraction/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Yes, the World is Burning, but There’s Reasons for Optimism</title>
-        <author>
-            <name>Nathaniel Travis</name>
-        </author>
-    <published>2022-08-11T05:22:24+00:00</published>
-    <updated>2022-08-11T05:22:24+00:00</updated>
-    <link href="https://news.cryptic.io/nathaniel-travis-yes-the-world-is-burning-but-theres-reasons-for-optimism/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nathaniel-travis-yes-the-world-is-burning-but-theres-reasons-for-optimism/" type="text/html"/>
-      <source>
-        <id>https://nathanieltravis.com/2022/08/10/yes-the-world-is-burning-but-theres-reasons-for-optimism/</id>
-        <link href="https://nathanieltravis.com/2022/08/10/yes-the-world-is-burning-but-theres-reasons-for-optimism/"/>
-        <title>Yes, the World is Burning, but There’s Reasons for Optimism</title>
-        <author>
-            <name>Nathaniel Travis</name>
-        </author>
-        <updated>2022-08-11T05:22:24+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nathaniel-travis-yes-the-world-is-burning-but-theres-reasons-for-optimism/</id>
     <content type="html">
         
     </content>
@@ -6022,6 +6022,54 @@
       </source>
 
     <id>https://news.cryptic.io/alex-ellis-funny-artifacts-in-a-3d-house-scan/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A Sustainable Pace Gets You to the Finish Line</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2022-07-30T12:00:00+00:00</published>
+    <updated>2022-07-30T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-a-sustainable-pace-gets-you-to-the-finish-line/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-a-sustainable-pace-gets-you-to-the-finish-line/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2022/sustainable/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2022/sustainable/"/>
+        <title>A Sustainable Pace Gets You to the Finish Line</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2022-07-30T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-a-sustainable-pace-gets-you-to-the-finish-line/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Fixing Duplicate and Stuck Messages in Akonadi</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2022-07-30T11:00:00+00:00</published>
+    <updated>2022-07-30T11:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-fixing-duplicate-and-stuck-messages-in-akonadi/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-fixing-duplicate-and-stuck-messages-in-akonadi/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2022/akonadi/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2022/akonadi/"/>
+        <title>Fixing Duplicate and Stuck Messages in Akonadi</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2022-07-30T11:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-fixing-duplicate-and-stuck-messages-in-akonadi/</id>
     <content type="html">
         
     </content>
@@ -6579,6 +6627,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Questions to Sharpen a Research Proposal</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2022-07-10T22:00:00+00:00</published>
+    <updated>2022-07-10T22:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-questions-to-sharpen-a-research-proposal/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-questions-to-sharpen-a-research-proposal/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2022/questions/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2022/questions/"/>
+        <title>Questions to Sharpen a Research Proposal</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2022-07-10T22:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-questions-to-sharpen-a-research-proposal/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Dissenting through the Mainstream</title>
         <author>
             <name>Tim Daubenschütz</name>
@@ -6910,6 +6982,30 @@
       </source>
 
     <id>https://news.cryptic.io/arun-prasad-side-projects/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Open Source and Academia</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2022-07-02T14:00:00+00:00</published>
+    <updated>2022-07-02T14:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-open-source-and-academia/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-open-source-and-academia/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2022/open_source/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2022/open_source/"/>
+        <title>Open Source and Academia</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2022-07-02T14:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-open-source-and-academia/</id>
     <content type="html">
         
     </content>
@@ -7846,6 +7942,30 @@
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-wonderful-time-at-cymera-festival/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Machine Learning Scientist as Toolsmith: An Homage to Fred Brooks</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2022-06-06T12:00:00+00:00</published>
+    <updated>2022-06-06T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-the-machine-learning-scientist-as-toolsmith-an-homage-to-fred-brooks/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-the-machine-learning-scientist-as-toolsmith-an-homage-to-fred-brooks/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2022/toolsmith/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2022/toolsmith/"/>
+        <title>The Machine Learning Scientist as Toolsmith: An Homage to Fred Brooks</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2022-06-06T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-the-machine-learning-scientist-as-toolsmith-an-homage-to-fred-brooks/</id>
     <content type="html">
         
     </content>
@@ -8902,6 +9022,30 @@
       </source>
 
     <id>https://news.cryptic.io/nutcroft-should-we-celebrate-acquisitions/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Improving My Lab Book Using Snippets for `vim`</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2022-05-14T12:00:00+00:00</published>
+    <updated>2022-05-14T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-improving-my-lab-book-using-snippets-for-vim/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-improving-my-lab-book-using-snippets-for-vim/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2022/snippets/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2022/snippets/"/>
+        <title>Improving My Lab Book Using Snippets for `vim`</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2022-05-14T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-improving-my-lab-book-using-snippets-for-vim/</id>
     <content type="html">
         
     </content>
@@ -10443,6 +10587,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Watching the Watchmen: Pitfalls in Graph Generative Model Evaluation</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2022-03-15T16:00:00+00:00</published>
+    <updated>2022-03-15T16:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-watching-the-watchmen-pitfalls-in-graph-generative-model-evaluation/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-watching-the-watchmen-pitfalls-in-graph-generative-model-evaluation/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2022/watchmen/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2022/watchmen/"/>
+        <title>Watching the Watchmen: Pitfalls in Graph Generative Model Evaluation</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2022-03-15T16:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-watching-the-watchmen-pitfalls-in-graph-generative-model-evaluation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Roadtrip to Ludolph van Ceulen</title>
         <author>
             <name>Roy van Rijn</name>
@@ -10510,6 +10678,30 @@
       </source>
 
     <id>https://news.cryptic.io/douglas-vaghetti-seeking-that-sweet-sweet-vim-joy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Who&#x27;s Attacking My Server?</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2022-03-12T07:00:00+00:00</published>
+    <updated>2022-03-12T07:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-whos-attacking-my-server/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-whos-attacking-my-server/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2022/server/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2022/server/"/>
+        <title>Who&#x27;s Attacking My Server?</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2022-03-12T07:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-whos-attacking-my-server/</id>
     <content type="html">
         
     </content>
