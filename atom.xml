@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-15T12:34:45+00:00</updated>
+  <updated>2022-11-16T12:34:16+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Book Review: &amp;quot;A World on Fire: An Epic History of Two Nations Divided&amp;quot; by Dr Amanda Foreman</title>
+        <author>
+            <name>@edent</name>
+        </author>
+    <published>2022-11-16T12:34:16+00:00</published>
+    <updated>2022-11-16T12:34:16+00:00</updated>
+    <link href="https://news.cryptic.io/edent-book-review-quota-world-on-fire-an-epic-history-of-two-nations-dividedquot-by-dr-amanda-foreman/"/>
+    <link rel="alternate" href="https://news.cryptic.io/edent-book-review-quota-world-on-fire-an-epic-history-of-two-nations-dividedquot-by-dr-amanda-foreman/" type="text/html"/>
+      <source>
+        <id>https://shkspr.mobi/blog/2022/11/book-review-a-world-on-fire-an-epic-history-of-two-nations-divided-by-dr-amanda-foreman/</id>
+        <link href="https://shkspr.mobi/blog/2022/11/book-review-a-world-on-fire-an-epic-history-of-two-nations-divided-by-dr-amanda-foreman/"/>
+        <title>Book Review: &amp;quot;A World on Fire: An Epic History of Two Nations Divided&amp;quot; by Dr Amanda Foreman</title>
+        <author>
+            <name>@edent</name>
+        </author>
+        <updated>2022-11-16T12:34:16+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/edent-book-review-quota-world-on-fire-an-epic-history-of-two-nations-dividedquot-by-dr-amanda-foreman/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Twitter&amp;#039;s archive doesn&amp;#039;t have alt text - but Mastodon&amp;#039;s does!</title>
         <author>
@@ -848,30 +872,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-the-timeline-is-the-problem/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Is Open Graph Protocol dead?</title>
-        <author>
-            <name>@edent</name>
-        </author>
-    <published>2022-11-06T12:34:49+00:00</published>
-    <updated>2022-11-06T12:34:49+00:00</updated>
-    <link href="https://news.cryptic.io/edent-is-open-graph-protocol-dead/"/>
-    <link rel="alternate" href="https://news.cryptic.io/edent-is-open-graph-protocol-dead/" type="text/html"/>
-      <source>
-        <id>https://shkspr.mobi/blog/2022/11/is-open-graph-protocol-dead/</id>
-        <link href="https://shkspr.mobi/blog/2022/11/is-open-graph-protocol-dead/"/>
-        <title>Is Open Graph Protocol dead?</title>
-        <author>
-            <name>@edent</name>
-        </author>
-        <updated>2022-11-06T12:34:49+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/edent-is-open-graph-protocol-dead/</id>
     <content type="html">
         
     </content>
