@@ -362,4 +362,38 @@
     author = "Robin Rendle";
     url = "https://www.robinrendle.com/feed.xml";
   }
+  {
+    name = "Irrational Exuberance";
+    author = "Will Larson";
+    url = "https://lethain.com/feeds.xml";
+  }
+  {
+    name = "cristobal.space";
+    author = "CRISTÓBAL SCIUTTO";
+    url = "https://cristobal.space/rss.xml";
+  }
+  {
+    name = "the scapegoat dev";
+    url = "https://the.scapegoat.dev/feed";
+  }
+  {
+    name = "Granola Shotgun";
+    author = "Johnny Sanphillippo";
+    url = "https://nitter.net/GranolaShotgun/rss";
+  }
+  {
+    name = "milky eggs";
+    author = "fbifemboy";
+    url = "https://milkyeggs.com/?feed=rss2";
+  }
+  {
+    name = "iliana etaoin";
+    author = "iliana etaoin";
+    url = "https://iliana.fyi/atom.xml";
+  }
+  {
+    name = "Computer Things";
+    author = "Hillel Wayne";
+    url = "https://buttondown.email/hillelwayne/rss";
+  }
 ]
