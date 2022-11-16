@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-16T19:00:00+00:00</updated>
+  <updated>2022-11-16T21:28:11+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Let&#x27;s Prove Leftpad; Content Aggregation</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2022-11-16T21:28:11+00:00</published>
+    <updated>2022-11-16T21:28:11+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-lets-prove-leftpad-content-aggregation/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-lets-prove-leftpad-content-aggregation/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/lets-prove-leftpad-content-aggregation/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/lets-prove-leftpad-content-aggregation/"/>
+        <title>Let&#x27;s Prove Leftpad; Content Aggregation</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2022-11-16T21:28:11+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-lets-prove-leftpad-content-aggregation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Remix and the Alternate Timeline of Web Development</title>
         <author>
@@ -5206,30 +5230,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-poor-mans-mind-mapping-tool-with-just-the-terminal/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>On the benefits of humanities in software engineering</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2022-09-14T15:30:00+00:00</published>
-    <updated>2022-09-14T15:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-on-the-benefits-of-humanities-in-software-engineering/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-on-the-benefits-of-humanities-in-software-engineering/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/on-the-benefits-of-humanities-in-software/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/on-the-benefits-of-humanities-in-software/"/>
-        <title>On the benefits of humanities in software engineering</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2022-09-14T15:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-on-the-benefits-of-humanities-in-software-engineering/</id>
     <content type="html">
         
     </content>
