@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>If a Tree Falls in a Forest, Does It Overflow the Stack?</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2022-11-18T00:00:00+00:00</published>
+    <updated>2022-11-18T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-if-a-tree-falls-in-a-forest-does-it-overflow-the-stack/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-if-a-tree-falls-in-a-forest-does-it-overflow-the-stack/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2022/11/18/if-a-tree-falls-in-a-forest-does-it-overflow-the-stack.html</id>
+        <link href="https://matklad.github.io/2022/11/18/if-a-tree-falls-in-a-forest-does-it-overflow-the-stack.html"/>
+        <title>If a Tree Falls in a Forest, Does It Overflow the Stack?</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2022-11-18T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-if-a-tree-falls-in-a-forest-does-it-overflow-the-stack/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Bringing TLS 1.3 to older Android devices</title>
         <author>
             <name>mendhak</name>
@@ -50,6 +74,30 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-bringing-tls-13-to-older-android-devices/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Account Problems</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-11-18T00:00:00+00:00</published>
+    <updated>2022-11-18T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-account-problems/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-account-problems/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2700/</id>
+        <link href="https://xkcd.com/2700/"/>
+        <title>Account Problems</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-11-18T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-account-problems/</id>
     <content type="html">
         
     </content>
@@ -1064,30 +1112,6 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-professionalism-you-should-maintain-a-transition-file/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Precision vs Accuracy</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2022-11-09T00:00:00+00:00</published>
-    <updated>2022-11-09T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-precision-vs-accuracy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-precision-vs-accuracy/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2696/</id>
-        <link href="https://xkcd.com/2696/"/>
-        <title>Precision vs Accuracy</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2022-11-09T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-precision-vs-accuracy/</id>
     <content type="html">
         
     </content>
@@ -8950,30 +8974,6 @@
       </source>
 
     <id>https://news.cryptic.io/vitalik-buterin-where-to-use-a-blockchain-in-nonfinancial-applications/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Caches In Rust</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2022-06-11T00:00:00+00:00</published>
-    <updated>2022-06-11T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-caches-in-rust/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-caches-in-rust/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2022/06/11/caches-in-rust.html</id>
-        <link href="https://matklad.github.io/2022/06/11/caches-in-rust.html"/>
-        <title>Caches In Rust</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2022-06-11T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-caches-in-rust/</id>
     <content type="html">
         
     </content>
