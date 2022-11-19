@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-18T22:54:25+00:00</updated>
+  <updated>2022-11-19T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Having a safe CEX: proof of solvency and beyond</title>
+        <author>
+            <name>Vitalik Buterin</name>
+        </author>
+    <published>2022-11-19T00:00:00+00:00</published>
+    <updated>2022-11-19T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/vitalik-buterin-having-a-safe-cex-proof-of-solvency-and-beyond/"/>
+    <link rel="alternate" href="https://news.cryptic.io/vitalik-buterin-having-a-safe-cex-proof-of-solvency-and-beyond/" type="text/html"/>
+      <source>
+        <id>https://vitalik.ca/general/2022/11/19/proof_of_solvency.html</id>
+        <link href="https://vitalik.ca/general/2022/11/19/proof_of_solvency.html"/>
+        <title>Having a safe CEX: proof of solvency and beyond</title>
+        <author>
+            <name>Vitalik Buterin</name>
+        </author>
+        <updated>2022-11-19T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/vitalik-buterin-having-a-safe-cex-proof-of-solvency-and-beyond/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Reliability stuff worth reading</title>
         <author>
@@ -9166,30 +9190,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-what-i-read-on-holiday/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Where to use a blockchain in non-financial applications?</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-    <published>2022-06-12T00:00:00+00:00</published>
-    <updated>2022-06-12T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/vitalik-buterin-where-to-use-a-blockchain-in-nonfinancial-applications/"/>
-    <link rel="alternate" href="https://news.cryptic.io/vitalik-buterin-where-to-use-a-blockchain-in-nonfinancial-applications/" type="text/html"/>
-      <source>
-        <id>https://vitalik.ca/general/2022/06/12/nonfin.html</id>
-        <link href="https://vitalik.ca/general/2022/06/12/nonfin.html"/>
-        <title>Where to use a blockchain in non-financial applications?</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-        <updated>2022-06-12T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/vitalik-buterin-where-to-use-a-blockchain-in-nonfinancial-applications/</id>
     <content type="html">
         
     </content>
