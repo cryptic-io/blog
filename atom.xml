@@ -4,8 +4,60 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-19T12:34:35+00:00</updated>
+  <updated>2022-11-20T02:04:01+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>
+      The Curse of Unreasonably Sized Networks
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+    <published>2022-11-20T02:04:01+00:00</published>
+    <updated>2022-11-20T02:04:01+00:00</updated>
+    <link href="https://news.cryptic.io/apenwarr-the-curse-of-unreasonably-sized-networks/"/>
+    <link rel="alternate" href="https://news.cryptic.io/apenwarr-the-curse-of-unreasonably-sized-networks/" type="text/html"/>
+      <source>
+        <id>https://apenwarr.ca/log/20201028</id>
+        <link href="https://apenwarr.ca/log/20201028"/>
+        <title>
+      The Curse of Unreasonably Sized Networks
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+        <updated>2022-11-20T02:04:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/apenwarr-the-curse-of-unreasonably-sized-networks/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Twitter.</title>
+        <author>
+            <name>Will Larson</name>
+        </author>
+    <published>2022-11-19T14:00:00+00:00</published>
+    <updated>2022-11-19T14:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/will-larson-twitter/"/>
+    <link rel="alternate" href="https://news.cryptic.io/will-larson-twitter/" type="text/html"/>
+      <source>
+        <id>https://lethain.com/twitter/</id>
+        <link href="https://lethain.com/twitter/"/>
+        <title>Twitter.</title>
+        <author>
+            <name>Will Larson</name>
+        </author>
+        <updated>2022-11-19T14:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/will-larson-twitter/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>All the books I read this year</title>
         <author>
@@ -7803,30 +7855,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>How to estimate disk space.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-    <published>2022-07-08T20:00:00+00:00</published>
-    <updated>2022-07-08T20:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/will-larson-how-to-estimate-disk-space/"/>
-    <link rel="alternate" href="https://news.cryptic.io/will-larson-how-to-estimate-disk-space/" type="text/html"/>
-      <source>
-        <id>https://lethain.com/how-to-estimate-disk-space/</id>
-        <link href="https://lethain.com/how-to-estimate-disk-space/"/>
-        <title>How to estimate disk space.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-        <updated>2022-07-08T20:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/will-larson-how-to-estimate-disk-space/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Older founders do this better</title>
         <author>
             <name>Justin Jackson</name>
@@ -15074,34 +15102,6 @@
       </source>
 
     <id>https://news.cryptic.io/joey-hess-comically-bad-shipping-estimates-and-middlemen/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>
-      IPv4, IPv6, and a sudden change in attitude
-    </title>
-        <author>
-            <name>apenwarr</name>
-        </author>
-    <published>2020-07-22T18:13:06+00:00</published>
-    <updated>2020-07-22T18:13:06+00:00</updated>
-    <link href="https://news.cryptic.io/apenwarr-ipv4-ipv6-and-a-sudden-change-in-attitude/"/>
-    <link rel="alternate" href="https://news.cryptic.io/apenwarr-ipv4-ipv6-and-a-sudden-change-in-attitude/" type="text/html"/>
-      <source>
-        <id>https://apenwarr.ca/log/20200708</id>
-        <link href="https://apenwarr.ca/log/20200708"/>
-        <title>
-      IPv4, IPv6, and a sudden change in attitude
-    </title>
-        <author>
-            <name>apenwarr</name>
-        </author>
-        <updated>2020-07-22T18:13:06+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/apenwarr-ipv4-ipv6-and-a-sudden-change-in-attitude/</id>
     <content type="html">
         
     </content>
