@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-20T12:34:38+00:00</updated>
+  <updated>2022-11-20T21:11:05+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>It Shipped That Way</title>
+        <author>
+            <name>Allen Pike</name>
+        </author>
+    <published>2022-11-20T21:11:05+00:00</published>
+    <updated>2022-11-20T21:11:05+00:00</updated>
+    <link href="https://news.cryptic.io/allen-pike-it-shipped-that-way/"/>
+    <link rel="alternate" href="https://news.cryptic.io/allen-pike-it-shipped-that-way/" type="text/html"/>
+      <source>
+        <id>https://www.allenpike.com/2022/shipped-podcast</id>
+        <link href="https://www.allenpike.com/2022/shipped-podcast"/>
+        <title>It Shipped That Way</title>
+        <author>
+            <name>Allen Pike</name>
+        </author>
+        <updated>2022-11-20T21:11:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/allen-pike-it-shipped-that-way/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Experiments with domestic load shedding in the UK</title>
         <author>
@@ -5978,30 +6002,6 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-the-simplest-way-to-get-started-with-stable-diffusion-on-ubuntu/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A Password Autofill Surprise</title>
-        <author>
-            <name>Allen Pike</name>
-        </author>
-    <published>2022-09-01T12:42:18+00:00</published>
-    <updated>2022-09-01T12:42:18+00:00</updated>
-    <link href="https://news.cryptic.io/allen-pike-a-password-autofill-surprise/"/>
-    <link rel="alternate" href="https://news.cryptic.io/allen-pike-a-password-autofill-surprise/" type="text/html"/>
-      <source>
-        <id>https://www.allenpike.com/2022/autofill-surprise-safety</id>
-        <link href="https://www.allenpike.com/2022/autofill-surprise-safety"/>
-        <title>A Password Autofill Surprise</title>
-        <author>
-            <name>Allen Pike</name>
-        </author>
-        <updated>2022-09-01T12:42:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/allen-pike-a-password-autofill-surprise/</id>
     <content type="html">
         
     </content>
