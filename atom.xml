@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-22T14:15:00+00:00</updated>
+  <updated>2022-11-22T16:06:04+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Thoughts on Mastodon</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2022-11-22T16:06:04+00:00</published>
+    <updated>2022-11-22T16:06:04+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-thoughts-on-mastodon/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-thoughts-on-mastodon/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2022/11/22/thoughts-on-mastodon/</id>
+        <link href="https://nolanlawson.com/2022/11/22/thoughts-on-mastodon/"/>
+        <title>Thoughts on Mastodon</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2022-11-22T16:06:04+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-thoughts-on-mastodon/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Implementing a New Memory Safety Approach, Part 1</title>
         <author>
@@ -11306,30 +11330,6 @@
       </source>
 
     <id>https://news.cryptic.io/clayton-craft-h-help-help-help/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The struggle of using native emoji on the web</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-    <published>2022-04-08T21:47:22+00:00</published>
-    <updated>2022-04-08T21:47:22+00:00</updated>
-    <link href="https://news.cryptic.io/nolan-lawson-the-struggle-of-using-native-emoji-on-the-web/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-the-struggle-of-using-native-emoji-on-the-web/" type="text/html"/>
-      <source>
-        <id>https://nolanlawson.com/2022/04/08/the-struggle-of-using-native-emoji-on-the-web/</id>
-        <link href="https://nolanlawson.com/2022/04/08/the-struggle-of-using-native-emoji-on-the-web/"/>
-        <title>The struggle of using native emoji on the web</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-        <updated>2022-04-08T21:47:22+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nolan-lawson-the-struggle-of-using-native-emoji-on-the-web/</id>
     <content type="html">
         
     </content>
