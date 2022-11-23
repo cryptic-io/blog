@@ -396,4 +396,9 @@
     author = "Hillel Wayne";
     url = "https://buttondown.email/hillelwayne/rss";
   }
+  {
+    name = "xeiaso.net";
+    author = "Xe Iaso";
+    url = "https://xeiaso.net/blog.rss";
+  }
 ]
