@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-22T19:00:00+00:00</updated>
+  <updated>2022-11-23T12:34:22+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Zotero citations in Markdown - publishing to ePub or PDF</title>
+        <author>
+            <name>@edent</name>
+        </author>
+    <published>2022-11-23T12:34:22+00:00</published>
+    <updated>2022-11-23T12:34:22+00:00</updated>
+    <link href="https://news.cryptic.io/edent-zotero-citations-in-markdown-publishing-to-epub-or-pdf/"/>
+    <link rel="alternate" href="https://news.cryptic.io/edent-zotero-citations-in-markdown-publishing-to-epub-or-pdf/" type="text/html"/>
+      <source>
+        <id>https://shkspr.mobi/blog/2022/11/zotero-citations-in-markdown-publishing-to-epub-or-pdf/</id>
+        <link href="https://shkspr.mobi/blog/2022/11/zotero-citations-in-markdown-publishing-to-epub-or-pdf/"/>
+        <title>Zotero citations in Markdown - publishing to ePub or PDF</title>
+        <author>
+            <name>@edent</name>
+        </author>
+        <updated>2022-11-23T12:34:22+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/edent-zotero-citations-in-markdown-publishing-to-epub-or-pdf/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Natural Language Inputs</title>
         <author>
@@ -1088,30 +1112,6 @@
       </source>
 
     <id>https://news.cryptic.io/will-larson-the-flying-wedge/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Book Review: The Bees - Laline Paull</title>
-        <author>
-            <name>@edent</name>
-        </author>
-    <published>2022-11-13T12:34:31+00:00</published>
-    <updated>2022-11-13T12:34:31+00:00</updated>
-    <link href="https://news.cryptic.io/edent-book-review-the-bees-laline-paull/"/>
-    <link rel="alternate" href="https://news.cryptic.io/edent-book-review-the-bees-laline-paull/" type="text/html"/>
-      <source>
-        <id>https://shkspr.mobi/blog/2022/11/book-review-the-bees-laline-paull/</id>
-        <link href="https://shkspr.mobi/blog/2022/11/book-review-the-bees-laline-paull/"/>
-        <title>Book Review: The Bees - Laline Paull</title>
-        <author>
-            <name>@edent</name>
-        </author>
-        <updated>2022-11-13T12:34:31+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/edent-book-review-the-bees-laline-paull/</id>
     <content type="html">
         
     </content>
