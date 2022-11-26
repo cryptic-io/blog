@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-26T15:43:00+00:00</updated>
+  <updated>2022-11-26T17:11:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Troika Pocketfold Character Sheet</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+    <published>2022-11-26T17:11:00+00:00</published>
+    <updated>2022-11-26T17:11:00+00:00</updated>
+    <link href="https://news.cryptic.io/andre-alves-garzia-troika-pocketfold-character-sheet/"/>
+    <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-troika-pocketfold-character-sheet/" type="text/html"/>
+      <source>
+        <id>https://andregarzia.com/2022/11/Troika-Pocketfold-Character-Sheet.html</id>
+        <link href="https://andregarzia.com/2022/11/Troika-Pocketfold-Character-Sheet.html"/>
+        <title>Troika Pocketfold Character Sheet</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+        <updated>2022-11-26T17:11:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/andre-alves-garzia-troika-pocketfold-character-sheet/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Wombat coprolites</title>
         <author>
@@ -266,30 +290,6 @@
       </source>
 
     <id>https://news.cryptic.io/edent-the-bbc039s-15-web-principles-15-years-later/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The night of 1000 alerts (but only on the Linux boxes)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-11-24T07:07:43+00:00</published>
-    <updated>2022-11-24T07:07:43+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/11/23/alerts/</id>
-        <link href="https://rachelbythebay.com/w/2022/11/23/alerts/"/>
-        <title>The night of 1000 alerts (but only on the Linux boxes)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-11-24T07:07:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/</id>
     <content type="html">
         
     </content>
@@ -923,30 +923,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Reliability stuff worth reading</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-11-18T22:54:25+00:00</published>
-    <updated>2022-11-18T22:54:25+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-reliability-stuff-worth-reading/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-reliability-stuff-worth-reading/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/11/18/mc/</id>
-        <link href="https://rachelbythebay.com/w/2022/11/18/mc/"/>
-        <title>Reliability stuff worth reading</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-11-18T22:54:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-reliability-stuff-worth-reading/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>2022 - a year in review</title>
         <author>
             <name>@edent</name>
@@ -966,30 +942,6 @@
       </source>
 
     <id>https://news.cryptic.io/edent-2022-a-year-in-review/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Missing the point completely</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-11-18T00:23:39+00:00</published>
-    <updated>2022-11-18T00:23:39+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-missing-the-point-completely/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-missing-the-point-completely/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/11/17/point/</id>
-        <link href="https://rachelbythebay.com/w/2022/11/17/point/"/>
-        <title>Missing the point completely</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-11-18T00:23:39+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-missing-the-point-completely/</id>
     <content type="html">
         
     </content>
@@ -1642,30 +1594,6 @@
       </source>
 
     <id>https://news.cryptic.io/fbifemboy-the-doomer-case-for-the-final-death-of-crypto/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Getting it or not getting it, and then what?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-11-10T23:47:52+00:00</published>
-    <updated>2022-11-10T23:47:52+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-getting-it-or-not-getting-it-and-then-what/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getting-it-or-not-getting-it-and-then-what/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/11/10/quad/</id>
-        <link href="https://rachelbythebay.com/w/2022/11/10/quad/"/>
-        <title>Getting it or not getting it, and then what?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-11-10T23:47:52+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-getting-it-or-not-getting-it-and-then-what/</id>
     <content type="html">
         
     </content>
@@ -4569,8 +4497,8 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-    <published>2022-10-08T09:50:00+00:00</published>
-    <updated>2022-10-08T09:50:00+00:00</updated>
+    <published>2022-10-08T10:50:00+00:00</published>
+    <updated>2022-10-08T10:50:00+00:00</updated>
     <link href="https://news.cryptic.io/andre-alves-garzia-musings-on-serialised-storytelling/"/>
     <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-musings-on-serialised-storytelling/" type="text/html"/>
       <source>
@@ -4580,7 +4508,7 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-        <updated>2022-10-08T09:50:00+00:00</updated>
+        <updated>2022-10-08T10:50:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-musings-on-serialised-storytelling/</id>
@@ -5267,8 +5195,8 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-    <published>2022-09-28T11:41:00+00:00</published>
-    <updated>2022-09-28T11:41:00+00:00</updated>
+    <published>2022-09-28T12:41:00+00:00</published>
+    <updated>2022-09-28T12:41:00+00:00</updated>
     <link href="https://news.cryptic.io/andre-alves-garzia-the-appeal-of-small-computers/"/>
     <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-the-appeal-of-small-computers/" type="text/html"/>
       <source>
@@ -5278,7 +5206,7 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-        <updated>2022-09-28T11:41:00+00:00</updated>
+        <updated>2022-09-28T12:41:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-the-appeal-of-small-computers/</id>
@@ -6650,30 +6578,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-praise-for-bear/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Echo reply (an incomplete update on things)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-08-29T21:02:07+00:00</published>
-    <updated>2022-08-29T21:02:07+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/08/29/pong/</id>
-        <link href="https://rachelbythebay.com/w/2022/08/29/pong/"/>
-        <title>Echo reply (an incomplete update on things)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-08-29T21:02:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/</id>
     <content type="html">
         
     </content>
@@ -9031,30 +8935,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Q&amp;A on 1972</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-25T21:10:26+00:00</published>
-    <updated>2022-06-25T21:10:26+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-qa-on-1972/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-qa-on-1972/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/25/qa/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/25/qa/"/>
-        <title>Q&amp;A on 1972</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-25T21:10:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-qa-on-1972/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>What I like about Accountants</title>
         <author>
             <name>Tim Daubenschütz</name>
@@ -9074,30 +8954,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-daubenschtz-what-i-like-about-accountants/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>1972.</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-24T18:05:09+00:00</published>
-    <updated>2022-06-24T18:05:09+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-1972/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-1972/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/24/1972/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/24/1972/"/>
-        <title>1972.</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-24T18:05:09+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-1972/</id>
     <content type="html">
         
     </content>
@@ -9223,54 +9079,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>More on geo-tagging photos with a time element</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-20T22:39:15+00:00</published>
-    <updated>2022-06-20T22:39:15+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-more-on-geotagging-photos-with-a-time-element/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-more-on-geotagging-photos-with-a-time-element/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/20/exif/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/20/exif/"/>
-        <title>More on geo-tagging photos with a time element</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-20T22:39:15+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-more-on-geotagging-photos-with-a-time-element/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Place name mappings probably need a time dimension too</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-20T22:38:56+00:00</published>
-    <updated>2022-06-20T22:38:56+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-place-name-mappings-probably-need-a-time-dimension-too/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-place-name-mappings-probably-need-a-time-dimension-too/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/15/places/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/15/places/"/>
-        <title>Place name mappings probably need a time dimension too</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-20T22:38:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-place-name-mappings-probably-need-a-time-dimension-too/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Design with materials, not features</title>
         <author>
             <name>Linus Lee</name>
@@ -9299,8 +9107,8 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-    <published>2022-06-20T13:31:00+00:00</published>
-    <updated>2022-06-20T13:31:00+00:00</updated>
+    <published>2022-06-20T14:31:00+00:00</published>
+    <updated>2022-06-20T14:31:00+00:00</updated>
     <link href="https://news.cryptic.io/andre-alves-garzia-enrolled-in-wyfa2022/"/>
     <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-enrolled-in-wyfa2022/" type="text/html"/>
       <source>
@@ -9310,7 +9118,7 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-        <updated>2022-06-20T13:31:00+00:00</updated>
+        <updated>2022-06-20T14:31:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-enrolled-in-wyfa2022/</id>
@@ -9410,30 +9218,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-is-madlad-sentient-an-interview/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Free associating from &#x27;df&#x27; to RCE</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-17T03:17:04+00:00</published>
-    <updated>2022-06-17T03:17:04+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/16/rce/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/16/rce/"/>
-        <title>Free associating from &#x27;df&#x27; to RCE</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-17T03:17:04+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/</id>
     <content type="html">
         
     </content>
@@ -9707,8 +9491,8 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-    <published>2022-06-07T13:00:00+00:00</published>
-    <updated>2022-06-07T13:00:00+00:00</updated>
+    <published>2022-06-07T14:00:00+00:00</published>
+    <updated>2022-06-07T14:00:00+00:00</updated>
     <link href="https://news.cryptic.io/andre-alves-garzia-about-ipads-and-developers/"/>
     <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-about-ipads-and-developers/" type="text/html"/>
       <source>
@@ -9718,7 +9502,7 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-        <updated>2022-06-07T13:00:00+00:00</updated>
+        <updated>2022-06-07T14:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-about-ipads-and-developers/</id>
@@ -9731,8 +9515,8 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-    <published>2022-06-06T23:00:00+00:00</published>
-    <updated>2022-06-06T23:00:00+00:00</updated>
+    <published>2022-06-07T00:00:00+00:00</published>
+    <updated>2022-06-07T00:00:00+00:00</updated>
     <link href="https://news.cryptic.io/andre-alves-garzia-wonderful-time-at-cymera-festival/"/>
     <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-wonderful-time-at-cymera-festival/" type="text/html"/>
       <source>
@@ -9742,7 +9526,7 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-        <updated>2022-06-06T23:00:00+00:00</updated>
+        <updated>2022-06-07T00:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-wonderful-time-at-cymera-festival/</id>
@@ -10259,8 +10043,8 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-    <published>2022-05-25T23:00:00+00:00</published>
-    <updated>2022-05-25T23:00:00+00:00</updated>
+    <published>2022-05-26T00:00:00+00:00</published>
+    <updated>2022-05-26T00:00:00+00:00</updated>
     <link href="https://news.cryptic.io/andre-alves-garzia-patchfox-reborn-as-a-desktop-app/"/>
     <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-patchfox-reborn-as-a-desktop-app/" type="text/html"/>
       <source>
@@ -10270,7 +10054,7 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-        <updated>2022-05-25T23:00:00+00:00</updated>
+        <updated>2022-05-26T00:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-patchfox-reborn-as-a-desktop-app/</id>
@@ -10331,8 +10115,8 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-    <published>2022-05-24T23:00:00+00:00</published>
-    <updated>2022-05-24T23:00:00+00:00</updated>
+    <published>2022-05-25T00:00:00+00:00</published>
+    <updated>2022-05-25T00:00:00+00:00</updated>
     <link href="https://news.cryptic.io/andre-alves-garzia-creative-writing-exercise-daily-writing-using-everway-vision-cards/"/>
     <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-creative-writing-exercise-daily-writing-using-everway-vision-cards/" type="text/html"/>
       <source>
@@ -10342,7 +10126,7 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-        <updated>2022-05-24T23:00:00+00:00</updated>
+        <updated>2022-05-25T00:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-creative-writing-exercise-daily-writing-using-everway-vision-cards/</id>
@@ -10499,8 +10283,8 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-    <published>2022-05-20T23:00:00+00:00</published>
-    <updated>2022-05-20T23:00:00+00:00</updated>
+    <published>2022-05-21T00:00:00+00:00</published>
+    <updated>2022-05-21T00:00:00+00:00</updated>
     <link href="https://news.cryptic.io/andre-alves-garzia-on-rants-about-laptops-for-developers/"/>
     <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-on-rants-about-laptops-for-developers/" type="text/html"/>
       <source>
@@ -10510,7 +10294,7 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-        <updated>2022-05-20T23:00:00+00:00</updated>
+        <updated>2022-05-21T00:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-on-rants-about-laptops-for-developers/</id>
@@ -10783,6 +10567,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title> Old-school blogging, retro computers, and decentralisation</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+    <published>2022-05-15T00:00:00+00:00</published>
+    <updated>2022-05-15T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/andre-alves-garzia-oldschool-blogging-retro-computers-and-decentralisation/"/>
+    <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-oldschool-blogging-retro-computers-and-decentralisation/" type="text/html"/>
+      <source>
+        <id>https://andregarzia.com/2022/05/Old-school-blogging-retro-computers-and-decentralisation.html</id>
+        <link href="https://andregarzia.com/2022/05/Old-school-blogging-retro-computers-and-decentralisation.html"/>
+        <title> Old-school blogging, retro computers, and decentralisation</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+        <updated>2022-05-15T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/andre-alves-garzia-oldschool-blogging-retro-computers-and-decentralisation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Super Booth 2022</title>
         <author>
             <name>John Whiles</name>
@@ -10831,30 +10639,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title> Old-school blogging, retro computers, and decentralisation</title>
-        <author>
-            <name>Andre Alves Garzia</name>
-        </author>
-    <published>2022-05-14T23:00:00+00:00</published>
-    <updated>2022-05-14T23:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/andre-alves-garzia-oldschool-blogging-retro-computers-and-decentralisation/"/>
-    <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-oldschool-blogging-retro-computers-and-decentralisation/" type="text/html"/>
-      <source>
-        <id>https://andregarzia.com/2022/05/Old-school-blogging-retro-computers-and-decentralisation.html</id>
-        <link href="https://andregarzia.com/2022/05/Old-school-blogging-retro-computers-and-decentralisation.html"/>
-        <title> Old-school blogging, retro computers, and decentralisation</title>
-        <author>
-            <name>Andre Alves Garzia</name>
-        </author>
-        <updated>2022-05-14T23:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/andre-alves-garzia-oldschool-blogging-retro-computers-and-decentralisation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Improving My Lab Book Using Snippets for `vim`</title>
         <author>
             <name>Bastian Rieck</name>
@@ -10898,30 +10682,6 @@
       </source>
 
     <id>https://news.cryptic.io/nathalie-lawhead-liminal-fever-dreams-rejecting-the-player-the-surrealist-strange-upsetting-otherworlds-of-video-games/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How this blog works, or, embracing chaos</title>
-        <author>
-            <name>Andre Alves Garzia</name>
-        </author>
-    <published>2022-05-12T23:00:00+00:00</published>
-    <updated>2022-05-12T23:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/andre-alves-garzia-how-this-blog-works-or-embracing-chaos/"/>
-    <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-how-this-blog-works-or-embracing-chaos/" type="text/html"/>
-      <source>
-        <id>https://andregarzia.com/2022/05/How-this-blog-works-or-embracing-chaos.html</id>
-        <link href="https://andregarzia.com/2022/05/How-this-blog-works-or-embracing-chaos.html"/>
-        <title>How this blog works, or, embracing chaos</title>
-        <author>
-            <name>Andre Alves Garzia</name>
-        </author>
-        <updated>2022-05-12T23:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/andre-alves-garzia-how-this-blog-works-or-embracing-chaos/</id>
     <content type="html">
         
     </content>
