@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-26T17:11:00+00:00</updated>
+  <updated>2022-11-27T01:17:25.430+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>You, the developer, are a user too</title>
+        <author>
+            <name>manuel</name>
+        </author>
+    <published>2022-11-27T01:17:25.430+00:00</published>
+    <updated>2022-11-27T01:17:25.430+00:00</updated>
+    <link href="https://news.cryptic.io/manuel-you-the-developer-are-a-user-too/"/>
+    <link rel="alternate" href="https://news.cryptic.io/manuel-you-the-developer-are-a-user-too/" type="text/html"/>
+      <source>
+        <id>https://the.scapegoat.dev/you-the-developer-are-a-user-too/</id>
+        <link href="https://the.scapegoat.dev/you-the-developer-are-a-user-too/"/>
+        <title>You, the developer, are a user too</title>
+        <author>
+            <name>manuel</name>
+        </author>
+        <updated>2022-11-27T01:17:25.430+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/manuel-you-the-developer-are-a-user-too/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Bye, Twitter</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2022-11-26T20:00:00+00:00</published>
+    <updated>2022-11-26T20:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-bye-twitter/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-bye-twitter/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2022/11/26/Bye-Twitter</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2022/11/26/Bye-Twitter"/>
+        <title>Bye, Twitter</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2022-11-26T20:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-bye-twitter/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Troika Pocketfold Character Sheet</title>
         <author>
@@ -5599,30 +5647,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Luxury media</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2022-09-21T19:00:00+00:00</published>
-    <updated>2022-09-21T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-luxury-media/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-luxury-media/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2022/09/21/Luxury-Media</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2022/09/21/Luxury-Media"/>
-        <title>Luxury media</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2022-09-21T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-luxury-media/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>2022 Vancouver Election Guide</title>
         <author>
             <name>Allen Pike</name>
@@ -7706,30 +7730,6 @@
       </source>
 
     <id>https://news.cryptic.io/nutcroft-stateasaservice/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Diagrams are the ultimate engineering tool</title>
-        <author>
-            <name>manuel</name>
-        </author>
-    <published>2022-07-30T19:44:16.420+00:00</published>
-    <updated>2022-07-30T19:44:16.420+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-diagrams-are-the-ultimate-engineering-tool/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-diagrams-are-the-ultimate-engineering-tool/" type="text/html"/>
-      <source>
-        <id>https://the.scapegoat.dev/diagrams/</id>
-        <link href="https://the.scapegoat.dev/diagrams/"/>
-        <title>Diagrams are the ultimate engineering tool</title>
-        <author>
-            <name>manuel</name>
-        </author>
-        <updated>2022-07-30T19:44:16.420+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-diagrams-are-the-ultimate-engineering-tool/</id>
     <content type="html">
         
     </content>
