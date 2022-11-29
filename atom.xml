@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-28T20:00:00+00:00</updated>
+  <updated>2022-11-29T12:34:15+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>WebMentions, Privacy, and DDoS - Oh My!</title>
+        <author>
+            <name>@edent</name>
+        </author>
+    <published>2022-11-29T12:34:15+00:00</published>
+    <updated>2022-11-29T12:34:15+00:00</updated>
+    <link href="https://news.cryptic.io/edent-webmentions-privacy-and-ddos-oh-my/"/>
+    <link rel="alternate" href="https://news.cryptic.io/edent-webmentions-privacy-and-ddos-oh-my/" type="text/html"/>
+      <source>
+        <id>https://shkspr.mobi/blog/2022/11/webmentions-privacy-and-ddos-oh-my/</id>
+        <link href="https://shkspr.mobi/blog/2022/11/webmentions-privacy-and-ddos-oh-my/"/>
+        <title>WebMentions, Privacy, and DDoS - Oh My!</title>
+        <author>
+            <name>@edent</name>
+        </author>
+        <updated>2022-11-29T12:34:15+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/edent-webmentions-privacy-and-ddos-oh-my/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Protect Me From What I Want</title>
         <author>
@@ -1134,30 +1158,6 @@
       </source>
 
     <id>https://news.cryptic.io/will-larson-twitter/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>All the books I read this year</title>
-        <author>
-            <name>@edent</name>
-        </author>
-    <published>2022-11-19T12:34:35+00:00</published>
-    <updated>2022-11-19T12:34:35+00:00</updated>
-    <link href="https://news.cryptic.io/edent-all-the-books-i-read-this-year/"/>
-    <link rel="alternate" href="https://news.cryptic.io/edent-all-the-books-i-read-this-year/" type="text/html"/>
-      <source>
-        <id>https://shkspr.mobi/blog/2022/11/all-the-books-i-read-this-year/</id>
-        <link href="https://shkspr.mobi/blog/2022/11/all-the-books-i-read-this-year/"/>
-        <title>All the books I read this year</title>
-        <author>
-            <name>@edent</name>
-        </author>
-        <updated>2022-11-19T12:34:35+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/edent-all-the-books-i-read-this-year/</id>
     <content type="html">
         
     </content>
