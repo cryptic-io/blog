@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-29T17:23:57+00:00</updated>
+  <updated>2022-11-29T21:13:45+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>&quot;Blog&quot; is Such an Ugly Word</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2022-11-29T21:13:45+00:00</published>
+    <updated>2022-11-29T21:13:45+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-blog-is-such-an-ugly-word/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-blog-is-such-an-ugly-word/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/blog-is-such-an-ugly-word</id>
+        <link href="https://mediocregopher.com/posts/blog-is-such-an-ugly-word"/>
+        <title>&quot;Blog&quot; is Such an Ugly Word</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2022-11-29T21:13:45+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-blog-is-such-an-ugly-word/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>I am disappointed by dynamic typing</title>
         <author>
@@ -602,6 +626,30 @@
       </source>
 
     <id>https://news.cryptic.io/edent-the-bbc039s-15-web-principles-15-years-later/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The night of 1000 alerts (but only on the Linux boxes)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-11-24T07:07:43+00:00</published>
+    <updated>2022-11-24T07:07:43+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/11/23/alerts/</id>
+        <link href="https://rachelbythebay.com/w/2022/11/23/alerts/"/>
+        <title>The night of 1000 alerts (but only on the Linux boxes)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-11-24T07:07:43+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/</id>
     <content type="html">
         
     </content>
@@ -1235,6 +1283,54 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Reliability stuff worth reading</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-11-18T22:54:25+00:00</published>
+    <updated>2022-11-18T22:54:25+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-reliability-stuff-worth-reading/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-reliability-stuff-worth-reading/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/11/18/mc/</id>
+        <link href="https://rachelbythebay.com/w/2022/11/18/mc/"/>
+        <title>Reliability stuff worth reading</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-11-18T22:54:25+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-reliability-stuff-worth-reading/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Missing the point completely</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-11-18T00:23:39+00:00</published>
+    <updated>2022-11-18T00:23:39+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-missing-the-point-completely/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-missing-the-point-completely/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/11/17/point/</id>
+        <link href="https://rachelbythebay.com/w/2022/11/17/point/"/>
+        <title>Missing the point completely</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-11-18T00:23:39+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-missing-the-point-completely/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>If a Tree Falls in a Forest, Does It Overflow the Stack?</title>
         <author>
             <name>Alex Kladov</name>
@@ -1278,6 +1374,30 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-bringing-tls-13-to-older-android-devices/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Nomad Network is a Promising Distributed Network with Very Few Users</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2022-11-17T09:30:00+00:00</published>
+    <updated>2022-11-17T09:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-the-nomad-network-is-a-promising-distributed-network-with-very-few-users/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-nomad-network-is-a-promising-distributed-network-with-very-few-users/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/nomadnet.html</id>
+        <link href="https://cheapskatesguide.org/articles/nomadnet.html"/>
+        <title>The Nomad Network is a Promising Distributed Network with Very Few Users</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2022-11-17T09:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-the-nomad-network-is-a-promising-distributed-network-with-very-few-users/</id>
     <content type="html">
         
     </content>
@@ -1815,6 +1935,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Getting it or not getting it, and then what?</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-11-10T23:47:52+00:00</published>
+    <updated>2022-11-10T23:47:52+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-getting-it-or-not-getting-it-and-then-what/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getting-it-or-not-getting-it-and-then-what/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/11/10/quad/</id>
+        <link href="https://rachelbythebay.com/w/2022/11/10/quad/"/>
+        <title>Getting it or not getting it, and then what?</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-11-10T23:47:52+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-getting-it-or-not-getting-it-and-then-what/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Mastodon Moment</title>
         <author>
             <name>Tim Bray</name>
@@ -2225,6 +2369,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Idyllic Life</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-11-05T12:04:00+00:00</published>
+    <updated>2022-11-05T12:04:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-idyllic-life/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-idyllic-life/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/idyllic-life.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/idyllic-life.html"/>
+        <title>Idyllic Life</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-11-05T12:04:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-idyllic-life/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>A sociocultural comparison of Japanese and American high schools</title>
         <author>
             <name>fbifemboy</name>
@@ -2356,8 +2524,8 @@
     <link href="https://news.cryptic.io/mediocregopher-mastodons-biggest-problem-is-its-name/"/>
     <link rel="alternate" href="https://news.cryptic.io/mediocregopher-mastodons-biggest-problem-is-its-name/" type="text/html"/>
       <source>
-        <id>https://blog.mediocregopher.com/posts/mastodon-name</id>
-        <link href="https://blog.mediocregopher.com/posts/mastodon-name"/>
+        <id>https://mediocregopher.com/posts/mastodon-name</id>
+        <link href="https://mediocregopher.com/posts/mastodon-name"/>
         <title>Mastodon&#x27;s Biggest Problem is Its Name</title>
         <author>
             <name>mediocregopher</name>
@@ -2366,6 +2534,30 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-mastodons-biggest-problem-is-its-name/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A Brief Review of Citadel Email Server Software Running on a Raspberry Pi 3</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2022-11-04T14:30:00+00:00</published>
+    <updated>2022-11-04T14:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-a-brief-review-of-citadel-email-server-software-running-on-a-raspberry-pi-3/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-a-brief-review-of-citadel-email-server-software-running-on-a-raspberry-pi-3/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/raspberry-pi-email-server.html</id>
+        <link href="https://cheapskatesguide.org/articles/raspberry-pi-email-server.html"/>
+        <title>A Brief Review of Citadel Email Server Software Running on a Raspberry Pi 3</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2022-11-04T14:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-a-brief-review-of-citadel-email-server-software-running-on-a-raspberry-pi-3/</id>
     <content type="html">
         
     </content>
@@ -3455,6 +3647,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The Age of Anonymous Email is Nearly Over</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2022-10-22T09:32:00+00:00</published>
+    <updated>2022-10-22T09:32:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-the-age-of-anonymous-email-is-nearly-over/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-age-of-anonymous-email-is-nearly-over/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/anonymous-email.html</id>
+        <link href="https://cheapskatesguide.org/articles/anonymous-email.html"/>
+        <title>The Age of Anonymous Email is Nearly Over</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2022-10-22T09:32:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-the-age-of-anonymous-email-is-nearly-over/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>More notes on deriving Applicative from Monad</title>
         <author>
             <name>Mark Dominus</name>
@@ -3500,6 +3716,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-palladium-podcast-82-jesse-velayvitow-on-the-geopolitics-of-climate-change/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Joy of Silly Useless Software</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-10-21T20:34:44+00:00</published>
+    <updated>2022-10-21T20:34:44+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-the-joy-of-silly-useless-software/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-the-joy-of-silly-useless-software/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/the-joy-of-silly-useless-software</id>
+        <link href="http://www.nathalielawhead.com/candybox/the-joy-of-silly-useless-software"/>
+        <title>The Joy of Silly Useless Software</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-10-21T20:34:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-the-joy-of-silly-useless-software/</id>
     <content type="html">
         
     </content>
@@ -4284,8 +4524,8 @@
     <link href="https://news.cryptic.io/mediocregopher-why-fight-the-oaks/"/>
     <link rel="alternate" href="https://news.cryptic.io/mediocregopher-why-fight-the-oaks/" type="text/html"/>
       <source>
-        <id>https://blog.mediocregopher.com/posts/oaks</id>
-        <link href="https://blog.mediocregopher.com/posts/oaks"/>
+        <id>https://mediocregopher.com/posts/oaks</id>
+        <link href="https://mediocregopher.com/posts/oaks"/>
         <title>Why Fight The Oaks?</title>
         <author>
             <name>mediocregopher</name>
@@ -4342,6 +4582,30 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-what-a-wedding-taught-me-about-software-engineering/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Reconsidering My Response to the Corporate Capture of Our Email System</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2022-10-12T10:40:00+00:00</published>
+    <updated>2022-10-12T10:40:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-reconsidering-my-response-to-the-corporate-capture-of-our-email-system/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-reconsidering-my-response-to-the-corporate-capture-of-our-email-system/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/email-corporate-capture.html</id>
+        <link href="https://cheapskatesguide.org/articles/email-corporate-capture.html"/>
+        <title>Reconsidering My Response to the Corporate Capture of Our Email System</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2022-10-12T10:40:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-reconsidering-my-response-to-the-corporate-capture-of-our-email-system/</id>
     <content type="html">
         
     </content>
@@ -4946,6 +5210,30 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-does-rust-belong-in-the-linux-kernel/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>&quot;Your browser may not be compatible with all the features on this site.&quot;</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2022-10-02T13:00:00+00:00</published>
+    <updated>2022-10-02T13:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-your-browser-may-not-be-compatible-with-all-the-features-on-this-site/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-your-browser-may-not-be-compatible-with-all-the-features-on-this-site/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/incompatible-browser.html</id>
+        <link href="https://cheapskatesguide.org/articles/incompatible-browser.html"/>
+        <title>&quot;Your browser may not be compatible with all the features on this site.&quot;</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2022-10-02T13:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-your-browser-may-not-be-compatible-with-all-the-features-on-this-site/</id>
     <content type="html">
         
     </content>
@@ -5911,6 +6199,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>MoMA’s “Never Alone: Video Games and Other Interactive Design” Exhibit &amp; The Hopeful Future of Video Game Preservation</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-09-12T23:36:13+00:00</published>
+    <updated>2022-09-12T23:36:13+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation</id>
+        <link href="http://www.nathalielawhead.com/candybox/momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation"/>
+        <title>MoMA’s “Never Alone: Video Games and Other Interactive Design” Exhibit &amp; The Hopeful Future of Video Game Preservation</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-09-12T23:36:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Futurist prediction methods and accuracy</title>
         <author>
             <name>Dan Luu</name>
@@ -6415,6 +6727,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-08-31T13:19:00+00:00</published>
+    <updated>2022-08-31T13:19:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html"/>
+        <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-08-31T13:19:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Thoughts on buying a car</title>
         <author>
             <name>herman</name>
@@ -6458,6 +6794,30 @@
       </source>
 
     <id>https://news.cryptic.io/herman-praise-for-bear/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Echo reply (an incomplete update on things)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-08-29T21:02:07+00:00</published>
+    <updated>2022-08-29T21:02:07+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/08/29/pong/</id>
+        <link href="https://rachelbythebay.com/w/2022/08/29/pong/"/>
+        <title>Echo reply (an incomplete update on things)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-08-29T21:02:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/</id>
     <content type="html">
         
     </content>
@@ -7072,8 +7432,8 @@
     <link href="https://news.cryptic.io/mediocregopher-running-rutorrent-with-nix/"/>
     <link rel="alternate" href="https://news.cryptic.io/mediocregopher-running-rutorrent-with-nix/" type="text/html"/>
       <source>
-        <id>https://blog.mediocregopher.com/posts/rutorrent-nix</id>
-        <link href="https://blog.mediocregopher.com/posts/rutorrent-nix"/>
+        <id>https://mediocregopher.com/posts/rutorrent-nix</id>
+        <link href="https://mediocregopher.com/posts/rutorrent-nix"/>
         <title>Running ruTorrent With Nix</title>
         <author>
             <name>mediocregopher</name>
@@ -7696,8 +8056,8 @@
     <link href="https://news.cryptic.io/mediocregopher-my-todo-system/"/>
     <link rel="alternate" href="https://news.cryptic.io/mediocregopher-my-todo-system/" type="text/html"/>
       <source>
-        <id>https://blog.mediocregopher.com/posts/todos</id>
-        <link href="https://blog.mediocregopher.com/posts/todos"/>
+        <id>https://mediocregopher.com/posts/todos</id>
+        <link href="https://mediocregopher.com/posts/todos"/>
         <title>My TODO System</title>
         <author>
             <name>mediocregopher</name>
@@ -8392,8 +8752,8 @@
     <link href="https://news.cryptic.io/mediocregopher-public-release-of-crypticnet/"/>
     <link rel="alternate" href="https://news.cryptic.io/mediocregopher-public-release-of-crypticnet/" type="text/html"/>
       <source>
-        <id>https://blog.mediocregopher.com/posts/public-release-of-cryptic-net</id>
-        <link href="https://blog.mediocregopher.com/posts/public-release-of-cryptic-net"/>
+        <id>https://mediocregopher.com/posts/public-release-of-cryptic-net</id>
+        <link href="https://mediocregopher.com/posts/public-release-of-cryptic-net"/>
         <title>Public Release of cryptic-net</title>
         <author>
             <name>mediocregopher</name>
@@ -8546,6 +8906,30 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-convivial-forms/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>When software makes you laugh! (…creativity as a mechanic, how it exists in games, and the ethics of either empowering or exploiting creation)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-07-01T01:47:42+00:00</published>
+    <updated>2022-07-01T01:47:42+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-when-software-makes-you-laugh-creativity-as-a-mechanic-how-it-exists-in-games-and-the-ethics-of-either-empowering-or-exploiting-creation/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-when-software-makes-you-laugh-creativity-as-a-mechanic-how-it-exists-in-games-and-the-ethics-of-either-empowering-or-exploiting-creation/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/when-software-makes-you-laugh-creativity-as-a-mechanic-how-it-exists-in-games-and-the-ethics-of-either-empowering-or-exploiting-creation</id>
+        <link href="http://www.nathalielawhead.com/candybox/when-software-makes-you-laugh-creativity-as-a-mechanic-how-it-exists-in-games-and-the-ethics-of-either-empowering-or-exploiting-creation"/>
+        <title>When software makes you laugh! (…creativity as a mechanic, how it exists in games, and the ethics of either empowering or exploiting creation)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-07-01T01:47:42+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-when-software-makes-you-laugh-creativity-as-a-mechanic-how-it-exists-in-games-and-the-ethics-of-either-empowering-or-exploiting-creation/</id>
     <content type="html">
         
     </content>
@@ -8743,6 +9127,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Q&amp;A on 1972</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-06-25T21:10:26+00:00</published>
+    <updated>2022-06-25T21:10:26+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-qa-on-1972/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-qa-on-1972/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/06/25/qa/</id>
+        <link href="https://rachelbythebay.com/w/2022/06/25/qa/"/>
+        <title>Q&amp;A on 1972</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-06-25T21:10:26+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-qa-on-1972/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>What I like about Accountants</title>
         <author>
             <name>Tim Daubenschütz</name>
@@ -8762,6 +9170,54 @@
       </source>
 
     <id>https://news.cryptic.io/tim-daubenschtz-what-i-like-about-accountants/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>1972.</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-06-24T18:05:09+00:00</published>
+    <updated>2022-06-24T18:05:09+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-1972/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-1972/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/06/24/1972/</id>
+        <link href="https://rachelbythebay.com/w/2022/06/24/1972/"/>
+        <title>1972.</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-06-24T18:05:09+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-1972/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>BlueSuburbia Progress Update (screenshots of what I’m working on)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-06-23T23:30:25+00:00</published>
+    <updated>2022-06-23T23:30:25+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-bluesuburbia-progress-update-screenshots-of-what-im-working-on/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-bluesuburbia-progress-update-screenshots-of-what-im-working-on/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/bluesuburbia-progress-update-screenshots-of-what-im-working-on</id>
+        <link href="http://www.nathalielawhead.com/candybox/bluesuburbia-progress-update-screenshots-of-what-im-working-on"/>
+        <title>BlueSuburbia Progress Update (screenshots of what I’m working on)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-06-23T23:30:25+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-bluesuburbia-progress-update-screenshots-of-what-im-working-on/</id>
     <content type="html">
         
     </content>
@@ -8858,6 +9314,54 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-vales-fearless-ffi-for-safer-dependencies-and-supplychain-attack-mitigation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>More on geo-tagging photos with a time element</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-06-20T22:39:15+00:00</published>
+    <updated>2022-06-20T22:39:15+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-more-on-geotagging-photos-with-a-time-element/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-more-on-geotagging-photos-with-a-time-element/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/06/20/exif/</id>
+        <link href="https://rachelbythebay.com/w/2022/06/20/exif/"/>
+        <title>More on geo-tagging photos with a time element</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-06-20T22:39:15+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-more-on-geotagging-photos-with-a-time-element/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Place name mappings probably need a time dimension too</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-06-20T22:38:56+00:00</published>
+    <updated>2022-06-20T22:38:56+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-place-name-mappings-probably-need-a-time-dimension-too/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-place-name-mappings-probably-need-a-time-dimension-too/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/06/15/places/</id>
+        <link href="https://rachelbythebay.com/w/2022/06/15/places/"/>
+        <title>Place name mappings probably need a time dimension too</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-06-20T22:38:56+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-place-name-mappings-probably-need-a-time-dimension-too/</id>
     <content type="html">
         
     </content>
@@ -9002,6 +9506,30 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-is-madlad-sentient-an-interview/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Free associating from &#x27;df&#x27; to RCE</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-06-17T03:17:04+00:00</published>
+    <updated>2022-06-17T03:17:04+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/06/16/rce/</id>
+        <link href="https://rachelbythebay.com/w/2022/06/16/rce/"/>
+        <title>Free associating from &#x27;df&#x27; to RCE</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-06-17T03:17:04+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-free-associating-from-df-to-rce/</id>
     <content type="html">
         
     </content>
@@ -9208,8 +9736,8 @@
     <link href="https://news.cryptic.io/mediocregopher-re-the-mindless-tyranny-of-what-if-it-changes/"/>
     <link rel="alternate" href="https://news.cryptic.io/mediocregopher-re-the-mindless-tyranny-of-what-if-it-changes/" type="text/html"/>
       <source>
-        <id>https://blog.mediocregopher.com/posts/re-what-if-it-changes</id>
-        <link href="https://blog.mediocregopher.com/posts/re-what-if-it-changes"/>
+        <id>https://mediocregopher.com/posts/re-what-if-it-changes</id>
+        <link href="https://mediocregopher.com/posts/re-what-if-it-changes"/>
         <title>Re: The Mindless Tyranny of &quot;What If It Changes?&quot;</title>
         <author>
             <name>mediocregopher</name>
@@ -9400,8 +9928,8 @@
     <link href="https://news.cryptic.io/mediocregopher-another-small-step-for-maddy/"/>
     <link rel="alternate" href="https://news.cryptic.io/mediocregopher-another-small-step-for-maddy/" type="text/html"/>
       <source>
-        <id>https://blog.mediocregopher.com/posts/another-small-step-for-maddy</id>
-        <link href="https://blog.mediocregopher.com/posts/another-small-step-for-maddy"/>
+        <id>https://mediocregopher.com/posts/another-small-step-for-maddy</id>
+        <link href="https://mediocregopher.com/posts/another-small-step-for-maddy"/>
         <title>Another Small Step For Maddy</title>
         <author>
             <name>mediocregopher</name>
@@ -9487,6 +10015,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>“Abusing you was by the book” (documenting two years of abuse from Game Journalism, after sharing my #metoo… the whole painful story all in one place)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-06-01T08:09:53+00:00</published>
+    <updated>2022-06-01T08:09:53+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-abusing-you-was-by-the-book-documenting-two-years-of-abuse-from-game-journalism-after-sharing-my-metoo-the-whole-painful-story-all-in-one-place/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-abusing-you-was-by-the-book-documenting-two-years-of-abuse-from-game-journalism-after-sharing-my-metoo-the-whole-painful-story-all-in-one-place/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/abusing-you-was-by-the-book-documenting-two-years-of-abuse-from-game-journalism-after-sharing-my-metoo-the-whole-painful-story-all-in-one-place</id>
+        <link href="http://www.nathalielawhead.com/candybox/abusing-you-was-by-the-book-documenting-two-years-of-abuse-from-game-journalism-after-sharing-my-metoo-the-whole-painful-story-all-in-one-place"/>
+        <title>“Abusing you was by the book” (documenting two years of abuse from Game Journalism, after sharing my #metoo… the whole painful story all in one place)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-06-01T08:09:53+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-abusing-you-was-by-the-book-documenting-two-years-of-abuse-from-game-journalism-after-sharing-my-metoo-the-whole-painful-story-all-in-one-place/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Folk (Browser) Interfaces</title>
         <author>
             <name>CRISTÓBAL SCIUTTO</name>
@@ -9520,8 +10072,8 @@
     <link href="https://news.cryptic.io/mediocregopher-my-ideal-operating-system/"/>
     <link rel="alternate" href="https://news.cryptic.io/mediocregopher-my-ideal-operating-system/" type="text/html"/>
       <source>
-        <id>https://blog.mediocregopher.com/posts/my-ideal-os</id>
-        <link href="https://blog.mediocregopher.com/posts/my-ideal-os"/>
+        <id>https://mediocregopher.com/posts/my-ideal-os</id>
+        <link href="https://mediocregopher.com/posts/my-ideal-os"/>
         <title>My Ideal Operating System</title>
         <author>
             <name>mediocregopher</name>
@@ -9727,6 +10279,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Computers Were Not Meant to be Screwdrivers</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-05-28T10:34:00+00:00</published>
+    <updated>2022-05-28T10:34:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/computers-and-screwdrivers.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/computers-and-screwdrivers.html"/>
+        <title>Computers Were Not Meant to be Screwdrivers</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-05-28T10:34:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Backrooms Async Lab Diorama – One Day Build</title>
         <author>
             <name>mechatronicsguy</name>
@@ -9832,8 +10408,8 @@
     <link href="https://news.cryptic.io/mediocregopher-you-just-cant-win/"/>
     <link rel="alternate" href="https://news.cryptic.io/mediocregopher-you-just-cant-win/" type="text/html"/>
       <source>
-        <id>https://blog.mediocregopher.com/posts/you-just-cant-win</id>
-        <link href="https://blog.mediocregopher.com/posts/you-just-cant-win"/>
+        <id>https://mediocregopher.com/posts/you-just-cant-win</id>
+        <link href="https://mediocregopher.com/posts/you-just-cant-win"/>
         <title>You Just Can&#x27;t Win</title>
         <author>
             <name>mediocregopher</name>
@@ -9914,30 +10490,6 @@
       </source>
 
     <id>https://news.cryptic.io/arun-prasad-weekly/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Old Blog, New Bones</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2022-05-22T03:12:54+00:00</published>
-    <updated>2022-05-22T03:12:54+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-old-blog-new-bones/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-old-blog-new-bones/" type="text/html"/>
-      <source>
-        <id>https://blog.mediocregopher.com/posts/old-blog-new-bones</id>
-        <link href="https://blog.mediocregopher.com/posts/old-blog-new-bones"/>
-        <title>Old Blog, New Bones</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2022-05-22T03:12:54+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-old-blog-new-bones/</id>
     <content type="html">
         
     </content>
@@ -10375,6 +10927,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Liminal Fever Dreams &amp; Rejecting the Player (the surrealist, strange, upsetting otherworlds of video games)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-05-13T01:34:14+00:00</published>
+    <updated>2022-05-13T01:34:14+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-liminal-fever-dreams-rejecting-the-player-the-surrealist-strange-upsetting-otherworlds-of-video-games/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-liminal-fever-dreams-rejecting-the-player-the-surrealist-strange-upsetting-otherworlds-of-video-games/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/liminalfeverdreams</id>
+        <link href="http://www.nathalielawhead.com/candybox/liminalfeverdreams"/>
+        <title>Liminal Fever Dreams &amp; Rejecting the Player (the surrealist, strange, upsetting otherworlds of video games)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-05-13T01:34:14+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-liminal-fever-dreams-rejecting-the-player-the-surrealist-strange-upsetting-otherworlds-of-video-games/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Vale 0.2 Released: Higher RAII, Concept Functions, Const Generics, FFI, Modules, Faster Compiles, set Keyword</title>
         <author>
             <name>Evan Ovadia</name>
@@ -10466,6 +11042,30 @@
       </source>
 
     <id>https://news.cryptic.io/patrick-tanguay-ceci-nest-pas-un-humble-brag/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>“Everything is going to be OK” is in THE collection in MoMA (also Tetrageddon won the Webby)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-05-10T02:24:31+00:00</published>
+    <updated>2022-05-10T02:24:31+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-everything-is-going-to-be-ok-is-in-the-collection-in-moma-also-tetrageddon-won-the-webby/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-everything-is-going-to-be-ok-is-in-the-collection-in-moma-also-tetrageddon-won-the-webby/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/everything-is-going-to-be-ok-is-in-the-collection-in-moma-also-tetrageddon-won-the-webby</id>
+        <link href="http://www.nathalielawhead.com/candybox/everything-is-going-to-be-ok-is-in-the-collection-in-moma-also-tetrageddon-won-the-webby"/>
+        <title>“Everything is going to be OK” is in THE collection in MoMA (also Tetrageddon won the Webby)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-05-10T02:24:31+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-everything-is-going-to-be-ok-is-in-the-collection-in-moma-also-tetrageddon-won-the-webby/</id>
     <content type="html">
         
     </content>
@@ -10615,6 +11215,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Photogammetry, Meshroom, and Blender (some learning resources that helped me)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-05-02T21:50:36+00:00</published>
+    <updated>2022-05-02T21:50:36+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-photogammetry-meshroom-and-blender-some-learning-resources-that-helped-me/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-photogammetry-meshroom-and-blender-some-learning-resources-that-helped-me/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/photogammetry-meshroom-and-blender-some-learning-resources-that-helped-me</id>
+        <link href="http://www.nathalielawhead.com/candybox/photogammetry-meshroom-and-blender-some-learning-resources-that-helped-me"/>
+        <title>Photogammetry, Meshroom, and Blender (some learning resources that helped me)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-05-02T21:50:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-photogammetry-meshroom-and-blender-some-learning-resources-that-helped-me/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Slightly Random Interface Thoughts</title>
         <author>
             <name>Brian Kardell</name>
@@ -10706,6 +11330,30 @@
       </source>
 
     <id>https://news.cryptic.io/linus-lee-legal-documents-are-pushing-text-interfaces-forward/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>We are not Adults Just Because We Say So</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-04-30T06:17:00+00:00</published>
+    <updated>2022-04-30T06:17:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/adults.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/adults.html"/>
+        <title>We are not Adults Just Because We Say So</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-04-30T06:17:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/</id>
     <content type="html">
         
     </content>
@@ -11047,6 +11695,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Use, participation, visibility, and anti-artificial scarcity… How small independent tools help us construct a reality that empowers us (something of a manifesto)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-04-12T00:11:59+00:00</published>
+    <updated>2022-04-12T00:11:59+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-use-participation-visibility-and-antiartificial-scarcity-how-small-independent-tools-help-us-construct-a-reality-that-empowers-us-something-of-a-manifesto/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-use-participation-visibility-and-antiartificial-scarcity-how-small-independent-tools-help-us-construct-a-reality-that-empowers-us-something-of-a-manifesto/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/use-participation-visibility-and-anti-artificial-scarcity-how-small-independent-tools-help-us-construct-a-reality-that-empowers-us-something-of-a-manifesto</id>
+        <link href="http://www.nathalielawhead.com/candybox/use-participation-visibility-and-anti-artificial-scarcity-how-small-independent-tools-help-us-construct-a-reality-that-empowers-us-something-of-a-manifesto"/>
+        <title>Use, participation, visibility, and anti-artificial scarcity… How small independent tools help us construct a reality that empowers us (something of a manifesto)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-04-12T00:11:59+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-use-participation-visibility-and-antiartificial-scarcity-how-small-independent-tools-help-us-construct-a-reality-that-empowers-us-something-of-a-manifesto/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>On proving yourself</title>
         <author>
             <name>Linus Lee</name>
@@ -11234,6 +11906,30 @@
       </source>
 
     <id>https://news.cryptic.io/jes-olson-my-website-is-one-binary/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Tetrageddon.com is officially a Webby Nominee (and Honoree)!</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-04-05T19:55:33+00:00</published>
+    <updated>2022-04-05T19:55:33+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-tetrageddoncom-is-officially-a-webby-nominee-and-honoree/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-tetrageddoncom-is-officially-a-webby-nominee-and-honoree/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/tetrageddon-com-is-officially-a-webby-nominee-an-honoree</id>
+        <link href="http://www.nathalielawhead.com/candybox/tetrageddon-com-is-officially-a-webby-nominee-an-honoree"/>
+        <title>Tetrageddon.com is officially a Webby Nominee (and Honoree)!</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-04-05T19:55:33+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-tetrageddoncom-is-officially-a-webby-nominee-and-honoree/</id>
     <content type="html">
         
     </content>
@@ -11450,6 +12146,30 @@
       </source>
 
     <id>https://news.cryptic.io/andersource-woodlike-texture-generation-and-animation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Remembering Mrs. Ford</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-03-24T05:52:00+00:00</published>
+    <updated>2022-03-24T05:52:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-remembering-mrs-ford/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-remembering-mrs-ford/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/missis-ford.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/missis-ford.html"/>
+        <title>Remembering Mrs. Ford</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-03-24T05:52:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-remembering-mrs-ford/</id>
     <content type="html">
         
     </content>
@@ -12482,6 +13202,30 @@
       </source>
 
     <id>https://news.cryptic.io/dkbdkbfyi-dkb-google-search-is-dying/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Imprisoned for Your Safety</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-02-13T11:59:00+00:00</published>
+    <updated>2022-02-13T11:59:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-imprisoned-for-your-safety/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-imprisoned-for-your-safety/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/imprisoned.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/imprisoned.html"/>
+        <title>Imprisoned for Your Safety</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-02-13T11:59:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-imprisoned-for-your-safety/</id>
     <content type="html">
         
     </content>
