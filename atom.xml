@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-11-30T19:29:25+00:00</updated>
+  <updated>2022-12-01T01:05:02+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Home temperature monitoring on the cheap</title>
+        <author>
+            <name>Tyler Cipriani</name>
+        </author>
+    <published>2022-12-01T01:05:02+00:00</published>
+    <updated>2022-12-01T01:05:02+00:00</updated>
+    <link href="https://news.cryptic.io/tyler-cipriani-home-temperature-monitoring-on-the-cheap/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tyler-cipriani-home-temperature-monitoring-on-the-cheap/" type="text/html"/>
+      <source>
+        <id>https://tylercipriani.com/blog/2022/11/30/home-temperature-monitoring-on-the-cheap/</id>
+        <link href="https://tylercipriani.com/blog/2022/11/30/home-temperature-monitoring-on-the-cheap/"/>
+        <title>Home temperature monitoring on the cheap</title>
+        <author>
+            <name>Tyler Cipriani</name>
+        </author>
+        <updated>2022-12-01T01:05:02+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tyler-cipriani-home-temperature-monitoring-on-the-cheap/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Palladium Podcast 83: Tea Törmänen and Marco Visscher on Ecomodernism
 </title>
@@ -148,6 +172,30 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-the-other-side-of-the-coin/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Spacetime Soccer</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-11-30T00:00:00+00:00</published>
+    <updated>2022-11-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-spacetime-soccer/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-spacetime-soccer/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2705/</id>
+        <link href="https://xkcd.com/2705/"/>
+        <title>Spacetime Soccer</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-11-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-spacetime-soccer/</id>
     <content type="html">
         
     </content>
@@ -1180,30 +1228,6 @@
       </source>
 
     <id>https://news.cryptic.io/ash-dont-believe-the-biological-intelligence-hype/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Change in Slope</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2022-11-21T00:00:00+00:00</published>
-    <updated>2022-11-21T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-change-in-slope/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-change-in-slope/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2701/</id>
-        <link href="https://xkcd.com/2701/"/>
-        <title>Change in Slope</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2022-11-21T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-change-in-slope/</id>
     <content type="html">
         
     </content>
@@ -6002,30 +6026,6 @@
       </source>
 
     <id>https://news.cryptic.io/jes-olson-drones-run-linux-the-free-software-movement-isnt-enough/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Staging is a trap</title>
-        <author>
-            <name>Tyler Cipriani</name>
-        </author>
-    <published>2022-09-15T21:41:02+00:00</published>
-    <updated>2022-09-15T21:41:02+00:00</updated>
-    <link href="https://news.cryptic.io/tyler-cipriani-staging-is-a-trap/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tyler-cipriani-staging-is-a-trap/" type="text/html"/>
-      <source>
-        <id>https://tylercipriani.com/blog/2022/09/15/staging-is-a-trap/</id>
-        <link href="https://tylercipriani.com/blog/2022/09/15/staging-is-a-trap/"/>
-        <title>Staging is a trap</title>
-        <author>
-            <name>Tyler Cipriani</name>
-        </author>
-        <updated>2022-09-15T21:41:02+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tyler-cipriani-staging-is-a-trap/</id>
     <content type="html">
         
     </content>
