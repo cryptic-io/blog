@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-12-01T01:05:02+00:00</updated>
+  <updated>2022-12-01T05:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>HoloISO: the unofficial Steam Deck experience on your PC</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2022-12-01T05:00:00+00:00</published>
+    <updated>2022-12-01T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-holoiso-the-unofficial-steam-deck-experience-on-your-pc/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-holoiso-the-unofficial-steam-deck-experience-on-your-pc/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2022/12/01/holoiso-steam-deck-experience/</id>
+        <link href="https://ounapuu.ee/posts/2022/12/01/holoiso-steam-deck-experience/"/>
+        <title>HoloISO: the unofficial Steam Deck experience on your PC</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2022-12-01T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-holoiso-the-unofficial-steam-deck-experience-on-your-pc/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Home temperature monitoring on the cheap</title>
         <author>
@@ -8431,30 +8455,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>btrbk is awesome</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2022-07-09T13:00:00+00:00</published>
-    <updated>2022-07-09T13:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-btrbk-is-awesome/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-btrbk-is-awesome/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2022/07/09/btrbk-is-awesome/</id>
-        <link href="https://ounapuu.ee/posts/2022/07/09/btrbk-is-awesome/"/>
-        <title>btrbk is awesome</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2022-07-09T13:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-btrbk-is-awesome/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Solving the daily calendar puzzle</title>
         <author>
             <name>Roy van Rijn</name>
@@ -10610,30 +10610,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-vale-02-released-higher-raii-concept-functions-const-generics-ffi-modules-faster-compiles-set-keyword/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-05-11T06:55:45+00:00</published>
-    <updated>2022-05-11T06:55:45+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1524282093819207680#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1524282093819207680#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-05-11T06:55:45+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
