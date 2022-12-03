@@ -175,6 +175,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Late Night Tinkering</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2022-12-01T17:53:22+00:00</published>
+    <updated>2022-12-01T17:53:22+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-late-night-tinkering/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-late-night-tinkering/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/late-night-tinkering/</id>
+        <link href="https://robinrendle.com/notes/late-night-tinkering/"/>
+        <title>Late Night Tinkering</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2022-12-01T17:53:22+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-late-night-tinkering/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Dungeons &amp; Developers</title>
         <author>
             <name>Allen Pike</name>
@@ -4462,30 +4486,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-how-to-replace-a-failed-hard-drive-in-a-geli-encrypted-zfs-root-mirror-installation-on-freebsd/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Monarch</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-10-17T23:47:00+00:00</published>
-    <updated>2022-10-17T23:47:00+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-monarch/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-monarch/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/monarch/</id>
-        <link href="https://robinrendle.com/notes/monarch/"/>
-        <title>Monarch</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-10-17T23:47:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-monarch/</id>
     <content type="html">
         
     </content>
