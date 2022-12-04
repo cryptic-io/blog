@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-12-04T12:34:45+00:00</updated>
+  <updated>2022-12-04T17:58:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Software horror show: SAP Concur</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2022-12-04T17:58:00+00:00</published>
+    <updated>2022-12-04T17:58:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-software-horror-show-sap-concur/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-software-horror-show-sap-concur/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/prog/crap-warning-signs-2.html</id>
+        <link href="https://blog.plover.com/prog/crap-warning-signs-2.html"/>
+        <title>Software horror show: SAP Concur</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2022-12-04T17:58:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-software-horror-show-sap-concur/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Some more silly Punycode domain names</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/edent-some-more-silly-punycode-domain-names/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Happy Birthday Cheapskate&#x27;s Guide</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2022-12-04T12:20:00+00:00</published>
+    <updated>2022-12-04T12:20:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-happy-birthday-cheapskates-guide/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-happy-birthday-cheapskates-guide/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/fourth-birthday.html</id>
+        <link href="https://cheapskatesguide.org/articles/fourth-birthday.html"/>
+        <title>Happy Birthday Cheapskate&#x27;s Guide</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2022-12-04T12:20:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-happy-birthday-cheapskates-guide/</id>
     <content type="html">
         
     </content>
@@ -4347,30 +4395,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>What&#x27;s this search algorithm usually called?</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2022-10-19T10:59:00+00:00</published>
-    <updated>2022-10-19T10:59:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-whats-this-search-algorithm-usually-called/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-whats-this-search-algorithm-usually-called/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/prog/interval-search.html</id>
-        <link href="https://blog.plover.com/prog/interval-search.html"/>
-        <title>What&#x27;s this search algorithm usually called?</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2022-10-19T10:59:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-whats-this-search-algorithm-usually-called/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Limited evidence for neurotoxic effects of popper usage</title>
         <author>
             <name>fbifemboy</name>
@@ -5474,30 +5498,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-does-rust-belong-in-the-linux-kernel/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>&quot;Your browser may not be compatible with all the features on this site.&quot;</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2022-10-02T13:00:00+00:00</published>
-    <updated>2022-10-02T13:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-your-browser-may-not-be-compatible-with-all-the-features-on-this-site/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-your-browser-may-not-be-compatible-with-all-the-features-on-this-site/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/incompatible-browser.html</id>
-        <link href="https://cheapskatesguide.org/articles/incompatible-browser.html"/>
-        <title>&quot;Your browser may not be compatible with all the features on this site.&quot;</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2022-10-02T13:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-your-browser-may-not-be-compatible-with-all-the-features-on-this-site/</id>
     <content type="html">
         
     </content>
