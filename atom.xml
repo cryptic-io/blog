@@ -79,6 +79,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Astronomy Numbers</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-12-05T00:00:00+00:00</published>
+    <updated>2022-12-05T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-astronomy-numbers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-astronomy-numbers/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2707/</id>
+        <link href="https://xkcd.com/2707/"/>
+        <title>Astronomy Numbers</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-12-05T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-astronomy-numbers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>What in the Ethereum application ecosystem excites me</title>
         <author>
             <name>Vitalik Buterin</name>
@@ -1372,30 +1396,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-alice-2023/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Paper Title</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2022-11-25T00:00:00+00:00</published>
-    <updated>2022-11-25T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-paper-title/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-paper-title/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2703/</id>
-        <link href="https://xkcd.com/2703/"/>
-        <title>Paper Title</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2022-11-25T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-paper-title/</id>
     <content type="html">
         
     </content>
