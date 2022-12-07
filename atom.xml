@@ -55,6 +55,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Mystery Asterisk Destination</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2022-12-07T00:00:00+00:00</published>
+    <updated>2022-12-07T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-mystery-asterisk-destination/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-mystery-asterisk-destination/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2708/</id>
+        <link href="https://xkcd.com/2708/"/>
+        <title>Mystery Asterisk Destination</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2022-12-07T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-mystery-asterisk-destination/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Automagically assimilating NixOS machines into your Tailnet with Terraform</title>
         <author>
             <name>Xe Iaso</name>
@@ -1324,30 +1348,6 @@
       </source>
 
     <id>https://news.cryptic.io/manuel-having-a-creative-practice-as-a-programmer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Faucet</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2022-11-28T00:00:00+00:00</published>
-    <updated>2022-11-28T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-faucet/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-faucet/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2704/</id>
-        <link href="https://xkcd.com/2704/"/>
-        <title>Faucet</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2022-11-28T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-faucet/</id>
     <content type="html">
         
     </content>
