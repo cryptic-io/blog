@@ -4,32 +4,8 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-12-10T12:34:18+00:00</updated>
+  <updated>2022-12-10T03:04:17+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
-  <entry xml:lang="en">
-    <title>You can&amp;#039;t screenshot or right click this image</title>
-        <author>
-            <name>@edent</name>
-        </author>
-    <published>2022-12-10T12:34:18+00:00</published>
-    <updated>2022-12-10T12:34:18+00:00</updated>
-    <link href="https://news.cryptic.io/edent-you-can039t-screenshot-or-right-click-this-image/"/>
-    <link rel="alternate" href="https://news.cryptic.io/edent-you-can039t-screenshot-or-right-click-this-image/" type="text/html"/>
-      <source>
-        <id>https://shkspr.mobi/blog/2022/12/you-cant-screenshot-or-right-click-this-image/</id>
-        <link href="https://shkspr.mobi/blog/2022/12/you-cant-screenshot-or-right-click-this-image/"/>
-        <title>You can&amp;#039;t screenshot or right click this image</title>
-        <author>
-            <name>@edent</name>
-        </author>
-        <updated>2022-12-10T12:34:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/edent-you-can039t-screenshot-or-right-click-this-image/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
   <entry xml:lang="en">
     <title>An Internet of Zines</title>
         <author>
@@ -98,30 +74,6 @@
       </source>
 
     <id>https://news.cryptic.io/rohan-deshmukh-surprising-capability-of-ai-code-generation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>&amp;quot;He&amp;#039;s more machine now than mannequin&amp;quot; - repairing Darth Vader with a Micro:bit</title>
-        <author>
-            <name>@edent</name>
-        </author>
-    <published>2022-12-09T12:34:00+00:00</published>
-    <updated>2022-12-09T12:34:00+00:00</updated>
-    <link href="https://news.cryptic.io/edent-quothe039s-more-machine-now-than-mannequinquot-repairing-darth-vader-with-a-microbit/"/>
-    <link rel="alternate" href="https://news.cryptic.io/edent-quothe039s-more-machine-now-than-mannequinquot-repairing-darth-vader-with-a-microbit/" type="text/html"/>
-      <source>
-        <id>https://shkspr.mobi/blog/2022/12/hes-more-machine-now-than-mannequin-repairing-darth-vader-with-a-microbit/</id>
-        <link href="https://shkspr.mobi/blog/2022/12/hes-more-machine-now-than-mannequin-repairing-darth-vader-with-a-microbit/"/>
-        <title>&amp;quot;He&amp;#039;s more machine now than mannequin&amp;quot; - repairing Darth Vader with a Micro:bit</title>
-        <author>
-            <name>@edent</name>
-        </author>
-        <updated>2022-12-09T12:34:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/edent-quothe039s-more-machine-now-than-mannequinquot-repairing-darth-vader-with-a-microbit/</id>
     <content type="html">
         
     </content>
@@ -225,30 +177,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Gadget Review: Tefal ActiFry Genius+ Air Fryer</title>
-        <author>
-            <name>@edent</name>
-        </author>
-    <published>2022-12-08T12:34:28+00:00</published>
-    <updated>2022-12-08T12:34:28+00:00</updated>
-    <link href="https://news.cryptic.io/edent-gadget-review-tefal-actifry-genius-air-fryer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/edent-gadget-review-tefal-actifry-genius-air-fryer/" type="text/html"/>
-      <source>
-        <id>https://shkspr.mobi/blog/2022/12/gadget-review-tefal-actifry-genius-air-fryer/</id>
-        <link href="https://shkspr.mobi/blog/2022/12/gadget-review-tefal-actifry-genius-air-fryer/"/>
-        <title>Gadget Review: Tefal ActiFry Genius+ Air Fryer</title>
-        <author>
-            <name>@edent</name>
-        </author>
-        <updated>2022-12-08T12:34:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/edent-gadget-review-tefal-actifry-genius-air-fryer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Historical analogies for large language models</title>
         <author>
             <name>dynomight</name>
@@ -273,6 +201,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>1 Million Watts of RF - how the FM Supertower works</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2022-12-07T16:32:45+00:00</published>
+    <updated>2022-12-07T16:32:45+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-1-million-watts-of-rf-how-the-fm-supertower-works/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-1-million-watts-of-rf-how-the-fm-supertower-works/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2022/1-million-watts-rf-how-fm-supertower-works</id>
+        <link href="https://www.jeffgeerling.com/blog/2022/1-million-watts-rf-how-fm-supertower-works"/>
+        <title>1 Million Watts of RF - how the FM Supertower works</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2022-12-07T16:32:45+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-1-million-watts-of-rf-how-the-fm-supertower-works/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Making ChatGPT Useful</title>
         <author>
             <name>Hillel Wayne</name>
@@ -292,30 +244,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-making-chatgpt-useful/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Everything is simple, until you&amp;#039;re an expert</title>
-        <author>
-            <name>@edent</name>
-        </author>
-    <published>2022-12-07T12:34:44+00:00</published>
-    <updated>2022-12-07T12:34:44+00:00</updated>
-    <link href="https://news.cryptic.io/edent-everything-is-simple-until-you039re-an-expert/"/>
-    <link rel="alternate" href="https://news.cryptic.io/edent-everything-is-simple-until-you039re-an-expert/" type="text/html"/>
-      <source>
-        <id>https://shkspr.mobi/blog/2022/12/everything-is-simple-until-youre-an-expert/</id>
-        <link href="https://shkspr.mobi/blog/2022/12/everything-is-simple-until-youre-an-expert/"/>
-        <title>Everything is simple, until you&amp;#039;re an expert</title>
-        <author>
-            <name>@edent</name>
-        </author>
-        <updated>2022-12-07T12:34:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/edent-everything-is-simple-until-you039re-an-expert/</id>
     <content type="html">
         
     </content>
@@ -364,30 +292,6 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-automagically-assimilating-nixos-machines-into-your-tailnet-with-terraform/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How do I revoke a FIDO &#x2F; WebAuthN token from every service?</title>
-        <author>
-            <name>@edent</name>
-        </author>
-    <published>2022-12-06T12:34:36+00:00</published>
-    <updated>2022-12-06T12:34:36+00:00</updated>
-    <link href="https://news.cryptic.io/edent-how-do-i-revoke-a-fido-webauthn-token-from-every-service/"/>
-    <link rel="alternate" href="https://news.cryptic.io/edent-how-do-i-revoke-a-fido-webauthn-token-from-every-service/" type="text/html"/>
-      <source>
-        <id>https://shkspr.mobi/blog/2022/12/how-do-i-revoke-a-fido-webauthn-token-from-every-service/</id>
-        <link href="https://shkspr.mobi/blog/2022/12/how-do-i-revoke-a-fido-webauthn-token-from-every-service/"/>
-        <title>How do I revoke a FIDO &#x2F; WebAuthN token from every service?</title>
-        <author>
-            <name>@edent</name>
-        </author>
-        <updated>2022-12-06T12:34:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/edent-how-do-i-revoke-a-fido-webauthn-token-from-every-service/</id>
     <content type="html">
         
     </content>
@@ -513,25 +417,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>OpenAI and the limits of mechanical poetry</title>
+    <title>A reader asks how to avoid working for evil</title>
         <author>
-            <name>@edent</name>
+            <name>rachelbythebay</name>
         </author>
-    <published>2022-12-05T12:34:34+00:00</published>
-    <updated>2022-12-05T12:34:34+00:00</updated>
-    <link href="https://news.cryptic.io/edent-openai-and-the-limits-of-mechanical-poetry/"/>
-    <link rel="alternate" href="https://news.cryptic.io/edent-openai-and-the-limits-of-mechanical-poetry/" type="text/html"/>
+    <published>2022-12-05T05:06:43+00:00</published>
+    <updated>2022-12-05T05:06:43+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-a-reader-asks-how-to-avoid-working-for-evil/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-reader-asks-how-to-avoid-working-for-evil/" type="text/html"/>
       <source>
-        <id>https://shkspr.mobi/blog/2022/12/openai-and-the-limits-of-mechanical-poetry/</id>
-        <link href="https://shkspr.mobi/blog/2022/12/openai-and-the-limits-of-mechanical-poetry/"/>
-        <title>OpenAI and the limits of mechanical poetry</title>
+        <id>https://rachelbythebay.com/w/2022/12/04/downfall/</id>
+        <link href="https://rachelbythebay.com/w/2022/12/04/downfall/"/>
+        <title>A reader asks how to avoid working for evil</title>
         <author>
-            <name>@edent</name>
+            <name>rachelbythebay</name>
         </author>
-        <updated>2022-12-05T12:34:34+00:00</updated>
+        <updated>2022-12-05T05:06:43+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/edent-openai-and-the-limits-of-mechanical-poetry/</id>
+    <id>https://news.cryptic.io/rachelbythebay-a-reader-asks-how-to-avoid-working-for-evil/</id>
     <content type="html">
         
     </content>
@@ -633,30 +537,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Some more silly Punycode domain names</title>
-        <author>
-            <name>@edent</name>
-        </author>
-    <published>2022-12-04T12:34:45+00:00</published>
-    <updated>2022-12-04T12:34:45+00:00</updated>
-    <link href="https://news.cryptic.io/edent-some-more-silly-punycode-domain-names/"/>
-    <link rel="alternate" href="https://news.cryptic.io/edent-some-more-silly-punycode-domain-names/" type="text/html"/>
-      <source>
-        <id>https://shkspr.mobi/blog/2022/12/some-more-silly-punycode-domain-names/</id>
-        <link href="https://shkspr.mobi/blog/2022/12/some-more-silly-punycode-domain-names/"/>
-        <title>Some more silly Punycode domain names</title>
-        <author>
-            <name>@edent</name>
-        </author>
-        <updated>2022-12-04T12:34:45+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/edent-some-more-silly-punycode-domain-names/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Happy Birthday Cheapskate&#x27;s Guide</title>
         <author>
             <name>Cheapskate</name>
@@ -681,6 +561,54 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Twenty five thousand dollars of funny money</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-12-03T23:02:05+00:00</published>
+    <updated>2022-12-03T23:02:05+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-twenty-five-thousand-dollars-of-funny-money/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-twenty-five-thousand-dollars-of-funny-money/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/12/02/25k/</id>
+        <link href="https://rachelbythebay.com/w/2022/12/02/25k/"/>
+        <title>Twenty five thousand dollars of funny money</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-12-03T23:02:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-twenty-five-thousand-dollars-of-funny-money/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Short stories from outage reports</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-12-03T22:57:11+00:00</published>
+    <updated>2022-12-03T22:57:11+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-short-stories-from-outage-reports/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-short-stories-from-outage-reports/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/12/03/flipper/</id>
+        <link href="https://rachelbythebay.com/w/2022/12/03/flipper/"/>
+        <title>Short stories from outage reports</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-12-03T22:57:11+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-short-stories-from-outage-reports/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Typographica Turns 20</title>
         <author>
             <name>Robin Rendle</name>
@@ -700,30 +628,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-typographica-turns-20/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The ethics of syndicating comments using WebMentions</title>
-        <author>
-            <name>@edent</name>
-        </author>
-    <published>2022-12-03T12:34:17+00:00</published>
-    <updated>2022-12-03T12:34:17+00:00</updated>
-    <link href="https://news.cryptic.io/edent-the-ethics-of-syndicating-comments-using-webmentions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/edent-the-ethics-of-syndicating-comments-using-webmentions/" type="text/html"/>
-      <source>
-        <id>https://shkspr.mobi/blog/2022/12/the-ethics-of-syndicating-comments-using-webmentions/</id>
-        <link href="https://shkspr.mobi/blog/2022/12/the-ethics-of-syndicating-comments-using-webmentions/"/>
-        <title>The ethics of syndicating comments using WebMentions</title>
-        <author>
-            <name>@edent</name>
-        </author>
-        <updated>2022-12-03T12:34:17+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/edent-the-ethics-of-syndicating-comments-using-webmentions/</id>
     <content type="html">
         
     </content>
@@ -796,30 +700,6 @@
       </source>
 
     <id>https://news.cryptic.io/manuel-learning-and-practicing-abstraction/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A Quick Guide to Filters on Mastodon</title>
-        <author>
-            <name>@edent</name>
-        </author>
-    <published>2022-12-02T12:34:16+00:00</published>
-    <updated>2022-12-02T12:34:16+00:00</updated>
-    <link href="https://news.cryptic.io/edent-a-quick-guide-to-filters-on-mastodon/"/>
-    <link rel="alternate" href="https://news.cryptic.io/edent-a-quick-guide-to-filters-on-mastodon/" type="text/html"/>
-      <source>
-        <id>https://shkspr.mobi/blog/2022/12/a-quick-guide-to-filters-on-mastodon/</id>
-        <link href="https://shkspr.mobi/blog/2022/12/a-quick-guide-to-filters-on-mastodon/"/>
-        <title>A Quick Guide to Filters on Mastodon</title>
-        <author>
-            <name>@edent</name>
-        </author>
-        <updated>2022-12-02T12:34:16+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/edent-a-quick-guide-to-filters-on-mastodon/</id>
     <content type="html">
         
     </content>
@@ -921,6 +801,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Crohn&#x27;s Disease takes its toll - back in 2023!</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2022-12-01T15:00:26+00:00</published>
+    <updated>2022-12-01T15:00:26+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-crohns-disease-takes-its-toll-back-in-2023/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-crohns-disease-takes-its-toll-back-in-2023/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2022/crohns-disease-takes-its-toll-back-2023</id>
+        <link href="https://www.jeffgeerling.com/blog/2022/crohns-disease-takes-its-toll-back-2023"/>
+        <title>Crohn&#x27;s Disease takes its toll - back in 2023!</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2022-12-01T15:00:26+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-crohns-disease-takes-its-toll-back-in-2023/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Dungeons &amp; Developers</title>
         <author>
             <name>Allen Pike</name>
@@ -940,30 +844,6 @@
       </source>
 
     <id>https://news.cryptic.io/allen-pike-dungeons-developers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Data Becomes Her</title>
-        <author>
-            <name>@edent</name>
-        </author>
-    <published>2022-12-01T12:34:08+00:00</published>
-    <updated>2022-12-01T12:34:08+00:00</updated>
-    <link href="https://news.cryptic.io/edent-data-becomes-her/"/>
-    <link rel="alternate" href="https://news.cryptic.io/edent-data-becomes-her/" type="text/html"/>
-      <source>
-        <id>https://shkspr.mobi/blog/2022/12/data-becomes-her/</id>
-        <link href="https://shkspr.mobi/blog/2022/12/data-becomes-her/"/>
-        <title>Data Becomes Her</title>
-        <author>
-            <name>@edent</name>
-        </author>
-        <updated>2022-12-01T12:34:08+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/edent-data-becomes-her/</id>
     <content type="html">
         
     </content>
@@ -1259,6 +1139,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Upcoming alpha release of F-Droid Client</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2022-11-30T00:00:00+00:00</published>
+    <updated>2022-11-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-upcoming-alpha-release-of-fdroid-client/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-upcoming-alpha-release-of-fdroid-client/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2022/11/30/upcoming-alpha-release-of-f-droid-client.html</id>
+        <link href="https://f-droid.org/en/2022/11/30/upcoming-alpha-release-of-f-droid-client.html"/>
+        <title>Upcoming alpha release of F-Droid Client</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2022-11-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-upcoming-alpha-release-of-fdroid-client/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>&quot;Blog&quot; is Such an Ugly Word</title>
         <author>
             <name>mediocregopher</name>
@@ -1326,6 +1230,30 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-i-am-disappointed-by-dynamic-typing/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Just Say No</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2022-11-29T16:32:40+00:00</published>
+    <updated>2022-11-29T16:32:40+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-just-say-no/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-just-say-no/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2022/just-say-no</id>
+        <link href="https://www.jeffgeerling.com/blog/2022/just-say-no"/>
+        <title>Just Say No</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2022-11-29T16:32:40+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-just-say-no/</id>
     <content type="html">
         
     </content>
@@ -1739,6 +1667,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The night of 1000 alerts (but only on the Linux boxes)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-11-24T07:07:43+00:00</published>
+    <updated>2022-11-24T07:07:43+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/11/23/alerts/</id>
+        <link href="https://rachelbythebay.com/w/2022/11/23/alerts/"/>
+        <title>The night of 1000 alerts (but only on the Linux boxes)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-11-24T07:07:43+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Underrated reasons to be thankful</title>
         <author>
             <name>dynomight</name>
@@ -1758,6 +1710,54 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-underrated-reasons-to-be-thankful/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Pi Cluster vs Ampere Altra Max 128-core ARM CPU</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2022-11-23T15:02:55+00:00</published>
+    <updated>2022-11-23T15:02:55+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-pi-cluster-vs-ampere-altra-max-128core-arm-cpu/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-pi-cluster-vs-ampere-altra-max-128core-arm-cpu/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2022/pi-cluster-vs-ampere-altra-max-128-core-arm-cpu</id>
+        <link href="https://www.jeffgeerling.com/blog/2022/pi-cluster-vs-ampere-altra-max-128-core-arm-cpu"/>
+        <title>Pi Cluster vs Ampere Altra Max 128-core ARM CPU</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2022-11-23T15:02:55+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-pi-cluster-vs-ampere-altra-max-128core-arm-cpu/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Why curation and decentralization is better than millions of apps</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2022-11-23T00:00:00+00:00</published>
+    <updated>2022-11-23T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-why-curation-and-decentralization-is-better-than-millions-of-apps/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-why-curation-and-decentralization-is-better-than-millions-of-apps/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2022/11/23/why-curation-and-decentralization-is-better-than-millions-of-apps.html</id>
+        <link href="https://f-droid.org/en/2022/11/23/why-curation-and-decentralization-is-better-than-millions-of-apps.html"/>
+        <title>Why curation and decentralization is better than millions of apps</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2022-11-23T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-why-curation-and-decentralization-is-better-than-millions-of-apps/</id>
     <content type="html">
         
     </content>
@@ -2199,6 +2199,54 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Reliability stuff worth reading</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-11-18T22:54:25+00:00</published>
+    <updated>2022-11-18T22:54:25+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-reliability-stuff-worth-reading/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-reliability-stuff-worth-reading/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/11/18/mc/</id>
+        <link href="https://rachelbythebay.com/w/2022/11/18/mc/"/>
+        <title>Reliability stuff worth reading</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-11-18T22:54:25+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-reliability-stuff-worth-reading/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Missing the point completely</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-11-18T00:23:39+00:00</published>
+    <updated>2022-11-18T00:23:39+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-missing-the-point-completely/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-missing-the-point-completely/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/11/17/point/</id>
+        <link href="https://rachelbythebay.com/w/2022/11/17/point/"/>
+        <title>Missing the point completely</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-11-18T00:23:39+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-missing-the-point-completely/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>If a Tree Falls in a Forest, Does It Overflow the Stack?</title>
         <author>
             <name>Alex Kladov</name>
@@ -2314,6 +2362,30 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-aegir/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Ubuntu&#x27;s settings won&#x27;t open after setting CPU to &#x27;performance&#x27;</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2022-11-17T02:28:54+00:00</published>
+    <updated>2022-11-17T02:28:54+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-ubuntus-settings-wont-open-after-setting-cpu-to-performance/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-ubuntus-settings-wont-open-after-setting-cpu-to-performance/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2022/ubuntus-settings-wont-open-after-setting-cpu-performance</id>
+        <link href="https://www.jeffgeerling.com/blog/2022/ubuntus-settings-wont-open-after-setting-cpu-performance"/>
+        <title>Ubuntu&#x27;s settings won&#x27;t open after setting CPU to &#x27;performance&#x27;</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2022-11-17T02:28:54+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-ubuntus-settings-wont-open-after-setting-cpu-to-performance/</id>
     <content type="html">
         
     </content>
@@ -2585,6 +2657,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Exploring a 1 MW FM Radio Tower with my Dad</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2022-11-12T20:33:57+00:00</published>
+    <updated>2022-11-12T20:33:57+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-exploring-a-1-mw-fm-radio-tower-with-my-dad/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-exploring-a-1-mw-fm-radio-tower-with-my-dad/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2022/exploring-1-mw-fm-radio-tower-my-dad</id>
+        <link href="https://www.jeffgeerling.com/blog/2022/exploring-1-mw-fm-radio-tower-my-dad"/>
+        <title>Exploring a 1 MW FM Radio Tower with my Dad</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2022-11-12T20:33:57+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-exploring-a-1-mw-fm-radio-tower-with-my-dad/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>A simpler way to memorize seed phrases</title>
         <author>
             <name>fbifemboy</name>
@@ -2750,6 +2846,30 @@
       </source>
 
     <id>https://news.cryptic.io/fbifemboy-the-doomer-case-for-the-final-death-of-crypto/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Getting it or not getting it, and then what?</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-11-10T23:47:52+00:00</published>
+    <updated>2022-11-10T23:47:52+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-getting-it-or-not-getting-it-and-then-what/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getting-it-or-not-getting-it-and-then-what/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/11/10/quad/</id>
+        <link href="https://rachelbythebay.com/w/2022/11/10/quad/"/>
+        <title>Getting it or not getting it, and then what?</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-11-10T23:47:52+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-getting-it-or-not-getting-it-and-then-what/</id>
     <content type="html">
         
     </content>
@@ -3383,6 +3503,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Testing Microsoft&#x27;s Windows Dev Kit 2023</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2022-11-03T14:00:11+00:00</published>
+    <updated>2022-11-03T14:00:11+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-testing-microsofts-windows-dev-kit-2023/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-testing-microsofts-windows-dev-kit-2023/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2022/testing-microsofts-windows-dev-kit-2023</id>
+        <link href="https://www.jeffgeerling.com/blog/2022/testing-microsofts-windows-dev-kit-2023"/>
+        <title>Testing Microsoft&#x27;s Windows Dev Kit 2023</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2022-11-03T14:00:11+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-testing-microsofts-windows-dev-kit-2023/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Embedded programming is like web development</title>
         <author>
             <name>manuel</name>
@@ -3891,6 +4035,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Why I use Jellyfin for my home media library</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2022-10-27T16:01:28+00:00</published>
+    <updated>2022-10-27T16:01:28+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-why-i-use-jellyfin-for-my-home-media-library/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-why-i-use-jellyfin-for-my-home-media-library/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2022/why-i-use-jellyfin-my-home-media-library</id>
+        <link href="https://www.jeffgeerling.com/blog/2022/why-i-use-jellyfin-my-home-media-library"/>
+        <title>Why I use Jellyfin for my home media library</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2022-10-27T16:01:28+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-why-i-use-jellyfin-for-my-home-media-library/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Notes from kernel hacking in Hare, part 3: serial driver</title>
         <author>
             <name>Drew DeVault</name>
@@ -3934,6 +4102,30 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-a-modest-proposal-for-preventing-the-heat-in-bathwater-in-britain/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Docker and systemd, getting rid of dreaded &#x27;Failed to connect to bus&#x27; error</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2022-10-26T15:54:25+00:00</published>
+    <updated>2022-10-26T15:54:25+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-docker-and-systemd-getting-rid-of-dreaded-failed-to-connect-to-bus-error/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-docker-and-systemd-getting-rid-of-dreaded-failed-to-connect-to-bus-error/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2022/docker-and-systemd-getting-rid-dreaded-failed-connect-bus-error</id>
+        <link href="https://www.jeffgeerling.com/blog/2022/docker-and-systemd-getting-rid-dreaded-failed-connect-bus-error"/>
+        <title>Docker and systemd, getting rid of dreaded &#x27;Failed to connect to bus&#x27; error</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2022-10-26T15:54:25+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-docker-and-systemd-getting-rid-of-dreaded-failed-to-connect-to-bus-error/</id>
     <content type="html">
         
     </content>
@@ -4102,6 +4294,30 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-understanding-unix-filesystem-timestamps/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Batch transcode a folder of videos with Handbrake&#x27;s CLI</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2022-10-24T14:07:36+00:00</published>
+    <updated>2022-10-24T14:07:36+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-batch-transcode-a-folder-of-videos-with-handbrakes-cli/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-batch-transcode-a-folder-of-videos-with-handbrakes-cli/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2022/batch-transcode-folder-videos-handbrakes-cli</id>
+        <link href="https://www.jeffgeerling.com/blog/2022/batch-transcode-folder-videos-handbrakes-cli"/>
+        <title>Batch transcode a folder of videos with Handbrake&#x27;s CLI</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2022-10-24T14:07:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-batch-transcode-a-folder-of-videos-with-handbrakes-cli/</id>
     <content type="html">
         
     </content>
@@ -5815,6 +6031,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Free software and inspection are key to software we can trust</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2022-09-30T00:00:00+00:00</published>
+    <updated>2022-09-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-free-software-and-inspection-are-key-to-software-we-can-trust/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-free-software-and-inspection-are-key-to-software-we-can-trust/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2022/09/30/free-software-and-inspection-are-key-to-software-we-can-trust.html</id>
+        <link href="https://f-droid.org/en/2022/09/30/free-software-and-inspection-are-key-to-software-we-can-trust.html"/>
+        <title>Free software and inspection are key to software we can trust</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2022-09-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-free-software-and-inspection-are-key-to-software-we-can-trust/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>8 cubic feet</title>
         <author>
             <name>Clayton Craft</name>
@@ -6199,6 +6439,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Slowly getting faster</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2022-09-20T00:00:00+00:00</published>
+    <updated>2022-09-20T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-slowly-getting-faster/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-slowly-getting-faster/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2022/09/20/slowly-getting-faster.html</id>
+        <link href="https://f-droid.org/en/2022/09/20/slowly-getting-faster.html"/>
+        <title>Slowly getting faster</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2022-09-20T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-slowly-getting-faster/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>DAOs are not corporations: where decentralization in autonomous organizations matters</title>
         <author>
             <name>Vitalik Buterin</name>
@@ -6434,6 +6698,30 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-poor-mans-mind-mapping-tool-with-just-the-terminal/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Hurray, the F-Droid website is now in Indonesian!</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2022-09-15T00:00:00+00:00</published>
+    <updated>2022-09-15T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-hurray-the-fdroid-website-is-now-in-indonesian/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-hurray-the-fdroid-website-is-now-in-indonesian/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2022/09/15/hurray-f-droid-website-is-now-in-indonesian.html</id>
+        <link href="https://f-droid.org/en/2022/09/15/hurray-f-droid-website-is-now-in-indonesian.html"/>
+        <title>Hurray, the F-Droid website is now in Indonesian!</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2022-09-15T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-hurray-the-fdroid-website-is-now-in-indonesian/</id>
     <content type="html">
         
     </content>
@@ -7010,6 +7298,30 @@
       </source>
 
     <id>https://news.cryptic.io/herman-praise-for-bear/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Echo reply (an incomplete update on things)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-08-29T21:02:07+00:00</published>
+    <updated>2022-08-29T21:02:07+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/08/29/pong/</id>
+        <link href="https://rachelbythebay.com/w/2022/08/29/pong/"/>
+        <title>Echo reply (an incomplete update on things)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-08-29T21:02:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/</id>
     <content type="html">
         
     </content>
@@ -8263,6 +8575,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Maven Central is not as free as it looks</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2022-07-22T00:00:00+00:00</published>
+    <updated>2022-07-22T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-maven-central-is-not-as-free-as-it-looks/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-maven-central-is-not-as-free-as-it-looks/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2022/07/22/maven-central.html</id>
+        <link href="https://f-droid.org/en/2022/07/22/maven-central.html"/>
+        <title>Maven Central is not as free as it looks</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2022-07-22T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-maven-central-is-not-as-free-as-it-looks/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The best investment</title>
         <author>
             <name>herman</name>
@@ -9103,6 +9439,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Q&amp;A on 1972</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-06-25T21:10:26+00:00</published>
+    <updated>2022-06-25T21:10:26+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-qa-on-1972/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-qa-on-1972/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/06/25/qa/</id>
+        <link href="https://rachelbythebay.com/w/2022/06/25/qa/"/>
+        <title>Q&amp;A on 1972</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-06-25T21:10:26+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-qa-on-1972/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>What I like about Accountants</title>
         <author>
             <name>Tim Daubenschütz</name>
@@ -9122,6 +9482,30 @@
       </source>
 
     <id>https://news.cryptic.io/tim-daubenschtz-what-i-like-about-accountants/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>1972.</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-06-24T18:05:09+00:00</published>
+    <updated>2022-06-24T18:05:09+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-1972/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-1972/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/06/24/1972/</id>
+        <link href="https://rachelbythebay.com/w/2022/06/24/1972/"/>
+        <title>1972.</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-06-24T18:05:09+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-1972/</id>
     <content type="html">
         
     </content>
@@ -10207,6 +10591,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Our build and release infrastructure, and upcoming updates</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2022-05-24T00:00:00+00:00</published>
+    <updated>2022-05-24T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-our-build-and-release-infrastructure-and-upcoming-updates/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-our-build-and-release-infrastructure-and-upcoming-updates/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html</id>
+        <link href="https://f-droid.org/en/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html"/>
+        <title>Our build and release infrastructure, and upcoming updates</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2022-05-24T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-our-build-and-release-infrastructure-and-upcoming-updates/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Do flat tyres make your speedo lie? (Part 2)</title>
         <author>
             <name>mechatronicsguy</name>
@@ -11090,6 +11498,30 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-const-generics-and-the-compile-time-spread-operator/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>From user to contributor and beyond</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2022-04-25T00:00:00+00:00</published>
+    <updated>2022-04-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-from-user-to-contributor-and-beyond/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-from-user-to-contributor-and-beyond/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2022/04/25/from-user-to-contributor-and-beyond.html</id>
+        <link href="https://f-droid.org/en/2022/04/25/from-user-to-contributor-and-beyond.html"/>
+        <title>From user to contributor and beyond</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2022-04-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-from-user-to-contributor-and-beyond/</id>
     <content type="html">
         
     </content>
@@ -12511,6 +12943,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>No user accounts, by design</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2022-02-28T00:00:00+00:00</published>
+    <updated>2022-02-28T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-no-user-accounts-by-design/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-no-user-accounts-by-design/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2022/02/28/no-user-accounts-by-design.html</id>
+        <link href="https://f-droid.org/en/2022/02/28/no-user-accounts-by-design.html"/>
+        <title>No user accounts, by design</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2022-02-28T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-no-user-accounts-by-design/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Never reach out twice with the same value proposition</title>
         <author>
             <name>Charlie Andrews</name>
@@ -12986,6 +13442,30 @@
       </source>
 
     <id>https://news.cryptic.io/dkbdkbfyi-dkb-how-to-read-a-book/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Decentralizing Distribution</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2022-02-05T00:00:00+00:00</published>
+    <updated>2022-02-05T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-decentralizing-distribution/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-decentralizing-distribution/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2022/02/05/decentralizing-distribution.html</id>
+        <link href="https://f-droid.org/en/2022/02/05/decentralizing-distribution.html"/>
+        <title>Decentralizing Distribution</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2022-02-05T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-decentralizing-distribution/</id>
     <content type="html">
         
     </content>
