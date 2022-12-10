@@ -397,4 +397,19 @@
     author = "Xe Iaso";
     url = "https://xeiaso.net/blog.rss";
   }
+  {
+    name = "F-Droid";
+    author = "Various";
+    url = "https://f-droid.org/feed.xml";
+  }
+  {
+    name = "Jeff Geerling";
+    author = "Jeff Geerling";
+    url = "https://www.jeffgeerling.com/blog.xml";
+  }
+  {
+    name = "McMansion Hell";
+    author = "Kate Wagner";
+    url = "https://mcmansionhell.com/rss";
+  }
 ]
