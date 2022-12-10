@@ -315,10 +315,6 @@
     url = "https://alexanderell.is/index.xml";
   }
   {
-    name = "Terence Eden's Blog";
-    url = "https://shkspr.mobi/blog/feed/atom/";
-  }
-  {
     name = "sive.rs";
     author = "Derek Sivers";
     url = "https://sive.rs/en.atom";
