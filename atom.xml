@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-12-13T14:00:00+00:00</updated>
+  <updated>2022-12-13T17:52:45+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Universal SE Topics</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2022-12-13T17:52:45+00:00</published>
+    <updated>2022-12-13T17:52:45+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-universal-se-topics/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-universal-se-topics/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/universal-se-topics/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/universal-se-topics/"/>
+        <title>Universal SE Topics</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2022-12-13T17:52:45+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-universal-se-topics/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>2022 in review.</title>
         <author>
@@ -5738,30 +5762,6 @@
       </source>
 
     <id>https://news.cryptic.io/philipp-philipp-was-annoyed/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I am a SQL Injection Attack</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2022-10-04T13:00:00+00:00</published>
-    <updated>2022-10-04T13:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-i-am-a-sql-injection-attack/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-i-am-a-sql-injection-attack/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/i-am-a-sql-injection-attack-5019/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/i-am-a-sql-injection-attack-5019/"/>
-        <title>I am a SQL Injection Attack</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2022-10-04T13:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-i-am-a-sql-injection-attack/</id>
     <content type="html">
         
     </content>
