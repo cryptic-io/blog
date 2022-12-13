@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-12-13T07:16:49+00:00</updated>
+  <updated>2022-12-13T14:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>2022 in review.</title>
+        <author>
+            <name>Will Larson</name>
+        </author>
+    <published>2022-12-13T14:00:00+00:00</published>
+    <updated>2022-12-13T14:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/will-larson-2022-in-review/"/>
+    <link rel="alternate" href="https://news.cryptic.io/will-larson-2022-in-review/" type="text/html"/>
+      <source>
+        <id>https://lethain.com/2022-in-review/</id>
+        <link href="https://lethain.com/2022-in-review/"/>
+        <title>2022 in review.</title>
+        <author>
+            <name>Will Larson</name>
+        </author>
+        <updated>2022-12-13T14:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/will-larson-2022-in-review/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>レビュー：ESSE DUE （パスタ、ケーキ）</title>
         <author>
@@ -5642,30 +5666,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-why-is-it-hard-to-learn-another-programming-language/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Fewer, happier incident heroes.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-    <published>2022-10-08T14:00:00+00:00</published>
-    <updated>2022-10-08T14:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/will-larson-fewer-happier-incident-heroes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/will-larson-fewer-happier-incident-heroes/" type="text/html"/>
-      <source>
-        <id>https://lethain.com/fewer-happier-incident-heroes/</id>
-        <link href="https://lethain.com/fewer-happier-incident-heroes/"/>
-        <title>Fewer, happier incident heroes.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-        <updated>2022-10-08T14:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/will-larson-fewer-happier-incident-heroes/</id>
     <content type="html">
         
     </content>
