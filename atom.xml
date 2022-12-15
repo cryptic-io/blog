@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-12-15T00:00:00+00:00</updated>
+  <updated>2022-12-15T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Select The Right Tool For The Job</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-12-15T19:00:00+00:00</published>
+    <updated>2022-12-15T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-select-the-right-tool-for-the-job/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-select-the-right-tool-for-the-job/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/select-the-right-tool/</id>
+        <link href="https://blog.jim-nielsen.com/2022/select-the-right-tool/"/>
+        <title>Select The Right Tool For The Job</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-12-15T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-select-the-right-tool-for-the-job/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Advice on being managed</title>
         <author>
@@ -486,6 +510,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-babys-first-iscsi-with-zfs-setup/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Transcript of Elon Musk on stage with Dave Chapelle</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2022-12-11T00:00:00+00:00</published>
+    <updated>2022-12-11T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-transcript-of-elon-musk-on-stage-with-dave-chapelle/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-transcript-of-elon-musk-on-stage-with-dave-chapelle/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/elon-dave-chappelle/</id>
+        <link href="https://danluu.com/elon-dave-chappelle/"/>
+        <title>Transcript of Elon Musk on stage with Dave Chapelle</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2022-12-11T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-transcript-of-elon-musk-on-stage-with-dave-chapelle/</id>
     <content type="html">
         
     </content>
@@ -3064,30 +3112,6 @@
       </source>
 
     <id>https://news.cryptic.io/jes-olson-io-domains-considered-harmful/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Verified Personal Website</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2022-11-13T19:00:00+00:00</published>
-    <updated>2022-11-13T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-verified-personal-website/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-verified-personal-website/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2022/verified-personal-website/</id>
-        <link href="https://blog.jim-nielsen.com/2022/verified-personal-website/"/>
-        <title>Verified Personal Website</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2022-11-13T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-verified-personal-website/</id>
     <content type="html">
         
     </content>
@@ -14526,30 +14550,6 @@
       </source>
 
     <id>https://news.cryptic.io/patrick-tanguay-thoughts-on-web3/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Some latency measurement pitfalls</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2021-12-06T00:00:00+00:00</published>
-    <updated>2021-12-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-some-latency-measurement-pitfalls/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-some-latency-measurement-pitfalls/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/latency-pitfalls/</id>
-        <link href="https://danluu.com/latency-pitfalls/"/>
-        <title>Some latency measurement pitfalls</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2021-12-06T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-some-latency-measurement-pitfalls/</id>
     <content type="html">
         
     </content>
