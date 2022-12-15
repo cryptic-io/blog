@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-12-14T01:05:00+00:00</updated>
+  <updated>2022-12-14T08:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Best affiliate programs for indie makers</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+    <published>2022-12-14T08:00:00+00:00</published>
+    <updated>2022-12-14T08:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/justin-jackson-best-affiliate-programs-for-indie-makers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-best-affiliate-programs-for-indie-makers/" type="text/html"/>
+      <source>
+        <id>https://justinjackson.ca/best-affiliate-programs</id>
+        <link href="https://justinjackson.ca/best-affiliate-programs"/>
+        <title>Best affiliate programs for indie makers</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+        <updated>2022-12-14T08:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/justin-jackson-best-affiliate-programs-for-indie-makers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Return of Stealing Club</title>
         <author>
@@ -366,30 +390,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-babys-first-iscsi-with-zfs-setup/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Transcript of Elon Musk on stage with Dave Chapelle</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2022-12-11T00:00:00+00:00</published>
-    <updated>2022-12-11T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-transcript-of-elon-musk-on-stage-with-dave-chapelle/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-transcript-of-elon-musk-on-stage-with-dave-chapelle/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/elon-dave-chappelle/</id>
-        <link href="https://danluu.com/elon-dave-chappelle/"/>
-        <title>Transcript of Elon Musk on stage with Dave Chapelle</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2022-12-11T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-transcript-of-elon-musk-on-stage-with-dave-chapelle/</id>
     <content type="html">
         
     </content>
@@ -4850,30 +4850,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-dont-kill-your-darlings/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The potential dark side of AI and GPT-3 writing tools</title>
-        <author>
-            <name>Justin Jackson</name>
-        </author>
-    <published>2022-10-21T07:00:00+00:00</published>
-    <updated>2022-10-21T07:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/justin-jackson-the-potential-dark-side-of-ai-and-gpt3-writing-tools/"/>
-    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-the-potential-dark-side-of-ai-and-gpt3-writing-tools/" type="text/html"/>
-      <source>
-        <id>https://justinjackson.ca/ai-darkside</id>
-        <link href="https://justinjackson.ca/ai-darkside"/>
-        <title>The potential dark side of AI and GPT-3 writing tools</title>
-        <author>
-            <name>Justin Jackson</name>
-        </author>
-        <updated>2022-10-21T07:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/justin-jackson-the-potential-dark-side-of-ai-and-gpt3-writing-tools/</id>
     <content type="html">
         
     </content>
@@ -10327,30 +10303,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-05-31T07:52:36+00:00</published>
-    <updated>2022-05-31T07:52:36+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1531544155989479429#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1531544155989479429#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-05-31T07:52:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Addressing the most common misconceptions about Account-bound tokens</title>
         <author>
             <name>Tim Daubenschütz</name>
@@ -14310,6 +14262,30 @@
       </source>
 
     <id>https://news.cryptic.io/patrick-tanguay-thoughts-on-web3/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Some latency measurement pitfalls</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2021-12-06T00:00:00+00:00</published>
+    <updated>2021-12-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-some-latency-measurement-pitfalls/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-some-latency-measurement-pitfalls/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/latency-pitfalls/</id>
+        <link href="https://danluu.com/latency-pitfalls/"/>
+        <title>Some latency measurement pitfalls</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2021-12-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-some-latency-measurement-pitfalls/</id>
     <content type="html">
         
     </content>
