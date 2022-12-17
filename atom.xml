@@ -4,32 +4,8 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-12-16T21:48:34+00:00</updated>
+  <updated>2022-12-16T19:35:29+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
-  <entry xml:lang="en">
-    <title>Run it XOR use it, part two</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-12-16T21:48:34+00:00</published>
-    <updated>2022-12-16T21:48:34+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-run-it-xor-use-it-part-two/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-run-it-xor-use-it-part-two/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/12/16/bird/</id>
-        <link href="https://rachelbythebay.com/w/2022/12/16/bird/"/>
-        <title>Run it XOR use it, part two</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-12-16T21:48:34+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-run-it-xor-use-it-part-two/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
   <entry xml:lang="en">
     <title>A Different Approach to Social Media</title>
         <author>
@@ -412,6 +388,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-are-farm-antibiotics-destroying-our-health/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Universal SE Topics</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2022-12-13T17:52:45+00:00</published>
+    <updated>2022-12-13T17:52:45+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-universal-se-topics/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-universal-se-topics/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/universal-se-topics/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/universal-se-topics/"/>
+        <title>Universal SE Topics</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2022-12-13T17:52:45+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-universal-se-topics/</id>
     <content type="html">
         
     </content>
@@ -949,6 +949,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Making ChatGPT Useful</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2022-12-07T16:26:55+00:00</published>
+    <updated>2022-12-07T16:26:55+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-making-chatgpt-useful/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-making-chatgpt-useful/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/making-chatgpt-useful/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/making-chatgpt-useful/"/>
+        <title>Making ChatGPT Useful</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2022-12-07T16:26:55+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-making-chatgpt-useful/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Automagically assimilating NixOS machines into your Tailnet with Terraform</title>
         <author>
             <name>Xe Iaso</name>
@@ -1093,30 +1117,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A reader asks how to avoid working for evil</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-12-05T05:06:43+00:00</published>
-    <updated>2022-12-05T05:06:43+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-a-reader-asks-how-to-avoid-working-for-evil/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-reader-asks-how-to-avoid-working-for-evil/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/12/04/downfall/</id>
-        <link href="https://rachelbythebay.com/w/2022/12/04/downfall/"/>
-        <title>A reader asks how to avoid working for evil</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-12-05T05:06:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-a-reader-asks-how-to-avoid-working-for-evil/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Addenda to recent articles 202211</title>
         <author>
             <name>Mark Dominus</name>
@@ -1208,54 +1208,6 @@
       </source>
 
     <id>https://news.cryptic.io/cheapskate-happy-birthday-cheapskates-guide/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Twenty five thousand dollars of funny money</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-12-03T23:02:05+00:00</published>
-    <updated>2022-12-03T23:02:05+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-twenty-five-thousand-dollars-of-funny-money/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-twenty-five-thousand-dollars-of-funny-money/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/12/02/25k/</id>
-        <link href="https://rachelbythebay.com/w/2022/12/02/25k/"/>
-        <title>Twenty five thousand dollars of funny money</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-12-03T23:02:05+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-twenty-five-thousand-dollars-of-funny-money/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Short stories from outage reports</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-12-03T22:57:11+00:00</published>
-    <updated>2022-12-03T22:57:11+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-short-stories-from-outage-reports/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-short-stories-from-outage-reports/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/12/03/flipper/</id>
-        <link href="https://rachelbythebay.com/w/2022/12/03/flipper/"/>
-        <title>Short stories from outage reports</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-12-03T22:57:11+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-short-stories-from-outage-reports/</id>
     <content type="html">
         
     </content>
@@ -1863,6 +1815,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>I am disappointed by dynamic typing</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2022-11-29T17:23:57+00:00</published>
+    <updated>2022-11-29T17:23:57+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-i-am-disappointed-by-dynamic-typing/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-i-am-disappointed-by-dynamic-typing/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/"/>
+        <title>I am disappointed by dynamic typing</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2022-11-29T17:23:57+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-i-am-disappointed-by-dynamic-typing/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Just Say No</title>
         <author>
             <name>Jeff Geerling</name>
@@ -2242,30 +2218,6 @@
       </source>
 
     <id>https://news.cryptic.io/justin-jackson-avoid-fame/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The night of 1000 alerts (but only on the Linux boxes)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-11-24T07:07:43+00:00</published>
-    <updated>2022-11-24T07:07:43+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/11/23/alerts/</id>
-        <link href="https://rachelbythebay.com/w/2022/11/23/alerts/"/>
-        <title>The night of 1000 alerts (but only on the Linux boxes)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-11-24T07:07:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/</id>
     <content type="html">
         
     </content>
@@ -2779,54 +2731,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Reliability stuff worth reading</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-11-18T22:54:25+00:00</published>
-    <updated>2022-11-18T22:54:25+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-reliability-stuff-worth-reading/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-reliability-stuff-worth-reading/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/11/18/mc/</id>
-        <link href="https://rachelbythebay.com/w/2022/11/18/mc/"/>
-        <title>Reliability stuff worth reading</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-11-18T22:54:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-reliability-stuff-worth-reading/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Missing the point completely</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-11-18T00:23:39+00:00</published>
-    <updated>2022-11-18T00:23:39+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-missing-the-point-completely/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-missing-the-point-completely/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/11/17/point/</id>
-        <link href="https://rachelbythebay.com/w/2022/11/17/point/"/>
-        <title>Missing the point completely</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-11-18T00:23:39+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-missing-the-point-completely/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>If a Tree Falls in a Forest, Does It Overflow the Stack?</title>
         <author>
             <name>Alex Kladov</name>
@@ -2971,6 +2875,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Let&#x27;s Prove Leftpad; Content Aggregation</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2022-11-16T21:28:11+00:00</published>
+    <updated>2022-11-16T21:28:11+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-lets-prove-leftpad-content-aggregation/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-lets-prove-leftpad-content-aggregation/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/lets-prove-leftpad-content-aggregation/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/lets-prove-leftpad-content-aggregation/"/>
+        <title>Let&#x27;s Prove Leftpad; Content Aggregation</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2022-11-16T21:28:11+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-lets-prove-leftpad-content-aggregation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Remix and the Alternate Timeline of Web Development</title>
         <author>
             <name>Jim Nielsen</name>
@@ -3088,6 +3016,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-obscure-things-power-the-imagination/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Why do we call it &quot;boilerplate code?&quot;</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2022-11-14T14:30:41+00:00</published>
+    <updated>2022-11-14T14:30:41+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-why-do-we-call-it-boilerplate-code/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-why-do-we-call-it-boilerplate-code/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/"/>
+        <title>Why do we call it &quot;boilerplate code?&quot;</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2022-11-14T14:30:41+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-why-do-we-call-it-boilerplate-code/</id>
     <content type="html">
         
     </content>
@@ -3354,30 +3306,6 @@
       </source>
 
     <id>https://news.cryptic.io/fbifemboy-the-doomer-case-for-the-final-death-of-crypto/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Getting it or not getting it, and then what?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-11-10T23:47:52+00:00</published>
-    <updated>2022-11-10T23:47:52+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-getting-it-or-not-getting-it-and-then-what/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getting-it-or-not-getting-it-and-then-what/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/11/10/quad/</id>
-        <link href="https://rachelbythebay.com/w/2022/11/10/quad/"/>
-        <title>Getting it or not getting it, and then what?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-11-10T23:47:52+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-getting-it-or-not-getting-it-and-then-what/</id>
     <content type="html">
         
     </content>
@@ -4011,6 +3939,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Notes on Every Strangeloop 2022 Talk I Attended</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2022-11-02T15:15:05+00:00</published>
+    <updated>2022-11-02T15:15:05+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-notes-on-every-strangeloop-2022-talk-i-attended/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-notes-on-every-strangeloop-2022-talk-i-attended/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/notes-on-every-strangeloop-2022-talk-i-attended-8693/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/notes-on-every-strangeloop-2022-talk-i-attended-8693/"/>
+        <title>Notes on Every Strangeloop 2022 Talk I Attended</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2022-11-02T15:15:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-notes-on-every-strangeloop-2022-talk-i-attended/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Practice being a beginner</title>
         <author>
             <name>Alex Ellis</name>
@@ -4054,6 +4006,30 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-is-criticizing-tech-on-political-grounds-valid/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Software Moves</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2022-11-01T17:02:11+00:00</published>
+    <updated>2022-11-01T17:02:11+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-software-moves/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-software-moves/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/software-moves-6713/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/software-moves-6713/"/>
+        <title>Software Moves</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2022-11-01T17:02:11+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-software-moves/</id>
     <content type="html">
         
     </content>
@@ -4615,6 +4591,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Software Isomorphisms</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2022-10-25T16:37:33+00:00</published>
+    <updated>2022-10-25T16:37:33+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-software-isomorphisms/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-software-isomorphisms/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/software-isomorphisms/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/software-isomorphisms/"/>
+        <title>Software Isomorphisms</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2022-10-25T16:37:33+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-software-isomorphisms/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Building software to last forever</title>
         <author>
             <name>herman</name>
@@ -5167,6 +5167,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Teaching Accidental and Essential Complexity</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2022-10-18T14:00:00+00:00</published>
+    <updated>2022-10-18T14:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-teaching-accidental-and-essential-complexity/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-teaching-accidental-and-essential-complexity/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/teaching-accidental-and-essential-complexity/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/teaching-accidental-and-essential-complexity/"/>
+        <title>Teaching Accidental and Essential Complexity</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2022-10-18T14:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-teaching-accidental-and-essential-complexity/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>TOTP for 2FA is incredibly easy to implement. So what&#x27;s your excuse?</title>
         <author>
             <name>Drew DeVault</name>
@@ -5522,6 +5546,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-why-i-dont-comment-on-the-internet/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>What a Wedding Taught Me About Software Engineering</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2022-10-12T20:04:02+00:00</published>
+    <updated>2022-10-12T20:04:02+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-what-a-wedding-taught-me-about-software-engineering/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-what-a-wedding-taught-me-about-software-engineering/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/what-a-wedding-taught-me-about-software/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/what-a-wedding-taught-me-about-software/"/>
+        <title>What a Wedding Taught Me About Software Engineering</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2022-10-12T20:04:02+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-what-a-wedding-taught-me-about-software-engineering/</id>
     <content type="html">
         
     </content>
@@ -6799,6 +6847,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>There is nothing that she hates more than wasting her time</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+    <published>2022-09-15T00:00:00+00:00</published>
+    <updated>2022-09-15T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/nutcroft-there-is-nothing-that-she-hates-more-than-wasting-her-time/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nutcroft-there-is-nothing-that-she-hates-more-than-wasting-her-time/" type="text/html"/>
+      <source>
+        <id>https://nutcroft.mataroa.blog/blog/there-is-nothing-that-she-hates-more-than-wasting-her-time/</id>
+        <link href="https://nutcroft.mataroa.blog/blog/there-is-nothing-that-she-hates-more-than-wasting-her-time/"/>
+        <title>There is nothing that she hates more than wasting her time</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+        <updated>2022-09-15T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nutcroft-there-is-nothing-that-she-hates-more-than-wasting-her-time/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Poor mans mind mapping tool with just the terminal</title>
         <author>
             <name>unixsheikh</name>
@@ -7207,6 +7279,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Film: Everything Everywhere All at Once</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+    <published>2022-09-03T00:00:00+00:00</published>
+    <updated>2022-09-03T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/nutcroft-film-everything-everywhere-all-at-once/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nutcroft-film-everything-everywhere-all-at-once/" type="text/html"/>
+      <source>
+        <id>https://nutcroft.mataroa.blog/blog/film-everything-everywhere-all-at-once/</id>
+        <link href="https://nutcroft.mataroa.blog/blog/film-everything-everywhere-all-at-once/"/>
+        <title>Film: Everything Everywhere All at Once</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+        <updated>2022-09-03T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nutcroft-film-everything-everywhere-all-at-once/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The simplest way to get started with Stable Diffusion on Ubuntu</title>
         <author>
             <name>mendhak</name>
@@ -7346,30 +7442,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-praise-for-bear/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Echo reply (an incomplete update on things)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-08-29T21:02:07+00:00</published>
-    <updated>2022-08-29T21:02:07+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/08/29/pong/</id>
-        <link href="https://rachelbythebay.com/w/2022/08/29/pong/"/>
-        <title>Echo reply (an incomplete update on things)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-08-29T21:02:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-echo-reply-an-incomplete-update-on-things/</id>
     <content type="html">
         
     </content>
@@ -7730,6 +7802,30 @@
       </source>
 
     <id>https://news.cryptic.io/alex-ellis-what-happens-if-you-point-two-cnames-at-each-other-not-much-really/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Phoebe can’t swear</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+    <published>2022-08-15T00:00:00+00:00</published>
+    <updated>2022-08-15T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/nutcroft-phoebe-cant-swear/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nutcroft-phoebe-cant-swear/" type="text/html"/>
+      <source>
+        <id>https://nutcroft.mataroa.blog/blog/phoebe-cant-swear/</id>
+        <link href="https://nutcroft.mataroa.blog/blog/phoebe-cant-swear/"/>
+        <title>Phoebe can’t swear</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+        <updated>2022-08-15T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nutcroft-phoebe-cant-swear/</id>
     <content type="html">
         
     </content>
@@ -8138,6 +8234,30 @@
       </source>
 
     <id>https://news.cryptic.io/jes-olson-the-constantly-collapsing-horizon/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>State-as-a-Service</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+    <published>2022-07-31T00:00:00+00:00</published>
+    <updated>2022-07-31T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/nutcroft-stateasaservice/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nutcroft-stateasaservice/" type="text/html"/>
+      <source>
+        <id>https://nutcroft.mataroa.blog/blog/state-as-a-service/</id>
+        <link href="https://nutcroft.mataroa.blog/blog/state-as-a-service/"/>
+        <title>State-as-a-Service</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+        <updated>2022-07-31T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nutcroft-stateasaservice/</id>
     <content type="html">
         
     </content>
@@ -9434,30 +9554,6 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-the-words-we-use-in-bitcoin/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Q&amp;A on 1972</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-06-25T21:10:26+00:00</published>
-    <updated>2022-06-25T21:10:26+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-qa-on-1972/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-qa-on-1972/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/06/25/qa/</id>
-        <link href="https://rachelbythebay.com/w/2022/06/25/qa/"/>
-        <title>Q&amp;A on 1972</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-06-25T21:10:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-qa-on-1972/</id>
     <content type="html">
         
     </content>
@@ -11071,6 +11167,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Should we celebrate acquisitions?</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+    <published>2022-05-15T00:00:00+00:00</published>
+    <updated>2022-05-15T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/nutcroft-should-we-celebrate-acquisitions/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nutcroft-should-we-celebrate-acquisitions/" type="text/html"/>
+      <source>
+        <id>https://nutcroft.mataroa.blog/blog/should-we-celebrate-acquisitions/</id>
+        <link href="https://nutcroft.mataroa.blog/blog/should-we-celebrate-acquisitions/"/>
+        <title>Should we celebrate acquisitions?</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+        <updated>2022-05-15T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nutcroft-should-we-celebrate-acquisitions/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Improving My Lab Book Using Snippets for `vim`</title>
         <author>
             <name>Bastian Rieck</name>
@@ -11330,6 +11450,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-what-game-are-you-playing/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Open source movement as societal theory</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+    <published>2022-05-03T00:00:00+00:00</published>
+    <updated>2022-05-03T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/nutcroft-open-source-movement-as-societal-theory/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nutcroft-open-source-movement-as-societal-theory/" type="text/html"/>
+      <source>
+        <id>https://nutcroft.mataroa.blog/blog/open-source-movement-as-societal-theory/</id>
+        <link href="https://nutcroft.mataroa.blog/blog/open-source-movement-as-societal-theory/"/>
+        <title>Open source movement as societal theory</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+        <updated>2022-05-03T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nutcroft-open-source-movement-as-societal-theory/</id>
     <content type="html">
         
     </content>
@@ -11839,6 +11983,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Pol.is is quintessential digital democracy</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+    <published>2022-04-11T00:00:00+00:00</published>
+    <updated>2022-04-11T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/nutcroft-polis-is-quintessential-digital-democracy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nutcroft-polis-is-quintessential-digital-democracy/" type="text/html"/>
+      <source>
+        <id>https://nutcroft.mataroa.blog/blog/polis-is-quintessential-digital-democracy/</id>
+        <link href="https://nutcroft.mataroa.blog/blog/polis-is-quintessential-digital-democracy/"/>
+        <title>Pol.is is quintessential digital democracy</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+        <updated>2022-04-11T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nutcroft-polis-is-quintessential-digital-democracy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>&quot;You Don&#x27;t Need to Trust Science Because You Can Test It.&quot; -  but Can You?</title>
         <author>
             <name>Douglas Vaghetti</name>
@@ -12050,6 +12218,30 @@
       </source>
 
     <id>https://news.cryptic.io/iliana-etaoin-tailscales-humanscale-networks-are-still-controlled-by-google-and-microsoft/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Fable on knowledge</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+    <published>2022-04-03T00:00:00+00:00</published>
+    <updated>2022-04-03T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/nutcroft-fable-on-knowledge/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nutcroft-fable-on-knowledge/" type="text/html"/>
+      <source>
+        <id>https://nutcroft.mataroa.blog/blog/fable-on-knowledge/</id>
+        <link href="https://nutcroft.mataroa.blog/blog/fable-on-knowledge/"/>
+        <title>Fable on knowledge</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+        <updated>2022-04-03T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nutcroft-fable-on-knowledge/</id>
     <content type="html">
         
     </content>
@@ -13495,6 +13687,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>In defense of user-defined web fonts</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+    <published>2022-02-01T00:00:00+00:00</published>
+    <updated>2022-02-01T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/nutcroft-in-defense-of-userdefined-web-fonts/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nutcroft-in-defense-of-userdefined-web-fonts/" type="text/html"/>
+      <source>
+        <id>https://nutcroft.mataroa.blog/blog/in-defense-of-user-defined-web-fonts/</id>
+        <link href="https://nutcroft.mataroa.blog/blog/in-defense-of-user-defined-web-fonts/"/>
+        <title>In defense of user-defined web fonts</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+        <updated>2022-02-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nutcroft-in-defense-of-userdefined-web-fonts/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How I fell in love with low-js</title>
         <author>
             <name>Andraž Bajt</name>
@@ -13514,6 +13730,30 @@
       </source>
 
     <id>https://news.cryptic.io/andra-bajt-how-i-fell-in-love-with-lowjs/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Against adult supremacy</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+    <published>2022-01-27T00:00:00+00:00</published>
+    <updated>2022-01-27T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/nutcroft-against-adult-supremacy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nutcroft-against-adult-supremacy/" type="text/html"/>
+      <source>
+        <id>https://nutcroft.mataroa.blog/blog/against-adult-supremacy/</id>
+        <link href="https://nutcroft.mataroa.blog/blog/against-adult-supremacy/"/>
+        <title>Against adult supremacy</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+        <updated>2022-01-27T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nutcroft-against-adult-supremacy/</id>
     <content type="html">
         
     </content>
