@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-12-21T22:11:15+00:00</updated>
+  <updated>2022-12-22T12:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A brief rant on converging compliance regimes.</title>
+        <author>
+            <name>Will Larson</name>
+        </author>
+    <published>2022-12-22T12:00:00+00:00</published>
+    <updated>2022-12-22T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/will-larson-a-brief-rant-on-converging-compliance-regimes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/will-larson-a-brief-rant-on-converging-compliance-regimes/" type="text/html"/>
+      <source>
+        <id>https://lethain.com/compliance-regime-convergance/</id>
+        <link href="https://lethain.com/compliance-regime-convergance/"/>
+        <title>A brief rant on converging compliance regimes.</title>
+        <author>
+            <name>Will Larson</name>
+        </author>
+        <updated>2022-12-22T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/will-larson-a-brief-rant-on-converging-compliance-regimes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Bugs that literally cost money</title>
         <author>
@@ -5110,30 +5134,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-taxonomy-is-hard/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Mailbag: What isn&#x27;t measurable? To hire as exec or not?</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-    <published>2022-10-21T14:00:00+00:00</published>
-    <updated>2022-10-21T14:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/will-larson-mailbag-what-isnt-measurable-to-hire-as-exec-or-not/"/>
-    <link rel="alternate" href="https://news.cryptic.io/will-larson-mailbag-what-isnt-measurable-to-hire-as-exec-or-not/" type="text/html"/>
-      <source>
-        <id>https://lethain.com/mailbag-not-measurable-whether-hire-exec/</id>
-        <link href="https://lethain.com/mailbag-not-measurable-whether-hire-exec/"/>
-        <title>Mailbag: What isn&#x27;t measurable? To hire as exec or not?</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-        <updated>2022-10-21T14:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/will-larson-mailbag-what-isnt-measurable-to-hire-as-exec-or-not/</id>
     <content type="html">
         
     </content>
