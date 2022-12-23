@@ -4,32 +4,8 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-12-23T01:37:50+00:00</updated>
+  <updated>2022-12-22T12:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
-  <entry xml:lang="en">
-    <title>WPA3: no go on Raspberry Pi (plus some Mac gotchas)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-12-23T01:37:50+00:00</published>
-    <updated>2022-12-23T01:37:50+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-wpa3-no-go-on-raspberry-pi-plus-some-mac-gotchas/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-wpa3-no-go-on-raspberry-pi-plus-some-mac-gotchas/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/12/22/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2022/12/22/wpa3/"/>
-        <title>WPA3: no go on Raspberry Pi (plus some Mac gotchas)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-12-23T01:37:50+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-wpa3-no-go-on-raspberry-pi-plus-some-mac-gotchas/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
   <entry xml:lang="en">
     <title>A brief rant on converging compliance regimes.</title>
         <author>
@@ -74,30 +50,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-bugs-that-literally-cost-money/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Systems design and being bitten by edge-triggering</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-12-21T22:07:54+00:00</published>
-    <updated>2022-12-21T22:07:54+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-systems-design-and-being-bitten-by-edgetriggering/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-systems-design-and-being-bitten-by-edgetriggering/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/12/21/boot/</id>
-        <link href="https://rachelbythebay.com/w/2022/12/21/boot/"/>
-        <title>Systems design and being bitten by edge-triggering</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-12-21T22:07:54+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-systems-design-and-being-bitten-by-edgetriggering/</id>
     <content type="html">
         
     </content>
@@ -556,30 +508,6 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-aguafuerte-rosarina/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Run it XOR use it, part two</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-12-16T21:48:34+00:00</published>
-    <updated>2022-12-16T21:48:34+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-run-it-xor-use-it-part-two/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-run-it-xor-use-it-part-two/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/12/16/bird/</id>
-        <link href="https://rachelbythebay.com/w/2022/12/16/bird/"/>
-        <title>Run it XOR use it, part two</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-12-16T21:48:34+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-run-it-xor-use-it-part-two/</id>
     <content type="html">
         
     </content>
@@ -1719,30 +1647,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A reader asks how to avoid working for evil</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-12-05T05:06:43+00:00</published>
-    <updated>2022-12-05T05:06:43+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-a-reader-asks-how-to-avoid-working-for-evil/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-reader-asks-how-to-avoid-working-for-evil/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/12/04/downfall/</id>
-        <link href="https://rachelbythebay.com/w/2022/12/04/downfall/"/>
-        <title>A reader asks how to avoid working for evil</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-12-05T05:06:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-a-reader-asks-how-to-avoid-working-for-evil/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Addenda to recent articles 202211</title>
         <author>
             <name>Mark Dominus</name>
@@ -1858,54 +1762,6 @@
       </source>
 
     <id>https://news.cryptic.io/cheapskate-happy-birthday-cheapskates-guide/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Twenty five thousand dollars of funny money</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-12-03T23:02:05+00:00</published>
-    <updated>2022-12-03T23:02:05+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-twenty-five-thousand-dollars-of-funny-money/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-twenty-five-thousand-dollars-of-funny-money/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/12/02/25k/</id>
-        <link href="https://rachelbythebay.com/w/2022/12/02/25k/"/>
-        <title>Twenty five thousand dollars of funny money</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-12-03T23:02:05+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-twenty-five-thousand-dollars-of-funny-money/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Short stories from outage reports</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-12-03T22:57:11+00:00</published>
-    <updated>2022-12-03T22:57:11+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-short-stories-from-outage-reports/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-short-stories-from-outage-reports/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/12/03/flipper/</id>
-        <link href="https://rachelbythebay.com/w/2022/12/03/flipper/"/>
-        <title>Short stories from outage reports</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-12-03T22:57:11+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-short-stories-from-outage-reports/</id>
     <content type="html">
         
     </content>
@@ -2897,30 +2753,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The night of 1000 alerts (but only on the Linux boxes)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-11-24T07:07:43+00:00</published>
-    <updated>2022-11-24T07:07:43+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/11/23/alerts/</id>
-        <link href="https://rachelbythebay.com/w/2022/11/23/alerts/"/>
-        <title>The night of 1000 alerts (but only on the Linux boxes)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-11-24T07:07:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Underrated reasons to be thankful</title>
         <author>
             <name>dynomight</name>
@@ -3281,6 +3113,34 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>
+      The Curse of Unreasonably Sized Networks
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+    <published>2022-11-20T02:04:01+00:00</published>
+    <updated>2022-11-20T02:04:01+00:00</updated>
+    <link href="https://news.cryptic.io/apenwarr-the-curse-of-unreasonably-sized-networks/"/>
+    <link rel="alternate" href="https://news.cryptic.io/apenwarr-the-curse-of-unreasonably-sized-networks/" type="text/html"/>
+      <source>
+        <id>https://apenwarr.ca/log/20201028</id>
+        <link href="https://apenwarr.ca/log/20201028"/>
+        <title>
+      The Curse of Unreasonably Sized Networks
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+        <updated>2022-11-20T02:04:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/apenwarr-the-curse-of-unreasonably-sized-networks/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Git Notes: git&#x27;s coolest, most unloved­ feature</title>
         <author>
             <name>Tyler Cipriani</name>
@@ -3396,54 +3256,6 @@
       </source>
 
     <id>https://news.cryptic.io/vitalik-buterin-having-a-safe-cex-proof-of-solvency-and-beyond/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Reliability stuff worth reading</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-11-18T22:54:25+00:00</published>
-    <updated>2022-11-18T22:54:25+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-reliability-stuff-worth-reading/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-reliability-stuff-worth-reading/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/11/18/mc/</id>
-        <link href="https://rachelbythebay.com/w/2022/11/18/mc/"/>
-        <title>Reliability stuff worth reading</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-11-18T22:54:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-reliability-stuff-worth-reading/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Missing the point completely</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-11-18T00:23:39+00:00</published>
-    <updated>2022-11-18T00:23:39+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-missing-the-point-completely/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-missing-the-point-completely/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/11/17/point/</id>
-        <link href="https://rachelbythebay.com/w/2022/11/17/point/"/>
-        <title>Missing the point completely</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-11-18T00:23:39+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-missing-the-point-completely/</id>
     <content type="html">
         
     </content>
@@ -3952,30 +3764,6 @@
       </source>
 
     <id>https://news.cryptic.io/fbifemboy-the-doomer-case-for-the-final-death-of-crypto/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Getting it or not getting it, and then what?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-11-10T23:47:52+00:00</published>
-    <updated>2022-11-10T23:47:52+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-getting-it-or-not-getting-it-and-then-what/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getting-it-or-not-getting-it-and-then-what/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/11/10/quad/</id>
-        <link href="https://rachelbythebay.com/w/2022/11/10/quad/"/>
-        <title>Getting it or not getting it, and then what?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-11-10T23:47:52+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-getting-it-or-not-getting-it-and-then-what/</id>
     <content type="html">
         
     </content>
@@ -14259,6 +14047,34 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>
+      The Gift of It&#x27;s Your Problem Now
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+    <published>2022-01-01T13:32:51+00:00</published>
+    <updated>2022-01-01T13:32:51+00:00</updated>
+    <link href="https://news.cryptic.io/apenwarr-the-gift-of-its-your-problem-now/"/>
+    <link rel="alternate" href="https://news.cryptic.io/apenwarr-the-gift-of-its-your-problem-now/" type="text/html"/>
+      <source>
+        <id>https://apenwarr.ca/log/20211229</id>
+        <link href="https://apenwarr.ca/log/20211229"/>
+        <title>
+      The Gift of It&#x27;s Your Problem Now
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+        <updated>2022-01-01T13:32:51+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/apenwarr-the-gift-of-its-your-problem-now/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Lacunae, DIY, and gestalts</title>
         <author>
             <name>CRISTÓBAL SCIUTTO</name>
@@ -14595,6 +14411,34 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>
+      100 years of whatever this will be
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+    <published>2021-12-02T12:38:46+00:00</published>
+    <updated>2021-12-02T12:38:46+00:00</updated>
+    <link href="https://news.cryptic.io/apenwarr-100-years-of-whatever-this-will-be/"/>
+    <link rel="alternate" href="https://news.cryptic.io/apenwarr-100-years-of-whatever-this-will-be/" type="text/html"/>
+      <source>
+        <id>https://apenwarr.ca/log/20211201</id>
+        <link href="https://apenwarr.ca/log/20211201"/>
+        <title>
+      100 years of whatever this will be
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+        <updated>2021-12-02T12:38:46+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/apenwarr-100-years-of-whatever-this-will-be/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The Ethics of Driving Speed in Travel Time Estimation</title>
         <author>
             <name>Adam Pritchard</name>
@@ -14662,6 +14506,62 @@
       </source>
 
     <id>https://news.cryptic.io/mechatronicsguy-spiral-music-visualization-using-teensy-or-python/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>
+      10 years of... whatever this has been
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+    <published>2021-11-17T22:38:25+00:00</published>
+    <updated>2021-11-17T22:38:25+00:00</updated>
+    <link href="https://news.cryptic.io/apenwarr-10-years-of-whatever-this-has-been/"/>
+    <link rel="alternate" href="https://news.cryptic.io/apenwarr-10-years-of-whatever-this-has-been/" type="text/html"/>
+      <source>
+        <id>https://apenwarr.ca/log/20211117</id>
+        <link href="https://apenwarr.ca/log/20211117"/>
+        <title>
+      10 years of... whatever this has been
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+        <updated>2021-11-17T22:38:25+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/apenwarr-10-years-of-whatever-this-has-been/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>
+      SimSWE 4: Wants, needs, and chasm-crossing
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+    <published>2021-11-17T22:38:25+00:00</published>
+    <updated>2021-11-17T22:38:25+00:00</updated>
+    <link href="https://news.cryptic.io/apenwarr-simswe-4-wants-needs-and-chasmcrossing/"/>
+    <link rel="alternate" href="https://news.cryptic.io/apenwarr-simswe-4-wants-needs-and-chasmcrossing/" type="text/html"/>
+      <source>
+        <id>https://apenwarr.ca/log/20211024</id>
+        <link href="https://apenwarr.ca/log/20211024"/>
+        <title>
+      SimSWE 4: Wants, needs, and chasm-crossing
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+        <updated>2021-11-17T22:38:25+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/apenwarr-simswe-4-wants-needs-and-chasmcrossing/</id>
     <content type="html">
         
     </content>
@@ -14806,6 +14706,34 @@
       </source>
 
     <id>https://news.cryptic.io/andra-bajt-running-amd64-docker-images-with-podman-on-apple-silicon-m1/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>
+      Thoughts you mightn&#x27;t&#x27;a thunk about remote meetings
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+    <published>2021-07-21T19:34:45+00:00</published>
+    <updated>2021-07-21T19:34:45+00:00</updated>
+    <link href="https://news.cryptic.io/apenwarr-thoughts-you-mightnta-thunk-about-remote-meetings/"/>
+    <link rel="alternate" href="https://news.cryptic.io/apenwarr-thoughts-you-mightnta-thunk-about-remote-meetings/" type="text/html"/>
+      <source>
+        <id>https://apenwarr.ca/log/20201123</id>
+        <link href="https://apenwarr.ca/log/20201123"/>
+        <title>
+      Thoughts you mightn&#x27;t&#x27;a thunk about remote meetings
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+        <updated>2021-07-21T19:34:45+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/apenwarr-thoughts-you-mightnta-thunk-about-remote-meetings/</id>
     <content type="html">
         
     </content>
@@ -15627,6 +15555,34 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>
+      Systems design explains the world: volume 1
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+    <published>2020-12-29T03:45:00+00:00</published>
+    <updated>2020-12-29T03:45:00+00:00</updated>
+    <link href="https://news.cryptic.io/apenwarr-systems-design-explains-the-world-volume-1/"/>
+    <link rel="alternate" href="https://news.cryptic.io/apenwarr-systems-design-explains-the-world-volume-1/" type="text/html"/>
+      <source>
+        <id>https://apenwarr.ca/log/20201227</id>
+        <link href="https://apenwarr.ca/log/20201227"/>
+        <title>
+      Systems design explains the world: volume 1
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+        <updated>2020-12-29T03:45:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/apenwarr-systems-design-explains-the-world-volume-1/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Roman Dodecahedrons – Part IV</title>
         <author>
             <name>mechatronicsguy</name>
@@ -15718,6 +15674,34 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-a-year-in-review-2020/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>
+      Can I work for a bad company and still be a good person?
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+    <published>2020-11-23T10:14:12+00:00</published>
+    <updated>2020-11-23T10:14:12+00:00</updated>
+    <link href="https://news.cryptic.io/apenwarr-can-i-work-for-a-bad-company-and-still-be-a-good-person/"/>
+    <link rel="alternate" href="https://news.cryptic.io/apenwarr-can-i-work-for-a-bad-company-and-still-be-a-good-person/" type="text/html"/>
+      <source>
+        <id>https://apenwarr.ca/log/20201121</id>
+        <link href="https://apenwarr.ca/log/20201121"/>
+        <title>
+      Can I work for a bad company and still be a good person?
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+        <updated>2020-11-23T10:14:12+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/apenwarr-can-i-work-for-a-bad-company-and-still-be-a-good-person/</id>
     <content type="html">
         
     </content>
