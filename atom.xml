@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-12-23T01:37:50+00:00</updated>
+  <updated>2022-12-23T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Notes from Ryan Dahl on Shop Talk Show</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2022-12-23T19:00:00+00:00</published>
+    <updated>2022-12-23T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-notes-from-ryan-dahl-on-shop-talk-show/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-notes-from-ryan-dahl-on-shop-talk-show/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2022/notes-from-ryan-dahl-on-shop-talk-show/</id>
+        <link href="https://blog.jim-nielsen.com/2022/notes-from-ryan-dahl-on-shop-talk-show/"/>
+        <title>Notes from Ryan Dahl on Shop Talk Show</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2022-12-23T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-notes-from-ryan-dahl-on-shop-talk-show/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Style Queries are Mind Boggling</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2022-12-23T03:29:24+00:00</published>
+    <updated>2022-12-23T03:29:24+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-style-queries-are-mind-boggling/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-style-queries-are-mind-boggling/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/style-queries-are-mind-boggling/</id>
+        <link href="https://robinrendle.com/notes/style-queries-are-mind-boggling/"/>
+        <title>Style Queries are Mind Boggling</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2022-12-23T03:29:24+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-style-queries-are-mind-boggling/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>WPA3: no go on Raspberry Pi (plus some Mac gotchas)</title>
         <author>
@@ -3065,30 +3113,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Moving is not failure</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-11-22T16:48:38+00:00</published>
-    <updated>2022-11-22T16:48:38+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-moving-is-not-failure/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-moving-is-not-failure/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/moving-is-not-failure/</id>
-        <link href="https://robinrendle.com/notes/moving-is-not-failure/"/>
-        <title>Moving is not failure</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-11-22T16:48:38+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-moving-is-not-failure/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Thoughts on Mastodon</title>
         <author>
             <name>Nolan Lawson</name>
@@ -3616,30 +3640,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-lets-prove-leftpad-content-aggregation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Remix and the Alternate Timeline of Web Development</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2022-11-16T19:00:00+00:00</published>
-    <updated>2022-11-16T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-remix-and-the-alternate-timeline-of-web-development/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-remix-and-the-alternate-timeline-of-web-development/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2022/remix-alternate-timeline-of-web-dev/</id>
-        <link href="https://blog.jim-nielsen.com/2022/remix-alternate-timeline-of-web-dev/"/>
-        <title>Remix and the Alternate Timeline of Web Development</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2022-11-16T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-remix-and-the-alternate-timeline-of-web-development/</id>
     <content type="html">
         
     </content>
