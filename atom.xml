@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-12-25T18:11:57+00:00</updated>
+  <updated>2022-12-26T00:01:44+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Unintentionally BREAKing a serial console</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-12-26T00:01:44+00:00</published>
+    <updated>2022-12-26T00:01:44+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-unintentionally-breaking-a-serial-console/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-unintentionally-breaking-a-serial-console/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/12/25/tty/</id>
+        <link href="https://rachelbythebay.com/w/2022/12/25/tty/"/>
+        <title>Unintentionally BREAKing a serial console</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-12-26T00:01:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-unintentionally-breaking-a-serial-console/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Self Hosting Password Manager</title>
         <author>
@@ -4076,30 +4100,6 @@
       </source>
 
     <id>https://news.cryptic.io/fbifemboy-the-doomer-case-for-the-final-death-of-crypto/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Getting it or not getting it, and then what?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-11-10T23:47:52+00:00</published>
-    <updated>2022-11-10T23:47:52+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-getting-it-or-not-getting-it-and-then-what/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getting-it-or-not-getting-it-and-then-what/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/11/10/quad/</id>
-        <link href="https://rachelbythebay.com/w/2022/11/10/quad/"/>
-        <title>Getting it or not getting it, and then what?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-11-10T23:47:52+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-getting-it-or-not-getting-it-and-then-what/</id>
     <content type="html">
         
     </content>
@@ -10826,6 +10826,30 @@
       </source>
 
     <id>https://news.cryptic.io/arun-prasad-topdown-and-bottomup-religion/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+    <published>2022-05-31T07:52:36+00:00</published>
+    <updated>2022-05-31T07:52:36+00:00</updated>
+    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
+    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
+      <source>
+        <id>https://nitter.net/GranolaShotgun/status/1531544155989479429#m</id>
+        <link href="https://nitter.net/GranolaShotgun/status/1531544155989479429#m"/>
+        <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+        <updated>2022-05-31T07:52:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
