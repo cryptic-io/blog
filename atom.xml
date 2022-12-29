@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-12-29T08:00:00+00:00</updated>
+  <updated>2022-12-29T20:21:54.209+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Knowledge&#x27;s shape and function</title>
+        <author>
+            <name>manuel</name>
+        </author>
+    <published>2022-12-29T20:21:54.209+00:00</published>
+    <updated>2022-12-29T20:21:54.209+00:00</updated>
+    <link href="https://news.cryptic.io/manuel-knowledges-shape-and-function/"/>
+    <link rel="alternate" href="https://news.cryptic.io/manuel-knowledges-shape-and-function/" type="text/html"/>
+      <source>
+        <id>https://the.scapegoat.dev/knowledges-shape-and-function/</id>
+        <link href="https://the.scapegoat.dev/knowledges-shape-and-function/"/>
+        <title>Knowledge&#x27;s shape and function</title>
+        <author>
+            <name>manuel</name>
+        </author>
+        <updated>2022-12-29T20:21:54.209+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/manuel-knowledges-shape-and-function/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Machine Learning Scientist as Toolsmith: Remembering Fred Brooks</title>
         <author>
@@ -8671,30 +8695,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Writing made me a better engineer</title>
-        <author>
-            <name>manuel</name>
-        </author>
-    <published>2022-08-04T13:56:58.969+00:00</published>
-    <updated>2022-08-04T13:56:58.969+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-writing-made-me-a-better-engineer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-writing-made-me-a-better-engineer/" type="text/html"/>
-      <source>
-        <id>https://the.scapegoat.dev/writing-made-me-a-better-engineer/</id>
-        <link href="https://the.scapegoat.dev/writing-made-me-a-better-engineer/"/>
-        <title>Writing made me a better engineer</title>
-        <author>
-            <name>manuel</name>
-        </author>
-        <updated>2022-08-04T13:56:58.969+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-writing-made-me-a-better-engineer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The different types of ZK-EVMs</title>
         <author>
             <name>Vitalik Buterin</name>
@@ -10898,30 +10898,6 @@
       </source>
 
     <id>https://news.cryptic.io/arun-prasad-topdown-and-bottomup-religion/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-05-31T07:52:36+00:00</published>
-    <updated>2022-05-31T07:52:36+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1531544155989479429#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1531544155989479429#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-05-31T07:52:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
