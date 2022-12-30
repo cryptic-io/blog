@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Surreal Holiday</title>
+        <author>
+            <name>Brian Kardell</name>
+        </author>
+    <published>2022-12-30T05:00:00+00:00</published>
+    <updated>2022-12-30T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/brian-kardell-surreal-holiday/"/>
+    <link rel="alternate" href="https://news.cryptic.io/brian-kardell-surreal-holiday/" type="text/html"/>
+      <source>
+        <id>https://bkardell.com/blog/WeirdHoliday.html</id>
+        <link href="https://bkardell.com/blog/WeirdHoliday.html"/>
+        <title>Surreal Holiday</title>
+        <author>
+            <name>Brian Kardell</name>
+        </author>
+        <updated>2022-12-30T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/brian-kardell-surreal-holiday/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Two Kinds of Stretching</title>
         <author>
             <name>Nathaniel Travis</name>
@@ -14042,30 +14066,6 @@
       </source>
 
     <id>https://news.cryptic.io/adam-pritchard-diving-into-gos-http-server-timeouts/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> What even is a web browser?</title>
-        <author>
-            <name>Brian Kardell</name>
-        </author>
-    <published>2022-01-14T05:00:00+00:00</published>
-    <updated>2022-01-14T05:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/brian-kardell-what-even-is-a-web-browser/"/>
-    <link rel="alternate" href="https://news.cryptic.io/brian-kardell-what-even-is-a-web-browser/" type="text/html"/>
-      <source>
-        <id>https://bkardell.com/blog/WhatEvenIsABrowser.html</id>
-        <link href="https://bkardell.com/blog/WhatEvenIsABrowser.html"/>
-        <title> What even is a web browser?</title>
-        <author>
-            <name>Brian Kardell</name>
-        </author>
-        <updated>2022-01-14T05:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/brian-kardell-what-even-is-a-web-browser/</id>
     <content type="html">
         
     </content>
