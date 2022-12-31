@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2022-12-30T19:18:22+00:00</updated>
+  <updated>2022-12-31T08:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>e&#x2F;acc</title>
+        <author>
+            <name>geohot</name>
+        </author>
+    <published>2022-12-31T08:00:00+00:00</published>
+    <updated>2022-12-31T08:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/geohot-eacc/"/>
+    <link rel="alternate" href="https://news.cryptic.io/geohot-eacc/" type="text/html"/>
+      <source>
+        <id>https://geohot.github.io//blog/jekyll/update/2022/12/31/eacc.html</id>
+        <link href="https://geohot.github.io//blog/jekyll/update/2022/12/31/eacc.html"/>
+        <title>e&#x2F;acc</title>
+        <author>
+            <name>geohot</name>
+        </author>
+        <updated>2022-12-31T08:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/geohot-eacc/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>How is it that people can be annoying without doing anything?</title>
         <author>
@@ -10999,6 +11023,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+    <published>2022-05-31T07:52:36+00:00</published>
+    <updated>2022-05-31T07:52:36+00:00</updated>
+    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
+    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
+      <source>
+        <id>https://nitter.net/GranolaShotgun/status/1531544155989479429#m</id>
+        <link href="https://nitter.net/GranolaShotgun/status/1531544155989479429#m"/>
+        <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+        <updated>2022-05-31T07:52:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Addressing the most common misconceptions about Account-bound tokens</title>
         <author>
             <name>Tim Daubenschütz</name>
@@ -14018,30 +14066,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-enter-wolvic/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Consumer Class Divide</title>
-        <author>
-            <name>geohot</name>
-        </author>
-    <published>2022-02-02T08:00:00+00:00</published>
-    <updated>2022-02-02T08:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/geohot-consumer-class-divide/"/>
-    <link rel="alternate" href="https://news.cryptic.io/geohot-consumer-class-divide/" type="text/html"/>
-      <source>
-        <id>https://geohot.github.io//blog/jekyll/update/2022/02/02/consumer-class-divide.html</id>
-        <link href="https://geohot.github.io//blog/jekyll/update/2022/02/02/consumer-class-divide.html"/>
-        <title>Consumer Class Divide</title>
-        <author>
-            <name>geohot</name>
-        </author>
-        <updated>2022-02-02T08:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/geohot-consumer-class-divide/</id>
     <content type="html">
         
     </content>
