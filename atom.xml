@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-01T16:25:02+00:00</updated>
+  <updated>2023-01-01T17:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Apparent Complexity Can Be Deceptive</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2023-01-01T17:00:00+00:00</published>
+    <updated>2023-01-01T17:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-apparent-complexity-can-be-deceptive/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-apparent-complexity-can-be-deceptive/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2023/apparent_complexity/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2023/apparent_complexity/"/>
+        <title>Apparent Complexity Can Be Deceptive</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2023-01-01T17:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-apparent-complexity-can-be-deceptive/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Year in Words</title>
         <author>
@@ -50,6 +74,30 @@
       </source>
 
     <id>https://news.cryptic.io/manuel-disability-privilege-tonepolicing-and-mastodon/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>An ontology of hope</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+    <published>2023-01-01T00:00:00+00:00</published>
+    <updated>2023-01-01T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/nutcroft-an-ontology-of-hope/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nutcroft-an-ontology-of-hope/" type="text/html"/>
+      <source>
+        <id>https://nutcroft.mataroa.blog/blog/an-ontology-of-hope/</id>
+        <link href="https://nutcroft.mataroa.blog/blog/an-ontology-of-hope/"/>
+        <title>An ontology of hope</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+        <updated>2023-01-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nutcroft-an-ontology-of-hope/</id>
     <content type="html">
         
     </content>
@@ -10807,6 +10855,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+    <published>2022-05-31T07:52:36+00:00</published>
+    <updated>2022-05-31T07:52:36+00:00</updated>
+    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
+    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
+      <source>
+        <id>https://nitter.net/GranolaShotgun/status/1531544155989479429#m</id>
+        <link href="https://nitter.net/GranolaShotgun/status/1531544155989479429#m"/>
+        <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+        <updated>2022-05-31T07:52:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Addressing the most common misconceptions about Account-bound tokens</title>
         <author>
             <name>Tim Daubenschütz</name>
@@ -12895,30 +12967,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Watching the Watchmen: Pitfalls in Graph Generative Model Evaluation</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-    <published>2022-03-15T16:00:00+00:00</published>
-    <updated>2022-03-15T16:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-watching-the-watchmen-pitfalls-in-graph-generative-model-evaluation/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-watching-the-watchmen-pitfalls-in-graph-generative-model-evaluation/" type="text/html"/>
-      <source>
-        <id>http://bastian.rieck.me/blog/posts/2022/watchmen/</id>
-        <link href="http://bastian.rieck.me/blog/posts/2022/watchmen/"/>
-        <title>Watching the Watchmen: Pitfalls in Graph Generative Model Evaluation</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-        <updated>2022-03-15T16:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bastian-rieck-watching-the-watchmen-pitfalls-in-graph-generative-model-evaluation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Roadtrip to Ludolph van Ceulen</title>
         <author>
             <name>Roy van Rijn</name>
@@ -13922,30 +13970,6 @@
       </source>
 
     <id>https://news.cryptic.io/andra-bajt-how-i-fell-in-love-with-lowjs/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Against adult supremacy</title>
-        <author>
-            <name>nutcroft</name>
-        </author>
-    <published>2022-01-27T00:00:00+00:00</published>
-    <updated>2022-01-27T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/nutcroft-against-adult-supremacy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nutcroft-against-adult-supremacy/" type="text/html"/>
-      <source>
-        <id>https://nutcroft.mataroa.blog/blog/against-adult-supremacy/</id>
-        <link href="https://nutcroft.mataroa.blog/blog/against-adult-supremacy/"/>
-        <title>Against adult supremacy</title>
-        <author>
-            <name>nutcroft</name>
-        </author>
-        <updated>2022-01-27T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nutcroft-against-adult-supremacy/</id>
     <content type="html">
         
     </content>
