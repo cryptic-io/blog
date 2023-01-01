@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-01T17:00:00+00:00</updated>
+  <updated>2023-01-01T21:48:05.585+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Developing for the fediverse: some personal guidelines</title>
+        <author>
+            <name>manuel</name>
+        </author>
+    <published>2023-01-01T21:48:05.585+00:00</published>
+    <updated>2023-01-01T21:48:05.585+00:00</updated>
+    <link href="https://news.cryptic.io/manuel-developing-for-the-fediverse-some-personal-guidelines/"/>
+    <link rel="alternate" href="https://news.cryptic.io/manuel-developing-for-the-fediverse-some-personal-guidelines/" type="text/html"/>
+      <source>
+        <id>https://the.scapegoat.dev/developing-for-the-fediverse-some-personal-guidelines/</id>
+        <link href="https://the.scapegoat.dev/developing-for-the-fediverse-some-personal-guidelines/"/>
+        <title>Developing for the fediverse: some personal guidelines</title>
+        <author>
+            <name>manuel</name>
+        </author>
+        <updated>2023-01-01T21:48:05.585+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/manuel-developing-for-the-fediverse-some-personal-guidelines/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Apparent Complexity Can Be Deceptive</title>
         <author>
@@ -6146,30 +6170,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-roundabouts-improve-cities-for-everyone/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Being Arrogantly Ignorant</title>
-        <author>
-            <name>manuel</name>
-        </author>
-    <published>2022-10-16T16:17:22.933+00:00</published>
-    <updated>2022-10-16T16:17:22.933+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-being-arrogantly-ignorant/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-being-arrogantly-ignorant/" type="text/html"/>
-      <source>
-        <id>https://the.scapegoat.dev/being-arrogantly-ignorant/</id>
-        <link href="https://the.scapegoat.dev/being-arrogantly-ignorant/"/>
-        <title>Being Arrogantly Ignorant</title>
-        <author>
-            <name>manuel</name>
-        </author>
-        <updated>2022-10-16T16:17:22.933+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-being-arrogantly-ignorant/</id>
     <content type="html">
         
     </content>
