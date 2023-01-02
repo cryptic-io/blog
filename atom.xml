@@ -79,6 +79,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The Care and Feeding of Feeds</title>
+        <author>
+            <name>Allen Pike</name>
+        </author>
+    <published>2023-01-01T12:42:18+00:00</published>
+    <updated>2023-01-01T12:42:18+00:00</updated>
+    <link href="https://news.cryptic.io/allen-pike-the-care-and-feeding-of-feeds/"/>
+    <link rel="alternate" href="https://news.cryptic.io/allen-pike-the-care-and-feeding-of-feeds/" type="text/html"/>
+      <source>
+        <id>https://www.allenpike.com/2023/care-feeding-feeds</id>
+        <link href="https://www.allenpike.com/2023/care-feeding-feeds"/>
+        <title>The Care and Feeding of Feeds</title>
+        <author>
+            <name>Allen Pike</name>
+        </author>
+        <updated>2023-01-01T12:42:18+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/allen-pike-the-care-and-feeding-of-feeds/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Disability, privilege, tone-policing and mastodon</title>
         <author>
             <name>manuel</name>
@@ -5426,30 +5450,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-software-moves/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>You Should Propose More Things</title>
-        <author>
-            <name>Allen Pike</name>
-        </author>
-    <published>2022-11-01T12:42:18+00:00</published>
-    <updated>2022-11-01T12:42:18+00:00</updated>
-    <link href="https://news.cryptic.io/allen-pike-you-should-propose-more-things/"/>
-    <link rel="alternate" href="https://news.cryptic.io/allen-pike-you-should-propose-more-things/" type="text/html"/>
-      <source>
-        <id>https://www.allenpike.com/2022/propose-more-things</id>
-        <link href="https://www.allenpike.com/2022/propose-more-things"/>
-        <title>You Should Propose More Things</title>
-        <author>
-            <name>Allen Pike</name>
-        </author>
-        <updated>2022-11-01T12:42:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/allen-pike-you-should-propose-more-things/</id>
     <content type="html">
         
     </content>
