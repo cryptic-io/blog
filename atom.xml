@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-03T17:00:50+00:00</updated>
+  <updated>2023-01-04T04:21:53+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Why I still have an old-school cert on my https site</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-04T04:21:53+00:00</published>
+    <updated>2023-01-04T04:21:53+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/03/ssl/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/03/ssl/"/>
+        <title>Why I still have an old-school cert on my https site</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-04T04:21:53+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>On Random Numbers</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2023-01-04T00:00:00+00:00</published>
+    <updated>2023-01-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-on-random-numbers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-on-random-numbers/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2023/01/04/on-random-numbers.html</id>
+        <link href="https://matklad.github.io/2023/01/04/on-random-numbers.html"/>
+        <title>On Random Numbers</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2023-01-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-on-random-numbers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Shift Happens</title>
         <author>
@@ -4482,30 +4530,6 @@
       </source>
 
     <id>https://news.cryptic.io/vitalik-buterin-having-a-safe-cex-proof-of-solvency-and-beyond/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Reliability stuff worth reading</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-11-18T22:54:25+00:00</published>
-    <updated>2022-11-18T22:54:25+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-reliability-stuff-worth-reading/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-reliability-stuff-worth-reading/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/11/18/mc/</id>
-        <link href="https://rachelbythebay.com/w/2022/11/18/mc/"/>
-        <title>Reliability stuff worth reading</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-11-18T22:54:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-reliability-stuff-worth-reading/</id>
     <content type="html">
         
     </content>
@@ -10082,30 +10106,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-public-release-of-crypticnet/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Unit and Integration Tests</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2022-07-04T00:00:00+00:00</published>
-    <updated>2022-07-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-unit-and-integration-tests/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-unit-and-integration-tests/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2022/07/04/unit-and-integration-tests.html</id>
-        <link href="https://matklad.github.io/2022/07/04/unit-and-integration-tests.html"/>
-        <title>Unit and Integration Tests</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2022-07-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-unit-and-integration-tests/</id>
     <content type="html">
         
     </content>
