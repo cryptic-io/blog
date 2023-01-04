@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-04T00:00:00+00:00</updated>
+  <updated>2023-01-04T04:21:53+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Why I still have an old-school cert on my https site</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-04T04:21:53+00:00</published>
+    <updated>2023-01-04T04:21:53+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/03/ssl/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/03/ssl/"/>
+        <title>Why I still have an old-school cert on my https site</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-04T04:21:53+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>On Random Numbers</title>
         <author>
@@ -55,6 +79,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Finding &quot;The Internet&quot; Toxic and Depressing?  Consider Leaving Your Walled Garden.</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-01-03T12:31:00+00:00</published>
+    <updated>2023-01-03T12:31:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-finding-the-internet-toxic-and-depressing-consider-leaving-your-walled-garden/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-finding-the-internet-toxic-and-depressing-consider-leaving-your-walled-garden/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/toxic-gardens.html</id>
+        <link href="https://cheapskatesguide.org/articles/toxic-gardens.html"/>
+        <title>Finding &quot;The Internet&quot; Toxic and Depressing?  Consider Leaving Your Walled Garden.</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-01-03T12:31:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-finding-the-internet-toxic-and-depressing-consider-leaving-your-walled-garden/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Developing for the fediverse: individuals&#x27; fundamental rights</title>
         <author>
             <name>manuel</name>
@@ -74,6 +122,30 @@
       </source>
 
     <id>https://news.cryptic.io/manuel-developing-for-the-fediverse-individuals-fundamental-rights/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Not quite a successful prediction about tracking Apple stuff</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-03T01:11:43+00:00</published>
+    <updated>2023-01-03T01:11:43+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-not-quite-a-successful-prediction-about-tracking-apple-stuff/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-not-quite-a-successful-prediction-about-tracking-apple-stuff/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/02/tag/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/02/tag/"/>
+        <title>Not quite a successful prediction about tracking Apple stuff</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-03T01:11:43+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-not-quite-a-successful-prediction-about-tracking-apple-stuff/</id>
     <content type="html">
         
     </content>
@@ -679,30 +751,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Part of the wrong 1% — Ostomy surgery, part 2</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2022-12-30T15:27:25+00:00</published>
-    <updated>2022-12-30T15:27:25+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-part-of-the-wrong-1-ostomy-surgery-part-2/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-part-of-the-wrong-1-ostomy-surgery-part-2/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2022/part-of-the-wrong-1-perecent-ostomy-surgery-part-2</id>
-        <link href="https://www.jeffgeerling.com/blog/2022/part-of-the-wrong-1-perecent-ostomy-surgery-part-2"/>
-        <title>Part of the wrong 1% — Ostomy surgery, part 2</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2022-12-30T15:27:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-part-of-the-wrong-1-ostomy-surgery-part-2/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Surreal Holiday</title>
         <author>
             <name>Brian Kardell</name>
@@ -1017,6 +1065,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>WPA3: no go on Raspberry Pi (plus some Mac gotchas)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-12-27T22:03:26+00:00</published>
+    <updated>2022-12-27T22:03:26+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-wpa3-no-go-on-raspberry-pi-plus-some-mac-gotchas/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-wpa3-no-go-on-raspberry-pi-plus-some-mac-gotchas/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/12/22/wpa3/</id>
+        <link href="https://rachelbythebay.com/w/2022/12/22/wpa3/"/>
+        <title>WPA3: no go on Raspberry Pi (plus some Mac gotchas)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-12-27T22:03:26+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-wpa3-no-go-on-raspberry-pi-plus-some-mac-gotchas/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Prototyping and Practicing</title>
         <author>
             <name>Jim Nielsen</name>
@@ -1108,6 +1180,30 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-media-i-experienced-in-2022/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Unintentionally BREAKing a serial console</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-12-26T00:01:44+00:00</published>
+    <updated>2022-12-26T00:01:44+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-unintentionally-breaking-a-serial-console/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-unintentionally-breaking-a-serial-console/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/12/25/tty/</id>
+        <link href="https://rachelbythebay.com/w/2022/12/25/tty/"/>
+        <title>Unintentionally BREAKing a serial console</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-12-26T00:01:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-unintentionally-breaking-a-serial-console/</id>
     <content type="html">
         
     </content>
@@ -1377,6 +1473,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Systems design and being bitten by edge-triggering</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-12-21T22:07:54+00:00</published>
+    <updated>2022-12-21T22:07:54+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-systems-design-and-being-bitten-by-edgetriggering/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-systems-design-and-being-bitten-by-edgetriggering/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/12/21/boot/</id>
+        <link href="https://rachelbythebay.com/w/2022/12/21/boot/"/>
+        <title>Systems design and being bitten by edge-triggering</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-12-21T22:07:54+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-systems-design-and-being-bitten-by-edgetriggering/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Challenging algorithms and data structures every programmer should try</title>
         <author>
             <name>Austin Z. Henley</name>
@@ -1473,6 +1593,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The Gemini Network is Great, but It is Still Something of a Tech Geek Playground</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2022-12-20T10:24:00+00:00</published>
+    <updated>2022-12-20T10:24:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-the-gemini-network-is-great-but-it-is-still-something-of-a-tech-geek-playground/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-gemini-network-is-great-but-it-is-still-something-of-a-tech-geek-playground/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/gemini-geek-playground.html</id>
+        <link href="https://cheapskatesguide.org/articles/gemini-geek-playground.html"/>
+        <title>The Gemini Network is Great, but It is Still Something of a Tech Geek Playground</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2022-12-20T10:24:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-the-gemini-network-is-great-but-it-is-still-something-of-a-tech-geek-playground/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>More counter.social &quot;private account&quot; bypasses</title>
         <author>
             <name>Xe Iaso</name>
@@ -1516,30 +1660,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-2022-in-review/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Limiting Handbrake threads to prevent throttling on M2 Macbook Air</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2022-12-19T20:31:11+00:00</published>
-    <updated>2022-12-19T20:31:11+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-limiting-handbrake-threads-to-prevent-throttling-on-m2-macbook-air/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-limiting-handbrake-threads-to-prevent-throttling-on-m2-macbook-air/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2022/limiting-handbrake-threads-prevent-throttling-on-m2-macbook-air</id>
-        <link href="https://www.jeffgeerling.com/blog/2022/limiting-handbrake-threads-prevent-throttling-on-m2-macbook-air"/>
-        <title>Limiting Handbrake threads to prevent throttling on M2 Macbook Air</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2022-12-19T20:31:11+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-limiting-handbrake-threads-to-prevent-throttling-on-m2-macbook-air/</id>
     <content type="html">
         
     </content>
@@ -1758,6 +1878,30 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-aguafuerte-rosarina/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Run it XOR use it, part two</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-12-16T21:48:34+00:00</published>
+    <updated>2022-12-16T21:48:34+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-run-it-xor-use-it-part-two/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-run-it-xor-use-it-part-two/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/12/16/bird/</id>
+        <link href="https://rachelbythebay.com/w/2022/12/16/bird/"/>
+        <title>Run it XOR use it, part two</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-12-16T21:48:34+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-run-it-xor-use-it-part-two/</id>
     <content type="html">
         
     </content>
@@ -2657,30 +2801,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>1 Million Watts of RF - how the FM Supertower works</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2022-12-07T16:32:45+00:00</published>
-    <updated>2022-12-07T16:32:45+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-1-million-watts-of-rf-how-the-fm-supertower-works/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-1-million-watts-of-rf-how-the-fm-supertower-works/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2022/1-million-watts-rf-how-fm-supertower-works</id>
-        <link href="https://www.jeffgeerling.com/blog/2022/1-million-watts-rf-how-fm-supertower-works"/>
-        <title>1 Million Watts of RF - how the FM Supertower works</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2022-12-07T16:32:45+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-1-million-watts-of-rf-how-the-fm-supertower-works/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Making ChatGPT Useful</title>
         <author>
             <name>Hillel Wayne</name>
@@ -2825,6 +2945,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>A reader asks how to avoid working for evil</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-12-05T05:06:43+00:00</published>
+    <updated>2022-12-05T05:06:43+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-a-reader-asks-how-to-avoid-working-for-evil/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-reader-asks-how-to-avoid-working-for-evil/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/12/04/downfall/</id>
+        <link href="https://rachelbythebay.com/w/2022/12/04/downfall/"/>
+        <title>A reader asks how to avoid working for evil</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-12-05T05:06:43+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-a-reader-asks-how-to-avoid-working-for-evil/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Addenda to recent articles 202211</title>
         <author>
             <name>Mark Dominus</name>
@@ -2921,6 +3065,78 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Happy Birthday Cheapskate&#x27;s Guide</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2022-12-04T12:20:00+00:00</published>
+    <updated>2022-12-04T12:20:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-happy-birthday-cheapskates-guide/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-happy-birthday-cheapskates-guide/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/fourth-birthday.html</id>
+        <link href="https://cheapskatesguide.org/articles/fourth-birthday.html"/>
+        <title>Happy Birthday Cheapskate&#x27;s Guide</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2022-12-04T12:20:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-happy-birthday-cheapskates-guide/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Twenty five thousand dollars of funny money</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-12-03T23:02:05+00:00</published>
+    <updated>2022-12-03T23:02:05+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-twenty-five-thousand-dollars-of-funny-money/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-twenty-five-thousand-dollars-of-funny-money/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/12/02/25k/</id>
+        <link href="https://rachelbythebay.com/w/2022/12/02/25k/"/>
+        <title>Twenty five thousand dollars of funny money</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-12-03T23:02:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-twenty-five-thousand-dollars-of-funny-money/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Short stories from outage reports</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-12-03T22:57:11+00:00</published>
+    <updated>2022-12-03T22:57:11+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-short-stories-from-outage-reports/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-short-stories-from-outage-reports/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/12/03/flipper/</id>
+        <link href="https://rachelbythebay.com/w/2022/12/03/flipper/"/>
+        <title>Short stories from outage reports</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-12-03T22:57:11+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-short-stories-from-outage-reports/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How to get people to choose your product</title>
         <author>
             <name>Justin Jackson</name>
@@ -3012,30 +3228,6 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-bitcoin-is-the-rediscovery-of-money/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Crohn&#x27;s Disease takes its toll - back in 2023!</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2022-12-01T15:00:26+00:00</published>
-    <updated>2022-12-01T15:00:26+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-crohns-disease-takes-its-toll-back-in-2023/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-crohns-disease-takes-its-toll-back-in-2023/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2022/crohns-disease-takes-its-toll-back-2023</id>
-        <link href="https://www.jeffgeerling.com/blog/2022/crohns-disease-takes-its-toll-back-2023"/>
-        <title>Crohn&#x27;s Disease takes its toll - back in 2023!</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2022-12-01T15:00:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-crohns-disease-takes-its-toll-back-in-2023/</id>
     <content type="html">
         
     </content>
@@ -3427,30 +3619,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Just Say No</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2022-11-29T16:32:40+00:00</published>
-    <updated>2022-11-29T16:32:40+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-just-say-no/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-just-say-no/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2022/just-say-no</id>
-        <link href="https://www.jeffgeerling.com/blog/2022/just-say-no"/>
-        <title>Just Say No</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2022-11-29T16:32:40+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-just-say-no/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Future of Social Media</title>
         <author>
             <name>Rohan Deshmukh</name>
@@ -3787,6 +3955,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The night of 1000 alerts (but only on the Linux boxes)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2022-11-24T07:07:43+00:00</published>
+    <updated>2022-11-24T07:07:43+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2022/11/23/alerts/</id>
+        <link href="https://rachelbythebay.com/w/2022/11/23/alerts/"/>
+        <title>The night of 1000 alerts (but only on the Linux boxes)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2022-11-24T07:07:43+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Underrated reasons to be thankful</title>
         <author>
             <name>dynomight</name>
@@ -3806,30 +3998,6 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-underrated-reasons-to-be-thankful/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Pi Cluster vs Ampere Altra Max 128-core ARM CPU</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2022-11-23T15:02:55+00:00</published>
-    <updated>2022-11-23T15:02:55+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-pi-cluster-vs-ampere-altra-max-128core-arm-cpu/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-pi-cluster-vs-ampere-altra-max-128core-arm-cpu/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2022/pi-cluster-vs-ampere-altra-max-128-core-arm-cpu</id>
-        <link href="https://www.jeffgeerling.com/blog/2022/pi-cluster-vs-ampere-altra-max-128-core-arm-cpu"/>
-        <title>Pi Cluster vs Ampere Altra Max 128-core ARM CPU</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2022-11-23T15:02:55+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-pi-cluster-vs-ampere-altra-max-128core-arm-cpu/</id>
     <content type="html">
         
     </content>
@@ -4271,6 +4439,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The Nomad Network is a Promising Distributed Network with Very Few Users</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2022-11-17T09:30:00+00:00</published>
+    <updated>2022-11-17T09:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-the-nomad-network-is-a-promising-distributed-network-with-very-few-users/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-nomad-network-is-a-promising-distributed-network-with-very-few-users/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/nomadnet.html</id>
+        <link href="https://cheapskatesguide.org/articles/nomadnet.html"/>
+        <title>The Nomad Network is a Promising Distributed Network with Very Few Users</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2022-11-17T09:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-the-nomad-network-is-a-promising-distributed-network-with-very-few-users/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The Cool Thing You Didn’t Know Existed</title>
         <author>
             <name>Brian Kardell</name>
@@ -4290,30 +4482,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-the-cool-thing-you-didnt-know-existed/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Ubuntu&#x27;s settings won&#x27;t open after setting CPU to &#x27;performance&#x27;</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2022-11-17T02:28:54+00:00</published>
-    <updated>2022-11-17T02:28:54+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-ubuntus-settings-wont-open-after-setting-cpu-to-performance/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-ubuntus-settings-wont-open-after-setting-cpu-to-performance/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2022/ubuntus-settings-wont-open-after-setting-cpu-performance</id>
-        <link href="https://www.jeffgeerling.com/blog/2022/ubuntus-settings-wont-open-after-setting-cpu-performance"/>
-        <title>Ubuntu&#x27;s settings won&#x27;t open after setting CPU to &#x27;performance&#x27;</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2022-11-17T02:28:54+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-ubuntus-settings-wont-open-after-setting-cpu-to-performance/</id>
     <content type="html">
         
     </content>
@@ -4508,30 +4676,6 @@
       </source>
 
     <id>https://news.cryptic.io/justin-jackson-is-twitter-done/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Exploring a 1 MW FM Radio Tower with my Dad</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2022-11-12T20:33:57+00:00</published>
-    <updated>2022-11-12T20:33:57+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-exploring-a-1-mw-fm-radio-tower-with-my-dad/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-exploring-a-1-mw-fm-radio-tower-with-my-dad/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2022/exploring-1-mw-fm-radio-tower-my-dad</id>
-        <link href="https://www.jeffgeerling.com/blog/2022/exploring-1-mw-fm-radio-tower-my-dad"/>
-        <title>Exploring a 1 MW FM Radio Tower with my Dad</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2022-11-12T20:33:57+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-exploring-a-1-mw-fm-radio-tower-with-my-dad/</id>
     <content type="html">
         
     </content>
@@ -4973,6 +5117,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Idyllic Life</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-11-05T12:04:00+00:00</published>
+    <updated>2022-11-05T12:04:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-idyllic-life/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-idyllic-life/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/idyllic-life.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/idyllic-life.html"/>
+        <title>Idyllic Life</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-11-05T12:04:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-idyllic-life/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>A sociocultural comparison of Japanese and American high schools</title>
         <author>
             <name>fbifemboy</name>
@@ -5119,6 +5287,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>A Brief Review of Citadel Email Server Software Running on a Raspberry Pi 3</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2022-11-04T14:30:00+00:00</published>
+    <updated>2022-11-04T14:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-a-brief-review-of-citadel-email-server-software-running-on-a-raspberry-pi-3/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-a-brief-review-of-citadel-email-server-software-running-on-a-raspberry-pi-3/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/raspberry-pi-email-server.html</id>
+        <link href="https://cheapskatesguide.org/articles/raspberry-pi-email-server.html"/>
+        <title>A Brief Review of Citadel Email Server Software Running on a Raspberry Pi 3</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2022-11-04T14:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-a-brief-review-of-citadel-email-server-software-running-on-a-raspberry-pi-3/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Pessimism vs Optimism</title>
         <author>
             <name>Justin Jackson</name>
@@ -5162,30 +5354,6 @@
       </source>
 
     <id>https://news.cryptic.io/molly-white-is-web3-bullshit-transcript/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Testing Microsoft&#x27;s Windows Dev Kit 2023</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2022-11-03T14:00:11+00:00</published>
-    <updated>2022-11-03T14:00:11+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-testing-microsofts-windows-dev-kit-2023/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-testing-microsofts-windows-dev-kit-2023/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2022/testing-microsofts-windows-dev-kit-2023</id>
-        <link href="https://www.jeffgeerling.com/blog/2022/testing-microsofts-windows-dev-kit-2023"/>
-        <title>Testing Microsoft&#x27;s Windows Dev Kit 2023</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2022-11-03T14:00:11+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-testing-microsofts-windows-dev-kit-2023/</id>
     <content type="html">
         
     </content>
@@ -5546,30 +5714,6 @@
       </source>
 
     <id>https://news.cryptic.io/vitalik-buterin-the-revenueevil-curve-a-different-way-to-think-about-prioritizing-public-goods-funding/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why I use Jellyfin for my home media library</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2022-10-27T16:01:28+00:00</published>
-    <updated>2022-10-27T16:01:28+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-why-i-use-jellyfin-for-my-home-media-library/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-why-i-use-jellyfin-for-my-home-media-library/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2022/why-i-use-jellyfin-my-home-media-library</id>
-        <link href="https://www.jeffgeerling.com/blog/2022/why-i-use-jellyfin-my-home-media-library"/>
-        <title>Why I use Jellyfin for my home media library</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2022-10-27T16:01:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-why-i-use-jellyfin-for-my-home-media-library/</id>
     <content type="html">
         
     </content>
@@ -8066,6 +8210,30 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-text-as-interface/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-08-31T13:19:00+00:00</published>
+    <updated>2022-08-31T13:19:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html"/>
+        <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-08-31T13:19:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/</id>
     <content type="html">
         
     </content>
@@ -10855,6 +11023,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Computers Were Not Meant to be Screwdrivers</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-05-28T10:34:00+00:00</published>
+    <updated>2022-05-28T10:34:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/computers-and-screwdrivers.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/computers-and-screwdrivers.html"/>
+        <title>Computers Were Not Meant to be Screwdrivers</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-05-28T10:34:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Backrooms Async Lab Diorama – One Day Build</title>
         <author>
             <name>mechatronicsguy</name>
@@ -11767,6 +11959,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>We are not Adults Just Because We Say So</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-04-30T06:17:00+00:00</published>
+    <updated>2022-04-30T06:17:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/adults.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/adults.html"/>
+        <title>We are not Adults Just Because We Say So</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-04-30T06:17:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Added to Vale 0.2 Beta: Concept Functions</title>
         <author>
             <name>Evan Ovadia</name>
@@ -12482,6 +12698,30 @@
       </source>
 
     <id>https://news.cryptic.io/andersource-woodlike-texture-generation-and-animation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Remembering Mrs. Ford</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-03-24T05:52:00+00:00</published>
+    <updated>2022-03-24T05:52:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-remembering-mrs-ford/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-remembering-mrs-ford/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/missis-ford.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/missis-ford.html"/>
+        <title>Remembering Mrs. Ford</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-03-24T05:52:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-remembering-mrs-ford/</id>
     <content type="html">
         
     </content>
@@ -13346,6 +13586,30 @@
       </source>
 
     <id>https://news.cryptic.io/dkbdkbfyi-dkb-google-search-is-dying/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Imprisoned for Your Safety</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-02-13T11:59:00+00:00</published>
+    <updated>2022-02-13T11:59:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-imprisoned-for-your-safety/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-imprisoned-for-your-safety/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/imprisoned.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/imprisoned.html"/>
+        <title>Imprisoned for Your Safety</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-02-13T11:59:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-imprisoned-for-your-safety/</id>
     <content type="html">
         
     </content>
