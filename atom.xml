@@ -4,25 +4,49 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-04T16:39:00+00:00</updated>
+  <updated>2023-01-04T16:50:54+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
-    <title>testing new micropub implementation</title>
+    <title>Fragments</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-01-04T16:50:54+00:00</published>
+    <updated>2023-01-04T16:50:54+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-fragments/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-fragments/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/fragments/</id>
+        <link href="https://robinrendle.com/notes/fragments/"/>
+        <title>Fragments</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-01-04T16:50:54+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-fragments/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Testing new micropub implementation</title>
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-    <published>2023-01-04T16:39:00+00:00</published>
-    <updated>2023-01-04T16:39:00+00:00</updated>
+    <published>2023-01-04T16:47:00+00:00</published>
+    <updated>2023-01-04T16:47:00+00:00</updated>
     <link href="https://news.cryptic.io/andre-alves-garzia-testing-new-micropub-implementation/"/>
     <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-testing-new-micropub-implementation/" type="text/html"/>
       <source>
-        <id>https://andregarzia.com/2023/01/testing-new-micropub-implementation.html</id>
-        <link href="https://andregarzia.com/2023/01/testing-new-micropub-implementation.html"/>
-        <title>testing new micropub implementation</title>
+        <id>https://andregarzia.com/2023/01/Testing-new-micropub-implementation.html</id>
+        <link href="https://andregarzia.com/2023/01/Testing-new-micropub-implementation.html"/>
+        <title>Testing new micropub implementation</title>
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-        <updated>2023-01-04T16:39:00+00:00</updated>
+        <updated>2023-01-04T16:47:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-testing-new-micropub-implementation/</id>
@@ -122,30 +146,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-shift-happens/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Finding &quot;The Internet&quot; Toxic and Depressing?  Consider Leaving Your Walled Garden.</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-01-03T12:31:00+00:00</published>
-    <updated>2023-01-03T12:31:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-finding-the-internet-toxic-and-depressing-consider-leaving-your-walled-garden/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-finding-the-internet-toxic-and-depressing-consider-leaving-your-walled-garden/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/toxic-gardens.html</id>
-        <link href="https://cheapskatesguide.org/articles/toxic-gardens.html"/>
-        <title>Finding &quot;The Internet&quot; Toxic and Depressing?  Consider Leaving Your Walled Garden.</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-01-03T12:31:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-finding-the-internet-toxic-and-depressing-consider-leaving-your-walled-garden/</id>
     <content type="html">
         
     </content>
@@ -1665,30 +1665,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Gemini Network is Great, but It is Still Something of a Tech Geek Playground</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2022-12-20T10:24:00+00:00</published>
-    <updated>2022-12-20T10:24:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-the-gemini-network-is-great-but-it-is-still-something-of-a-tech-geek-playground/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-gemini-network-is-great-but-it-is-still-something-of-a-tech-geek-playground/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/gemini-geek-playground.html</id>
-        <link href="https://cheapskatesguide.org/articles/gemini-geek-playground.html"/>
-        <title>The Gemini Network is Great, but It is Still Something of a Tech Geek Playground</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2022-12-20T10:24:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-the-gemini-network-is-great-but-it-is-still-something-of-a-tech-geek-playground/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>More counter.social &quot;private account&quot; bypasses</title>
         <author>
             <name>Xe Iaso</name>
@@ -2751,30 +2727,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Last Walk</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-12-09T18:09:47+00:00</published>
-    <updated>2022-12-09T18:09:47+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-last-walk/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-last-walk/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-last-walk/</id>
-        <link href="https://robinrendle.com/notes/the-last-walk/"/>
-        <title>The Last Walk</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-12-09T18:09:47+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-last-walk/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Surprising Capability of AI: Code Generation</title>
         <author>
             <name>Rohan Deshmukh</name>
@@ -3156,30 +3108,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-software-horror-show-sap-concur/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Happy Birthday Cheapskate&#x27;s Guide</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2022-12-04T12:20:00+00:00</published>
-    <updated>2022-12-04T12:20:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-happy-birthday-cheapskates-guide/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-happy-birthday-cheapskates-guide/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/fourth-birthday.html</id>
-        <link href="https://cheapskatesguide.org/articles/fourth-birthday.html"/>
-        <title>Happy Birthday Cheapskate&#x27;s Guide</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2022-12-04T12:20:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-happy-birthday-cheapskates-guide/</id>
     <content type="html">
         
     </content>
@@ -4607,30 +4535,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Nomad Network is a Promising Distributed Network with Very Few Users</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2022-11-17T09:30:00+00:00</published>
-    <updated>2022-11-17T09:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-the-nomad-network-is-a-promising-distributed-network-with-very-few-users/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-nomad-network-is-a-promising-distributed-network-with-very-few-users/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/nomadnet.html</id>
-        <link href="https://cheapskatesguide.org/articles/nomadnet.html"/>
-        <title>The Nomad Network is a Promising Distributed Network with Very Few Users</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2022-11-17T09:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-the-nomad-network-is-a-promising-distributed-network-with-very-few-users/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The Cool Thing You Didn’t Know Existed</title>
         <author>
             <name>Brian Kardell</name>
@@ -5333,30 +5237,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Idyllic Life</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-11-05T12:04:00+00:00</published>
-    <updated>2022-11-05T12:04:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-idyllic-life/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-idyllic-life/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/idyllic-life.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/idyllic-life.html"/>
-        <title>Idyllic Life</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-11-05T12:04:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-idyllic-life/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>A sociocultural comparison of Japanese and American high schools</title>
         <author>
             <name>fbifemboy</name>
@@ -5498,30 +5378,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-mastodons-biggest-problem-is-its-name/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A Brief Review of Citadel Email Server Software Running on a Raspberry Pi 3</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2022-11-04T14:30:00+00:00</published>
-    <updated>2022-11-04T14:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-a-brief-review-of-citadel-email-server-software-running-on-a-raspberry-pi-3/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-a-brief-review-of-citadel-email-server-software-running-on-a-raspberry-pi-3/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/raspberry-pi-email-server.html</id>
-        <link href="https://cheapskatesguide.org/articles/raspberry-pi-email-server.html"/>
-        <title>A Brief Review of Citadel Email Server Software Running on a Raspberry Pi 3</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2022-11-04T14:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-a-brief-review-of-citadel-email-server-software-running-on-a-raspberry-pi-3/</id>
     <content type="html">
         
     </content>
@@ -8479,30 +8335,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-08-31T13:19:00+00:00</published>
-    <updated>2022-08-31T13:19:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html"/>
-        <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-08-31T13:19:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Thoughts on buying a car</title>
         <author>
             <name>herman</name>
@@ -10639,30 +10471,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-06-17T00:35:14+00:00</published>
-    <updated>2022-06-17T00:35:14+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1537594682393341952#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1537594682393341952#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-06-17T00:35:14+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Interview with Kagi</title>
         <author>
             <name>dkb@dkb.fyi (dkb)</name>
@@ -11306,30 +11114,6 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-subterranean-blogging/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Computers Were Not Meant to be Screwdrivers</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-05-28T10:34:00+00:00</published>
-    <updated>2022-05-28T10:34:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/computers-and-screwdrivers.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/computers-and-screwdrivers.html"/>
-        <title>Computers Were Not Meant to be Screwdrivers</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-05-28T10:34:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/</id>
     <content type="html">
         
     </content>
@@ -12223,30 +12007,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>We are not Adults Just Because We Say So</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-04-30T06:17:00+00:00</published>
-    <updated>2022-04-30T06:17:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/adults.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/adults.html"/>
-        <title>We are not Adults Just Because We Say So</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-04-30T06:17:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Added to Vale 0.2 Beta: Concept Functions</title>
         <author>
             <name>Evan Ovadia</name>
@@ -12962,30 +12722,6 @@
       </source>
 
     <id>https://news.cryptic.io/andersource-woodlike-texture-generation-and-animation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Remembering Mrs. Ford</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-03-24T05:52:00+00:00</published>
-    <updated>2022-03-24T05:52:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-remembering-mrs-ford/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-remembering-mrs-ford/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/missis-ford.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/missis-ford.html"/>
-        <title>Remembering Mrs. Ford</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-03-24T05:52:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-remembering-mrs-ford/</id>
     <content type="html">
         
     </content>
@@ -13850,30 +13586,6 @@
       </source>
 
     <id>https://news.cryptic.io/dkbdkbfyi-dkb-google-search-is-dying/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Imprisoned for Your Safety</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-02-13T11:59:00+00:00</published>
-    <updated>2022-02-13T11:59:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-imprisoned-for-your-safety/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-imprisoned-for-your-safety/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/imprisoned.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/imprisoned.html"/>
-        <title>Imprisoned for Your Safety</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-02-13T11:59:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-imprisoned-for-your-safety/</id>
     <content type="html">
         
     </content>
