@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-04T22:35:00+00:00</updated>
+  <updated>2023-01-05T04:54:47+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Why I still have an old-school cert on my https site</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-05T04:54:47+00:00</published>
+    <updated>2023-01-05T04:54:47+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/03/ssl/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/03/ssl/"/>
+        <title>Why I still have an old-school cert on my https site</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-05T04:54:47+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Another look at the steps for issuing a cert</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-05T04:54:19+00:00</published>
+    <updated>2023-01-05T04:54:19+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/04/cert/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/04/cert/"/>
+        <title>Another look at the steps for issuing a cert</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-05T04:54:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Introduction to Java Notebooks</title>
         <author>
@@ -146,30 +194,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-the-nascar-model/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why I still have an old-school cert on my https site</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-04T04:21:53+00:00</published>
-    <updated>2023-01-04T04:21:53+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/03/ssl/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/03/ssl/"/>
-        <title>Why I still have an old-school cert on my https site</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-04T04:21:53+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/</id>
     <content type="html">
         
     </content>
@@ -4166,30 +4190,6 @@
       </source>
 
     <id>https://news.cryptic.io/justin-jackson-avoid-fame/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The night of 1000 alerts (but only on the Linux boxes)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-11-24T07:07:43+00:00</published>
-    <updated>2022-11-24T07:07:43+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/11/23/alerts/</id>
-        <link href="https://rachelbythebay.com/w/2022/11/23/alerts/"/>
-        <title>The night of 1000 alerts (but only on the Linux boxes)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-11-24T07:07:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-the-night-of-1000-alerts-but-only-on-the-linux-boxes/</id>
     <content type="html">
         
     </content>
