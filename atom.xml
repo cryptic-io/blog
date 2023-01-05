@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-05T04:54:47+00:00</updated>
+  <updated>2023-01-05T15:00:02+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Getting to 1.5 Gbps WiFi 6E on the Raspberry Pi CM4</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2023-01-05T15:00:02+00:00</published>
+    <updated>2023-01-05T15:00:02+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-getting-to-15-gbps-wifi-6e-on-the-raspberry-pi-cm4/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-getting-to-15-gbps-wifi-6e-on-the-raspberry-pi-cm4/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2023/getting-15-gbps-wifi-6e-on-raspberry-pi-cm4</id>
+        <link href="https://www.jeffgeerling.com/blog/2023/getting-15-gbps-wifi-6e-on-raspberry-pi-cm4"/>
+        <title>Getting to 1.5 Gbps WiFi 6E on the Raspberry Pi CM4</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2023-01-05T15:00:02+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-getting-to-15-gbps-wifi-6e-on-the-raspberry-pi-cm4/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Why I still have an old-school cert on my https site</title>
         <author>
@@ -6007,30 +6031,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Why I use Jellyfin for my home media library</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2022-10-27T16:01:28+00:00</published>
-    <updated>2022-10-27T16:01:28+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-why-i-use-jellyfin-for-my-home-media-library/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-why-i-use-jellyfin-for-my-home-media-library/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2022/why-i-use-jellyfin-my-home-media-library</id>
-        <link href="https://www.jeffgeerling.com/blog/2022/why-i-use-jellyfin-my-home-media-library"/>
-        <title>Why I use Jellyfin for my home media library</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2022-10-27T16:01:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-why-i-use-jellyfin-for-my-home-media-library/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Notes from kernel hacking in Hare, part 3: serial driver</title>
         <author>
             <name>Drew DeVault</name>
@@ -10682,30 +10682,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-is-madlad-sentient-an-interview/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-06-17T00:35:14+00:00</published>
-    <updated>2022-06-17T00:35:14+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1537594682393341952#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1537594682393341952#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-06-17T00:35:14+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
