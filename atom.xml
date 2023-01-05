@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-05T15:00:02+00:00</updated>
+  <updated>2023-01-05T16:06:04+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>labour of love</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-01-05T16:06:04+00:00</published>
+    <updated>2023-01-05T16:06:04+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-labour-of-love/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-labour-of-love/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/labour-of-love/</id>
+        <link href="https://robinrendle.com/notes/labour-of-love/"/>
+        <title>labour of love</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-01-05T16:06:04+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-labour-of-love/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Getting to 1.5 Gbps WiFi 6E on the Raspberry Pi CM4</title>
         <author>
@@ -2866,30 +2890,6 @@
       </source>
 
     <id>https://news.cryptic.io/will-larson-when-shouldnt-you-roll-out-business-reviews/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>An Internet of Zines</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-12-10T03:04:17+00:00</published>
-    <updated>2022-12-10T03:04:17+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-an-internet-of-zines/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-an-internet-of-zines/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/an-internet-of-zines/</id>
-        <link href="https://robinrendle.com/notes/an-internet-of-zines/"/>
-        <title>An Internet of Zines</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-12-10T03:04:17+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-an-internet-of-zines/</id>
     <content type="html">
         
     </content>
