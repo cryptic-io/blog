@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-07T17:00:00+00:00</updated>
+  <updated>2023-01-08T08:46:27+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Swearing is Dumb</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2023-01-08T08:46:27+00:00</published>
+    <updated>2023-01-08T08:46:27+00:00</updated>
+    <link href="https://news.cryptic.io/various-swearing-is-dumb/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-swearing-is-dumb/" type="text/html"/>
+      <source>
+        <id>https://www.autodidacts.io/swearing-is-dumb/</id>
+        <link href="https://www.autodidacts.io/swearing-is-dumb/"/>
+        <title>Swearing is Dumb</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2023-01-08T08:46:27+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-swearing-is-dumb/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>No Comments</title>
         <author>
@@ -9458,30 +9482,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-my-todo-system/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Overthunk Note-taking Workflows</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2022-07-25T12:38:18+00:00</published>
-    <updated>2022-07-25T12:38:18+00:00</updated>
-    <link href="https://news.cryptic.io/various-overthunk-notetaking-workflows/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-overthunk-notetaking-workflows/" type="text/html"/>
-      <source>
-        <id>https://www.autodidacts.io/notetaking-workflows/</id>
-        <link href="https://www.autodidacts.io/notetaking-workflows/"/>
-        <title>Overthunk Note-taking Workflows</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2022-07-25T12:38:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-overthunk-notetaking-workflows/</id>
     <content type="html">
         
     </content>
