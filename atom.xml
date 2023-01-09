@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-09T08:00:08+00:00</updated>
+  <updated>2023-01-09T16:11:26+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Retiring Pinafore</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2023-01-09T16:11:26+00:00</published>
+    <updated>2023-01-09T16:11:26+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-retiring-pinafore/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-retiring-pinafore/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2023/01/09/retiring-pinafore/</id>
+        <link href="https://nolanlawson.com/2023/01/09/retiring-pinafore/"/>
+        <title>Retiring Pinafore</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2023-01-09T16:11:26+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-retiring-pinafore/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Raspberry Pi&#x27;s Camera Module 3 adds autofocus and new Sony sensor</title>
         <author>
@@ -122,6 +146,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-swearing-is-dumb/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Prep work for my machine dungeon - Dungeon 23</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+    <published>2023-01-08T00:00:00+00:00</published>
+    <updated>2023-01-08T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/andre-alves-garzia-prep-work-for-my-machine-dungeon-dungeon-23/"/>
+    <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-prep-work-for-my-machine-dungeon-dungeon-23/" type="text/html"/>
+      <source>
+        <id>https://andregarzia.com/gaming/dungeon23/007-prep-work.html</id>
+        <link href="https://andregarzia.com/gaming/dungeon23/007-prep-work.html"/>
+        <title>Prep work for my machine dungeon - Dungeon 23</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+        <updated>2023-01-08T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/andre-alves-garzia-prep-work-for-my-machine-dungeon-dungeon-23/</id>
     <content type="html">
         
     </content>
@@ -7139,8 +7187,8 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-    <published>2022-10-08T10:50:00+00:00</published>
-    <updated>2022-10-08T10:50:00+00:00</updated>
+    <published>2022-10-08T09:50:00+00:00</published>
+    <updated>2022-10-08T09:50:00+00:00</updated>
     <link href="https://news.cryptic.io/andre-alves-garzia-musings-on-serialised-storytelling/"/>
     <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-musings-on-serialised-storytelling/" type="text/html"/>
       <source>
@@ -7150,7 +7198,7 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-        <updated>2022-10-08T10:50:00+00:00</updated>
+        <updated>2022-10-08T09:50:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-musings-on-serialised-storytelling/</id>
@@ -7739,8 +7787,8 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-    <published>2022-09-28T12:41:00+00:00</published>
-    <updated>2022-09-28T12:41:00+00:00</updated>
+    <published>2022-09-28T11:41:00+00:00</published>
+    <updated>2022-09-28T11:41:00+00:00</updated>
     <link href="https://news.cryptic.io/andre-alves-garzia-the-appeal-of-small-computers/"/>
     <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-the-appeal-of-small-computers/" type="text/html"/>
       <source>
@@ -7750,7 +7798,7 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-        <updated>2022-09-28T12:41:00+00:00</updated>
+        <updated>2022-09-28T11:41:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-the-appeal-of-small-computers/</id>
@@ -10739,8 +10787,8 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-    <published>2022-06-20T14:31:00+00:00</published>
-    <updated>2022-06-20T14:31:00+00:00</updated>
+    <published>2022-06-20T13:31:00+00:00</published>
+    <updated>2022-06-20T13:31:00+00:00</updated>
     <link href="https://news.cryptic.io/andre-alves-garzia-enrolled-in-wyfa2022/"/>
     <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-enrolled-in-wyfa2022/" type="text/html"/>
       <source>
@@ -10750,7 +10798,7 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-        <updated>2022-06-20T14:31:00+00:00</updated>
+        <updated>2022-06-20T13:31:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-enrolled-in-wyfa2022/</id>
@@ -11027,8 +11075,8 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-    <published>2022-06-07T14:00:00+00:00</published>
-    <updated>2022-06-07T14:00:00+00:00</updated>
+    <published>2022-06-07T13:00:00+00:00</published>
+    <updated>2022-06-07T13:00:00+00:00</updated>
     <link href="https://news.cryptic.io/andre-alves-garzia-about-ipads-and-developers/"/>
     <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-about-ipads-and-developers/" type="text/html"/>
       <source>
@@ -11038,34 +11086,10 @@
         <author>
             <name>Andre Alves Garzia</name>
         </author>
-        <updated>2022-06-07T14:00:00+00:00</updated>
+        <updated>2022-06-07T13:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-about-ipads-and-developers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Wonderful time at Cymera Festival</title>
-        <author>
-            <name>Andre Alves Garzia</name>
-        </author>
-    <published>2022-06-07T00:00:00+00:00</published>
-    <updated>2022-06-07T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/andre-alves-garzia-wonderful-time-at-cymera-festival/"/>
-    <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-wonderful-time-at-cymera-festival/" type="text/html"/>
-      <source>
-        <id>https://andregarzia.com/2022/06/Wonderful-time-at-Cymera-Festival.html</id>
-        <link href="https://andregarzia.com/2022/06/Wonderful-time-at-Cymera-Festival.html"/>
-        <title>Wonderful time at Cymera Festival</title>
-        <author>
-            <name>Andre Alves Garzia</name>
-        </author>
-        <updated>2022-06-07T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/andre-alves-garzia-wonderful-time-at-cymera-festival/</id>
     <content type="html">
         
     </content>
@@ -11378,30 +11402,6 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-guide-to-submitting-pull-requests/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>State is hard: why SPAs will persist</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-    <published>2022-05-29T16:43:10+00:00</published>
-    <updated>2022-05-29T16:43:10+00:00</updated>
-    <link href="https://news.cryptic.io/nolan-lawson-state-is-hard-why-spas-will-persist/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-state-is-hard-why-spas-will-persist/" type="text/html"/>
-      <source>
-        <id>https://nolanlawson.com/2022/05/29/state-is-hard-why-spas-will-persist/</id>
-        <link href="https://nolanlawson.com/2022/05/29/state-is-hard-why-spas-will-persist/"/>
-        <title>State is hard: why SPAs will persist</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-        <updated>2022-05-29T16:43:10+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nolan-lawson-state-is-hard-why-spas-will-persist/</id>
     <content type="html">
         
     </content>
