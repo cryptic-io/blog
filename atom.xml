@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-09T16:11:26+00:00</updated>
+  <updated>2023-01-09T22:01:04+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>In Defense of Testing Mocks</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-01-09T22:01:04+00:00</published>
+    <updated>2023-01-09T22:01:04+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-in-defense-of-testing-mocks/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-in-defense-of-testing-mocks/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/in-defense-of-testing-mocks/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/in-defense-of-testing-mocks/"/>
+        <title>In Defense of Testing Mocks</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-01-09T22:01:04+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-in-defense-of-testing-mocks/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Retiring Pinafore</title>
         <author>
@@ -50,6 +74,30 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-raspberry-pis-camera-module-3-adds-autofocus-and-new-sony-sensor/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Etymonline</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-01-09T00:00:00+00:00</published>
+    <updated>2023-01-09T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-etymonline/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-etymonline/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2722/</id>
+        <link href="https://xkcd.com/2722/"/>
+        <title>Etymonline</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-01-09T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-etymonline/</id>
     <content type="html">
         
     </content>
@@ -266,6 +314,30 @@
       </source>
 
     <id>https://news.cryptic.io/nathalie-lawhead-the-gdevelop-game-jam-3-is-here-with-prizes-and-im-honored-to-be-a-judge/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2023-01-06T12:36:00+00:00</published>
+    <updated>2023-01-06T12:36:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/beware-help.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/beware-help.html"/>
+        <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2023-01-06T12:36:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/</id>
     <content type="html">
         
     </content>
@@ -770,6 +842,30 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-shift-happens/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Finding &quot;The Internet&quot; Toxic and Depressing?  Consider Leaving Your Walled Garden.</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-01-03T12:31:00+00:00</published>
+    <updated>2023-01-03T12:31:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-finding-the-internet-toxic-and-depressing-consider-leaving-your-walled-garden/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-finding-the-internet-toxic-and-depressing-consider-leaving-your-walled-garden/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/toxic-gardens.html</id>
+        <link href="https://cheapskatesguide.org/articles/toxic-gardens.html"/>
+        <title>Finding &quot;The Internet&quot; Toxic and Depressing?  Consider Leaving Your Walled Garden.</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-01-03T12:31:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-finding-the-internet-toxic-and-depressing-consider-leaving-your-walled-garden/</id>
     <content type="html">
         
     </content>
@@ -1519,30 +1615,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>New Year&#x27;s Eve Party</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2022-12-30T00:00:00+00:00</published>
-    <updated>2022-12-30T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-new-years-eve-party/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-new-years-eve-party/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2718/</id>
-        <link href="https://xkcd.com/2718/"/>
-        <title>New Year&#x27;s Eve Party</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2022-12-30T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-new-years-eve-party/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>What even is an institution?</title>
         <author>
             <name>Vitalik Buterin</name>
@@ -2236,6 +2308,30 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Gemini Network is Great, but It is Still Something of a Tech Geek Playground</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2022-12-20T10:24:00+00:00</published>
+    <updated>2022-12-20T10:24:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-the-gemini-network-is-great-but-it-is-still-something-of-a-tech-geek-playground/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-gemini-network-is-great-but-it-is-still-something-of-a-tech-geek-playground/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/gemini-geek-playground.html</id>
+        <link href="https://cheapskatesguide.org/articles/gemini-geek-playground.html"/>
+        <title>The Gemini Network is Great, but It is Still Something of a Tech Geek Playground</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2022-12-20T10:24:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-the-gemini-network-is-great-but-it-is-still-something-of-a-tech-geek-playground/</id>
     <content type="html">
         
     </content>
@@ -3641,6 +3737,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Happy Birthday Cheapskate&#x27;s Guide</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2022-12-04T12:20:00+00:00</published>
+    <updated>2022-12-04T12:20:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-happy-birthday-cheapskates-guide/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-happy-birthday-cheapskates-guide/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/fourth-birthday.html</id>
+        <link href="https://cheapskatesguide.org/articles/fourth-birthday.html"/>
+        <title>Happy Birthday Cheapskate&#x27;s Guide</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2022-12-04T12:20:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-happy-birthday-cheapskates-guide/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Short stories from outage reports</title>
         <author>
             <name>rachelbythebay</name>
@@ -4895,6 +5015,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The Nomad Network is a Promising Distributed Network with Very Few Users</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2022-11-17T09:30:00+00:00</published>
+    <updated>2022-11-17T09:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-the-nomad-network-is-a-promising-distributed-network-with-very-few-users/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-nomad-network-is-a-promising-distributed-network-with-very-few-users/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/nomadnet.html</id>
+        <link href="https://cheapskatesguide.org/articles/nomadnet.html"/>
+        <title>The Nomad Network is a Promising Distributed Network with Very Few Users</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2022-11-17T09:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-the-nomad-network-is-a-promising-distributed-network-with-very-few-users/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The Cool Thing You Didn’t Know Existed</title>
         <author>
             <name>Brian Kardell</name>
@@ -5549,6 +5693,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Idyllic Life</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-11-05T12:04:00+00:00</published>
+    <updated>2022-11-05T12:04:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-idyllic-life/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-idyllic-life/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/idyllic-life.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/idyllic-life.html"/>
+        <title>Idyllic Life</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-11-05T12:04:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-idyllic-life/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>A sociocultural comparison of Japanese and American high schools</title>
         <author>
             <name>fbifemboy</name>
@@ -5695,6 +5863,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>A Brief Review of Citadel Email Server Software Running on a Raspberry Pi 3</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2022-11-04T14:30:00+00:00</published>
+    <updated>2022-11-04T14:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-a-brief-review-of-citadel-email-server-software-running-on-a-raspberry-pi-3/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-a-brief-review-of-citadel-email-server-software-running-on-a-raspberry-pi-3/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/raspberry-pi-email-server.html</id>
+        <link href="https://cheapskatesguide.org/articles/raspberry-pi-email-server.html"/>
+        <title>A Brief Review of Citadel Email Server Software Running on a Raspberry Pi 3</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2022-11-04T14:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-a-brief-review-of-citadel-email-server-software-running-on-a-raspberry-pi-3/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Pessimism vs Optimism</title>
         <author>
             <name>Justin Jackson</name>
@@ -5738,30 +5930,6 @@
       </source>
 
     <id>https://news.cryptic.io/molly-white-is-web3-bullshit-transcript/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Notes on Every Strangeloop 2022 Talk I Attended</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2022-11-02T15:15:05+00:00</published>
-    <updated>2022-11-02T15:15:05+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-notes-on-every-strangeloop-2022-talk-i-attended/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-notes-on-every-strangeloop-2022-talk-i-attended/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/notes-on-every-strangeloop-2022-talk-i-attended-8693/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/notes-on-every-strangeloop-2022-talk-i-attended-8693/"/>
-        <title>Notes on Every Strangeloop 2022 Talk I Attended</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2022-11-02T15:15:05+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-notes-on-every-strangeloop-2022-talk-i-attended/</id>
     <content type="html">
         
     </content>
@@ -8551,6 +8719,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-08-31T13:19:00+00:00</published>
+    <updated>2022-08-31T13:19:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html"/>
+        <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-08-31T13:19:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Thoughts on buying a car</title>
         <author>
             <name>herman</name>
@@ -10663,6 +10855,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+    <published>2022-06-17T00:35:14+00:00</published>
+    <updated>2022-06-17T00:35:14+00:00</updated>
+    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
+    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
+      <source>
+        <id>https://nitter.net/GranolaShotgun/status/1537594682393341952#m</id>
+        <link href="https://nitter.net/GranolaShotgun/status/1537594682393341952#m"/>
+        <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+        <updated>2022-06-17T00:35:14+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Interview with Kagi</title>
         <author>
             <name>dkb@dkb.fyi (dkb)</name>
@@ -11258,6 +11474,30 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-subterranean-blogging/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Computers Were Not Meant to be Screwdrivers</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-05-28T10:34:00+00:00</published>
+    <updated>2022-05-28T10:34:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/computers-and-screwdrivers.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/computers-and-screwdrivers.html"/>
+        <title>Computers Were Not Meant to be Screwdrivers</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-05-28T10:34:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/</id>
     <content type="html">
         
     </content>
@@ -12050,6 +12290,30 @@
       </source>
 
     <id>https://news.cryptic.io/linus-lee-legal-documents-are-pushing-text-interfaces-forward/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>We are not Adults Just Because We Say So</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-04-30T06:17:00+00:00</published>
+    <updated>2022-04-30T06:17:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/adults.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/adults.html"/>
+        <title>We are not Adults Just Because We Say So</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-04-30T06:17:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/</id>
     <content type="html">
         
     </content>
