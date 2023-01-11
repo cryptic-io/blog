@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-11T00:00:00+00:00</updated>
+  <updated>2023-01-11T16:02:11+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Case of the Golden Idol</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-01-11T16:02:11+00:00</published>
+    <updated>2023-01-11T16:02:11+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-the-case-of-the-golden-idol/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-case-of-the-golden-idol/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/the-case-of-the-golden-idol/</id>
+        <link href="https://robinrendle.com/notes/the-case-of-the-golden-idol/"/>
+        <title>The Case of the Golden Idol</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-01-11T16:02:11+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-the-case-of-the-golden-idol/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Outdated Periodic Table</title>
         <author>
@@ -50,6 +74,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-subscribe-wherever-you-get-your-content/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>This website is now built with remix</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2023-01-10T15:00:00+00:00</published>
+    <updated>2023-01-10T15:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-this-website-is-now-built-with-remix/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-this-website-is-now-built-with-remix/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/goodbye-saber-hello-remix</id>
+        <link href="https://johnwhiles.com/posts/goodbye-saber-hello-remix"/>
+        <title>This website is now built with remix</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2023-01-10T15:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-this-website-is-now-built-with-remix/</id>
     <content type="html">
         
     </content>
@@ -2646,30 +2694,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-update-to-app-descriptions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Novelist as a Vocation</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-12-14T19:34:40+00:00</published>
-    <updated>2022-12-14T19:34:40+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-novelist-as-a-vocation/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-novelist-as-a-vocation/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/novelist-as-a-vocation-/</id>
-        <link href="https://robinrendle.com/notes/novelist-as-a-vocation-/"/>
-        <title>Novelist as a Vocation</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-12-14T19:34:40+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-novelist-as-a-vocation/</id>
     <content type="html">
         
     </content>
@@ -6775,30 +6799,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Setting up my new computer, vim, and listening to Spotify in the terminal</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-    <published>2022-10-07T00:00:00+00:00</published>
-    <updated>2022-10-07T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/john-whiles-setting-up-my-new-computer-vim-and-listening-to-spotify-in-the-terminal/"/>
-    <link rel="alternate" href="https://news.cryptic.io/john-whiles-setting-up-my-new-computer-vim-and-listening-to-spotify-in-the-terminal/" type="text/html"/>
-      <source>
-        <id>https://johnwhiles.com/posts/the-new-dots.html</id>
-        <link href="https://johnwhiles.com/posts/the-new-dots.html"/>
-        <title>Setting up my new computer, vim, and listening to Spotify in the terminal</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-        <updated>2022-10-07T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/john-whiles-setting-up-my-new-computer-vim-and-listening-to-spotify-in-the-terminal/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How to run any Docker container’s traffic through Wireguard or OpenVPN</title>
         <author>
             <name>mendhak</name>
@@ -6818,6 +6818,30 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-how-to-run-any-docker-containers-traffic-through-wireguard-or-openvpn/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Setting up my new computer, vim, and listening to Spotify in the terminal</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2022-10-06T23:00:00+00:00</published>
+    <updated>2022-10-06T23:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-setting-up-my-new-computer-vim-and-listening-to-spotify-in-the-terminal/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-setting-up-my-new-computer-vim-and-listening-to-spotify-in-the-terminal/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/the-new-dots</id>
+        <link href="https://johnwhiles.com/posts/the-new-dots"/>
+        <title>Setting up my new computer, vim, and listening to Spotify in the terminal</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2022-10-06T23:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-setting-up-my-new-computer-vim-and-listening-to-spotify-in-the-terminal/</id>
     <content type="html">
         
     </content>
@@ -7226,6 +7250,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-free-software-and-inspection-are-key-to-software-we-can-trust/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>8 cubic feet</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2022-09-29T00:00:00+00:00</published>
+    <updated>2022-09-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-8-cubic-feet/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-8-cubic-feet/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/8-cu-ft/</id>
+        <link href="https://blog.craftyguy.net/8-cu-ft/"/>
+        <title>8 cubic feet</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2022-09-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-8-cubic-feet/</id>
     <content type="html">
         
     </content>
@@ -8719,30 +8767,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Walnuts can stain your hands for a very long time</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-    <published>2022-08-12T00:00:00+00:00</published>
-    <updated>2022-08-12T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/john-whiles-walnuts-can-stain-your-hands-for-a-very-long-time/"/>
-    <link rel="alternate" href="https://news.cryptic.io/john-whiles-walnuts-can-stain-your-hands-for-a-very-long-time/" type="text/html"/>
-      <source>
-        <id>https://johnwhiles.com/posts/walnuts.html</id>
-        <link href="https://johnwhiles.com/posts/walnuts.html"/>
-        <title>Walnuts can stain your hands for a very long time</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-        <updated>2022-08-12T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/john-whiles-walnuts-can-stain-your-hands-for-a-very-long-time/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Screaming Internally: Anxiety and Trauma</title>
         <author>
             <name>Various</name>
@@ -8786,30 +8810,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-running-rutorrent-with-nix/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Life is very long when you&#x27;re lonely</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-    <published>2022-08-09T00:00:00+00:00</published>
-    <updated>2022-08-09T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/john-whiles-life-is-very-long-when-youre-lonely/"/>
-    <link rel="alternate" href="https://news.cryptic.io/john-whiles-life-is-very-long-when-youre-lonely/" type="text/html"/>
-      <source>
-        <id>https://johnwhiles.com/posts/queen.html</id>
-        <link href="https://johnwhiles.com/posts/queen.html"/>
-        <title>Life is very long when you&#x27;re lonely</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-        <updated>2022-08-09T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/john-whiles-life-is-very-long-when-youre-lonely/</id>
     <content type="html">
         
     </content>
@@ -9170,30 +9170,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-daubenschtz-its-time-to-think/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Reflections on my prediction of Pogacar&#x27;s defeat</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-    <published>2022-07-27T00:00:00+00:00</published>
-    <updated>2022-07-27T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/john-whiles-reflections-on-my-prediction-of-pogacars-defeat/"/>
-    <link rel="alternate" href="https://news.cryptic.io/john-whiles-reflections-on-my-prediction-of-pogacars-defeat/" type="text/html"/>
-      <source>
-        <id>https://johnwhiles.com/posts/pog-prediction-review.html</id>
-        <link href="https://johnwhiles.com/posts/pog-prediction-review.html"/>
-        <title>Reflections on my prediction of Pogacar&#x27;s defeat</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-        <updated>2022-07-27T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/john-whiles-reflections-on-my-prediction-of-pogacars-defeat/</id>
     <content type="html">
         
     </content>
@@ -9751,25 +9727,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>How about now (regarding Pogacar)</title>
+    <title>Deleting stuff is fun and helpful!</title>
         <author>
-            <name>John Whiles</name>
+            <name>Clayton Craft</name>
         </author>
-    <published>2022-07-07T00:00:00+00:00</published>
-    <updated>2022-07-07T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/john-whiles-how-about-now-regarding-pogacar/"/>
-    <link rel="alternate" href="https://news.cryptic.io/john-whiles-how-about-now-regarding-pogacar/" type="text/html"/>
+    <published>2022-07-06T00:00:00+00:00</published>
+    <updated>2022-07-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-deleting-stuff-is-fun-and-helpful/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-deleting-stuff-is-fun-and-helpful/" type="text/html"/>
       <source>
-        <id>https://johnwhiles.com/posts/pog-and-the-cobbles.html</id>
-        <link href="https://johnwhiles.com/posts/pog-and-the-cobbles.html"/>
-        <title>How about now (regarding Pogacar)</title>
+        <id>https://blog.craftyguy.net/delete-stuff/</id>
+        <link href="https://blog.craftyguy.net/delete-stuff/"/>
+        <title>Deleting stuff is fun and helpful!</title>
         <author>
-            <name>John Whiles</name>
+            <name>Clayton Craft</name>
         </author>
-        <updated>2022-07-07T00:00:00+00:00</updated>
+        <updated>2022-07-06T00:00:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/john-whiles-how-about-now-regarding-pogacar/</id>
+    <id>https://news.cryptic.io/clayton-craft-deleting-stuff-is-fun-and-helpful/</id>
     <content type="html">
         
     </content>
@@ -9866,30 +9842,6 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-open-source-and-academia/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>What are the odds that Tadej Pogacar will win the Le Tour de France?</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-    <published>2022-07-02T00:00:00+00:00</published>
-    <updated>2022-07-02T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/john-whiles-what-are-the-odds-that-tadej-pogacar-will-win-the-le-tour-de-france/"/>
-    <link rel="alternate" href="https://news.cryptic.io/john-whiles-what-are-the-odds-that-tadej-pogacar-will-win-the-le-tour-de-france/" type="text/html"/>
-      <source>
-        <id>https://johnwhiles.com/posts/pogacar.html</id>
-        <link href="https://johnwhiles.com/posts/pogacar.html"/>
-        <title>What are the odds that Tadej Pogacar will win the Le Tour de France?</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-        <updated>2022-07-02T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/john-whiles-what-are-the-odds-that-tadej-pogacar-will-win-the-le-tour-de-france/</id>
     <content type="html">
         
     </content>
@@ -10303,30 +10255,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Is madLAD sentient? - An interview</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-    <published>2022-06-18T00:00:00+00:00</published>
-    <updated>2022-06-18T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/john-whiles-is-madlad-sentient-an-interview/"/>
-    <link rel="alternate" href="https://news.cryptic.io/john-whiles-is-madlad-sentient-an-interview/" type="text/html"/>
-      <source>
-        <id>https://johnwhiles.com/posts/madlad.html</id>
-        <link href="https://johnwhiles.com/posts/madlad.html"/>
-        <title>Is madLAD sentient? - An interview</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-        <updated>2022-06-18T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/john-whiles-is-madlad-sentient-an-interview/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Interview with Kagi</title>
         <author>
             <name>dkb@dkb.fyi (dkb)</name>
@@ -10423,22 +10351,22 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>What I Read on Holiday</title>
+    <title>What I Read On Holiday</title>
         <author>
             <name>John Whiles</name>
         </author>
-    <published>2022-06-13T00:00:00+00:00</published>
-    <updated>2022-06-13T00:00:00+00:00</updated>
+    <published>2022-06-12T23:00:00+00:00</published>
+    <updated>2022-06-12T23:00:00+00:00</updated>
     <link href="https://news.cryptic.io/john-whiles-what-i-read-on-holiday/"/>
     <link rel="alternate" href="https://news.cryptic.io/john-whiles-what-i-read-on-holiday/" type="text/html"/>
       <source>
-        <id>https://johnwhiles.com/posts/what-i-read-on-holiday.html</id>
-        <link href="https://johnwhiles.com/posts/what-i-read-on-holiday.html"/>
-        <title>What I Read on Holiday</title>
+        <id>https://johnwhiles.com/posts/what-i-read-on-holiday</id>
+        <link href="https://johnwhiles.com/posts/what-i-read-on-holiday"/>
+        <title>What I Read On Holiday</title>
         <author>
             <name>John Whiles</name>
         </author>
-        <updated>2022-06-13T00:00:00+00:00</updated>
+        <updated>2022-06-12T23:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/john-whiles-what-i-read-on-holiday/</id>
@@ -11359,30 +11287,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Super Booth 2022</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-    <published>2022-05-15T00:00:00+00:00</published>
-    <updated>2022-05-15T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/john-whiles-super-booth-2022/"/>
-    <link rel="alternate" href="https://news.cryptic.io/john-whiles-super-booth-2022/" type="text/html"/>
-      <source>
-        <id>https://johnwhiles.com/posts/superbooth2022.html</id>
-        <link href="https://johnwhiles.com/posts/superbooth2022.html"/>
-        <title>Super Booth 2022</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-        <updated>2022-05-15T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/john-whiles-super-booth-2022/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Should we celebrate acquisitions?</title>
         <author>
             <name>nutcroft</name>
@@ -11555,18 +11459,18 @@
         <author>
             <name>John Whiles</name>
         </author>
-    <published>2022-05-07T00:00:00+00:00</published>
-    <updated>2022-05-07T00:00:00+00:00</updated>
+    <published>2022-05-06T23:00:00+00:00</published>
+    <updated>2022-05-06T23:00:00+00:00</updated>
     <link href="https://news.cryptic.io/john-whiles-shaving-is-too-expensive-also-the-world-is-out-to-get-you/"/>
     <link rel="alternate" href="https://news.cryptic.io/john-whiles-shaving-is-too-expensive-also-the-world-is-out-to-get-you/" type="text/html"/>
       <source>
-        <id>https://johnwhiles.com/posts/shaving.html</id>
-        <link href="https://johnwhiles.com/posts/shaving.html"/>
+        <id>https://johnwhiles.com/posts/shaving</id>
+        <link href="https://johnwhiles.com/posts/shaving"/>
         <title>Shaving Is Too Expensive. Also the world is out to get you</title>
         <author>
             <name>John Whiles</name>
         </author>
-        <updated>2022-05-07T00:00:00+00:00</updated>
+        <updated>2022-05-06T23:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/john-whiles-shaving-is-too-expensive-also-the-world-is-out-to-get-you/</id>
@@ -11815,6 +11719,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Six things I sort of believe about making music&#x2F;art</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2022-04-23T15:00:00+00:00</published>
+    <updated>2022-04-23T15:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-six-things-i-sort-of-believe-about-making-musicart/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-six-things-i-sort-of-believe-about-making-musicart/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/music-production-lessons</id>
+        <link href="https://johnwhiles.com/posts/music-production-lessons"/>
+        <title>Six things I sort of believe about making music&#x2F;art</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2022-04-23T15:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-six-things-i-sort-of-believe-about-making-musicart/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Where are good startup ideas born?</title>
         <author>
             <name>Charlie Andrews</name>
@@ -12007,6 +11935,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Arnie films I&#x27;ve watched recently</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2022-04-16T23:00:00+00:00</published>
+    <updated>2022-04-16T23:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-arnie-films-ive-watched-recently/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-arnie-films-ive-watched-recently/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/arnie-films-part-one.mdx</id>
+        <link href="https://johnwhiles.com/posts/arnie-films-part-one.mdx"/>
+        <title>Arnie films I&#x27;ve watched recently</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2022-04-16T23:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-arnie-films-ive-watched-recently/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Vampire Attack Twitter</title>
         <author>
             <name>geohot</name>
@@ -12146,6 +12098,54 @@
       </source>
 
     <id>https://news.cryptic.io/douglas-vaghetti-you-dont-need-to-trust-science-because-you-can-test-it-but-can-you/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>-h --help -help help --? -? ????</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2022-04-10T00:00:00+00:00</published>
+    <updated>2022-04-10T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-h-help-help-help/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-h-help-help-help/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/cmdline-help/</id>
+        <link href="https://blog.craftyguy.net/cmdline-help/"/>
+        <title>-h --help -help help --? -? ????</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2022-04-10T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-h-help-help-help/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Against moderation</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2022-04-09T23:00:00+00:00</published>
+    <updated>2022-04-09T23:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-against-moderation/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-against-moderation/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/against-moderation</id>
+        <link href="https://johnwhiles.com/posts/against-moderation"/>
+        <title>Against moderation</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2022-04-09T23:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-against-moderation/</id>
     <content type="html">
         
     </content>
@@ -12391,6 +12391,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Never miss completion of a long-running command again!</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2022-03-28T00:00:00+00:00</published>
+    <updated>2022-03-28T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-never-miss-completion-of-a-longrunning-command-again/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-never-miss-completion-of-a-longrunning-command-again/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/alert-done/</id>
+        <link href="https://blog.craftyguy.net/alert-done/"/>
+        <title>Never miss completion of a long-running command again!</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2022-03-28T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-never-miss-completion-of-a-longrunning-command-again/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Do blogs still matter?</title>
         <author>
             <name>Douglas Vaghetti</name>
@@ -12434,6 +12458,30 @@
       </source>
 
     <id>https://news.cryptic.io/andersource-woodlike-texture-generation-and-animation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Maybe you should do less &#x27;work&#x27;</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2022-03-26T23:00:00+00:00</published>
+    <updated>2022-03-26T23:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-maybe-you-should-do-less-work/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-maybe-you-should-do-less-work/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/work</id>
+        <link href="https://johnwhiles.com/posts/work"/>
+        <title>Maybe you should do less &#x27;work&#x27;</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2022-03-26T23:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-maybe-you-should-do-less-work/</id>
     <content type="html">
         
     </content>
@@ -13495,6 +13543,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Diffing binaries, in living color!</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2022-02-04T00:00:00+00:00</published>
+    <updated>2022-02-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-diffing-binaries-in-living-color/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-diffing-binaries-in-living-color/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/color-hex-diff/</id>
+        <link href="https://blog.craftyguy.net/color-hex-diff/"/>
+        <title>Diffing binaries, in living color!</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2022-02-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-diffing-binaries-in-living-color/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Metaphors We Web By</title>
         <author>
             <name>Maggie Appleton</name>
@@ -13615,6 +13687,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Using gdb to inspect a crashing app</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2022-01-26T00:00:00+00:00</published>
+    <updated>2022-01-26T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-using-gdb-to-inspect-a-crashing-app/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-using-gdb-to-inspect-a-crashing-app/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/gdb-live-app/</id>
+        <link href="https://blog.craftyguy.net/gdb-live-app/"/>
+        <title>Using gdb to inspect a crashing app</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2022-01-26T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-using-gdb-to-inspect-a-crashing-app/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Make Free Stuff</title>
         <author>
             <name>Max Böck</name>
@@ -13658,6 +13754,30 @@
       </source>
 
     <id>https://news.cryptic.io/patrick-tanguay-playbook/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Linking in to LinkedIn</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2022-01-20T15:00:00+00:00</published>
+    <updated>2022-01-20T15:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-linking-in-to-linkedin/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-linking-in-to-linkedin/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/linking-in</id>
+        <link href="https://johnwhiles.com/posts/linking-in"/>
+        <title>Linking in to LinkedIn</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2022-01-20T15:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-linking-in-to-linkedin/</id>
     <content type="html">
         
     </content>
@@ -13783,6 +13903,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Network booting an aarch64 SBC with u-boot and iPXE</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2022-01-07T00:00:00+00:00</published>
+    <updated>2022-01-07T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-network-booting-an-aarch64-sbc-with-uboot-and-ipxe/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-network-booting-an-aarch64-sbc-with-uboot-and-ipxe/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/ipxe-aarch64/</id>
+        <link href="https://blog.craftyguy.net/ipxe-aarch64/"/>
+        <title>Network booting an aarch64 SBC with u-boot and iPXE</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2022-01-07T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-network-booting-an-aarch64-sbc-with-uboot-and-ipxe/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>
       The Gift of It&#x27;s Your Problem Now
     </title>
@@ -13835,6 +13979,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Using ASNs and nftables to block connections</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2022-01-01T00:00:00+00:00</published>
+    <updated>2022-01-01T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-using-asns-and-nftables-to-block-connections/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-using-asns-and-nftables-to-block-connections/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/nft-asn-block/</id>
+        <link href="https://blog.craftyguy.net/nft-asn-block/"/>
+        <title>Using ASNs and nftables to block connections</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2022-01-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-using-asns-and-nftables-to-block-connections/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Divide by three using shift and add</title>
         <author>
             <name>Roy van Rijn</name>
@@ -13854,6 +14022,30 @@
       </source>
 
     <id>https://news.cryptic.io/roy-van-rijn-divide-by-three-using-shift-and-add/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Timing performance of functions in shell scripts</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2021-12-30T00:00:00+00:00</published>
+    <updated>2021-12-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-timing-performance-of-functions-in-shell-scripts/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-timing-performance-of-functions-in-shell-scripts/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/shell-script-perf/</id>
+        <link href="https://blog.craftyguy.net/shell-script-perf/"/>
+        <title>Timing performance of functions in shell scripts</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2021-12-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-timing-performance-of-functions-in-shell-scripts/</id>
     <content type="html">
         
     </content>
@@ -14051,6 +14243,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Quick n&#x27; Dirty Mobile IRC&#x2F;Matrix via Weechat</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2021-12-04T00:00:00+00:00</published>
+    <updated>2021-12-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-quick-n-dirty-mobile-ircmatrix-via-weechat/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-quick-n-dirty-mobile-ircmatrix-via-weechat/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/weechat-pmos/</id>
+        <link href="https://blog.craftyguy.net/weechat-pmos/"/>
+        <title>Quick n&#x27; Dirty Mobile IRC&#x2F;Matrix via Weechat</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2021-12-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-quick-n-dirty-mobile-ircmatrix-via-weechat/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>
       100 years of whatever this will be
     </title>
@@ -14226,6 +14442,30 @@
       </source>
 
     <id>https://news.cryptic.io/ash-system76s-lemur-pro-10-a-review/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>YikesScript</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2021-10-24T23:00:00+00:00</published>
+    <updated>2021-10-24T23:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-yikesscript/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-yikesscript/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/yikesscript</id>
+        <link href="https://johnwhiles.com/posts/yikesscript"/>
+        <title>YikesScript</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2021-10-24T23:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-yikesscript/</id>
     <content type="html">
         
     </content>
