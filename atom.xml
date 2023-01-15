@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-14T17:00:00+00:00</updated>
+  <updated>2023-01-15T13:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Mailbag: What should you do if you report to an underperforming executive?</title>
+        <author>
+            <name>Will Larson</name>
+        </author>
+    <published>2023-01-15T13:00:00+00:00</published>
+    <updated>2023-01-15T13:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/will-larson-mailbag-what-should-you-do-if-you-report-to-an-underperforming-executive/"/>
+    <link rel="alternate" href="https://news.cryptic.io/will-larson-mailbag-what-should-you-do-if-you-report-to-an-underperforming-executive/" type="text/html"/>
+      <source>
+        <id>https://lethain.com/underperforming-executive/</id>
+        <link href="https://lethain.com/underperforming-executive/"/>
+        <title>Mailbag: What should you do if you report to an underperforming executive?</title>
+        <author>
+            <name>Will Larson</name>
+        </author>
+        <updated>2023-01-15T13:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/will-larson-mailbag-what-should-you-do-if-you-report-to-an-underperforming-executive/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Web of Science: A Web of Nonsense</title>
         <author>
@@ -3372,30 +3396,6 @@
       </source>
 
     <id>https://news.cryptic.io/nathalie-lawhead-the-opensource-nocode-world-of-gdevelop-if-you-miss-browser-flash-games-this-is-keeping-that-dream-alive/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>2019 - 2022 reading recap.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-    <published>2022-12-12T14:00:00+00:00</published>
-    <updated>2022-12-12T14:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/will-larson-2019-2022-reading-recap/"/>
-    <link rel="alternate" href="https://news.cryptic.io/will-larson-2019-2022-reading-recap/" type="text/html"/>
-      <source>
-        <id>https://lethain.com/books-2022/</id>
-        <link href="https://lethain.com/books-2022/"/>
-        <title>2019 - 2022 reading recap.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-        <updated>2022-12-12T14:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/will-larson-2019-2022-reading-recap/</id>
     <content type="html">
         
     </content>
