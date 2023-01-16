@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-16T10:15:14+00:00</updated>
+  <updated>2023-01-16T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Curating Artwork From Humans and AI</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-01-16T19:00:00+00:00</published>
+    <updated>2023-01-16T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-curating-artwork-from-humans-and-ai/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-curating-artwork-from-humans-and-ai/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/curating-human-and-ai-artwork/</id>
+        <link href="https://blog.jim-nielsen.com/2023/curating-human-and-ai-artwork/"/>
+        <title>Curating Artwork From Humans and AI</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-01-16T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-curating-artwork-from-humans-and-ai/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The pain points of teaching computer science</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2023-01-16T18:00:01+00:00</published>
+    <updated>2023-01-16T18:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-the-pain-points-of-teaching-computer-science/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-the-pain-points-of-teaching-computer-science/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/teachingpainpoints.html</id>
+        <link href="https://austinhenley.com/blog/teachingpainpoints.html"/>
+        <title>The pain points of teaching computer science</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2023-01-16T18:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-the-pain-points-of-teaching-computer-science/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Underrated aspects of the “genetic singularity”</title>
         <author>
@@ -3032,30 +3080,6 @@
       </source>
 
     <id>https://news.cryptic.io/rohan-deshmukh-a-different-approach-to-social-media/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Select The Right Tool For The Job</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2022-12-15T19:00:00+00:00</published>
-    <updated>2022-12-15T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-select-the-right-tool-for-the-job/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-select-the-right-tool-for-the-job/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2022/select-the-right-tool/</id>
-        <link href="https://blog.jim-nielsen.com/2022/select-the-right-tool/"/>
-        <title>Select The Right Tool For The Job</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2022-12-15T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-select-the-right-tool-for-the-job/</id>
     <content type="html">
         
     </content>
@@ -8935,30 +8959,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Measuring demand for a feature: An economics approach</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-    <published>2022-08-29T20:00:01+00:00</published>
-    <updated>2022-08-29T20:00:01+00:00</updated>
-    <link href="https://news.cryptic.io/austin-z-henley-measuring-demand-for-a-feature-an-economics-approach/"/>
-    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-measuring-demand-for-a-feature-an-economics-approach/" type="text/html"/>
-      <source>
-        <id>https://austinhenley.com/blog/measuringdemand.html</id>
-        <link href="https://austinhenley.com/blog/measuringdemand.html"/>
-        <title>Measuring demand for a feature: An economics approach</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-        <updated>2022-08-29T20:00:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/austin-z-henley-measuring-demand-for-a-feature-an-economics-approach/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Generating Agency Through Blogging</title>
         <author>
             <name>Tom Critchlow</name>
@@ -10826,30 +10826,6 @@
       </source>
 
     <id>https://news.cryptic.io/derek-sivers-writing-one-sentence-per-line/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-06-17T00:35:14+00:00</published>
-    <updated>2022-06-17T00:35:14+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1537594682393341952#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1537594682393341952#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-06-17T00:35:14+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
