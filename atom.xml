@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-17T06:43:15+00:00</updated>
+  <updated>2023-01-17T14:55:41+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>My talk on CSS runtime performance</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2023-01-17T14:55:41+00:00</published>
+    <updated>2023-01-17T14:55:41+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-my-talk-on-css-runtime-performance/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-my-talk-on-css-runtime-performance/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/</id>
+        <link href="https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/"/>
+        <title>My talk on CSS runtime performance</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2023-01-17T14:55:41+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-my-talk-on-css-runtime-performance/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Lasercut DnD Scenery</title>
         <author>
@@ -10879,30 +10903,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-06-17T00:35:14+00:00</published>
-    <updated>2022-06-17T00:35:14+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1537594682393341952#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1537594682393341952#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-06-17T00:35:14+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Interview with Kagi</title>
         <author>
             <name>dkb@dkb.fyi (dkb)</name>
@@ -11066,30 +11066,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-re-the-mindless-tyranny-of-what-if-it-changes/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The collapse of complex software</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-    <published>2022-06-09T15:13:17+00:00</published>
-    <updated>2022-06-09T15:13:17+00:00</updated>
-    <link href="https://news.cryptic.io/nolan-lawson-the-collapse-of-complex-software/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-the-collapse-of-complex-software/" type="text/html"/>
-      <source>
-        <id>https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/</id>
-        <link href="https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/"/>
-        <title>The collapse of complex software</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-        <updated>2022-06-09T15:13:17+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nolan-lawson-the-collapse-of-complex-software/</id>
     <content type="html">
         
     </content>
