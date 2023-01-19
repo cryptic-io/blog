@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-18T21:03:56+00:00</updated>
+  <updated>2023-01-19T00:16:36+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Feeds, updates, 200s, 304s, and now 429s</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-19T00:16:36+00:00</published>
+    <updated>2023-01-19T00:16:36+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/18/http/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/18/http/"/>
+        <title>Feeds, updates, 200s, 304s, and now 429s</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-19T00:16:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>“Opportunity Is Always Out There” With Simon Mann
 </title>
@@ -52,6 +76,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-the-anticapitalist-web/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Methodology Trial</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-01-18T00:00:00+00:00</published>
+    <updated>2023-01-18T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-methodology-trial/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-methodology-trial/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2726/</id>
+        <link href="https://xkcd.com/2726/"/>
+        <title>Methodology Trial</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-01-18T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-methodology-trial/</id>
     <content type="html">
         
     </content>
@@ -918,30 +966,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-raspberry-pis-camera-module-3-adds-autofocus-and-new-sony-sensor/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Etymonline</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-01-09T00:00:00+00:00</published>
-    <updated>2023-01-09T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-etymonline/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-etymonline/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2722/</id>
-        <link href="https://xkcd.com/2722/"/>
-        <title>Etymonline</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-01-09T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-etymonline/</id>
     <content type="html">
         
     </content>
@@ -4240,30 +4264,6 @@
       </source>
 
     <id>https://news.cryptic.io/cheapskate-happy-birthday-cheapskates-guide/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Short stories from outage reports</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-12-03T22:57:11+00:00</published>
-    <updated>2022-12-03T22:57:11+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-short-stories-from-outage-reports/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-short-stories-from-outage-reports/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/12/03/flipper/</id>
-        <link href="https://rachelbythebay.com/w/2022/12/03/flipper/"/>
-        <title>Short stories from outage reports</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-12-03T22:57:11+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-short-stories-from-outage-reports/</id>
     <content type="html">
         
     </content>
@@ -13711,6 +13711,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>announcing zephyr-copilot</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2022-02-23T19:55:37+00:00</published>
+    <updated>2022-02-23T19:55:37+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-announcing-zephyrcopilot/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-announcing-zephyrcopilot/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/announcing_zephyr-copilot/</id>
+        <link href="http://joeyh.name/blog/entry/announcing_zephyr-copilot/"/>
+        <title>announcing zephyr-copilot</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2022-02-23T19:55:37+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-announcing-zephyrcopilot/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Minify and Gzip</title>
         <author>
             <name>Wesley Aptekar-Cassels</name>
@@ -14311,6 +14335,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>encountered near the start of a new chapter</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2022-01-18T01:01:45+00:00</published>
+    <updated>2022-01-18T01:01:45+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-encountered-near-the-start-of-a-new-chapter/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-encountered-near-the-start-of-a-new-chapter/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/encountered_near_the_start_of_a_new_chapter/</id>
+        <link href="http://joeyh.name/blog/entry/encountered_near_the_start_of_a_new_chapter/"/>
+        <title>encountered near the start of a new chapter</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2022-01-18T01:01:45+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-encountered-near-the-start-of-a-new-chapter/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Tailwind CSS vs Pico CSS</title>
         <author>
             <name>Andraž Bajt</name>
@@ -14598,6 +14646,30 @@
       </source>
 
     <id>https://news.cryptic.io/roy-van-rijn-hex-grid-in-single-integer/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Volunteer Responsibility Amnesty Day</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2021-12-21T19:40:41+00:00</published>
+    <updated>2021-12-21T19:40:41+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-volunteer-responsibility-amnesty-day/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-volunteer-responsibility-amnesty-day/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/Volunteer_Responsibility_Amnesty_Day/</id>
+        <link href="http://joeyh.name/blog/entry/Volunteer_Responsibility_Amnesty_Day/"/>
+        <title>Volunteer Responsibility Amnesty Day</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2021-12-21T19:40:41+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-volunteer-responsibility-amnesty-day/</id>
     <content type="html">
         
     </content>
@@ -15051,6 +15123,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>a bitter pill for Microsoft Copilot</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2021-07-10T14:19:59+00:00</published>
+    <updated>2021-07-10T14:19:59+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-a-bitter-pill-for-microsoft-copilot/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-a-bitter-pill-for-microsoft-copilot/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/a_bitter_pill_for_Microsoft_Copilot/</id>
+        <link href="http://joeyh.name/blog/entry/a_bitter_pill_for_Microsoft_Copilot/"/>
+        <title>a bitter pill for Microsoft Copilot</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2021-07-10T14:19:59+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-a-bitter-pill-for-microsoft-copilot/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Trying out Prometheus</title>
         <author>
             <name>Andraž Bajt</name>
@@ -15070,6 +15166,30 @@
       </source>
 
     <id>https://news.cryptic.io/andra-bajt-trying-out-prometheus/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>typed pipes in every shell</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2021-06-17T01:09:02+00:00</published>
+    <updated>2021-06-17T01:09:02+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-typed-pipes-in-every-shell/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-typed-pipes-in-every-shell/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/typed_pipes_in_every_shell/</id>
+        <link href="http://joeyh.name/blog/entry/typed_pipes_in_every_shell/"/>
+        <title>typed pipes in every shell</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2021-06-17T01:09:02+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-typed-pipes-in-every-shell/</id>
     <content type="html">
         
     </content>
@@ -15118,6 +15238,30 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-media-queries-in-times-of-container/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>the end of the olduse.net exhibit</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2021-05-29T17:26:43+00:00</published>
+    <updated>2021-05-29T17:26:43+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-the-end-of-the-oldusenet-exhibit/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-the-end-of-the-oldusenet-exhibit/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/the_end_of_the_olduse.net_exhibit/</id>
+        <link href="http://joeyh.name/blog/entry/the_end_of_the_olduse.net_exhibit/"/>
+        <title>the end of the olduse.net exhibit</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2021-05-29T17:26:43+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-the-end-of-the-oldusenet-exhibit/</id>
     <content type="html">
         
     </content>
@@ -15262,6 +15406,30 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-asset-pipelines-in-eleventy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>here&#x27;s your shot</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2021-04-24T00:21:31+00:00</published>
+    <updated>2021-04-24T00:21:31+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-heres-your-shot/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-heres-your-shot/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/heres_your_shot/</id>
+        <link href="http://joeyh.name/blog/entry/heres_your_shot/"/>
+        <title>here&#x27;s your shot</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2021-04-24T00:21:31+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-heres-your-shot/</id>
     <content type="html">
         
     </content>
@@ -15699,6 +15867,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Withrawing github-backup</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2020-12-29T16:32:32+00:00</published>
+    <updated>2020-12-29T16:32:32+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-withrawing-githubbackup/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-withrawing-githubbackup/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/Withrawing_github-backup/</id>
+        <link href="http://joeyh.name/blog/entry/Withrawing_github-backup/"/>
+        <title>Withrawing github-backup</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2020-12-29T16:32:32+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-withrawing-githubbackup/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>
       Systems design explains the world: volume 1
     </title>
@@ -15875,6 +16067,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>how to publish git repos that cannot be republished to github</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2020-11-02T22:03:56+00:00</published>
+    <updated>2020-11-02T22:03:56+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-how-to-publish-git-repos-that-cannot-be-republished-to-github/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-how-to-publish-git-repos-that-cannot-be-republished-to-github/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/how_to_publish_git_repos_that_cannot_be_republished_to_github/</id>
+        <link href="http://joeyh.name/blog/entry/how_to_publish_git_repos_that_cannot_be_republished_to_github/"/>
+        <title>how to publish git repos that cannot be republished to github</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2020-11-02T22:03:56+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-how-to-publish-git-repos-that-cannot-be-republished-to-github/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Eight Months of NixOS</title>
         <author>
             <name>ash</name>
@@ -15894,6 +16110,30 @@
       </source>
 
     <id>https://news.cryptic.io/ash-eight-months-of-nixos/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>comically bad shipping estimates and middlemen</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2020-09-16T01:06:03+00:00</published>
+    <updated>2020-09-16T01:06:03+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-comically-bad-shipping-estimates-and-middlemen/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-comically-bad-shipping-estimates-and-middlemen/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/comically_bad_shipping_estimates_and_middlemen/</id>
+        <link href="http://joeyh.name/blog/entry/comically_bad_shipping_estimates_and_middlemen/"/>
+        <title>comically bad shipping estimates and middlemen</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2020-09-16T01:06:03+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-comically-bad-shipping-estimates-and-middlemen/</id>
     <content type="html">
         
     </content>
