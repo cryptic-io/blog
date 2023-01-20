@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-19T20:50:36+00:00</updated>
+  <updated>2023-01-19T23:13:31+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Shaving Hours off my Workflow - Trimming silence with FCPX and AppleScript</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2023-01-19T23:13:31+00:00</published>
+    <updated>2023-01-19T23:13:31+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-shaving-hours-off-my-workflow-trimming-silence-with-fcpx-and-applescript/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-shaving-hours-off-my-workflow-trimming-silence-with-fcpx-and-applescript/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2023/shaving-hours-my-workflow-trimming-silence-fcpx-and-applescript</id>
+        <link href="https://www.jeffgeerling.com/blog/2023/shaving-hours-my-workflow-trimming-silence-fcpx-and-applescript"/>
+        <title>Shaving Hours off my Workflow - Trimming silence with FCPX and AppleScript</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2023-01-19T23:13:31+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-shaving-hours-off-my-workflow-trimming-silence-with-fcpx-and-applescript/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Funny Programming Languages</title>
         <author>
@@ -5178,30 +5202,6 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-underrated-reasons-to-be-thankful/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Pi Cluster vs Ampere Altra Max 128-core ARM CPU</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2022-11-23T15:02:55+00:00</published>
-    <updated>2022-11-23T15:02:55+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-pi-cluster-vs-ampere-altra-max-128core-arm-cpu/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-pi-cluster-vs-ampere-altra-max-128core-arm-cpu/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2022/pi-cluster-vs-ampere-altra-max-128-core-arm-cpu</id>
-        <link href="https://www.jeffgeerling.com/blog/2022/pi-cluster-vs-ampere-altra-max-128-core-arm-cpu"/>
-        <title>Pi Cluster vs Ampere Altra Max 128-core ARM CPU</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2022-11-23T15:02:55+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-pi-cluster-vs-ampere-altra-max-128core-arm-cpu/</id>
     <content type="html">
         
     </content>
