@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-19T23:13:31+00:00</updated>
+  <updated>2023-01-20T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>🥺: the best sudo replacement</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-01-20T00:00:00+00:00</published>
+    <updated>2023-01-20T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-the-best-sudo-replacement/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-the-best-sudo-replacement/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/🥺</id>
+        <link href="https://xeiaso.net/blog/🥺"/>
+        <title>🥺: the best sudo replacement</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-01-20T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-the-best-sudo-replacement/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Shaving Hours off my Workflow - Trimming silence with FCPX and AppleScript</title>
         <author>
@@ -1614,30 +1638,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-on-random-numbers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to move away from RSA for SSH keys</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2023-01-04T00:00:00+00:00</published>
-    <updated>2023-01-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-how-to-move-away-from-rsa-for-ssh-keys/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-how-to-move-away-from-rsa-for-ssh-keys/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/move-away-rsa-ssh</id>
-        <link href="https://xeiaso.net/blog/move-away-rsa-ssh"/>
-        <title>How to move away from RSA for SSH keys</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2023-01-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-how-to-move-away-from-rsa-for-ssh-keys/</id>
     <content type="html">
         
     </content>
