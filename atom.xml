@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-21T06:25:45+00:00</updated>
+  <updated>2023-01-21T07:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Stuck in the Past? Scaling up Academia</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2023-01-21T07:00:00+00:00</published>
+    <updated>2023-01-21T07:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-stuck-in-the-past-scaling-up-academia/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-stuck-in-the-past-scaling-up-academia/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2023/stuck/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2023/stuck/"/>
+        <title>Stuck in the Past? Scaling up Academia</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2023-01-21T07:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-stuck-in-the-past-scaling-up-academia/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The West could not have created NieR: Automata</title>
         <author>
@@ -10058,30 +10082,6 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-bezier-butts/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Questions to Sharpen a Research Proposal</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-    <published>2022-07-10T22:00:00+00:00</published>
-    <updated>2022-07-10T22:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-questions-to-sharpen-a-research-proposal/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-questions-to-sharpen-a-research-proposal/" type="text/html"/>
-      <source>
-        <id>http://bastian.rieck.me/blog/posts/2022/questions/</id>
-        <link href="http://bastian.rieck.me/blog/posts/2022/questions/"/>
-        <title>Questions to Sharpen a Research Proposal</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-        <updated>2022-07-10T22:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bastian-rieck-questions-to-sharpen-a-research-proposal/</id>
     <content type="html">
         
     </content>
