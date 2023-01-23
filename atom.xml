@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-23T19:00:00+00:00</updated>
+  <updated>2023-01-23T21:00:55+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>New Workshop, Some Data-ish Pipeline Tricks</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-01-23T21:00:55+00:00</published>
+    <updated>2023-01-23T21:00:55+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-new-workshop-some-dataish-pipeline-tricks/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-new-workshop-some-dataish-pipeline-tricks/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/new-workshop-some-data-ish-pipeline-tricks/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/new-workshop-some-data-ish-pipeline-tricks/"/>
+        <title>New Workshop, Some Data-ish Pipeline Tricks</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-01-23T21:00:55+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-new-workshop-some-dataish-pipeline-tricks/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A Short, Totally Unofficial, History of Port Numbers in Web Development</title>
         <author>
@@ -5204,30 +5228,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-blog-is-such-an-ugly-word/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I am disappointed by dynamic typing</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2022-11-29T17:23:57+00:00</published>
-    <updated>2022-11-29T17:23:57+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-i-am-disappointed-by-dynamic-typing/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-i-am-disappointed-by-dynamic-typing/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/"/>
-        <title>I am disappointed by dynamic typing</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2022-11-29T17:23:57+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-i-am-disappointed-by-dynamic-typing/</id>
     <content type="html">
         
     </content>
