@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-23T21:00:55+00:00</updated>
+  <updated>2023-01-24T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>My plans at FOSDEM: SourceHut, Hare, and Helios</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2023-01-24T00:00:00+00:00</published>
+    <updated>2023-01-24T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-my-plans-at-fosdem-sourcehut-hare-and-helios/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-my-plans-at-fosdem-sourcehut-hare-and-helios/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2023/01/24/2023-01-24-FOSDEM.html</id>
+        <link href="https://drewdevault.com/2023/01/24/2023-01-24-FOSDEM.html"/>
+        <title>My plans at FOSDEM: SourceHut, Hare, and Helios</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2023-01-24T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-my-plans-at-fosdem-sourcehut-hare-and-helios/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Analysing The White Lotus — Season 1</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+    <published>2023-01-24T00:00:00+00:00</published>
+    <updated>2023-01-24T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/nutcroft-analysing-the-white-lotus-season-1/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nutcroft-analysing-the-white-lotus-season-1/" type="text/html"/>
+      <source>
+        <id>https://nutcroft.mataroa.blog/blog/the-white-lotus-season-1/</id>
+        <link href="https://nutcroft.mataroa.blog/blog/the-white-lotus-season-1/"/>
+        <title>Analysing The White Lotus — Season 1</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+        <updated>2023-01-24T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nutcroft-analysing-the-white-lotus-season-1/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>New Workshop, Some Data-ish Pipeline Tricks</title>
         <author>
@@ -343,30 +391,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Who needs main() anyway?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-21T06:35:59+00:00</published>
-    <updated>2023-01-21T06:35:59+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/20/mainless/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/20/mainless/"/>
-        <title>Who needs main() anyway?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-21T06:35:59+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The West could not have created NieR: Automata</title>
         <author>
             <name>fbifemboy</name>
@@ -484,30 +508,6 @@
       </source>
 
     <id>https://news.cryptic.io/will-larson-what-does-it-mean-to-be-a-cost-center/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Setting the clock ahead to see what breaks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-20T04:05:53+00:00</published>
-    <updated>2023-01-20T04:05:53+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/19/time/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/19/time/"/>
-        <title>Setting the clock ahead to see what breaks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-20T04:05:53+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/</id>
     <content type="html">
         
     </content>
@@ -652,30 +652,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-funny-programming-languages/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Feeds, updates, 200s, 304s, and now 429s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-19T00:16:36+00:00</published>
-    <updated>2023-01-19T00:16:36+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/18/http/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/18/http/"/>
-        <title>Feeds, updates, 200s, 304s, and now 429s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-19T00:16:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/</id>
     <content type="html">
         
     </content>
@@ -1933,30 +1909,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>S p a m m y  s y s c a l l s in strace dumps</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-06T02:20:28+00:00</published>
-    <updated>2023-01-06T02:20:28+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-s-p-a-m-m-y-s-y-s-c-a-l-l-s-in-strace-dumps/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-s-p-a-m-m-y-s-y-s-c-a-l-l-s-in-strace-dumps/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/05/syscall/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/05/syscall/"/>
-        <title>S p a m m y  s y s c a l l s in strace dumps</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-06T02:20:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-s-p-a-m-m-y-s-y-s-c-a-l-l-s-in-strace-dumps/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Microfeatures I&#x27;d like to see in more languages</title>
         <author>
             <name>Hillel Wayne</name>
@@ -2072,54 +2024,6 @@
       </source>
 
     <id>https://news.cryptic.io/will-larson-how-to-capitalize-engineering-costs/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why I still have an old-school cert on my https site</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-05T04:54:47+00:00</published>
-    <updated>2023-01-05T04:54:47+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/03/ssl/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/03/ssl/"/>
-        <title>Why I still have an old-school cert on my https site</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-05T04:54:47+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Another look at the steps for issuing a cert</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-05T04:54:19+00:00</published>
-    <updated>2023-01-05T04:54:19+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/04/cert/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/04/cert/"/>
-        <title>Another look at the steps for issuing a cert</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-05T04:54:19+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/</id>
     <content type="html">
         
     </content>
@@ -2384,30 +2288,6 @@
       </source>
 
     <id>https://news.cryptic.io/manuel-developing-for-the-fediverse-individuals-fundamental-rights/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Not quite a successful prediction about tracking Apple stuff</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-03T01:11:43+00:00</published>
-    <updated>2023-01-03T01:11:43+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-not-quite-a-successful-prediction-about-tracking-apple-stuff/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-not-quite-a-successful-prediction-about-tracking-apple-stuff/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/02/tag/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/02/tag/"/>
-        <title>Not quite a successful prediction about tracking Apple stuff</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-03T01:11:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-not-quite-a-successful-prediction-about-tracking-apple-stuff/</id>
     <content type="html">
         
     </content>
@@ -3255,30 +3135,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>WPA3: no go on Raspberry Pi (plus some Mac gotchas)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-12-27T22:03:26+00:00</published>
-    <updated>2022-12-27T22:03:26+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-wpa3-no-go-on-raspberry-pi-plus-some-mac-gotchas/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-wpa3-no-go-on-raspberry-pi-plus-some-mac-gotchas/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/12/22/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2022/12/22/wpa3/"/>
-        <title>WPA3: no go on Raspberry Pi (plus some Mac gotchas)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-12-27T22:03:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-wpa3-no-go-on-raspberry-pi-plus-some-mac-gotchas/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Avatar 2 was Bad</title>
         <author>
             <name>geohot</name>
@@ -3322,30 +3178,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-how-to-distort-text-with-svg-filters/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Unintentionally BREAKing a serial console</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-12-26T00:01:44+00:00</published>
-    <updated>2022-12-26T00:01:44+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-unintentionally-breaking-a-serial-console/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-unintentionally-breaking-a-serial-console/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/12/25/tty/</id>
-        <link href="https://rachelbythebay.com/w/2022/12/25/tty/"/>
-        <title>Unintentionally BREAKing a serial console</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-12-26T00:01:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-unintentionally-breaking-a-serial-console/</id>
     <content type="html">
         
     </content>
@@ -3538,30 +3370,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-bugs-that-literally-cost-money/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Systems design and being bitten by edge-triggering</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-12-21T22:07:54+00:00</published>
-    <updated>2022-12-21T22:07:54+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-systems-design-and-being-bitten-by-edgetriggering/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-systems-design-and-being-bitten-by-edgetriggering/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/12/21/boot/</id>
-        <link href="https://rachelbythebay.com/w/2022/12/21/boot/"/>
-        <title>Systems design and being bitten by edge-triggering</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-12-21T22:07:54+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-systems-design-and-being-bitten-by-edgetriggering/</id>
     <content type="html">
         
     </content>
@@ -8210,30 +8018,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-happy-birthday-to-me/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Notes from kernel hacking in Hare, part 2: multi-threading</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-    <published>2022-10-02T00:00:00+00:00</published>
-    <updated>2022-10-02T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/drew-devault-notes-from-kernel-hacking-in-hare-part-2-multithreading/"/>
-    <link rel="alternate" href="https://news.cryptic.io/drew-devault-notes-from-kernel-hacking-in-hare-part-2-multithreading/" type="text/html"/>
-      <source>
-        <id>https://drewdevault.com/2022/10/02/Kernel-hacking-with-Hare-part-2.html</id>
-        <link href="https://drewdevault.com/2022/10/02/Kernel-hacking-with-Hare-part-2.html"/>
-        <title>Notes from kernel hacking in Hare, part 2: multi-threading</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-        <updated>2022-10-02T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/drew-devault-notes-from-kernel-hacking-in-hare-part-2-multithreading/</id>
     <content type="html">
         
     </content>
@@ -14210,30 +13994,6 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-cocktail-party-ideas/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>In defense of user-defined web fonts</title>
-        <author>
-            <name>nutcroft</name>
-        </author>
-    <published>2022-02-01T00:00:00+00:00</published>
-    <updated>2022-02-01T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/nutcroft-in-defense-of-userdefined-web-fonts/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nutcroft-in-defense-of-userdefined-web-fonts/" type="text/html"/>
-      <source>
-        <id>https://nutcroft.mataroa.blog/blog/in-defense-of-user-defined-web-fonts/</id>
-        <link href="https://nutcroft.mataroa.blog/blog/in-defense-of-user-defined-web-fonts/"/>
-        <title>In defense of user-defined web fonts</title>
-        <author>
-            <name>nutcroft</name>
-        </author>
-        <updated>2022-02-01T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nutcroft-in-defense-of-userdefined-web-fonts/</id>
     <content type="html">
         
     </content>
