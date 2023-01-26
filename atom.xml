@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-26T10:24:02+00:00</updated>
+  <updated>2023-01-26T12:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Safe defaults.</title>
+        <author>
+            <name>Will Larson</name>
+        </author>
+    <published>2023-01-26T12:00:00+00:00</published>
+    <updated>2023-01-26T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/will-larson-safe-defaults/"/>
+    <link rel="alternate" href="https://news.cryptic.io/will-larson-safe-defaults/" type="text/html"/>
+      <source>
+        <id>https://lethain.com/safe-defaults/</id>
+        <link href="https://lethain.com/safe-defaults/"/>
+        <title>Safe defaults.</title>
+        <author>
+            <name>Will Larson</name>
+        </author>
+        <updated>2023-01-26T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/will-larson-safe-defaults/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Meals that are healthy, quick, inexpensive, simple, and tasty</title>
         <author>
@@ -559,30 +583,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Who needs main() anyway?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-21T06:35:59+00:00</published>
-    <updated>2023-01-21T06:35:59+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/20/mainless/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/20/mainless/"/>
-        <title>Who needs main() anyway?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-21T06:35:59+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The West could not have created NieR: Automata</title>
         <author>
             <name>fbifemboy</name>
@@ -700,30 +700,6 @@
       </source>
 
     <id>https://news.cryptic.io/will-larson-what-does-it-mean-to-be-a-cost-center/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Setting the clock ahead to see what breaks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-20T04:05:53+00:00</published>
-    <updated>2023-01-20T04:05:53+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/19/time/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/19/time/"/>
-        <title>Setting the clock ahead to see what breaks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-20T04:05:53+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/</id>
     <content type="html">
         
     </content>
@@ -868,30 +844,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-funny-programming-languages/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Feeds, updates, 200s, 304s, and now 429s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-19T00:16:36+00:00</published>
-    <updated>2023-01-19T00:16:36+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/18/http/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/18/http/"/>
-        <title>Feeds, updates, 200s, 304s, and now 429s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-19T00:16:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/</id>
     <content type="html">
         
     </content>
@@ -2125,30 +2077,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>S p a m m y  s y s c a l l s in strace dumps</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-06T02:20:28+00:00</published>
-    <updated>2023-01-06T02:20:28+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-s-p-a-m-m-y-s-y-s-c-a-l-l-s-in-strace-dumps/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-s-p-a-m-m-y-s-y-s-c-a-l-l-s-in-strace-dumps/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/05/syscall/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/05/syscall/"/>
-        <title>S p a m m y  s y s c a l l s in strace dumps</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-06T02:20:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-s-p-a-m-m-y-s-y-s-c-a-l-l-s-in-strace-dumps/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Microfeatures I&#x27;d like to see in more languages</title>
         <author>
             <name>Hillel Wayne</name>
@@ -2264,54 +2192,6 @@
       </source>
 
     <id>https://news.cryptic.io/will-larson-how-to-capitalize-engineering-costs/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why I still have an old-school cert on my https site</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-05T04:54:47+00:00</published>
-    <updated>2023-01-05T04:54:47+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/03/ssl/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/03/ssl/"/>
-        <title>Why I still have an old-school cert on my https site</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-05T04:54:47+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Another look at the steps for issuing a cert</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-05T04:54:19+00:00</published>
-    <updated>2023-01-05T04:54:19+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/04/cert/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/04/cert/"/>
-        <title>Another look at the steps for issuing a cert</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-05T04:54:19+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/</id>
     <content type="html">
         
     </content>
@@ -2581,30 +2461,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Not quite a successful prediction about tracking Apple stuff</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-03T01:11:43+00:00</published>
-    <updated>2023-01-03T01:11:43+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-not-quite-a-successful-prediction-about-tracking-apple-stuff/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-not-quite-a-successful-prediction-about-tracking-apple-stuff/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/02/tag/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/02/tag/"/>
-        <title>Not quite a successful prediction about tracking Apple stuff</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-03T01:11:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-not-quite-a-successful-prediction-about-tracking-apple-stuff/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The Expanding Dark Forest and Generative AI</title>
         <author>
             <name>Maggie Appleton</name>
@@ -2696,30 +2552,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-book-notes-pirate-hunters-by-robert-kurson/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Measuring an engineering organization.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-    <published>2023-01-02T12:00:00+00:00</published>
-    <updated>2023-01-02T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/will-larson-measuring-an-engineering-organization/"/>
-    <link rel="alternate" href="https://news.cryptic.io/will-larson-measuring-an-engineering-organization/" type="text/html"/>
-      <source>
-        <id>https://lethain.com/measuring-engineering-organizations/</id>
-        <link href="https://lethain.com/measuring-engineering-organizations/"/>
-        <title>Measuring an engineering organization.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-        <updated>2023-01-02T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/will-larson-measuring-an-engineering-organization/</id>
     <content type="html">
         
     </content>
@@ -3423,30 +3255,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>WPA3: no go on Raspberry Pi (plus some Mac gotchas)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-12-27T22:03:26+00:00</published>
-    <updated>2022-12-27T22:03:26+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-wpa3-no-go-on-raspberry-pi-plus-some-mac-gotchas/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-wpa3-no-go-on-raspberry-pi-plus-some-mac-gotchas/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/12/22/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2022/12/22/wpa3/"/>
-        <title>WPA3: no go on Raspberry Pi (plus some Mac gotchas)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-12-27T22:03:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-wpa3-no-go-on-raspberry-pi-plus-some-mac-gotchas/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Avatar 2 was Bad</title>
         <author>
             <name>geohot</name>
@@ -3490,30 +3298,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-how-to-distort-text-with-svg-filters/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Unintentionally BREAKing a serial console</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-12-26T00:01:44+00:00</published>
-    <updated>2022-12-26T00:01:44+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-unintentionally-breaking-a-serial-console/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-unintentionally-breaking-a-serial-console/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/12/25/tty/</id>
-        <link href="https://rachelbythebay.com/w/2022/12/25/tty/"/>
-        <title>Unintentionally BREAKing a serial console</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-12-26T00:01:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-unintentionally-breaking-a-serial-console/</id>
     <content type="html">
         
     </content>
@@ -3706,30 +3490,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-bugs-that-literally-cost-money/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Systems design and being bitten by edge-triggering</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-12-21T22:07:54+00:00</published>
-    <updated>2022-12-21T22:07:54+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-systems-design-and-being-bitten-by-edgetriggering/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-systems-design-and-being-bitten-by-edgetriggering/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/12/21/boot/</id>
-        <link href="https://rachelbythebay.com/w/2022/12/21/boot/"/>
-        <title>Systems design and being bitten by edge-triggering</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-12-21T22:07:54+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-systems-design-and-being-bitten-by-edgetriggering/</id>
     <content type="html">
         
     </content>
