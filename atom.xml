@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-26T12:00:00+00:00</updated>
+  <updated>2023-01-26T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Digital Preservation and “The App Icon Book”</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-01-26T19:00:00+00:00</published>
+    <updated>2023-01-26T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-digital-preservation-and-the-app-icon-book/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-digital-preservation-and-the-app-icon-book/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/digital-preservation-and-the-app-icon-book/</id>
+        <link href="https://blog.jim-nielsen.com/2023/digital-preservation-and-the-app-icon-book/"/>
+        <title>Digital Preservation and “The App Icon Book”</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-01-26T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-digital-preservation-and-the-app-icon-book/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Container Queries and Typography</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-01-26T16:13:23+00:00</published>
+    <updated>2023-01-26T16:13:23+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-container-queries-and-typography/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-container-queries-and-typography/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/container-queries-and-typography/</id>
+        <link href="https://robinrendle.com/notes/container-queries-and-typography/"/>
+        <title>Container Queries and Typography</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-01-26T16:13:23+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-container-queries-and-typography/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Safe defaults.</title>
         <author>
@@ -2533,30 +2581,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Book Notes: “Pirate Hunters” by Robert Kurson</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-01-02T19:00:00+00:00</published>
-    <updated>2023-01-02T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-book-notes-pirate-hunters-by-robert-kurson/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-book-notes-pirate-hunters-by-robert-kurson/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/book-notes-pirate-treasure/</id>
-        <link href="https://blog.jim-nielsen.com/2023/book-notes-pirate-treasure/"/>
-        <title>Book Notes: “Pirate Hunters” by Robert Kurson</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-01-02T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-book-notes-pirate-hunters-by-robert-kurson/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Why It’s Worth Doing Things Properly</title>
         <author>
             <name>Various</name>
@@ -3418,30 +3442,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-moving-timelines/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Style Queries are Mind Boggling</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-12-23T03:29:24+00:00</published>
-    <updated>2022-12-23T03:29:24+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-style-queries-are-mind-boggling/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-style-queries-are-mind-boggling/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/style-queries-are-mind-boggling/</id>
-        <link href="https://robinrendle.com/notes/style-queries-are-mind-boggling/"/>
-        <title>Style Queries are Mind Boggling</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-12-23T03:29:24+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-style-queries-are-mind-boggling/</id>
     <content type="html">
         
     </content>
@@ -10922,30 +10922,6 @@
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-enrolled-in-wyfa2022/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-06-17T00:35:14+00:00</published>
-    <updated>2022-06-17T00:35:14+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1537594682393341952#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1537594682393341952#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-06-17T00:35:14+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
