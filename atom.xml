@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-27T00:55:49+00:00</updated>
+  <updated>2023-01-27T04:18:56+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-27T04:18:56+00:00</published>
+    <updated>2023-01-27T04:18:56+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/26/shadow/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/26/shadow/"/>
+        <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-27T04:18:56+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Thoughts on Cixin Liu’s Three-Body Problem series</title>
         <author>
@@ -3514,30 +3538,6 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-yesterday/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>WPA3: no go on Raspberry Pi (plus some Mac gotchas)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2022-12-27T22:03:26+00:00</published>
-    <updated>2022-12-27T22:03:26+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-wpa3-no-go-on-raspberry-pi-plus-some-mac-gotchas/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-wpa3-no-go-on-raspberry-pi-plus-some-mac-gotchas/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2022/12/22/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2022/12/22/wpa3/"/>
-        <title>WPA3: no go on Raspberry Pi (plus some Mac gotchas)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2022-12-27T22:03:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-wpa3-no-go-on-raspberry-pi-plus-some-mac-gotchas/</id>
     <content type="html">
         
     </content>
