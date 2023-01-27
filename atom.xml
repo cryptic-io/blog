@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-27T04:18:56+00:00</updated>
+  <updated>2023-01-27T18:00:01+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Natural language is the lazy user interface</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2023-01-27T18:00:01+00:00</published>
+    <updated>2023-01-27T18:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-natural-language-is-the-lazy-user-interface/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-natural-language-is-the-lazy-user-interface/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/naturallanguageui.html</id>
+        <link href="https://austinhenley.com/blog/naturallanguageui.html"/>
+        <title>Natural language is the lazy user interface</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2023-01-27T18:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-natural-language-is-the-lazy-user-interface/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>How to Retain Your Personal Computing Freedom and Avoid Going Back to the Future</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-01-27T12:17:00+00:00</published>
+    <updated>2023-01-27T12:17:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-how-to-retain-your-personal-computing-freedom-and-avoid-going-back-to-the-future/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-how-to-retain-your-personal-computing-freedom-and-avoid-going-back-to-the-future/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/retaining-computing-freedom.html</id>
+        <link href="https://cheapskatesguide.org/articles/retaining-computing-freedom.html"/>
+        <title>How to Retain Your Personal Computing Freedom and Avoid Going Back to the Future</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-01-27T12:17:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-how-to-retain-your-personal-computing-freedom-and-avoid-going-back-to-the-future/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
         <author>
@@ -6173,30 +6221,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Nomad Network is a Promising Distributed Network with Very Few Users</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2022-11-17T09:30:00+00:00</published>
-    <updated>2022-11-17T09:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-the-nomad-network-is-a-promising-distributed-network-with-very-few-users/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-nomad-network-is-a-promising-distributed-network-with-very-few-users/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/nomadnet.html</id>
-        <link href="https://cheapskatesguide.org/articles/nomadnet.html"/>
-        <title>The Nomad Network is a Promising Distributed Network with Very Few Users</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2022-11-17T09:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-the-nomad-network-is-a-promising-distributed-network-with-very-few-users/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The Cool Thing You Didn’t Know Existed</title>
         <author>
             <name>Brian Kardell</name>
@@ -8546,30 +8570,6 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-minimum-viable-fan-control-script/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>An AI assistant for command line errors</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-    <published>2022-09-24T20:00:01+00:00</published>
-    <updated>2022-09-24T20:00:01+00:00</updated>
-    <link href="https://news.cryptic.io/austin-z-henley-an-ai-assistant-for-command-line-errors/"/>
-    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-an-ai-assistant-for-command-line-errors/" type="text/html"/>
-      <source>
-        <id>https://austinhenley.com/blog/aiterminal.html</id>
-        <link href="https://austinhenley.com/blog/aiterminal.html"/>
-        <title>An AI assistant for command line errors</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-        <updated>2022-09-24T20:00:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/austin-z-henley-an-ai-assistant-for-command-line-errors/</id>
     <content type="html">
         
     </content>
