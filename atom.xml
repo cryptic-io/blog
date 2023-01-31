@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-01-31T01:10:46+00:00</updated>
+  <updated>2023-01-31T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Reading Notes, January 2023</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-01-31T19:00:00+00:00</published>
+    <updated>2023-01-31T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-reading-notes-january-2023/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-reading-notes-january-2023/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/reading-notes-january/</id>
+        <link href="https://blog.jim-nielsen.com/2023/reading-notes-january/"/>
+        <title>Reading Notes, January 2023</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-01-31T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-reading-notes-january-2023/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The beginner&#x27;s guide to over­complicating coffee ☕</title>
         <author>
@@ -2868,30 +2892,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-microfeatures-id-like-to-see-in-more-languages/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Justify Space Between Individual Items in Flexbox</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-01-05T19:00:00+00:00</published>
-    <updated>2023-01-05T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-justify-space-between-individual-items-in-flexbox/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-justify-space-between-individual-items-in-flexbox/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/justify-space-between-individual-items/</id>
-        <link href="https://blog.jim-nielsen.com/2023/justify-space-between-individual-items/"/>
-        <title>Justify Space Between Individual Items in Flexbox</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-01-05T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-justify-space-between-individual-items-in-flexbox/</id>
     <content type="html">
         
     </content>
