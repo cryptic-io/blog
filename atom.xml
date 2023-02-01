@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-01T09:42:58+00:00</updated>
+  <updated>2023-02-01T15:00:19+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Rock 5 B is not a Raspberry Pi killer—yet</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2023-02-01T15:00:19+00:00</published>
+    <updated>2023-02-01T15:00:19+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-the-rock-5-b-is-not-a-raspberry-pi-killeryet/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-the-rock-5-b-is-not-a-raspberry-pi-killeryet/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2023/rock-5-b-not-raspberry-pi-killer-yet</id>
+        <link href="https://www.jeffgeerling.com/blog/2023/rock-5-b-not-raspberry-pi-killer-yet"/>
+        <title>The Rock 5 B is not a Raspberry Pi killer—yet</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2023-02-01T15:00:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-the-rock-5-b-is-not-a-raspberry-pi-killeryet/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The tenured professor and the sea of cancellation: Gregory Clark on human intelligence</title>
         <author>
@@ -4406,30 +4430,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-2022-in-review/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Limiting Handbrake threads to prevent throttling on M2 Macbook Air</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2022-12-19T20:31:11+00:00</published>
-    <updated>2022-12-19T20:31:11+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-limiting-handbrake-threads-to-prevent-throttling-on-m2-macbook-air/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-limiting-handbrake-threads-to-prevent-throttling-on-m2-macbook-air/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2022/limiting-handbrake-threads-prevent-throttling-on-m2-macbook-air</id>
-        <link href="https://www.jeffgeerling.com/blog/2022/limiting-handbrake-threads-prevent-throttling-on-m2-macbook-air"/>
-        <title>Limiting Handbrake threads to prevent throttling on M2 Macbook Air</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2022-12-19T20:31:11+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-limiting-handbrake-threads-to-prevent-throttling-on-m2-macbook-air/</id>
     <content type="html">
         
     </content>
