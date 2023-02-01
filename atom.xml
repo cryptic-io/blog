@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-01T15:00:19+00:00</updated>
+  <updated>2023-02-01T16:56:12+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Shift Happens Livestream</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-02-01T16:56:12+00:00</published>
+    <updated>2023-02-01T16:56:12+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-shift-happens-livestream/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-shift-happens-livestream/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/shift-happens-livestream-/</id>
+        <link href="https://robinrendle.com/notes/shift-happens-livestream-/"/>
+        <title>Shift Happens Livestream</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-02-01T16:56:12+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-shift-happens-livestream/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Removing RF interference from a cell phone from audio recording</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2023-02-01T16:32:09+00:00</published>
+    <updated>2023-02-01T16:32:09+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-removing-rf-interference-from-a-cell-phone-from-audio-recording/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-removing-rf-interference-from-a-cell-phone-from-audio-recording/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2023/removing-rf-interference-cell-phone-audio-recording</id>
+        <link href="https://www.jeffgeerling.com/blog/2023/removing-rf-interference-cell-phone-audio-recording"/>
+        <title>Removing RF interference from a cell phone from audio recording</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2023-02-01T16:32:09+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-removing-rf-interference-from-a-cell-phone-from-audio-recording/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Rock 5 B is not a Raspberry Pi killer—yet</title>
         <author>
@@ -3593,30 +3641,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Part of the wrong 1% — Ostomy surgery, part 2</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2022-12-30T15:27:25+00:00</published>
-    <updated>2022-12-30T15:27:25+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-part-of-the-wrong-1-ostomy-surgery-part-2/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-part-of-the-wrong-1-ostomy-surgery-part-2/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2022/part-of-the-wrong-1-perecent-ostomy-surgery-part-2</id>
-        <link href="https://www.jeffgeerling.com/blog/2022/part-of-the-wrong-1-perecent-ostomy-surgery-part-2"/>
-        <title>Part of the wrong 1% — Ostomy surgery, part 2</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2022-12-30T15:27:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-part-of-the-wrong-1-ostomy-surgery-part-2/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Surreal Holiday</title>
         <author>
             <name>Brian Kardell</name>
@@ -3902,30 +3926,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-avatar-2-was-bad/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to Distort Text with SVG Filters</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2022-12-27T00:17:35+00:00</published>
-    <updated>2022-12-27T00:17:35+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-how-to-distort-text-with-svg-filters/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-how-to-distort-text-with-svg-filters/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/how-to-distort-text-with-svg-filters/</id>
-        <link href="https://robinrendle.com/notes/how-to-distort-text-with-svg-filters/"/>
-        <title>How to Distort Text with SVG Filters</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2022-12-27T00:17:35+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-how-to-distort-text-with-svg-filters/</id>
     <content type="html">
         
     </content>
