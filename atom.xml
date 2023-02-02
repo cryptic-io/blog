@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-02T09:30:08+00:00</updated>
+  <updated>2023-02-02T20:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Abbie Angie Velar</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2023-02-02T20:00:00+00:00</published>
+    <updated>2023-02-02T20:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-abbie-angie-velar/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-abbie-angie-velar/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2023/02/02/Abbie-Angie-Velar</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2023/02/02/Abbie-Angie-Velar"/>
+        <title>Abbie Angie Velar</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2023-02-02T20:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-abbie-angie-velar/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Excellent cheeses</title>
         <author>
@@ -537,30 +561,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Determine durations with monotonic clocks if available</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-29T23:12:23+00:00</published>
-    <updated>2023-01-29T23:12:23+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/29/bash/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/29/bash/"/>
-        <title>Determine durations with monotonic clocks if available</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-29T23:12:23+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Nothing’s Bulletproof</title>
         <author>
             <name>Jim Nielsen</name>
@@ -779,30 +779,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-27T04:18:56+00:00</published>
-    <updated>2023-01-27T04:18:56+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/26/shadow/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/26/shadow/"/>
-        <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-27T04:18:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>ThinkPad as a server: the follow-up</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -846,30 +822,6 @@
       </source>
 
     <id>https://news.cryptic.io/fbifemboy-thoughts-on-cixin-lius-threebody-problem-series/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Reader feedback: &quot;bad&quot; names, !main(), and Mastodon</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-27T00:28:05+00:00</published>
-    <updated>2023-01-27T00:28:05+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-reader-feedback-bad-names-main-and-mastodon/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-reader-feedback-bad-names-main-and-mastodon/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/26/feedback/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/26/feedback/"/>
-        <title>Reader feedback: &quot;bad&quot; names, !main(), and Mastodon</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-27T00:28:05+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-reader-feedback-bad-names-main-and-mastodon/</id>
     <content type="html">
         
     </content>
@@ -1571,30 +1523,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Who needs main() anyway?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-21T06:35:59+00:00</published>
-    <updated>2023-01-21T06:35:59+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/20/mainless/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/20/mainless/"/>
-        <title>Who needs main() anyway?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-21T06:35:59+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The West could not have created NieR: Automata</title>
         <author>
             <name>fbifemboy</name>
@@ -1717,30 +1645,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Setting the clock ahead to see what breaks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-20T04:05:53+00:00</published>
-    <updated>2023-01-20T04:05:53+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/19/time/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/19/time/"/>
-        <title>Setting the clock ahead to see what breaks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-20T04:05:53+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Digital Bricolage &amp; Web Foraging</title>
         <author>
             <name>Tom Critchlow</name>
@@ -1856,30 +1760,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-funny-programming-languages/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Feeds, updates, 200s, 304s, and now 429s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-19T00:16:36+00:00</published>
-    <updated>2023-01-19T00:16:36+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/18/http/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/18/http/"/>
-        <title>Feeds, updates, 200s, 304s, and now 429s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-19T00:16:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/</id>
     <content type="html">
         
     </content>
@@ -3065,30 +2945,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>S p a m m y  s y s c a l l s in strace dumps</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-06T02:20:28+00:00</published>
-    <updated>2023-01-06T02:20:28+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-s-p-a-m-m-y-s-y-s-c-a-l-l-s-in-strace-dumps/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-s-p-a-m-m-y-s-y-s-c-a-l-l-s-in-strace-dumps/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/05/syscall/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/05/syscall/"/>
-        <title>S p a m m y  s y s c a l l s in strace dumps</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-06T02:20:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-s-p-a-m-m-y-s-y-s-c-a-l-l-s-in-strace-dumps/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Microfeatures I&#x27;d like to see in more languages</title>
         <author>
             <name>Hillel Wayne</name>
@@ -3180,54 +3036,6 @@
       </source>
 
     <id>https://news.cryptic.io/will-larson-how-to-capitalize-engineering-costs/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why I still have an old-school cert on my https site</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-05T04:54:47+00:00</published>
-    <updated>2023-01-05T04:54:47+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/03/ssl/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/03/ssl/"/>
-        <title>Why I still have an old-school cert on my https site</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-05T04:54:47+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Another look at the steps for issuing a cert</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-05T04:54:19+00:00</published>
-    <updated>2023-01-05T04:54:19+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/04/cert/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/04/cert/"/>
-        <title>Another look at the steps for issuing a cert</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-05T04:54:19+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/</id>
     <content type="html">
         
     </content>
@@ -3444,30 +3252,6 @@
       </source>
 
     <id>https://news.cryptic.io/manuel-developing-for-the-fediverse-individuals-fundamental-rights/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Not quite a successful prediction about tracking Apple stuff</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-03T01:11:43+00:00</published>
-    <updated>2023-01-03T01:11:43+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-not-quite-a-successful-prediction-about-tracking-apple-stuff/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-not-quite-a-successful-prediction-about-tracking-apple-stuff/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/02/tag/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/02/tag/"/>
-        <title>Not quite a successful prediction about tracking Apple stuff</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-03T01:11:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-not-quite-a-successful-prediction-about-tracking-apple-stuff/</id>
     <content type="html">
         
     </content>
@@ -5926,30 +5710,6 @@
       </source>
 
     <id>https://news.cryptic.io/rohan-deshmukh-future-of-social-media/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Protect Me From What I Want</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2022-11-28T20:00:00+00:00</published>
-    <updated>2022-11-28T20:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-protect-me-from-what-i-want/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-protect-me-from-what-i-want/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2022/11/28/On-Algorithms</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2022/11/28/On-Algorithms"/>
-        <title>Protect Me From What I Want</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2022-11-28T20:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-protect-me-from-what-i-want/</id>
     <content type="html">
         
     </content>
