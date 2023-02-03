@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-02T23:00:00+00:00</updated>
+  <updated>2023-02-03T20:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Amazon Q4 2022 Financials</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2023-02-03T20:00:00+00:00</published>
+    <updated>2023-02-03T20:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-amazon-q4-2022-financials/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-amazon-q4-2022-financials/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2023/02/03/Amazon-Q4-2022</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2023/02/03/Amazon-Q4-2022"/>
+        <title>Amazon Q4 2022 Financials</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2023-02-03T20:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-amazon-q4-2022-financials/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Improve your debugging by asking broad questions</title>
         <author>
@@ -4770,30 +4794,6 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-aguafuerte-rosarina/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Twitter Futures</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2022-12-16T20:00:00+00:00</published>
-    <updated>2022-12-16T20:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-twitter-futures/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-twitter-futures/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2022/12/16/Twitter-Futures</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2022/12/16/Twitter-Futures"/>
-        <title>Twitter Futures</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2022-12-16T20:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-twitter-futures/</id>
     <content type="html">
         
     </content>
