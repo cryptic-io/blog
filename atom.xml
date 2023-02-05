@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-04T12:22:17+00:00</updated>
+  <updated>2023-02-05T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Unease, writing, and thinking</title>
+        <author>
+            <name>Patrick Tanguay</name>
+        </author>
+    <published>2023-02-05T00:00:00+00:00</published>
+    <updated>2023-02-05T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/patrick-tanguay-unease-writing-and-thinking/"/>
+    <link rel="alternate" href="https://news.cryptic.io/patrick-tanguay-unease-writing-and-thinking/" type="text/html"/>
+      <source>
+        <id>https://sentiers.media/unease-writing-and-thinking/</id>
+        <link href="https://sentiers.media/unease-writing-and-thinking/"/>
+        <title>Unease, writing, and thinking</title>
+        <author>
+            <name>Patrick Tanguay</name>
+        </author>
+        <updated>2023-02-05T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/patrick-tanguay-unease-writing-and-thinking/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>An anthropological expedition into a Portland anarchist newsletter</title>
         <author>
@@ -992,30 +1016,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-natural-language-is-the-lazy-user-interface/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to Retain Your Personal Computing Freedom and Avoid Going Back to the Future</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-01-27T12:17:00+00:00</published>
-    <updated>2023-01-27T12:17:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-how-to-retain-your-personal-computing-freedom-and-avoid-going-back-to-the-future/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-how-to-retain-your-personal-computing-freedom-and-avoid-going-back-to-the-future/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/retaining-computing-freedom.html</id>
-        <link href="https://cheapskatesguide.org/articles/retaining-computing-freedom.html"/>
-        <title>How to Retain Your Personal Computing Freedom and Avoid Going Back to the Future</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-01-27T12:17:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-how-to-retain-your-personal-computing-freedom-and-avoid-going-back-to-the-future/</id>
     <content type="html">
         
     </content>
@@ -2683,30 +2683,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A Review of the Thinkcentre M600 Mini Desktop Computer</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-01-13T14:36:00+00:00</published>
-    <updated>2023-01-13T14:36:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-a-review-of-the-thinkcentre-m600-mini-desktop-computer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-a-review-of-the-thinkcentre-m600-mini-desktop-computer/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/thinkcentre-m600-review.html</id>
-        <link href="https://cheapskatesguide.org/articles/thinkcentre-m600-review.html"/>
-        <title>A Review of the Thinkcentre M600 Mini Desktop Computer</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-01-13T14:36:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-a-review-of-the-thinkcentre-m600-mini-desktop-computer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Suggestions and Observations, Japan</title>
         <author>
             <name>John Whiles</name>
@@ -3187,30 +3163,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2023-01-06T12:36:00+00:00</published>
-    <updated>2023-01-06T12:36:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/beware-help.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/beware-help.html"/>
-        <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2023-01-06T12:36:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>S p a m m y  s y s c a l l s in strace dumps</title>
         <author>
             <name>rachelbythebay</name>
@@ -3518,30 +3470,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-shift-happens/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Finding &quot;The Internet&quot; Toxic and Depressing?  Consider Leaving Your Walled Garden.</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-01-03T12:31:00+00:00</published>
-    <updated>2023-01-03T12:31:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-finding-the-internet-toxic-and-depressing-consider-leaving-your-walled-garden/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-finding-the-internet-toxic-and-depressing-consider-leaving-your-walled-garden/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/toxic-gardens.html</id>
-        <link href="https://cheapskatesguide.org/articles/toxic-gardens.html"/>
-        <title>Finding &quot;The Internet&quot; Toxic and Depressing?  Consider Leaving Your Walled Garden.</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-01-03T12:31:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-finding-the-internet-toxic-and-depressing-consider-leaving-your-walled-garden/</id>
     <content type="html">
         
     </content>
@@ -4605,30 +4533,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Gemini Network is Great, but It is Still Something of a Tech Geek Playground</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2022-12-20T10:24:00+00:00</published>
-    <updated>2022-12-20T10:24:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-the-gemini-network-is-great-but-it-is-still-something-of-a-tech-geek-playground/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-gemini-network-is-great-but-it-is-still-something-of-a-tech-geek-playground/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/gemini-geek-playground.html</id>
-        <link href="https://cheapskatesguide.org/articles/gemini-geek-playground.html"/>
-        <title>The Gemini Network is Great, but It is Still Something of a Tech Geek Playground</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2022-12-20T10:24:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-the-gemini-network-is-great-but-it-is-still-something-of-a-tech-geek-playground/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>2022 In Review</title>
         <author>
             <name>Hillel Wayne</name>
@@ -5566,30 +5470,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-software-horror-show-sap-concur/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Happy Birthday Cheapskate&#x27;s Guide</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2022-12-04T12:20:00+00:00</published>
-    <updated>2022-12-04T12:20:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-happy-birthday-cheapskates-guide/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-happy-birthday-cheapskates-guide/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/fourth-birthday.html</id>
-        <link href="https://cheapskatesguide.org/articles/fourth-birthday.html"/>
-        <title>Happy Birthday Cheapskate&#x27;s Guide</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2022-12-04T12:20:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-happy-birthday-cheapskates-guide/</id>
     <content type="html">
         
     </content>
@@ -6962,30 +6842,6 @@
       </source>
 
     <id>https://news.cryptic.io/manuel-embedded-development-is-not-like-web-development/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Idyllic Life</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-11-05T12:04:00+00:00</published>
-    <updated>2022-11-05T12:04:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-idyllic-life/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-idyllic-life/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/idyllic-life.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/idyllic-life.html"/>
-        <title>Idyllic Life</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-11-05T12:04:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-idyllic-life/</id>
     <content type="html">
         
     </content>
@@ -9535,30 +9391,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-08-31T13:19:00+00:00</published>
-    <updated>2022-08-31T13:19:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html"/>
-        <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-08-31T13:19:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Thoughts on buying a car</title>
         <author>
             <name>herman</name>
@@ -11743,30 +11575,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Computers Were Not Meant to be Screwdrivers</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-05-28T10:34:00+00:00</published>
-    <updated>2022-05-28T10:34:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/computers-and-screwdrivers.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/computers-and-screwdrivers.html"/>
-        <title>Computers Were Not Meant to be Screwdrivers</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-05-28T10:34:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Backrooms Async Lab Diorama – One Day Build</title>
         <author>
             <name>mechatronicsguy</name>
@@ -12482,30 +12290,6 @@
       </source>
 
     <id>https://news.cryptic.io/linus-lee-legal-documents-are-pushing-text-interfaces-forward/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>We are not Adults Just Because We Say So</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-04-30T06:17:00+00:00</published>
-    <updated>2022-04-30T06:17:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/adults.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/adults.html"/>
-        <title>We are not Adults Just Because We Say So</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-04-30T06:17:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/</id>
     <content type="html">
         
     </content>
@@ -14426,30 +14210,6 @@
       </source>
 
     <id>https://news.cryptic.io/adam-pritchard-diving-into-gos-http-server-timeouts/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Here’s what I’m thinking</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-    <published>2022-01-12T00:00:00+00:00</published>
-    <updated>2022-01-12T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/patrick-tanguay-heres-what-im-thinking/"/>
-    <link rel="alternate" href="https://news.cryptic.io/patrick-tanguay-heres-what-im-thinking/" type="text/html"/>
-      <source>
-        <id>https://sentiers.media/heres-what-im-thinking/</id>
-        <link href="https://sentiers.media/heres-what-im-thinking/"/>
-        <title>Here’s what I’m thinking</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-        <updated>2022-01-12T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/patrick-tanguay-heres-what-im-thinking/</id>
     <content type="html">
         
     </content>
