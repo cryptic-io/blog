@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-05T00:00:00+00:00</updated>
+  <updated>2023-02-06T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Travelling just for the people</title>
+        <author>
+            <name>Derek Sivers</name>
+        </author>
+    <published>2023-02-06T00:00:00+00:00</published>
+    <updated>2023-02-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/derek-sivers-travelling-just-for-the-people/"/>
+    <link rel="alternate" href="https://news.cryptic.io/derek-sivers-travelling-just-for-the-people/" type="text/html"/>
+      <source>
+        <id>https://sive.rs/travp</id>
+        <link href="https://sive.rs/travp"/>
+        <title>Travelling just for the people</title>
+        <author>
+            <name>Derek Sivers</name>
+        </author>
+        <updated>2023-02-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/derek-sivers-travelling-just-for-the-people/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Unease, writing, and thinking</title>
         <author>
@@ -8719,30 +8743,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Your explanations are not true</title>
-        <author>
-            <name>Derek Sivers</name>
-        </author>
-    <published>2022-09-20T00:00:00+00:00</published>
-    <updated>2022-09-20T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/derek-sivers-your-explanations-are-not-true/"/>
-    <link rel="alternate" href="https://news.cryptic.io/derek-sivers-your-explanations-are-not-true/" type="text/html"/>
-      <source>
-        <id>https://sive.rs/confab</id>
-        <link href="https://sive.rs/confab"/>
-        <title>Your explanations are not true</title>
-        <author>
-            <name>Derek Sivers</name>
-        </author>
-        <updated>2022-09-20T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/derek-sivers-your-explanations-are-not-true/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Slowly getting faster</title>
         <author>
             <name>Various</name>
@@ -10274,30 +10274,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-maven-central-is-not-as-free-as-it-looks/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-07-21T20:21:19+00:00</published>
-    <updated>2022-07-21T20:21:19+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1550214360609353728#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1550214360609353728#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-07-21T20:21:19+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
