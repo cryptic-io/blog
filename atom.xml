@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-07T15:00:00+00:00</updated>
+  <updated>2023-02-07T19:39:19+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Dear Microsoft</title>
+        <author>
+            <name>Rohan Deshmukh</name>
+        </author>
+    <published>2023-02-07T19:39:19+00:00</published>
+    <updated>2023-02-07T19:39:19+00:00</updated>
+    <link href="https://news.cryptic.io/rohan-deshmukh-dear-microsoft/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rohan-deshmukh-dear-microsoft/" type="text/html"/>
+      <source>
+        <id>https://rohanrd.xyz/posts/dear-microsoft/</id>
+        <link href="https://rohanrd.xyz/posts/dear-microsoft/"/>
+        <title>Dear Microsoft</title>
+        <author>
+            <name>Rohan Deshmukh</name>
+        </author>
+        <updated>2023-02-07T19:39:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rohan-deshmukh-dear-microsoft/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Validity of Custom Element Tag Names</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-02-07T19:00:00+00:00</published>
+    <updated>2023-02-07T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-the-validity-of-custom-element-tag-names/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-the-validity-of-custom-element-tag-names/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/validity-of-custom-element-tag-names/</id>
+        <link href="https://blog.jim-nielsen.com/2023/validity-of-custom-element-tag-names/"/>
+        <title>The Validity of Custom Element Tag Names</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-02-07T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-the-validity-of-custom-element-tag-names/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Creatively Misusing TLA+</title>
         <author>
@@ -2532,30 +2580,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-class-reductionist/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Curating Artwork From Humans and AI</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-01-16T19:00:00+00:00</published>
-    <updated>2023-01-16T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-curating-artwork-from-humans-and-ai/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-curating-artwork-from-humans-and-ai/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/curating-human-and-ai-artwork/</id>
-        <link href="https://blog.jim-nielsen.com/2023/curating-human-and-ai-artwork/"/>
-        <title>Curating Artwork From Humans and AI</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-01-16T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-curating-artwork-from-humans-and-ai/</id>
     <content type="html">
         
     </content>
@@ -10351,6 +10375,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+    <published>2022-07-21T20:21:19+00:00</published>
+    <updated>2022-07-21T20:21:19+00:00</updated>
+    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
+    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
+      <source>
+        <id>https://nitter.net/GranolaShotgun/status/1550214360609353728#m</id>
+        <link href="https://nitter.net/GranolaShotgun/status/1550214360609353728#m"/>
+        <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+        <updated>2022-07-21T20:21:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The best investment</title>
         <author>
             <name>herman</name>
@@ -13130,30 +13178,6 @@
       </source>
 
     <id>https://news.cryptic.io/adam-pritchard-should-you-strip-the-ipv6-zone/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why Start Self Hosting</title>
-        <author>
-            <name>Rohan Deshmukh</name>
-        </author>
-    <published>2022-03-22T18:32:34+00:00</published>
-    <updated>2022-03-22T18:32:34+00:00</updated>
-    <link href="https://news.cryptic.io/rohan-deshmukh-why-start-self-hosting/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rohan-deshmukh-why-start-self-hosting/" type="text/html"/>
-      <source>
-        <id>https://rohanrd.xyz/posts/why-start-self-hosting/</id>
-        <link href="https://rohanrd.xyz/posts/why-start-self-hosting/"/>
-        <title>Why Start Self Hosting</title>
-        <author>
-            <name>Rohan Deshmukh</name>
-        </author>
-        <updated>2022-03-22T18:32:34+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rohan-deshmukh-why-start-self-hosting/</id>
     <content type="html">
         
     </content>
