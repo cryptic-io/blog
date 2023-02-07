@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-07T05:08:00+00:00</updated>
+  <updated>2023-02-07T11:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Supercharge your engineering work through marketing</title>
+        <author>
+            <name>Charlie Andrews</name>
+        </author>
+    <published>2023-02-07T11:00:00+00:00</published>
+    <updated>2023-02-07T11:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/charlie-andrews-supercharge-your-engineering-work-through-marketing/"/>
+    <link rel="alternate" href="https://news.cryptic.io/charlie-andrews-supercharge-your-engineering-work-through-marketing/" type="text/html"/>
+      <source>
+        <id>https://www.zeptonaut.com/posts/supercharge-your-work-through-marketing/</id>
+        <link href="https://www.zeptonaut.com/posts/supercharge-your-work-through-marketing/"/>
+        <title>Supercharge your engineering work through marketing</title>
+        <author>
+            <name>Charlie Andrews</name>
+        </author>
+        <updated>2023-02-07T11:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/charlie-andrews-supercharge-your-engineering-work-through-marketing/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A Brief Review of ReactOS</title>
         <author>
@@ -13778,30 +13802,6 @@
       </source>
 
     <id>https://news.cryptic.io/douglas-vaghetti-tibia-was-wild-in-mostly-bad-ways-i-really-miss-it/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>That code&#x27;s going to get run like three times</title>
-        <author>
-            <name>Charlie Andrews</name>
-        </author>
-    <published>2022-03-01T05:00:00+00:00</published>
-    <updated>2022-03-01T05:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/charlie-andrews-that-codes-going-to-get-run-like-three-times/"/>
-    <link rel="alternate" href="https://news.cryptic.io/charlie-andrews-that-codes-going-to-get-run-like-three-times/" type="text/html"/>
-      <source>
-        <id>https://www.zeptonaut.com/posts/you-re-probably-overbuilding-when-testing-out-ideas/</id>
-        <link href="https://www.zeptonaut.com/posts/you-re-probably-overbuilding-when-testing-out-ideas/"/>
-        <title>That code&#x27;s going to get run like three times</title>
-        <author>
-            <name>Charlie Andrews</name>
-        </author>
-        <updated>2022-03-01T05:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/charlie-andrews-that-codes-going-to-get-run-like-three-times/</id>
     <content type="html">
         
     </content>
