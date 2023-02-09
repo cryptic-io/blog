@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-09T03:07:00+00:00</updated>
+  <updated>2023-02-09T13:09:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>I fail to eat pickled dragonflies</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2023-02-09T13:09:00+00:00</published>
+    <updated>2023-02-09T13:09:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-i-fail-to-eat-pickled-dragonflies/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-i-fail-to-eat-pickled-dragonflies/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/food/dragonflies.html</id>
+        <link href="https://blog.plover.com/food/dragonflies.html"/>
+        <title>I fail to eat pickled dragonflies</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2023-02-09T13:09:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-i-fail-to-eat-pickled-dragonflies/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Misinterpretation of ‘my’</title>
         <author>
@@ -7082,30 +7106,6 @@
       </source>
 
     <id>https://news.cryptic.io/tie-idyllic-life/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A map of Haskell&#x27;s numeric types</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2022-11-05T01:12:00+00:00</published>
-    <updated>2022-11-05T01:12:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-a-map-of-haskells-numeric-types/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-a-map-of-haskells-numeric-types/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/prog/haskell/numbers.html</id>
-        <link href="https://blog.plover.com/prog/haskell/numbers.html"/>
-        <title>A map of Haskell&#x27;s numeric types</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2022-11-05T01:12:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-a-map-of-haskells-numeric-types/</id>
     <content type="html">
         
     </content>
