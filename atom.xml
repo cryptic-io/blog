@@ -609,30 +609,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Creatively Misusing TLA+</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-02-07T15:00:00+00:00</published>
-    <updated>2023-02-07T15:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-creatively-misusing-tla/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-creatively-misusing-tla/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/creatively-misusing-tla/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/creatively-misusing-tla/"/>
-        <title>Creatively Misusing TLA+</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-02-07T15:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-creatively-misusing-tla/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Getting people to care about what you&#x27;re building</title>
         <author>
             <name>Charlie Andrews</name>
@@ -1012,30 +988,6 @@
       </source>
 
     <id>https://news.cryptic.io/randall-munroe-size-comparisons/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Improve your debugging by asking broad questions</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-02-02T23:00:00+00:00</published>
-    <updated>2023-02-02T23:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-improve-your-debugging-by-asking-broad-questions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-improve-your-debugging-by-asking-broad-questions/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/improve-your-debugging-by-asking-broad-questions/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/improve-your-debugging-by-asking-broad-questions/"/>
-        <title>Improve your debugging by asking broad questions</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-02-02T23:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-improve-your-debugging-by-asking-broad-questions/</id>
     <content type="html">
         
     </content>
@@ -1453,30 +1405,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Tag Systems</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-01-30T18:29:20+00:00</published>
-    <updated>2023-01-30T18:29:20+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-tag-systems/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-tag-systems/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/tag-systems/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/tag-systems/"/>
-        <title>Tag Systems</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-01-30T18:29:20+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-tag-systems/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Notes On Hypertext</title>
         <author>
             <name>Robin Rendle</name>
@@ -1592,6 +1520,30 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-7-reasons-why-i-dont-write/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Determine durations with monotonic clocks if available</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-29T23:12:23+00:00</published>
+    <updated>2023-01-29T23:12:23+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/29/bash/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/29/bash/"/>
+        <title>Determine durations with monotonic clocks if available</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-29T23:12:23+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/</id>
     <content type="html">
         
     </content>
@@ -1815,6 +1767,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-27T04:18:56+00:00</published>
+    <updated>2023-01-27T04:18:56+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/26/shadow/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/26/shadow/"/>
+        <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-27T04:18:56+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>ThinkPad as a server: the follow-up</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -1834,6 +1810,30 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-thinkpad-as-a-server-the-followup/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Reader feedback: &quot;bad&quot; names, !main(), and Mastodon</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-27T00:28:05+00:00</published>
+    <updated>2023-01-27T00:28:05+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-reader-feedback-bad-names-main-and-mastodon/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-reader-feedback-bad-names-main-and-mastodon/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/26/feedback/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/26/feedback/"/>
+        <title>Reader feedback: &quot;bad&quot; names, !main(), and Mastodon</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-27T00:28:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-reader-feedback-bad-names-main-and-mastodon/</id>
     <content type="html">
         
     </content>
@@ -2151,30 +2151,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>New Workshop, Some Data-ish Pipeline Tricks</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-01-23T21:00:55+00:00</published>
-    <updated>2023-01-23T21:00:55+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-new-workshop-some-dataish-pipeline-tricks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-new-workshop-some-dataish-pipeline-tricks/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/new-workshop-some-data-ish-pipeline-tricks/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/new-workshop-some-data-ish-pipeline-tricks/"/>
-        <title>New Workshop, Some Data-ish Pipeline Tricks</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-01-23T21:00:55+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-new-workshop-some-dataish-pipeline-tricks/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>A Short, Totally Unofficial, History of Port Numbers in Web Development</title>
         <author>
             <name>Jim Nielsen</name>
@@ -2463,6 +2439,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Who needs main() anyway?</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-21T06:35:59+00:00</published>
+    <updated>2023-01-21T06:35:59+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/20/mainless/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/20/mainless/"/>
+        <title>Who needs main() anyway?</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-21T06:35:59+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Two simple ways to version control your MariaDB schema changes</title>
         <author>
             <name>unixsheikh</name>
@@ -2556,6 +2556,30 @@
       </source>
 
     <id>https://news.cryptic.io/will-larson-what-does-it-mean-to-be-a-cost-center/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Setting the clock ahead to see what breaks</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-20T04:05:53+00:00</published>
+    <updated>2023-01-20T04:05:53+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/19/time/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/19/time/"/>
+        <title>Setting the clock ahead to see what breaks</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-20T04:05:53+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/</id>
     <content type="html">
         
     </content>
@@ -2657,25 +2681,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Funny Programming Languages</title>
+    <title>Feeds, updates, 200s, 304s, and now 429s</title>
         <author>
-            <name>Hillel Wayne</name>
+            <name>rachelbythebay</name>
         </author>
-    <published>2023-01-19T20:50:36+00:00</published>
-    <updated>2023-01-19T20:50:36+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-funny-programming-languages/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-funny-programming-languages/" type="text/html"/>
+    <published>2023-01-19T00:16:36+00:00</published>
+    <updated>2023-01-19T00:16:36+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/" type="text/html"/>
       <source>
-        <id>https://buttondown.email/hillelwayne/archive/funny-programming-languages/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/funny-programming-languages/"/>
-        <title>Funny Programming Languages</title>
+        <id>https://rachelbythebay.com/w/2023/01/18/http/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/18/http/"/>
+        <title>Feeds, updates, 200s, 304s, and now 429s</title>
         <author>
-            <name>Hillel Wayne</name>
+            <name>rachelbythebay</name>
         </author>
-        <updated>2023-01-19T20:50:36+00:00</updated>
+        <updated>2023-01-19T00:16:36+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/hillel-wayne-funny-programming-languages/</id>
+    <id>https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/</id>
     <content type="html">
         
     </content>
@@ -2942,30 +2966,6 @@
       </source>
 
     <id>https://news.cryptic.io/mechatronicsguy-lasercut-dnd-scenery/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Use the Wrong Tool for the Job</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-01-17T00:48:09+00:00</published>
-    <updated>2023-01-17T00:48:09+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-use-the-wrong-tool-for-the-job/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-use-the-wrong-tool-for-the-job/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/use-the-wrong-tool-for-the-job/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/use-the-wrong-tool-for-the-job/"/>
-        <title>Use the Wrong Tool for the Job</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-01-17T00:48:09+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-use-the-wrong-tool-for-the-job/</id>
     <content type="html">
         
     </content>
@@ -3429,30 +3429,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>In Defense of Testing Mocks</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-01-09T22:01:04+00:00</published>
-    <updated>2023-01-09T22:01:04+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-in-defense-of-testing-mocks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-in-defense-of-testing-mocks/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/in-defense-of-testing-mocks/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/in-defense-of-testing-mocks/"/>
-        <title>In Defense of Testing Mocks</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-01-09T22:01:04+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-in-defense-of-testing-mocks/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Retiring Pinafore</title>
         <author>
             <name>Nolan Lawson</name>
@@ -3669,25 +3645,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Microfeatures I&#x27;d like to see in more languages</title>
+    <title>S p a m m y  s y s c a l l s in strace dumps</title>
         <author>
-            <name>Hillel Wayne</name>
+            <name>rachelbythebay</name>
         </author>
-    <published>2023-01-05T20:20:06+00:00</published>
-    <updated>2023-01-05T20:20:06+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-microfeatures-id-like-to-see-in-more-languages/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-microfeatures-id-like-to-see-in-more-languages/" type="text/html"/>
+    <published>2023-01-06T02:20:28+00:00</published>
+    <updated>2023-01-06T02:20:28+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-s-p-a-m-m-y-s-y-s-c-a-l-l-s-in-strace-dumps/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-s-p-a-m-m-y-s-y-s-c-a-l-l-s-in-strace-dumps/" type="text/html"/>
       <source>
-        <id>https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/"/>
-        <title>Microfeatures I&#x27;d like to see in more languages</title>
+        <id>https://rachelbythebay.com/w/2023/01/05/syscall/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/05/syscall/"/>
+        <title>S p a m m y  s y s c a l l s in strace dumps</title>
         <author>
-            <name>Hillel Wayne</name>
+            <name>rachelbythebay</name>
         </author>
-        <updated>2023-01-05T20:20:06+00:00</updated>
+        <updated>2023-01-06T02:20:28+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/hillel-wayne-microfeatures-id-like-to-see-in-more-languages/</id>
+    <id>https://news.cryptic.io/rachelbythebay-s-p-a-m-m-y-s-y-s-c-a-l-l-s-in-strace-dumps/</id>
     <content type="html">
         
     </content>
@@ -3712,6 +3688,54 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-labour-of-love/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Why I still have an old-school cert on my https site</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-05T04:54:47+00:00</published>
+    <updated>2023-01-05T04:54:47+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/03/ssl/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/03/ssl/"/>
+        <title>Why I still have an old-school cert on my https site</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-05T04:54:47+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-why-i-still-have-an-oldschool-cert-on-my-https-site/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Another look at the steps for issuing a cert</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-05T04:54:19+00:00</published>
+    <updated>2023-01-05T04:54:19+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/04/cert/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/04/cert/"/>
+        <title>Another look at the steps for issuing a cert</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-05T04:54:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/</id>
     <content type="html">
         
     </content>
@@ -3885,6 +3909,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Not quite a successful prediction about tracking Apple stuff</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-03T01:11:43+00:00</published>
+    <updated>2023-01-03T01:11:43+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-not-quite-a-successful-prediction-about-tracking-apple-stuff/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-not-quite-a-successful-prediction-about-tracking-apple-stuff/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/02/tag/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/02/tag/"/>
+        <title>Not quite a successful prediction about tracking Apple stuff</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-03T01:11:43+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-not-quite-a-successful-prediction-about-tracking-apple-stuff/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The Expanding Dark Forest and Generative AI</title>
         <author>
             <name>Maggie Appleton</name>
@@ -3904,30 +3952,6 @@
       </source>
 
     <id>https://news.cryptic.io/maggie-appleton-the-expanding-dark-forest-and-generative-ai/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why Modeling Finds Bugs (Without Model-Checking)</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-01-02T20:24:07+00:00</published>
-    <updated>2023-01-02T20:24:07+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-why-modeling-finds-bugs-without-modelchecking/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-why-modeling-finds-bugs-without-modelchecking/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/why-modeling-finds-bugs-without-model-checking/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/why-modeling-finds-bugs-without-model-checking/"/>
-        <title>Why Modeling Finds Bugs (Without Model-Checking)</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-01-02T20:24:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-why-modeling-finds-bugs-without-modelchecking/</id>
     <content type="html">
         
     </content>
@@ -4722,30 +4746,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-third-audit-results/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Bugs that literally cost money</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2022-12-21T22:11:15+00:00</published>
-    <updated>2022-12-21T22:11:15+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-bugs-that-literally-cost-money/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-bugs-that-literally-cost-money/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/bugs-that-literally-cost-money/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/bugs-that-literally-cost-money/"/>
-        <title>Bugs that literally cost money</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2022-12-21T22:11:15+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-bugs-that-literally-cost-money/</id>
     <content type="html">
         
     </content>
@@ -10466,6 +10466,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-maven-central-is-not-as-free-as-it-looks/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+    <published>2022-07-21T20:21:19+00:00</published>
+    <updated>2022-07-21T20:21:19+00:00</updated>
+    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
+    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
+      <source>
+        <id>https://nitter.net/GranolaShotgun/status/1550214360609353728#m</id>
+        <link href="https://nitter.net/GranolaShotgun/status/1550214360609353728#m"/>
+        <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+        <updated>2022-07-21T20:21:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
