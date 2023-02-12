@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-11T20:00:00+00:00</updated>
+  <updated>2023-02-12T07:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Open Peer Review Considered Harmful?</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2023-02-12T07:00:00+00:00</published>
+    <updated>2023-02-12T07:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-open-peer-review-considered-harmful/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-open-peer-review-considered-harmful/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2023/peer_review/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2023/peer_review/"/>
+        <title>Open Peer Review Considered Harmful?</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2023-02-12T07:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-open-peer-review-considered-harmful/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>2023 Crocuses</title>
         <author>
@@ -10418,30 +10442,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-ellis-funny-artifacts-in-a-3d-house-scan/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A Sustainable Pace Gets You to the Finish Line</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-    <published>2022-07-30T12:00:00+00:00</published>
-    <updated>2022-07-30T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-a-sustainable-pace-gets-you-to-the-finish-line/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-a-sustainable-pace-gets-you-to-the-finish-line/" type="text/html"/>
-      <source>
-        <id>http://bastian.rieck.me/blog/posts/2022/sustainable/</id>
-        <link href="http://bastian.rieck.me/blog/posts/2022/sustainable/"/>
-        <title>A Sustainable Pace Gets You to the Finish Line</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-        <updated>2022-07-30T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bastian-rieck-a-sustainable-pace-gets-you-to-the-finish-line/</id>
     <content type="html">
         
     </content>
