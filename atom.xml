@@ -4,32 +4,8 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-13T12:00:00+00:00</updated>
+  <updated>2023-02-12T07:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
-  <entry xml:lang="en">
-    <title>Writing an engineering strategy.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-    <published>2023-02-13T12:00:00+00:00</published>
-    <updated>2023-02-13T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/will-larson-writing-an-engineering-strategy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/will-larson-writing-an-engineering-strategy/" type="text/html"/>
-      <source>
-        <id>https://lethain.com/eng-strategies/</id>
-        <link href="https://lethain.com/eng-strategies/"/>
-        <title>Writing an engineering strategy.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-        <updated>2023-02-13T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/will-larson-writing-an-engineering-strategy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
   <entry xml:lang="en">
     <title>Open Peer Review Considered Harmful?</title>
         <author>
@@ -314,32 +290,6 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-writing-riffs-relationships/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Germany Is Losing the Electric Vehicle Transition
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-02-09T22:02:43+00:00</published>
-    <updated>2023-02-09T22:02:43+00:00</updated>
-    <link href="https://news.cryptic.io/various-germany-is-losing-the-electric-vehicle-transition/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-germany-is-losing-the-electric-vehicle-transition/" type="text/html"/>
-      <source>
-        <id>https://www.palladiummag.com/2023/02/09/will-german-engineering-survive-the-electric-vehicle-transition/</id>
-        <link href="https://www.palladiummag.com/2023/02/09/will-german-engineering-survive-the-electric-vehicle-transition/"/>
-        <title>Germany Is Losing the Electric Vehicle Transition
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-02-09T22:02:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-germany-is-losing-the-electric-vehicle-transition/</id>
     <content type="html">
         
     </content>
@@ -825,30 +775,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Better to micromanage than be disengaged.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-    <published>2023-02-06T12:00:00+00:00</published>
-    <updated>2023-02-06T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/will-larson-better-to-micromanage-than-be-disengaged/"/>
-    <link rel="alternate" href="https://news.cryptic.io/will-larson-better-to-micromanage-than-be-disengaged/" type="text/html"/>
-      <source>
-        <id>https://lethain.com/better-micromanage-than-disengaged/</id>
-        <link href="https://lethain.com/better-micromanage-than-disengaged/"/>
-        <title>Better to micromanage than be disengaged.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-        <updated>2023-02-06T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/will-larson-better-to-micromanage-than-be-disengaged/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Travelling just for the people</title>
         <author>
             <name>Derek Sivers</name>
@@ -1017,30 +943,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Culture vs systems.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-    <published>2023-02-03T12:00:00+00:00</published>
-    <updated>2023-02-03T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/will-larson-culture-vs-systems/"/>
-    <link rel="alternate" href="https://news.cryptic.io/will-larson-culture-vs-systems/" type="text/html"/>
-      <source>
-        <id>https://lethain.com/culture-vs-systems/</id>
-        <link href="https://lethain.com/culture-vs-systems/"/>
-        <title>Culture vs systems.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-        <updated>2023-02-03T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/will-larson-culture-vs-systems/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Reconciling the signaling and human capital models of education?</title>
         <author>
             <name>fbifemboy</name>
@@ -1108,32 +1010,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-improve-your-debugging-by-asking-broad-questions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Yamagami Tetsuya’s Revenge
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-02-02T22:39:44+00:00</published>
-    <updated>2023-02-02T22:39:44+00:00</updated>
-    <link href="https://news.cryptic.io/various-yamagami-tetsuyas-revenge/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-yamagami-tetsuyas-revenge/" type="text/html"/>
-      <source>
-        <id>https://www.palladiummag.com/2023/02/02/yamagami-tetsuyas-revenge/</id>
-        <link href="https://www.palladiummag.com/2023/02/02/yamagami-tetsuyas-revenge/"/>
-        <title>Yamagami Tetsuya’s Revenge
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-02-02T22:39:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-yamagami-tetsuyas-revenge/</id>
     <content type="html">
         
     </content>
@@ -1499,32 +1375,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Censor Who Ended the Soviet Union
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-01-30T19:40:17+00:00</published>
-    <updated>2023-01-30T19:40:17+00:00</updated>
-    <link href="https://news.cryptic.io/various-the-censor-who-ended-the-soviet-union/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-the-censor-who-ended-the-soviet-union/" type="text/html"/>
-      <source>
-        <id>https://www.palladiummag.com/2023/01/30/the-censor-that-ended-the-soviet-union/</id>
-        <link href="https://www.palladiummag.com/2023/01/30/the-censor-that-ended-the-soviet-union/"/>
-        <title>The Censor Who Ended the Soviet Union
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-01-30T19:40:17+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-the-censor-who-ended-the-soviet-union/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Tag Systems</title>
         <author>
             <name>Hillel Wayne</name>
@@ -1568,30 +1418,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-notes-on-hypertext/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Setting engineering org values.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-    <published>2023-01-30T13:00:00+00:00</published>
-    <updated>2023-01-30T13:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/will-larson-setting-engineering-org-values/"/>
-    <link rel="alternate" href="https://news.cryptic.io/will-larson-setting-engineering-org-values/" type="text/html"/>
-      <source>
-        <id>https://lethain.com/setting-engineering-org-values/</id>
-        <link href="https://lethain.com/setting-engineering-org-values/"/>
-        <title>Setting engineering org values.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-        <updated>2023-01-30T13:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/will-larson-setting-engineering-org-values/</id>
     <content type="html">
         
     </content>
@@ -1808,32 +1634,6 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-escaping-jekyll-and-moving-to-eleventy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How America Lost the Atomic Age
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-01-27T23:09:50+00:00</published>
-    <updated>2023-01-27T23:09:50+00:00</updated>
-    <link href="https://news.cryptic.io/various-how-america-lost-the-atomic-age/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-how-america-lost-the-atomic-age/" type="text/html"/>
-      <source>
-        <id>https://www.palladiummag.com/2023/01/27/how-america-lost-the-atomic-age/</id>
-        <link href="https://www.palladiummag.com/2023/01/27/how-america-lost-the-atomic-age/"/>
-        <title>How America Lost the Atomic Age
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-01-27T23:09:50+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-how-america-lost-the-atomic-age/</id>
     <content type="html">
         
     </content>
@@ -2074,30 +1874,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-container-queries-and-typography/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Safe defaults.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-    <published>2023-01-26T12:00:00+00:00</published>
-    <updated>2023-01-26T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/will-larson-safe-defaults/"/>
-    <link rel="alternate" href="https://news.cryptic.io/will-larson-safe-defaults/" type="text/html"/>
-      <source>
-        <id>https://lethain.com/safe-defaults/</id>
-        <link href="https://lethain.com/safe-defaults/"/>
-        <title>Safe defaults.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-        <updated>2023-01-26T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/will-larson-safe-defaults/</id>
     <content type="html">
         
     </content>
@@ -2362,30 +2138,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-hyperscale-in-your-homelab-the-compute-blade-arrives/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Internal comms for executives.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-    <published>2023-01-23T13:00:00+00:00</published>
-    <updated>2023-01-23T13:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/will-larson-internal-comms-for-executives/"/>
-    <link rel="alternate" href="https://news.cryptic.io/will-larson-internal-comms-for-executives/" type="text/html"/>
-      <source>
-        <id>https://lethain.com/internal-comms-execs/</id>
-        <link href="https://lethain.com/internal-comms-execs/"/>
-        <title>Internal comms for executives.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-        <updated>2023-01-23T13:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/will-larson-internal-comms-for-executives/</id>
     <content type="html">
         
     </content>
@@ -2679,56 +2431,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Vietnam’s Red Napoleon
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-01-20T19:45:09+00:00</published>
-    <updated>2023-01-20T19:45:09+00:00</updated>
-    <link href="https://news.cryptic.io/various-vietnams-red-napoleon/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-vietnams-red-napoleon/" type="text/html"/>
-      <source>
-        <id>https://www.palladiummag.com/2023/01/20/vietnams-red-napoleon/</id>
-        <link href="https://www.palladiummag.com/2023/01/20/vietnams-red-napoleon/"/>
-        <title>Vietnam’s Red Napoleon
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-01-20T19:45:09+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-vietnams-red-napoleon/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>What does it mean to be a cost center?</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-    <published>2023-01-20T13:00:00+00:00</published>
-    <updated>2023-01-20T13:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/will-larson-what-does-it-mean-to-be-a-cost-center/"/>
-    <link rel="alternate" href="https://news.cryptic.io/will-larson-what-does-it-mean-to-be-a-cost-center/" type="text/html"/>
-      <source>
-        <id>https://lethain.com/cost-centers/</id>
-        <link href="https://lethain.com/cost-centers/"/>
-        <title>What does it mean to be a cost center?</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-        <updated>2023-01-20T13:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/will-larson-what-does-it-mean-to-be-a-cost-center/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Setting the clock ahead to see what breaks</title>
         <author>
             <name>rachelbythebay</name>
@@ -2945,32 +2647,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>“Opportunity Is Always Out There” With Simon Mann
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-01-18T21:03:56+00:00</published>
-    <updated>2023-01-18T21:03:56+00:00</updated>
-    <link href="https://news.cryptic.io/various-opportunity-is-always-out-there-with-simon-mann/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-opportunity-is-always-out-there-with-simon-mann/" type="text/html"/>
-      <source>
-        <id>https://www.palladiummag.com/2023/01/18/opportunity-is-always-out-there-with-simon-mann/</id>
-        <link href="https://www.palladiummag.com/2023/01/18/opportunity-is-always-out-there-with-simon-mann/"/>
-        <title>“Opportunity Is Always Out There” With Simon Mann
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-01-18T21:03:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-opportunity-is-always-out-there-with-simon-mann/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The Anti-Capitalist Web</title>
         <author>
             <name>Jim Nielsen</name>
@@ -3110,30 +2786,6 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-my-talk-on-css-runtime-performance/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Meetings for an effective eng organization.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-    <published>2023-01-17T13:00:00+00:00</published>
-    <updated>2023-01-17T13:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/will-larson-meetings-for-an-effective-eng-organization/"/>
-    <link rel="alternate" href="https://news.cryptic.io/will-larson-meetings-for-an-effective-eng-organization/" type="text/html"/>
-      <source>
-        <id>https://lethain.com/eng-org-meetings/</id>
-        <link href="https://lethain.com/eng-org-meetings/"/>
-        <title>Meetings for an effective eng organization.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-        <updated>2023-01-17T13:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/will-larson-meetings-for-an-effective-eng-organization/</id>
     <content type="html">
         
     </content>
@@ -3283,30 +2935,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Mailbag: What should you do if you report to an underperforming executive?</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-    <published>2023-01-15T13:00:00+00:00</published>
-    <updated>2023-01-15T13:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/will-larson-mailbag-what-should-you-do-if-you-report-to-an-underperforming-executive/"/>
-    <link rel="alternate" href="https://news.cryptic.io/will-larson-mailbag-what-should-you-do-if-you-report-to-an-underperforming-executive/" type="text/html"/>
-      <source>
-        <id>https://lethain.com/underperforming-executive/</id>
-        <link href="https://lethain.com/underperforming-executive/"/>
-        <title>Mailbag: What should you do if you report to an underperforming executive?</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-        <updated>2023-01-15T13:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/will-larson-mailbag-what-should-you-do-if-you-report-to-an-underperforming-executive/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Paper Review: “Did you miss my comments or what?” Toxicity in Open Source Discussions</title>
         <author>
             <name>Tyler Cipriani</name>
@@ -3379,32 +3007,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Ilham Aliyev and the Making of Azerbaijan
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-01-13T19:00:11+00:00</published>
-    <updated>2023-01-13T19:00:11+00:00</updated>
-    <link href="https://news.cryptic.io/various-ilham-aliyev-and-the-making-of-azerbaijan/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-ilham-aliyev-and-the-making-of-azerbaijan/" type="text/html"/>
-      <source>
-        <id>https://www.palladiummag.com/2023/01/13/ilham-aliyev-and-the-making-of-azerbaijan/</id>
-        <link href="https://www.palladiummag.com/2023/01/13/ilham-aliyev-and-the-making-of-azerbaijan/"/>
-        <title>Ilham Aliyev and the Making of Azerbaijan
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-01-13T19:00:11+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-ilham-aliyev-and-the-making-of-azerbaijan/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>A Review of the Thinkcentre M600 Mini Desktop Computer</title>
         <author>
             <name>Cheapskate</name>
@@ -3448,30 +3050,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-suggestions-and-observations-japan/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Trying Plausible.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-    <published>2023-01-12T14:00:00+00:00</published>
-    <updated>2023-01-12T14:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/will-larson-trying-plausible/"/>
-    <link rel="alternate" href="https://news.cryptic.io/will-larson-trying-plausible/" type="text/html"/>
-      <source>
-        <id>https://lethain.com/trying-plausibleio/</id>
-        <link href="https://lethain.com/trying-plausibleio/"/>
-        <title>Trying Plausible.</title>
-        <author>
-            <name>Will Larson</name>
-        </author>
-        <updated>2023-01-12T14:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/will-larson-trying-plausible/</id>
     <content type="html">
         
     </content>
@@ -4797,32 +4375,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>PALLADIUM 08: Scientific Authority
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2022-12-28T03:42:47+00:00</published>
-    <updated>2022-12-28T03:42:47+00:00</updated>
-    <link href="https://news.cryptic.io/various-palladium-08-scientific-authority/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-palladium-08-scientific-authority/" type="text/html"/>
-      <source>
-        <id>https://www.palladiummag.com/2022/12/27/palladium-08-scientific-authority/</id>
-        <link href="https://www.palladiummag.com/2022/12/27/palladium-08-scientific-authority/"/>
-        <title>PALLADIUM 08: Scientific Authority
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2022-12-28T03:42:47+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-palladium-08-scientific-authority/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Yesterday</title>
         <author>
             <name>Gigi</name>
@@ -5106,32 +4658,6 @@
       </source>
 
     <id>https://news.cryptic.io/cheapskate-the-gemini-network-is-great-but-it-is-still-something-of-a-tech-geek-playground/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Institutions of Science With Lord Martin Rees
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2022-12-19T19:54:47+00:00</published>
-    <updated>2022-12-19T19:54:47+00:00</updated>
-    <link href="https://news.cryptic.io/various-the-institutions-of-science-with-lord-martin-rees/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-the-institutions-of-science-with-lord-martin-rees/" type="text/html"/>
-      <source>
-        <id>https://www.palladiummag.com/2022/12/19/the-institutions-of-science-with-lord-martin-rees/</id>
-        <link href="https://www.palladiummag.com/2022/12/19/the-institutions-of-science-with-lord-martin-rees/"/>
-        <title>The Institutions of Science With Lord Martin Rees
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2022-12-19T19:54:47+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-the-institutions-of-science-with-lord-martin-rees/</id>
     <content type="html">
         
     </content>
@@ -5492,32 +5018,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-expectation-fields/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Are Farm Antibiotics Destroying Our Health?
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2022-12-13T18:30:00+00:00</published>
-    <updated>2022-12-13T18:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/various-are-farm-antibiotics-destroying-our-health/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-are-farm-antibiotics-destroying-our-health/" type="text/html"/>
-      <source>
-        <id>https://www.palladiummag.com/2022/12/13/are-farm-antibiotics-destroying-our-health/</id>
-        <link href="https://www.palladiummag.com/2022/12/13/are-farm-antibiotics-destroying-our-health/"/>
-        <title>Are Farm Antibiotics Destroying Our Health?
-</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2022-12-13T18:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-are-farm-antibiotics-destroying-our-health/</id>
     <content type="html">
         
     </content>
