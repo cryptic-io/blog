@@ -271,11 +271,6 @@
     url = "https://cheapskatesguide.org/cheapskates-guide-rss-feed.xml";
   }
   {
-    name = "Palladium";
-    author = "Various";
-    url = "https://palladiummag.com/feed/";
-  }
-  {
     name = "justinjackson.ca";
     author = "Justin Jackson";
     url = "https://justinjackson.ca/feed";
@@ -357,11 +352,6 @@
     name = "robinrendle.com";
     author = "Robin Rendle";
     url = "https://www.robinrendle.com/feed.xml";
-  }
-  {
-    name = "Irrational Exuberance";
-    author = "Will Larson";
-    url = "https://lethain.com/feeds.xml";
   }
   {
     name = "cristobal.space";
