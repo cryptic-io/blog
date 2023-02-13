@@ -321,6 +321,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Modern Mono</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2023-02-09T20:00:00+00:00</published>
+    <updated>2023-02-09T20:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-modern-mono/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-modern-mono/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2023/02/09/Monospace</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2023/02/09/Monospace"/>
+        <title>Modern Mono</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2023-02-09T20:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-modern-mono/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Productive Procrastination</title>
         <author>
             <name>Jim Nielsen</name>
@@ -5955,30 +5979,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Long Links</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2022-12-04T20:00:00+00:00</published>
-    <updated>2022-12-04T20:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-long-links/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-long-links/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2022/12/04/Long-Links</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2022/12/04/Long-Links"/>
-        <title>Long Links</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2022-12-04T20:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-long-links/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Software horror show: SAP Concur</title>
         <author>
             <name>Mark Dominus</name>
@@ -11512,8 +11512,8 @@
     <link href="https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-kagi/"/>
     <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-kagi/" type="text/html"/>
       <source>
-        <id>https://dkb.io/post/kagi-interview</id>
-        <link href="https://dkb.io/post/kagi-interview"/>
+        <id>https://dkb.io/post/DEPR_kagi-interview</id>
+        <link href="https://dkb.io/post/DEPR_kagi-interview"/>
         <title>Interview with Kagi</title>
         <author>
             <name>dkb@dkb.fyi (dkb)</name>
@@ -11800,8 +11800,8 @@
     <link href="https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-neeva/"/>
     <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-neeva/" type="text/html"/>
       <source>
-        <id>https://dkb.io/post/neeva-interview</id>
-        <link href="https://dkb.io/post/neeva-interview"/>
+        <id>https://dkb.io/post/DEPR_neeva-interview</id>
+        <link href="https://dkb.io/post/DEPR_neeva-interview"/>
         <title>Interview with Neeva</title>
         <author>
             <name>dkb@dkb.fyi (dkb)</name>
@@ -12496,8 +12496,8 @@
     <link href="https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-brave-search/"/>
     <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-brave-search/" type="text/html"/>
       <source>
-        <id>https://dkb.io/post/brave-search-interview</id>
-        <link href="https://dkb.io/post/brave-search-interview"/>
+        <id>https://dkb.io/post/DEPR_brave-search-interview</id>
+        <link href="https://dkb.io/post/DEPR_brave-search-interview"/>
         <title>Interview with Brave Search</title>
         <author>
             <name>dkb@dkb.fyi (dkb)</name>
@@ -13168,8 +13168,8 @@
     <link href="https://news.cryptic.io/dkbdkbfyi-dkb-the-next-google/"/>
     <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-the-next-google/" type="text/html"/>
       <source>
-        <id>https://dkb.io/post/the-next-google</id>
-        <link href="https://dkb.io/post/the-next-google"/>
+        <id>https://dkb.io/post/DEPR_the-next-google</id>
+        <link href="https://dkb.io/post/DEPR_the-next-google"/>
         <title>The Next Google</title>
         <author>
             <name>dkb@dkb.fyi (dkb)</name>
@@ -13600,8 +13600,8 @@
     <link href="https://news.cryptic.io/dkbdkbfyi-dkb-marketrank-the-antiseo-ranking-algorithm/"/>
     <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-marketrank-the-antiseo-ranking-algorithm/" type="text/html"/>
       <source>
-        <id>https://dkb.io/post/market-rank</id>
-        <link href="https://dkb.io/post/market-rank"/>
+        <id>https://dkb.io/post/DEPR_market-rank</id>
+        <link href="https://dkb.io/post/DEPR_market-rank"/>
         <title>MarketRank: The Anti-SEO Ranking Algorithm</title>
         <author>
             <name>dkb@dkb.fyi (dkb)</name>
@@ -14008,8 +14008,8 @@
     <link href="https://news.cryptic.io/dkbdkbfyi-dkb-google-search-is-dying/"/>
     <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-google-search-is-dying/" type="text/html"/>
       <source>
-        <id>https://dkb.io/post/google-search-is-dying</id>
-        <link href="https://dkb.io/post/google-search-is-dying"/>
+        <id>https://dkb.io/post/DEPR_google-search-is-dying</id>
+        <link href="https://dkb.io/post/DEPR_google-search-is-dying"/>
         <title>Google Search Is Dying</title>
         <author>
             <name>dkb@dkb.fyi (dkb)</name>
@@ -14200,8 +14200,8 @@
     <link href="https://news.cryptic.io/dkbdkbfyi-dkb-how-to-read-a-book/"/>
     <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-how-to-read-a-book/" type="text/html"/>
       <source>
-        <id>https://dkb.io/post/how-to-read-a-book</id>
-        <link href="https://dkb.io/post/how-to-read-a-book"/>
+        <id>https://dkb.io/post/DEPR_how-to-read-a-book</id>
+        <link href="https://dkb.io/post/DEPR_how-to-read-a-book"/>
         <title>How To Read A Book</title>
         <author>
             <name>dkb@dkb.fyi (dkb)</name>
@@ -15684,8 +15684,8 @@
     <link href="https://news.cryptic.io/dkbdkbfyi-dkb-to-organize-the-worlds-information/"/>
     <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-to-organize-the-worlds-information/" type="text/html"/>
       <source>
-        <id>https://dkb.io/post/organize-the-world-information</id>
-        <link href="https://dkb.io/post/organize-the-world-information"/>
+        <id>https://dkb.io/post/DEPR_organize-the-world-information</id>
+        <link href="https://dkb.io/post/DEPR_organize-the-world-information"/>
         <title>To Organize The World&#x27;s Information</title>
         <author>
             <name>dkb@dkb.fyi (dkb)</name>
@@ -16580,8 +16580,8 @@
     <link href="https://news.cryptic.io/dkbdkbfyi-dkb-write-it-anyway/"/>
     <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-write-it-anyway/" type="text/html"/>
       <source>
-        <id>https://dkb.io/post/write-it-anyway</id>
-        <link href="https://dkb.io/post/write-it-anyway"/>
+        <id>https://dkb.io/post/DEPR_write-it-anyway</id>
+        <link href="https://dkb.io/post/DEPR_write-it-anyway"/>
         <title>Write It Anyway</title>
         <author>
             <name>dkb@dkb.fyi (dkb)</name>
