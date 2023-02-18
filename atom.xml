@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-18T15:14:00+00:00</updated>
+  <updated>2023-02-18T19:30:02+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Poor schemas, poor cataloguing: why music tagging sucks</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2023-02-18T19:30:02+00:00</published>
+    <updated>2023-02-18T19:30:02+00:00</updated>
+    <link href="https://news.cryptic.io/various-poor-schemas-poor-cataloguing-why-music-tagging-sucks/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-poor-schemas-poor-cataloguing-why-music-tagging-sucks/" type="text/html"/>
+      <source>
+        <id>https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/</id>
+        <link href="https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/"/>
+        <title>Poor schemas, poor cataloguing: why music tagging sucks</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2023-02-18T19:30:02+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-poor-schemas-poor-cataloguing-why-music-tagging-sucks/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Finding the seventh root of 19203908986159</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-finding-the-seventh-root-of-19203908986159/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Hands</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-02-18T00:00:00+00:00</published>
+    <updated>2023-02-18T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-hands/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-hands/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/hands</id>
+        <link href="https://xeiaso.net/blog/hands"/>
+        <title>Hands</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-02-18T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-hands/</id>
     <content type="html">
         
     </content>
@@ -2954,30 +3002,6 @@
       </source>
 
     <id>https://news.cryptic.io/vitalik-buterin-an-incomplete-guide-to-stealth-addresses/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>🥺: the best sudo replacement</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2023-01-20T00:00:00+00:00</published>
-    <updated>2023-01-20T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-the-best-sudo-replacement/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-the-best-sudo-replacement/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/🥺</id>
-        <link href="https://xeiaso.net/blog/🥺"/>
-        <title>🥺: the best sudo replacement</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2023-01-20T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-the-best-sudo-replacement/</id>
     <content type="html">
         
     </content>
@@ -12846,30 +12870,6 @@
       </source>
 
     <id>https://news.cryptic.io/douglas-vaghetti-seeking-that-sweet-sweet-vim-joy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Delivery? More Like Deliveryn’t: A Lesson in Customer Disservice</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2022-03-12T04:03:36+00:00</published>
-    <updated>2022-03-12T04:03:36+00:00</updated>
-    <link href="https://news.cryptic.io/various-delivery-more-like-deliverynt-a-lesson-in-customer-disservice/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-delivery-more-like-deliverynt-a-lesson-in-customer-disservice/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2022/03/12/delivery-more-like-deliverynt-a-lesson-in-customer-disservice/</id>
-        <link href="https://sporks.space/2022/03/12/delivery-more-like-deliverynt-a-lesson-in-customer-disservice/"/>
-        <title>Delivery? More Like Deliveryn’t: A Lesson in Customer Disservice</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2022-03-12T04:03:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-delivery-more-like-deliverynt-a-lesson-in-customer-disservice/</id>
     <content type="html">
         
     </content>
