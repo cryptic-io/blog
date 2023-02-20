@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-20T00:00:00+00:00</updated>
+  <updated>2023-02-20T20:00:01+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Papers on the UX of AI programming assistants</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2023-02-20T20:00:01+00:00</published>
+    <updated>2023-02-20T20:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-papers-on-the-ux-of-ai-programming-assistants/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-papers-on-the-ux-of-ai-programming-assistants/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/uxaicoding.html</id>
+        <link href="https://austinhenley.com/blog/uxaicoding.html"/>
+        <title>Papers on the UX of AI programming assistants</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2023-02-20T20:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-papers-on-the-ux-of-ai-programming-assistants/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Writing of the Gods</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-02-20T18:43:55+00:00</published>
+    <updated>2023-02-20T18:43:55+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-the-writing-of-the-gods/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-writing-of-the-gods/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/the-writing-of-the-gods/</id>
+        <link href="https://robinrendle.com/notes/the-writing-of-the-gods/"/>
+        <title>The Writing of the Gods</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-02-20T18:43:55+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-the-writing-of-the-gods/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Porting Helios to aarch64 for my FOSDEM talk, part one</title>
         <author>
@@ -3434,30 +3482,6 @@
       </source>
 
     <id>https://news.cryptic.io/linus-lee-notion-ai-and-me/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Book Cover Review</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-01-17T16:00:55+00:00</published>
-    <updated>2023-01-17T16:00:55+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-book-cover-review/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-book-cover-review/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/book-cover-review/</id>
-        <link href="https://robinrendle.com/notes/book-cover-review/"/>
-        <title>The Book Cover Review</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-01-17T16:00:55+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-book-cover-review/</id>
     <content type="html">
         
     </content>
@@ -8454,30 +8478,6 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-what-are-executive-offsites-good-for/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Monthly obsessions</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-    <published>2022-10-04T22:00:01+00:00</published>
-    <updated>2022-10-04T22:00:01+00:00</updated>
-    <link href="https://news.cryptic.io/austin-z-henley-monthly-obsessions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-monthly-obsessions/" type="text/html"/>
-      <source>
-        <id>https://austinhenley.com/blog/monthlyobsessions.html</id>
-        <link href="https://austinhenley.com/blog/monthlyobsessions.html"/>
-        <title>Monthly obsessions</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-        <updated>2022-10-04T22:00:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/austin-z-henley-monthly-obsessions/</id>
     <content type="html">
         
     </content>
