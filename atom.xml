@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-23T10:16:09+00:00</updated>
+  <updated>2023-02-23T19:10:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>This page intentionally left blank?</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2023-02-23T19:10:00+00:00</published>
+    <updated>2023-02-23T19:10:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-this-page-intentionally-left-blank/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-this-page-intentionally-left-blank/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/meta/intentionally-left-blank.html</id>
+        <link href="https://blog.plover.com/meta/intentionally-left-blank.html"/>
+        <title>This page intentionally left blank?</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2023-02-23T19:10:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-this-page-intentionally-left-blank/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Adding a sense of urgency to negotiations</title>
         <author>
@@ -1322,30 +1346,6 @@
       </source>
 
     <id>https://news.cryptic.io/fbifemboy-localizations-of-a-ring-at-maximal-ideals-correspond-to-stalks-of-a-sheaf/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Looking under the lamppost</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2023-02-10T23:10:00+00:00</published>
-    <updated>2023-02-10T23:10:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-looking-under-the-lamppost/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-looking-under-the-lamppost/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/misc/lamppost.html</id>
-        <link href="https://blog.plover.com/misc/lamppost.html"/>
-        <title>Looking under the lamppost</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2023-02-10T23:10:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-looking-under-the-lamppost/</id>
     <content type="html">
         
     </content>
