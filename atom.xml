@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-23T19:10:00+00:00</updated>
+  <updated>2023-02-24T05:42:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>How To Install Multiple Linux Distributions on Your Hard Drive</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-02-24T05:42:00+00:00</published>
+    <updated>2023-02-24T05:42:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-how-to-install-multiple-linux-distributions-on-your-hard-drive/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-how-to-install-multiple-linux-distributions-on-your-hard-drive/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/multi-booting-linux.html</id>
+        <link href="https://cheapskatesguide.org/articles/multi-booting-linux.html"/>
+        <title>How To Install Multiple Linux Distributions on Your Hard Drive</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-02-24T05:42:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-how-to-install-multiple-linux-distributions-on-your-hard-drive/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>This page intentionally left blank?</title>
         <author>
@@ -4418,30 +4442,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-on-random-numbers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Finding &quot;The Internet&quot; Toxic and Depressing?  Consider Leaving Your Walled Garden.</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-01-03T12:31:00+00:00</published>
-    <updated>2023-01-03T12:31:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-finding-the-internet-toxic-and-depressing-consider-leaving-your-walled-garden/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-finding-the-internet-toxic-and-depressing-consider-leaving-your-walled-garden/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/toxic-gardens.html</id>
-        <link href="https://cheapskatesguide.org/articles/toxic-gardens.html"/>
-        <title>Finding &quot;The Internet&quot; Toxic and Depressing?  Consider Leaving Your Walled Garden.</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-01-03T12:31:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-finding-the-internet-toxic-and-depressing-consider-leaving-your-walled-garden/</id>
     <content type="html">
         
     </content>
