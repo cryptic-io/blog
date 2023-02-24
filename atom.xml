@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-24T05:42:00+00:00</updated>
+  <updated>2023-02-24T15:44:38+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Brink</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-02-24T15:44:38+00:00</published>
+    <updated>2023-02-24T15:44:38+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-the-brink/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-brink/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/the-brink/</id>
+        <link href="https://robinrendle.com/notes/the-brink/"/>
+        <title>The Brink</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-02-24T15:44:38+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-the-brink/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>How To Install Multiple Linux Distributions on Your Hard Drive</title>
         <author>
@@ -1663,6 +1687,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Donation SHIFT6mq</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2023-02-09T00:00:00+00:00</published>
+    <updated>2023-02-09T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-donation-shift6mq/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-donation-shift6mq/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2023/02/09/donation-shift6mq.html</id>
+        <link href="https://f-droid.org/en/2023/02/09/donation-shift6mq.html"/>
+        <title>Donation SHIFT6mq</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2023-02-09T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-donation-shift6mq/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Fixing Rode Wireless Go II RF Interference or buzz</title>
         <author>
             <name>Jeff Geerling</name>
@@ -2858,30 +2906,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-digital-preservation-and-the-app-icon-book/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Container Queries and Typography</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-01-26T16:13:23+00:00</published>
-    <updated>2023-01-26T16:13:23+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-container-queries-and-typography/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-container-queries-and-typography/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/container-queries-and-typography/</id>
-        <link href="https://robinrendle.com/notes/container-queries-and-typography/"/>
-        <title>Container Queries and Typography</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-01-26T16:13:23+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-container-queries-and-typography/</id>
     <content type="html">
         
     </content>
@@ -10206,30 +10230,6 @@
       </source>
 
     <id>https://news.cryptic.io/molly-white-stop-saying-they-shouldnt-have-invested-more-than-they-could-afford-to-lose/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Maven Central is not as free as it looks</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2022-07-22T00:00:00+00:00</published>
-    <updated>2022-07-22T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/various-maven-central-is-not-as-free-as-it-looks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-maven-central-is-not-as-free-as-it-looks/" type="text/html"/>
-      <source>
-        <id>https://f-droid.org/en/2022/07/22/maven-central.html</id>
-        <link href="https://f-droid.org/en/2022/07/22/maven-central.html"/>
-        <title>Maven Central is not as free as it looks</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2022-07-22T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-maven-central-is-not-as-free-as-it-looks/</id>
     <content type="html">
         
     </content>
