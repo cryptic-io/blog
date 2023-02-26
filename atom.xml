@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-25T06:56:00+00:00</updated>
+  <updated>2023-02-26T20:29:21+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Things that are hard to measure, things that are easy to measure</title>
+        <author>
+            <name>Alex Ellis</name>
+        </author>
+    <published>2023-02-26T20:29:21+00:00</published>
+    <updated>2023-02-26T20:29:21+00:00</updated>
+    <link href="https://news.cryptic.io/alex-ellis-things-that-are-hard-to-measure-things-that-are-easy-to-measure/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-ellis-things-that-are-hard-to-measure-things-that-are-easy-to-measure/" type="text/html"/>
+      <source>
+        <id>https://alexanderell.is/posts/measure/</id>
+        <link href="https://alexanderell.is/posts/measure/"/>
+        <title>Things that are hard to measure, things that are easy to measure</title>
+        <author>
+            <name>Alex Ellis</name>
+        </author>
+        <updated>2023-02-26T20:29:21+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-ellis-things-that-are-hard-to-measure-things-that-are-easy-to-measure/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>ChatGPT on the fifth tarot suit</title>
         <author>
@@ -10182,30 +10206,6 @@
       </source>
 
     <id>https://news.cryptic.io/nutcroft-stateasaservice/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Funny artifacts in a 3D house scan</title>
-        <author>
-            <name>Alex Ellis</name>
-        </author>
-    <published>2022-07-30T17:16:31+00:00</published>
-    <updated>2022-07-30T17:16:31+00:00</updated>
-    <link href="https://news.cryptic.io/alex-ellis-funny-artifacts-in-a-3d-house-scan/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-ellis-funny-artifacts-in-a-3d-house-scan/" type="text/html"/>
-      <source>
-        <id>https://alexanderell.is/posts/3d-scan/</id>
-        <link href="https://alexanderell.is/posts/3d-scan/"/>
-        <title>Funny artifacts in a 3D house scan</title>
-        <author>
-            <name>Alex Ellis</name>
-        </author>
-        <updated>2022-07-30T17:16:31+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-ellis-funny-artifacts-in-a-3d-house-scan/</id>
     <content type="html">
         
     </content>
