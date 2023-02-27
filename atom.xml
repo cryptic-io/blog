@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-26T20:29:21+00:00</updated>
+  <updated>2023-02-27T06:27:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>I wish people would stop insisting that Git branches are nothing but refs</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2023-02-27T06:27:00+00:00</published>
+    <updated>2023-02-27T06:27:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-i-wish-people-would-stop-insisting-that-git-branches-are-nothing-but-refs/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-i-wish-people-would-stop-insisting-that-git-branches-are-nothing-but-refs/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/prog/git/branches.html</id>
+        <link href="https://blog.plover.com/prog/git/branches.html"/>
+        <title>I wish people would stop insisting that Git branches are nothing but refs</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2023-02-27T06:27:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-i-wish-people-would-stop-insisting-that-git-branches-are-nothing-but-refs/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Things that are hard to measure, things that are easy to measure</title>
         <author>
@@ -1226,30 +1250,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-more-monos/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Congested geese</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2023-02-14T19:57:00+00:00</published>
-    <updated>2023-02-14T19:57:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-congested-geese/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-congested-geese/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/bio/goose-snot.html</id>
-        <link href="https://blog.plover.com/bio/goose-snot.html"/>
-        <title>Congested geese</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2023-02-14T19:57:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-congested-geese/</id>
     <content type="html">
         
     </content>
