@@ -79,6 +79,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Hand Dryers</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-02-27T00:00:00+00:00</published>
+    <updated>2023-02-27T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-hand-dryers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-hand-dryers/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2743/</id>
+        <link href="https://xkcd.com/2743/"/>
+        <title>Hand Dryers</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-02-27T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-hand-dryers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Things that are hard to measure, things that are easy to measure</title>
         <author>
             <name>Alex Ellis</name>
@@ -890,30 +914,6 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-fun-and-learnings-with-localization-on-linux/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Data Quality</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-02-17T00:00:00+00:00</published>
-    <updated>2023-02-17T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-data-quality/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-data-quality/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2739/</id>
-        <link href="https://xkcd.com/2739/"/>
-        <title>Data Quality</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-02-17T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-data-quality/</id>
     <content type="html">
         
     </content>
