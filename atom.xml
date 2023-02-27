@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-27T06:27:00+00:00</updated>
+  <updated>2023-02-27T20:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Two ongoing Decades</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2023-02-27T20:00:00+00:00</published>
+    <updated>2023-02-27T20:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-two-ongoing-decades/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-two-ongoing-decades/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2023/02/27/Twenty-ongoing-Years</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2023/02/27/Twenty-ongoing-Years"/>
+        <title>Two ongoing Decades</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2023-02-27T20:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-two-ongoing-decades/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>I wish people would stop insisting that Git branches are nothing but refs</title>
         <author>
@@ -4802,30 +4826,6 @@
       </source>
 
     <id>https://news.cryptic.io/chris-kiehl-2022/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Private and Public Mastodon</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2022-12-30T20:00:00+00:00</published>
-    <updated>2022-12-30T20:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-private-and-public-mastodon/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-private-and-public-mastodon/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2022/12/30/Mastodon-Privacy-and-Search</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2022/12/30/Mastodon-Privacy-and-Search"/>
-        <title>Private and Public Mastodon</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2022-12-30T20:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-private-and-public-mastodon/</id>
     <content type="html">
         
     </content>
