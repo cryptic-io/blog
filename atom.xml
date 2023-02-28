@@ -4,32 +4,8 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-28T07:00:00+00:00</updated>
+  <updated>2023-02-28T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
-  <entry xml:lang="en">
-    <title>LattePanda V1 - my experience with a Raspberry Pi alternative</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2023-02-28T07:00:00+00:00</published>
-    <updated>2023-02-28T07:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-lattepanda-v1-my-experience-with-a-raspberry-pi-alternative/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-lattepanda-v1-my-experience-with-a-raspberry-pi-alternative/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2023/02/28/lattepanda-v1/</id>
-        <link href="https://ounapuu.ee/posts/2023/02/28/lattepanda-v1/"/>
-        <title>LattePanda V1 - my experience with a Raspberry Pi alternative</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2023-02-28T07:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-lattepanda-v1-my-experience-with-a-raspberry-pi-alternative/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
   <entry xml:lang="en">
     <title>Some personal user experiences</title>
         <author>
@@ -434,6 +410,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-faux-progress/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Documenting what it’s like to be treated humanely by a journalist</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2023-02-22T01:41:34+00:00</published>
+    <updated>2023-02-22T01:41:34+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-documenting-what-its-like-to-be-treated-humanely-by-a-journalist/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-documenting-what-its-like-to-be-treated-humanely-by-a-journalist/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/documenting-what-its-like-to-be-treated-humanely-by-a-journalist</id>
+        <link href="http://www.nathalielawhead.com/candybox/documenting-what-its-like-to-be-treated-humanely-by-a-journalist"/>
+        <title>Documenting what it’s like to be treated humanely by a journalist</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2023-02-22T01:41:34+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-documenting-what-its-like-to-be-treated-humanely-by-a-journalist/</id>
     <content type="html">
         
     </content>
@@ -1159,6 +1159,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>“Death Stranding Meets Net-Art” in a poetry world (devlog update)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2023-02-16T00:23:10+00:00</published>
+    <updated>2023-02-16T00:23:10+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-death-stranding-meets-netart-in-a-poetry-world-devlog-update/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-death-stranding-meets-netart-in-a-poetry-world-devlog-update/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/death-stranding-meets-net-art-in-a-poetry-world-devlog-update</id>
+        <link href="http://www.nathalielawhead.com/candybox/death-stranding-meets-net-art-in-a-poetry-world-devlog-update"/>
+        <title>“Death Stranding Meets Net-Art” in a poetry world (devlog update)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2023-02-16T00:23:10+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-death-stranding-meets-netart-in-a-poetry-world-devlog-update/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Three-State Stability</title>
         <author>
             <name>Alex Kladov</name>
@@ -1226,30 +1250,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-multilingual-transliteration-corruption/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Shrinkflation, SanDisk style</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2023-02-15T04:00:00+00:00</published>
-    <updated>2023-02-15T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-shrinkflation-sandisk-style/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-shrinkflation-sandisk-style/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2023/02/15/shrinkflation/</id>
-        <link href="https://ounapuu.ee/posts/2023/02/15/shrinkflation/"/>
-        <title>Shrinkflation, SanDisk style</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2023-02-15T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-shrinkflation-sandisk-style/</id>
     <content type="html">
         
     </content>
@@ -1874,6 +1874,30 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-fixing-rode-wireless-go-ii-rf-interference-or-buzz/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Celebrating some beautiful jam games </title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2023-02-08T01:46:57+00:00</published>
+    <updated>2023-02-08T01:46:57+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-celebrating-some-beautiful-jam-games/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-celebrating-some-beautiful-jam-games/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/celebrating-some-beautiful-jam-games</id>
+        <link href="http://www.nathalielawhead.com/candybox/celebrating-some-beautiful-jam-games"/>
+        <title>Celebrating some beautiful jam games </title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2023-02-08T01:46:57+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-celebrating-some-beautiful-jam-games/</id>
     <content type="html">
         
     </content>
@@ -2983,30 +3007,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>ThinkPad as a server: the follow-up</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2023-01-27T04:00:00+00:00</published>
-    <updated>2023-01-27T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-thinkpad-as-a-server-the-followup/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-thinkpad-as-a-server-the-followup/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2023/01/27/thinkpad-as-server-followup/</id>
-        <link href="https://ounapuu.ee/posts/2023/01/27/thinkpad-as-server-followup/"/>
-        <title>ThinkPad as a server: the follow-up</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2023-01-27T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-thinkpad-as-a-server-the-followup/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Reader feedback: &quot;bad&quot; names, !main(), and Mastodon</title>
         <author>
             <name>rachelbythebay</name>
@@ -3703,6 +3703,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>A curation of beautiful thoughtful poetic silly and queer zines made with the Electric Zine Maker</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2023-01-17T23:56:05+00:00</published>
+    <updated>2023-01-17T23:56:05+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-a-curation-of-beautiful-thoughtful-poetic-silly-and-queer-zines-made-with-the-electric-zine-maker/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-a-curation-of-beautiful-thoughtful-poetic-silly-and-queer-zines-made-with-the-electric-zine-maker/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/a-curation-of-beautiful-thoughtful-poetic-silly-and-queer-zines-made-with-the-electric-zine-maker</id>
+        <link href="http://www.nathalielawhead.com/candybox/a-curation-of-beautiful-thoughtful-poetic-silly-and-queer-zines-made-with-the-electric-zine-maker"/>
+        <title>A curation of beautiful thoughtful poetic silly and queer zines made with the Electric Zine Maker</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2023-01-17T23:56:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-a-curation-of-beautiful-thoughtful-poetic-silly-and-queer-zines-made-with-the-electric-zine-maker/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Notion, AI, and Me</title>
         <author>
             <name>Linus Lee</name>
@@ -4231,6 +4255,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The GDevelop Game Jam #3 is here (with prizes!) and I’m honored to be a judge…</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2023-01-07T00:09:35+00:00</published>
+    <updated>2023-01-07T00:09:35+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-the-gdevelop-game-jam-3-is-here-with-prizes-and-im-honored-to-be-a-judge/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-the-gdevelop-game-jam-3-is-here-with-prizes-and-im-honored-to-be-a-judge/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/the-gdevelop-game-jam-3-is-here-with-prizes-and-im-honored-to-be-a-judge</id>
+        <link href="http://www.nathalielawhead.com/candybox/the-gdevelop-game-jam-3-is-here-with-prizes-and-im-honored-to-be-a-judge"/>
+        <title>The GDevelop Game Jam #3 is here (with prizes!) and I’m honored to be a judge…</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2023-01-07T00:09:35+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-the-gdevelop-game-jam-3-is-here-with-prizes-and-im-honored-to-be-a-judge/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
         <author>
             <name>Tie</name>
@@ -4586,30 +4634,6 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-gardens-games-and-engravings/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Anything&#x27;s a portable speaker if you&#x27;re brave enough</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2023-01-02T05:00:00+00:00</published>
-    <updated>2023-01-02T05:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-anythings-a-portable-speaker-if-youre-brave-enough/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-anythings-a-portable-speaker-if-youre-brave-enough/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2023/01/02/anythings-a-portable-speaker/</id>
-        <link href="https://ounapuu.ee/posts/2023/01/02/anythings-a-portable-speaker/"/>
-        <title>Anything&#x27;s a portable speaker if you&#x27;re brave enough</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2023-01-02T05:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-anythings-a-portable-speaker-if-youre-brave-enough/</id>
     <content type="html">
         
     </content>
@@ -5623,25 +5647,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>About the time I used Google Drive as a CMS for a web app</title>
+    <title>The open-source no-code world of GDevelop (if you miss browser Flash games, this is keeping that dream alive!)</title>
         <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+            <name>Nathalie Lawhead</name>
         </author>
-    <published>2022-12-12T05:00:00+00:00</published>
-    <updated>2022-12-12T05:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-about-the-time-i-used-google-drive-as-a-cms-for-a-web-app/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-about-the-time-i-used-google-drive-as-a-cms-for-a-web-app/" type="text/html"/>
+    <published>2022-12-12T23:09:42+00:00</published>
+    <updated>2022-12-12T23:09:42+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-the-opensource-nocode-world-of-gdevelop-if-you-miss-browser-flash-games-this-is-keeping-that-dream-alive/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-the-opensource-nocode-world-of-gdevelop-if-you-miss-browser-flash-games-this-is-keeping-that-dream-alive/" type="text/html"/>
       <source>
-        <id>https://ounapuu.ee/posts/2022/12/12/google-drive-cms/</id>
-        <link href="https://ounapuu.ee/posts/2022/12/12/google-drive-cms/"/>
-        <title>About the time I used Google Drive as a CMS for a web app</title>
+        <id>http://www.nathalielawhead.com/candybox/the-open-source-no-code-world-of-gdevelop-if-you-miss-browser-flash-games-this-is-keeping-that-dream-alive</id>
+        <link href="http://www.nathalielawhead.com/candybox/the-open-source-no-code-world-of-gdevelop-if-you-miss-browser-flash-games-this-is-keeping-that-dream-alive"/>
+        <title>The open-source no-code world of GDevelop (if you miss browser Flash games, this is keeping that dream alive!)</title>
         <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+            <name>Nathalie Lawhead</name>
         </author>
-        <updated>2022-12-12T05:00:00+00:00</updated>
+        <updated>2022-12-12T23:09:42+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-about-the-time-i-used-google-drive-as-a-cms-for-a-web-app/</id>
+    <id>https://news.cryptic.io/nathalie-lawhead-the-opensource-nocode-world-of-gdevelop-if-you-miss-browser-flash-games-this-is-keeping-that-dream-alive/</id>
     <content type="html">
         
     </content>
@@ -5762,30 +5786,6 @@
       </source>
 
     <id>https://news.cryptic.io/rohan-deshmukh-surprising-capability-of-ai-code-generation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>What changing the CPU on a laptop looks like</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2022-12-09T05:00:00+00:00</published>
-    <updated>2022-12-09T05:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-what-changing-the-cpu-on-a-laptop-looks-like/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-what-changing-the-cpu-on-a-laptop-looks-like/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2022/12/09/changing-cpu-in-a-laptop/</id>
-        <link href="https://ounapuu.ee/posts/2022/12/09/changing-cpu-in-a-laptop/"/>
-        <title>What changing the CPU on a laptop looks like</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2022-12-09T05:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-what-changing-the-cpu-on-a-laptop-looks-like/</id>
     <content type="html">
         
     </content>
@@ -6079,30 +6079,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>HoloISO: the unofficial Steam Deck experience on your PC</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2022-12-01T05:00:00+00:00</published>
-    <updated>2022-12-01T05:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-holoiso-the-unofficial-steam-deck-experience-on-your-pc/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-holoiso-the-unofficial-steam-deck-experience-on-your-pc/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2022/12/01/holoiso-steam-deck-experience/</id>
-        <link href="https://ounapuu.ee/posts/2022/12/01/holoiso-steam-deck-experience/"/>
-        <title>HoloISO: the unofficial Steam Deck experience on your PC</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2022-12-01T05:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-holoiso-the-unofficial-steam-deck-experience-on-your-pc/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>I shall toil at a reduced volume</title>
         <author>
             <name>Drew DeVault</name>
@@ -6194,6 +6170,30 @@
       </source>
 
     <id>https://news.cryptic.io/justin-jackson-the-secret-is-to-sell-what-people-are-already-searching-for/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Exploring the beautiful worlds of games made with “RPG in a Box”</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-11-30T06:17:24+00:00</published>
+    <updated>2022-11-30T06:17:24+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-exploring-the-beautiful-worlds-of-games-made-with-rpg-in-a-box/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-exploring-the-beautiful-worlds-of-games-made-with-rpg-in-a-box/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/exploring-the-beautiful-worlds-of-games-made-with-rpg-in-a-box</id>
+        <link href="http://www.nathalielawhead.com/candybox/exploring-the-beautiful-worlds-of-games-made-with-rpg-in-a-box"/>
+        <title>Exploring the beautiful worlds of games made with “RPG in a Box”</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-11-30T06:17:24+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-exploring-the-beautiful-worlds-of-games-made-with-rpg-in-a-box/</id>
     <content type="html">
         
     </content>
@@ -6674,30 +6674,6 @@
       </source>
 
     <id>https://news.cryptic.io/kris-de-decker-when-lethal-weapons-grew-on-trees/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I have a &#x27;Dall UD19PB ThundeRbglt Dock&#x27;: my experience with the HP Elitebook 845 G9</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2022-11-21T05:00:00+00:00</published>
-    <updated>2022-11-21T05:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-have-a-dall-ud19pb-thunderbglt-dock-my-experience-with-the-hp-elitebook-845-g9/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-have-a-dall-ud19pb-thunderbglt-dock-my-experience-with-the-hp-elitebook-845-g9/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2022/11/21/hp-elitebook-845-g9/</id>
-        <link href="https://ounapuu.ee/posts/2022/11/21/hp-elitebook-845-g9/"/>
-        <title>I have a &#x27;Dall UD19PB ThundeRbglt Dock&#x27;: my experience with the HP Elitebook 845 G9</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2022-11-21T05:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-have-a-dall-ud19pb-thunderbglt-dock-my-experience-with-the-hp-elitebook-845-g9/</id>
     <content type="html">
         
     </content>
@@ -7475,30 +7451,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>I finally found an use case for my Raspberry Pi Model B+</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2022-11-01T04:00:00+00:00</published>
-    <updated>2022-11-01T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-finally-found-an-use-case-for-my-raspberry-pi-model-b/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-finally-found-an-use-case-for-my-raspberry-pi-model-b/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi/</id>
-        <link href="https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi/"/>
-        <title>I finally found an use case for my Raspberry Pi Model B+</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2022-11-01T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-finally-found-an-use-case-for-my-raspberry-pi-model-b/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Will the ranting on this website ever stop?</title>
         <author>
             <name>unixsheikh</name>
@@ -7883,6 +7835,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The Joy of Silly Useless Software</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-10-21T20:34:44+00:00</published>
+    <updated>2022-10-21T20:34:44+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-the-joy-of-silly-useless-software/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-the-joy-of-silly-useless-software/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/the-joy-of-silly-useless-software</id>
+        <link href="http://www.nathalielawhead.com/candybox/the-joy-of-silly-useless-software"/>
+        <title>The Joy of Silly Useless Software</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-10-21T20:34:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-the-joy-of-silly-useless-software/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Taxonomy is Hard</title>
         <author>
             <name>Various</name>
@@ -8214,30 +8190,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-a-hope/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Recovering a password-protected ThinkPad T60</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2022-10-13T05:00:00+00:00</published>
-    <updated>2022-10-13T05:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-recovering-a-passwordprotected-thinkpad-t60/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-recovering-a-passwordprotected-thinkpad-t60/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2022/10/13/recovering-password-locked-thinkpad-t60/</id>
-        <link href="https://ounapuu.ee/posts/2022/10/13/recovering-password-locked-thinkpad-t60/"/>
-        <title>Recovering a password-protected ThinkPad T60</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2022-10-13T05:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-recovering-a-passwordprotected-thinkpad-t60/</id>
     <content type="html">
         
     </content>
@@ -9174,6 +9126,30 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-slouching-towards-innovation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>MoMA’s “Never Alone: Video Games and Other Interactive Design” Exhibit &amp; The Hopeful Future of Video Game Preservation</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-09-12T23:36:13+00:00</published>
+    <updated>2022-09-12T23:36:13+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation</id>
+        <link href="http://www.nathalielawhead.com/candybox/momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation"/>
+        <title>MoMA’s “Never Alone: Video Games and Other Interactive Design” Exhibit &amp; The Hopeful Future of Video Game Preservation</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-09-12T23:36:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation/</id>
     <content type="html">
         
     </content>
@@ -10830,6 +10806,30 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-convivial-forms/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>When software makes you laugh! (…creativity as a mechanic, how it exists in games, and the ethics of either empowering or exploiting creation)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-07-01T01:47:42+00:00</published>
+    <updated>2022-07-01T01:47:42+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-when-software-makes-you-laugh-creativity-as-a-mechanic-how-it-exists-in-games-and-the-ethics-of-either-empowering-or-exploiting-creation/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-when-software-makes-you-laugh-creativity-as-a-mechanic-how-it-exists-in-games-and-the-ethics-of-either-empowering-or-exploiting-creation/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/when-software-makes-you-laugh-creativity-as-a-mechanic-how-it-exists-in-games-and-the-ethics-of-either-empowering-or-exploiting-creation</id>
+        <link href="http://www.nathalielawhead.com/candybox/when-software-makes-you-laugh-creativity-as-a-mechanic-how-it-exists-in-games-and-the-ethics-of-either-empowering-or-exploiting-creation"/>
+        <title>When software makes you laugh! (…creativity as a mechanic, how it exists in games, and the ethics of either empowering or exploiting creation)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-07-01T01:47:42+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-when-software-makes-you-laugh-creativity-as-a-mechanic-how-it-exists-in-games-and-the-ethics-of-either-empowering-or-exploiting-creation/</id>
     <content type="html">
         
     </content>
