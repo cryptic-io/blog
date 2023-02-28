@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-02-28T00:00:00+00:00</updated>
+  <updated>2023-02-28T07:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>LattePanda V1 - my experience with a Raspberry Pi alternative</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2023-02-28T07:00:00+00:00</published>
+    <updated>2023-02-28T07:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-lattepanda-v1-my-experience-with-a-raspberry-pi-alternative/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-lattepanda-v1-my-experience-with-a-raspberry-pi-alternative/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2023/02/28/lattepanda-v1/</id>
+        <link href="https://ounapuu.ee/posts/2023/02/28/lattepanda-v1/"/>
+        <title>LattePanda V1 - my experience with a Raspberry Pi alternative</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2023-02-28T07:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-lattepanda-v1-my-experience-with-a-raspberry-pi-alternative/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Some personal user experiences</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/vitalik-buterin-some-personal-user-experiences/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Can We Make Bicycles Sustainable Again?</title>
+        <author>
+            <name>Kris De Decker</name>
+        </author>
+    <published>2023-02-27T23:00:00+00:00</published>
+    <updated>2023-02-27T23:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/kris-de-decker-can-we-make-bicycles-sustainable-again/"/>
+    <link rel="alternate" href="https://news.cryptic.io/kris-de-decker-can-we-make-bicycles-sustainable-again/" type="text/html"/>
+      <source>
+        <id>https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again.html</id>
+        <link href="https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again.html"/>
+        <title>Can We Make Bicycles Sustainable Again?</title>
+        <author>
+            <name>Kris De Decker</name>
+        </author>
+        <updated>2023-02-27T23:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/kris-de-decker-can-we-make-bicycles-sustainable-again/</id>
     <content type="html">
         
     </content>
@@ -1250,6 +1298,30 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-multilingual-transliteration-corruption/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Shrinkflation, SanDisk style</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2023-02-15T04:00:00+00:00</published>
+    <updated>2023-02-15T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-shrinkflation-sandisk-style/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-shrinkflation-sandisk-style/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2023/02/15/shrinkflation/</id>
+        <link href="https://ounapuu.ee/posts/2023/02/15/shrinkflation/"/>
+        <title>Shrinkflation, SanDisk style</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2023-02-15T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-shrinkflation-sandisk-style/</id>
     <content type="html">
         
     </content>
@@ -3007,6 +3079,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>ThinkPad as a server: the follow-up</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2023-01-27T04:00:00+00:00</published>
+    <updated>2023-01-27T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-thinkpad-as-a-server-the-followup/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-thinkpad-as-a-server-the-followup/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2023/01/27/thinkpad-as-server-followup/</id>
+        <link href="https://ounapuu.ee/posts/2023/01/27/thinkpad-as-server-followup/"/>
+        <title>ThinkPad as a server: the follow-up</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2023-01-27T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-thinkpad-as-a-server-the-followup/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Reader feedback: &quot;bad&quot; names, !main(), and Mastodon</title>
         <author>
             <name>rachelbythebay</name>
@@ -4639,6 +4735,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Anything&#x27;s a portable speaker if you&#x27;re brave enough</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2023-01-02T05:00:00+00:00</published>
+    <updated>2023-01-02T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-anythings-a-portable-speaker-if-youre-brave-enough/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-anythings-a-portable-speaker-if-youre-brave-enough/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2023/01/02/anythings-a-portable-speaker/</id>
+        <link href="https://ounapuu.ee/posts/2023/01/02/anythings-a-portable-speaker/"/>
+        <title>Anything&#x27;s a portable speaker if you&#x27;re brave enough</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2023-01-02T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-anythings-a-portable-speaker-if-youre-brave-enough/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Developing for the fediverse: some personal guidelines</title>
         <author>
             <name>manuel</name>
@@ -5671,6 +5791,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>About the time I used Google Drive as a CMS for a web app</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2022-12-12T05:00:00+00:00</published>
+    <updated>2022-12-12T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-about-the-time-i-used-google-drive-as-a-cms-for-a-web-app/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-about-the-time-i-used-google-drive-as-a-cms-for-a-web-app/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2022/12/12/google-drive-cms/</id>
+        <link href="https://ounapuu.ee/posts/2022/12/12/google-drive-cms/"/>
+        <title>About the time I used Google Drive as a CMS for a web app</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2022-12-12T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-about-the-time-i-used-google-drive-as-a-cms-for-a-web-app/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Baby’s First iSCSI with ZFS Setup</title>
         <author>
             <name>Various</name>
@@ -5786,6 +5930,30 @@
       </source>
 
     <id>https://news.cryptic.io/rohan-deshmukh-surprising-capability-of-ai-code-generation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>What changing the CPU on a laptop looks like</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2022-12-09T05:00:00+00:00</published>
+    <updated>2022-12-09T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-what-changing-the-cpu-on-a-laptop-looks-like/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-what-changing-the-cpu-on-a-laptop-looks-like/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2022/12/09/changing-cpu-in-a-laptop/</id>
+        <link href="https://ounapuu.ee/posts/2022/12/09/changing-cpu-in-a-laptop/"/>
+        <title>What changing the CPU on a laptop looks like</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2022-12-09T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-what-changing-the-cpu-on-a-laptop-looks-like/</id>
     <content type="html">
         
     </content>
@@ -6074,6 +6242,30 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-bitcoin-is-the-rediscovery-of-money/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>HoloISO: the unofficial Steam Deck experience on your PC</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2022-12-01T05:00:00+00:00</published>
+    <updated>2022-12-01T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-holoiso-the-unofficial-steam-deck-experience-on-your-pc/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-holoiso-the-unofficial-steam-deck-experience-on-your-pc/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2022/12/01/holoiso-steam-deck-experience/</id>
+        <link href="https://ounapuu.ee/posts/2022/12/01/holoiso-steam-deck-experience/"/>
+        <title>HoloISO: the unofficial Steam Deck experience on your PC</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2022-12-01T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-holoiso-the-unofficial-steam-deck-experience-on-your-pc/</id>
     <content type="html">
         
     </content>
@@ -6674,6 +6866,30 @@
       </source>
 
     <id>https://news.cryptic.io/kris-de-decker-when-lethal-weapons-grew-on-trees/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>I have a &#x27;Dall UD19PB ThundeRbglt Dock&#x27;: my experience with the HP Elitebook 845 G9</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2022-11-21T05:00:00+00:00</published>
+    <updated>2022-11-21T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-have-a-dall-ud19pb-thunderbglt-dock-my-experience-with-the-hp-elitebook-845-g9/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-have-a-dall-ud19pb-thunderbglt-dock-my-experience-with-the-hp-elitebook-845-g9/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2022/11/21/hp-elitebook-845-g9/</id>
+        <link href="https://ounapuu.ee/posts/2022/11/21/hp-elitebook-845-g9/"/>
+        <title>I have a &#x27;Dall UD19PB ThundeRbglt Dock&#x27;: my experience with the HP Elitebook 845 G9</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2022-11-21T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-have-a-dall-ud19pb-thunderbglt-dock-my-experience-with-the-hp-elitebook-845-g9/</id>
     <content type="html">
         
     </content>
@@ -7451,6 +7667,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>I finally found an use case for my Raspberry Pi Model B+</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2022-11-01T04:00:00+00:00</published>
+    <updated>2022-11-01T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-finally-found-an-use-case-for-my-raspberry-pi-model-b/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-finally-found-an-use-case-for-my-raspberry-pi-model-b/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi/</id>
+        <link href="https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi/"/>
+        <title>I finally found an use case for my Raspberry Pi Model B+</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2022-11-01T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-finally-found-an-use-case-for-my-raspberry-pi-model-b/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Will the ranting on this website ever stop?</title>
         <author>
             <name>unixsheikh</name>
@@ -8190,6 +8430,30 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-a-hope/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Recovering a password-protected ThinkPad T60</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2022-10-13T05:00:00+00:00</published>
+    <updated>2022-10-13T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-recovering-a-passwordprotected-thinkpad-t60/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-recovering-a-passwordprotected-thinkpad-t60/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2022/10/13/recovering-password-locked-thinkpad-t60/</id>
+        <link href="https://ounapuu.ee/posts/2022/10/13/recovering-password-locked-thinkpad-t60/"/>
+        <title>Recovering a password-protected ThinkPad T60</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2022-10-13T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-recovering-a-passwordprotected-thinkpad-t60/</id>
     <content type="html">
         
     </content>
@@ -10374,6 +10638,30 @@
       </source>
 
     <id>https://news.cryptic.io/molly-white-stop-saying-they-shouldnt-have-invested-more-than-they-could-afford-to-lose/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+    <published>2022-07-21T20:21:19+00:00</published>
+    <updated>2022-07-21T20:21:19+00:00</updated>
+    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
+    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
+      <source>
+        <id>https://nitter.net/GranolaShotgun/status/1550214360609353728#m</id>
+        <link href="https://nitter.net/GranolaShotgun/status/1550214360609353728#m"/>
+        <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+        <updated>2022-07-21T20:21:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
@@ -13206,30 +13494,6 @@
       </source>
 
     <id>https://news.cryptic.io/douglas-vaghetti-i-live-in-the-country-with-the-most-expensive-apple-products-on-the-planet-heres-what-it-is-like-in-here/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to Build a Practical Household Bike Generator</title>
-        <author>
-            <name>Kris De Decker, Marie Verdeil</name>
-        </author>
-    <published>2022-03-05T23:00:00+00:00</published>
-    <updated>2022-03-05T23:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/kris-de-decker-marie-verdeil-how-to-build-a-practical-household-bike-generator/"/>
-    <link rel="alternate" href="https://news.cryptic.io/kris-de-decker-marie-verdeil-how-to-build-a-practical-household-bike-generator/" type="text/html"/>
-      <source>
-        <id>https://solar.lowtechmagazine.com/2022/03/how-to-build-bike-generator.html</id>
-        <link href="https://solar.lowtechmagazine.com/2022/03/how-to-build-bike-generator.html"/>
-        <title>How to Build a Practical Household Bike Generator</title>
-        <author>
-            <name>Kris De Decker, Marie Verdeil</name>
-        </author>
-        <updated>2022-03-05T23:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/kris-de-decker-marie-verdeil-how-to-build-a-practical-household-bike-generator/</id>
     <content type="html">
         
     </content>
