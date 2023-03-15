@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-03-15T05:45:30+00:00</updated>
+  <updated>2023-03-15T21:51:28+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Copyright, but Punk</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2023-03-15T21:51:28+00:00</published>
+    <updated>2023-03-15T21:51:28+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-copyright-but-punk/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-copyright-but-punk/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/copypunk</id>
+        <link href="https://mediocregopher.com/posts/copypunk"/>
+        <title>Copyright, but Punk</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2023-03-15T21:51:28+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-copyright-but-punk/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>32K of Context in Your Pocket</title>
         <author>
@@ -338,30 +362,6 @@
       </source>
 
     <id>https://news.cryptic.io/manuel-i-want-my-software-to-be-visionary-the-go-go-golems-ecosystem/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Rewiewing is a Contract</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-    <published>2023-03-12T14:00:00+00:00</published>
-    <updated>2023-03-12T14:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-rewiewing-is-a-contract/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-rewiewing-is-a-contract/" type="text/html"/>
-      <source>
-        <id>http://bastian.rieck.me/blog/posts/2023/contract/</id>
-        <link href="http://bastian.rieck.me/blog/posts/2023/contract/"/>
-        <title>Rewiewing is a Contract</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-        <updated>2023-03-12T14:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bastian-rieck-rewiewing-is-a-contract/</id>
     <content type="html">
         
     </content>
@@ -727,30 +727,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Load &#x27;em up and throw &#x27;em under the bus</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-03-09T21:56:17+00:00</published>
-    <updated>2023-03-09T21:56:17+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/03/09/bus/</id>
-        <link href="https://rachelbythebay.com/w/2023/03/09/bus/"/>
-        <title>Load &#x27;em up and throw &#x27;em under the bus</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-03-09T21:56:17+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Deadlines as Technology</title>
         <author>
             <name>Jim Nielsen</name>
@@ -794,6 +770,30 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-testing-raspberry-pis-new-global-shutter-camera/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Indie Games and the promise of better spaces</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2023-03-09T06:21:15+00:00</published>
+    <updated>2023-03-09T06:21:15+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-indie-games-and-the-promise-of-better-spaces/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-indie-games-and-the-promise-of-better-spaces/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/indie-games-and-the-promise-of-better-spaces</id>
+        <link href="http://www.nathalielawhead.com/candybox/indie-games-and-the-promise-of-better-spaces"/>
+        <title>Indie Games and the promise of better spaces</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2023-03-09T06:21:15+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-indie-games-and-the-promise-of-better-spaces/</id>
     <content type="html">
         
     </content>
@@ -2407,6 +2407,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Documenting what it’s like to be treated humanely by a journalist</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2023-02-22T01:41:34+00:00</published>
+    <updated>2023-02-22T01:41:34+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-documenting-what-its-like-to-be-treated-humanely-by-a-journalist/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-documenting-what-its-like-to-be-treated-humanely-by-a-journalist/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/documenting-what-its-like-to-be-treated-humanely-by-a-journalist</id>
+        <link href="http://www.nathalielawhead.com/candybox/documenting-what-its-like-to-be-treated-humanely-by-a-journalist"/>
+        <title>Documenting what it’s like to be treated humanely by a journalist</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2023-02-22T01:41:34+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-documenting-what-its-like-to-be-treated-humanely-by-a-journalist/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Introducing: notes.jim-nielsen.com</title>
         <author>
             <name>Jim Nielsen</name>
@@ -3199,6 +3223,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>“Death Stranding Meets Net-Art” in a poetry world (devlog update)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2023-02-16T00:23:10+00:00</published>
+    <updated>2023-02-16T00:23:10+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-death-stranding-meets-netart-in-a-poetry-world-devlog-update/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-death-stranding-meets-netart-in-a-poetry-world-devlog-update/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/death-stranding-meets-net-art-in-a-poetry-world-devlog-update</id>
+        <link href="http://www.nathalielawhead.com/candybox/death-stranding-meets-net-art-in-a-poetry-world-devlog-update"/>
+        <title>“Death Stranding Meets Net-Art” in a poetry world (devlog update)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2023-02-16T00:23:10+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-death-stranding-meets-netart-in-a-poetry-world-devlog-update/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Three-State Stability</title>
         <author>
             <name>Alex Kladov</name>
@@ -3487,30 +3535,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>More than five whys and &quot;layer eight&quot; problems</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-02-14T00:39:58+00:00</published>
-    <updated>2023-02-14T00:39:58+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/02/13/broken/</id>
-        <link href="https://rachelbythebay.com/w/2023/02/13/broken/"/>
-        <title>More than five whys and &quot;layer eight&quot; problems</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-02-14T00:39:58+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How much is a friendship worth?</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -3602,30 +3626,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-with-a-notsodistant-past/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Open Peer Review Considered Harmful?</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-    <published>2023-02-12T07:00:00+00:00</published>
-    <updated>2023-02-12T07:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-open-peer-review-considered-harmful/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-open-peer-review-considered-harmful/" type="text/html"/>
-      <source>
-        <id>http://bastian.rieck.me/blog/posts/2023/peer_review/</id>
-        <link href="http://bastian.rieck.me/blog/posts/2023/peer_review/"/>
-        <title>Open Peer Review Considered Harmful?</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-        <updated>2023-02-12T07:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bastian-rieck-open-peer-review-considered-harmful/</id>
     <content type="html">
         
     </content>
@@ -4111,6 +4111,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Celebrating some beautiful jam games </title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2023-02-08T01:46:57+00:00</published>
+    <updated>2023-02-08T01:46:57+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-celebrating-some-beautiful-jam-games/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-celebrating-some-beautiful-jam-games/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/celebrating-some-beautiful-jam-games</id>
+        <link href="http://www.nathalielawhead.com/candybox/celebrating-some-beautiful-jam-games"/>
+        <title>Celebrating some beautiful jam games </title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2023-02-08T01:46:57+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-celebrating-some-beautiful-jam-games/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Reflections</title>
         <author>
             <name>matthiasott</name>
@@ -4543,30 +4567,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Musings on Mobility: The Ping from Hell</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-    <published>2023-02-01T18:00:00+00:00</published>
-    <updated>2023-02-01T18:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-musings-on-mobility-the-ping-from-hell/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-musings-on-mobility-the-ping-from-hell/" type="text/html"/>
-      <source>
-        <id>http://bastian.rieck.me/blog/posts/2023/mobility/</id>
-        <link href="http://bastian.rieck.me/blog/posts/2023/mobility/"/>
-        <title>Musings on Mobility: The Ping from Hell</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-        <updated>2023-02-01T18:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bastian-rieck-musings-on-mobility-the-ping-from-hell/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Removing RF interference from a cell phone from audio recording</title>
         <author>
             <name>Jeff Geerling</name>
@@ -4783,30 +4783,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Determine durations with monotonic clocks if available</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-29T23:12:23+00:00</published>
-    <updated>2023-01-29T23:12:23+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/29/bash/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/29/bash/"/>
-        <title>Determine durations with monotonic clocks if available</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-29T23:12:23+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Conversations with Tyler Cowen</title>
         <author>
             <name>Derek Sivers</name>
@@ -4975,30 +4951,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-27T04:18:56+00:00</published>
-    <updated>2023-01-27T04:18:56+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/26/shadow/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/26/shadow/"/>
-        <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-27T04:18:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>ThinkPad as a server: the follow-up</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -5042,30 +4994,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-gnunet-jenuary-update-multithreading-primitives-and-toy-projects/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Reader feedback: &quot;bad&quot; names, !main(), and Mastodon</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-27T00:28:05+00:00</published>
-    <updated>2023-01-27T00:28:05+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-reader-feedback-bad-names-main-and-mastodon/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-reader-feedback-bad-names-main-and-mastodon/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/26/feedback/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/26/feedback/"/>
-        <title>Reader feedback: &quot;bad&quot; names, !main(), and Mastodon</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-27T00:28:05+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-reader-feedback-bad-names-main-and-mastodon/</id>
     <content type="html">
         
     </content>
@@ -5431,54 +5359,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Stuck in the Past? Scaling up Academia</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-    <published>2023-01-21T07:00:00+00:00</published>
-    <updated>2023-01-21T07:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-stuck-in-the-past-scaling-up-academia/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-stuck-in-the-past-scaling-up-academia/" type="text/html"/>
-      <source>
-        <id>http://bastian.rieck.me/blog/posts/2023/stuck/</id>
-        <link href="http://bastian.rieck.me/blog/posts/2023/stuck/"/>
-        <title>Stuck in the Past? Scaling up Academia</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-        <updated>2023-01-21T07:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bastian-rieck-stuck-in-the-past-scaling-up-academia/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Who needs main() anyway?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-21T06:35:59+00:00</published>
-    <updated>2023-01-21T06:35:59+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/20/mainless/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/20/mainless/"/>
-        <title>Who needs main() anyway?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-21T06:35:59+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Two simple ways to version control your MariaDB schema changes</title>
         <author>
             <name>unixsheikh</name>
@@ -5498,30 +5378,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-two-simple-ways-to-version-control-your-mariadb-schema-changes/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Setting the clock ahead to see what breaks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-20T04:05:53+00:00</published>
-    <updated>2023-01-20T04:05:53+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/19/time/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/19/time/"/>
-        <title>Setting the clock ahead to see what breaks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-20T04:05:53+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/</id>
     <content type="html">
         
     </content>
@@ -5575,30 +5431,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Feeds, updates, 200s, 304s, and now 429s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-19T00:16:36+00:00</published>
-    <updated>2023-01-19T00:16:36+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/18/http/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/18/http/"/>
-        <title>Feeds, updates, 200s, 304s, and now 429s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-19T00:16:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Winner take all science</title>
         <author>
             <name>dynomight</name>
@@ -5642,6 +5474,30 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-how-to-build-a-nostr-gm-bot/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A curation of beautiful thoughtful poetic silly and queer zines made with the Electric Zine Maker</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2023-01-17T23:56:05+00:00</published>
+    <updated>2023-01-17T23:56:05+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-a-curation-of-beautiful-thoughtful-poetic-silly-and-queer-zines-made-with-the-electric-zine-maker/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-a-curation-of-beautiful-thoughtful-poetic-silly-and-queer-zines-made-with-the-electric-zine-maker/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/a-curation-of-beautiful-thoughtful-poetic-silly-and-queer-zines-made-with-the-electric-zine-maker</id>
+        <link href="http://www.nathalielawhead.com/candybox/a-curation-of-beautiful-thoughtful-poetic-silly-and-queer-zines-made-with-the-electric-zine-maker"/>
+        <title>A curation of beautiful thoughtful poetic silly and queer zines made with the Electric Zine Maker</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2023-01-17T23:56:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-a-curation-of-beautiful-thoughtful-poetic-silly-and-queer-zines-made-with-the-electric-zine-maker/</id>
     <content type="html">
         
     </content>
@@ -5858,30 +5714,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-towards-a-reproducible-fdroid/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Web of Science: A Web of Nonsense</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-    <published>2023-01-14T17:00:00+00:00</published>
-    <updated>2023-01-14T17:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-web-of-science-a-web-of-nonsense/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-web-of-science-a-web-of-nonsense/" type="text/html"/>
-      <source>
-        <id>http://bastian.rieck.me/blog/posts/2023/web_of_science/</id>
-        <link href="http://bastian.rieck.me/blog/posts/2023/web_of_science/"/>
-        <title>Web of Science: A Web of Nonsense</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-        <updated>2023-01-14T17:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bastian-rieck-web-of-science-a-web-of-nonsense/</id>
     <content type="html">
         
     </content>
@@ -6127,25 +5959,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>No Comments</title>
+    <title>The GDevelop Game Jam #3 is here (with prizes!) and I’m honored to be a judge…</title>
         <author>
-            <name>Bastian Rieck</name>
+            <name>Nathalie Lawhead</name>
         </author>
-    <published>2023-01-07T17:00:00+00:00</published>
-    <updated>2023-01-07T17:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-no-comments/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-no-comments/" type="text/html"/>
+    <published>2023-01-07T00:09:35+00:00</published>
+    <updated>2023-01-07T00:09:35+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-the-gdevelop-game-jam-3-is-here-with-prizes-and-im-honored-to-be-a-judge/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-the-gdevelop-game-jam-3-is-here-with-prizes-and-im-honored-to-be-a-judge/" type="text/html"/>
       <source>
-        <id>http://bastian.rieck.me/blog/posts/2023/comments/</id>
-        <link href="http://bastian.rieck.me/blog/posts/2023/comments/"/>
-        <title>No Comments</title>
+        <id>http://www.nathalielawhead.com/candybox/the-gdevelop-game-jam-3-is-here-with-prizes-and-im-honored-to-be-a-judge</id>
+        <link href="http://www.nathalielawhead.com/candybox/the-gdevelop-game-jam-3-is-here-with-prizes-and-im-honored-to-be-a-judge"/>
+        <title>The GDevelop Game Jam #3 is here (with prizes!) and I’m honored to be a judge…</title>
         <author>
-            <name>Bastian Rieck</name>
+            <name>Nathalie Lawhead</name>
         </author>
-        <updated>2023-01-07T17:00:00+00:00</updated>
+        <updated>2023-01-07T00:09:35+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/bastian-rieck-no-comments/</id>
+    <id>https://news.cryptic.io/nathalie-lawhead-the-gdevelop-game-jam-3-is-here-with-prizes-and-im-honored-to-be-a-judge/</id>
     <content type="html">
         
     </content>
@@ -6170,54 +6002,6 @@
       </source>
 
     <id>https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>S p a m m y  s y s c a l l s in strace dumps</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-06T02:20:28+00:00</published>
-    <updated>2023-01-06T02:20:28+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-s-p-a-m-m-y-s-y-s-c-a-l-l-s-in-strace-dumps/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-s-p-a-m-m-y-s-y-s-c-a-l-l-s-in-strace-dumps/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/05/syscall/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/05/syscall/"/>
-        <title>S p a m m y  s y s c a l l s in strace dumps</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-06T02:20:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-s-p-a-m-m-y-s-y-s-c-a-l-l-s-in-strace-dumps/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Another look at the steps for issuing a cert</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-05T04:54:19+00:00</published>
-    <updated>2023-01-05T04:54:19+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/04/cert/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/04/cert/"/>
-        <title>Another look at the steps for issuing a cert</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-05T04:54:19+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/</id>
     <content type="html">
         
     </content>
@@ -6554,30 +6338,6 @@
       </source>
 
     <id>https://news.cryptic.io/manuel-developing-for-the-fediverse-some-personal-guidelines/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Apparent Complexity Can Be Deceptive</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-    <published>2023-01-01T17:00:00+00:00</published>
-    <updated>2023-01-01T17:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-apparent-complexity-can-be-deceptive/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-apparent-complexity-can-be-deceptive/" type="text/html"/>
-      <source>
-        <id>http://bastian.rieck.me/blog/posts/2023/apparent_complexity/</id>
-        <link href="http://bastian.rieck.me/blog/posts/2023/apparent_complexity/"/>
-        <title>Apparent Complexity Can Be Deceptive</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-        <updated>2023-01-01T17:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bastian-rieck-apparent-complexity-can-be-deceptive/</id>
     <content type="html">
         
     </content>
@@ -6943,30 +6703,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Machine Learning Scientist as Toolsmith: Remembering Fred Brooks</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-    <published>2022-12-29T08:00:00+00:00</published>
-    <updated>2022-12-29T08:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-the-machine-learning-scientist-as-toolsmith-remembering-fred-brooks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-the-machine-learning-scientist-as-toolsmith-remembering-fred-brooks/" type="text/html"/>
-      <source>
-        <id>http://bastian.rieck.me/blog/posts/2022/toolsmith/</id>
-        <link href="http://bastian.rieck.me/blog/posts/2022/toolsmith/"/>
-        <title>The Machine Learning Scientist as Toolsmith: Remembering Fred Brooks</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-        <updated>2022-12-29T08:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bastian-rieck-the-machine-learning-scientist-as-toolsmith-remembering-fred-brooks/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Editing</title>
         <author>
             <name>Gigi</name>
@@ -7327,30 +7063,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Reluctant Philosopher Kings? Leadership in Academia</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-    <published>2022-12-15T17:00:00+00:00</published>
-    <updated>2022-12-15T17:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-reluctant-philosopher-kings-leadership-in-academia/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-reluctant-philosopher-kings-leadership-in-academia/" type="text/html"/>
-      <source>
-        <id>http://bastian.rieck.me/blog/posts/2022/philosopher_king/</id>
-        <link href="http://bastian.rieck.me/blog/posts/2022/philosopher_king/"/>
-        <title>Reluctant Philosopher Kings? Leadership in Academia</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-        <updated>2022-12-15T17:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bastian-rieck-reluctant-philosopher-kings-leadership-in-academia/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Advice on being managed</title>
         <author>
             <name>dynomight</name>
@@ -7514,6 +7226,30 @@
       </source>
 
     <id>https://news.cryptic.io/molly-white-livetweets-of-the-december-13-2022-house-financial-services-committee-hearing-on-ftx/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The open-source no-code world of GDevelop (if you miss browser Flash games, this is keeping that dream alive!)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-12-12T23:09:42+00:00</published>
+    <updated>2022-12-12T23:09:42+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-the-opensource-nocode-world-of-gdevelop-if-you-miss-browser-flash-games-this-is-keeping-that-dream-alive/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-the-opensource-nocode-world-of-gdevelop-if-you-miss-browser-flash-games-this-is-keeping-that-dream-alive/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/the-open-source-no-code-world-of-gdevelop-if-you-miss-browser-flash-games-this-is-keeping-that-dream-alive</id>
+        <link href="http://www.nathalielawhead.com/candybox/the-open-source-no-code-world-of-gdevelop-if-you-miss-browser-flash-games-this-is-keeping-that-dream-alive"/>
+        <title>The open-source no-code world of GDevelop (if you miss browser Flash games, this is keeping that dream alive!)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-12-12T23:09:42+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-the-opensource-nocode-world-of-gdevelop-if-you-miss-browser-flash-games-this-is-keeping-that-dream-alive/</id>
     <content type="html">
         
     </content>
@@ -8042,6 +7778,30 @@
       </source>
 
     <id>https://news.cryptic.io/justin-jackson-the-secret-is-to-sell-what-people-are-already-searching-for/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Exploring the beautiful worlds of games made with “RPG in a Box”</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-11-30T06:17:24+00:00</published>
+    <updated>2022-11-30T06:17:24+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-exploring-the-beautiful-worlds-of-games-made-with-rpg-in-a-box/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-exploring-the-beautiful-worlds-of-games-made-with-rpg-in-a-box/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/exploring-the-beautiful-worlds-of-games-made-with-rpg-in-a-box</id>
+        <link href="http://www.nathalielawhead.com/candybox/exploring-the-beautiful-worlds-of-games-made-with-rpg-in-a-box"/>
+        <title>Exploring the beautiful worlds of games made with “RPG in a Box”</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-11-30T06:17:24+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-exploring-the-beautiful-worlds-of-games-made-with-rpg-in-a-box/</id>
     <content type="html">
         
     </content>
@@ -9539,6 +9299,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The Joy of Silly Useless Software</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-10-21T20:34:44+00:00</published>
+    <updated>2022-10-21T20:34:44+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-the-joy-of-silly-useless-software/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-the-joy-of-silly-useless-software/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/the-joy-of-silly-useless-software</id>
+        <link href="http://www.nathalielawhead.com/candybox/the-joy-of-silly-useless-software"/>
+        <title>The Joy of Silly Useless Software</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-10-21T20:34:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-the-joy-of-silly-useless-software/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Taxonomy is Hard</title>
         <author>
             <name>Various</name>
@@ -10643,6 +10427,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>MoMA’s “Never Alone: Video Games and Other Interactive Design” Exhibit &amp; The Hopeful Future of Video Game Preservation</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-09-12T23:36:13+00:00</published>
+    <updated>2022-09-12T23:36:13+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation</id>
+        <link href="http://www.nathalielawhead.com/candybox/momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation"/>
+        <title>MoMA’s “Never Alone: Video Games and Other Interactive Design” Exhibit &amp; The Hopeful Future of Video Game Preservation</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-09-12T23:36:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Futurist prediction methods and accuracy</title>
         <author>
             <name>Dan Luu</name>
@@ -11190,30 +10998,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-daubenschtz-six-unpopular-opinions-about-software-standard-development/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>We Are All Nerds: The Literary Works of Neal Stephenson</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-    <published>2022-08-27T08:00:00+00:00</published>
-    <updated>2022-08-27T08:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-we-are-all-nerds-the-literary-works-of-neal-stephenson/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-we-are-all-nerds-the-literary-works-of-neal-stephenson/" type="text/html"/>
-      <source>
-        <id>http://bastian.rieck.me/blog/posts/2022/neal_stephenson/</id>
-        <link href="http://bastian.rieck.me/blog/posts/2022/neal_stephenson/"/>
-        <title>We Are All Nerds: The Literary Works of Neal Stephenson</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-        <updated>2022-08-27T08:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bastian-rieck-we-are-all-nerds-the-literary-works-of-neal-stephenson/</id>
     <content type="html">
         
     </content>
@@ -12726,30 +12510,6 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-dialogs-and-shadow-dom-can-we-make-it-accessible/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Re: The Mindless Tyranny of &quot;What If It Changes?&quot;</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2022-06-09T17:37:49+00:00</published>
-    <updated>2022-06-09T17:37:49+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-re-the-mindless-tyranny-of-what-if-it-changes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-re-the-mindless-tyranny-of-what-if-it-changes/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/posts/re-what-if-it-changes</id>
-        <link href="https://mediocregopher.com/posts/re-what-if-it-changes"/>
-        <title>Re: The Mindless Tyranny of &quot;What If It Changes?&quot;</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2022-06-09T17:37:49+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-re-the-mindless-tyranny-of-what-if-it-changes/</id>
     <content type="html">
         
     </content>
