@@ -402,4 +402,31 @@
     author = "Kate Wagner";
     url = "https://mcmansionhell.com/rss";
   }
+  {
+    name = "datagubbe";
+    author = "carl svensson";
+    url = "https://www.datagubbe.se/atom.xml";
+  }
+  {
+    name = "Degrowther";
+    url = "https://degrowther.smol.pub/atom.xml";
+  }
+  {
+    name = "clehaxze.tw";
+    author = "Martin Chang";
+    url = "https://clehaxze.tw/atom.xml";
+  }
+  {
+    name = "manuelmoreale.com";
+    url = "https://manuelmoreale.com/feed/rss";
+  }
+  {
+    name = "Matthias Ott";
+    url = "https://matthiasott.com/rss";
+  }
+  {
+    name = "Simon Willison’s Weblog";
+    author = "Simon Willison";
+    url = "https://simonwillison.net/atom/entries/";
+  }
 ]
