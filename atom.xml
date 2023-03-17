@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-03-17T01:00:01+00:00</updated>
+  <updated>2023-03-17T15:43:38+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Could you train a ChatGPT-beating model for $85,000 and run it in a browser?</title>
+        <author>
+            <name>Simon Willison</name>
+        </author>
+    <published>2023-03-17T15:43:38+00:00</published>
+    <updated>2023-03-17T15:43:38+00:00</updated>
+    <link href="https://news.cryptic.io/simon-willison-could-you-train-a-chatgptbeating-model-for-85000-and-run-it-in-a-browser/"/>
+    <link rel="alternate" href="https://news.cryptic.io/simon-willison-could-you-train-a-chatgptbeating-model-for-85000-and-run-it-in-a-browser/" type="text/html"/>
+      <source>
+        <id>http://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/#atom-entries</id>
+        <link href="http://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/#atom-entries"/>
+        <title>Could you train a ChatGPT-beating model for $85,000 and run it in a browser?</title>
+        <author>
+            <name>Simon Willison</name>
+        </author>
+        <updated>2023-03-17T15:43:38+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/simon-willison-could-you-train-a-chatgptbeating-model-for-85000-and-run-it-in-a-browser/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>AI</title>
+        <author>
+            <name>Rohan Deshmukh</name>
+        </author>
+    <published>2023-03-17T15:30:22+00:00</published>
+    <updated>2023-03-17T15:30:22+00:00</updated>
+    <link href="https://news.cryptic.io/rohan-deshmukh-ai/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rohan-deshmukh-ai/" type="text/html"/>
+      <source>
+        <id>https://rohanrd.xyz/posts/ai/</id>
+        <link href="https://rohanrd.xyz/posts/ai/"/>
+        <title>AI</title>
+        <author>
+            <name>Rohan Deshmukh</name>
+        </author>
+        <updated>2023-03-17T15:30:22+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rohan-deshmukh-ai/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Don&#x27;t trap me in the chat window</title>
         <author>
@@ -26,6 +74,30 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-dont-trap-me-in-the-chat-window/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A personal blog doesn&#x27;t need an homepage</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2023-03-16T23:00:00+00:00</published>
+    <updated>2023-03-16T23:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-personal-blog-doesnt-need-an-homepage/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-personal-blog-doesnt-need-an-homepage/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/ITjChAj7TK18oSmG</id>
+        <link href="https://manuelmoreale.com/@/page/ITjChAj7TK18oSmG"/>
+        <title>A personal blog doesn&#x27;t need an homepage</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2023-03-16T23:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-personal-blog-doesnt-need-an-homepage/</id>
     <content type="html">
         
     </content>
@@ -871,30 +943,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Load &#x27;em up and throw &#x27;em under the bus</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-03-09T21:56:17+00:00</published>
-    <updated>2023-03-09T21:56:17+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/03/09/bus/</id>
-        <link href="https://rachelbythebay.com/w/2023/03/09/bus/"/>
-        <title>Load &#x27;em up and throw &#x27;em under the bus</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-03-09T21:56:17+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Deadlines as Technology</title>
         <author>
             <name>Jim Nielsen</name>
@@ -938,6 +986,30 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-testing-raspberry-pis-new-global-shutter-camera/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Indie Games and the promise of better spaces</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2023-03-09T06:21:15+00:00</published>
+    <updated>2023-03-09T06:21:15+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-indie-games-and-the-promise-of-better-spaces/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-indie-games-and-the-promise-of-better-spaces/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/indie-games-and-the-promise-of-better-spaces</id>
+        <link href="http://www.nathalielawhead.com/candybox/indie-games-and-the-promise-of-better-spaces"/>
+        <title>Indie Games and the promise of better spaces</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2023-03-09T06:21:15+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-indie-games-and-the-promise-of-better-spaces/</id>
     <content type="html">
         
     </content>
@@ -2527,6 +2599,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Documenting what it’s like to be treated humanely by a journalist</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2023-02-22T01:41:34+00:00</published>
+    <updated>2023-02-22T01:41:34+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-documenting-what-its-like-to-be-treated-humanely-by-a-journalist/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-documenting-what-its-like-to-be-treated-humanely-by-a-journalist/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/documenting-what-its-like-to-be-treated-humanely-by-a-journalist</id>
+        <link href="http://www.nathalielawhead.com/candybox/documenting-what-its-like-to-be-treated-humanely-by-a-journalist"/>
+        <title>Documenting what it’s like to be treated humanely by a journalist</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2023-02-22T01:41:34+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-documenting-what-its-like-to-be-treated-humanely-by-a-journalist/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Introducing: notes.jim-nielsen.com</title>
         <author>
             <name>Jim Nielsen</name>
@@ -3319,6 +3415,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>“Death Stranding Meets Net-Art” in a poetry world (devlog update)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2023-02-16T00:23:10+00:00</published>
+    <updated>2023-02-16T00:23:10+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-death-stranding-meets-netart-in-a-poetry-world-devlog-update/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-death-stranding-meets-netart-in-a-poetry-world-devlog-update/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/death-stranding-meets-net-art-in-a-poetry-world-devlog-update</id>
+        <link href="http://www.nathalielawhead.com/candybox/death-stranding-meets-net-art-in-a-poetry-world-devlog-update"/>
+        <title>“Death Stranding Meets Net-Art” in a poetry world (devlog update)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2023-02-16T00:23:10+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-death-stranding-meets-netart-in-a-poetry-world-devlog-update/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Three-State Stability</title>
         <author>
             <name>Alex Kladov</name>
@@ -3602,30 +3722,6 @@
       </source>
 
     <id>https://news.cryptic.io/fbifemboy-new-yorks-subway-construction-is-strangled-by-government-bloat/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>More than five whys and &quot;layer eight&quot; problems</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-02-14T00:39:58+00:00</published>
-    <updated>2023-02-14T00:39:58+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/02/13/broken/</id>
-        <link href="https://rachelbythebay.com/w/2023/02/13/broken/"/>
-        <title>More than five whys and &quot;layer eight&quot; problems</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-02-14T00:39:58+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/</id>
     <content type="html">
         
     </content>
@@ -4015,30 +4111,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Weeknotes: A bunch of things I learned this week, plus datasette-explain</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-02-09T05:57:08+00:00</published>
-    <updated>2023-02-09T05:57:08+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-weeknotes-a-bunch-of-things-i-learned-this-week-plus-datasetteexplain/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-weeknotes-a-bunch-of-things-i-learned-this-week-plus-datasetteexplain/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Feb/9/weeknotes/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Feb/9/weeknotes/#atom-entries"/>
-        <title>Weeknotes: A bunch of things I learned this week, plus datasette-explain</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-02-09T05:57:08+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-weeknotes-a-bunch-of-things-i-learned-this-week-plus-datasetteexplain/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>A Few Good Lies</title>
         <author>
             <name>Brian Kardell</name>
@@ -4135,30 +4207,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Good enough</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2023-02-08T23:00:00+00:00</published>
-    <updated>2023-02-08T23:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-good-enough/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-good-enough/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/ILq8EetbwgqDilYl</id>
-        <link href="https://manuelmoreale.com/@/page/ILq8EetbwgqDilYl"/>
-        <title>Good enough</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2023-02-08T23:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-good-enough/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Fixing Rode Wireless Go II RF Interference or buzz</title>
         <author>
             <name>Jeff Geerling</name>
@@ -4202,6 +4250,30 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-using-my-capsule-as-guinea-pig-upgrading-trantor-tls-infrastructure/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Celebrating some beautiful jam games </title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2023-02-08T01:46:57+00:00</published>
+    <updated>2023-02-08T01:46:57+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-celebrating-some-beautiful-jam-games/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-celebrating-some-beautiful-jam-games/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/celebrating-some-beautiful-jam-games</id>
+        <link href="http://www.nathalielawhead.com/candybox/celebrating-some-beautiful-jam-games"/>
+        <title>Celebrating some beautiful jam games </title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2023-02-08T01:46:57+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-celebrating-some-beautiful-jam-games/</id>
     <content type="html">
         
     </content>
@@ -4807,30 +4879,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Determine durations with monotonic clocks if available</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-29T23:12:23+00:00</published>
-    <updated>2023-01-29T23:12:23+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/29/bash/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/29/bash/"/>
-        <title>Determine durations with monotonic clocks if available</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-29T23:12:23+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Conversations with Tyler Cowen</title>
         <author>
             <name>Derek Sivers</name>
@@ -4999,30 +5047,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-27T04:18:56+00:00</published>
-    <updated>2023-01-27T04:18:56+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/26/shadow/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/26/shadow/"/>
-        <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-27T04:18:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>ThinkPad as a server: the follow-up</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -5066,30 +5090,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-gnunet-jenuary-update-multithreading-primitives-and-toy-projects/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Reader feedback: &quot;bad&quot; names, !main(), and Mastodon</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-27T00:28:05+00:00</published>
-    <updated>2023-01-27T00:28:05+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-reader-feedback-bad-names-main-and-mastodon/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-reader-feedback-bad-names-main-and-mastodon/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/26/feedback/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/26/feedback/"/>
-        <title>Reader feedback: &quot;bad&quot; names, !main(), and Mastodon</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-27T00:28:05+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-reader-feedback-bad-names-main-and-mastodon/</id>
     <content type="html">
         
     </content>
@@ -5479,30 +5479,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Who needs main() anyway?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-21T06:35:59+00:00</published>
-    <updated>2023-01-21T06:35:59+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/20/mainless/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/20/mainless/"/>
-        <title>Who needs main() anyway?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-21T06:35:59+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Two simple ways to version control your MariaDB schema changes</title>
         <author>
             <name>unixsheikh</name>
@@ -5522,30 +5498,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-two-simple-ways-to-version-control-your-mariadb-schema-changes/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Setting the clock ahead to see what breaks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-20T04:05:53+00:00</published>
-    <updated>2023-01-20T04:05:53+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/19/time/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/19/time/"/>
-        <title>Setting the clock ahead to see what breaks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-20T04:05:53+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/</id>
     <content type="html">
         
     </content>
@@ -5599,30 +5551,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Feeds, updates, 200s, 304s, and now 429s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-19T00:16:36+00:00</published>
-    <updated>2023-01-19T00:16:36+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/18/http/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/18/http/"/>
-        <title>Feeds, updates, 200s, 304s, and now 429s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-19T00:16:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Winner take all science</title>
         <author>
             <name>dynomight</name>
@@ -5666,6 +5594,30 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-how-to-build-a-nostr-gm-bot/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A curation of beautiful thoughtful poetic silly and queer zines made with the Electric Zine Maker</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2023-01-17T23:56:05+00:00</published>
+    <updated>2023-01-17T23:56:05+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-a-curation-of-beautiful-thoughtful-poetic-silly-and-queer-zines-made-with-the-electric-zine-maker/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-a-curation-of-beautiful-thoughtful-poetic-silly-and-queer-zines-made-with-the-electric-zine-maker/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/a-curation-of-beautiful-thoughtful-poetic-silly-and-queer-zines-made-with-the-electric-zine-maker</id>
+        <link href="http://www.nathalielawhead.com/candybox/a-curation-of-beautiful-thoughtful-poetic-silly-and-queer-zines-made-with-the-electric-zine-maker"/>
+        <title>A curation of beautiful thoughtful poetic silly and queer zines made with the Electric Zine Maker</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2023-01-17T23:56:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-a-curation-of-beautiful-thoughtful-poetic-silly-and-queer-zines-made-with-the-electric-zine-maker/</id>
     <content type="html">
         
     </content>
@@ -6175,6 +6127,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The GDevelop Game Jam #3 is here (with prizes!) and I’m honored to be a judge…</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2023-01-07T00:09:35+00:00</published>
+    <updated>2023-01-07T00:09:35+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-the-gdevelop-game-jam-3-is-here-with-prizes-and-im-honored-to-be-a-judge/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-the-gdevelop-game-jam-3-is-here-with-prizes-and-im-honored-to-be-a-judge/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/the-gdevelop-game-jam-3-is-here-with-prizes-and-im-honored-to-be-a-judge</id>
+        <link href="http://www.nathalielawhead.com/candybox/the-gdevelop-game-jam-3-is-here-with-prizes-and-im-honored-to-be-a-judge"/>
+        <title>The GDevelop Game Jam #3 is here (with prizes!) and I’m honored to be a judge…</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2023-01-07T00:09:35+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-the-gdevelop-game-jam-3-is-here-with-prizes-and-im-honored-to-be-a-judge/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
         <author>
             <name>Tie</name>
@@ -6194,54 +6170,6 @@
       </source>
 
     <id>https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>S p a m m y  s y s c a l l s in strace dumps</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-06T02:20:28+00:00</published>
-    <updated>2023-01-06T02:20:28+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-s-p-a-m-m-y-s-y-s-c-a-l-l-s-in-strace-dumps/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-s-p-a-m-m-y-s-y-s-c-a-l-l-s-in-strace-dumps/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/05/syscall/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/05/syscall/"/>
-        <title>S p a m m y  s y s c a l l s in strace dumps</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-06T02:20:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-s-p-a-m-m-y-s-y-s-c-a-l-l-s-in-strace-dumps/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Another look at the steps for issuing a cert</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-05T04:54:19+00:00</published>
-    <updated>2023-01-05T04:54:19+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/04/cert/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/04/cert/"/>
-        <title>Another look at the steps for issuing a cert</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-05T04:54:19+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-another-look-at-the-steps-for-issuing-a-cert/</id>
     <content type="html">
         
     </content>
@@ -7519,6 +7447,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The open-source no-code world of GDevelop (if you miss browser Flash games, this is keeping that dream alive!)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-12-12T23:09:42+00:00</published>
+    <updated>2022-12-12T23:09:42+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-the-opensource-nocode-world-of-gdevelop-if-you-miss-browser-flash-games-this-is-keeping-that-dream-alive/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-the-opensource-nocode-world-of-gdevelop-if-you-miss-browser-flash-games-this-is-keeping-that-dream-alive/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/the-open-source-no-code-world-of-gdevelop-if-you-miss-browser-flash-games-this-is-keeping-that-dream-alive</id>
+        <link href="http://www.nathalielawhead.com/candybox/the-open-source-no-code-world-of-gdevelop-if-you-miss-browser-flash-games-this-is-keeping-that-dream-alive"/>
+        <title>The open-source no-code world of GDevelop (if you miss browser Flash games, this is keeping that dream alive!)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-12-12T23:09:42+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-the-opensource-nocode-world-of-gdevelop-if-you-miss-browser-flash-games-this-is-keeping-that-dream-alive/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>About the time I used Google Drive as a CMS for a web app</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -8042,6 +7994,30 @@
       </source>
 
     <id>https://news.cryptic.io/justin-jackson-the-secret-is-to-sell-what-people-are-already-searching-for/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Exploring the beautiful worlds of games made with “RPG in a Box”</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-11-30T06:17:24+00:00</published>
+    <updated>2022-11-30T06:17:24+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-exploring-the-beautiful-worlds-of-games-made-with-rpg-in-a-box/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-exploring-the-beautiful-worlds-of-games-made-with-rpg-in-a-box/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/exploring-the-beautiful-worlds-of-games-made-with-rpg-in-a-box</id>
+        <link href="http://www.nathalielawhead.com/candybox/exploring-the-beautiful-worlds-of-games-made-with-rpg-in-a-box"/>
+        <title>Exploring the beautiful worlds of games made with “RPG in a Box”</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-11-30T06:17:24+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-exploring-the-beautiful-worlds-of-games-made-with-rpg-in-a-box/</id>
     <content type="html">
         
     </content>
@@ -9491,6 +9467,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The Joy of Silly Useless Software</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-10-21T20:34:44+00:00</published>
+    <updated>2022-10-21T20:34:44+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-the-joy-of-silly-useless-software/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-the-joy-of-silly-useless-software/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/the-joy-of-silly-useless-software</id>
+        <link href="http://www.nathalielawhead.com/candybox/the-joy-of-silly-useless-software"/>
+        <title>The Joy of Silly Useless Software</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-10-21T20:34:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-the-joy-of-silly-useless-software/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Taxonomy is Hard</title>
         <author>
             <name>Various</name>
@@ -10566,6 +10566,30 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-slouching-towards-innovation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>MoMA’s “Never Alone: Video Games and Other Interactive Design” Exhibit &amp; The Hopeful Future of Video Game Preservation</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2022-09-12T23:36:13+00:00</published>
+    <updated>2022-09-12T23:36:13+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation</id>
+        <link href="http://www.nathalielawhead.com/candybox/momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation"/>
+        <title>MoMA’s “Never Alone: Video Games and Other Interactive Design” Exhibit &amp; The Hopeful Future of Video Game Preservation</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2022-09-12T23:36:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation/</id>
     <content type="html">
         
     </content>
@@ -13878,30 +13902,6 @@
       </source>
 
     <id>https://news.cryptic.io/clayton-craft-h-help-help-help/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Getting Started With Self Hosting</title>
-        <author>
-            <name>Rohan Deshmukh</name>
-        </author>
-    <published>2022-04-09T02:29:26+00:00</published>
-    <updated>2022-04-09T02:29:26+00:00</updated>
-    <link href="https://news.cryptic.io/rohan-deshmukh-getting-started-with-self-hosting/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rohan-deshmukh-getting-started-with-self-hosting/" type="text/html"/>
-      <source>
-        <id>https://rohanrd.xyz/posts/getting-started-with-self-hosting/</id>
-        <link href="https://rohanrd.xyz/posts/getting-started-with-self-hosting/"/>
-        <title>Getting Started With Self Hosting</title>
-        <author>
-            <name>Rohan Deshmukh</name>
-        </author>
-        <updated>2022-04-09T02:29:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rohan-deshmukh-getting-started-with-self-hosting/</id>
     <content type="html">
         
     </content>
