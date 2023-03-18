@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-03-18T16:00:24+00:00</updated>
+  <updated>2023-03-18T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The undocumented Android change that led to aCropalypse was reported during the beta</title>
+        <author>
+            <name>iliana etaoin</name>
+        </author>
+    <published>2023-03-18T19:00:00+00:00</published>
+    <updated>2023-03-18T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/iliana-etaoin-the-undocumented-android-change-that-led-to-acropalypse-was-reported-during-the-beta/"/>
+    <link rel="alternate" href="https://news.cryptic.io/iliana-etaoin-the-undocumented-android-change-that-led-to-acropalypse-was-reported-during-the-beta/" type="text/html"/>
+      <source>
+        <id>https://iliana.fyi/blog/acropalypse-now/</id>
+        <link href="https://iliana.fyi/blog/acropalypse-now/"/>
+        <title>The undocumented Android change that led to aCropalypse was reported during the beta</title>
+        <author>
+            <name>iliana etaoin</name>
+        </author>
+        <updated>2023-03-18T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/iliana-etaoin-the-undocumented-android-change-that-led-to-acropalypse-was-reported-during-the-beta/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A conversation about prompt engineering with CBC Day 6</title>
         <author>
@@ -17698,30 +17722,6 @@
       </source>
 
     <id>https://news.cryptic.io/maggie-appleton-a-shelfish-starter-guide-to-databases/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>the [E]nd of eeeee</title>
-        <author>
-            <name>iliana etaoin</name>
-        </author>
-    <published>2018-12-11T20:00:00+00:00</published>
-    <updated>2018-12-11T20:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/iliana-etaoin-the-end-of-eeeee/"/>
-    <link rel="alternate" href="https://news.cryptic.io/iliana-etaoin-the-end-of-eeeee/" type="text/html"/>
-      <source>
-        <id>https://iliana.fyi/blog/everything-that-lives-is-designed-to-end/</id>
-        <link href="https://iliana.fyi/blog/everything-that-lives-is-designed-to-end/"/>
-        <title>the [E]nd of eeeee</title>
-        <author>
-            <name>iliana etaoin</name>
-        </author>
-        <updated>2018-12-11T20:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/iliana-etaoin-the-end-of-eeeee/</id>
     <content type="html">
         
     </content>
