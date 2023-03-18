@@ -79,6 +79,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>My Coffee Isekai</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-03-18T00:00:00+00:00</published>
+    <updated>2023-03-18T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-my-coffee-isekai/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-my-coffee-isekai/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/coffee-isekai</id>
+        <link href="https://xeiaso.net/blog/coffee-isekai"/>
+        <title>My Coffee Isekai</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-03-18T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-my-coffee-isekai/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Thoughts on an unpolished note</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -3098,30 +3122,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-porting-helios-to-aarch64-for-my-fosdem-talk-part-one/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The voice control challenge</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2023-02-20T00:00:00+00:00</published>
-    <updated>2023-02-20T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-the-voice-control-challenge/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-the-voice-control-challenge/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/voice-control-challenge</id>
-        <link href="https://xeiaso.net/blog/voice-control-challenge"/>
-        <title>The voice control challenge</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2023-02-20T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-the-voice-control-challenge/</id>
     <content type="html">
         
     </content>
