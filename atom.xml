@@ -103,6 +103,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>vore: a new rss feed reader</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+    <published>2023-03-20T00:00:00+00:00</published>
+    <updated>2023-03-20T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jes-olson-vore-a-new-rss-feed-reader/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jes-olson-vore-a-new-rss-feed-reader/" type="text/html"/>
+      <source>
+        <id>https://j3s.sh/thought/vore-a-new-rss-feed-reader.html</id>
+        <link href="https://j3s.sh/thought/vore-a-new-rss-feed-reader.html"/>
+        <title>vore: a new rss feed reader</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+        <updated>2023-03-20T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jes-olson-vore-a-new-rss-feed-reader/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Salt Dome</title>
         <author>
             <name>Randall Munroe</name>
@@ -17194,30 +17218,6 @@
       </source>
 
     <id>https://news.cryptic.io/marco-nix-and-small-containers-with-docker-multistage-builds/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>pumpernickel bread</title>
-        <author>
-            <name>Jes Olson</name>
-        </author>
-    <published>2020-04-20T00:00:00+00:00</published>
-    <updated>2020-04-20T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jes-olson-pumpernickel-bread/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jes-olson-pumpernickel-bread/" type="text/html"/>
-      <source>
-        <id>https://j3s.sh/thought/pumpernickel-bread.html</id>
-        <link href="https://j3s.sh/thought/pumpernickel-bread.html"/>
-        <title>pumpernickel bread</title>
-        <author>
-            <name>Jes Olson</name>
-        </author>
-        <updated>2020-04-20T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jes-olson-pumpernickel-bread/</id>
     <content type="html">
         
     </content>
