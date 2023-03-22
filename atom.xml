@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-03-22T13:11:09.501+00:00</updated>
+  <updated>2023-03-22T14:30:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Ergonomic APIs, channel invariants, and data views</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-03-22T14:30:00+00:00</published>
+    <updated>2023-03-22T14:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-ergonomic-apis-channel-invariants-and-data-views/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-ergonomic-apis-channel-invariants-and-data-views/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/ergonomic-apis-channel-invariants-and-data-views/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/ergonomic-apis-channel-invariants-and-data-views/"/>
+        <title>Ergonomic APIs, channel invariants, and data views</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-03-22T14:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-ergonomic-apis-channel-invariants-and-data-views/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>LLMs will fundamentally change software engineering</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/manuel-llms-will-fundamentally-change-software-engineering/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Beating Big Tech at the Real Computer Game</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-03-22T08:38:00+00:00</published>
+    <updated>2023-03-22T08:38:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-beating-big-tech-at-the-real-computer-game/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-beating-big-tech-at-the-real-computer-game/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/real-computer-game.html</id>
+        <link href="https://cheapskatesguide.org/articles/real-computer-game.html"/>
+        <title>Beating Big Tech at the Real Computer Game</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-03-22T08:38:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-beating-big-tech-at-the-real-computer-game/</id>
     <content type="html">
         
     </content>
@@ -1082,30 +1130,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-check-out-ublock-origins-element-picker/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Synthe Size Me</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-03-12T21:53:00+00:00</published>
-    <updated>2023-03-12T21:53:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-synthe-size-me/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-synthe-size-me/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/synthe-size-me</id>
-        <link href="https://matthiasott.com/notes/synthe-size-me"/>
-        <title>Synthe Size Me</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-03-12T21:53:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-synthe-size-me/</id>
     <content type="html">
         
     </content>
@@ -3223,30 +3247,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Dig Deeper</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-02-20T22:50:00+00:00</published>
-    <updated>2023-02-20T22:50:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-dig-deeper/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-dig-deeper/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/dig-deeper</id>
-        <link href="https://matthiasott.com/notes/dig-deeper"/>
-        <title>Dig Deeper</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-02-20T22:50:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-dig-deeper/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Eyeball-Minute Land</title>
         <author>
             <name>mediocregopher</name>
@@ -3487,30 +3487,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Expand and Stabilize, Explore and Craft</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-02-18T22:26:16+00:00</published>
-    <updated>2023-02-18T22:26:16+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-expand-and-stabilize-explore-and-craft/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-expand-and-stabilize-explore-and-craft/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/expand-and-stabilize-explore-and-craft</id>
-        <link href="https://matthiasott.com/notes/expand-and-stabilize-explore-and-craft"/>
-        <title>Expand and Stabilize, Explore and Craft</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-02-18T22:26:16+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-expand-and-stabilize-explore-and-craft/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Poor schemas, poor cataloguing: why music tagging sucks</title>
         <author>
             <name>Various</name>
@@ -3530,54 +3506,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-poor-schemas-poor-cataloguing-why-music-tagging-sucks/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Web Push It Real Good</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-02-17T21:46:00+00:00</published>
-    <updated>2023-02-17T21:46:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-web-push-it-real-good/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-web-push-it-real-good/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/web-push-it-real-good</id>
-        <link href="https://matthiasott.com/notes/web-push-it-real-good"/>
-        <title>Web Push It Real Good</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-02-17T21:46:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-web-push-it-real-good/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>CSS Speech Module Level 1</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-02-17T21:15:53+00:00</published>
-    <updated>2023-02-17T21:15:53+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-css-speech-module-level-1/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-css-speech-module-level-1/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/css-speech-module-level-1</id>
-        <link href="https://matthiasott.com/notes/css-speech-module-level-1"/>
-        <title>CSS Speech Module Level 1</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-02-17T21:15:53+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-css-speech-module-level-1/</id>
     <content type="html">
         
     </content>
@@ -3751,30 +3679,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Screen Readers Don’t Convey the Semantics of STRONG and EM</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-02-16T13:36:00+00:00</published>
-    <updated>2023-02-16T13:36:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-screen-readers-dont-convey-the-semantics-of-strong-and-em/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-screen-readers-dont-convey-the-semantics-of-strong-and-em/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/screen-readers-semantics-strong-em</id>
-        <link href="https://matthiasott.com/notes/screen-readers-semantics-strong-em"/>
-        <title>Screen Readers Don’t Convey the Semantics of STRONG and EM</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-02-16T13:36:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-screen-readers-dont-convey-the-semantics-of-strong-and-em/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>A 175-Billion-Parameter Goldfish</title>
         <author>
             <name>Allen Pike</name>
@@ -3871,30 +3775,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Uncontainable Container Query Excitement</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-02-15T17:36:00+00:00</published>
-    <updated>2023-02-15T17:36:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-uncontainable-container-query-excitement/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-uncontainable-container-query-excitement/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/uncontainable-container-query-excitement</id>
-        <link href="https://matthiasott.com/notes/uncontainable-container-query-excitement"/>
-        <title>Uncontainable Container Query Excitement</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-02-15T17:36:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-uncontainable-container-query-excitement/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Shrinkflation, SanDisk style</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -3962,30 +3842,6 @@
       </source>
 
     <id>https://news.cryptic.io/clayton-craft-on-meetings/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Time To Fresh Blogpost</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-02-14T22:57:45+00:00</published>
-    <updated>2023-02-14T22:57:45+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-time-to-fresh-blogpost/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-time-to-fresh-blogpost/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/time-to-fresh-blogpost</id>
-        <link href="https://matthiasott.com/notes/time-to-fresh-blogpost"/>
-        <title>Time To Fresh Blogpost</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-02-14T22:57:45+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-time-to-fresh-blogpost/</id>
     <content type="html">
         
     </content>
@@ -4250,30 +4106,6 @@
       </source>
 
     <id>https://news.cryptic.io/fbifemboy-localizations-of-a-ring-at-maximal-ideals-correspond-to-stalks-of-a-sheaf/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Streams of Consciousness</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-02-10T23:45:24+00:00</published>
-    <updated>2023-02-10T23:45:24+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-streams-of-consciousness/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-streams-of-consciousness/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/streams-of-consciousness</id>
-        <link href="https://matthiasott.com/notes/streams-of-consciousness"/>
-        <title>Streams of Consciousness</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-02-10T23:45:24+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-streams-of-consciousness/</id>
     <content type="html">
         
     </content>
@@ -4562,54 +4394,6 @@
       </source>
 
     <id>https://news.cryptic.io/nathalie-lawhead-celebrating-some-beautiful-jam-games/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Reflections</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-02-07T23:58:00+00:00</published>
-    <updated>2023-02-07T23:58:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-reflections/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-reflections/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/reflections</id>
-        <link href="https://matthiasott.com/notes/reflections"/>
-        <title>Reflections</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-02-07T23:58:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-reflections/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Creatively Misusing TLA+</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-02-07T15:00:00+00:00</published>
-    <updated>2023-02-07T15:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-creatively-misusing-tla/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-creatively-misusing-tla/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/creatively-misusing-tla/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/creatively-misusing-tla/"/>
-        <title>Creatively Misusing TLA+</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-02-07T15:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-creatively-misusing-tla/</id>
     <content type="html">
         
     </content>
@@ -5306,30 +5090,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-natural-language-is-the-lazy-user-interface/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to Retain Your Personal Computing Freedom and Avoid Going Back to the Future</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-01-27T12:17:00+00:00</published>
-    <updated>2023-01-27T12:17:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-how-to-retain-your-personal-computing-freedom-and-avoid-going-back-to-the-future/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-how-to-retain-your-personal-computing-freedom-and-avoid-going-back-to-the-future/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/retaining-computing-freedom.html</id>
-        <link href="https://cheapskatesguide.org/articles/retaining-computing-freedom.html"/>
-        <title>How to Retain Your Personal Computing Freedom and Avoid Going Back to the Future</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-01-27T12:17:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-how-to-retain-your-personal-computing-freedom-and-avoid-going-back-to-the-future/</id>
     <content type="html">
         
     </content>
