@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-03-22T03:13:02+00:00</updated>
+  <updated>2023-03-22T13:11:09.501+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>LLMs will fundamentally change software engineering</title>
+        <author>
+            <name>manuel</name>
+        </author>
+    <published>2023-03-22T13:11:09.501+00:00</published>
+    <updated>2023-03-22T13:11:09.501+00:00</updated>
+    <link href="https://news.cryptic.io/manuel-llms-will-fundamentally-change-software-engineering/"/>
+    <link rel="alternate" href="https://news.cryptic.io/manuel-llms-will-fundamentally-change-software-engineering/" type="text/html"/>
+      <source>
+        <id>https://the.scapegoat.dev/llms-will-fundamentally-change-software-engineering/</id>
+        <link href="https://the.scapegoat.dev/llms-will-fundamentally-change-software-engineering/"/>
+        <title>LLMs will fundamentally change software engineering</title>
+        <author>
+            <name>manuel</name>
+        </author>
+        <updated>2023-03-22T13:11:09.501+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/manuel-llms-will-fundamentally-change-software-engineering/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Don&#x27;t trust AI to talk accurately about itself: Bard wasn&#x27;t trained on Gmail</title>
         <author>
@@ -7202,30 +7226,6 @@
       </source>
 
     <id>https://news.cryptic.io/vitalik-buterin-what-even-is-an-institution/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Knowledge&#x27;s shape and function</title>
-        <author>
-            <name>manuel</name>
-        </author>
-    <published>2022-12-29T20:21:54.209+00:00</published>
-    <updated>2022-12-29T20:21:54.209+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-knowledges-shape-and-function/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-knowledges-shape-and-function/" type="text/html"/>
-      <source>
-        <id>https://the.scapegoat.dev/knowledges-shape-and-function/</id>
-        <link href="https://the.scapegoat.dev/knowledges-shape-and-function/"/>
-        <title>Knowledge&#x27;s shape and function</title>
-        <author>
-            <name>manuel</name>
-        </author>
-        <updated>2022-12-29T20:21:54.209+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-knowledges-shape-and-function/</id>
     <content type="html">
         
     </content>
