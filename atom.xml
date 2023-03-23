@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-03-22T23:47:10+00:00</updated>
+  <updated>2023-03-23T03:01:27+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>TV for one million: Exploring KSDK&#x27;s broadcast tower</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2023-03-23T03:01:27+00:00</published>
+    <updated>2023-03-23T03:01:27+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-tv-for-one-million-exploring-ksdks-broadcast-tower/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-tv-for-one-million-exploring-ksdks-broadcast-tower/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2023/tv-one-million-exploring-ksdks-broadcast-tower</id>
+        <link href="https://www.jeffgeerling.com/blog/2023/tv-one-million-exploring-ksdks-broadcast-tower"/>
+        <title>TV for one million: Exploring KSDK&#x27;s broadcast tower</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2023-03-23T03:01:27+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-tv-for-one-million-exploring-ksdks-broadcast-tower/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Weeknotes: AI won&#x27;t slow down, a new newsletter and a huge Datasette refactor</title>
         <author>
@@ -50,6 +74,30 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-how-to-readme/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>AI Takes Over Because of Human Hype, Not Machine Intelligence</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-03-22T19:00:00+00:00</published>
+    <updated>2023-03-22T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-ai-takes-over-because-of-human-hype-not-machine-intelligence/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-ai-takes-over-because-of-human-hype-not-machine-intelligence/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/human-hype-and-machine-intelligence/</id>
+        <link href="https://blog.jim-nielsen.com/2023/human-hype-and-machine-intelligence/"/>
+        <title>AI Takes Over Because of Human Hype, Not Machine Intelligence</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-03-22T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-ai-takes-over-because-of-human-hype-not-machine-intelligence/</id>
     <content type="html">
         
     </content>
@@ -146,6 +194,30 @@
       </source>
 
     <id>https://news.cryptic.io/simon-willison-dont-trust-ai-to-talk-accurately-about-itself-bard-wasnt-trained-on-gmail/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Air Handler</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-03-22T00:00:00+00:00</published>
+    <updated>2023-03-22T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-air-handler/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-air-handler/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2753/</id>
+        <link href="https://xkcd.com/2753/"/>
+        <title>Air Handler</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-03-22T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-air-handler/</id>
     <content type="html">
         
     </content>
@@ -1130,30 +1202,6 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-the-audacity-uncorrupting-an-audacity-project/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Lymphocytes</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-03-13T00:00:00+00:00</published>
-    <updated>2023-03-13T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-lymphocytes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-lymphocytes/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2749/</id>
-        <link href="https://xkcd.com/2749/"/>
-        <title>Lymphocytes</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-03-13T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-lymphocytes/</id>
     <content type="html">
         
     </content>
@@ -3751,30 +3799,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>My 2023 CSS Wishlist</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-02-16T19:00:00+00:00</published>
-    <updated>2023-02-16T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-my-2023-css-wishlist/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-my-2023-css-wishlist/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/css-wishlist/</id>
-        <link href="https://blog.jim-nielsen.com/2023/css-wishlist/"/>
-        <title>My 2023 CSS Wishlist</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-02-16T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-my-2023-css-wishlist/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Moving my PC into my rack in a 2U case</title>
         <author>
             <name>Jeff Geerling</name>
@@ -4970,30 +4994,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-removing-rf-interference-from-a-cell-phone-from-audio-recording/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Rock 5 B is not a Raspberry Pi killer—yet</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2023-02-01T15:00:19+00:00</published>
-    <updated>2023-02-01T15:00:19+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-the-rock-5-b-is-not-a-raspberry-pi-killeryet/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-the-rock-5-b-is-not-a-raspberry-pi-killeryet/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2023/rock-5-b-not-raspberry-pi-killer-yet</id>
-        <link href="https://www.jeffgeerling.com/blog/2023/rock-5-b-not-raspberry-pi-killer-yet"/>
-        <title>The Rock 5 B is not a Raspberry Pi killer—yet</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2023-02-01T15:00:19+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-the-rock-5-b-is-not-a-raspberry-pi-killeryet/</id>
     <content type="html">
         
     </content>
@@ -11526,6 +11526,30 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-trailing-commas-are-just-the-beginning/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+    <published>2022-08-13T22:50:39+00:00</published>
+    <updated>2022-08-13T22:50:39+00:00</updated>
+    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
+    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
+      <source>
+        <id>https://nitter.net/GranolaShotgun/status/1558586859281842181#m</id>
+        <link href="https://nitter.net/GranolaShotgun/status/1558586859281842181#m"/>
+        <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+        <updated>2022-08-13T22:50:39+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
