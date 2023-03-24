@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-03-24T15:43:59+00:00</updated>
+  <updated>2023-03-24T21:02:25+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>GPT is revolutionary</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-03-24T21:02:25+00:00</published>
+    <updated>2023-03-24T21:02:25+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-gpt-is-revolutionary/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-gpt-is-revolutionary/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/gpt-is-revolutionary/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/gpt-is-revolutionary/"/>
+        <title>GPT is revolutionary</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-03-24T21:02:25+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-gpt-is-revolutionary/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>I built a ChatGPT plugin to answer questions about data hosted in Datasette</title>
         <author>
@@ -74,6 +98,30 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-talk-the-carcinization-of-go-programs/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Verified human</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2023-03-23T23:00:00+00:00</published>
+    <updated>2023-03-23T23:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-verified-human/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-verified-human/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/xQNIlo3OM68RB0sS</id>
+        <link href="https://manuelmoreale.com/@/page/xQNIlo3OM68RB0sS"/>
+        <title>Verified human</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2023-03-23T23:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-verified-human/</id>
     <content type="html">
         
     </content>
@@ -2839,30 +2887,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A moment on yet another lake</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2023-02-28T23:00:00+00:00</published>
-    <updated>2023-02-28T23:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-on-yet-another-lake/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-on-yet-another-lake/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/Uirpt1PT38rlTwKE</id>
-        <link href="https://manuelmoreale.com/@/page/Uirpt1PT38rlTwKE"/>
-        <title>A moment on yet another lake</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2023-02-28T23:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-on-yet-another-lake/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Uniform descriptions of subspaces of the n-cube</title>
         <author>
             <name>Mark Dominus</name>
@@ -4250,30 +4274,6 @@
       </source>
 
     <id>https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Maybe people do care about performance and reliability</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-02-13T18:46:02+00:00</published>
-    <updated>2023-02-13T18:46:02+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-maybe-people-do-care-about-performance-and-reliability/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-maybe-people-do-care-about-performance-and-reliability/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/maybe-people-do-care-about-performance-and/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/maybe-people-do-care-about-performance-and/"/>
-        <title>Maybe people do care about performance and reliability</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-02-13T18:46:02+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-maybe-people-do-care-about-performance-and-reliability/</id>
     <content type="html">
         
     </content>
