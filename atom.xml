@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-03-24T13:20:00+00:00</updated>
+  <updated>2023-03-24T15:43:59+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>I built a ChatGPT plugin to answer questions about data hosted in Datasette</title>
+        <author>
+            <name>Simon Willison</name>
+        </author>
+    <published>2023-03-24T15:43:59+00:00</published>
+    <updated>2023-03-24T15:43:59+00:00</updated>
+    <link href="https://news.cryptic.io/simon-willison-i-built-a-chatgpt-plugin-to-answer-questions-about-data-hosted-in-datasette/"/>
+    <link rel="alternate" href="https://news.cryptic.io/simon-willison-i-built-a-chatgpt-plugin-to-answer-questions-about-data-hosted-in-datasette/" type="text/html"/>
+      <source>
+        <id>http://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/#atom-entries</id>
+        <link href="http://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/#atom-entries"/>
+        <title>I built a ChatGPT plugin to answer questions about data hosted in Datasette</title>
+        <author>
+            <name>Simon Willison</name>
+        </author>
+        <updated>2023-03-24T15:43:59+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/simon-willison-i-built-a-chatgpt-plugin-to-answer-questions-about-data-hosted-in-datasette/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Notes on card games played by aliens</title>
         <author>
@@ -3338,30 +3362,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-introducing-notesjimnielsencom/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>In defense of prompt engineering</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-02-21T18:28:29+00:00</published>
-    <updated>2023-02-21T18:28:29+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-in-defense-of-prompt-engineering/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-in-defense-of-prompt-engineering/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/#atom-entries"/>
-        <title>In defense of prompt engineering</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-02-21T18:28:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-in-defense-of-prompt-engineering/</id>
     <content type="html">
         
     </content>
@@ -10350,6 +10350,30 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-chat-log-exhibits-from-twitter-v-musk-case/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+    <published>2022-09-30T07:59:44+00:00</published>
+    <updated>2022-09-30T07:59:44+00:00</updated>
+    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
+    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
+      <source>
+        <id>https://nitter.net/GranolaShotgun/status/1575757270591283201#m</id>
+        <link href="https://nitter.net/GranolaShotgun/status/1575757270591283201#m"/>
+        <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+        <updated>2022-09-30T07:59:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
