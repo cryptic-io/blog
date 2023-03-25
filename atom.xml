@@ -79,6 +79,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Relative Terms</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-03-24T00:00:00+00:00</published>
+    <updated>2023-03-24T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-relative-terms/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-relative-terms/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2754/</id>
+        <link href="https://xkcd.com/2754/"/>
+        <title>Relative Terms</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-03-24T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-relative-terms/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>[talk] The carcinization of Go programs</title>
         <author>
             <name>Xe Iaso</name>
@@ -1178,30 +1202,6 @@
       </source>
 
     <id>https://news.cryptic.io/allen-pike-32k-of-context-in-your-pocket/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Flatten the Planets</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-03-15T00:00:00+00:00</published>
-    <updated>2023-03-15T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-flatten-the-planets/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-flatten-the-planets/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2750/</id>
-        <link href="https://xkcd.com/2750/"/>
-        <title>Flatten the Planets</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-03-15T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-flatten-the-planets/</id>
     <content type="html">
         
     </content>
@@ -9515,30 +9515,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Manuel was annoyed</title>
-        <author>
-            <name>Manuel</name>
-        </author>
-    <published>2022-10-25T19:14:42+00:00</published>
-    <updated>2022-10-25T19:14:42+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-manuel-was-annoyed/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-manuel-was-annoyed/" type="text/html"/>
-      <source>
-        <id>https://annoying.technology/posts/2b75ad530f9d6c6a/</id>
-        <link href="https://annoying.technology/posts/2b75ad530f9d6c6a/"/>
-        <title>Manuel was annoyed</title>
-        <author>
-            <name>Manuel</name>
-        </author>
-        <updated>2022-10-25T19:14:42+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-manuel-was-annoyed/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Building software to last forever</title>
         <author>
             <name>herman</name>
@@ -10134,6 +10110,30 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-how-to-run-any-docker-containers-traffic-through-wireguard-or-openvpn/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Manuel was annoyed</title>
+        <author>
+            <name>Manuel</name>
+        </author>
+    <published>2022-10-06T17:30:49+00:00</published>
+    <updated>2022-10-06T17:30:49+00:00</updated>
+    <link href="https://news.cryptic.io/manuel-manuel-was-annoyed/"/>
+    <link rel="alternate" href="https://news.cryptic.io/manuel-manuel-was-annoyed/" type="text/html"/>
+      <source>
+        <id>https://annoying.technology/posts/56a9fc241ce4ec5f/</id>
+        <link href="https://annoying.technology/posts/56a9fc241ce4ec5f/"/>
+        <title>Manuel was annoyed</title>
+        <author>
+            <name>Manuel</name>
+        </author>
+        <updated>2022-10-06T17:30:49+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/manuel-manuel-was-annoyed/</id>
     <content type="html">
         
     </content>
