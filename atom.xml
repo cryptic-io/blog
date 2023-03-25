@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-03-24T21:02:25+00:00</updated>
+  <updated>2023-03-25T01:53:45+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Art of Resisting Promotion</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2023-03-25T01:53:45+00:00</published>
+    <updated>2023-03-25T01:53:45+00:00</updated>
+    <link href="https://news.cryptic.io/various-the-art-of-resisting-promotion/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-the-art-of-resisting-promotion/" type="text/html"/>
+      <source>
+        <id>https://www.autodidacts.io/resisting-promotion/</id>
+        <link href="https://www.autodidacts.io/resisting-promotion/"/>
+        <title>The Art of Resisting Promotion</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2023-03-25T01:53:45+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-the-art-of-resisting-promotion/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>GPT is revolutionary</title>
         <author>
@@ -9990,30 +10014,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-why-fight-the-oaks/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why I Don’t Comment on the Internet 🔒</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2022-10-12T20:36:25+00:00</published>
-    <updated>2022-10-12T20:36:25+00:00</updated>
-    <link href="https://news.cryptic.io/various-why-i-dont-comment-on-the-internet/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-why-i-dont-comment-on-the-internet/" type="text/html"/>
-      <source>
-        <id>https://www.autodidacts.io/why-i-dont-comment-on-the-internet/</id>
-        <link href="https://www.autodidacts.io/why-i-dont-comment-on-the-internet/"/>
-        <title>Why I Don’t Comment on the Internet 🔒</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2022-10-12T20:36:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-why-i-dont-comment-on-the-internet/</id>
     <content type="html">
         
     </content>
