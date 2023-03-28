@@ -79,6 +79,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Hesitancy</title>
+        <author>
+            <name>Gigi</name>
+        </author>
+    <published>2023-03-28T00:00:00+00:00</published>
+    <updated>2023-03-28T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/gigi-hesitancy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/gigi-hesitancy/" type="text/html"/>
+      <source>
+        <id>https://dergigi.com/2023/03/28/hesitancy/</id>
+        <link href="https://dergigi.com/2023/03/28/hesitancy/"/>
+        <title>Hesitancy</title>
+        <author>
+            <name>Gigi</name>
+        </author>
+        <updated>2023-03-28T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/gigi-hesitancy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Incompetent but Nice</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -98,6 +122,30 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-incompetent-but-nice/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>How to use a fork of the Go compiler with Nix</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-03-28T00:00:00+00:00</published>
+    <updated>2023-03-28T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-how-to-use-a-fork-of-the-go-compiler-with-nix/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-how-to-use-a-fork-of-the-go-compiler-with-nix/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/go-fork-nix</id>
+        <link href="https://xeiaso.net/blog/go-fork-nix"/>
+        <title>How to use a fork of the Go compiler with Nix</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-03-28T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-how-to-use-a-fork-of-the-go-compiler-with-nix/</id>
     <content type="html">
         
     </content>
@@ -2306,30 +2354,6 @@
       </source>
 
     <id>https://news.cryptic.io/jes-olson-write-posix-shell/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A weapon to surpass Metal Gear</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2023-03-10T00:00:00+00:00</published>
-    <updated>2023-03-10T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-a-weapon-to-surpass-metal-gear/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-a-weapon-to-surpass-metal-gear/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/a-weapon-to-surpass-metal-gear</id>
-        <link href="https://xeiaso.net/blog/a-weapon-to-surpass-metal-gear"/>
-        <title>A weapon to surpass Metal Gear</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2023-03-10T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-a-weapon-to-surpass-metal-gear/</id>
     <content type="html">
         
     </content>
@@ -8258,30 +8282,6 @@
       </source>
 
     <id>https://news.cryptic.io/rohan-deshmukh-self-hosting-your-first-application-adguardhome/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Bitcoin Is the Rediscovery of Money</title>
-        <author>
-            <name>Gigi</name>
-        </author>
-    <published>2022-12-02T00:00:00+00:00</published>
-    <updated>2022-12-02T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/gigi-bitcoin-is-the-rediscovery-of-money/"/>
-    <link rel="alternate" href="https://news.cryptic.io/gigi-bitcoin-is-the-rediscovery-of-money/" type="text/html"/>
-      <source>
-        <id>https://dergigi.com/2022/12/02/bitcoin-is-the-rediscovery-of-money/</id>
-        <link href="https://dergigi.com/2022/12/02/bitcoin-is-the-rediscovery-of-money/"/>
-        <title>Bitcoin Is the Rediscovery of Money</title>
-        <author>
-            <name>Gigi</name>
-        </author>
-        <updated>2022-12-02T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/gigi-bitcoin-is-the-rediscovery-of-money/</id>
     <content type="html">
         
     </content>
