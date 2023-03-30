@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-03-29T00:00:00+00:00</updated>
+  <updated>2023-03-30T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Install The KDE Konsole terminal emulator on macOS</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2023-03-30T04:00:00+00:00</published>
+    <updated>2023-03-30T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-install-the-kde-konsole-terminal-emulator-on-macos/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-install-the-kde-konsole-terminal-emulator-on-macos/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2023/03-30-install-konsole-on-macos.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2023/03-30-install-konsole-on-macos.gmi"/>
+        <title>Install The KDE Konsole terminal emulator on macOS</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2023-03-30T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-install-the-kde-konsole-terminal-emulator-on-macos/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Qualifications</title>
         <author>
@@ -5954,30 +5978,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-fixing-a-memory-leak-in-a-ruby-sidekiq-job/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>First time messing with Sway</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-01-25T04:00:00+00:00</published>
-    <updated>2023-01-25T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-first-time-messing-with-sway/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-first-time-messing-with-sway/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/01-25-first-time-messing-with-sway.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/01-25-first-time-messing-with-sway.gmi"/>
-        <title>First time messing with Sway</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-01-25T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-first-time-messing-with-sway/</id>
     <content type="html">
         
     </content>
