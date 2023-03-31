@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-03-31T08:23:18+00:00</updated>
+  <updated>2023-03-31T22:40:11+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Private-ish GitHub repos</title>
+        <author>
+            <name>Tyler Cipriani</name>
+        </author>
+    <published>2023-03-31T22:40:11+00:00</published>
+    <updated>2023-03-31T22:40:11+00:00</updated>
+    <link href="https://news.cryptic.io/tyler-cipriani-privateish-github-repos/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tyler-cipriani-privateish-github-repos/" type="text/html"/>
+      <source>
+        <id>https://tylercipriani.com/blog/2023/03/31/private-ish-github-repos/</id>
+        <link href="https://tylercipriani.com/blog/2023/03/31/private-ish-github-repos/"/>
+        <title>Private-ish GitHub repos</title>
+        <author>
+            <name>Tyler Cipriani</name>
+        </author>
+        <updated>2023-03-31T22:40:11+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tyler-cipriani-privateish-github-repos/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Administrivia: HTML generation and my general clowniness</title>
         <author>
@@ -6631,30 +6655,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Paper Review: “Did you miss my comments or what?” Toxicity in Open Source Discussions</title>
-        <author>
-            <name>Tyler Cipriani</name>
-        </author>
-    <published>2023-01-15T02:29:26+00:00</published>
-    <updated>2023-01-15T02:29:26+00:00</updated>
-    <link href="https://news.cryptic.io/tyler-cipriani-paper-review-did-you-miss-my-comments-or-what-toxicity-in-open-source-discussions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tyler-cipriani-paper-review-did-you-miss-my-comments-or-what-toxicity-in-open-source-discussions/" type="text/html"/>
-      <source>
-        <id>https://tylercipriani.com/blog/2023/01/15/entitlement-burnout-and-toxicity/</id>
-        <link href="https://tylercipriani.com/blog/2023/01/15/entitlement-burnout-and-toxicity/"/>
-        <title>Paper Review: “Did you miss my comments or what?” Toxicity in Open Source Discussions</title>
-        <author>
-            <name>Tyler Cipriani</name>
-        </author>
-        <updated>2023-01-15T02:29:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tyler-cipriani-paper-review-did-you-miss-my-comments-or-what-toxicity-in-open-source-discussions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Making Lenses Practical in Java</title>
         <author>
             <name>Chris Kiehl</name>
@@ -10662,30 +10662,6 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-chat-log-exhibits-from-twitter-v-musk-case/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-09-30T07:59:44+00:00</published>
-    <updated>2022-09-30T07:59:44+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1575757270591283201#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1575757270591283201#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-09-30T07:59:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
