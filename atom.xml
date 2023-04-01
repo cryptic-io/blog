@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-04-01T14:00:00+00:00</updated>
+  <updated>2023-04-01T15:17:49+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Time Control</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-04-01T15:17:49+00:00</published>
+    <updated>2023-04-01T15:17:49+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-time-control/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-time-control/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/time-control/</id>
+        <link href="https://robinrendle.com/notes/time-control/"/>
+        <title>Time Control</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-04-01T15:17:49+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-time-control/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Reducing Ambiguity</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2023-04-01T15:00:00+00:00</published>
+    <updated>2023-04-01T15:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-reducing-ambiguity/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-reducing-ambiguity/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2023/words/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2023/words/"/>
+        <title>Reducing Ambiguity</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2023-04-01T15:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-reducing-ambiguity/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Repurposing Hotel Keycards</title>
         <author>
@@ -4183,30 +4231,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Writing of the Gods</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-02-20T18:43:55+00:00</published>
-    <updated>2023-02-20T18:43:55+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-writing-of-the-gods/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-writing-of-the-gods/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-writing-of-the-gods/</id>
-        <link href="https://robinrendle.com/notes/the-writing-of-the-gods/"/>
-        <title>The Writing of the Gods</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-02-20T18:43:55+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-writing-of-the-gods/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Porting Helios to aarch64 for my FOSDEM talk, part one</title>
         <author>
             <name>Drew DeVault</name>
@@ -7946,30 +7970,6 @@
       </source>
 
     <id>https://news.cryptic.io/rohan-deshmukh-a-different-approach-to-social-media/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Reluctant Philosopher Kings? Leadership in Academia</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-    <published>2022-12-15T17:00:00+00:00</published>
-    <updated>2022-12-15T17:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-reluctant-philosopher-kings-leadership-in-academia/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-reluctant-philosopher-kings-leadership-in-academia/" type="text/html"/>
-      <source>
-        <id>http://bastian.rieck.me/blog/posts/2022/philosopher_king/</id>
-        <link href="http://bastian.rieck.me/blog/posts/2022/philosopher_king/"/>
-        <title>Reluctant Philosopher Kings? Leadership in Academia</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-        <updated>2022-12-15T17:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bastian-rieck-reluctant-philosopher-kings-leadership-in-academia/</id>
     <content type="html">
         
     </content>
