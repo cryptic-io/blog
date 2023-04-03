@@ -7,6 +7,30 @@
   <updated>2023-04-03T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
+    <title>My Favorite Things</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-04-03T00:00:00+00:00</published>
+    <updated>2023-04-03T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-my-favorite-things/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-my-favorite-things/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2758/</id>
+        <link href="https://xkcd.com/2758/"/>
+        <title>My Favorite Things</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-04-03T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-my-favorite-things/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Building an Interactive Blog Map</title>
         <author>
             <name>Tom Critchlow</name>
@@ -1106,30 +1130,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-notes-on-card-games-played-by-aliens/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Relative Terms</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-03-24T00:00:00+00:00</published>
-    <updated>2023-03-24T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-relative-terms/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-relative-terms/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2754/</id>
-        <link href="https://xkcd.com/2754/"/>
-        <title>Relative Terms</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-03-24T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-relative-terms/</id>
     <content type="html">
         
     </content>
