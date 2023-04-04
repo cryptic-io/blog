@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-04-03T00:00:00+00:00</updated>
+  <updated>2023-04-04T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Purple Text, Orange Highlights</title>
+        <author>
+            <name>Gigi</name>
+        </author>
+    <published>2023-04-04T00:00:00+00:00</published>
+    <updated>2023-04-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/gigi-purple-text-orange-highlights/"/>
+    <link rel="alternate" href="https://news.cryptic.io/gigi-purple-text-orange-highlights/" type="text/html"/>
+      <source>
+        <id>https://dergigi.com/2023/04/04/purple-text-orange-highlights/</id>
+        <link href="https://dergigi.com/2023/04/04/purple-text-orange-highlights/"/>
+        <title>Purple Text, Orange Highlights</title>
+        <author>
+            <name>Gigi</name>
+        </author>
+        <updated>2023-04-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/gigi-purple-text-orange-highlights/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>My Favorite Things</title>
         <author>
@@ -7663,30 +7687,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A Vision for a Value-Enabled Web</title>
-        <author>
-            <name>Gigi</name>
-        </author>
-    <published>2022-12-18T00:00:00+00:00</published>
-    <updated>2022-12-18T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/gigi-a-vision-for-a-valueenabled-web/"/>
-    <link rel="alternate" href="https://news.cryptic.io/gigi-a-vision-for-a-valueenabled-web/" type="text/html"/>
-      <source>
-        <id>https://dergigi.com/2022/12/18/a-vision-for-a-value-enabled-web/</id>
-        <link href="https://dergigi.com/2022/12/18/a-vision-for-a-value-enabled-web/"/>
-        <title>A Vision for a Value-Enabled Web</title>
-        <author>
-            <name>Gigi</name>
-        </author>
-        <updated>2022-12-18T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/gigi-a-vision-for-a-valueenabled-web/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>UnifiedPush: a decentralized, open-source push notification protocol</title>
         <author>
             <name>Various</name>
@@ -10446,30 +10446,6 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-chat-log-exhibits-from-twitter-v-musk-case/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-09-30T07:59:44+00:00</published>
-    <updated>2022-09-30T07:59:44+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1575757270591283201#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1575757270591283201#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-09-30T07:59:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
