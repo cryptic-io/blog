@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>RSS excerpts</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2023-04-04T22:00:00+00:00</published>
+    <updated>2023-04-04T22:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-rss-excerpts/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-rss-excerpts/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/IgvWvl5SX2z5f26u</id>
+        <link href="https://manuelmoreale.com/@/page/IgvWvl5SX2z5f26u"/>
+        <title>RSS excerpts</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2023-04-04T22:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-rss-excerpts/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Semi-automating a Substack newsletter with an Observable notebook</title>
         <author>
             <name>Simon Willison</name>
@@ -3482,30 +3506,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-john-reviews-rosalas-coca-cola/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I&#x27;ll read it</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2023-03-03T23:00:00+00:00</published>
-    <updated>2023-03-03T23:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-ill-read-it/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-ill-read-it/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/8NnS4hIVTawwqjiE</id>
-        <link href="https://manuelmoreale.com/@/page/8NnS4hIVTawwqjiE"/>
-        <title>I&#x27;ll read it</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2023-03-03T23:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-ill-read-it/</id>
     <content type="html">
         
     </content>
