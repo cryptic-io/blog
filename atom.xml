@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-04-05T22:00:00+00:00</updated>
+  <updated>2023-04-06T15:00:59+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Secure Computing with Zymbit&#x27;s D35</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2023-04-06T15:00:59+00:00</published>
+    <updated>2023-04-06T15:00:59+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-secure-computing-with-zymbits-d35/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-secure-computing-with-zymbits-d35/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2023/secure-computing-zymbits-d35</id>
+        <link href="https://www.jeffgeerling.com/blog/2023/secure-computing-zymbits-d35"/>
+        <title>Secure Computing with Zymbit&#x27;s D35</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2023-04-06T15:00:59+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-secure-computing-with-zymbits-d35/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Let people contact you</title>
         <author>
@@ -5690,30 +5714,6 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-musings-on-mobility-the-ping-from-hell/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Removing RF interference from a cell phone from audio recording</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2023-02-01T16:32:09+00:00</published>
-    <updated>2023-02-01T16:32:09+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-removing-rf-interference-from-a-cell-phone-from-audio-recording/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-removing-rf-interference-from-a-cell-phone-from-audio-recording/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2023/removing-rf-interference-cell-phone-audio-recording</id>
-        <link href="https://www.jeffgeerling.com/blog/2023/removing-rf-interference-cell-phone-audio-recording"/>
-        <title>Removing RF interference from a cell phone from audio recording</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2023-02-01T16:32:09+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-removing-rf-interference-from-a-cell-phone-from-audio-recording/</id>
     <content type="html">
         
     </content>
