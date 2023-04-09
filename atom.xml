@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-04-08T04:00:00+00:00</updated>
+  <updated>2023-04-08T22:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>10000 URLs</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2023-04-08T22:00:00+00:00</published>
+    <updated>2023-04-08T22:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-10000-urls/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-10000-urls/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/0cNkDAOdrf6AEuGB</id>
+        <link href="https://manuelmoreale.com/@/page/0cNkDAOdrf6AEuGB"/>
+        <title>10000 URLs</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2023-04-08T22:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-10000-urls/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Trantor&#x27;s new TLS backend, CSPRNG and improvements</title>
         <author>
@@ -3290,30 +3314,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-when-to-comment-that-code/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Minimum viable blog</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2023-03-08T23:00:00+00:00</published>
-    <updated>2023-03-08T23:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-minimum-viable-blog/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-minimum-viable-blog/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/y6ZVdQ2NJdW1V5WT</id>
-        <link href="https://manuelmoreale.com/@/page/y6ZVdQ2NJdW1V5WT"/>
-        <title>Minimum viable blog</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2023-03-08T23:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-minimum-viable-blog/</id>
     <content type="html">
         
     </content>
