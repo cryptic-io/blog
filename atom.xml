@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-04-09T22:50:31+00:00</updated>
+  <updated>2023-04-10T02:12:58+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Mountain in the Sea</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-04-10T02:12:58+00:00</published>
+    <updated>2023-04-10T02:12:58+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-the-mountain-in-the-sea/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-mountain-in-the-sea/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/the-mountain-in-the-sea-/</id>
+        <link href="https://robinrendle.com/notes/the-mountain-in-the-sea-/"/>
+        <title>The Mountain in the Sea</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-04-10T02:12:58+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-the-mountain-in-the-sea/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Escalating via post-it note just to get some health checks</title>
         <author>
@@ -50,6 +74,30 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-what-does-a-research-grant-pay-for/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Worry-free broadcasts</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+    <published>2023-04-09T05:00:00+00:00</published>
+    <updated>2023-04-09T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/cristbal-sciutto-worryfree-broadcasts/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-worryfree-broadcasts/" type="text/html"/>
+      <source>
+        <id>https://cristobal.space/writing/tickle</id>
+        <link href="https://cristobal.space/writing/tickle"/>
+        <title>Worry-free broadcasts</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+        <updated>2023-04-09T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cristbal-sciutto-worryfree-broadcasts/</id>
     <content type="html">
         
     </content>
@@ -4322,30 +4370,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-my-daughters-school-took-over-my-personal-microsoft-account/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Brink</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-02-24T15:44:38+00:00</published>
-    <updated>2023-02-24T15:44:38+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-brink/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-brink/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-brink/</id>
-        <link href="https://robinrendle.com/notes/the-brink/"/>
-        <title>The Brink</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-02-24T15:44:38+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-brink/</id>
     <content type="html">
         
     </content>
@@ -10547,30 +10571,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-09-30T07:59:44+00:00</published>
-    <updated>2022-09-30T07:59:44+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1575757270591283201#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1575757270591283201#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-09-30T07:59:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>8 cubic feet</title>
         <author>
             <name>Clayton Craft</name>
@@ -15466,30 +15466,6 @@
       </source>
 
     <id>https://news.cryptic.io/apenwarr-the-gift-of-its-your-problem-now/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Lacunae, DIY, and gestalts</title>
-        <author>
-            <name>CRISTÓBAL SCIUTTO</name>
-        </author>
-    <published>2022-01-01T05:00:00+00:00</published>
-    <updated>2022-01-01T05:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/cristbal-sciutto-lacunae-diy-and-gestalts/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-lacunae-diy-and-gestalts/" type="text/html"/>
-      <source>
-        <id>https://cristobal.space/writing/2021.html</id>
-        <link href="https://cristobal.space/writing/2021.html"/>
-        <title>Lacunae, DIY, and gestalts</title>
-        <author>
-            <name>CRISTÓBAL SCIUTTO</name>
-        </author>
-        <updated>2022-01-01T05:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cristbal-sciutto-lacunae-diy-and-gestalts/</id>
     <content type="html">
         
     </content>
