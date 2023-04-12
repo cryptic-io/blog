@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-04-12T01:14:33+00:00</updated>
+  <updated>2023-04-12T06:24:39+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Debugging an x86 application in Rosetta for Linux</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2023-04-12T06:24:39+00:00</published>
+    <updated>2023-04-12T06:24:39+00:00</updated>
+    <link href="https://news.cryptic.io/various-debugging-an-x86-application-in-rosetta-for-linux/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-debugging-an-x86-application-in-rosetta-for-linux/" type="text/html"/>
+      <source>
+        <id>https://sporks.space/2023/04/12/debugging-an-x86-application-in-rosetta-for-linux/</id>
+        <link href="https://sporks.space/2023/04/12/debugging-an-x86-application-in-rosetta-for-linux/"/>
+        <title>Debugging an x86 application in Rosetta for Linux</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2023-04-12T06:24:39+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-debugging-an-x86-application-in-rosetta-for-linux/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha</title>
         <author>
@@ -12198,30 +12222,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-daubenschtz-dissenting-through-the-mainstream/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Endless Dream: on Addiction and My Mental Health</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2022-07-10T04:46:00+00:00</published>
-    <updated>2022-07-10T04:46:00+00:00</updated>
-    <link href="https://news.cryptic.io/various-the-endless-dream-on-addiction-and-my-mental-health/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-the-endless-dream-on-addiction-and-my-mental-health/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2022/07/10/the-endless-dream-on-addiction-and-my-mental-health/</id>
-        <link href="https://sporks.space/2022/07/10/the-endless-dream-on-addiction-and-my-mental-health/"/>
-        <title>The Endless Dream: on Addiction and My Mental Health</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2022-07-10T04:46:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-the-endless-dream-on-addiction-and-my-mental-health/</id>
     <content type="html">
         
     </content>
