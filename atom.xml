@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-04-11T21:24:02+00:00</updated>
+  <updated>2023-04-12T01:14:33+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha</title>
+        <author>
+            <name>Simon Willison</name>
+        </author>
+    <published>2023-04-12T01:14:33+00:00</published>
+    <updated>2023-04-12T01:14:33+00:00</updated>
+    <link href="https://news.cryptic.io/simon-willison-running-python-microbenchmarks-using-the-chatgpt-code-interpreter-alpha/"/>
+    <link rel="alternate" href="https://news.cryptic.io/simon-willison-running-python-microbenchmarks-using-the-chatgpt-code-interpreter-alpha/" type="text/html"/>
+      <source>
+        <id>http://simonwillison.net/2023/Apr/12/code-interpreter/#atom-entries</id>
+        <link href="http://simonwillison.net/2023/Apr/12/code-interpreter/#atom-entries"/>
+        <title>Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha</title>
+        <author>
+            <name>Simon Willison</name>
+        </author>
+        <updated>2023-04-12T01:14:33+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/simon-willison-running-python-microbenchmarks-using-the-chatgpt-code-interpreter-alpha/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Building a static GraphViz for macOS</title>
         <author>
@@ -1970,30 +1994,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-gpt-is-revolutionary/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I built a ChatGPT plugin to answer questions about data hosted in Datasette</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-03-24T15:43:59+00:00</published>
-    <updated>2023-03-24T15:43:59+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-i-built-a-chatgpt-plugin-to-answer-questions-about-data-hosted-in-datasette/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-i-built-a-chatgpt-plugin-to-answer-questions-about-data-hosted-in-datasette/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/#atom-entries"/>
-        <title>I built a ChatGPT plugin to answer questions about data hosted in Datasette</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-03-24T15:43:59+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-i-built-a-chatgpt-plugin-to-answer-questions-about-data-hosted-in-datasette/</id>
     <content type="html">
         
     </content>
