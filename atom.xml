@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-04-13T15:00:04+00:00</updated>
+  <updated>2023-04-13T19:37:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Two words, two lies</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2023-04-13T19:37:00+00:00</published>
+    <updated>2023-04-13T19:37:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-two-words-two-lies/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-two-words-two-lies/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/misc/two-words-two-lies.html</id>
+        <link href="https://blog.plover.com/misc/two-words-two-lies.html"/>
+        <title>Two words, two lies</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2023-04-13T19:37:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-two-words-two-lies/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>I built a special PCIe card to test GPUs on the Pi</title>
         <author>
@@ -3218,30 +3242,6 @@
       </source>
 
     <id>https://news.cryptic.io/rohan-deshmukh/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>This ONE WEIRD TRICK for primality testing… doesn&#x27;t work</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2023-03-13T15:09:00+00:00</published>
-    <updated>2023-03-13T15:09:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-this-one-weird-trick-for-primality-testing-doesnt-work/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-this-one-weird-trick-for-primality-testing-doesnt-work/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/math/sum-of-squares-trick.html</id>
-        <link href="https://blog.plover.com/math/sum-of-squares-trick.html"/>
-        <title>This ONE WEIRD TRICK for primality testing… doesn&#x27;t work</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2023-03-13T15:09:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-this-one-weird-trick-for-primality-testing-doesnt-work/</id>
     <content type="html">
         
     </content>
@@ -10446,6 +10446,30 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-chat-log-exhibits-from-twitter-v-musk-case/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+    <published>2022-09-30T07:59:44+00:00</published>
+    <updated>2022-09-30T07:59:44+00:00</updated>
+    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
+    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
+      <source>
+        <id>https://nitter.net/GranolaShotgun/status/1575757270591283201#m</id>
+        <link href="https://nitter.net/GranolaShotgun/status/1575757270591283201#m"/>
+        <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+        <updated>2022-09-30T07:59:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
