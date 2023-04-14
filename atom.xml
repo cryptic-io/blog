@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-04-14T17:35:28+00:00</updated>
+  <updated>2023-04-14T22:21:24+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The details element is amazing</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-04-14T22:21:24+00:00</published>
+    <updated>2023-04-14T22:21:24+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-the-details-element-is-amazing/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-details-element-is-amazing/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/the-details-element-is-amazing/</id>
+        <link href="https://robinrendle.com/notes/the-details-element-is-amazing/"/>
+        <title>The details element is amazing</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-04-14T22:21:24+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-the-details-element-is-amazing/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Prompt injection: what&#x27;s the worst that can happen?</title>
         <author>
@@ -4010,30 +4034,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-vpn-trust-requires-free-software/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>An end to typographic widows on the web</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-03-07T16:41:22+00:00</published>
-    <updated>2023-03-07T16:41:22+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-an-end-to-typographic-widows-on-the-web/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-an-end-to-typographic-widows-on-the-web/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/an-end-to-typographic-widows-on-the-web/</id>
-        <link href="https://robinrendle.com/notes/an-end-to-typographic-widows-on-the-web/"/>
-        <title>An end to typographic widows on the web</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-03-07T16:41:22+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-an-end-to-typographic-widows-on-the-web/</id>
     <content type="html">
         
     </content>
