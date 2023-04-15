@@ -31,30 +31,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Prompt injection: what&#x27;s the worst that can happen?</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-14T17:35:28+00:00</published>
-    <updated>2023-04-14T17:35:28+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-prompt-injection-whats-the-worst-that-can-happen/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-prompt-injection-whats-the-worst-that-can-happen/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/14/worst-that-can-happen/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/14/worst-that-can-happen/#atom-entries"/>
-        <title>Prompt injection: what&#x27;s the worst that can happen?</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-14T17:35:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-prompt-injection-whats-the-worst-that-can-happen/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Bypassing Indonesia&#x27;s Internet Censorship</title>
         <author>
             <name>Martin Chang</name>
@@ -314,30 +290,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-debugging-an-x86-application-in-rosetta-for-linux/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-12T01:14:33+00:00</published>
-    <updated>2023-04-12T01:14:33+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-running-python-microbenchmarks-using-the-chatgpt-code-interpreter-alpha/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-running-python-microbenchmarks-using-the-chatgpt-code-interpreter-alpha/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/12/code-interpreter/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/12/code-interpreter/#atom-entries"/>
-        <title>Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-12T01:14:33+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-running-python-microbenchmarks-using-the-chatgpt-code-interpreter-alpha/</id>
     <content type="html">
         
     </content>
@@ -631,30 +583,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Thoughts on AI safety in this era of increasingly powerful open source LLMs</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-10T18:41:25+00:00</published>
-    <updated>2023-04-10T18:41:25+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-thoughts-on-ai-safety-in-this-era-of-increasingly-powerful-open-source-llms/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-thoughts-on-ai-safety-in-this-era-of-increasingly-powerful-open-source-llms/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/10/ai-safety/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/10/ai-safety/#atom-entries"/>
-        <title>Thoughts on AI safety in this era of increasingly powerful open source LLMs</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-10T18:41:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-thoughts-on-ai-safety-in-this-era-of-increasingly-powerful-open-source-llms/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Wireheading City</title>
         <author>
             <name>geohot</name>
@@ -895,54 +823,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Changelog podcast: LLMs break the internet</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-08T00:46:43+00:00</published>
-    <updated>2023-04-08T00:46:43+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-the-changelog-podcast-llms-break-the-internet/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-the-changelog-podcast-llms-break-the-internet/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/8/llms-break-the-internet/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/8/llms-break-the-internet/#atom-entries"/>
-        <title>The Changelog podcast: LLMs break the internet</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-08T00:46:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-the-changelog-podcast-llms-break-the-internet/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Path to Citus Con: Working in public</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-08T00:36:10+00:00</published>
-    <updated>2023-04-08T00:36:10+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-path-to-citus-con-working-in-public/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-path-to-citus-con-working-in-public/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/8/working-in-public/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/8/working-in-public/#atom-entries"/>
-        <title>Path to Citus Con: Working in public</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-08T00:36:10+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-path-to-citus-con-working-in-public/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Writing Helios drivers in the Mercury driver environment</title>
         <author>
             <name>Drew DeVault</name>
@@ -1010,30 +890,6 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-building-xeact-components-with-esbuild-and-nix/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>We need to tell people ChatGPT will lie to them, not debate linguistics</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-07T16:34:48+00:00</published>
-    <updated>2023-04-07T16:34:48+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-we-need-to-tell-people-chatgpt-will-lie-to-them-not-debate-linguistics/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-we-need-to-tell-people-chatgpt-will-lie-to-them-not-debate-linguistics/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/7/chatgpt-lies/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/7/chatgpt-lies/#atom-entries"/>
-        <title>We need to tell people ChatGPT will lie to them, not debate linguistics</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-07T16:34:48+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-we-need-to-tell-people-chatgpt-will-lie-to-them-not-debate-linguistics/</id>
     <content type="html">
         
     </content>
@@ -1255,30 +1111,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Weeknotes: A new llm CLI tool, plus automating my weeknotes and newsletter</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-04T23:28:29+00:00</published>
-    <updated>2023-04-04T23:28:29+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-weeknotes-a-new-llm-cli-tool-plus-automating-my-weeknotes-and-newsletter/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-weeknotes-a-new-llm-cli-tool-plus-automating-my-weeknotes-and-newsletter/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/4/llm/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/4/llm/#atom-entries"/>
-        <title>Weeknotes: A new llm CLI tool, plus automating my weeknotes and newsletter</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-04T23:28:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-weeknotes-a-new-llm-cli-tool-plus-automating-my-weeknotes-and-newsletter/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>RSS excerpts</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -1298,30 +1130,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-rss-excerpts/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Semi-automating a Substack newsletter with an Observable notebook</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-04T17:55:28+00:00</published>
-    <updated>2023-04-04T17:55:28+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-semiautomating-a-substack-newsletter-with-an-observable-notebook/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-semiautomating-a-substack-newsletter-with-an-observable-notebook/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/4/substack-observable/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/4/substack-observable/#atom-entries"/>
-        <title>Semi-automating a Substack newsletter with an Observable notebook</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-04T17:55:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-semiautomating-a-substack-newsletter-with-an-observable-notebook/</id>
     <content type="html">
         
     </content>
@@ -1471,30 +1279,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Think of language models like ChatGPT as a &quot;calculator for words&quot;</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-02T16:20:21+00:00</published>
-    <updated>2023-04-02T16:20:21+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-think-of-language-models-like-chatgpt-as-a-calculator-for-words/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-think-of-language-models-like-chatgpt-as-a-calculator-for-words/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/2/calculator-for-words/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/2/calculator-for-words/#atom-entries"/>
-        <title>Think of language models like ChatGPT as a &quot;calculator for words&quot;</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-02T16:20:21+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-think-of-language-models-like-chatgpt-as-a-calculator-for-words/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Recent addenda to articles 202303</title>
         <author>
             <name>Mark Dominus</name>
@@ -1514,30 +1298,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-recent-addenda-to-articles-202303/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>What AI can do for you on the Theory of Change podcast</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-02T00:17:59+00:00</published>
-    <updated>2023-04-02T00:17:59+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-what-ai-can-do-for-you-on-the-theory-of-change-podcast/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-what-ai-can-do-for-you-on-the-theory-of-change-podcast/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/2/what-ai-can-do-for-you/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/2/what-ai-can-do-for-you/#atom-entries"/>
-        <title>What AI can do for you on the Theory of Change podcast</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-02T00:17:59+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-what-ai-can-do-for-you-on-the-theory-of-change-podcast/</id>
     <content type="html">
         
     </content>
