@@ -103,6 +103,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Cosmological Nostalgia Content</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-04-17T00:00:00+00:00</published>
+    <updated>2023-04-17T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-cosmological-nostalgia-content/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-cosmological-nostalgia-content/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2764/</id>
+        <link href="https://xkcd.com/2764/"/>
+        <title>Cosmological Nostalgia Content</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-04-17T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-cosmological-nostalgia-content/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it&#x27;s very impressive</title>
         <author>
             <name>Simon Willison</name>
@@ -1374,30 +1398,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-how-i-usually-write-blog-posts/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Paleontology Museum</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-04-07T00:00:00+00:00</published>
-    <updated>2023-04-07T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-paleontology-museum/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-paleontology-museum/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2760/</id>
-        <link href="https://xkcd.com/2760/"/>
-        <title>Paleontology Museum</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-04-07T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-paleontology-museum/</id>
     <content type="html">
         
     </content>
