@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-04-20T17:03:08+00:00</updated>
+  <updated>2023-04-21T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Returnal is fantastic and you should play it</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-04-21T00:00:00+00:00</published>
+    <updated>2023-04-21T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-returnal-is-fantastic-and-you-should-play-it/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-returnal-is-fantastic-and-you-should-play-it/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/returnal</id>
+        <link href="https://xeiaso.net/blog/returnal"/>
+        <title>Returnal is fantastic and you should play it</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-04-21T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-returnal-is-fantastic-and-you-should-play-it/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Data analysis with SQLite and Python for PyCon 2023</title>
         <author>
@@ -2070,30 +2094,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-repurposing-hotel-keycards/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Using Tailscale without using Tailscale</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2023-04-01T00:00:00+00:00</published>
-    <updated>2023-04-01T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-using-tailscale-without-using-tailscale/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-using-tailscale-without-using-tailscale/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/tailscale-headscale-funnel</id>
-        <link href="https://xeiaso.net/blog/tailscale-headscale-funnel"/>
-        <title>Using Tailscale without using Tailscale</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2023-04-01T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-using-tailscale-without-using-tailscale/</id>
     <content type="html">
         
     </content>
