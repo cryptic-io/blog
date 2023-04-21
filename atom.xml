@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-04-21T00:00:00+00:00</updated>
+  <updated>2023-04-21T00:59:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Math SE report 2023-04: Simplest-possible examples, pointy regions, and nearly-orthogonal vectors</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2023-04-21T00:59:00+00:00</published>
+    <updated>2023-04-21T00:59:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-math-se-report-202304-simplestpossible-examples-pointy-regions-and-nearlyorthogonal-vectors/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-math-se-report-202304-simplestpossible-examples-pointy-regions-and-nearlyorthogonal-vectors/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/math/se/2023-04.html</id>
+        <link href="https://blog.plover.com/math/se/2023-04.html"/>
+        <title>Math SE report 2023-04: Simplest-possible examples, pointy regions, and nearly-orthogonal vectors</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2023-04-21T00:59:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-math-se-report-202304-simplestpossible-examples-pointy-regions-and-nearlyorthogonal-vectors/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Returnal is fantastic and you should play it</title>
         <author>
@@ -3054,30 +3078,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-logical-properties-and-ease/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Compass directions in Catalan</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2023-03-20T15:44:00+00:00</published>
-    <updated>2023-03-20T15:44:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-compass-directions-in-catalan/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-compass-directions-in-catalan/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/lang/etym/catalan-directions.html</id>
-        <link href="https://blog.plover.com/lang/etym/catalan-directions.html"/>
-        <title>Compass directions in Catalan</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2023-03-20T15:44:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-compass-directions-in-catalan/</id>
     <content type="html">
         
     </content>
