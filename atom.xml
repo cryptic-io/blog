@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-04-23T04:46:25+00:00</updated>
+  <updated>2023-04-23T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Notes to Self on Mastodon</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-04-23T19:00:00+00:00</published>
+    <updated>2023-04-23T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-notes-to-self-on-mastodon/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-notes-to-self-on-mastodon/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/notes-to-self-on-mastodon/</id>
+        <link href="https://blog.jim-nielsen.com/2023/notes-to-self-on-mastodon/"/>
+        <title>Notes to Self on Mastodon</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-04-23T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-notes-to-self-on-mastodon/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Weeknotes: Citus Con, PyCon and three new niche museums</title>
         <author>
@@ -4182,30 +4206,6 @@
       </source>
 
     <id>https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Deadlines as Technology</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-03-09T19:00:00+00:00</published>
-    <updated>2023-03-09T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-deadlines-as-technology/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-deadlines-as-technology/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/deadlines-as-technology/</id>
-        <link href="https://blog.jim-nielsen.com/2023/deadlines-as-technology/"/>
-        <title>Deadlines as Technology</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-03-09T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-deadlines-as-technology/</id>
     <content type="html">
         
     </content>
@@ -10383,18 +10383,18 @@
         <author>
             <name>Philipp</name>
         </author>
-    <published>2022-10-04T17:39:49+00:00</published>
-    <updated>2022-10-04T17:39:49+00:00</updated>
+    <published>2022-10-05T17:44:57+00:00</published>
+    <updated>2022-10-05T17:44:57+00:00</updated>
     <link href="https://news.cryptic.io/philipp-philipp-was-annoyed/"/>
     <link rel="alternate" href="https://news.cryptic.io/philipp-philipp-was-annoyed/" type="text/html"/>
       <source>
-        <id>https://annoying.technology/posts/df3d50ab6acfb552/</id>
-        <link href="https://annoying.technology/posts/df3d50ab6acfb552/"/>
+        <id>https://annoying.technology/posts/09043b140b14955d/</id>
+        <link href="https://annoying.technology/posts/09043b140b14955d/"/>
         <title>Philipp was annoyed</title>
         <author>
             <name>Philipp</name>
         </author>
-        <updated>2022-10-04T17:39:49+00:00</updated>
+        <updated>2022-10-05T17:44:57+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/philipp-philipp-was-annoyed/</id>
