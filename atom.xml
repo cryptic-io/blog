@@ -4,32 +4,8 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-04-23T04:46:25+00:00</updated>
+  <updated>2023-04-23T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
-  <entry xml:lang="en">
-    <title>Weeknotes: Citus Con, PyCon and three new niche museums</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-23T04:46:25+00:00</published>
-    <updated>2023-04-23T04:46:25+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-weeknotes-citus-con-pycon-and-three-new-niche-museums/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-weeknotes-citus-con-pycon-and-three-new-niche-museums/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/23/weeknotes/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/23/weeknotes/#atom-entries"/>
-        <title>Weeknotes: Citus Con, PyCon and three new niche museums</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-23T04:46:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-weeknotes-citus-con-pycon-and-three-new-niche-museums/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
   <entry xml:lang="en">
     <title>Data Oriented Parallel Value Interner</title>
         <author>
@@ -218,30 +194,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-criticising-is-the-easy-part/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Data analysis with SQLite and Python for PyCon 2023</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-20T17:03:08+00:00</published>
-    <updated>2023-04-20T17:03:08+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-data-analysis-with-sqlite-and-python-for-pycon-2023/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-data-analysis-with-sqlite-and-python-for-pycon-2023/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/20/pycon-2023/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/20/pycon-2023/#atom-entries"/>
-        <title>Data analysis with SQLite and Python for PyCon 2023</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-20T17:03:08+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-data-analysis-with-sqlite-and-python-for-pycon-2023/</id>
     <content type="html">
         
     </content>
@@ -535,30 +487,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>What&#x27;s in the RedPajama-Data-1T LLM training set</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-17T18:57:42+00:00</published>
-    <updated>2023-04-17T18:57:42+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-whats-in-the-redpajamadata1t-llm-training-set/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-whats-in-the-redpajamadata1t-llm-training-set/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/17/redpajama-data/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/17/redpajama-data/#atom-entries"/>
-        <title>What&#x27;s in the RedPajama-Data-1T LLM training set</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-17T18:57:42+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-whats-in-the-redpajamadata1t-llm-training-set/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>What TLA+ Can&#x27;t Check</title>
         <author>
             <name>Hillel Wayne</name>
@@ -626,30 +554,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-girl-groups/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it&#x27;s very impressive</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-16T15:10:45+00:00</published>
-    <updated>2023-04-16T15:10:45+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-web-llm-runs-the-vicuna7b-large-language-model-entirely-in-your-browser-and-its-very-impressive/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-web-llm-runs-the-vicuna7b-large-language-model-entirely-in-your-browser-and-its-very-impressive/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/16/web-llm/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/16/web-llm/#atom-entries"/>
-        <title>Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it&#x27;s very impressive</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-16T15:10:45+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-web-llm-runs-the-vicuna7b-large-language-model-entirely-in-your-browser-and-its-very-impressive/</id>
     <content type="html">
         
     </content>
@@ -746,30 +650,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-i-liked-this-simple-calculus-exercise/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>sqlite-history: tracking changes to SQLite tables using triggers (also weeknotes)</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-15T17:33:18+00:00</published>
-    <updated>2023-04-15T17:33:18+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-sqlitehistory-tracking-changes-to-sqlite-tables-using-triggers-also-weeknotes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-sqlitehistory-tracking-changes-to-sqlite-tables-using-triggers-also-weeknotes/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/15/sqlite-history/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/15/sqlite-history/#atom-entries"/>
-        <title>sqlite-history: tracking changes to SQLite tables using triggers (also weeknotes)</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-15T17:33:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-sqlitehistory-tracking-changes-to-sqlite-tables-using-triggers-also-weeknotes/</id>
     <content type="html">
         
     </content>
@@ -894,30 +774,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-the-details-element-is-amazing/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Prompt injection: What&#x27;s the worst that can happen?</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-14T17:35:28+00:00</published>
-    <updated>2023-04-14T17:35:28+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-prompt-injection-whats-the-worst-that-can-happen/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-prompt-injection-whats-the-worst-that-can-happen/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/14/worst-that-can-happen/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/14/worst-that-can-happen/#atom-entries"/>
-        <title>Prompt injection: What&#x27;s the worst that can happen?</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-14T17:35:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-prompt-injection-whats-the-worst-that-can-happen/</id>
     <content type="html">
         
     </content>
@@ -1187,30 +1043,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-12T01:14:33+00:00</published>
-    <updated>2023-04-12T01:14:33+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-running-python-microbenchmarks-using-the-chatgpt-code-interpreter-alpha/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-running-python-microbenchmarks-using-the-chatgpt-code-interpreter-alpha/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/12/code-interpreter/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/12/code-interpreter/#atom-entries"/>
-        <title>Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-12T01:14:33+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-running-python-microbenchmarks-using-the-chatgpt-code-interpreter-alpha/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>I forgot my full-disk encryption password :(</title>
         <author>
             <name>ash</name>
@@ -1475,30 +1307,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Thoughts on AI safety in this era of increasingly powerful open source LLMs</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-10T18:41:25+00:00</published>
-    <updated>2023-04-10T18:41:25+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-thoughts-on-ai-safety-in-this-era-of-increasingly-powerful-open-source-llms/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-thoughts-on-ai-safety-in-this-era-of-increasingly-powerful-open-source-llms/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/10/ai-safety/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/10/ai-safety/#atom-entries"/>
-        <title>Thoughts on AI safety in this era of increasingly powerful open source LLMs</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-10T18:41:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-thoughts-on-ai-safety-in-this-era-of-increasingly-powerful-open-source-llms/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Wireheading City</title>
         <author>
             <name>geohot</name>
@@ -1710,54 +1518,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-trantors-new-tls-backend-csprng-and-improvements/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Changelog podcast: LLMs break the internet</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-08T00:46:43+00:00</published>
-    <updated>2023-04-08T00:46:43+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-the-changelog-podcast-llms-break-the-internet/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-the-changelog-podcast-llms-break-the-internet/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/8/llms-break-the-internet/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/8/llms-break-the-internet/#atom-entries"/>
-        <title>The Changelog podcast: LLMs break the internet</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-08T00:46:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-the-changelog-podcast-llms-break-the-internet/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Path to Citus Con: Working in public</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-08T00:36:10+00:00</published>
-    <updated>2023-04-08T00:36:10+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-path-to-citus-con-working-in-public/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-path-to-citus-con-working-in-public/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/8/working-in-public/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/8/working-in-public/#atom-entries"/>
-        <title>Path to Citus Con: Working in public</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-08T00:36:10+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-path-to-citus-con-working-in-public/</id>
     <content type="html">
         
     </content>
