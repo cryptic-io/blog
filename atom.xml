@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-04-21T20:04:14+00:00</updated>
+  <updated>2023-04-23T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Data Oriented Parallel Value Interner</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2023-04-23T00:00:00+00:00</published>
+    <updated>2023-04-23T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-data-oriented-parallel-value-interner/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-data-oriented-parallel-value-interner/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2023/04/23/data-oriented-parallel-value-interner.html</id>
+        <link href="https://matklad.github.io/2023/04/23/data-oriented-parallel-value-interner.html"/>
+        <title>Data Oriented Parallel Value Interner</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2023-04-23T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-data-oriented-parallel-value-interner/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>In Defense of No-code(&#x27;s potential)</title>
         <author>
@@ -5742,30 +5766,6 @@
       </source>
 
     <id>https://news.cryptic.io/nutcroft-one-thought-at-a-time/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How a Zig IDE Could Work</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2023-02-10T00:00:00+00:00</published>
-    <updated>2023-02-10T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-how-a-zig-ide-could-work/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-how-a-zig-ide-could-work/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html</id>
-        <link href="https://matklad.github.io/2023/02/10/how-a-zig-ide-could-work.html"/>
-        <title>How a Zig IDE Could Work</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2023-02-10T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-how-a-zig-ide-could-work/</id>
     <content type="html">
         
     </content>
