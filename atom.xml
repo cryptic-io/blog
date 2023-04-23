@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-04-23T00:00:00+00:00</updated>
+  <updated>2023-04-23T04:46:25+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Weeknotes: Citus Con, PyCon and three new niche museums</title>
+        <author>
+            <name>Simon Willison</name>
+        </author>
+    <published>2023-04-23T04:46:25+00:00</published>
+    <updated>2023-04-23T04:46:25+00:00</updated>
+    <link href="https://news.cryptic.io/simon-willison-weeknotes-citus-con-pycon-and-three-new-niche-museums/"/>
+    <link rel="alternate" href="https://news.cryptic.io/simon-willison-weeknotes-citus-con-pycon-and-three-new-niche-museums/" type="text/html"/>
+      <source>
+        <id>http://simonwillison.net/2023/Apr/23/weeknotes/#atom-entries</id>
+        <link href="http://simonwillison.net/2023/Apr/23/weeknotes/#atom-entries"/>
+        <title>Weeknotes: Citus Con, PyCon and three new niche museums</title>
+        <author>
+            <name>Simon Willison</name>
+        </author>
+        <updated>2023-04-23T04:46:25+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/simon-willison-weeknotes-citus-con-pycon-and-three-new-niche-museums/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Data Oriented Parallel Value Interner</title>
         <author>
@@ -1806,30 +1830,6 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-building-xeact-components-with-esbuild-and-nix/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>We need to tell people ChatGPT will lie to them, not debate linguistics</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-07T16:34:48+00:00</published>
-    <updated>2023-04-07T16:34:48+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-we-need-to-tell-people-chatgpt-will-lie-to-them-not-debate-linguistics/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-we-need-to-tell-people-chatgpt-will-lie-to-them-not-debate-linguistics/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/7/chatgpt-lies/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/7/chatgpt-lies/#atom-entries"/>
-        <title>We need to tell people ChatGPT will lie to them, not debate linguistics</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-07T16:34:48+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-we-need-to-tell-people-chatgpt-will-lie-to-them-not-debate-linguistics/</id>
     <content type="html">
         
     </content>
