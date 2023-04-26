@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-04-26T05:48:15.474+00:00</updated>
+  <updated>2023-04-26T07:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A Person of Compute</title>
+        <author>
+            <name>geohot</name>
+        </author>
+    <published>2023-04-26T07:00:00+00:00</published>
+    <updated>2023-04-26T07:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/geohot-a-person-of-compute/"/>
+    <link rel="alternate" href="https://news.cryptic.io/geohot-a-person-of-compute/" type="text/html"/>
+      <source>
+        <id>https://geohot.github.io//blog/jekyll/update/2023/04/26/a-person-of-compute.html</id>
+        <link href="https://geohot.github.io//blog/jekyll/update/2023/04/26/a-person-of-compute.html"/>
+        <title>A Person of Compute</title>
+        <author>
+            <name>geohot</name>
+        </author>
+        <updated>2023-04-26T07:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/geohot-a-person-of-compute/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Will AI kill blogging?</title>
         <author>
@@ -1691,6 +1715,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Wireheading City</title>
+        <author>
+            <name>geohot</name>
+        </author>
+    <published>2023-04-11T07:00:00+00:00</published>
+    <updated>2023-04-11T07:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/geohot-wireheading-city/"/>
+    <link rel="alternate" href="https://news.cryptic.io/geohot-wireheading-city/" type="text/html"/>
+      <source>
+        <id>https://geohot.github.io//blog/jekyll/update/2023/04/11/wireheading-city.html</id>
+        <link href="https://geohot.github.io//blog/jekyll/update/2023/04/11/wireheading-city.html"/>
+        <title>Wireheading City</title>
+        <author>
+            <name>geohot</name>
+        </author>
+        <updated>2023-04-11T07:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/geohot-wireheading-city/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Wait, I can manage DNS config without losing hair??</title>
         <author>
             <name>Clayton Craft</name>
@@ -1806,30 +1854,6 @@
       </source>
 
     <id>https://news.cryptic.io/simon-willison-thoughts-on-ai-safety-in-this-era-of-increasingly-powerful-open-source-llms/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Wireheading City</title>
-        <author>
-            <name>geohot</name>
-        </author>
-    <published>2023-04-10T18:30:00+00:00</published>
-    <updated>2023-04-10T18:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/geohot-wireheading-city/"/>
-    <link rel="alternate" href="https://news.cryptic.io/geohot-wireheading-city/" type="text/html"/>
-      <source>
-        <id>https://geohot.github.io//blog/jekyll/update/2023/04/11/wireheading-city.html</id>
-        <link href="https://geohot.github.io//blog/jekyll/update/2023/04/11/wireheading-city.html"/>
-        <title>Wireheading City</title>
-        <author>
-            <name>geohot</name>
-        </author>
-        <updated>2023-04-10T18:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/geohot-wireheading-city/</id>
     <content type="html">
         
     </content>
@@ -5847,8 +5871,8 @@
         <author>
             <name>geohot</name>
         </author>
-    <published>2023-02-12T18:30:00+00:00</published>
-    <updated>2023-02-12T18:30:00+00:00</updated>
+    <published>2023-02-13T08:00:00+00:00</published>
+    <updated>2023-02-13T08:00:00+00:00</updated>
     <link href="https://news.cryptic.io/geohot-wokeism/"/>
     <link rel="alternate" href="https://news.cryptic.io/geohot-wokeism/" type="text/html"/>
       <source>
@@ -5858,7 +5882,7 @@
         <author>
             <name>geohot</name>
         </author>
-        <updated>2023-02-12T18:30:00+00:00</updated>
+        <updated>2023-02-13T08:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/geohot-wokeism/</id>
@@ -7667,6 +7691,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>e&#x2F;acc</title>
+        <author>
+            <name>geohot</name>
+        </author>
+    <published>2022-12-31T08:00:00+00:00</published>
+    <updated>2022-12-31T08:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/geohot-eacc/"/>
+    <link rel="alternate" href="https://news.cryptic.io/geohot-eacc/" type="text/html"/>
+      <source>
+        <id>https://geohot.github.io//blog/jekyll/update/2022/12/31/eacc.html</id>
+        <link href="https://geohot.github.io//blog/jekyll/update/2022/12/31/eacc.html"/>
+        <title>e&#x2F;acc</title>
+        <author>
+            <name>geohot</name>
+        </author>
+        <updated>2022-12-31T08:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/geohot-eacc/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>2022 year in review</title>
         <author>
             <name>Justin Jackson</name>
@@ -7734,30 +7782,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-how-is-it-that-people-can-be-annoying-without-doing-anything/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>e&#x2F;acc</title>
-        <author>
-            <name>geohot</name>
-        </author>
-    <published>2022-12-30T18:30:00+00:00</published>
-    <updated>2022-12-30T18:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/geohot-eacc/"/>
-    <link rel="alternate" href="https://news.cryptic.io/geohot-eacc/" type="text/html"/>
-      <source>
-        <id>https://geohot.github.io//blog/jekyll/update/2022/12/31/eacc.html</id>
-        <link href="https://geohot.github.io//blog/jekyll/update/2022/12/31/eacc.html"/>
-        <title>e&#x2F;acc</title>
-        <author>
-            <name>geohot</name>
-        </author>
-        <updated>2022-12-30T18:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/geohot-eacc/</id>
     <content type="html">
         
     </content>
@@ -7911,8 +7935,8 @@
         <author>
             <name>geohot</name>
         </author>
-    <published>2022-12-26T18:30:00+00:00</published>
-    <updated>2022-12-26T18:30:00+00:00</updated>
+    <published>2022-12-27T08:00:00+00:00</published>
+    <updated>2022-12-27T08:00:00+00:00</updated>
     <link href="https://news.cryptic.io/geohot-avatar-2-was-bad/"/>
     <link rel="alternate" href="https://news.cryptic.io/geohot-avatar-2-was-bad/" type="text/html"/>
       <source>
@@ -7922,7 +7946,7 @@
         <author>
             <name>geohot</name>
         </author>
-        <updated>2022-12-26T18:30:00+00:00</updated>
+        <updated>2022-12-27T08:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/geohot-avatar-2-was-bad/</id>
@@ -9711,8 +9735,8 @@
         <author>
             <name>geohot</name>
         </author>
-    <published>2022-10-28T18:30:00+00:00</published>
-    <updated>2022-10-28T18:30:00+00:00</updated>
+    <published>2022-10-29T07:00:00+00:00</published>
+    <updated>2022-10-29T07:00:00+00:00</updated>
     <link href="https://news.cryptic.io/geohot-the-heros-journey/"/>
     <link rel="alternate" href="https://news.cryptic.io/geohot-the-heros-journey/" type="text/html"/>
       <source>
@@ -9722,7 +9746,7 @@
         <author>
             <name>geohot</name>
         </author>
-        <updated>2022-10-28T18:30:00+00:00</updated>
+        <updated>2022-10-29T07:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/geohot-the-heros-journey/</id>
@@ -10211,6 +10235,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>A Hope</title>
+        <author>
+            <name>geohot</name>
+        </author>
+    <published>2022-10-13T07:00:00+00:00</published>
+    <updated>2022-10-13T07:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/geohot-a-hope/"/>
+    <link rel="alternate" href="https://news.cryptic.io/geohot-a-hope/" type="text/html"/>
+      <source>
+        <id>https://geohot.github.io//blog/jekyll/update/2022/10/13/a-hope.html</id>
+        <link href="https://geohot.github.io//blog/jekyll/update/2022/10/13/a-hope.html"/>
+        <title>A Hope</title>
+        <author>
+            <name>geohot</name>
+        </author>
+        <updated>2022-10-13T07:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/geohot-a-hope/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Is this a parable about software development?</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -10254,30 +10302,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-why-fight-the-oaks/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A Hope</title>
-        <author>
-            <name>geohot</name>
-        </author>
-    <published>2022-10-12T18:30:00+00:00</published>
-    <updated>2022-10-12T18:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/geohot-a-hope/"/>
-    <link rel="alternate" href="https://news.cryptic.io/geohot-a-hope/" type="text/html"/>
-      <source>
-        <id>https://geohot.github.io//blog/jekyll/update/2022/10/13/a-hope.html</id>
-        <link href="https://geohot.github.io//blog/jekyll/update/2022/10/13/a-hope.html"/>
-        <title>A Hope</title>
-        <author>
-            <name>geohot</name>
-        </author>
-        <updated>2022-10-12T18:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/geohot-a-hope/</id>
     <content type="html">
         
     </content>
@@ -10503,8 +10527,8 @@
         <author>
             <name>geohot</name>
         </author>
-    <published>2022-10-01T18:30:00+00:00</published>
-    <updated>2022-10-01T18:30:00+00:00</updated>
+    <published>2022-10-02T07:00:00+00:00</published>
+    <updated>2022-10-02T07:00:00+00:00</updated>
     <link href="https://news.cryptic.io/geohot-happy-birthday-to-me/"/>
     <link rel="alternate" href="https://news.cryptic.io/geohot-happy-birthday-to-me/" type="text/html"/>
       <source>
@@ -10514,7 +10538,7 @@
         <author>
             <name>geohot</name>
         </author>
-        <updated>2022-10-01T18:30:00+00:00</updated>
+        <updated>2022-10-02T07:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/geohot-happy-birthday-to-me/</id>
@@ -10590,6 +10614,30 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-chat-log-exhibits-from-twitter-v-musk-case/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+    <published>2022-09-30T07:59:44+00:00</published>
+    <updated>2022-09-30T07:59:44+00:00</updated>
+    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
+    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
+      <source>
+        <id>https://nitter.net/GranolaShotgun/status/1575757270591283201#m</id>
+        <link href="https://nitter.net/GranolaShotgun/status/1575757270591283201#m"/>
+        <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+        <updated>2022-09-30T07:59:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
@@ -11171,6 +11219,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>On Device Learning</title>
+        <author>
+            <name>geohot</name>
+        </author>
+    <published>2022-09-03T07:00:00+00:00</published>
+    <updated>2022-09-03T07:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/geohot-on-device-learning/"/>
+    <link rel="alternate" href="https://news.cryptic.io/geohot-on-device-learning/" type="text/html"/>
+      <source>
+        <id>https://geohot.github.io//blog/jekyll/update/2022/09/03/on-device-learning.html</id>
+        <link href="https://geohot.github.io//blog/jekyll/update/2022/09/03/on-device-learning.html"/>
+        <title>On Device Learning</title>
+        <author>
+            <name>geohot</name>
+        </author>
+        <updated>2022-09-03T07:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/geohot-on-device-learning/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Film: Everything Everywhere All at Once</title>
         <author>
             <name>nutcroft</name>
@@ -11190,30 +11262,6 @@
       </source>
 
     <id>https://news.cryptic.io/nutcroft-film-everything-everywhere-all-at-once/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>On Device Learning</title>
-        <author>
-            <name>geohot</name>
-        </author>
-    <published>2022-09-02T18:30:00+00:00</published>
-    <updated>2022-09-02T18:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/geohot-on-device-learning/"/>
-    <link rel="alternate" href="https://news.cryptic.io/geohot-on-device-learning/" type="text/html"/>
-      <source>
-        <id>https://geohot.github.io//blog/jekyll/update/2022/09/03/on-device-learning.html</id>
-        <link href="https://geohot.github.io//blog/jekyll/update/2022/09/03/on-device-learning.html"/>
-        <title>On Device Learning</title>
-        <author>
-            <name>geohot</name>
-        </author>
-        <updated>2022-09-02T18:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/geohot-on-device-learning/</id>
     <content type="html">
         
     </content>
@@ -13767,8 +13815,8 @@
         <author>
             <name>geohot</name>
         </author>
-    <published>2022-04-15T18:30:00+00:00</published>
-    <updated>2022-04-15T18:30:00+00:00</updated>
+    <published>2022-04-16T07:00:00+00:00</published>
+    <updated>2022-04-16T07:00:00+00:00</updated>
     <link href="https://news.cryptic.io/geohot-vampire-attack-twitter/"/>
     <link rel="alternate" href="https://news.cryptic.io/geohot-vampire-attack-twitter/" type="text/html"/>
       <source>
@@ -13778,7 +13826,7 @@
         <author>
             <name>geohot</name>
         </author>
-        <updated>2022-04-15T18:30:00+00:00</updated>
+        <updated>2022-04-16T07:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/geohot-vampire-attack-twitter/</id>
@@ -14430,30 +14478,6 @@
       </source>
 
     <id>https://news.cryptic.io/douglas-vaghetti-how-did-everyones-youtube-recommendations-get-so-eerily-specific/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Beauty after COVID</title>
-        <author>
-            <name>geohot</name>
-        </author>
-    <published>2022-03-04T18:30:00+00:00</published>
-    <updated>2022-03-04T18:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/geohot-beauty-after-covid/"/>
-    <link rel="alternate" href="https://news.cryptic.io/geohot-beauty-after-covid/" type="text/html"/>
-      <source>
-        <id>https://geohot.github.io//blog/jekyll/update/2022/03/05/beauty-after-covid.html</id>
-        <link href="https://geohot.github.io//blog/jekyll/update/2022/03/05/beauty-after-covid.html"/>
-        <title>Beauty after COVID</title>
-        <author>
-            <name>geohot</name>
-        </author>
-        <updated>2022-03-04T18:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/geohot-beauty-after-covid/</id>
     <content type="html">
         
     </content>
