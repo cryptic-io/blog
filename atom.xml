@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-04-28T19:00:00+00:00</updated>
+  <updated>2023-04-29T23:11:10+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Enriching data with GPT3.5 and SQLite SQL functions</title>
+        <author>
+            <name>Simon Willison</name>
+        </author>
+    <published>2023-04-29T23:11:10+00:00</published>
+    <updated>2023-04-29T23:11:10+00:00</updated>
+    <link href="https://news.cryptic.io/simon-willison-enriching-data-with-gpt35-and-sqlite-sql-functions/"/>
+    <link rel="alternate" href="https://news.cryptic.io/simon-willison-enriching-data-with-gpt35-and-sqlite-sql-functions/" type="text/html"/>
+      <source>
+        <id>http://simonwillison.net/2023/Apr/29/enriching-data/#atom-entries</id>
+        <link href="http://simonwillison.net/2023/Apr/29/enriching-data/#atom-entries"/>
+        <title>Enriching data with GPT3.5 and SQLite SQL functions</title>
+        <author>
+            <name>Simon Willison</name>
+        </author>
+        <updated>2023-04-29T23:11:10+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/simon-willison-enriching-data-with-gpt35-and-sqlite-sql-functions/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Bluesky Facts and Opinions</title>
         <author>
@@ -2310,30 +2334,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-trantors-new-tls-backend-csprng-and-improvements/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Changelog podcast: LLMs break the internet</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-08T00:46:43+00:00</published>
-    <updated>2023-04-08T00:46:43+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-the-changelog-podcast-llms-break-the-internet/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-the-changelog-podcast-llms-break-the-internet/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/8/llms-break-the-internet/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/8/llms-break-the-internet/#atom-entries"/>
-        <title>The Changelog podcast: LLMs break the internet</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-08T00:46:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-the-changelog-podcast-llms-break-the-internet/</id>
     <content type="html">
         
     </content>
@@ -10974,6 +10974,30 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-chat-log-exhibits-from-twitter-v-musk-case/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+    <published>2022-09-30T07:59:44+00:00</published>
+    <updated>2022-09-30T07:59:44+00:00</updated>
+    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
+    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
+      <source>
+        <id>https://nitter.net/GranolaShotgun/status/1575757270591283201#m</id>
+        <link href="https://nitter.net/GranolaShotgun/status/1575757270591283201#m"/>
+        <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+        <updated>2022-09-30T07:59:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
