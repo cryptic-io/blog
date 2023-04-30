@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-04-29T23:11:10+00:00</updated>
+  <updated>2023-04-30T00:14:08+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Simple Truths About Personal Websites</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-04-30T00:14:08+00:00</published>
+    <updated>2023-04-30T00:14:08+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/simple-truths-about-personal-websites</id>
+        <link href="https://matthiasott.com/notes/simple-truths-about-personal-websites"/>
+        <title>Simple Truths About Personal Websites</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-04-30T00:14:08+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Enriching data with GPT3.5 and SQLite SQL functions</title>
         <author>
@@ -218,6 +242,30 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-the-future-of-programming-research-at-chi-2023/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Easy Cameras</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2023-04-26T19:00:00+00:00</published>
+    <updated>2023-04-26T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-easy-cameras/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-easy-cameras/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2023/04/26/Easy-Cameras</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2023/04/26/Easy-Cameras"/>
+        <title>Easy Cameras</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2023-04-26T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-easy-cameras/</id>
     <content type="html">
         
     </content>
@@ -3995,30 +4043,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>First Warm Day</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2023-03-18T19:00:00+00:00</published>
-    <updated>2023-03-18T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-first-warm-day/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-first-warm-day/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2023/03/18/March-flowers</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2023/03/18/March-flowers"/>
-        <title>First Warm Day</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2023-03-18T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-first-warm-day/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Setting up vits-models to generate Waifu voices on demand</title>
         <author>
             <name>Martin Chang</name>
@@ -5790,30 +5814,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-web-push-it-real-good/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>CSS Speech Module Level 1</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-02-17T21:15:53+00:00</published>
-    <updated>2023-02-17T21:15:53+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-css-speech-module-level-1/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-css-speech-module-level-1/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/css-speech-module-level-1</id>
-        <link href="https://matthiasott.com/notes/css-speech-module-level-1"/>
-        <title>CSS Speech Module Level 1</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-02-17T21:15:53+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-css-speech-module-level-1/</id>
     <content type="html">
         
     </content>
@@ -10974,30 +10974,6 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-chat-log-exhibits-from-twitter-v-musk-case/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-09-30T07:59:44+00:00</published>
-    <updated>2022-09-30T07:59:44+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1575757270591283201#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1575757270591283201#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-09-30T07:59:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
