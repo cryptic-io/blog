@@ -79,6 +79,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Tapetum Lucidum</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-05-01T00:00:00+00:00</published>
+    <updated>2023-05-01T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-tapetum-lucidum/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-tapetum-lucidum/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2770/</id>
+        <link href="https://xkcd.com/2770/"/>
+        <title>Tapetum Lucidum</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-05-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-tapetum-lucidum/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Circles and Momentum</title>
         <author>
             <name>Jim Nielsen</name>
@@ -1058,30 +1082,6 @@
       </source>
 
     <id>https://news.cryptic.io/derek-sivers-the-joy-and-freedom-of-harmlessly-upsetting-social-norms/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Helium Reserve</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-04-21T00:00:00+00:00</published>
-    <updated>2023-04-21T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-helium-reserve/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-helium-reserve/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2766/</id>
-        <link href="https://xkcd.com/2766/"/>
-        <title>Helium Reserve</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-04-21T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-helium-reserve/</id>
     <content type="html">
         
     </content>
