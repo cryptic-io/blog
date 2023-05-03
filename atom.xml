@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-05-02T20:22:21+00:00</updated>
+  <updated>2024-05-03T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Gratitude For a Web That Tries Not to Break</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-05-03T19:00:00+00:00</published>
+    <updated>2024-05-03T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-gratitude-for-a-web-that-tries-not-to-break/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-gratitude-for-a-web-that-tries-not-to-break/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/gratitude-for-dont-break-the-web/</id>
+        <link href="https://blog.jim-nielsen.com/2024/gratitude-for-dont-break-the-web/"/>
+        <title>Gratitude For a Web That Tries Not to Break</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-05-03T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-gratitude-for-a-web-that-tries-not-to-break/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Redfall: somehow they made vampires boring</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-05-03T00:00:00+00:00</published>
+    <updated>2023-05-03T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-redfall-somehow-they-made-vampires-boring/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-redfall-somehow-they-made-vampires-boring/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/redfall</id>
+        <link href="https://xeiaso.net/blog/redfall"/>
+        <title>Redfall: somehow they made vampires boring</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-05-03T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-redfall-somehow-they-made-vampires-boring/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Prompt injection explained, with video, slides, and a transcript</title>
         <author>
@@ -2531,30 +2579,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Escalating via post-it note just to get some health checks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-04-09T22:50:31+00:00</published>
-    <updated>2023-04-09T22:50:31+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-escalating-via-postit-note-just-to-get-some-health-checks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-escalating-via-postit-note-just-to-get-some-health-checks/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/04/09/note/</id>
-        <link href="https://rachelbythebay.com/w/2023/04/09/note/"/>
-        <title>Escalating via post-it note just to get some health checks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-04-09T22:50:31+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-escalating-via-postit-note-just-to-get-some-health-checks/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>What does a research grant pay for?</title>
         <author>
             <name>Austin Z. Henley</name>
@@ -3107,30 +3131,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Xeact 0.70.0: now with the useState hook</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2023-04-03T00:00:00+00:00</published>
-    <updated>2023-04-03T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-xeact-0700-now-with-the-usestate-hook/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-xeact-0700-now-with-the-usestate-hook/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/xeact-0.70.0-useState</id>
-        <link href="https://xeiaso.net/blog/xeact-0.70.0-useState"/>
-        <title>Xeact 0.70.0: now with the useState hook</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2023-04-03T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-xeact-0700-now-with-the-usestate-hook/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>More Everything With AI</title>
         <author>
             <name>Jim Nielsen</name>
@@ -3342,30 +3342,6 @@
       </source>
 
     <id>https://news.cryptic.io/tyler-cipriani-github-private-repos-considered-privateish/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Administrivia: HTML generation and my general clowniness</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-03-31T08:23:18+00:00</published>
-    <updated>2023-03-31T08:23:18+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-administrivia-html-generation-and-my-general-clowniness/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-html-generation-and-my-general-clowniness/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/03/31/html/</id>
-        <link href="https://rachelbythebay.com/w/2023/03/31/html/"/>
-        <title>Administrivia: HTML generation and my general clowniness</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-03-31T08:23:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-administrivia-html-generation-and-my-general-clowniness/</id>
     <content type="html">
         
     </content>
@@ -4139,30 +4115,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Logical Properties and Ease</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-03-20T19:00:00+00:00</published>
-    <updated>2023-03-20T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-logical-properties-and-ease/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-logical-properties-and-ease/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/logical-properties-and-ease/</id>
-        <link href="https://blog.jim-nielsen.com/2023/logical-properties-and-ease/"/>
-        <title>Logical Properties and Ease</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-03-20T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-logical-properties-and-ease/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The venture capitalist’s dilemma</title>
         <author>
             <name>Robin Rendle</name>
@@ -4854,30 +4806,6 @@
       </source>
 
     <id>https://news.cryptic.io/jes-olson-write-posix-shell/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Load &#x27;em up and throw &#x27;em under the bus</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-03-09T21:56:17+00:00</published>
-    <updated>2023-03-09T21:56:17+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/03/09/bus/</id>
-        <link href="https://rachelbythebay.com/w/2023/03/09/bus/"/>
-        <title>Load &#x27;em up and throw &#x27;em under the bus</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-03-09T21:56:17+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/</id>
     <content type="html">
         
     </content>
@@ -6251,30 +6179,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>More than five whys and &quot;layer eight&quot; problems</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-02-14T00:39:58+00:00</published>
-    <updated>2023-02-14T00:39:58+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/02/13/broken/</id>
-        <link href="https://rachelbythebay.com/w/2023/02/13/broken/"/>
-        <title>More than five whys and &quot;layer eight&quot; problems</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-02-14T00:39:58+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Wokeism</title>
         <author>
             <name>geohot</name>
@@ -6923,30 +6827,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Determine durations with monotonic clocks if available</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-29T23:12:23+00:00</published>
-    <updated>2023-01-29T23:12:23+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/29/bash/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/29/bash/"/>
-        <title>Determine durations with monotonic clocks if available</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-29T23:12:23+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Beware of Gell-Mann amnesia about government quality</title>
         <author>
             <name>fbifemboy</name>
@@ -7019,30 +6899,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-27T04:18:56+00:00</published>
-    <updated>2023-01-27T04:18:56+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/26/shadow/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/26/shadow/"/>
-        <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-27T04:18:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>ThinkPad as a server: the follow-up</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -7062,30 +6918,6 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-thinkpad-as-a-server-the-followup/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Reader feedback: &quot;bad&quot; names, !main(), and Mastodon</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-27T00:28:05+00:00</published>
-    <updated>2023-01-27T00:28:05+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-reader-feedback-bad-names-main-and-mastodon/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-reader-feedback-bad-names-main-and-mastodon/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/26/feedback/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/26/feedback/"/>
-        <title>Reader feedback: &quot;bad&quot; names, !main(), and Mastodon</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-27T00:28:05+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-reader-feedback-bad-names-main-and-mastodon/</id>
     <content type="html">
         
     </content>
@@ -7283,30 +7115,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Who needs main() anyway?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-21T06:35:59+00:00</published>
-    <updated>2023-01-21T06:35:59+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/20/mainless/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/20/mainless/"/>
-        <title>Who needs main() anyway?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-21T06:35:59+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Two simple ways to version control your MariaDB schema changes</title>
         <author>
             <name>unixsheikh</name>
@@ -7326,30 +7134,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-two-simple-ways-to-version-control-your-mariadb-schema-changes/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Setting the clock ahead to see what breaks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-20T04:05:53+00:00</published>
-    <updated>2023-01-20T04:05:53+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/19/time/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/19/time/"/>
-        <title>Setting the clock ahead to see what breaks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-20T04:05:53+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/</id>
     <content type="html">
         
     </content>
@@ -7398,30 +7182,6 @@
       </source>
 
     <id>https://news.cryptic.io/vitalik-buterin-an-incomplete-guide-to-stealth-addresses/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Feeds, updates, 200s, 304s, and now 429s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-19T00:16:36+00:00</published>
-    <updated>2023-01-19T00:16:36+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/18/http/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/18/http/"/>
-        <title>Feeds, updates, 200s, 304s, and now 429s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-19T00:16:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feeds-updates-200s-304s-and-now-429s/</id>
     <content type="html">
         
     </content>
@@ -11022,30 +10782,6 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-chat-log-exhibits-from-twitter-v-musk-case/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-09-30T07:59:44+00:00</published>
-    <updated>2022-09-30T07:59:44+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1575757270591283201#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1575757270591283201#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-09-30T07:59:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
