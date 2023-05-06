@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-05-06T11:20:31+00:00</updated>
+  <updated>2023-05-06T17:20:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The pillar box war</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2023-05-06T17:20:00+00:00</published>
+    <updated>2023-05-06T17:20:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-the-pillar-box-war/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-the-pillar-box-war/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/history/pillar-box-war.html</id>
+        <link href="https://blog.plover.com/history/pillar-box-war.html"/>
+        <title>The pillar box war</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2023-05-06T17:20:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-the-pillar-box-war/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>GraphQL ❤️ SQLite</title>
         <author>
@@ -131,8 +155,8 @@
         <author>
             <name>Mark Dominus</name>
         </author>
-    <published>2023-05-05T00:00:00+00:00</published>
-    <updated>2023-05-05T00:00:00+00:00</updated>
+    <published>2023-05-05T04:00:00+00:00</published>
+    <updated>2023-05-05T04:00:00+00:00</updated>
     <link href="https://news.cryptic.io/mark-dominus-water-polo-and-water-polo-in-russian/"/>
     <link rel="alternate" href="https://news.cryptic.io/mark-dominus-water-polo-and-water-polo-in-russian/" type="text/html"/>
       <source>
@@ -142,7 +166,7 @@
         <author>
             <name>Mark Dominus</name>
         </author>
-        <updated>2023-05-05T00:00:00+00:00</updated>
+        <updated>2023-05-05T04:00:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-water-polo-and-water-polo-in-russian/</id>
@@ -295,6 +319,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Recent addenda to articles 202304: Inappropriate baseball team names and anagrams in Russian</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2023-05-04T04:00:00+00:00</published>
+    <updated>2023-05-04T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-recent-addenda-to-articles-202304-inappropriate-baseball-team-names-and-anagrams-in-russian/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-recent-addenda-to-articles-202304-inappropriate-baseball-team-names-and-anagrams-in-russian/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/addenda/202304.html</id>
+        <link href="https://blog.plover.com/addenda/202304.html"/>
+        <title>Recent addenda to articles 202304: Inappropriate baseball team names and anagrams in Russian</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2023-05-04T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-recent-addenda-to-articles-202304-inappropriate-baseball-team-names-and-anagrams-in-russian/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Stop Comparing Rust to C and C-with-classes!</title>
         <author>
             <name>Martin Chang</name>
@@ -362,30 +410,6 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-writing/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Recent addenda to articles 202304: Inappropriate baseball team names and anagrams in Russian</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2023-05-04T00:00:00+00:00</published>
-    <updated>2023-05-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-recent-addenda-to-articles-202304-inappropriate-baseball-team-names-and-anagrams-in-russian/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-recent-addenda-to-articles-202304-inappropriate-baseball-team-names-and-anagrams-in-russian/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/addenda/202304.html</id>
-        <link href="https://blog.plover.com/addenda/202304.html"/>
-        <title>Recent addenda to articles 202304: Inappropriate baseball team names and anagrams in Russian</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2023-05-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-recent-addenda-to-articles-202304-inappropriate-baseball-team-names-and-anagrams-in-russian/</id>
     <content type="html">
         
     </content>
@@ -914,30 +938,6 @@
       </source>
 
     <id>https://news.cryptic.io/allen-pike-collect-stories-not-generalizations/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Simple Truths About Personal Websites</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-04-30T00:14:00+00:00</published>
-    <updated>2023-04-30T00:14:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/simple-truths-about-personal-websites</id>
-        <link href="https://matthiasott.com/notes/simple-truths-about-personal-websites"/>
-        <title>Simple Truths About Personal Websites</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-04-30T00:14:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/</id>
     <content type="html">
         
     </content>
@@ -1855,30 +1855,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>CSS Custom Properties Beyond the :root</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-04-20T11:39:00+00:00</published>
-    <updated>2023-04-20T11:39:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/custom-properties-beyond-the-root</id>
-        <link href="https://matthiasott.com/notes/custom-properties-beyond-the-root"/>
-        <title>CSS Custom Properties Beyond the :root</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-04-20T11:39:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Life is maintenance, maintenance is life</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -1970,30 +1946,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-i-hate-internal-linking/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Starting A New Kirby Project</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-04-18T21:24:00+00:00</published>
-    <updated>2023-04-18T21:24:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/starting-a-new-kirby-project</id>
-        <link href="https://matthiasott.com/notes/starting-a-new-kirby-project"/>
-        <title>Starting A New Kirby Project</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-04-18T21:24:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/</id>
     <content type="html">
         
     </content>
@@ -2747,30 +2699,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A README Template – With an Automatically Generated Table of Contents</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-04-11T14:28:00+00:00</published>
-    <updated>2023-04-11T14:28:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-a-readme-template-with-an-automatically-generated-table-of-contents/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-a-readme-template-with-an-automatically-generated-table-of-contents/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/a-readme-template-with-an-automatically-generated-table-of-contents</id>
-        <link href="https://matthiasott.com/notes/a-readme-template-with-an-automatically-generated-table-of-contents"/>
-        <title>A README Template – With an Automatically Generated Table of Contents</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-04-11T14:28:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-a-readme-template-with-an-automatically-generated-table-of-contents/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>I really like powershell</title>
         <author>
             <name>Hillel Wayne</name>
@@ -3131,30 +3059,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>How I (Usually) Write Blog Posts</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-04-07T15:44:34+00:00</published>
-    <updated>2023-04-07T15:44:34+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-how-i-usually-write-blog-posts/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-how-i-usually-write-blog-posts/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/how-i-write-blog-posts</id>
-        <link href="https://matthiasott.com/notes/how-i-write-blog-posts"/>
-        <title>How I (Usually) Write Blog Posts</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-04-07T15:44:34+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-how-i-usually-write-blog-posts/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>しまなみ海道を狙っている者へのアドバイス</title>
         <author>
             <name>fbifemboy</name>
@@ -3438,30 +3342,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-more-everything-with-ai/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Recent addenda to articles 202303</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2023-04-02T09:27:00+00:00</published>
-    <updated>2023-04-02T09:27:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-recent-addenda-to-articles-202303/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-recent-addenda-to-articles-202303/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/addenda/202303.html</id>
-        <link href="https://blog.plover.com/addenda/202303.html"/>
-        <title>Recent addenda to articles 202303</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2023-04-02T09:27:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-recent-addenda-to-articles-202303/</id>
     <content type="html">
         
     </content>
@@ -4187,30 +4067,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>How To README</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-03-22T23:32:00+00:00</published>
-    <updated>2023-03-22T23:32:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-how-to-readme/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-how-to-readme/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/how-to-readme</id>
-        <link href="https://matthiasott.com/notes/how-to-readme"/>
-        <title>How To README</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-03-22T23:32:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-how-to-readme/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>LLMs will fundamentally change software engineering</title>
         <author>
             <name>manuel</name>
@@ -4734,30 +4590,6 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-the-audacity-uncorrupting-an-audacity-project/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Synthe Size Me</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-03-12T21:53:00+00:00</published>
-    <updated>2023-03-12T21:53:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-synthe-size-me/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-synthe-size-me/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/synthe-size-me</id>
-        <link href="https://matthiasott.com/notes/synthe-size-me"/>
-        <title>Synthe Size Me</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-03-12T21:53:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-synthe-size-me/</id>
     <content type="html">
         
     </content>
@@ -5915,30 +5747,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Dig Deeper</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-02-20T22:50:00+00:00</published>
-    <updated>2023-02-20T22:50:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-dig-deeper/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-dig-deeper/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/dig-deeper</id>
-        <link href="https://matthiasott.com/notes/dig-deeper"/>
-        <title>Dig Deeper</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-02-20T22:50:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-dig-deeper/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Eyeball-Minute Land</title>
         <author>
             <name>mediocregopher</name>
@@ -6035,30 +5843,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Expand and Stabilize, Explore and Craft</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-02-18T22:26:16+00:00</published>
-    <updated>2023-02-18T22:26:16+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-expand-and-stabilize-explore-and-craft/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-expand-and-stabilize-explore-and-craft/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/expand-and-stabilize-explore-and-craft</id>
-        <link href="https://matthiasott.com/notes/expand-and-stabilize-explore-and-craft"/>
-        <title>Expand and Stabilize, Explore and Craft</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-02-18T22:26:16+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-expand-and-stabilize-explore-and-craft/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Poor schemas, poor cataloguing: why music tagging sucks</title>
         <author>
             <name>Various</name>
@@ -6078,30 +5862,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-poor-schemas-poor-cataloguing-why-music-tagging-sucks/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Web Push It Real Good</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-02-17T21:46:00+00:00</published>
-    <updated>2023-02-17T21:46:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-web-push-it-real-good/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-web-push-it-real-good/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/web-push-it-real-good</id>
-        <link href="https://matthiasott.com/notes/web-push-it-real-good"/>
-        <title>Web Push It Real Good</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-02-17T21:46:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-web-push-it-real-good/</id>
     <content type="html">
         
     </content>
@@ -10854,30 +10614,6 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-chat-log-exhibits-from-twitter-v-musk-case/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-09-30T07:59:44+00:00</published>
-    <updated>2022-09-30T07:59:44+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1575757270591283201#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1575757270591283201#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-09-30T07:59:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
