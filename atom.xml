@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-05-06T17:20:00+00:00</updated>
+  <updated>2023-05-06T19:02:51+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Fulfilling a reader&#x27;s request for my &quot;dot files&quot;</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-05-06T19:02:51+00:00</published>
+    <updated>2023-05-06T19:02:51+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/05/05/dot/</id>
+        <link href="https://rachelbythebay.com/w/2023/05/05/dot/"/>
+        <title>Fulfilling a reader&#x27;s request for my &quot;dot files&quot;</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-05-06T19:02:51+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The pillar box war</title>
         <author>
@@ -295,54 +319,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Leaked Google document: &quot;We Have No Moat, And Neither Does OpenAI&quot;</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-05-04T16:05:35+00:00</published>
-    <updated>2023-05-04T16:05:35+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-leaked-google-document-we-have-no-moat-and-neither-does-openai/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-leaked-google-document-we-have-no-moat-and-neither-does-openai/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/May/4/no-moat/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/May/4/no-moat/#atom-entries"/>
-        <title>Leaked Google document: &quot;We Have No Moat, And Neither Does OpenAI&quot;</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-05-04T16:05:35+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-leaked-google-document-we-have-no-moat-and-neither-does-openai/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Midjourney 5.1</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-05-04T15:42:25+00:00</published>
-    <updated>2023-05-04T15:42:25+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-midjourney-51/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-midjourney-51/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/May/4/midjourney-51/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/May/4/midjourney-51/#atom-entries"/>
-        <title>Midjourney 5.1</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-05-04T15:42:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-midjourney-51/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Recent addenda to articles 202304: Inappropriate baseball team names and anagrams in Russian</title>
         <author>
             <name>Mark Dominus</name>
@@ -559,30 +535,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Prompt injection explained, with video, slides, and a transcript</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-05-02T20:22:21+00:00</published>
-    <updated>2023-05-02T20:22:21+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-prompt-injection-explained-with-video-slides-and-a-transcript/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-prompt-injection-explained-with-video-slides-and-a-transcript/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/May/2/prompt-injection-explained/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/May/2/prompt-injection-explained/#atom-entries"/>
-        <title>Prompt injection explained, with video, slides, and a transcript</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-05-02T20:22:21+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-prompt-injection-explained-with-video-slides-and-a-transcript/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How To Survive Your Project&#x27;s First 100,000 Lines</title>
         <author>
             <name>Evan Ovadia</name>
@@ -650,30 +602,6 @@
       </source>
 
     <id>https://news.cryptic.io/cheapskate-pcs-from-the-1990s-may-now-be-out-of-my-price-range/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>download-esm: a tool for downloading ECMAScript modules</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-05-02T04:47:29+00:00</published>
-    <updated>2023-05-02T04:47:29+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-downloadesm-a-tool-for-downloading-ecmascript-modules/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-downloadesm-a-tool-for-downloading-ecmascript-modules/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/May/2/download-esm/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/May/2/download-esm/#atom-entries"/>
-        <title>download-esm: a tool for downloading ECMAScript modules</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-05-02T04:47:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-downloadesm-a-tool-for-downloading-ecmascript-modules/</id>
     <content type="html">
         
     </content>
@@ -751,30 +679,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Let&#x27;s be bear or bunny</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-05-01T18:37:20+00:00</published>
-    <updated>2023-05-01T18:37:20+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-lets-be-bear-or-bunny/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-lets-be-bear-or-bunny/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/May/1/lets-be-bear-or-bunny/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/May/1/lets-be-bear-or-bunny/#atom-entries"/>
-        <title>Let&#x27;s be bear or bunny</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-05-01T18:37:20+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-lets-be-bear-or-bunny/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Template rendering in Go: a software optimization tale</title>
         <author>
             <name>manuel</name>
@@ -794,30 +698,6 @@
       </source>
 
     <id>https://news.cryptic.io/manuel-template-rendering-in-go-a-software-optimization-tale/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Weeknotes: Miscellaneous research into Rye, ChatGPT Code Interpreter and openai-to-sqlite</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-05-01T05:12:09+00:00</published>
-    <updated>2023-05-01T05:12:09+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-weeknotes-miscellaneous-research-into-rye-chatgpt-code-interpreter-and-openaitosqlite/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-weeknotes-miscellaneous-research-into-rye-chatgpt-code-interpreter-and-openaitosqlite/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/May/1/weeknotes/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/May/1/weeknotes/#atom-entries"/>
-        <title>Weeknotes: Miscellaneous research into Rye, ChatGPT Code Interpreter and openai-to-sqlite</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-05-01T05:12:09+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-weeknotes-miscellaneous-research-into-rye-chatgpt-code-interpreter-and-openaitosqlite/</id>
     <content type="html">
         
     </content>
@@ -986,30 +866,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Enriching data with GPT3.5 and SQLite SQL functions</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-29T23:11:10+00:00</published>
-    <updated>2023-04-29T23:11:10+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-enriching-data-with-gpt35-and-sqlite-sql-functions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-enriching-data-with-gpt35-and-sqlite-sql-functions/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/29/enriching-data/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/29/enriching-data/#atom-entries"/>
-        <title>Enriching data with GPT3.5 and SQLite SQL functions</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-29T23:11:10+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-enriching-data-with-gpt35-and-sqlite-sql-functions/</id>
     <content type="html">
         
     </content>
@@ -1375,30 +1231,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Dual LLM pattern for building AI assistants that can resist prompt injection</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-25T19:00:02+00:00</published>
-    <updated>2023-04-25T19:00:02+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-the-dual-llm-pattern-for-building-ai-assistants-that-can-resist-prompt-injection/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-the-dual-llm-pattern-for-building-ai-assistants-that-can-resist-prompt-injection/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/25/dual-llm-pattern/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/25/dual-llm-pattern/#atom-entries"/>
-        <title>The Dual LLM pattern for building AI assistants that can resist prompt injection</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-25T19:00:02+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-the-dual-llm-pattern-for-building-ai-assistants-that-can-resist-prompt-injection/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>GPT4 should be part of your toolkit</title>
         <author>
             <name>Hillel Wayne</name>
@@ -1639,30 +1471,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Weeknotes: Citus Con, PyCon and three new niche museums</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-23T04:46:25+00:00</published>
-    <updated>2023-04-23T04:46:25+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-weeknotes-citus-con-pycon-and-three-new-niche-museums/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-weeknotes-citus-con-pycon-and-three-new-niche-museums/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/23/weeknotes/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/23/weeknotes/#atom-entries"/>
-        <title>Weeknotes: Citus Con, PyCon and three new niche museums</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-23T04:46:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-weeknotes-citus-con-pycon-and-three-new-niche-museums/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Data Oriented Parallel Value Interner</title>
         <author>
             <name>Alex Kladov</name>
@@ -1874,30 +1682,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-criticising-is-the-easy-part/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Data analysis with SQLite and Python for PyCon 2023</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-20T17:03:08+00:00</published>
-    <updated>2023-04-20T17:03:08+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-data-analysis-with-sqlite-and-python-for-pycon-2023/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-data-analysis-with-sqlite-and-python-for-pycon-2023/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/20/pycon-2023/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/20/pycon-2023/#atom-entries"/>
-        <title>Data analysis with SQLite and Python for PyCon 2023</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-20T17:03:08+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-data-analysis-with-sqlite-and-python-for-pycon-2023/</id>
     <content type="html">
         
     </content>
@@ -2987,6 +2771,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Escalating via post-it note just to get some health checks</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-04-09T22:50:31+00:00</published>
+    <updated>2023-04-09T22:50:31+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-escalating-via-postit-note-just-to-get-some-health-checks/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-escalating-via-postit-note-just-to-get-some-health-checks/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/04/09/note/</id>
+        <link href="https://rachelbythebay.com/w/2023/04/09/note/"/>
+        <title>Escalating via post-it note just to get some health checks</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-04-09T22:50:31+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-escalating-via-postit-note-just-to-get-some-health-checks/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>What does a research grant pay for?</title>
         <author>
             <name>Austin Z. Henley</name>
@@ -3630,6 +3438,30 @@
       </source>
 
     <id>https://news.cryptic.io/andra-bajt-relearning-awk-with-chatgpt/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Administrivia: HTML generation and my general clowniness</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-03-31T08:23:18+00:00</published>
+    <updated>2023-03-31T08:23:18+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-administrivia-html-generation-and-my-general-clowniness/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-html-generation-and-my-general-clowniness/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/03/31/html/</id>
+        <link href="https://rachelbythebay.com/w/2023/03/31/html/"/>
+        <title>Administrivia: HTML generation and my general clowniness</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-03-31T08:23:18+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-administrivia-html-generation-and-my-general-clowniness/</id>
     <content type="html">
         
     </content>
@@ -5027,6 +4859,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Load &#x27;em up and throw &#x27;em under the bus</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-03-09T21:56:17+00:00</published>
+    <updated>2023-03-09T21:56:17+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/03/09/bus/</id>
+        <link href="https://rachelbythebay.com/w/2023/03/09/bus/"/>
+        <title>Load &#x27;em up and throw &#x27;em under the bus</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-03-09T21:56:17+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Testing Raspberry Pi&#x27;s new Global Shutter Camera</title>
         <author>
             <name>Jeff Geerling</name>
@@ -6323,6 +6179,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>More than five whys and &quot;layer eight&quot; problems</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-02-14T00:39:58+00:00</published>
+    <updated>2023-02-14T00:39:58+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/02/13/broken/</id>
+        <link href="https://rachelbythebay.com/w/2023/02/13/broken/"/>
+        <title>More than five whys and &quot;layer eight&quot; problems</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-02-14T00:39:58+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Wokeism</title>
         <author>
             <name>geohot</name>
@@ -6971,6 +6851,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Determine durations with monotonic clocks if available</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-29T23:12:23+00:00</published>
+    <updated>2023-01-29T23:12:23+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/29/bash/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/29/bash/"/>
+        <title>Determine durations with monotonic clocks if available</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-29T23:12:23+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Beware of Gell-Mann amnesia about government quality</title>
         <author>
             <name>fbifemboy</name>
@@ -7043,6 +6947,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-27T04:18:56+00:00</published>
+    <updated>2023-01-27T04:18:56+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/26/shadow/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/26/shadow/"/>
+        <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-27T04:18:56+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>ThinkPad as a server: the follow-up</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -7062,6 +6990,30 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-thinkpad-as-a-server-the-followup/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Reader feedback: &quot;bad&quot; names, !main(), and Mastodon</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-27T00:28:05+00:00</published>
+    <updated>2023-01-27T00:28:05+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-reader-feedback-bad-names-main-and-mastodon/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-reader-feedback-bad-names-main-and-mastodon/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/26/feedback/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/26/feedback/"/>
+        <title>Reader feedback: &quot;bad&quot; names, !main(), and Mastodon</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-27T00:28:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-reader-feedback-bad-names-main-and-mastodon/</id>
     <content type="html">
         
     </content>
@@ -7259,6 +7211,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Who needs main() anyway?</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-21T06:35:59+00:00</published>
+    <updated>2023-01-21T06:35:59+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/20/mainless/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/20/mainless/"/>
+        <title>Who needs main() anyway?</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-21T06:35:59+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-who-needs-main-anyway/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Two simple ways to version control your MariaDB schema changes</title>
         <author>
             <name>unixsheikh</name>
@@ -7278,6 +7254,30 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-two-simple-ways-to-version-control-your-mariadb-schema-changes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Setting the clock ahead to see what breaks</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-20T04:05:53+00:00</published>
+    <updated>2023-01-20T04:05:53+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/19/time/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/19/time/"/>
+        <title>Setting the clock ahead to see what breaks</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-20T04:05:53+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-setting-the-clock-ahead-to-see-what-breaks/</id>
     <content type="html">
         
     </content>
