@@ -4,28 +4,52 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-05-09T14:00:00+00:00</updated>
+  <updated>2023-05-09T19:04:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
-    <title>The seven specification ur-languages</title>
+    <title>An Unexpected Quest in Implementing Vale&#x27;s Region Borrowing</title>
         <author>
-            <name>Hillel Wayne</name>
+            <name>Evan Ovadia</name>
         </author>
-    <published>2023-05-09T14:00:00+00:00</published>
-    <updated>2023-05-09T14:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-the-seven-specification-urlanguages/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-the-seven-specification-urlanguages/" type="text/html"/>
+    <published>2023-05-09T19:04:00+00:00</published>
+    <updated>2023-05-09T19:04:00+00:00</updated>
+    <link href="https://news.cryptic.io/evan-ovadia-an-unexpected-quest-in-implementing-vales-region-borrowing/"/>
+    <link rel="alternate" href="https://news.cryptic.io/evan-ovadia-an-unexpected-quest-in-implementing-vales-region-borrowing/" type="text/html"/>
       <source>
-        <id>https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/"/>
-        <title>The seven specification ur-languages</title>
+        <id>https://verdagon.dev/blog/making-regions-part-2-generics</id>
+        <link href="https://verdagon.dev/blog/making-regions-part-2-generics"/>
+        <title>An Unexpected Quest in Implementing Vale&#x27;s Region Borrowing</title>
         <author>
-            <name>Hillel Wayne</name>
+            <name>Evan Ovadia</name>
         </author>
-        <updated>2023-05-09T14:00:00+00:00</updated>
+        <updated>2023-05-09T19:04:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/hillel-wayne-the-seven-specification-urlanguages/</id>
+    <id>https://news.cryptic.io/evan-ovadia-an-unexpected-quest-in-implementing-vales-region-borrowing/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Two words, two lies (again)</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2023-05-09T17:18:00+00:00</published>
+    <updated>2023-05-09T17:18:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-two-words-two-lies-again/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-two-words-two-lies-again/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/misc/two-words-two-lies-2.html</id>
+        <link href="https://blog.plover.com/misc/two-words-two-lies-2.html"/>
+        <title>Two words, two lies (again)</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2023-05-09T17:18:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-two-words-two-lies-again/</id>
     <content type="html">
         
     </content>
@@ -122,6 +146,30 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-selfhosting-with-att-fiber-internet/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Blog Previews</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2023-05-08T19:00:00+00:00</published>
+    <updated>2023-05-08T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-blog-previews/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-blog-previews/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2023/05/08/Blog-Preview</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2023/05/08/Blog-Preview"/>
+        <title>Blog Previews</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2023-05-08T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-blog-previews/</id>
     <content type="html">
         
     </content>
@@ -338,30 +386,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-digital-simplicity/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>When to prefer inheritance to composition</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-05-05T17:45:09+00:00</published>
-    <updated>2023-05-05T17:45:09+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-when-to-prefer-inheritance-to-composition/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-when-to-prefer-inheritance-to-composition/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/when-to-prefer-inheritance-to-composition/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/when-to-prefer-inheritance-to-composition/"/>
-        <title>When to prefer inheritance to composition</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-05-05T17:45:09+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-when-to-prefer-inheritance-to-composition/</id>
     <content type="html">
         
     </content>
@@ -842,30 +866,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-how-to-survive-your-projects-first-100000-lines/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Some of my workshop teaching tricks</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-05-02T13:00:00+00:00</published>
-    <updated>2023-05-02T13:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-some-of-my-workshop-teaching-tricks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-some-of-my-workshop-teaching-tricks/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/some-of-my-workshop-teaching-tricks/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/some-of-my-workshop-teaching-tricks/"/>
-        <title>Some of my workshop teaching tricks</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-05-02T13:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-some-of-my-workshop-teaching-tricks/</id>
     <content type="html">
         
     </content>
@@ -1615,30 +1615,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>GPT4 should be part of your toolkit</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-04-25T14:00:00+00:00</published>
-    <updated>2023-04-25T14:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-gpt4-should-be-part-of-your-toolkit/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-gpt4-should-be-part-of-your-toolkit/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/gpt4-should-be-part-of-your-toolkit/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/gpt4-should-be-part-of-your-toolkit/"/>
-        <title>GPT4 should be part of your toolkit</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-04-25T14:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-gpt4-should-be-part-of-your-toolkit/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Notes and Reflections from Rich Harris’ Talk</title>
         <author>
             <name>Jim Nielsen</name>
@@ -1946,30 +1922,6 @@
       </source>
 
     <id>https://news.cryptic.io/tyler-cipriani-towards-better-1on1s-an-awkward-manifesto/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>In Defense of No-code(&#x27;s potential)</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-04-21T20:04:14+00:00</published>
-    <updated>2023-04-21T20:04:14+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-in-defense-of-nocodes-potential/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-in-defense-of-nocodes-potential/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/in-defense-of-no-codes-potential/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/in-defense-of-no-codes-potential/"/>
-        <title>In Defense of No-code(&#x27;s potential)</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-04-21T20:04:14+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-in-defense-of-nocodes-potential/</id>
     <content type="html">
         
     </content>
@@ -2383,30 +2335,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>What TLA+ Can&#x27;t Check</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-04-17T18:42:45+00:00</published>
-    <updated>2023-04-17T18:42:45+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-what-tla-cant-check/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-what-tla-cant-check/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/what-tla-cant-check/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/what-tla-cant-check/"/>
-        <title>What TLA+ Can&#x27;t Check</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-04-17T18:42:45+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-what-tla-cant-check/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Girl Groups</title>
         <author>
             <name>Tim Bray</name>
@@ -2694,30 +2622,6 @@
       </source>
 
     <id>https://news.cryptic.io/vitalik-buterin-travel-time-750-distance-06/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Two words, two lies</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2023-04-13T19:37:00+00:00</published>
-    <updated>2023-04-13T19:37:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-two-words-two-lies/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-two-words-two-lies/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/misc/two-words-two-lies.html</id>
-        <link href="https://blog.plover.com/misc/two-words-two-lies.html"/>
-        <title>Two words, two lies</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2023-04-13T19:37:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-two-words-two-lies/</id>
     <content type="html">
         
     </content>
@@ -3030,30 +2934,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-a-readme-template-with-an-automatically-generated-table-of-contents/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I really like powershell</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-04-11T13:30:00+00:00</published>
-    <updated>2023-04-11T13:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-i-really-like-powershell/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-i-really-like-powershell/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/i-really-like-powershell/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/i-really-like-powershell/"/>
-        <title>I really like powershell</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-04-11T13:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-i-really-like-powershell/</id>
     <content type="html">
         
     </content>
@@ -3587,30 +3467,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Capability-Tractability Tradeoff</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-04-04T14:00:00+00:00</published>
-    <updated>2023-04-04T14:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-the-capabilitytractability-tradeoff/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-the-capabilitytractability-tradeoff/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/the-capability-tractability-tradeoff/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/the-capability-tractability-tradeoff/"/>
-        <title>The Capability-Tractability Tradeoff</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-04-04T14:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-the-capabilitytractability-tradeoff/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>A Brief Review of the Ooma VOIP Phone Service and Device</title>
         <author>
             <name>Cheapskate</name>
@@ -3779,30 +3635,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Repurposing Hotel Keycards</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-04-01T14:00:00+00:00</published>
-    <updated>2023-04-01T14:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-repurposing-hotel-keycards/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-repurposing-hotel-keycards/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/recycling-hotel-keycards/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/recycling-hotel-keycards/"/>
-        <title>Repurposing Hotel Keycards</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-04-01T14:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-repurposing-hotel-keycards/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>GitHub private repos considered private-­ish</title>
         <author>
             <name>Tyler Cipriani</name>
@@ -3947,30 +3779,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Rolling-mill Oops</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2023-03-28T19:00:00+00:00</published>
-    <updated>2023-03-28T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-rollingmill-oops/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-rollingmill-oops/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2023/03/28/Rolling-Mill</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2023/03/28/Rolling-Mill"/>
-        <title>Rolling-mill Oops</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2023-03-28T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-rollingmill-oops/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Sober Carpenter</title>
         <author>
             <name>Tim Bray</name>
@@ -3990,30 +3798,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-sober-carpenter/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Everything&#x27;s an API</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-03-28T14:00:00+00:00</published>
-    <updated>2023-03-28T14:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-everythings-an-api/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-everythings-an-api/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/everythings-an-api/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/everythings-an-api/"/>
-        <title>Everything&#x27;s an API</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-03-28T14:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-everythings-an-api/</id>
     <content type="html">
         
     </content>
@@ -11051,6 +10835,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+    <published>2022-09-30T07:59:44+00:00</published>
+    <updated>2022-09-30T07:59:44+00:00</updated>
+    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
+    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
+      <source>
+        <id>https://nitter.net/GranolaShotgun/status/1575757270591283201#m</id>
+        <link href="https://nitter.net/GranolaShotgun/status/1575757270591283201#m"/>
+        <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+        <updated>2022-09-30T07:59:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>8 cubic feet</title>
         <author>
             <name>Clayton Craft</name>
@@ -13926,30 +13734,6 @@
       </source>
 
     <id>https://news.cryptic.io/tie-we-are-not-adults-just-because-we-say-so/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Added to Vale 0.2 Beta: Concept Functions</title>
-        <author>
-            <name>Evan Ovadia</name>
-        </author>
-    <published>2022-04-29T15:15:00+00:00</published>
-    <updated>2022-04-29T15:15:00+00:00</updated>
-    <link href="https://news.cryptic.io/evan-ovadia-added-to-vale-02-beta-concept-functions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/evan-ovadia-added-to-vale-02-beta-concept-functions/" type="text/html"/>
-      <source>
-        <id>https://verdagon.dev/blog/concept-functions</id>
-        <link href="https://verdagon.dev/blog/concept-functions"/>
-        <title>Added to Vale 0.2 Beta: Concept Functions</title>
-        <author>
-            <name>Evan Ovadia</name>
-        </author>
-        <updated>2022-04-29T15:15:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/evan-ovadia-added-to-vale-02-beta-concept-functions/</id>
     <content type="html">
         
     </content>
