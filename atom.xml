@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-05-09T08:42:27+00:00</updated>
+  <updated>2023-05-09T14:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The seven specification ur-languages</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-05-09T14:00:00+00:00</published>
+    <updated>2023-05-09T14:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-the-seven-specification-urlanguages/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-the-seven-specification-urlanguages/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/"/>
+        <title>The seven specification ur-languages</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-05-09T14:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-the-seven-specification-urlanguages/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Estimated IQ distribution of children given IQ of parents</title>
         <author>
@@ -1346,6 +1370,30 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-amazon-q1-2023-financials/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The future of programming: Research at CHI 2023</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2023-04-27T18:00:01+00:00</published>
+    <updated>2023-04-27T18:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-the-future-of-programming-research-at-chi-2023/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-the-future-of-programming-research-at-chi-2023/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/futureofprogramming2023.html</id>
+        <link href="https://austinhenley.com/blog/futureofprogramming2023.html"/>
+        <title>The future of programming: Research at CHI 2023</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2023-04-27T18:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-the-future-of-programming-research-at-chi-2023/</id>
     <content type="html">
         
     </content>
@@ -3131,6 +3179,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>What does a research grant pay for?</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2023-04-09T22:00:01+00:00</published>
+    <updated>2023-04-09T22:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-what-does-a-research-grant-pay-for/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-what-does-a-research-grant-pay-for/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/grantbudget.html</id>
+        <link href="https://austinhenley.com/blog/grantbudget.html"/>
+        <title>What does a research grant pay for?</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2023-04-09T22:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-what-does-a-research-grant-pay-for/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Writing about writing</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -4283,30 +4355,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>GPT is revolutionary</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-03-24T21:02:25+00:00</published>
-    <updated>2023-03-24T21:02:25+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-gpt-is-revolutionary/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-gpt-is-revolutionary/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/gpt-is-revolutionary/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/gpt-is-revolutionary/"/>
-        <title>GPT is revolutionary</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-03-24T21:02:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-gpt-is-revolutionary/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The Great Deprival</title>
         <author>
             <name>Bastian Rieck</name>
@@ -4715,6 +4763,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Don&#x27;t trap me in the chat window</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2023-03-17T01:00:01+00:00</published>
+    <updated>2023-03-17T01:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-dont-trap-me-in-the-chat-window/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-dont-trap-me-in-the-chat-window/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/trappedchat.html</id>
+        <link href="https://austinhenley.com/blog/trappedchat.html"/>
+        <title>Don&#x27;t trap me in the chat window</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2023-03-17T01:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-dont-trap-me-in-the-chat-window/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Copyright, but Punk</title>
         <author>
             <name>mediocregopher</name>
@@ -4758,6 +4830,30 @@
       </source>
 
     <id>https://news.cryptic.io/allen-pike-32k-of-context-in-your-pocket/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Hofstadter: An esoteric programming language with concurrency, regex, and web requests</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2023-03-13T20:00:01+00:00</published>
+    <updated>2023-03-13T20:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-hofstadter-an-esoteric-programming-language-with-concurrency-regex-and-web-requests/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-hofstadter-an-esoteric-programming-language-with-concurrency-regex-and-web-requests/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/hofstadter.html</id>
+        <link href="https://austinhenley.com/blog/hofstadter.html"/>
+        <title>Hofstadter: An esoteric programming language with concurrency, regex, and web requests</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2023-03-13T20:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-hofstadter-an-esoteric-programming-language-with-concurrency-regex-and-web-requests/</id>
     <content type="html">
         
     </content>
@@ -5747,6 +5843,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>AI-generated code needs permission labels</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2023-02-28T18:00:01+00:00</published>
+    <updated>2023-02-28T18:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-aigenerated-code-needs-permission-labels/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-aigenerated-code-needs-permission-labels/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/aicodepermissions.html</id>
+        <link href="https://austinhenley.com/blog/aicodepermissions.html"/>
+        <title>AI-generated code needs permission labels</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2023-02-28T18:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-aigenerated-code-needs-permission-labels/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>LattePanda V1 - my experience with a Raspberry Pi alternative</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -6030,6 +6150,30 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-eyeballminute-land/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Papers on the UX of AI programming assistants</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2023-02-20T20:00:01+00:00</published>
+    <updated>2023-02-20T20:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-papers-on-the-ux-of-ai-programming-assistants/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-papers-on-the-ux-of-ai-programming-assistants/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/uxaicoding.html</id>
+        <link href="https://austinhenley.com/blog/uxaicoding.html"/>
+        <title>Papers on the UX of AI programming assistants</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2023-02-20T20:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-papers-on-the-ux-of-ai-programming-assistants/</id>
     <content type="html">
         
     </content>
@@ -7067,6 +7211,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Natural language is the lazy user interface</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2023-01-27T18:00:01+00:00</published>
+    <updated>2023-01-27T18:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-natural-language-is-the-lazy-user-interface/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-natural-language-is-the-lazy-user-interface/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/naturallanguageui.html</id>
+        <link href="https://austinhenley.com/blog/naturallanguageui.html"/>
+        <title>Natural language is the lazy user interface</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2023-01-27T18:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-natural-language-is-the-lazy-user-interface/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
         <author>
             <name>rachelbythebay</name>
@@ -7595,6 +7763,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The pain points of teaching computer science</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2023-01-16T18:00:01+00:00</published>
+    <updated>2023-01-16T18:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-the-pain-points-of-teaching-computer-science/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-the-pain-points-of-teaching-computer-science/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/teachingpainpoints.html</id>
+        <link href="https://austinhenley.com/blog/teachingpainpoints.html"/>
+        <title>The pain points of teaching computer science</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2023-01-16T18:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-the-pain-points-of-teaching-computer-science/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How Memory Safety Approaches Speed Up and Slow Down Development Velocity</title>
         <author>
             <name>Evan Ovadia</name>
@@ -8022,6 +8214,30 @@
       </source>
 
     <id>https://news.cryptic.io/maggie-appleton-the-expanding-dark-forest-and-generative-ai/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>My first experience using Swift, SwiftUI, and XCode</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2023-01-02T20:00:01+00:00</published>
+    <updated>2023-01-02T20:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-my-first-experience-using-swift-swiftui-and-xcode/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-my-first-experience-using-swift-swiftui-and-xcode/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/firstswiftproject.html</id>
+        <link href="https://austinhenley.com/blog/firstswiftproject.html"/>
+        <title>My first experience using Swift, SwiftUI, and XCode</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2023-01-02T20:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-my-first-experience-using-swift-swiftui-and-xcode/</id>
     <content type="html">
         
     </content>
@@ -8502,6 +8718,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-third-audit-results/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Challenging algorithms and data structures every programmer should try</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2022-12-21T21:00:01+00:00</published>
+    <updated>2022-12-21T21:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-challenging-algorithms-and-data-structures-every-programmer-should-try/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-challenging-algorithms-and-data-structures-every-programmer-should-try/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/challengingalgorithms.html</id>
+        <link href="https://austinhenley.com/blog/challengingalgorithms.html"/>
+        <title>Challenging algorithms and data structures every programmer should try</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2022-12-21T21:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-challenging-algorithms-and-data-structures-every-programmer-should-try/</id>
     <content type="html">
         
     </content>
@@ -10806,30 +11046,6 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-chat-log-exhibits-from-twitter-v-musk-case/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-09-30T07:59:44+00:00</published>
-    <updated>2022-09-30T07:59:44+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1575757270591283201#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1575757270591283201#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-09-30T07:59:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
