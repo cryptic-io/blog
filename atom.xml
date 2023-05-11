@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-05-10T22:07:01+00:00</updated>
+  <updated>2023-05-11T15:51:10+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Delimiters won&#x27;t save you from prompt injection</title>
+        <author>
+            <name>Simon Willison</name>
+        </author>
+    <published>2023-05-11T15:51:10+00:00</published>
+    <updated>2023-05-11T15:51:10+00:00</updated>
+    <link href="https://news.cryptic.io/simon-willison-delimiters-wont-save-you-from-prompt-injection/"/>
+    <link rel="alternate" href="https://news.cryptic.io/simon-willison-delimiters-wont-save-you-from-prompt-injection/" type="text/html"/>
+      <source>
+        <id>http://simonwillison.net/2023/May/11/delimiters-wont-save-you/#atom-entries</id>
+        <link href="http://simonwillison.net/2023/May/11/delimiters-wont-save-you/#atom-entries"/>
+        <title>Delimiters won&#x27;t save you from prompt injection</title>
+        <author>
+            <name>Simon Willison</name>
+        </author>
+        <updated>2023-05-11T15:51:10+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/simon-willison-delimiters-wont-save-you-from-prompt-injection/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Weeknotes: sqlite-utils 3.31, download-esm, Python in a sandbox</title>
         <author>
@@ -1970,30 +1994,6 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-inhale-and-exhale-days/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Weeknotes: Citus Con, PyCon and three new niche museums</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-23T04:46:25+00:00</published>
-    <updated>2023-04-23T04:46:25+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-weeknotes-citus-con-pycon-and-three-new-niche-museums/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-weeknotes-citus-con-pycon-and-three-new-niche-museums/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/23/weeknotes/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/23/weeknotes/#atom-entries"/>
-        <title>Weeknotes: Citus Con, PyCon and three new niche museums</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-23T04:46:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-weeknotes-citus-con-pycon-and-three-new-niche-museums/</id>
     <content type="html">
         
     </content>
@@ -10830,30 +10830,6 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-chat-log-exhibits-from-twitter-v-musk-case/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-09-30T07:59:44+00:00</published>
-    <updated>2022-09-30T07:59:44+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1575757270591283201#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1575757270591283201#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-09-30T07:59:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
