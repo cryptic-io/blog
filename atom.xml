@@ -12515,30 +12515,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Master vs Main</title>
-        <author>
-            <name>Jesse Duffield</name>
-        </author>
-    <published>2022-07-20T00:00:00+00:00</published>
-    <updated>2022-07-20T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jesse-duffield-master-vs-main/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jesse-duffield-master-vs-main/" type="text/html"/>
-      <source>
-        <id>https://jesseduffield.com/Master-And-Main/</id>
-        <link href="https://jesseduffield.com/Master-And-Main/"/>
-        <title>Master vs Main</title>
-        <author>
-            <name>Jesse Duffield</name>
-        </author>
-        <updated>2022-07-20T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jesse-duffield-master-vs-main/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Comfy Software</title>
         <author>
             <name>ash</name>
@@ -13278,6 +13254,30 @@
       </source>
 
     <id>https://news.cryptic.io/tim-daubenschtz-what-are-accountbound-tokens/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Guide to Submitting Pull Requests</title>
+        <author>
+            <name>Jesse Duffield</name>
+        </author>
+    <published>2022-05-30T00:00:00+00:00</published>
+    <updated>2022-05-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jesse-duffield-guide-to-submitting-pull-requests/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jesse-duffield-guide-to-submitting-pull-requests/" type="text/html"/>
+      <source>
+        <id>https://jesseduffield.com/Submitting-PRs/</id>
+        <link href="https://jesseduffield.com/Submitting-PRs/"/>
+        <title>Guide to Submitting Pull Requests</title>
+        <author>
+            <name>Jesse Duffield</name>
+        </author>
+        <updated>2022-05-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jesse-duffield-guide-to-submitting-pull-requests/</id>
     <content type="html">
         
     </content>
