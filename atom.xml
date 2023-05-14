@@ -4,32 +4,8 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-05-14T13:25:39+00:00</updated>
+  <updated>2023-05-14T07:23:19+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
-  <entry xml:lang="en">
-    <title>Venting My Frustrations With Rust</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2023-05-14T13:25:39+00:00</published>
-    <updated>2023-05-14T13:25:39+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-venting-my-frustrations-with-rust/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-venting-my-frustrations-with-rust/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/posts/venting-about-rust</id>
-        <link href="https://mediocregopher.com/posts/venting-about-rust"/>
-        <title>Venting My Frustrations With Rust</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2023-05-14T13:25:39+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-venting-my-frustrations-with-rust/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
   <entry xml:lang="en">
     <title>Translation of 水平社宣言 (Proclamation from the Buraku Liberation League) from 1933</title>
         <author>
@@ -12198,6 +12174,30 @@
       </source>
 
     <id>https://news.cryptic.io/molly-white-statement-to-the-financial-stability-oversight-council-regulating-digital-assets/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>My TODO System</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2022-07-25T23:04:41+00:00</published>
+    <updated>2022-07-25T23:04:41+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-my-todo-system/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-my-todo-system/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/todos</id>
+        <link href="https://mediocregopher.com/posts/todos"/>
+        <title>My TODO System</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2022-07-25T23:04:41+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-my-todo-system/</id>
     <content type="html">
         
     </content>
