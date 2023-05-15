@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-05-14T19:00:00+00:00</updated>
+  <updated>2023-05-15T10:37:07.549+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The chatbot creator</title>
+        <author>
+            <name>herman</name>
+        </author>
+    <published>2023-05-15T10:37:07.549+00:00</published>
+    <updated>2023-05-15T10:37:07.549+00:00</updated>
+    <link href="https://news.cryptic.io/herman-the-chatbot-creator/"/>
+    <link rel="alternate" href="https://news.cryptic.io/herman-the-chatbot-creator/" type="text/html"/>
+      <source>
+        <id>https://herman.bearblog.dev/the-chatbot-creator/</id>
+        <link href="https://herman.bearblog.dev/the-chatbot-creator/"/>
+        <title>The chatbot creator</title>
+        <author>
+            <name>herman</name>
+        </author>
+        <updated>2023-05-15T10:37:07.549+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/herman-the-chatbot-creator/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Power of Fast Feedback Cycles</title>
         <author>
@@ -11315,6 +11339,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+    <published>2022-09-30T07:59:44+00:00</published>
+    <updated>2022-09-30T07:59:44+00:00</updated>
+    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
+    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
+      <source>
+        <id>https://nitter.net/GranolaShotgun/status/1575757270591283201#m</id>
+        <link href="https://nitter.net/GranolaShotgun/status/1575757270591283201#m"/>
+        <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+        <updated>2022-09-30T07:59:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>8 cubic feet</title>
         <author>
             <name>Clayton Craft</name>
@@ -12054,30 +12102,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-thoughts-on-buying-a-car/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Praise for Bear</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2022-08-30T08:39:50.353+00:00</published>
-    <updated>2022-08-30T08:39:50.353+00:00</updated>
-    <link href="https://news.cryptic.io/herman-praise-for-bear/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-praise-for-bear/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/praise-for-bear/</id>
-        <link href="https://herman.bearblog.dev/praise-for-bear/"/>
-        <title>Praise for Bear</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2022-08-30T08:39:50.353+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-praise-for-bear/</id>
     <content type="html">
         
     </content>
