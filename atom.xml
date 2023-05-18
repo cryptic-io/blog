@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-05-18T19:00:00+00:00</updated>
+  <updated>2023-05-18T21:04:01+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>llm, ttok and strip-tags - CLI tools for working with ChatGPT and other LLMs</title>
+        <author>
+            <name>Simon Willison</name>
+        </author>
+    <published>2023-05-18T21:04:01+00:00</published>
+    <updated>2023-05-18T21:04:01+00:00</updated>
+    <link href="https://news.cryptic.io/simon-willison-llm-ttok-and-striptags-cli-tools-for-working-with-chatgpt-and-other-llms/"/>
+    <link rel="alternate" href="https://news.cryptic.io/simon-willison-llm-ttok-and-striptags-cli-tools-for-working-with-chatgpt-and-other-llms/" type="text/html"/>
+      <source>
+        <id>http://simonwillison.net/2023/May/18/cli-tools-for-llms/#atom-entries</id>
+        <link href="http://simonwillison.net/2023/May/18/cli-tools-for-llms/#atom-entries"/>
+        <title>llm, ttok and strip-tags - CLI tools for working with ChatGPT and other LLMs</title>
+        <author>
+            <name>Simon Willison</name>
+        </author>
+        <updated>2023-05-18T21:04:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/simon-willison-llm-ttok-and-striptags-cli-tools-for-working-with-chatgpt-and-other-llms/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Date and Time with a Static Site Generator</title>
         <author>
@@ -199,6 +223,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Writing, Fragments, and the Memex Method</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-05-16T21:26:00+00:00</published>
+    <updated>2023-05-16T21:26:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-writing-fragments-and-the-memex-method/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-writing-fragments-and-the-memex-method/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/writing-fragments-and-the-memex-method</id>
+        <link href="https://matthiasott.com/notes/writing-fragments-and-the-memex-method"/>
+        <title>Writing, Fragments, and the Memex Method</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-05-16T21:26:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-writing-fragments-and-the-memex-method/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Building an Infinite Spreadsheet</title>
         <author>
             <name>Jim Nielsen</name>
@@ -218,6 +266,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-building-an-infinite-spreadsheet/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Surfing Gemini, Gopher, and the Web on a Raspberry Pi 3B Computer</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-05-16T05:55:00+00:00</published>
+    <updated>2023-05-16T05:55:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-surfing-gemini-gopher-and-the-web-on-a-raspberry-pi-3b-computer/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-surfing-gemini-gopher-and-the-web-on-a-raspberry-pi-3b-computer/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/surfing-on-a-pi.html</id>
+        <link href="https://cheapskatesguide.org/articles/surfing-on-a-pi.html"/>
+        <title>Surfing Gemini, Gopher, and the Web on a Raspberry Pi 3B Computer</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-05-16T05:55:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-surfing-gemini-gopher-and-the-web-on-a-raspberry-pi-3b-computer/</id>
     <content type="html">
         
     </content>
@@ -1519,6 +1591,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>PC&#x27;s from the 1990&#x27;s may Now be Out of My Price Range</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-05-02T05:04:00+00:00</published>
+    <updated>2023-05-02T05:04:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-pcs-from-the-1990s-may-now-be-out-of-my-price-range/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-pcs-from-the-1990s-may-now-be-out-of-my-price-range/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/90s-computer-prices.html</id>
+        <link href="https://cheapskatesguide.org/articles/90s-computer-prices.html"/>
+        <title>PC&#x27;s from the 1990&#x27;s may Now be Out of My Price Range</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-05-02T05:04:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-pcs-from-the-1990s-may-now-be-out-of-my-price-range/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>download-esm: a tool for downloading ECMAScript modules</title>
         <author>
             <name>Simon Willison</name>
@@ -1802,6 +1898,30 @@
       </source>
 
     <id>https://news.cryptic.io/allen-pike-collect-stories-not-generalizations/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Simple Truths About Personal Websites</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-04-30T00:14:00+00:00</published>
+    <updated>2023-04-30T00:14:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/simple-truths-about-personal-websites</id>
+        <link href="https://matthiasott.com/notes/simple-truths-about-personal-websites"/>
+        <title>Simple Truths About Personal Websites</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-04-30T00:14:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/</id>
     <content type="html">
         
     </content>
@@ -2162,30 +2282,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-usernames-roulette/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Dual LLM pattern for building AI assistants that can resist prompt injection</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-25T19:00:02+00:00</published>
-    <updated>2023-04-25T19:00:02+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-the-dual-llm-pattern-for-building-ai-assistants-that-can-resist-prompt-injection/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-the-dual-llm-pattern-for-building-ai-assistants-that-can-resist-prompt-injection/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/25/dual-llm-pattern/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/25/dual-llm-pattern/#atom-entries"/>
-        <title>The Dual LLM pattern for building AI assistants that can resist prompt injection</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-25T19:00:02+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-the-dual-llm-pattern-for-building-ai-assistants-that-can-resist-prompt-injection/</id>
     <content type="html">
         
     </content>
@@ -2647,6 +2743,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>CSS Custom Properties Beyond the :root</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-04-20T11:39:00+00:00</published>
+    <updated>2023-04-20T11:39:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/custom-properties-beyond-the-root</id>
+        <link href="https://matthiasott.com/notes/custom-properties-beyond-the-root"/>
+        <title>CSS Custom Properties Beyond the :root</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-04-20T11:39:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Life is maintenance, maintenance is life</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -2743,6 +2863,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Starting A New Kirby Project</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-04-18T21:24:00+00:00</published>
+    <updated>2023-04-18T21:24:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/starting-a-new-kirby-project</id>
+        <link href="https://matthiasott.com/notes/starting-a-new-kirby-project"/>
+        <title>Starting A New Kirby Project</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-04-18T21:24:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Offline Is Just Online With Extreme Latency</title>
         <author>
             <name>Jim Nielsen</name>
@@ -2762,6 +2906,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-offline-is-just-online-with-extreme-latency/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Introducing the Concept of Radical User Friendliness in Web Design</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-04-18T03:42:00+00:00</published>
+    <updated>2023-04-18T03:42:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-introducing-the-concept-of-radical-user-friendliness-in-web-design/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-introducing-the-concept-of-radical-user-friendliness-in-web-design/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/radical-user-friendliness.html</id>
+        <link href="https://cheapskatesguide.org/articles/radical-user-friendliness.html"/>
+        <title>Introducing the Concept of Radical User Friendliness in Web Design</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-04-18T03:42:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-introducing-the-concept-of-radical-user-friendliness-in-web-design/</id>
     <content type="html">
         
     </content>
@@ -3371,6 +3539,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>A README Template – With an Automatically Generated Table of Contents</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-04-11T14:28:00+00:00</published>
+    <updated>2023-04-11T14:28:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-a-readme-template-with-an-automatically-generated-table-of-contents/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-a-readme-template-with-an-automatically-generated-table-of-contents/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/a-readme-template-with-an-automatically-generated-table-of-contents</id>
+        <link href="https://matthiasott.com/notes/a-readme-template-with-an-automatically-generated-table-of-contents"/>
+        <title>A README Template – With an Automatically Generated Table of Contents</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-04-11T14:28:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-a-readme-template-with-an-automatically-generated-table-of-contents/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>I really like powershell</title>
         <author>
             <name>Hillel Wayne</name>
@@ -3683,6 +3875,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>How I (Usually) Write Blog Posts</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-04-07T15:44:34+00:00</published>
+    <updated>2023-04-07T15:44:34+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-how-i-usually-write-blog-posts/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-how-i-usually-write-blog-posts/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/how-i-write-blog-posts</id>
+        <link href="https://matthiasott.com/notes/how-i-write-blog-posts"/>
+        <title>How I (Usually) Write Blog Posts</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-04-07T15:44:34+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-how-i-usually-write-blog-posts/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>しまなみ海道を狙っている者へのアドバイス</title>
         <author>
             <name>fbifemboy</name>
@@ -3870,6 +4086,30 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-the-capabilitytractability-tradeoff/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A Brief Review of the Ooma VOIP Phone Service and Device</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-04-04T13:25:00+00:00</published>
+    <updated>2023-04-04T13:25:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-a-brief-review-of-the-ooma-voip-phone-service-and-device/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-a-brief-review-of-the-ooma-voip-phone-service-and-device/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/ooma-review.html</id>
+        <link href="https://cheapskatesguide.org/articles/ooma-review.html"/>
+        <title>A Brief Review of the Ooma VOIP Phone Service and Device</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-04-04T13:25:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-a-brief-review-of-the-ooma-voip-phone-service-and-device/</id>
     <content type="html">
         
     </content>
@@ -4571,6 +4811,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>How To README</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-03-22T23:32:00+00:00</published>
+    <updated>2023-03-22T23:32:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-how-to-readme/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-how-to-readme/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/how-to-readme</id>
+        <link href="https://matthiasott.com/notes/how-to-readme"/>
+        <title>How To README</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-03-22T23:32:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-how-to-readme/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>LLMs will fundamentally change software engineering</title>
         <author>
             <name>manuel</name>
@@ -4590,6 +4854,30 @@
       </source>
 
     <id>https://news.cryptic.io/manuel-llms-will-fundamentally-change-software-engineering/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Beating Big Tech at the Real Computer Game</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-03-22T08:38:00+00:00</published>
+    <updated>2023-03-22T08:38:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-beating-big-tech-at-the-real-computer-game/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-beating-big-tech-at-the-real-computer-game/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/real-computer-game.html</id>
+        <link href="https://cheapskatesguide.org/articles/real-computer-game.html"/>
+        <title>Beating Big Tech at the Real Computer Game</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-03-22T08:38:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-beating-big-tech-at-the-real-computer-game/</id>
     <content type="html">
         
     </content>
@@ -5094,6 +5382,30 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-check-out-ublock-origins-element-picker/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Synthe Size Me</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-03-12T21:53:00+00:00</published>
+    <updated>2023-03-12T21:53:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-synthe-size-me/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-synthe-size-me/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/synthe-size-me</id>
+        <link href="https://matthiasott.com/notes/synthe-size-me"/>
+        <title>Synthe Size Me</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-03-12T21:53:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-synthe-size-me/</id>
     <content type="html">
         
     </content>
@@ -6227,6 +6539,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Dig Deeper</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-02-20T22:50:00+00:00</published>
+    <updated>2023-02-20T22:50:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-dig-deeper/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-dig-deeper/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/dig-deeper</id>
+        <link href="https://matthiasott.com/notes/dig-deeper"/>
+        <title>Dig Deeper</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-02-20T22:50:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-dig-deeper/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Eyeball-Minute Land</title>
         <author>
             <name>mediocregopher</name>
@@ -6318,6 +6654,30 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-more-lazygit-integration-testing-dev-blog/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Expand and Stabilize, Explore and Craft</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-02-18T22:26:16+00:00</published>
+    <updated>2023-02-18T22:26:16+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-expand-and-stabilize-explore-and-craft/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-expand-and-stabilize-explore-and-craft/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/expand-and-stabilize-explore-and-craft</id>
+        <link href="https://matthiasott.com/notes/expand-and-stabilize-explore-and-craft"/>
+        <title>Expand and Stabilize, Explore and Craft</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-02-18T22:26:16+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-expand-and-stabilize-explore-and-craft/</id>
     <content type="html">
         
     </content>
@@ -11022,6 +11382,30 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-chat-log-exhibits-from-twitter-v-musk-case/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+    <published>2022-09-30T07:59:44+00:00</published>
+    <updated>2022-09-30T07:59:44+00:00</updated>
+    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
+    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
+      <source>
+        <id>https://nitter.net/GranolaShotgun/status/1575757270591283201#m</id>
+        <link href="https://nitter.net/GranolaShotgun/status/1575757270591283201#m"/>
+        <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+        <updated>2022-09-30T07:59:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
