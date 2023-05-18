@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-05-18T14:04:35+00:00</updated>
+  <updated>2023-05-18T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Date and Time with a Static Site Generator</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-05-18T19:00:00+00:00</published>
+    <updated>2023-05-18T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-date-and-time-with-a-static-site-generator/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-date-and-time-with-a-static-site-generator/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/date-and-time-in-ssg/</id>
+        <link href="https://blog.jim-nielsen.com/2023/date-and-time-in-ssg/"/>
+        <title>Date and Time with a Static Site Generator</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-05-18T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-date-and-time-with-a-static-site-generator/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>What Eben Upton said about RISC-V</title>
         <author>
@@ -2906,30 +2930,6 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-the-roadmap-is-not-the-territory/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Site Search in Arc Browser — For Your Own Site</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-04-17T19:00:00+00:00</published>
-    <updated>2023-04-17T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-site-search-in-arc-browser-for-your-own-site/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-site-search-in-arc-browser-for-your-own-site/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/site-search-in-arc-browser/</id>
-        <link href="https://blog.jim-nielsen.com/2023/site-search-in-arc-browser/"/>
-        <title>Site Search in Arc Browser — For Your Own Site</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-04-17T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-site-search-in-arc-browser-for-your-own-site/</id>
     <content type="html">
         
     </content>
