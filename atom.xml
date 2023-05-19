@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-05-18T23:31:53+00:00</updated>
+  <updated>2023-05-19T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Get You Some Practical Accessibility</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-05-19T19:00:00+00:00</published>
+    <updated>2023-05-19T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-get-you-some-practical-accessibility/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-get-you-some-practical-accessibility/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/practical-accessibility/</id>
+        <link href="https://blog.jim-nielsen.com/2023/practical-accessibility/"/>
+        <title>Get You Some Practical Accessibility</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-05-19T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-get-you-some-practical-accessibility/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>BlueSuburbia demo is out! (more about the project, vision, and things coming…)</title>
         <author>
@@ -2906,30 +2930,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Offline Is Just Online With Extreme Latency</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-04-18T19:00:00+00:00</published>
-    <updated>2023-04-18T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-offline-is-just-online-with-extreme-latency/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-offline-is-just-online-with-extreme-latency/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/</id>
-        <link href="https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency/"/>
-        <title>Offline Is Just Online With Extreme Latency</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-04-18T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-offline-is-just-online-with-extreme-latency/</id>
     <content type="html">
         
     </content>
@@ -10595,6 +10595,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Philipp was annoyed</title>
+        <author>
+            <name>Philipp</name>
+        </author>
+    <published>2022-10-26T18:04:43+00:00</published>
+    <updated>2022-10-26T18:04:43+00:00</updated>
+    <link href="https://news.cryptic.io/philipp-philipp-was-annoyed/"/>
+    <link rel="alternate" href="https://news.cryptic.io/philipp-philipp-was-annoyed/" type="text/html"/>
+      <source>
+        <id>https://annoying.technology/posts/96c086bc855f1aa8/</id>
+        <link href="https://annoying.technology/posts/96c086bc855f1aa8/"/>
+        <title>Philipp was annoyed</title>
+        <author>
+            <name>Philipp</name>
+        </author>
+        <updated>2022-10-26T18:04:43+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/philipp-philipp-was-annoyed/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>A beginner’s guide to Chrome tracing</title>
         <author>
             <name>Nolan Lawson</name>
@@ -11147,30 +11171,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Philipp was annoyed</title>
-        <author>
-            <name>Philipp</name>
-        </author>
-    <published>2022-10-08T20:50:08+00:00</published>
-    <updated>2022-10-08T20:50:08+00:00</updated>
-    <link href="https://news.cryptic.io/philipp-philipp-was-annoyed/"/>
-    <link rel="alternate" href="https://news.cryptic.io/philipp-philipp-was-annoyed/" type="text/html"/>
-      <source>
-        <id>https://annoying.technology/posts/6199ee01d00e8757/</id>
-        <link href="https://annoying.technology/posts/6199ee01d00e8757/"/>
-        <title>Philipp was annoyed</title>
-        <author>
-            <name>Philipp</name>
-        </author>
-        <updated>2022-10-08T20:50:08+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/philipp-philipp-was-annoyed/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Musings On Serialised Storytelling</title>
         <author>
             <name>Andre Alves Garzia</name>
@@ -11406,6 +11406,30 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-chat-log-exhibits-from-twitter-v-musk-case/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+    <published>2022-09-30T07:59:44+00:00</published>
+    <updated>2022-09-30T07:59:44+00:00</updated>
+    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
+    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
+      <source>
+        <id>https://nitter.net/GranolaShotgun/status/1575757270591283201#m</id>
+        <link href="https://nitter.net/GranolaShotgun/status/1575757270591283201#m"/>
+        <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+        <updated>2022-09-30T07:59:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
