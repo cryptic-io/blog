@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-05-21T00:00:00+00:00</updated>
+  <updated>2023-05-21T22:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>I&#x27;m taking over Minimalissimo…</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2023-05-21T22:00:00+00:00</published>
+    <updated>2023-05-21T22:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-im-taking-over-minimalissimo/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-im-taking-over-minimalissimo/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/AUoj5zSsBtaUTqDT</id>
+        <link href="https://manuelmoreale.com/@/page/AUoj5zSsBtaUTqDT"/>
+        <title>I&#x27;m taking over Minimalissimo…</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2023-05-21T22:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-im-taking-over-minimalissimo/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Resilient LL Parsing Tutorial</title>
         <author>
@@ -3050,30 +3074,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-2023-tv-update/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I hate internal linking</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2023-04-18T22:00:00+00:00</published>
-    <updated>2023-04-18T22:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-i-hate-internal-linking/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-i-hate-internal-linking/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/ZmHab0LkKmKA0fan</id>
-        <link href="https://manuelmoreale.com/@/page/ZmHab0LkKmKA0fan"/>
-        <title>I hate internal linking</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2023-04-18T22:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-i-hate-internal-linking/</id>
     <content type="html">
         
     </content>
