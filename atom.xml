@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Says Who?</title>
+        <author>
+            <name>Brian Kardell</name>
+        </author>
+    <published>2023-05-23T04:00:00+00:00</published>
+    <updated>2023-05-23T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/brian-kardell-says-who/"/>
+    <link rel="alternate" href="https://news.cryptic.io/brian-kardell-says-who/" type="text/html"/>
+      <source>
+        <id>https://bkardell.com/blog/SaysWho.html</id>
+        <link href="https://bkardell.com/blog/SaysWho.html"/>
+        <title>Says Who?</title>
+        <author>
+            <name>Brian Kardell</name>
+        </author>
+        <updated>2023-05-23T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/brian-kardell-says-who/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>A Well Known URL For Your Personal Avatar</title>
         <author>
             <name>Jim Nielsen</name>
@@ -13110,30 +13134,6 @@
       </source>
 
     <id>https://news.cryptic.io/andersource-interactive-data-exploration/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Spicy Progress</title>
-        <author>
-            <name>Brian Kardell</name>
-        </author>
-    <published>2022-06-02T04:00:00+00:00</published>
-    <updated>2022-06-02T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/brian-kardell-spicy-progress/"/>
-    <link rel="alternate" href="https://news.cryptic.io/brian-kardell-spicy-progress/" type="text/html"/>
-      <source>
-        <id>https://bkardell.com/blog/SpicyUpdate.html</id>
-        <link href="https://bkardell.com/blog/SpicyUpdate.html"/>
-        <title>Spicy Progress</title>
-        <author>
-            <name>Brian Kardell</name>
-        </author>
-        <updated>2022-06-02T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/brian-kardell-spicy-progress/</id>
     <content type="html">
         
     </content>
