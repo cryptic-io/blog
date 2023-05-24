@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-05-24T09:40:19.126+00:00</updated>
+  <updated>2023-05-24T11:40:20.673+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The uncanny effectiveness of LLMs for practicing languages</title>
+        <author>
+            <name>manuel</name>
+        </author>
+    <published>2023-05-24T11:40:20.673+00:00</published>
+    <updated>2023-05-24T11:40:20.673+00:00</updated>
+    <link href="https://news.cryptic.io/manuel-the-uncanny-effectiveness-of-llms-for-practicing-languages/"/>
+    <link rel="alternate" href="https://news.cryptic.io/manuel-the-uncanny-effectiveness-of-llms-for-practicing-languages/" type="text/html"/>
+      <source>
+        <id>https://the.scapegoat.dev/the-uncanny-effectiveness-of-llms-for-practicing-languages/</id>
+        <link href="https://the.scapegoat.dev/the-uncanny-effectiveness-of-llms-for-practicing-languages/"/>
+        <title>The uncanny effectiveness of LLMs for practicing languages</title>
+        <author>
+            <name>manuel</name>
+        </author>
+        <updated>2023-05-24T11:40:20.673+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/manuel-the-uncanny-effectiveness-of-llms-for-practicing-languages/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The junior code monkey in the age of LLMs</title>
         <author>
@@ -6078,30 +6102,6 @@
       </source>
 
     <id>https://news.cryptic.io/joey-hess-the-slink-and-a-half-boxed-set/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Finding my way back to open source</title>
-        <author>
-            <name>manuel</name>
-        </author>
-    <published>2023-03-08T18:48:13.720+00:00</published>
-    <updated>2023-03-08T18:48:13.720+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-finding-my-way-back-to-open-source/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-finding-my-way-back-to-open-source/" type="text/html"/>
-      <source>
-        <id>https://the.scapegoat.dev/finding-my-way-back-to-open-source/</id>
-        <link href="https://the.scapegoat.dev/finding-my-way-back-to-open-source/"/>
-        <title>Finding my way back to open source</title>
-        <author>
-            <name>manuel</name>
-        </author>
-        <updated>2023-03-08T18:48:13.720+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-finding-my-way-back-to-open-source/</id>
     <content type="html">
         
     </content>
