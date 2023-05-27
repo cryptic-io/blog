@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-05-26T19:00:00+00:00</updated>
+  <updated>2023-05-27T15:04:02+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Offsite</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-05-27T15:04:02+00:00</published>
+    <updated>2023-05-27T15:04:02+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-offsite/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-offsite/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/offsite/</id>
+        <link href="https://robinrendle.com/notes/offsite/"/>
+        <title>Offsite</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-05-27T15:04:02+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-offsite/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Link Preload as Image</title>
         <author>
@@ -4830,30 +4854,6 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-incompetent-but-nice/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>1,799</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-03-27T15:13:46+00:00</published>
-    <updated>2023-03-27T15:13:46+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-1799/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-1799/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/1799/</id>
-        <link href="https://robinrendle.com/notes/1799/"/>
-        <title>1,799</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-03-27T15:13:46+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-1799/</id>
     <content type="html">
         
     </content>
@@ -11262,30 +11262,6 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-chat-log-exhibits-from-twitter-v-musk-case/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-09-30T07:59:44+00:00</published>
-    <updated>2022-09-30T07:59:44+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1575757270591283201#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1575757270591283201#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-09-30T07:59:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
