@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-05-27T15:04:02+00:00</updated>
+  <updated>2023-05-27T19:09:50+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Lawyer cites fake cases invented by ChatGPT, judge is not amused</title>
+        <author>
+            <name>Simon Willison</name>
+        </author>
+    <published>2023-05-27T19:09:50+00:00</published>
+    <updated>2023-05-27T19:09:50+00:00</updated>
+    <link href="https://news.cryptic.io/simon-willison-lawyer-cites-fake-cases-invented-by-chatgpt-judge-is-not-amused/"/>
+    <link rel="alternate" href="https://news.cryptic.io/simon-willison-lawyer-cites-fake-cases-invented-by-chatgpt-judge-is-not-amused/" type="text/html"/>
+      <source>
+        <id>http://simonwillison.net/2023/May/27/lawyer-chatgpt/#atom-entries</id>
+        <link href="http://simonwillison.net/2023/May/27/lawyer-chatgpt/#atom-entries"/>
+        <title>Lawyer cites fake cases invented by ChatGPT, judge is not amused</title>
+        <author>
+            <name>Simon Willison</name>
+        </author>
+        <updated>2023-05-27T19:09:50+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/simon-willison-lawyer-cites-fake-cases-invented-by-chatgpt-judge-is-not-amused/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Offsite</title>
         <author>
@@ -2546,30 +2570,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Enriching data with GPT3.5 and SQLite SQL functions</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-04-29T23:11:10+00:00</published>
-    <updated>2023-04-29T23:11:10+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-enriching-data-with-gpt35-and-sqlite-sql-functions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-enriching-data-with-gpt35-and-sqlite-sql-functions/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Apr/29/enriching-data/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Apr/29/enriching-data/#atom-entries"/>
-        <title>Enriching data with GPT3.5 and SQLite SQL functions</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-04-29T23:11:10+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-enriching-data-with-gpt35-and-sqlite-sql-functions/</id>
     <content type="html">
         
     </content>
