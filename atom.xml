@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-05-29T00:00:00+00:00</updated>
+  <updated>2023-05-29T15:52:52+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>RESP as a General Purpose Serialization Protocol</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2023-05-29T15:52:52+00:00</published>
+    <updated>2023-05-29T15:52:52+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-resp-as-a-general-purpose-serialization-protocol/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-resp-as-a-general-purpose-serialization-protocol/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/resp-is-good</id>
+        <link href="https://mediocregopher.com/posts/resp-is-good"/>
+        <title>RESP as a General Purpose Serialization Protocol</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2023-05-29T15:52:52+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-resp-as-a-general-purpose-serialization-protocol/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Wikipedia Article Titles</title>
         <author>
@@ -1058,6 +1082,30 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-spotify-and-the-bullshit-podcast-ads-situation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Manuel was annoyed</title>
+        <author>
+            <name>Manuel</name>
+        </author>
+    <published>2023-05-17T16:40:37+00:00</published>
+    <updated>2023-05-17T16:40:37+00:00</updated>
+    <link href="https://news.cryptic.io/manuel-manuel-was-annoyed/"/>
+    <link rel="alternate" href="https://news.cryptic.io/manuel-manuel-was-annoyed/" type="text/html"/>
+      <source>
+        <id>https://annoying.technology/posts/fb12e19ed8f09522/</id>
+        <link href="https://annoying.technology/posts/fb12e19ed8f09522/"/>
+        <title>Manuel was annoyed</title>
+        <author>
+            <name>Manuel</name>
+        </author>
+        <updated>2023-05-17T16:40:37+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/manuel-manuel-was-annoyed/</id>
     <content type="html">
         
     </content>
@@ -10763,30 +10811,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Manuel was annoyed</title>
-        <author>
-            <name>Manuel</name>
-        </author>
-    <published>2022-10-25T19:14:42+00:00</published>
-    <updated>2022-10-25T19:14:42+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-manuel-was-annoyed/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-manuel-was-annoyed/" type="text/html"/>
-      <source>
-        <id>https://annoying.technology/posts/2b75ad530f9d6c6a/</id>
-        <link href="https://annoying.technology/posts/2b75ad530f9d6c6a/"/>
-        <title>Manuel was annoyed</title>
-        <author>
-            <name>Manuel</name>
-        </author>
-        <updated>2022-10-25T19:14:42+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-manuel-was-annoyed/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Building software to last forever</title>
         <author>
             <name>herman</name>
@@ -11502,30 +11526,6 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-chat-log-exhibits-from-twitter-v-musk-case/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-09-30T07:59:44+00:00</published>
-    <updated>2022-09-30T07:59:44+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1575757270591283201#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1575757270591283201#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-09-30T07:59:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
@@ -12510,30 +12510,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-screaming-internally-anxiety-and-trauma/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Running ruTorrent With Nix</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2022-08-10T02:09:15+00:00</published>
-    <updated>2022-08-10T02:09:15+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-running-rutorrent-with-nix/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-running-rutorrent-with-nix/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/posts/rutorrent-nix</id>
-        <link href="https://mediocregopher.com/posts/rutorrent-nix"/>
-        <title>Running ruTorrent With Nix</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2022-08-10T02:09:15+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-running-rutorrent-with-nix/</id>
     <content type="html">
         
     </content>
