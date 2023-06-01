@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-06-01T00:04:00+00:00</updated>
+  <updated>2023-06-01T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Watch Transitions in Slow Motion in Chrome’s DevTools</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-06-01T19:00:00+00:00</published>
+    <updated>2023-06-01T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-watch-transitions-in-slow-motion-in-chromes-devtools/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-watch-transitions-in-slow-motion-in-chromes-devtools/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/slow-motion-animations-with-chrome-devtools/</id>
+        <link href="https://blog.jim-nielsen.com/2023/slow-motion-animations-with-chrome-devtools/"/>
+        <title>Watch Transitions in Slow Motion in Chrome’s DevTools</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-06-01T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-watch-transitions-in-slow-motion-in-chromes-devtools/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Why does this phrase sound so threatening?</title>
         <author>
@@ -2426,30 +2450,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-my-verified-online-presence/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Cite Your Sources, AI</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-05-04T19:00:00+00:00</published>
-    <updated>2023-05-04T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-cite-your-sources-ai/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-cite-your-sources-ai/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/cite-your-sources-ai/</id>
-        <link href="https://blog.jim-nielsen.com/2023/cite-your-sources-ai/"/>
-        <title>Cite Your Sources, AI</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-05-04T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-cite-your-sources-ai/</id>
     <content type="html">
         
     </content>
@@ -6851,30 +6851,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Can We Make Bicycles Sustainable Again?</title>
-        <author>
-            <name>Kris De Decker</name>
-        </author>
-    <published>2023-02-27T23:00:00+00:00</published>
-    <updated>2023-02-27T23:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/kris-de-decker-can-we-make-bicycles-sustainable-again/"/>
-    <link rel="alternate" href="https://news.cryptic.io/kris-de-decker-can-we-make-bicycles-sustainable-again/" type="text/html"/>
-      <source>
-        <id>https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again.html</id>
-        <link href="https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again.html"/>
-        <title>Can We Make Bicycles Sustainable Again?</title>
-        <author>
-            <name>Kris De Decker</name>
-        </author>
-        <updated>2023-02-27T23:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/kris-de-decker-can-we-make-bicycles-sustainable-again/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Things that are hard to measure, things that are easy to measure</title>
         <author>
             <name>Alex Ellis</name>
@@ -10067,30 +10043,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>What if We Replace Guns and Bullets with Bows and Arrows?</title>
-        <author>
-            <name>Kris De Decker</name>
-        </author>
-    <published>2022-11-22T23:00:00+00:00</published>
-    <updated>2022-11-22T23:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/kris-de-decker-what-if-we-replace-guns-and-bullets-with-bows-and-arrows/"/>
-    <link rel="alternate" href="https://news.cryptic.io/kris-de-decker-what-if-we-replace-guns-and-bullets-with-bows-and-arrows/" type="text/html"/>
-      <source>
-        <id>https://solar.lowtechmagazine.com/2022/11/what-if-we-replace-guns-and-bullets-with-bows-and-arrows.html</id>
-        <link href="https://solar.lowtechmagazine.com/2022/11/what-if-we-replace-guns-and-bullets-with-bows-and-arrows.html"/>
-        <title>What if We Replace Guns and Bullets with Bows and Arrows?</title>
-        <author>
-            <name>Kris De Decker</name>
-        </author>
-        <updated>2022-11-22T23:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/kris-de-decker-what-if-we-replace-guns-and-bullets-with-bows-and-arrows/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Thoughts on Mastodon</title>
         <author>
             <name>Nolan Lawson</name>
@@ -10134,30 +10086,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-implementing-a-new-memory-safety-approach-part-1/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>When Lethal Weapons Grew on Trees</title>
-        <author>
-            <name>Kris De Decker</name>
-        </author>
-    <published>2022-11-21T23:00:00+00:00</published>
-    <updated>2022-11-21T23:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/kris-de-decker-when-lethal-weapons-grew-on-trees/"/>
-    <link rel="alternate" href="https://news.cryptic.io/kris-de-decker-when-lethal-weapons-grew-on-trees/" type="text/html"/>
-      <source>
-        <id>https://solar.lowtechmagazine.com/2022/11/when-lethal-weapons-grew-on-trees.html</id>
-        <link href="https://solar.lowtechmagazine.com/2022/11/when-lethal-weapons-grew-on-trees.html"/>
-        <title>When Lethal Weapons Grew on Trees</title>
-        <author>
-            <name>Kris De Decker</name>
-        </author>
-        <updated>2022-11-21T23:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/kris-de-decker-when-lethal-weapons-grew-on-trees/</id>
     <content type="html">
         
     </content>
