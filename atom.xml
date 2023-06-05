@@ -7,6 +7,30 @@
   <updated>2023-06-05T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
+    <title>Marble Run</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-06-05T00:00:00+00:00</published>
+    <updated>2023-06-05T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-marble-run/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-marble-run/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2785/</id>
+        <link href="https://xkcd.com/2785/"/>
+        <title>Marble Run</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-06-05T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-marble-run/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Clients Have a Surprising Amount of Detail</title>
         <author>
             <name>Tom Critchlow</name>
@@ -98,30 +122,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-todo/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Feedback: the feed seems just fine...</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-06-04T02:04:21+00:00</published>
-    <updated>2023-06-04T02:04:21+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/06/03/feed/</id>
-        <link href="https://rachelbythebay.com/w/2023/06/03/feed/"/>
-        <title>Feedback: the feed seems just fine...</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-06-04T02:04:21+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/</id>
     <content type="html">
         
     </content>
@@ -487,30 +487,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Feedback: I try to answer &quot;how to become a systems engineer&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-05-31T00:51:08+00:00</published>
-    <updated>2023-05-31T00:51:08+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feedback-i-try-to-answer-how-to-become-a-systems-engineer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-i-try-to-answer-how-to-become-a-systems-engineer/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/05/30/eng/</id>
-        <link href="https://rachelbythebay.com/w/2023/05/30/eng/"/>
-        <title>Feedback: I try to answer &quot;how to become a systems engineer&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-05-31T00:51:08+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feedback-i-try-to-answer-how-to-become-a-systems-engineer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The misery of applications</title>
         <author>
             <name>nutcroft</name>
@@ -775,30 +751,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Administrivia: new web hosting arrangements</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-05-27T22:20:12+00:00</published>
-    <updated>2023-05-27T22:20:12+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-administrivia-new-web-hosting-arrangements/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-new-web-hosting-arrangements/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/05/27/newbox/</id>
-        <link href="https://rachelbythebay.com/w/2023/05/27/newbox/"/>
-        <title>Administrivia: new web hosting arrangements</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-05-27T22:20:12+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-administrivia-new-web-hosting-arrangements/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>A moment thinking about decisions</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -1010,30 +962,6 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-held-a-talk-about-my-selfhosting-adventure/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Six Platonic Solids</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-05-26T00:00:00+00:00</published>
-    <updated>2023-05-26T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-the-six-platonic-solids/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-the-six-platonic-solids/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2781/</id>
-        <link href="https://xkcd.com/2781/"/>
-        <title>The Six Platonic Solids</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-05-26T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-the-six-platonic-solids/</id>
     <content type="html">
         
     </content>
@@ -2450,30 +2378,6 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-lightning-ndert-alles/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Fulfilling a reader&#x27;s request for my &quot;dot files&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-05-06T19:02:51+00:00</published>
-    <updated>2023-05-06T19:02:51+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/05/05/dot/</id>
-        <link href="https://rachelbythebay.com/w/2023/05/05/dot/"/>
-        <title>Fulfilling a reader&#x27;s request for my &quot;dot files&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-05-06T19:02:51+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/</id>
     <content type="html">
         
     </content>
@@ -4379,30 +4283,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Debugging an x86 application in Rosetta for Linux</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-04-12T06:24:39+00:00</published>
-    <updated>2023-04-12T06:24:39+00:00</updated>
-    <link href="https://news.cryptic.io/various-debugging-an-x86-application-in-rosetta-for-linux/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-debugging-an-x86-application-in-rosetta-for-linux/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2023/04/12/debugging-an-x86-application-in-rosetta-for-linux/</id>
-        <link href="https://sporks.space/2023/04/12/debugging-an-x86-application-in-rosetta-for-linux/"/>
-        <title>Debugging an x86 application in Rosetta for Linux</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-04-12T06:24:39+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-debugging-an-x86-application-in-rosetta-for-linux/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>I forgot my full-disk encryption password :(</title>
         <author>
             <name>ash</name>
@@ -4446,30 +4326,6 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-bitcoins-are-not-mined-they-are-issued-over-time/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Building a static GraphViz for macOS</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-04-11T21:24:02+00:00</published>
-    <updated>2023-04-11T21:24:02+00:00</updated>
-    <link href="https://news.cryptic.io/various-building-a-static-graphviz-for-macos/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-building-a-static-graphviz-for-macos/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2023/04/11/building-a-static-graphviz-for-macos/</id>
-        <link href="https://sporks.space/2023/04/11/building-a-static-graphviz-for-macos/"/>
-        <title>Building a static GraphViz for macOS</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-04-11T21:24:02+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-building-a-static-graphviz-for-macos/</id>
     <content type="html">
         
     </content>
@@ -4662,30 +4518,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-the-mountain-in-the-sea/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Escalating via post-it note just to get some health checks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-04-09T22:50:31+00:00</published>
-    <updated>2023-04-09T22:50:31+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-escalating-via-postit-note-just-to-get-some-health-checks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-escalating-via-postit-note-just-to-get-some-health-checks/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/04/09/note/</id>
-        <link href="https://rachelbythebay.com/w/2023/04/09/note/"/>
-        <title>Escalating via post-it note just to get some health checks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-04-09T22:50:31+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-escalating-via-postit-note-just-to-get-some-health-checks/</id>
     <content type="html">
         
     </content>
@@ -5142,30 +4974,6 @@
       </source>
 
     <id>https://news.cryptic.io/andra-bajt-relearning-awk-with-chatgpt/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Administrivia: HTML generation and my general clowniness</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-03-31T08:23:18+00:00</published>
-    <updated>2023-03-31T08:23:18+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-administrivia-html-generation-and-my-general-clowniness/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-html-generation-and-my-general-clowniness/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/03/31/html/</id>
-        <link href="https://rachelbythebay.com/w/2023/03/31/html/"/>
-        <title>Administrivia: HTML generation and my general clowniness</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-03-31T08:23:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-administrivia-html-generation-and-my-general-clowniness/</id>
     <content type="html">
         
     </content>
@@ -6011,30 +5819,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Fixing files marked as stuck as partially transferred in Finder</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-03-13T06:21:18+00:00</published>
-    <updated>2023-03-13T06:21:18+00:00</updated>
-    <link href="https://news.cryptic.io/various-fixing-files-marked-as-stuck-as-partially-transferred-in-finder/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-fixing-files-marked-as-stuck-as-partially-transferred-in-finder/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2023/03/13/fixing-files-marked-as-stuck-as-partially-transferred-in-finder/</id>
-        <link href="https://sporks.space/2023/03/13/fixing-files-marked-as-stuck-as-partially-transferred-in-finder/"/>
-        <title>Fixing files marked as stuck as partially transferred in Finder</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-03-13T06:21:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-fixing-files-marked-as-stuck-as-partially-transferred-in-finder/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The Audacity (Uncorrupting an Audacity Project)</title>
         <author>
             <name>Jesse Duffield</name>
@@ -6347,30 +6131,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Load &#x27;em up and throw &#x27;em under the bus</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-03-09T21:56:17+00:00</published>
-    <updated>2023-03-09T21:56:17+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/03/09/bus/</id>
-        <link href="https://rachelbythebay.com/w/2023/03/09/bus/"/>
-        <title>Load &#x27;em up and throw &#x27;em under the bus</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-03-09T21:56:17+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Testing Raspberry Pi&#x27;s new Global Shutter Camera</title>
         <author>
             <name>Jeff Geerling</name>
@@ -6630,30 +6390,6 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-firstprinciples-on-ai-scaling/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Dealing with key-based polymorphic JSON in Swift Codables</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-03-05T18:43:00+00:00</published>
-    <updated>2023-03-05T18:43:00+00:00</updated>
-    <link href="https://news.cryptic.io/various-dealing-with-keybased-polymorphic-json-in-swift-codables/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-dealing-with-keybased-polymorphic-json-in-swift-codables/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2023/03/05/dealing-with-key-based-polymorphic-json-in-swift-codables/</id>
-        <link href="https://sporks.space/2023/03/05/dealing-with-key-based-polymorphic-json-in-swift-codables/"/>
-        <title>Dealing with key-based polymorphic JSON in Swift Codables</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-03-05T18:43:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-dealing-with-keybased-polymorphic-json-in-swift-codables/</id>
     <content type="html">
         
     </content>
@@ -7187,30 +6923,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Poor schemas, poor cataloguing: why music tagging sucks</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-02-18T19:30:02+00:00</published>
-    <updated>2023-02-18T19:30:02+00:00</updated>
-    <link href="https://news.cryptic.io/various-poor-schemas-poor-cataloguing-why-music-tagging-sucks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-poor-schemas-poor-cataloguing-why-music-tagging-sucks/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/</id>
-        <link href="https://sporks.space/2023/02/18/poor-schemas-poor-cataloguing-why-music-tagging-sucks/"/>
-        <title>Poor schemas, poor cataloguing: why music tagging sucks</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-02-18T19:30:02+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-poor-schemas-poor-cataloguing-why-music-tagging-sucks/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>In the desert, no service, and your partner&#x27;s late to the rendezvous. What now?</title>
         <author>
             <name>Alex Ellis</name>
@@ -7374,30 +7086,6 @@
       </source>
 
     <id>https://news.cryptic.io/fbifemboy-new-yorks-subway-construction-is-strangled-by-government-bloat/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>More than five whys and &quot;layer eight&quot; problems</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-02-14T00:39:58+00:00</published>
-    <updated>2023-02-14T00:39:58+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/02/13/broken/</id>
-        <link href="https://rachelbythebay.com/w/2023/02/13/broken/"/>
-        <title>More than five whys and &quot;layer eight&quot; problems</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-02-14T00:39:58+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/</id>
     <content type="html">
         
     </content>
@@ -7883,30 +7571,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Determine durations with monotonic clocks if available</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-29T23:12:23+00:00</published>
-    <updated>2023-01-29T23:12:23+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/29/bash/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/29/bash/"/>
-        <title>Determine durations with monotonic clocks if available</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-29T23:12:23+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Escaping Jekyll, and moving to Eleventy</title>
         <author>
             <name>mendhak</name>
@@ -7950,30 +7614,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-natural-language-is-the-lazy-user-interface/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-27T04:18:56+00:00</published>
-    <updated>2023-01-27T04:18:56+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/26/shadow/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/26/shadow/"/>
-        <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-27T04:18:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/</id>
     <content type="html">
         
     </content>
@@ -8795,30 +8435,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Introduction to Java Notebooks</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-    <published>2023-01-04T22:35:00+00:00</published>
-    <updated>2023-01-04T22:35:00+00:00</updated>
-    <link href="https://news.cryptic.io/roy-van-rijn-introduction-to-java-notebooks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/roy-van-rijn-introduction-to-java-notebooks/" type="text/html"/>
-      <source>
-        <id>https://royvanrijn.com/blog/2023/01/java-notebooks/</id>
-        <link href="https://royvanrijn.com/blog/2023/01/java-notebooks/"/>
-        <title>Introduction to Java Notebooks</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-        <updated>2023-01-04T22:35:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/roy-van-rijn-introduction-to-java-notebooks/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Testing new micropub implementation</title>
         <author>
             <name>Andre Alves Garzia</name>
@@ -9582,30 +9198,6 @@
       </source>
 
     <id>https://news.cryptic.io/nathalie-lawhead-the-opensource-nocode-world-of-gdevelop-if-you-miss-browser-flash-games-this-is-keeping-that-dream-alive/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Baby’s First iSCSI with ZFS Setup</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2022-12-11T21:55:48+00:00</published>
-    <updated>2022-12-11T21:55:48+00:00</updated>
-    <link href="https://news.cryptic.io/various-babys-first-iscsi-with-zfs-setup/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-babys-first-iscsi-with-zfs-setup/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2022/12/11/babys-first-iscsi-with-zfs-setup/</id>
-        <link href="https://sporks.space/2022/12/11/babys-first-iscsi-with-zfs-setup/"/>
-        <title>Baby’s First iSCSI with ZFS Setup</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2022-12-11T21:55:48+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-babys-first-iscsi-with-zfs-setup/</id>
     <content type="html">
         
     </content>
@@ -11051,30 +10643,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A years-late first-impressions review of the Dell XPS 13 9300</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2022-10-20T03:19:19+00:00</published>
-    <updated>2022-10-20T03:19:19+00:00</updated>
-    <link href="https://news.cryptic.io/various-a-yearslate-firstimpressions-review-of-the-dell-xps-13-9300/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-a-yearslate-firstimpressions-review-of-the-dell-xps-13-9300/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2022/10/20/a-years-late-first-impressions-review-of-the-dell-xps-13-9300/</id>
-        <link href="https://sporks.space/2022/10/20/a-years-late-first-impressions-review-of-the-dell-xps-13-9300/"/>
-        <title>A years-late first-impressions review of the Dell XPS 13 9300</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2022-10-20T03:19:19+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-a-yearslate-firstimpressions-review-of-the-dell-xps-13-9300/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The Intersection of Tenure and Seniority</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -12011,30 +11579,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Downgrading binary packages with pkg on FreeBSD</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2022-09-03T19:49:09+00:00</published>
-    <updated>2022-09-03T19:49:09+00:00</updated>
-    <link href="https://news.cryptic.io/various-downgrading-binary-packages-with-pkg-on-freebsd/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-downgrading-binary-packages-with-pkg-on-freebsd/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2022/09/03/downgrading-binary-packages-with-pkg-on-freebsd/</id>
-        <link href="https://sporks.space/2022/09/03/downgrading-binary-packages-with-pkg-on-freebsd/"/>
-        <title>Downgrading binary packages with pkg on FreeBSD</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2022-09-03T19:49:09+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-downgrading-binary-packages-with-pkg-on-freebsd/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The best website I use is an explorer, not an editor.</title>
         <author>
             <name>Tim Daubenschütz</name>
@@ -12491,30 +12035,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Screaming Internally: Anxiety and Trauma</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2022-08-11T00:53:48+00:00</published>
-    <updated>2022-08-11T00:53:48+00:00</updated>
-    <link href="https://news.cryptic.io/various-screaming-internally-anxiety-and-trauma/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-screaming-internally-anxiety-and-trauma/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2022/08/11/screaming-internally-anxiety-and-trauma/</id>
-        <link href="https://sporks.space/2022/08/11/screaming-internally-anxiety-and-trauma/"/>
-        <title>Screaming Internally: Anxiety and Trauma</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2022-08-11T00:53:48+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-screaming-internally-anxiety-and-trauma/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Libraries, the Internet we were promised, and the Internet we got</title>
         <author>
             <name>degrowther</name>
@@ -12654,30 +12174,6 @@
       </source>
 
     <id>https://news.cryptic.io/iliana-etaoin-installing-a-popup-blocker-on-a-gameboy-at-the-last-minute/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>“Sorry, you are not allowed to add a term to one of the given taxonomies” error from WordPress</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2022-07-27T22:40:44+00:00</published>
-    <updated>2022-07-27T22:40:44+00:00</updated>
-    <link href="https://news.cryptic.io/various-sorry-you-are-not-allowed-to-add-a-term-to-one-of-the-given-taxonomies-error-from-wordpress/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-sorry-you-are-not-allowed-to-add-a-term-to-one-of-the-given-taxonomies-error-from-wordpress/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2022/07/27/sorry-you-are-not-allowed-to-add-a-term-to-one-of-the-given-taxonomies-error-from-wordpress/</id>
-        <link href="https://sporks.space/2022/07/27/sorry-you-are-not-allowed-to-add-a-term-to-one-of-the-given-taxonomies-error-from-wordpress/"/>
-        <title>“Sorry, you are not allowed to add a term to one of the given taxonomies” error from WordPress</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2022-07-27T22:40:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-sorry-you-are-not-allowed-to-add-a-term-to-one-of-the-given-taxonomies-error-from-wordpress/</id>
     <content type="html">
         
     </content>
@@ -12894,30 +12390,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-daubenschtz-dissenting-through-the-mainstream/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Solving the daily calendar puzzle</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-    <published>2022-07-07T18:42:12+00:00</published>
-    <updated>2022-07-07T18:42:12+00:00</updated>
-    <link href="https://news.cryptic.io/roy-van-rijn-solving-the-daily-calendar-puzzle/"/>
-    <link rel="alternate" href="https://news.cryptic.io/roy-van-rijn-solving-the-daily-calendar-puzzle/" type="text/html"/>
-      <source>
-        <id>https://royvanrijn.com/blog/2022/07/daily-calendar-puzzle-solutions/</id>
-        <link href="https://royvanrijn.com/blog/2022/07/daily-calendar-puzzle-solutions/"/>
-        <title>Solving the daily calendar puzzle</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-        <updated>2022-07-07T18:42:12+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/roy-van-rijn-solving-the-daily-calendar-puzzle/</id>
     <content type="html">
         
     </content>
@@ -14651,30 +14123,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>All The Music: the Megamix</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-    <published>2022-03-23T21:23:03+00:00</published>
-    <updated>2022-03-23T21:23:03+00:00</updated>
-    <link href="https://news.cryptic.io/roy-van-rijn-all-the-music-the-megamix/"/>
-    <link rel="alternate" href="https://news.cryptic.io/roy-van-rijn-all-the-music-the-megamix/" type="text/html"/>
-      <source>
-        <id>https://royvanrijn.com/blog/2022/03/all-the-music-megamix/</id>
-        <link href="https://royvanrijn.com/blog/2022/03/all-the-music-megamix/"/>
-        <title>All The Music: the Megamix</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-        <updated>2022-03-23T21:23:03+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/roy-van-rijn-all-the-music-the-megamix/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>there is beauty in the minimalism of email</title>
         <author>
             <name>Jes Olson</name>
@@ -14843,30 +14291,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Roadtrip to Ludolph van Ceulen</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-    <published>2022-03-14T02:14:15+00:00</published>
-    <updated>2022-03-14T02:14:15+00:00</updated>
-    <link href="https://news.cryptic.io/roy-van-rijn-roadtrip-to-ludolph-van-ceulen/"/>
-    <link rel="alternate" href="https://news.cryptic.io/roy-van-rijn-roadtrip-to-ludolph-van-ceulen/" type="text/html"/>
-      <source>
-        <id>https://royvanrijn.com/blog/2022/03/pi-day-2022/</id>
-        <link href="https://royvanrijn.com/blog/2022/03/pi-day-2022/"/>
-        <title>Roadtrip to Ludolph van Ceulen</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-        <updated>2022-03-14T02:14:15+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/roy-van-rijn-roadtrip-to-ludolph-van-ceulen/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Why is it so hard to buy things that work well?</title>
         <author>
             <name>Dan Luu</name>
@@ -15030,30 +14454,6 @@
       </source>
 
     <id>https://news.cryptic.io/adam-pritchard-the-perils-of-the-real-client-ip/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>From Wordle to Nerdle</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-    <published>2022-03-03T07:01:25+00:00</published>
-    <updated>2022-03-03T07:01:25+00:00</updated>
-    <link href="https://news.cryptic.io/roy-van-rijn-from-wordle-to-nerdle/"/>
-    <link rel="alternate" href="https://news.cryptic.io/roy-van-rijn-from-wordle-to-nerdle/" type="text/html"/>
-      <source>
-        <id>https://royvanrijn.com/blog/2022/03/wordle-to-nerdle/</id>
-        <link href="https://royvanrijn.com/blog/2022/03/wordle-to-nerdle/"/>
-        <title>From Wordle to Nerdle</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-        <updated>2022-03-03T07:01:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/roy-van-rijn-from-wordle-to-nerdle/</id>
     <content type="html">
         
     </content>
@@ -15683,30 +15083,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>An algorithm for Wordle</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-    <published>2022-01-07T07:01:25+00:00</published>
-    <updated>2022-01-07T07:01:25+00:00</updated>
-    <link href="https://news.cryptic.io/roy-van-rijn-an-algorithm-for-wordle/"/>
-    <link rel="alternate" href="https://news.cryptic.io/roy-van-rijn-an-algorithm-for-wordle/" type="text/html"/>
-      <source>
-        <id>https://royvanrijn.com/blog/2022/01/wordle-bot/</id>
-        <link href="https://royvanrijn.com/blog/2022/01/wordle-bot/"/>
-        <title>An algorithm for Wordle</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-        <updated>2022-01-07T07:01:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/roy-van-rijn-an-algorithm-for-wordle/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>
       The Gift of It&#x27;s Your Problem Now
     </title>
@@ -15735,30 +15111,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Divide by three using shift and add</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-    <published>2021-12-31T08:01:25+00:00</published>
-    <updated>2021-12-31T08:01:25+00:00</updated>
-    <link href="https://news.cryptic.io/roy-van-rijn-divide-by-three-using-shift-and-add/"/>
-    <link rel="alternate" href="https://news.cryptic.io/roy-van-rijn-divide-by-three-using-shift-and-add/" type="text/html"/>
-      <source>
-        <id>https://royvanrijn.com/blog/2021/12/divide-by-three/</id>
-        <link href="https://royvanrijn.com/blog/2021/12/divide-by-three/"/>
-        <title>Divide by three using shift and add</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-        <updated>2021-12-31T08:01:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/roy-van-rijn-divide-by-three-using-shift-and-add/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Speed is a feature; thoughts on modern web performance</title>
         <author>
             <name>Andraž Bajt</name>
@@ -15778,30 +15130,6 @@
       </source>
 
     <id>https://news.cryptic.io/andra-bajt-speed-is-a-feature-thoughts-on-modern-web-performance/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Hex grid in single integer</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-    <published>2021-12-28T10:19:31+00:00</published>
-    <updated>2021-12-28T10:19:31+00:00</updated>
-    <link href="https://news.cryptic.io/roy-van-rijn-hex-grid-in-single-integer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/roy-van-rijn-hex-grid-in-single-integer/" type="text/html"/>
-      <source>
-        <id>https://royvanrijn.com/blog/2021/12/hex-grid-coordinates-in-a-single-integer/</id>
-        <link href="https://royvanrijn.com/blog/2021/12/hex-grid-coordinates-in-a-single-integer/"/>
-        <title>Hex grid in single integer</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-        <updated>2021-12-28T10:19:31+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/roy-van-rijn-hex-grid-in-single-integer/</id>
     <content type="html">
         
     </content>
@@ -15874,30 +15202,6 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-the-container-throttling-problem/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Log4Shell &#x2F; Leak4J</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-    <published>2021-12-14T08:12:31+00:00</published>
-    <updated>2021-12-14T08:12:31+00:00</updated>
-    <link href="https://news.cryptic.io/roy-van-rijn-log4shell-leak4j/"/>
-    <link rel="alternate" href="https://news.cryptic.io/roy-van-rijn-log4shell-leak4j/" type="text/html"/>
-      <source>
-        <id>https://royvanrijn.com/blog/2021/12/log4j2-rce-problem/</id>
-        <link href="https://royvanrijn.com/blog/2021/12/log4j2-rce-problem/"/>
-        <title>Log4Shell &#x2F; Leak4J</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-        <updated>2021-12-14T08:12:31+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/roy-van-rijn-log4shell-leak4j/</id>
     <content type="html">
         
     </content>
@@ -17410,30 +16714,6 @@
       </source>
 
     <id>https://news.cryptic.io/marco-nix-and-small-containers-with-docker-multistage-builds/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Sigh...</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-    <published>2020-05-14T10:42:11+00:00</published>
-    <updated>2020-05-14T10:42:11+00:00</updated>
-    <link href="https://news.cryptic.io/roy-van-rijn-sigh/"/>
-    <link rel="alternate" href="https://news.cryptic.io/roy-van-rijn-sigh/" type="text/html"/>
-      <source>
-        <id>https://royvanrijn.com/blog/2020/05/screw-you-world/</id>
-        <link href="https://royvanrijn.com/blog/2020/05/screw-you-world/"/>
-        <title>Sigh...</title>
-        <author>
-            <name>Roy van Rijn</name>
-        </author>
-        <updated>2020-05-14T10:42:11+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/roy-van-rijn-sigh/</id>
     <content type="html">
         
     </content>
