@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-06-06T04:46:15+00:00</updated>
+  <updated>2023-06-06T19:57:16+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The sneering of the wildnerness</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-06-06T19:57:16+00:00</published>
+    <updated>2023-06-06T19:57:16+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-the-sneering-of-the-wildnerness/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-the-sneering-of-the-wildnerness/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/tech-sneering-the-wildernesss-and-the-magic-of/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/tech-sneering-the-wildernesss-and-the-magic-of/"/>
+        <title>The sneering of the wildnerness</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-06-06T19:57:16+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-the-sneering-of-the-wildnerness/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>
       Tech debt metaphor maximalism
@@ -4426,30 +4450,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-a-readme-template-with-an-automatically-generated-table-of-contents/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I really like powershell</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-04-11T13:30:00+00:00</published>
-    <updated>2023-04-11T13:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-i-really-like-powershell/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-i-really-like-powershell/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/i-really-like-powershell/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/i-really-like-powershell/"/>
-        <title>I really like powershell</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-04-11T13:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-i-really-like-powershell/</id>
     <content type="html">
         
     </content>
