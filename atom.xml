@@ -131,54 +131,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Weeknotes: Parquet in Datasette Lite, various talks, more LLM hacking</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-06-04T21:14:27+00:00</published>
-    <updated>2023-06-04T21:14:27+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-weeknotes-parquet-in-datasette-lite-various-talks-more-llm-hacking/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-weeknotes-parquet-in-datasette-lite-various-talks-more-llm-hacking/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Jun/4/parquet-in-datasette-lite/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Jun/4/parquet-in-datasette-lite/#atom-entries"/>
-        <title>Weeknotes: Parquet in Datasette Lite, various talks, more LLM hacking</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-06-04T21:14:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-weeknotes-parquet-in-datasette-lite-various-talks-more-llm-hacking/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>It&#x27;s infuriatingly hard to understand how closed models train on their input</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-06-04T18:09:48+00:00</published>
-    <updated>2023-06-04T18:09:48+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-its-infuriatingly-hard-to-understand-how-closed-models-train-on-their-input/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-its-infuriatingly-hard-to-understand-how-closed-models-train-on-their-input/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/Jun/4/closed-model-training/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/Jun/4/closed-model-training/#atom-entries"/>
-        <title>It&#x27;s infuriatingly hard to understand how closed models train on their input</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-06-04T18:09:48+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-its-infuriatingly-hard-to-understand-how-closed-models-train-on-their-input/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>To-do</title>
         <author>
             <name>Robin Rendle</name>
@@ -659,30 +611,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>ChatGPT should include inline tips</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-05-30T19:23:27+00:00</published>
-    <updated>2023-05-30T19:23:27+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-chatgpt-should-include-inline-tips/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-chatgpt-should-include-inline-tips/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/May/30/chatgpt-inline-tips/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/May/30/chatgpt-inline-tips/#atom-entries"/>
-        <title>ChatGPT should include inline tips</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-05-30T19:23:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-chatgpt-should-include-inline-tips/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Browser Defaults We Throw Away</title>
         <author>
             <name>Jim Nielsen</name>
@@ -918,30 +846,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-thinking-about-decisions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Lawyer cites fake cases invented by ChatGPT, judge is not amused</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-05-27T19:09:50+00:00</published>
-    <updated>2023-05-27T19:09:50+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-lawyer-cites-fake-cases-invented-by-chatgpt-judge-is-not-amused/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-lawyer-cites-fake-cases-invented-by-chatgpt-judge-is-not-amused/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/May/27/lawyer-chatgpt/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/May/27/lawyer-chatgpt/#atom-entries"/>
-        <title>Lawyer cites fake cases invented by ChatGPT, judge is not amused</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-05-27T19:09:50+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-lawyer-cites-fake-cases-invented-by-chatgpt-judge-is-not-amused/</id>
     <content type="html">
         
     </content>
@@ -1643,30 +1547,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>llm, ttok and strip-tags - CLI tools for working with ChatGPT and other LLMs</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-05-18T21:04:01+00:00</published>
-    <updated>2023-05-18T21:04:01+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-llm-ttok-and-striptags-cli-tools-for-working-with-chatgpt-and-other-llms/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-llm-ttok-and-striptags-cli-tools-for-working-with-chatgpt-and-other-llms/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/May/18/cli-tools-for-llms/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/May/18/cli-tools-for-llms/#atom-entries"/>
-        <title>llm, ttok and strip-tags - CLI tools for working with ChatGPT and other LLMs</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-05-18T21:04:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-llm-ttok-and-striptags-cli-tools-for-working-with-chatgpt-and-other-llms/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Date and Time with a Static Site Generator</title>
         <author>
             <name>Jim Nielsen</name>
@@ -2190,54 +2070,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-problems-harder-than-npcomplete/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Delimiters won&#x27;t save you from prompt injection</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-05-11T15:51:10+00:00</published>
-    <updated>2023-05-11T15:51:10+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-delimiters-wont-save-you-from-prompt-injection/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-delimiters-wont-save-you-from-prompt-injection/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/May/11/delimiters-wont-save-you/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/May/11/delimiters-wont-save-you/#atom-entries"/>
-        <title>Delimiters won&#x27;t save you from prompt injection</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-05-11T15:51:10+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-delimiters-wont-save-you-from-prompt-injection/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Weeknotes: sqlite-utils 3.31, download-esm, Python in a sandbox</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-05-10T22:07:01+00:00</published>
-    <updated>2023-05-10T22:07:01+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-weeknotes-sqliteutils-331-downloadesm-python-in-a-sandbox/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-weeknotes-sqliteutils-331-downloadesm-python-in-a-sandbox/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/May/10/weeknotes/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/May/10/weeknotes/#atom-entries"/>
-        <title>Weeknotes: sqlite-utils 3.31, download-esm, Python in a sandbox</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-05-10T22:07:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-weeknotes-sqliteutils-331-downloadesm-python-in-a-sandbox/</id>
     <content type="html">
         
     </content>
@@ -2819,54 +2651,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Leaked Google document: &quot;We Have No Moat, And Neither Does OpenAI&quot;</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-05-04T16:05:35+00:00</published>
-    <updated>2023-05-04T16:05:35+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-leaked-google-document-we-have-no-moat-and-neither-does-openai/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-leaked-google-document-we-have-no-moat-and-neither-does-openai/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/May/4/no-moat/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/May/4/no-moat/#atom-entries"/>
-        <title>Leaked Google document: &quot;We Have No Moat, And Neither Does OpenAI&quot;</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-05-04T16:05:35+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-leaked-google-document-we-have-no-moat-and-neither-does-openai/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Midjourney 5.1</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-05-04T15:42:25+00:00</published>
-    <updated>2023-05-04T15:42:25+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-midjourney-51/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-midjourney-51/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/May/4/midjourney-51/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/May/4/midjourney-51/#atom-entries"/>
-        <title>Midjourney 5.1</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-05-04T15:42:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-midjourney-51/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Recent addenda to articles 202304: Inappropriate baseball team names and anagrams in Russian</title>
         <author>
             <name>Mark Dominus</name>
@@ -3006,30 +2790,6 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-redfall-somehow-they-made-vampires-boring/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Prompt injection explained, with video, slides, and a transcript</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-    <published>2023-05-02T20:22:21+00:00</published>
-    <updated>2023-05-02T20:22:21+00:00</updated>
-    <link href="https://news.cryptic.io/simon-willison-prompt-injection-explained-with-video-slides-and-a-transcript/"/>
-    <link rel="alternate" href="https://news.cryptic.io/simon-willison-prompt-injection-explained-with-video-slides-and-a-transcript/" type="text/html"/>
-      <source>
-        <id>http://simonwillison.net/2023/May/2/prompt-injection-explained/#atom-entries</id>
-        <link href="http://simonwillison.net/2023/May/2/prompt-injection-explained/#atom-entries"/>
-        <title>Prompt injection explained, with video, slides, and a transcript</title>
-        <author>
-            <name>Simon Willison</name>
-        </author>
-        <updated>2023-05-02T20:22:21+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/simon-willison-prompt-injection-explained-with-video-slides-and-a-transcript/</id>
     <content type="html">
         
     </content>
@@ -11434,30 +11194,6 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-chat-log-exhibits-from-twitter-v-musk-case/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-09-30T07:59:44+00:00</published>
-    <updated>2022-09-30T07:59:44+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1575757270591283201#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1575757270591283201#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-09-30T07:59:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
