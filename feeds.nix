@@ -425,8 +425,8 @@
     url = "https://matthiasott.com/rss";
   }
   {
-    name = "Simon Willison’s Weblog";
-    author = "Simon Willison";
-    url = "https://simonwillison.net/atom/entries/";
+    name = "frog hop";
+    author = "graydon2";
+    url = "https://graydon2.dreamwidth.org/data/rss";
   }
 ]
