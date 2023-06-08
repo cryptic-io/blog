@@ -4,8 +4,36 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-06-08T14:00:34+00:00</updated>
+  <updated>2023-06-08T14:43:18+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>
+      Tech debt metaphor maximalism
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+    <published>2023-06-08T14:43:18+00:00</published>
+    <updated>2023-06-08T14:43:18+00:00</updated>
+    <link href="https://news.cryptic.io/apenwarr-tech-debt-metaphor-maximalism/"/>
+    <link rel="alternate" href="https://news.cryptic.io/apenwarr-tech-debt-metaphor-maximalism/" type="text/html"/>
+      <source>
+        <id>https://apenwarr.ca/log/20230605</id>
+        <link href="https://apenwarr.ca/log/20230605"/>
+        <title>
+      Tech debt metaphor maximalism
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+        <updated>2023-06-08T14:43:18+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/apenwarr-tech-debt-metaphor-maximalism/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>How Raspberry Pis are made (Factory Tour)</title>
         <author>
@@ -122,34 +150,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-the-sneering-of-the-wilderness/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>
-      Tech debt metaphor maximalism
-    </title>
-        <author>
-            <name>apenwarr</name>
-        </author>
-    <published>2023-06-06T04:46:15+00:00</published>
-    <updated>2023-06-06T04:46:15+00:00</updated>
-    <link href="https://news.cryptic.io/apenwarr-tech-debt-metaphor-maximalism/"/>
-    <link rel="alternate" href="https://news.cryptic.io/apenwarr-tech-debt-metaphor-maximalism/" type="text/html"/>
-      <source>
-        <id>https://apenwarr.ca/log/20230605</id>
-        <link href="https://apenwarr.ca/log/20230605"/>
-        <title>
-      Tech debt metaphor maximalism
-    </title>
-        <author>
-            <name>apenwarr</name>
-        </author>
-        <updated>2023-06-06T04:46:15+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/apenwarr-tech-debt-metaphor-maximalism/</id>
     <content type="html">
         
     </content>
@@ -1734,30 +1734,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-spotify-and-the-bullshit-podcast-ads-situation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Manuel was annoyed</title>
-        <author>
-            <name>Manuel</name>
-        </author>
-    <published>2023-05-17T16:40:37+00:00</published>
-    <updated>2023-05-17T16:40:37+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-manuel-was-annoyed/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-manuel-was-annoyed/" type="text/html"/>
-      <source>
-        <id>https://annoying.technology/posts/fb12e19ed8f09522/</id>
-        <link href="https://annoying.technology/posts/fb12e19ed8f09522/"/>
-        <title>Manuel was annoyed</title>
-        <author>
-            <name>Manuel</name>
-        </author>
-        <updated>2023-05-17T16:40:37+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-manuel-was-annoyed/</id>
     <content type="html">
         
     </content>
@@ -10522,6 +10498,30 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-my-choice-of-operating-system/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Manuel was annoyed</title>
+        <author>
+            <name>Manuel</name>
+        </author>
+    <published>2022-10-25T19:14:42+00:00</published>
+    <updated>2022-10-25T19:14:42+00:00</updated>
+    <link href="https://news.cryptic.io/manuel-manuel-was-annoyed/"/>
+    <link rel="alternate" href="https://news.cryptic.io/manuel-manuel-was-annoyed/" type="text/html"/>
+      <source>
+        <id>https://annoying.technology/posts/2b75ad530f9d6c6a/</id>
+        <link href="https://annoying.technology/posts/2b75ad530f9d6c6a/"/>
+        <title>Manuel was annoyed</title>
+        <author>
+            <name>Manuel</name>
+        </author>
+        <updated>2022-10-25T19:14:42+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/manuel-manuel-was-annoyed/</id>
     <content type="html">
         
     </content>
