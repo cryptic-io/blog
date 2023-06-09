@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-06-09T17:05:57+00:00</updated>
+  <updated>2023-06-10T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Rambly rant about my Apple fan boy coworker and tech illiteracy</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2023-06-10T04:00:00+00:00</published>
+    <updated>2023-06-10T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-rambly-rant-about-my-apple-fan-boy-coworker-and-tech-illiteracy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-rambly-rant-about-my-apple-fan-boy-coworker-and-tech-illiteracy/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2023/06-10-rambly-rant-about-my-apple-fan-boy-coworker-and-tech-illiteracy.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2023/06-10-rambly-rant-about-my-apple-fan-boy-coworker-and-tech-illiteracy.gmi"/>
+        <title>Rambly rant about my Apple fan boy coworker and tech illiteracy</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2023-06-10T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-rambly-rant-about-my-apple-fan-boy-coworker-and-tech-illiteracy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Linotype Book Project</title>
         <author>
@@ -5362,30 +5386,6 @@
       </source>
 
     <id>https://news.cryptic.io/rohan-deshmukh-getting-started-with-selfhosting-part-2/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>FYI: Use X509 v3 certificates for Gemini capsules to comply with RFC 8446</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-03-19T04:00:00+00:00</published>
-    <updated>2023-03-19T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-fyi-use-x509-v3-certificates-for-gemini-capsules-to-comply-with-rfc-8446/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-fyi-use-x509-v3-certificates-for-gemini-capsules-to-comply-with-rfc-8446/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/03-19-fyi-use-x509-v3-for-gemini-capsules-to-comply-with-rfc.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/03-19-fyi-use-x509-v3-for-gemini-capsules-to-comply-with-rfc.gmi"/>
-        <title>FYI: Use X509 v3 certificates for Gemini capsules to comply with RFC 8446</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-03-19T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-fyi-use-x509-v3-certificates-for-gemini-capsules-to-comply-with-rfc-8446/</id>
     <content type="html">
         
     </content>
