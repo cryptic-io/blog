@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-06-10T09:00:00+00:00</updated>
+  <updated>2023-06-11T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Introduction to GNUnet GNS</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2023-06-11T04:00:00+00:00</published>
+    <updated>2023-06-11T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-introduction-to-gnunet-gns/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-introduction-to-gnunet-gns/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2023/06-11-introduction-to-gnunet-gns.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2023/06-11-introduction-to-gnunet-gns.gmi"/>
+        <title>Introduction to GNUnet GNS</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2023-06-11T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-introduction-to-gnunet-gns/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>How I blew up my backup server (Valve pls fix)</title>
         <author>
@@ -5218,30 +5242,6 @@
       </source>
 
     <id>https://news.cryptic.io/vitalik-buterin-how-will-ethereums-multiclient-philosophy-interact-with-zkevms/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Install The KDE Konsole terminal emulator on macOS</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-03-30T04:00:00+00:00</published>
-    <updated>2023-03-30T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-install-the-kde-konsole-terminal-emulator-on-macos/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-install-the-kde-konsole-terminal-emulator-on-macos/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/03-30-install-konsole-on-macos.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/03-30-install-konsole-on-macos.gmi"/>
-        <title>Install The KDE Konsole terminal emulator on macOS</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-03-30T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-install-the-kde-konsole-terminal-emulator-on-macos/</id>
     <content type="html">
         
     </content>
