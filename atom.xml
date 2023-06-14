@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-06-14T18:30:42+00:00</updated>
+  <updated>2023-06-14T20:39:26+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Typography is a service, not an art</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-06-14T20:39:26+00:00</published>
+    <updated>2023-06-14T20:39:26+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-typography-is-a-service-not-an-art/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-typography-is-a-service-not-an-art/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/typography-is-a-service-not-an-art/</id>
+        <link href="https://robinrendle.com/notes/typography-is-a-service-not-an-art/"/>
+        <title>Typography is a service, not an art</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-06-14T20:39:26+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-typography-is-a-service-not-an-art/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Some tests are stronger than others</title>
         <author>
@@ -4498,30 +4522,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-ellis-the-dog-hair-and-the-computer-mouse/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Syntax × Sentry</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-04-13T01:15:50+00:00</published>
-    <updated>2023-04-13T01:15:50+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-syntax-sentry/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-syntax-sentry/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/syntax-%C3%97-sentry/</id>
-        <link href="https://robinrendle.com/notes/syntax-%C3%97-sentry/"/>
-        <title>Syntax × Sentry</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-04-13T01:15:50+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-syntax-sentry/</id>
     <content type="html">
         
     </content>
