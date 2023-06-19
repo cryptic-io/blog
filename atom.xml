@@ -367,6 +367,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Chasing the Myth of Zero-Overhead Memory Safety (plus pictures of mythical birds!)</title>
+        <author>
+            <name>Evan Ovadia</name>
+        </author>
+    <published>2023-06-15T05:00:00+00:00</published>
+    <updated>2023-06-15T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/evan-ovadia-chasing-the-myth-of-zerooverhead-memory-safety-plus-pictures-of-mythical-birds/"/>
+    <link rel="alternate" href="https://news.cryptic.io/evan-ovadia-chasing-the-myth-of-zerooverhead-memory-safety-plus-pictures-of-mythical-birds/" type="text/html"/>
+      <source>
+        <id>https://verdagon.dev/blog/myth-zero-overhead-memory-safety</id>
+        <link href="https://verdagon.dev/blog/myth-zero-overhead-memory-safety"/>
+        <title>Chasing the Myth of Zero-Overhead Memory Safety (plus pictures of mythical birds!)</title>
+        <author>
+            <name>Evan Ovadia</name>
+        </author>
+        <updated>2023-06-15T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/evan-ovadia-chasing-the-myth-of-zerooverhead-memory-safety-plus-pictures-of-mythical-birds/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Single Ownership and Memory Safety without Borrow Checking, Reference Counting, or Garbage Collection</title>
         <author>
             <name>Evan Ovadia</name>
@@ -11026,30 +11050,6 @@
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-musings-on-serialised-storytelling/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>When to Use Memory Safe Languages, Part 1: Safety in Non-Memory-Safe Languages</title>
-        <author>
-            <name>Evan Ovadia</name>
-        </author>
-    <published>2022-10-07T14:15:00+00:00</published>
-    <updated>2022-10-07T14:15:00+00:00</updated>
-    <link href="https://news.cryptic.io/evan-ovadia-when-to-use-memory-safe-languages-part-1-safety-in-nonmemorysafe-languages/"/>
-    <link rel="alternate" href="https://news.cryptic.io/evan-ovadia-when-to-use-memory-safe-languages-part-1-safety-in-nonmemorysafe-languages/" type="text/html"/>
-      <source>
-        <id>https://verdagon.dev/blog/when-to-use-memory-safe-part-1</id>
-        <link href="https://verdagon.dev/blog/when-to-use-memory-safe-part-1"/>
-        <title>When to Use Memory Safe Languages, Part 1: Safety in Non-Memory-Safe Languages</title>
-        <author>
-            <name>Evan Ovadia</name>
-        </author>
-        <updated>2022-10-07T14:15:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/evan-ovadia-when-to-use-memory-safe-languages-part-1-safety-in-nonmemorysafe-languages/</id>
     <content type="html">
         
     </content>
