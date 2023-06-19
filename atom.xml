@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-06-18T21:29:00+00:00</updated>
+  <updated>2023-06-19T10:00:01+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Why I started (and stopped) making games</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2023-06-19T10:00:01+00:00</published>
+    <updated>2023-06-19T10:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-why-i-started-and-stopped-making-games/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-why-i-started-and-stopped-making-games/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/makinggames.html</id>
+        <link href="https://austinhenley.com/blog/makinggames.html"/>
+        <title>Why I started (and stopped) making games</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2023-06-19T10:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-why-i-started-and-stopped-making-games/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The New CSS</title>
         <author>
@@ -8458,30 +8482,6 @@
       </source>
 
     <id>https://news.cryptic.io/mechatronicsguy-lasercut-dnd-scenery/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The pain points of teaching computer science</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-    <published>2023-01-16T18:00:01+00:00</published>
-    <updated>2023-01-16T18:00:01+00:00</updated>
-    <link href="https://news.cryptic.io/austin-z-henley-the-pain-points-of-teaching-computer-science/"/>
-    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-the-pain-points-of-teaching-computer-science/" type="text/html"/>
-      <source>
-        <id>https://austinhenley.com/blog/teachingpainpoints.html</id>
-        <link href="https://austinhenley.com/blog/teachingpainpoints.html"/>
-        <title>The pain points of teaching computer science</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-        <updated>2023-01-16T18:00:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/austin-z-henley-the-pain-points-of-teaching-computer-science/</id>
     <content type="html">
         
     </content>
