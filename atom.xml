@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-06-21T14:57:30+00:00</updated>
+  <updated>2023-06-21T20:29:25+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Agile is people, the rest is commentary.</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-06-21T20:29:25+00:00</published>
+    <updated>2023-06-21T20:29:25+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-agile-is-people-the-rest-is-commentary/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-agile-is-people-the-rest-is-commentary/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/agile-is-people-the-rest-is-commentary/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/agile-is-people-the-rest-is-commentary/"/>
+        <title>Agile is people, the rest is commentary.</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-06-21T20:29:25+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-agile-is-people-the-rest-is-commentary/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>How I installed TrueNAS on my new ASUSTOR NAS</title>
         <author>
@@ -4278,30 +4302,6 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-what-would-a-map-of-your-career-look-like/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>GPT4 should be part of your toolkit</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-04-25T14:00:00+00:00</published>
-    <updated>2023-04-25T14:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-gpt4-should-be-part-of-your-toolkit/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-gpt4-should-be-part-of-your-toolkit/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/gpt4-should-be-part-of-your-toolkit/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/gpt4-should-be-part-of-your-toolkit/"/>
-        <title>GPT4 should be part of your toolkit</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-04-25T14:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-gpt4-should-be-part-of-your-toolkit/</id>
     <content type="html">
         
     </content>
