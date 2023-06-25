@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-06-24T18:33:05+00:00</updated>
+  <updated>2023-06-25T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Time is not a synchronization primitive</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-06-25T00:00:00+00:00</published>
+    <updated>2023-06-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-time-is-not-a-synchronization-primitive/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-time-is-not-a-synchronization-primitive/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/nosleep</id>
+        <link href="https://xeiaso.net/blog/nosleep"/>
+        <title>Time is not a synchronization primitive</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-06-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-time-is-not-a-synchronization-primitive/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Components and LEGOs</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-06-24T19:00:00+00:00</published>
+    <updated>2023-06-24T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-components-and-legos/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-components-and-legos/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/components-and-legos/</id>
+        <link href="https://blog.jim-nielsen.com/2023/components-and-legos/"/>
+        <title>Components and LEGOs</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-06-24T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-components-and-legos/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Fukuyama winning isn’t necessarily a good thing</title>
         <author>
@@ -1207,6 +1255,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The ElasticSearch Rant</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-06-10T00:00:00+00:00</published>
+    <updated>2023-06-10T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-the-elasticsearch-rant/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-the-elasticsearch-rant/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/elasticsearch</id>
+        <link href="https://xeiaso.net/blog/elasticsearch"/>
+        <title>The ElasticSearch Rant</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-06-10T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-the-elasticsearch-rant/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Pixel 4 ➔ 7</title>
         <author>
             <name>Tim Bray</name>
@@ -1427,6 +1499,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>How to enable API requests in Fresh</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-06-07T00:00:00+00:00</published>
+    <updated>2023-06-07T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-how-to-enable-api-requests-in-fresh/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-how-to-enable-api-requests-in-fresh/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/fresh-cors</id>
+        <link href="https://xeiaso.net/blog/fresh-cors"/>
+        <title>How to enable API requests in Fresh</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-06-07T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-how-to-enable-api-requests-in-fresh/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The sneering of the wilderness</title>
         <author>
             <name>Hillel Wayne</name>
@@ -1566,6 +1662,30 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-bees/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Anything can be a message queue if you use it wrongly enough</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-06-04T00:00:00+00:00</published>
+    <updated>2023-06-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-anything-can-be-a-message-queue-if-you-use-it-wrongly-enough/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-anything-can-be-a-message-queue-if-you-use-it-wrongly-enough/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/anything-message-queue</id>
+        <link href="https://xeiaso.net/blog/anything-message-queue"/>
+        <title>Anything can be a message queue if you use it wrongly enough</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-06-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-anything-can-be-a-message-queue-if-you-use-it-wrongly-enough/</id>
     <content type="html">
         
     </content>
@@ -2291,6 +2411,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Syncing my emulator saves with Syncthing</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-05-26T00:00:00+00:00</published>
+    <updated>2023-05-26T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-syncing-my-emulator-saves-with-syncthing/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-syncing-my-emulator-saves-with-syncthing/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/deck-yuzu-syncthing</id>
+        <link href="https://xeiaso.net/blog/deck-yuzu-syncthing"/>
+        <title>Syncing my emulator saves with Syncthing</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-05-26T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-syncing-my-emulator-saves-with-syncthing/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Answering machines</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -2670,30 +2814,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-view-transitions-api/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Get You Some Practical Accessibility</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-05-19T19:00:00+00:00</published>
-    <updated>2023-05-19T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-get-you-some-practical-accessibility/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-get-you-some-practical-accessibility/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/practical-accessibility/</id>
-        <link href="https://blog.jim-nielsen.com/2023/practical-accessibility/"/>
-        <title>Get You Some Practical Accessibility</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-05-19T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-get-you-some-practical-accessibility/</id>
     <content type="html">
         
     </content>
@@ -10450,30 +10570,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-will-the-ranting-on-this-website-ever-stop/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-10-30T05:27:58+00:00</published>
-    <updated>2022-10-30T05:27:58+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1586590713562615808#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1586590713562615808#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-10-30T05:27:58+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
