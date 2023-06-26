@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-06-25T00:00:00+00:00</updated>
+  <updated>2023-06-26T13:59:30+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>I&#x27;m done with Red Hat (Enterprise Linux)</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2023-06-26T13:59:30+00:00</published>
+    <updated>2023-06-26T13:59:30+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-im-done-with-red-hat-enterprise-linux/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-im-done-with-red-hat-enterprise-linux/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2023/im-done-red-hat-enterprise-linux</id>
+        <link href="https://www.jeffgeerling.com/blog/2023/im-done-red-hat-enterprise-linux"/>
+        <title>I&#x27;m done with Red Hat (Enterprise Linux)</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2023-06-26T13:59:30+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-im-done-with-red-hat-enterprise-linux/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Time is not a synchronization primitive</title>
         <author>
@@ -4134,30 +4158,6 @@
       </source>
 
     <id>https://news.cryptic.io/manuel-template-rendering-in-go-a-software-optimization-tale/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>First look: ASUSTOR&#x27;s new 12-bay all-M.2 NVMe SSD NAS</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2023-05-01T00:10:52+00:00</published>
-    <updated>2023-05-01T00:10:52+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-first-look-asustors-new-12bay-allm2-nvme-ssd-nas/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-first-look-asustors-new-12bay-allm2-nvme-ssd-nas/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2023/first-look-asustors-new-12-bay-all-m2-nvme-ssd-nas</id>
-        <link href="https://www.jeffgeerling.com/blog/2023/first-look-asustors-new-12-bay-all-m2-nvme-ssd-nas"/>
-        <title>First look: ASUSTOR&#x27;s new 12-bay all-M.2 NVMe SSD NAS</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2023-05-01T00:10:52+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-first-look-asustors-new-12bay-allm2-nvme-ssd-nas/</id>
     <content type="html">
         
     </content>
@@ -10570,6 +10570,30 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-will-the-ranting-on-this-website-ever-stop/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+    <published>2022-10-30T05:27:58+00:00</published>
+    <updated>2022-10-30T05:27:58+00:00</updated>
+    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
+    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
+      <source>
+        <id>https://nitter.net/GranolaShotgun/status/1586590713562615808#m</id>
+        <link href="https://nitter.net/GranolaShotgun/status/1586590713562615808#m"/>
+        <title>granolashotgun.com&#x2F;granolash…</title>
+        <author>
+            <name>Johnny Sanphillippo</name>
+        </author>
+        <updated>2022-10-30T05:27:58+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
