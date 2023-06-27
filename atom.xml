@@ -4,32 +4,8 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-06-27T04:07:00+00:00</updated>
+  <updated>2023-06-27T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
-  <entry xml:lang="en">
-    <title>The Experiences of People Running Mastodon Servers Suggest a Bumpy Road Ahead</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-06-27T04:07:00+00:00</published>
-    <updated>2023-06-27T04:07:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-the-experiences-of-people-running-mastodon-servers-suggest-a-bumpy-road-ahead/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-experiences-of-people-running-mastodon-servers-suggest-a-bumpy-road-ahead/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/mastodon-servers.html</id>
-        <link href="https://cheapskatesguide.org/articles/mastodon-servers.html"/>
-        <title>The Experiences of People Running Mastodon Servers Suggest a Bumpy Road Ahead</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-06-27T04:07:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-the-experiences-of-people-running-mastodon-servers-suggest-a-bumpy-road-ahead/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
   <entry xml:lang="en">
     <title>Backups of RK3588 TRM and Datasheet (on the decentralized web)</title>
         <author>
@@ -50,6 +26,30 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-backups-of-rk3588-trm-and-datasheet-on-the-decentralized-web/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>My stupid noise journey</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+    <published>2023-06-27T00:00:00+00:00</published>
+    <updated>2023-06-27T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dynomight-my-stupid-noise-journey/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dynomight-my-stupid-noise-journey/" type="text/html"/>
+      <source>
+        <id>https://dynomight.net/noise/</id>
+        <link href="https://dynomight.net/noise/"/>
+        <title>My stupid noise journey</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+        <updated>2023-06-27T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dynomight-my-stupid-noise-journey/</id>
     <content type="html">
         
     </content>
@@ -1159,30 +1159,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Automatic Software Updates: Blessing or Curse?</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-06-13T04:09:00+00:00</published>
-    <updated>2023-06-13T04:09:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-automatic-software-updates-blessing-or-curse/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-automatic-software-updates-blessing-or-curse/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/automatic-software-updates.html</id>
-        <link href="https://cheapskatesguide.org/articles/automatic-software-updates.html"/>
-        <title>Automatic Software Updates: Blessing or Curse?</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-06-13T04:09:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-automatic-software-updates-blessing-or-curse/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Please stop writing email like mail</title>
         <author>
             <name>Tyler Cipriani</name>
@@ -1883,30 +1859,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Beginning as Soon as July 15th, this Website will Block the SpaceCowboy Android RSS Feed Reader App.</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-06-02T12:20:00+00:00</published>
-    <updated>2023-06-02T12:20:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-beginning-as-soon-as-july-15th-this-website-will-block-the-spacecowboy-android-rss-feed-reader-app/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-beginning-as-soon-as-july-15th-this-website-will-block-the-spacecowboy-android-rss-feed-reader-app/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/spacecowboy.html</id>
-        <link href="https://cheapskatesguide.org/articles/spacecowboy.html"/>
-        <title>Beginning as Soon as July 15th, this Website will Block the SpaceCowboy Android RSS Feed Reader App.</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-06-02T12:20:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-beginning-as-soon-as-july-15th-this-website-will-block-the-spacecowboy-android-rss-feed-reader-app/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The Worst Zig Version Manager</title>
         <author>
             <name>Alex Kladov</name>
@@ -2099,30 +2051,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>On the Poor Writing Found on Most Personal Websites, and the Few Shining Exceptions</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2023-05-31T11:59:00+00:00</published>
-    <updated>2023-05-31T11:59:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/personal-websites-and-writing.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/personal-websites-and-writing.html"/>
-        <title>On the Poor Writing Found on Most Personal Websites, and the Few Shining Exceptions</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2023-05-31T11:59:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How Leaders Manage Time &amp; Attention</title>
         <author>
             <name>Allen Pike</name>
@@ -2190,30 +2118,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-browser-defaults-we-throw-away/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Birth and Death of the Yesterweb Forum Reveal Two Important Truths</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-05-30T02:59:00+00:00</published>
-    <updated>2023-05-30T02:59:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-the-birth-and-death-of-the-yesterweb-forum-reveal-two-important-truths/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-birth-and-death-of-the-yesterweb-forum-reveal-two-important-truths/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/yesterweb.html</id>
-        <link href="https://cheapskatesguide.org/articles/yesterweb.html"/>
-        <title>The Birth and Death of the Yesterweb Forum Reveal Two Important Truths</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-05-30T02:59:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-the-birth-and-death-of-the-yesterweb-forum-reveal-two-important-truths/</id>
     <content type="html">
         
     </content>
@@ -3198,30 +3102,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-writing-fragments-and-the-memex-method/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Surfing Gemini, Gopher, and the Web on a Raspberry Pi 3B Computer</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-05-16T05:55:00+00:00</published>
-    <updated>2023-05-16T05:55:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-surfing-gemini-gopher-and-the-web-on-a-raspberry-pi-3b-computer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-surfing-gemini-gopher-and-the-web-on-a-raspberry-pi-3b-computer/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/surfing-on-a-pi.html</id>
-        <link href="https://cheapskatesguide.org/articles/surfing-on-a-pi.html"/>
-        <title>Surfing Gemini, Gopher, and the Web on a Raspberry Pi 3B Computer</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-05-16T05:55:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-surfing-gemini-gopher-and-the-web-on-a-raspberry-pi-3b-computer/</id>
     <content type="html">
         
     </content>
@@ -8127,30 +8007,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Winner take all science</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-    <published>2023-01-19T00:00:00+00:00</published>
-    <updated>2023-01-19T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dynomight-winner-take-all-science/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dynomight-winner-take-all-science/" type="text/html"/>
-      <source>
-        <id>https://dynomight.net/wta-science/</id>
-        <link href="https://dynomight.net/wta-science/"/>
-        <title>Winner take all science</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-        <updated>2023-01-19T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dynomight-winner-take-all-science/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How to build a nostr gm bot</title>
         <author>
             <name>Gigi</name>
@@ -8722,30 +8578,6 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-gardens-games-and-engravings/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2023-01-01T12:00:00+00:00</published>
-    <updated>2023-01-01T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/beware-help.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/beware-help.html"/>
-        <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2023-01-01T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/</id>
     <content type="html">
         
     </content>
@@ -10167,30 +9999,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Idyllic Life</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-11-05T12:04:00+00:00</published>
-    <updated>2022-11-05T12:04:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-idyllic-life/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-idyllic-life/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/idyllic-life.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/idyllic-life.html"/>
-        <title>Idyllic Life</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-11-05T12:04:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-idyllic-life/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The heavy responsibility of the package maintainer</title>
         <author>
             <name>unixsheikh</name>
@@ -10354,30 +10162,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-will-the-ranting-on-this-website-ever-stop/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-    <published>2022-10-30T05:27:58+00:00</published>
-    <updated>2022-10-30T05:27:58+00:00</updated>
-    <link href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/"/>
-    <link rel="alternate" href="https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/" type="text/html"/>
-      <source>
-        <id>https://nitter.net/GranolaShotgun/status/1586590713562615808#m</id>
-        <link href="https://nitter.net/GranolaShotgun/status/1586590713562615808#m"/>
-        <title>granolashotgun.com&#x2F;granolash…</title>
-        <author>
-            <name>Johnny Sanphillippo</name>
-        </author>
-        <updated>2022-10-30T05:27:58+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/johnny-sanphillippo-granolashotguncomgranolash/</id>
     <content type="html">
         
     </content>
@@ -11631,30 +11415,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-08-31T13:19:00+00:00</published>
-    <updated>2022-08-31T13:19:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html"/>
-        <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-08-31T13:19:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Webscraping on hard mode with Purescript </title>
         <author>
             <name>Chris Kiehl</name>
@@ -12874,30 +12634,6 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-guide-to-submitting-pull-requests/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Computers Were Not Meant to be Screwdrivers</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-05-28T10:34:00+00:00</published>
-    <updated>2022-05-28T10:34:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/computers-and-screwdrivers.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/computers-and-screwdrivers.html"/>
-        <title>Computers Were Not Meant to be Screwdrivers</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-05-28T10:34:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/</id>
     <content type="html">
         
     </content>
