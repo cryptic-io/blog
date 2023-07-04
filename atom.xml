@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Seriously, don&#x27;t sign a CLA</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2023-07-04T00:00:00+00:00</published>
+    <updated>2023-07-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-seriously-dont-sign-a-cla/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-seriously-dont-sign-a-cla/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2023/07/04/Dont-sign-a-CLA-2.html</id>
+        <link href="https://drewdevault.com/2023/07/04/Dont-sign-a-CLA-2.html"/>
+        <title>Seriously, don&#x27;t sign a CLA</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2023-07-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-seriously-dont-sign-a-cla/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Ampere Altra Max - Windows, GPUs, and Gaming</title>
         <author>
             <name>Jeff Geerling</name>
@@ -5674,30 +5698,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-can-you-trust-a-compiler-to-optimize-your-code/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Writing Helios drivers in the Mercury driver environment</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-    <published>2023-04-08T00:00:00+00:00</published>
-    <updated>2023-04-08T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/drew-devault-writing-helios-drivers-in-the-mercury-driver-environment/"/>
-    <link rel="alternate" href="https://news.cryptic.io/drew-devault-writing-helios-drivers-in-the-mercury-driver-environment/" type="text/html"/>
-      <source>
-        <id>https://drewdevault.com/2023/04/08/2023-04-08-Drivers-and-mercury.html</id>
-        <link href="https://drewdevault.com/2023/04/08/2023-04-08-Drivers-and-mercury.html"/>
-        <title>Writing Helios drivers in the Mercury driver environment</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-        <updated>2023-04-08T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/drew-devault-writing-helios-drivers-in-the-mercury-driver-environment/</id>
     <content type="html">
         
     </content>
