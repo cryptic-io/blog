@@ -79,6 +79,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Room Temperature</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-07-05T00:00:00+00:00</published>
+    <updated>2023-07-05T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-room-temperature/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-room-temperature/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2798/</id>
+        <link href="https://xkcd.com/2798/"/>
+        <title>Room Temperature</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-07-05T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-room-temperature/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Passwords are fine</title>
         <author>
             <name>herman</name>
@@ -818,30 +842,6 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-nets-underrated-configuration-feature/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Alphabet Notes</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-06-26T00:00:00+00:00</published>
-    <updated>2023-06-26T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-alphabet-notes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-alphabet-notes/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2794/</id>
-        <link href="https://xkcd.com/2794/"/>
-        <title>Alphabet Notes</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-06-26T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-alphabet-notes/</id>
     <content type="html">
         
     </content>
