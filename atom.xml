@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-07-08T22:00:00+00:00</updated>
+  <updated>2023-07-09T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Ceci n’est pas une licence</title>
+        <author>
+            <name>iliana etaoin</name>
+        </author>
+    <published>2023-07-09T19:00:00+00:00</published>
+    <updated>2023-07-09T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/iliana-etaoin-ceci-nest-pas-une-licence/"/>
+    <link rel="alternate" href="https://news.cryptic.io/iliana-etaoin-ceci-nest-pas-une-licence/" type="text/html"/>
+      <source>
+        <id>https://iliana.fyi/treachery/</id>
+        <link href="https://iliana.fyi/treachery/"/>
+        <title>Ceci n’est pas une licence</title>
+        <author>
+            <name>iliana etaoin</name>
+        </author>
+        <updated>2023-07-09T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/iliana-etaoin-ceci-nest-pas-une-licence/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>I am not a writer</title>
         <author>
@@ -16854,30 +16878,6 @@
       </source>
 
     <id>https://news.cryptic.io/carl-svensson-rss-feed/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Identity fluidity and keysmashing</title>
-        <author>
-            <name>iliana etaoin</name>
-        </author>
-    <published>2020-07-02T19:00:00+00:00</published>
-    <updated>2020-07-02T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/iliana-etaoin-identity-fluidity-and-keysmashing/"/>
-    <link rel="alternate" href="https://news.cryptic.io/iliana-etaoin-identity-fluidity-and-keysmashing/" type="text/html"/>
-      <source>
-        <id>https://iliana.fyi/blog/etaoin/</id>
-        <link href="https://iliana.fyi/blog/etaoin/"/>
-        <title>Identity fluidity and keysmashing</title>
-        <author>
-            <name>iliana etaoin</name>
-        </author>
-        <updated>2020-07-02T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/iliana-etaoin-identity-fluidity-and-keysmashing/</id>
     <content type="html">
         
     </content>
