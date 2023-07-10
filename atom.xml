@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-07-10T02:13:00+00:00</updated>
+  <updated>2023-07-10T14:00:19+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Building a tiny 6-drive M.2 NAS with the Rock 5 model B</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2023-07-10T14:00:19+00:00</published>
+    <updated>2023-07-10T14:00:19+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-building-a-tiny-6drive-m2-nas-with-the-rock-5-model-b/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-building-a-tiny-6drive-m2-nas-with-the-rock-5-model-b/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2023/building-tiny-6-drive-m2-nas-rock-5-model-b</id>
+        <link href="https://www.jeffgeerling.com/blog/2023/building-tiny-6-drive-m2-nas-rock-5-model-b"/>
+        <title>Building a tiny 6-drive M.2 NAS with the Rock 5 model B</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2023-07-10T14:00:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-building-a-tiny-6drive-m2-nas-with-the-rock-5-model-b/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Rebels Using Mastodon to Fight the Empire&#x27;s Enslavement of Social Media Users</title>
         <author>
@@ -2502,30 +2526,6 @@
       </source>
 
     <id>https://news.cryptic.io/apenwarr-tech-debt-metaphor-maximalism/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How Raspberry Pis are made (Factory Tour)</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2023-06-08T14:00:34+00:00</published>
-    <updated>2023-06-08T14:00:34+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-how-raspberry-pis-are-made-factory-tour/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-how-raspberry-pis-are-made-factory-tour/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2023/how-raspberry-pis-are-made-factory-tour</id>
-        <link href="https://www.jeffgeerling.com/blog/2023/how-raspberry-pis-are-made-factory-tour"/>
-        <title>How Raspberry Pis are made (Factory Tour)</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2023-06-08T14:00:34+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-how-raspberry-pis-are-made-factory-tour/</id>
     <content type="html">
         
     </content>
