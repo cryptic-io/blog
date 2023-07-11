@@ -1012,10 +1012,6 @@
         <lastmod>2023-05-02T17:15:00Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/evan-ovadia-implementing-a-new-memory-safety-approach-part-1/</loc>
-        <lastmod>2022-11-22T14:15:00Z</lastmod>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/evan-ovadia-making-c-memorysafe-without-borrow-checking-reference-counting-or-tracing-garbage-collection/</loc>
         <lastmod>2023-06-22T05:00:00Z</lastmod>
     </url>
@@ -1026,6 +1022,10 @@
     <url>
         <loc>https://news.cryptic.io/evan-ovadia-the-link-between-generics-compile-times-typeerasure-cloud-building-and-hotcode-reloading/</loc>
         <lastmod>2023-06-09T05:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/evan-ovadia-vales-first-prototype-for-immutable-region-borrowing/</loc>
+        <lastmod>2023-07-11T05:00:00Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/evan-ovadia-what-vale-taught-me-about-linear-types-borrowing-and-memory-safety/</loc>

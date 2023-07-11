@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Vale&#x27;s First Prototype for Immutable Region Borrowing</title>
+        <author>
+            <name>Evan Ovadia</name>
+        </author>
+    <published>2023-07-11T05:00:00+00:00</published>
+    <updated>2023-07-11T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/evan-ovadia-vales-first-prototype-for-immutable-region-borrowing/"/>
+    <link rel="alternate" href="https://news.cryptic.io/evan-ovadia-vales-first-prototype-for-immutable-region-borrowing/" type="text/html"/>
+      <source>
+        <id>https://verdagon.dev/blog/first-regions-prototype</id>
+        <link href="https://verdagon.dev/blog/first-regions-prototype"/>
+        <title>Vale&#x27;s First Prototype for Immutable Region Borrowing</title>
+        <author>
+            <name>Evan Ovadia</name>
+        </author>
+        <updated>2023-07-11T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/evan-ovadia-vales-first-prototype-for-immutable-region-borrowing/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>
       Systems design 2: What we hope we know
     </title>
@@ -9922,30 +9946,6 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-thoughts-on-mastodon/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Implementing a New Memory Safety Approach, Part 1</title>
-        <author>
-            <name>Evan Ovadia</name>
-        </author>
-    <published>2022-11-22T14:15:00+00:00</published>
-    <updated>2022-11-22T14:15:00+00:00</updated>
-    <link href="https://news.cryptic.io/evan-ovadia-implementing-a-new-memory-safety-approach-part-1/"/>
-    <link rel="alternate" href="https://news.cryptic.io/evan-ovadia-implementing-a-new-memory-safety-approach-part-1/" type="text/html"/>
-      <source>
-        <id>https://verdagon.dev/blog/making-regions-part-1-human-factor</id>
-        <link href="https://verdagon.dev/blog/making-regions-part-1-human-factor"/>
-        <title>Implementing a New Memory Safety Approach, Part 1</title>
-        <author>
-            <name>Evan Ovadia</name>
-        </author>
-        <updated>2022-11-22T14:15:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/evan-ovadia-implementing-a-new-memory-safety-approach-part-1/</id>
     <content type="html">
         
     </content>
