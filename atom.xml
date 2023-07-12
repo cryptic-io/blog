@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-07-11T19:00:00+00:00</updated>
+  <updated>2023-07-12T08:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Catching mistakes earlier</title>
+        <author>
+            <name>Charlie Andrews</name>
+        </author>
+    <published>2023-07-12T08:00:00+00:00</published>
+    <updated>2023-07-12T08:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/charlie-andrews-catching-mistakes-earlier/"/>
+    <link rel="alternate" href="https://news.cryptic.io/charlie-andrews-catching-mistakes-earlier/" type="text/html"/>
+      <source>
+        <id>https://www.zeptonaut.com/posts/catching-mistakes-earlier/</id>
+        <link href="https://www.zeptonaut.com/posts/catching-mistakes-earlier/"/>
+        <title>Catching mistakes earlier</title>
+        <author>
+            <name>Charlie Andrews</name>
+        </author>
+        <updated>2023-07-12T08:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/charlie-andrews-catching-mistakes-earlier/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Stop Being Fancy</title>
         <author>
@@ -13690,30 +13714,6 @@
       </source>
 
     <id>https://news.cryptic.io/andersource-i-cant-let-go-of-the-dunningkruger-effect-is-autocorrelation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why is selling software so weird?</title>
-        <author>
-            <name>Charlie Andrews</name>
-        </author>
-    <published>2022-04-13T04:00:00+00:00</published>
-    <updated>2022-04-13T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/charlie-andrews-why-is-selling-software-so-weird/"/>
-    <link rel="alternate" href="https://news.cryptic.io/charlie-andrews-why-is-selling-software-so-weird/" type="text/html"/>
-      <source>
-        <id>https://www.zeptonaut.com/posts/selling-software-is-weird/</id>
-        <link href="https://www.zeptonaut.com/posts/selling-software-is-weird/"/>
-        <title>Why is selling software so weird?</title>
-        <author>
-            <name>Charlie Andrews</name>
-        </author>
-        <updated>2022-04-13T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/charlie-andrews-why-is-selling-software-so-weird/</id>
     <content type="html">
         
     </content>
