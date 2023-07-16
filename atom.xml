@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Three Different Cuts</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2023-07-16T00:00:00+00:00</published>
+    <updated>2023-07-16T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-three-different-cuts/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-three-different-cuts/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2023/07/16/three-different-cuts.html</id>
+        <link href="https://matklad.github.io/2023/07/16/three-different-cuts.html"/>
+        <title>Three Different Cuts</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2023-07-16T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-three-different-cuts/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>I don&#x27;t know how I feel about email</title>
         <author>
             <name>Xe Iaso</name>
@@ -6346,30 +6370,6 @@
       </source>
 
     <id>https://news.cryptic.io/vitalik-buterin-how-will-ethereums-multiclient-philosophy-interact-with-zkevms/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Rust Is a Scalable Language</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2023-03-28T00:00:00+00:00</published>
-    <updated>2023-03-28T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-rust-is-a-scalable-language/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-rust-is-a-scalable-language/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html</id>
-        <link href="https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html"/>
-        <title>Rust Is a Scalable Language</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2023-03-28T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-rust-is-a-scalable-language/</id>
     <content type="html">
         
     </content>
