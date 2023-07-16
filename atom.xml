@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-07-16T00:00:00+00:00</updated>
+  <updated>2023-07-16T17:53:26.281+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Go time&#x27;s &quot;Neurodiverse Gophers&quot; episode - a critique</title>
+        <author>
+            <name>manuel</name>
+        </author>
+    <published>2023-07-16T17:53:26.281+00:00</published>
+    <updated>2023-07-16T17:53:26.281+00:00</updated>
+    <link href="https://news.cryptic.io/manuel-go-times-neurodiverse-gophers-episode-a-critique/"/>
+    <link rel="alternate" href="https://news.cryptic.io/manuel-go-times-neurodiverse-gophers-episode-a-critique/" type="text/html"/>
+      <source>
+        <id>https://the.scapegoat.dev/go-times-neurodiverse-gophers-episode-a-critique/</id>
+        <link href="https://the.scapegoat.dev/go-times-neurodiverse-gophers-episode-a-critique/"/>
+        <title>Go time&#x27;s &quot;Neurodiverse Gophers&quot; episode - a critique</title>
+        <author>
+            <name>manuel</name>
+        </author>
+        <updated>2023-07-16T17:53:26.281+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/manuel-go-times-neurodiverse-gophers-episode-a-critique/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>I don&#x27;t know how I feel about email</title>
         <author>
@@ -6442,30 +6466,6 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-tiered-storage-use-the-right-tool-for-the-job/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>GPT3 QUINE GPT3 QUINE GPT3 QUINE GPT3 QUINE GPT3 QUINE GPT3 QUINE GPT3 QUINE GPT3 QUINE GPT3 QUINE</title>
-        <author>
-            <name>manuel</name>
-        </author>
-    <published>2023-03-25T21:19:12.797+00:00</published>
-    <updated>2023-03-25T21:19:12.797+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine/" type="text/html"/>
-      <source>
-        <id>https://the.scapegoat.dev/gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine/</id>
-        <link href="https://the.scapegoat.dev/gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine/"/>
-        <title>GPT3 QUINE GPT3 QUINE GPT3 QUINE GPT3 QUINE GPT3 QUINE GPT3 QUINE GPT3 QUINE GPT3 QUINE GPT3 QUINE</title>
-        <author>
-            <name>manuel</name>
-        </author>
-        <updated>2023-03-25T21:19:12.797+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine-gpt3-quine/</id>
     <content type="html">
         
     </content>
