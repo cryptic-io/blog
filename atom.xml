@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-07-16T17:53:26.281+00:00</updated>
+  <updated>2023-07-17T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>WHO aspartame brouhaha</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+    <published>2023-07-17T00:00:00+00:00</published>
+    <updated>2023-07-17T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dynomight-who-aspartame-brouhaha/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dynomight-who-aspartame-brouhaha/" type="text/html"/>
+      <source>
+        <id>https://dynomight.net/aspartame-brouhaha/</id>
+        <link href="https://dynomight.net/aspartame-brouhaha/"/>
+        <title>WHO aspartame brouhaha</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+        <updated>2023-07-17T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dynomight-who-aspartame-brouhaha/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Go time&#x27;s &quot;Neurodiverse Gophers&quot; episode - a critique</title>
         <author>
@@ -7426,30 +7450,6 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-looked-at-this-site-on-the-wayback-machine/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>First-principles on AI scaling</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-    <published>2023-03-06T00:00:00+00:00</published>
-    <updated>2023-03-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dynomight-firstprinciples-on-ai-scaling/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dynomight-firstprinciples-on-ai-scaling/" type="text/html"/>
-      <source>
-        <id>https://dynomight.net/scaling/</id>
-        <link href="https://dynomight.net/scaling/"/>
-        <title>First-principles on AI scaling</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-        <updated>2023-03-06T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dynomight-firstprinciples-on-ai-scaling/</id>
     <content type="html">
         
     </content>
