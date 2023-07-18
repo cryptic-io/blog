@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-07-18T19:00:00+00:00</updated>
+  <updated>2023-07-18T22:13:55+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>More Software Projects need Defenses of Design</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-07-18T22:13:55+00:00</published>
+    <updated>2023-07-18T22:13:55+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-more-software-projects-need-defenses-of-design/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-more-software-projects-need-defenses-of-design/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/"/>
+        <title>More Software Projects need Defenses of Design</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-07-18T22:13:55+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-more-software-projects-need-defenses-of-design/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Mimestream</title>
         <author>
@@ -4186,30 +4210,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-more-notes-about-pain-as-a-game-mechanic/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Mostly announcements and plans but also some fun floating point trivia</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-05-16T21:35:27+00:00</published>
-    <updated>2023-05-16T21:35:27+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-mostly-announcements-and-plans-but-also-some-fun-floating-point-trivia/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-mostly-announcements-and-plans-but-also-some-fun-floating-point-trivia/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/mostly-announcements-and-plans-but-also-some-fun/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/mostly-announcements-and-plans-but-also-some-fun/"/>
-        <title>Mostly announcements and plans but also some fun floating point trivia</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-05-16T21:35:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-mostly-announcements-and-plans-but-also-some-fun-floating-point-trivia/</id>
     <content type="html">
         
     </content>
