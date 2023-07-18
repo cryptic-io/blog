@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-07-17T00:00:00+00:00</updated>
+  <updated>2023-07-18T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Mimestream</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2023-07-18T19:00:00+00:00</published>
+    <updated>2023-07-18T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-mimestream/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-mimestream/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2023/07/18/Mimestream</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2023/07/18/Mimestream"/>
+        <title>Mimestream</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2023-07-18T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-mimestream/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>WHO aspartame brouhaha</title>
         <author>
@@ -4570,30 +4594,6 @@
       </source>
 
     <id>https://news.cryptic.io/fbifemboy-estimated-iq-distribution-of-children-given-iq-of-parents/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Blog Previews</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2023-05-08T19:00:00+00:00</published>
-    <updated>2023-05-08T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-blog-previews/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-blog-previews/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2023/05/08/Blog-Preview</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2023/05/08/Blog-Preview"/>
-        <title>Blog Previews</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2023-05-08T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-blog-previews/</id>
     <content type="html">
         
     </content>
