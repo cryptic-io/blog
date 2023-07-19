@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-07-18T22:13:55+00:00</updated>
+  <updated>2023-07-19T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Marshmallow</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-07-19T00:00:00+00:00</published>
+    <updated>2023-07-19T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-marshmallow/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-marshmallow/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2804/</id>
+        <link href="https://xkcd.com/2804/"/>
+        <title>Marshmallow</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-07-19T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-marshmallow/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>More Software Projects need Defenses of Design</title>
         <author>
@@ -658,30 +682,6 @@
       </source>
 
     <id>https://news.cryptic.io/cheapskate-rebels-using-mastodon-to-fight-the-empires-enslavement-of-social-media-users/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Down</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-07-10T00:00:00+00:00</published>
-    <updated>2023-07-10T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-down/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-down/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2800/</id>
-        <link href="https://xkcd.com/2800/"/>
-        <title>Down</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-07-10T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-down/</id>
     <content type="html">
         
     </content>
