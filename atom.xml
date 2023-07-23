@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-07-22T06:07:20+00:00</updated>
+  <updated>2023-07-23T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Laniakea Books: Public domain books for everyone</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+    <published>2023-07-23T00:00:00+00:00</published>
+    <updated>2023-07-23T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/nutcroft-laniakea-books-public-domain-books-for-everyone/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nutcroft-laniakea-books-public-domain-books-for-everyone/" type="text/html"/>
+      <source>
+        <id>https://nutcroft.mataroa.blog/blog/laniakea-books-public-domain-books-for-everyone/</id>
+        <link href="https://nutcroft.mataroa.blog/blog/laniakea-books-public-domain-books-for-everyone/"/>
+        <title>Laniakea Books: Public domain books for everyone</title>
+        <author>
+            <name>nutcroft</name>
+        </author>
+        <updated>2023-07-23T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nutcroft-laniakea-books-public-domain-books-for-everyone/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Clearing up FUD surrounding Red Hat&#x27;s actions</title>
         <author>
@@ -8530,30 +8554,6 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-the-magic-of-small-databases/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Analysing The White Lotus — Season 1</title>
-        <author>
-            <name>nutcroft</name>
-        </author>
-    <published>2023-01-24T00:00:00+00:00</published>
-    <updated>2023-01-24T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/nutcroft-analysing-the-white-lotus-season-1/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nutcroft-analysing-the-white-lotus-season-1/" type="text/html"/>
-      <source>
-        <id>https://nutcroft.mataroa.blog/blog/the-white-lotus-season-1/</id>
-        <link href="https://nutcroft.mataroa.blog/blog/the-white-lotus-season-1/"/>
-        <title>Analysing The White Lotus — Season 1</title>
-        <author>
-            <name>nutcroft</name>
-        </author>
-        <updated>2023-01-24T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nutcroft-analysing-the-white-lotus-season-1/</id>
     <content type="html">
         
     </content>
