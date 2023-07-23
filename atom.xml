@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-07-23T00:00:00+00:00</updated>
+  <updated>2023-07-23T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>New Public Service: Publically Accessible GNUnet Hostlist</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2023-07-23T04:00:00+00:00</published>
+    <updated>2023-07-23T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-new-public-service-publically-accessible-gnunet-hostlist/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-new-public-service-publically-accessible-gnunet-hostlist/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2023/07-23-new-public-service-publically-accessible-gnunet-hostlist.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2023/07-23-new-public-service-publically-accessible-gnunet-hostlist.gmi"/>
+        <title>New Public Service: Publically Accessible GNUnet Hostlist</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2023-07-23T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-new-public-service-publically-accessible-gnunet-hostlist/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Laniakea Books: Public domain books for everyone</title>
         <author>
@@ -3826,30 +3850,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-hieroglyphic-monkeys-holding-stuff/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Subsystems in GNUnet and using them in GNUnet++</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-05-26T04:00:00+00:00</published>
-    <updated>2023-05-26T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-subsystems-in-gnunet-and-using-them-in-gnunet/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-subsystems-in-gnunet-and-using-them-in-gnunet/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/05-26-subsystems-in-gnunet-and-their-use-in-gnunetpp.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/05-26-subsystems-in-gnunet-and-their-use-in-gnunetpp.gmi"/>
-        <title>Subsystems in GNUnet and using them in GNUnet++</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-05-26T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-subsystems-in-gnunet-and-using-them-in-gnunet/</id>
     <content type="html">
         
     </content>
