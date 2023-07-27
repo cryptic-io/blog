@@ -631,6 +631,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Long Links</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2023-07-19T19:00:00+00:00</published>
+    <updated>2023-07-19T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-long-links/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-long-links/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2023/07/19/Long-Links</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2023/07/19/Long-Links"/>
+        <title>Long Links</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2023-07-19T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-long-links/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Marshmallow</title>
         <author>
             <name>Randall Munroe</name>
@@ -3898,30 +3922,6 @@
       </source>
 
     <id>https://news.cryptic.io/rachelbythebay-administrivia-new-web-hosting-arrangements/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>CL XLIV: Long Tree Lenses</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2023-05-27T19:00:00+00:00</published>
-    <updated>2023-05-27T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-cl-xliv-long-tree-lenses/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-cl-xliv-long-tree-lenses/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2023/05/27/Long-Lens-Trees</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2023/05/27/Long-Lens-Trees"/>
-        <title>CL XLIV: Long Tree Lenses</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2023-05-27T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-cl-xliv-long-tree-lenses/</id>
     <content type="html">
         
     </content>
