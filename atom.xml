@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-07-27T13:59:33+00:00</updated>
+  <updated>2023-07-28T08:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Maybe just use Rails</title>
+        <author>
+            <name>Charlie Andrews</name>
+        </author>
+    <published>2023-07-28T08:00:00+00:00</published>
+    <updated>2023-07-28T08:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/charlie-andrews-maybe-just-use-rails/"/>
+    <link rel="alternate" href="https://news.cryptic.io/charlie-andrews-maybe-just-use-rails/" type="text/html"/>
+      <source>
+        <id>https://www.zeptonaut.com/posts/maybe-just-use-rails/</id>
+        <link href="https://www.zeptonaut.com/posts/maybe-just-use-rails/"/>
+        <title>Maybe just use Rails</title>
+        <author>
+            <name>Charlie Andrews</name>
+        </author>
+        <updated>2023-07-28T08:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/charlie-andrews-maybe-just-use-rails/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Time Card mini adds Pi, GPS, and OCXO to your PC</title>
         <author>
@@ -13930,30 +13954,6 @@
       </source>
 
     <id>https://news.cryptic.io/linus-lee-legal-documents-are-pushing-text-interfaces-forward/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Where are good startup ideas born?</title>
-        <author>
-            <name>Charlie Andrews</name>
-        </author>
-    <published>2022-04-22T00:00:00+00:00</published>
-    <updated>2022-04-22T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/charlie-andrews-where-are-good-startup-ideas-born/"/>
-    <link rel="alternate" href="https://news.cryptic.io/charlie-andrews-where-are-good-startup-ideas-born/" type="text/html"/>
-      <source>
-        <id>https://www.zeptonaut.com/posts/good-startup-ideas/</id>
-        <link href="https://www.zeptonaut.com/posts/good-startup-ideas/"/>
-        <title>Where are good startup ideas born?</title>
-        <author>
-            <name>Charlie Andrews</name>
-        </author>
-        <updated>2022-04-22T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/charlie-andrews-where-are-good-startup-ideas-born/</id>
     <content type="html">
         
     </content>
