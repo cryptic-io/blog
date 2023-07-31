@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-07-31T13:37:00+00:00</updated>
+  <updated>2023-07-31T16:10:42+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>How to Errors Good</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2023-07-31T16:10:42+00:00</published>
+    <updated>2023-07-31T16:10:42+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-how-to-errors-good/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-how-to-errors-good/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/errors</id>
+        <link href="https://mediocregopher.com/posts/errors"/>
+        <title>How to Errors Good</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2023-07-31T16:10:42+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-how-to-errors-good/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Can you identify this language?</title>
         <author>
@@ -11146,30 +11170,6 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-is-this-a-parable-about-software-development/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why Fight The Oaks?</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2022-10-12T21:53:55+00:00</published>
-    <updated>2022-10-12T21:53:55+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-why-fight-the-oaks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-why-fight-the-oaks/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/posts/oaks</id>
-        <link href="https://mediocregopher.com/posts/oaks"/>
-        <title>Why Fight The Oaks?</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2022-10-12T21:53:55+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-why-fight-the-oaks/</id>
     <content type="html">
         
     </content>
