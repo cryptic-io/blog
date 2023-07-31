@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-07-30T13:11:00+00:00</updated>
+  <updated>2023-07-30T22:59:56+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Sriracha Fight!! 🥊</title>
+        <author>
+            <name>Tyler Cipriani</name>
+        </author>
+    <published>2023-07-30T22:59:56+00:00</published>
+    <updated>2023-07-30T22:59:56+00:00</updated>
+    <link href="https://news.cryptic.io/tyler-cipriani-sriracha-fight/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tyler-cipriani-sriracha-fight/" type="text/html"/>
+      <source>
+        <id>https://tylercipriani.com/blog/2023/07/30/sriracha-taste-test/</id>
+        <link href="https://tylercipriani.com/blog/2023/07/30/sriracha-taste-test/"/>
+        <title>Sriracha Fight!! 🥊</title>
+        <author>
+            <name>Tyler Cipriani</name>
+        </author>
+        <updated>2023-07-30T22:59:56+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tyler-cipriani-sriracha-fight/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The shell and its crappy handling of whitespace</title>
         <author>
@@ -5098,30 +5122,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Write every day: my AlphaSmart fail</title>
-        <author>
-            <name>Tyler Cipriani</name>
-        </author>
-    <published>2023-04-29T22:15:43+00:00</published>
-    <updated>2023-04-29T22:15:43+00:00</updated>
-    <link href="https://news.cryptic.io/tyler-cipriani-write-every-day-my-alphasmart-fail/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tyler-cipriani-write-every-day-my-alphasmart-fail/" type="text/html"/>
-      <source>
-        <id>https://tylercipriani.com/blog/2023/04/29/distraction-free-writing/</id>
-        <link href="https://tylercipriani.com/blog/2023/04/29/distraction-free-writing/"/>
-        <title>Write every day: my AlphaSmart fail</title>
-        <author>
-            <name>Tyler Cipriani</name>
-        </author>
-        <updated>2023-04-29T22:15:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tyler-cipriani-write-every-day-my-alphasmart-fail/</id>
     <content type="html">
         
     </content>
