@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-07-30T22:59:56+00:00</updated>
+  <updated>2023-07-31T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The rc shell and its excellent handling of whitespace</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2023-07-31T00:00:00+00:00</published>
+    <updated>2023-07-31T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-the-rc-shell-and-its-excellent-handling-of-whitespace/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-the-rc-shell-and-its-excellent-handling-of-whitespace/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2023/07/31/The-rc-shell-and-whitespace.html</id>
+        <link href="https://drewdevault.com/2023/07/31/The-rc-shell-and-whitespace.html"/>
+        <title>The rc shell and its excellent handling of whitespace</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2023-07-31T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-the-rc-shell-and-its-excellent-handling-of-whitespace/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Sriracha Fight!! 🥊</title>
         <author>
@@ -5482,30 +5506,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>rc: a new shell for Unix</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-    <published>2023-04-18T00:00:00+00:00</published>
-    <updated>2023-04-18T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/drew-devault-rc-a-new-shell-for-unix/"/>
-    <link rel="alternate" href="https://news.cryptic.io/drew-devault-rc-a-new-shell-for-unix/" type="text/html"/>
-      <source>
-        <id>https://drewdevault.com/2023/04/18/2023-04-18-A-new-shell-for-Unix.html</id>
-        <link href="https://drewdevault.com/2023/04/18/2023-04-18-A-new-shell-for-Unix.html"/>
-        <title>rc: a new shell for Unix</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-        <updated>2023-04-18T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/drew-devault-rc-a-new-shell-for-unix/</id>
     <content type="html">
         
     </content>
