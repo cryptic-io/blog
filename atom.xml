@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-08-01T03:30:01+00:00</updated>
+  <updated>2023-08-01T15:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The ACE technique for starting new things</title>
+        <author>
+            <name>Charlie Andrews</name>
+        </author>
+    <published>2023-08-01T15:00:00+00:00</published>
+    <updated>2023-08-01T15:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/charlie-andrews-the-ace-technique-for-starting-new-things/"/>
+    <link rel="alternate" href="https://news.cryptic.io/charlie-andrews-the-ace-technique-for-starting-new-things/" type="text/html"/>
+      <source>
+        <id>https://www.zeptonaut.com/posts/ace-technique/</id>
+        <link href="https://www.zeptonaut.com/posts/ace-technique/"/>
+        <title>The ACE technique for starting new things</title>
+        <author>
+            <name>Charlie Andrews</name>
+        </author>
+        <updated>2023-08-01T15:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/charlie-andrews-the-ace-technique-for-starting-new-things/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Stopping at 90%</title>
         <author>
@@ -12418,30 +12442,6 @@
       </source>
 
     <id>https://news.cryptic.io/mechatronicsguy-roadside-picnic-a-nitpick-on-how-to-shoot-the-earth/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>What my toddler taught me about management</title>
-        <author>
-            <name>Charlie Andrews</name>
-        </author>
-    <published>2022-08-03T14:40:54+00:00</published>
-    <updated>2022-08-03T14:40:54+00:00</updated>
-    <link href="https://news.cryptic.io/charlie-andrews-what-my-toddler-taught-me-about-management/"/>
-    <link rel="alternate" href="https://news.cryptic.io/charlie-andrews-what-my-toddler-taught-me-about-management/" type="text/html"/>
-      <source>
-        <id>https://www.zeptonaut.com/posts/toddlers-management-and-the-illusion-of-choice/</id>
-        <link href="https://www.zeptonaut.com/posts/toddlers-management-and-the-illusion-of-choice/"/>
-        <title>What my toddler taught me about management</title>
-        <author>
-            <name>Charlie Andrews</name>
-        </author>
-        <updated>2022-08-03T14:40:54+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/charlie-andrews-what-my-toddler-taught-me-about-management/</id>
     <content type="html">
         
     </content>
