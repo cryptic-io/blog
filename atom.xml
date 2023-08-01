@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-07-31T19:50:56+00:00</updated>
+  <updated>2023-08-01T03:30:01+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Stopping at 90%</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2023-08-01T03:30:01+00:00</published>
+    <updated>2023-08-01T03:30:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-stopping-at-90/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-stopping-at-90/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/90percent.html</id>
+        <link href="https://austinhenley.com/blog/90percent.html"/>
+        <title>Stopping at 90%</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2023-08-01T03:30:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-stopping-at-90/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Git files hidden in plain sight 🫥</title>
+        <author>
+            <name>Tyler Cipriani</name>
+        </author>
+    <published>2023-08-01T00:39:40+00:00</published>
+    <updated>2023-08-01T00:39:40+00:00</updated>
+    <link href="https://news.cryptic.io/tyler-cipriani-git-files-hidden-in-plain-sight/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tyler-cipriani-git-files-hidden-in-plain-sight/" type="text/html"/>
+      <source>
+        <id>https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/</id>
+        <link href="https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/"/>
+        <title>Git files hidden in plain sight 🫥</title>
+        <author>
+            <name>Tyler Cipriani</name>
+        </author>
+        <updated>2023-08-01T00:39:40+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tyler-cipriani-git-files-hidden-in-plain-sight/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>GitHub has too many hidden features</title>
         <author>
@@ -4479,30 +4527,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>What I&#x27;ve learned about data visualization</title>
-        <author>
-            <name>Tyler Cipriani</name>
-        </author>
-    <published>2023-05-18T22:12:14+00:00</published>
-    <updated>2023-05-18T22:12:14+00:00</updated>
-    <link href="https://news.cryptic.io/tyler-cipriani-what-ive-learned-about-data-visualization/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tyler-cipriani-what-ive-learned-about-data-visualization/" type="text/html"/>
-      <source>
-        <id>https://tylercipriani.com/blog/2023/05/18/chartjunk/</id>
-        <link href="https://tylercipriani.com/blog/2023/05/18/chartjunk/"/>
-        <title>What I&#x27;ve learned about data visualization</title>
-        <author>
-            <name>Tyler Cipriani</name>
-        </author>
-        <updated>2023-05-18T22:12:14+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tyler-cipriani-what-ive-learned-about-data-visualization/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>$575K of books sold. $575K to save lives.</title>
         <author>
             <name>Derek Sivers</name>
@@ -7738,30 +7762,6 @@
       </source>
 
     <id>https://news.cryptic.io/kate-wagner-support-mcmansion-hell-on-patreon-for-as-little-as-1month-for-access-to-great-bonus-contenthellip/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>AI-generated code needs permission labels</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-    <published>2023-02-28T18:00:01+00:00</published>
-    <updated>2023-02-28T18:00:01+00:00</updated>
-    <link href="https://news.cryptic.io/austin-z-henley-aigenerated-code-needs-permission-labels/"/>
-    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-aigenerated-code-needs-permission-labels/" type="text/html"/>
-      <source>
-        <id>https://austinhenley.com/blog/aicodepermissions.html</id>
-        <link href="https://austinhenley.com/blog/aicodepermissions.html"/>
-        <title>AI-generated code needs permission labels</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-        <updated>2023-02-28T18:00:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/austin-z-henley-aigenerated-code-needs-permission-labels/</id>
     <content type="html">
         
     </content>
