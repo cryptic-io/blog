@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-08-01T15:00:00+00:00</updated>
+  <updated>2023-08-02T01:12:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Computational content of Gantō&#x27;s axe</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2023-08-02T01:12:00+00:00</published>
+    <updated>2023-08-02T01:12:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-computational-content-of-gants-axe/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-computational-content-of-gants-axe/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/math/logic/gantos-axe.html</id>
+        <link href="https://blog.plover.com/math/logic/gantos-axe.html"/>
+        <title>Computational content of Gantō&#x27;s axe</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2023-08-02T01:12:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-computational-content-of-gants-axe/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The ACE technique for starting new things</title>
         <author>
@@ -218,6 +242,30 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-can-you-identify-this-language/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Do Something, So We Can Change It!</title>
+        <author>
+            <name>Allen Pike</name>
+        </author>
+    <published>2023-07-31T05:45:30+00:00</published>
+    <updated>2023-07-31T05:45:30+00:00</updated>
+    <link href="https://news.cryptic.io/allen-pike-do-something-so-we-can-change-it/"/>
+    <link rel="alternate" href="https://news.cryptic.io/allen-pike-do-something-so-we-can-change-it/" type="text/html"/>
+      <source>
+        <id>https://www.allenpike.com/2023/do-something-so-we-can-change-it</id>
+        <link href="https://www.allenpike.com/2023/do-something-so-we-can-change-it"/>
+        <title>Do Something, So We Can Change It!</title>
+        <author>
+            <name>Allen Pike</name>
+        </author>
+        <updated>2023-07-31T05:45:30+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/allen-pike-do-something-so-we-can-change-it/</id>
     <content type="html">
         
     </content>
@@ -4623,30 +4671,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>More notes about pain as a game mechanic</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2023-05-17T14:43:00+00:00</published>
-    <updated>2023-05-17T14:43:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-more-notes-about-pain-as-a-game-mechanic/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-more-notes-about-pain-as-a-game-mechanic/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/games/game-mechanics-2.html</id>
-        <link href="https://blog.plover.com/games/game-mechanics-2.html"/>
-        <title>More notes about pain as a game mechanic</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2023-05-17T14:43:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-more-notes-about-pain-as-a-game-mechanic/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Writing, Fragments, and the Memex Method</title>
         <author>
             <name>matthiasott</name>
@@ -5194,30 +5218,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-burnout/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Collect Stories, Not Generalizations</title>
-        <author>
-            <name>Allen Pike</name>
-        </author>
-    <published>2023-04-30T05:45:30+00:00</published>
-    <updated>2023-04-30T05:45:30+00:00</updated>
-    <link href="https://news.cryptic.io/allen-pike-collect-stories-not-generalizations/"/>
-    <link rel="alternate" href="https://news.cryptic.io/allen-pike-collect-stories-not-generalizations/" type="text/html"/>
-      <source>
-        <id>https://www.allenpike.com/2023/stories-generalizations-product-interviewing</id>
-        <link href="https://www.allenpike.com/2023/stories-generalizations-product-interviewing"/>
-        <title>Collect Stories, Not Generalizations</title>
-        <author>
-            <name>Allen Pike</name>
-        </author>
-        <updated>2023-04-30T05:45:30+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/allen-pike-collect-stories-not-generalizations/</id>
     <content type="html">
         
     </content>
