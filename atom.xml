@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Free Fallin&#x27;</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-08-04T00:00:00+00:00</published>
+    <updated>2023-08-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-free-fallin/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-free-fallin/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2811/</id>
+        <link href="https://xkcd.com/2811/"/>
+        <title>Free Fallin&#x27;</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-08-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-free-fallin/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How incredibly easy it is to break (weak) passwords</title>
         <author>
             <name>Martin Chang</name>
@@ -794,30 +818,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-bespoke-guis-on-the-fly/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Bad Map Projection: ABS(Longitude)</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-07-26T00:00:00+00:00</published>
-    <updated>2023-07-26T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-bad-map-projection-abslongitude/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-bad-map-projection-abslongitude/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2807/</id>
-        <link href="https://xkcd.com/2807/"/>
-        <title>Bad Map Projection: ABS(Longitude)</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-07-26T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-bad-map-projection-abslongitude/</id>
     <content type="html">
         
     </content>
@@ -3303,30 +3303,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The New CSS</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-06-18T21:29:00+00:00</published>
-    <updated>2023-06-18T21:29:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-the-new-css/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-the-new-css/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/the-new-css</id>
-        <link href="https://matthiasott.com/notes/the-new-css"/>
-        <title>The New CSS</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-06-18T21:29:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-the-new-css/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>No Man’s Sky and Apple Silicon</title>
         <author>
             <name>Tim Bray</name>
@@ -4791,30 +4767,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Writing, Fragments, and the Memex Method</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-05-16T21:26:00+00:00</published>
-    <updated>2023-05-16T21:26:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-writing-fragments-and-the-memex-method/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-writing-fragments-and-the-memex-method/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/writing-fragments-and-the-memex-method</id>
-        <link href="https://matthiasott.com/notes/writing-fragments-and-the-memex-method"/>
-        <title>Writing, Fragments, and the Memex Method</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-05-16T21:26:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-writing-fragments-and-the-memex-method/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>BONUS MCMANSION HELL: liminal edition</title>
         <author>
             <name>Kate Wagner</name>
@@ -5487,30 +5439,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Simple Truths About Personal Websites</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-04-30T00:14:00+00:00</published>
-    <updated>2023-04-30T00:14:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/simple-truths-about-personal-websites</id>
-        <link href="https://matthiasott.com/notes/simple-truths-about-personal-websites"/>
-        <title>Simple Truths About Personal Websites</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-04-30T00:14:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>If you think Bluesky is decentralized, you’ve been conned</title>
         <author>
             <name>Wesley Aptekar-Cassels</name>
@@ -5871,30 +5799,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>CSS Custom Properties Beyond the :root</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-04-20T11:39:00+00:00</published>
-    <updated>2023-04-20T11:39:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/custom-properties-beyond-the-root</id>
-        <link href="https://matthiasott.com/notes/custom-properties-beyond-the-root"/>
-        <title>CSS Custom Properties Beyond the :root</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-04-20T11:39:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Life is maintenance, maintenance is life</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -5938,30 +5842,6 @@
       </source>
 
     <id>https://news.cryptic.io/derek-sivers-why-i-let-go-of-my-us-citizenship/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Starting A New Kirby Project</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-04-18T21:24:00+00:00</published>
-    <updated>2023-04-18T21:24:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/starting-a-new-kirby-project</id>
-        <link href="https://matthiasott.com/notes/starting-a-new-kirby-project"/>
-        <title>Starting A New Kirby Project</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-04-18T21:24:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/</id>
     <content type="html">
         
     </content>
@@ -6255,30 +6135,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A README Template – With an Automatically Generated Table of Contents</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-04-11T14:28:00+00:00</published>
-    <updated>2023-04-11T14:28:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-a-readme-template-with-an-automatically-generated-table-of-contents/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-a-readme-template-with-an-automatically-generated-table-of-contents/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/a-readme-template-with-an-automatically-generated-table-of-contents</id>
-        <link href="https://matthiasott.com/notes/a-readme-template-with-an-automatically-generated-table-of-contents"/>
-        <title>A README Template – With an Automatically Generated Table of Contents</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-04-11T14:28:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-a-readme-template-with-an-automatically-generated-table-of-contents/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Wireheading City</title>
         <author>
             <name>geohot</name>
@@ -6442,30 +6298,6 @@
       </source>
 
     <id>https://news.cryptic.io/nutcroft-a-new-startup-lifecycle/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How I (Usually) Write Blog Posts</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-04-07T15:44:34+00:00</published>
-    <updated>2023-04-07T15:44:34+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-how-i-usually-write-blog-posts/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-how-i-usually-write-blog-posts/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/how-i-write-blog-posts</id>
-        <link href="https://matthiasott.com/notes/how-i-write-blog-posts"/>
-        <title>How I (Usually) Write Blog Posts</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-04-07T15:44:34+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-how-i-usually-write-blog-posts/</id>
     <content type="html">
         
     </content>
@@ -6999,30 +6831,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>How To README</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-03-22T23:32:00+00:00</published>
-    <updated>2023-03-22T23:32:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-how-to-readme/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-how-to-readme/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/how-to-readme</id>
-        <link href="https://matthiasott.com/notes/how-to-readme"/>
-        <title>How To README</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-03-22T23:32:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-how-to-readme/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>in which i take on the argument that windowless bedrooms will somehow solve the housing crisis (lol)</title>
         <author>
             <name>Kate Wagner</name>
@@ -7474,30 +7282,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-check-out-ublock-origins-element-picker/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Synthe Size Me</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-03-12T21:53:00+00:00</published>
-    <updated>2023-03-12T21:53:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-synthe-size-me/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-synthe-size-me/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/synthe-size-me</id>
-        <link href="https://matthiasott.com/notes/synthe-size-me"/>
-        <title>Synthe Size Me</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-03-12T21:53:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-synthe-size-me/</id>
     <content type="html">
         
     </content>
@@ -8242,30 +8026,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-rust-nation-uk/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Dig Deeper</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-02-20T22:50:00+00:00</published>
-    <updated>2023-02-20T22:50:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-dig-deeper/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-dig-deeper/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/dig-deeper</id>
-        <link href="https://matthiasott.com/notes/dig-deeper"/>
-        <title>Dig Deeper</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-02-20T22:50:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-dig-deeper/</id>
     <content type="html">
         
     </content>
@@ -11607,6 +11367,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>More Than a Password</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+    <published>2022-10-14T20:31:07+00:00</published>
+    <updated>2022-10-14T20:31:07+00:00</updated>
+    <link href="https://news.cryptic.io/adam-pritchard-more-than-a-password/"/>
+    <link rel="alternate" href="https://news.cryptic.io/adam-pritchard-more-than-a-password/" type="text/html"/>
+      <source>
+        <id>https://adam-p.ca/blog/2022/10/password-plus-plus/</id>
+        <link href="https://adam-p.ca/blog/2022/10/password-plus-plus/"/>
+        <title>More Than a Password</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+        <updated>2022-10-14T20:31:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/adam-pritchard-more-than-a-password/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>When Is Short Tenure a Red Flag?</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -14511,6 +14295,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Forwarded Header Sabotage</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+    <published>2022-03-30T13:37:14+00:00</published>
+    <updated>2022-03-30T13:37:14+00:00</updated>
+    <link href="https://news.cryptic.io/adam-pritchard-forwarded-header-sabotage/"/>
+    <link rel="alternate" href="https://news.cryptic.io/adam-pritchard-forwarded-header-sabotage/" type="text/html"/>
+      <source>
+        <id>https://adam-p.ca/blog/2022/03/forwarded-header-sabotage/</id>
+        <link href="https://adam-p.ca/blog/2022/03/forwarded-header-sabotage/"/>
+        <title>Forwarded Header Sabotage</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+        <updated>2022-03-30T13:37:14+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/adam-pritchard-forwarded-header-sabotage/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Never miss completion of a long-running command again!</title>
         <author>
             <name>Clayton Craft</name>
@@ -14655,6 +14463,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Should you strip the IPv6 zone?</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+    <published>2022-03-22T22:32:38+00:00</published>
+    <updated>2022-03-22T22:32:38+00:00</updated>
+    <link href="https://news.cryptic.io/adam-pritchard-should-you-strip-the-ipv6-zone/"/>
+    <link rel="alternate" href="https://news.cryptic.io/adam-pritchard-should-you-strip-the-ipv6-zone/" type="text/html"/>
+      <source>
+        <id>https://adam-p.ca/blog/2022/03/strip-ipv6-zone/</id>
+        <link href="https://adam-p.ca/blog/2022/03/strip-ipv6-zone/"/>
+        <title>Should you strip the IPv6 zone?</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+        <updated>2022-03-22T22:32:38+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/adam-pritchard-should-you-strip-the-ipv6-zone/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Why Start Self Hosting</title>
         <author>
             <name>Rohan Deshmukh</name>
@@ -14674,6 +14506,30 @@
       </source>
 
     <id>https://news.cryptic.io/rohan-deshmukh-why-start-self-hosting/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A tiny flaw in Go&#x27;s netip design</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+    <published>2022-03-21T22:30:38+00:00</published>
+    <updated>2022-03-21T22:30:38+00:00</updated>
+    <link href="https://news.cryptic.io/adam-pritchard-a-tiny-flaw-in-gos-netip-design/"/>
+    <link rel="alternate" href="https://news.cryptic.io/adam-pritchard-a-tiny-flaw-in-gos-netip-design/" type="text/html"/>
+      <source>
+        <id>https://adam-p.ca/blog/2022/03/go-netip-flaw/</id>
+        <link href="https://adam-p.ca/blog/2022/03/go-netip-flaw/"/>
+        <title>A tiny flaw in Go&#x27;s netip design</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+        <updated>2022-03-21T22:30:38+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/adam-pritchard-a-tiny-flaw-in-gos-netip-design/</id>
     <content type="html">
         
     </content>
@@ -14871,6 +14727,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The perils of the “real” client IP</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+    <published>2022-03-04T18:20:10+00:00</published>
+    <updated>2022-03-04T18:20:10+00:00</updated>
+    <link href="https://news.cryptic.io/adam-pritchard-the-perils-of-the-real-client-ip/"/>
+    <link rel="alternate" href="https://news.cryptic.io/adam-pritchard-the-perils-of-the-real-client-ip/" type="text/html"/>
+      <source>
+        <id>https://adam-p.ca/blog/2022/03/x-forwarded-for/</id>
+        <link href="https://adam-p.ca/blog/2022/03/x-forwarded-for/"/>
+        <title>The perils of the “real” client IP</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+        <updated>2022-03-04T18:20:10+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/adam-pritchard-the-perils-of-the-real-client-ip/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>From Wordle to Nerdle</title>
         <author>
             <name>Roy van Rijn</name>
@@ -14991,6 +14871,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The scary state of IPv6 rate-limiting</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+    <published>2022-02-20T18:44:57+00:00</published>
+    <updated>2022-02-20T18:44:57+00:00</updated>
+    <link href="https://news.cryptic.io/adam-pritchard-the-scary-state-of-ipv6-ratelimiting/"/>
+    <link rel="alternate" href="https://news.cryptic.io/adam-pritchard-the-scary-state-of-ipv6-ratelimiting/" type="text/html"/>
+      <source>
+        <id>https://adam-p.ca/blog/2022/02/ipv6-rate-limiting/</id>
+        <link href="https://adam-p.ca/blog/2022/02/ipv6-rate-limiting/"/>
+        <title>The scary state of IPv6 rate-limiting</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+        <updated>2022-02-20T18:44:57+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/adam-pritchard-the-scary-state-of-ipv6-ratelimiting/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How to reset the USB stack on Linux</title>
         <author>
             <name>Wesley Aptekar-Cassels</name>
@@ -15010,6 +14914,30 @@
       </source>
 
     <id>https://news.cryptic.io/wesley-aptekarcassels-how-to-reset-the-usb-stack-on-linux/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Git Submodule vs Subtree</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+    <published>2022-02-18T02:35:37+00:00</published>
+    <updated>2022-02-18T02:35:37+00:00</updated>
+    <link href="https://news.cryptic.io/adam-pritchard-git-submodule-vs-subtree/"/>
+    <link rel="alternate" href="https://news.cryptic.io/adam-pritchard-git-submodule-vs-subtree/" type="text/html"/>
+      <source>
+        <id>https://adam-p.ca/blog/2022/02/git-submodule-subtree/</id>
+        <link href="https://adam-p.ca/blog/2022/02/git-submodule-subtree/"/>
+        <title>Git Submodule vs Subtree</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+        <updated>2022-02-18T02:35:37+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/adam-pritchard-git-submodule-vs-subtree/</id>
     <content type="html">
         
     </content>
@@ -15447,6 +15375,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Diving into Go&#x27;s HTTP server timeouts</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+    <published>2022-01-15T00:00:00+00:00</published>
+    <updated>2022-01-15T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/adam-pritchard-diving-into-gos-http-server-timeouts/"/>
+    <link rel="alternate" href="https://news.cryptic.io/adam-pritchard-diving-into-gos-http-server-timeouts/" type="text/html"/>
+      <source>
+        <id>https://adam-p.ca/blog/2022/01/golang-http-server-timeouts/</id>
+        <link href="https://adam-p.ca/blog/2022/01/golang-http-server-timeouts/"/>
+        <title>Diving into Go&#x27;s HTTP server timeouts</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+        <updated>2022-01-15T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/adam-pritchard-diving-into-gos-http-server-timeouts/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>An algorithm for Wordle</title>
         <author>
             <name>Roy van Rijn</name>
@@ -15714,6 +15666,54 @@
       </source>
 
     <id>https://news.cryptic.io/apenwarr-100-years-of-whatever-this-will-be/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Ethics of Driving Speed in Travel Time Estimation</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+    <published>2021-11-28T00:00:00+00:00</published>
+    <updated>2021-11-28T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/adam-pritchard-the-ethics-of-driving-speed-in-travel-time-estimation/"/>
+    <link rel="alternate" href="https://news.cryptic.io/adam-pritchard-the-ethics-of-driving-speed-in-travel-time-estimation/" type="text/html"/>
+      <source>
+        <id>https://adam-p.ca/blog/2021/11/ethics-travel-time/</id>
+        <link href="https://adam-p.ca/blog/2021/11/ethics-travel-time/"/>
+        <title>The Ethics of Driving Speed in Travel Time Estimation</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+        <updated>2021-11-28T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/adam-pritchard-the-ethics-of-driving-speed-in-travel-time-estimation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Timing attack mitigation must exclude network</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+    <published>2021-11-27T00:00:00+00:00</published>
+    <updated>2021-11-27T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/adam-pritchard-timing-attack-mitigation-must-exclude-network/"/>
+    <link rel="alternate" href="https://news.cryptic.io/adam-pritchard-timing-attack-mitigation-must-exclude-network/" type="text/html"/>
+      <source>
+        <id>https://adam-p.ca/blog/2021/11/constant-time-network/</id>
+        <link href="https://adam-p.ca/blog/2021/11/constant-time-network/"/>
+        <title>Timing attack mitigation must exclude network</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+        <updated>2021-11-27T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/adam-pritchard-timing-attack-mitigation-must-exclude-network/</id>
     <content type="html">
         
     </content>
