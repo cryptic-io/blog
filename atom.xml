@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-08-05T00:00:00+00:00</updated>
+  <updated>2023-08-05T14:21:52+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Every Phone Should Be Able to Run Personal Website</title>
+        <author>
+            <name>Rohan Deshmukh</name>
+        </author>
+    <published>2023-08-05T14:21:52+00:00</published>
+    <updated>2023-08-05T14:21:52+00:00</updated>
+    <link href="https://news.cryptic.io/rohan-deshmukh-every-phone-should-be-able-to-run-personal-website/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rohan-deshmukh-every-phone-should-be-able-to-run-personal-website/" type="text/html"/>
+      <source>
+        <id>https://rohanrd.xyz/posts/every-phone-should-be-able-to-run-personal-website/</id>
+        <link href="https://rohanrd.xyz/posts/every-phone-should-be-able-to-run-personal-website/"/>
+        <title>Every Phone Should Be Able to Run Personal Website</title>
+        <author>
+            <name>Rohan Deshmukh</name>
+        </author>
+        <updated>2023-08-05T14:21:52+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rohan-deshmukh-every-phone-should-be-able-to-run-personal-website/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Lazygit Turns 5: Musings on Git, TUIs, and Open Source</title>
         <author>
@@ -1226,6 +1250,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-domain-sins-of-my-youth/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Search Over Feeds</title>
+        <author>
+            <name>Rohan Deshmukh</name>
+        </author>
+    <published>2023-07-20T16:40:33+00:00</published>
+    <updated>2023-07-20T16:40:33+00:00</updated>
+    <link href="https://news.cryptic.io/rohan-deshmukh-search-over-feeds/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rohan-deshmukh-search-over-feeds/" type="text/html"/>
+      <source>
+        <id>https://rohanrd.xyz/posts/search-over-feeds/</id>
+        <link href="https://rohanrd.xyz/posts/search-over-feeds/"/>
+        <title>Search Over Feeds</title>
+        <author>
+            <name>Rohan Deshmukh</name>
+        </author>
+        <updated>2023-07-20T16:40:33+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rohan-deshmukh-search-over-feeds/</id>
     <content type="html">
         
     </content>
@@ -10647,30 +10695,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Future of Social Media</title>
-        <author>
-            <name>Rohan Deshmukh</name>
-        </author>
-    <published>2022-11-29T13:18:45+00:00</published>
-    <updated>2022-11-29T13:18:45+00:00</updated>
-    <link href="https://news.cryptic.io/rohan-deshmukh-future-of-social-media/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rohan-deshmukh-future-of-social-media/" type="text/html"/>
-      <source>
-        <id>https://rohanrd.xyz/posts/future-of-social-media/</id>
-        <link href="https://rohanrd.xyz/posts/future-of-social-media/"/>
-        <title>Future of Social Media</title>
-        <author>
-            <name>Rohan Deshmukh</name>
-        </author>
-        <updated>2022-11-29T13:18:45+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rohan-deshmukh-future-of-social-media/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Shadow DOM and accessibility: the trouble with ARIA</title>
         <author>
             <name>Nolan Lawson</name>
@@ -14722,30 +14746,6 @@
       </source>
 
     <id>https://news.cryptic.io/adam-pritchard-should-you-strip-the-ipv6-zone/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why Start Self Hosting</title>
-        <author>
-            <name>Rohan Deshmukh</name>
-        </author>
-    <published>2022-03-22T18:32:34+00:00</published>
-    <updated>2022-03-22T18:32:34+00:00</updated>
-    <link href="https://news.cryptic.io/rohan-deshmukh-why-start-self-hosting/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rohan-deshmukh-why-start-self-hosting/" type="text/html"/>
-      <source>
-        <id>https://rohanrd.xyz/posts/why-start-self-hosting/</id>
-        <link href="https://rohanrd.xyz/posts/why-start-self-hosting/"/>
-        <title>Why Start Self Hosting</title>
-        <author>
-            <name>Rohan Deshmukh</name>
-        </author>
-        <updated>2022-03-22T18:32:34+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rohan-deshmukh-why-start-self-hosting/</id>
     <content type="html">
         
     </content>
