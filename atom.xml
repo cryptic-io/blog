@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-08-08T16:49:14.339+00:00</updated>
+  <updated>2023-08-09T13:04:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>No plan survives contact with the enemy</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2023-08-09T13:04:00+00:00</published>
+    <updated>2023-08-09T13:04:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-no-plan-survives-contact-with-the-enemy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-no-plan-survives-contact-with-the-enemy/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/misc/tyson.html</id>
+        <link href="https://blog.plover.com/misc/tyson.html"/>
+        <title>No plan survives contact with the enemy</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2023-08-09T13:04:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-no-plan-survives-contact-with-the-enemy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Solution for Crowding at Dmart</title>
+        <author>
+            <name>Rohan Deshmukh</name>
+        </author>
+    <published>2023-08-09T12:54:25+00:00</published>
+    <updated>2023-08-09T12:54:25+00:00</updated>
+    <link href="https://news.cryptic.io/rohan-deshmukh-solution-for-crowding-at-dmart/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rohan-deshmukh-solution-for-crowding-at-dmart/" type="text/html"/>
+      <source>
+        <id>https://rohanrd.xyz/posts/solution-for-crowding-at-dmart/</id>
+        <link href="https://rohanrd.xyz/posts/solution-for-crowding-at-dmart/"/>
+        <title>Solution for Crowding at Dmart</title>
+        <author>
+            <name>Rohan Deshmukh</name>
+        </author>
+        <updated>2023-08-09T12:54:25+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rohan-deshmukh-solution-for-crowding-at-dmart/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>My creative software design process</title>
         <author>
@@ -1466,30 +1514,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-domain-sins-of-my-youth/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Search Over Feeds</title>
-        <author>
-            <name>Rohan Deshmukh</name>
-        </author>
-    <published>2023-07-20T16:40:33+00:00</published>
-    <updated>2023-07-20T16:40:33+00:00</updated>
-    <link href="https://news.cryptic.io/rohan-deshmukh-search-over-feeds/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rohan-deshmukh-search-over-feeds/" type="text/html"/>
-      <source>
-        <id>https://rohanrd.xyz/posts/search-over-feeds/</id>
-        <link href="https://rohanrd.xyz/posts/search-over-feeds/"/>
-        <title>Search Over Feeds</title>
-        <author>
-            <name>Rohan Deshmukh</name>
-        </author>
-        <updated>2023-07-20T16:40:33+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rohan-deshmukh-search-over-feeds/</id>
     <content type="html">
         
     </content>
@@ -4522,30 +4546,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-resp-as-a-general-purpose-serialization-protocol/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Master of the Pecos River returns</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2023-05-28T21:11:00+00:00</published>
-    <updated>2023-05-28T21:11:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-the-master-of-the-pecos-river-returns/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-the-master-of-the-pecos-river-returns/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/law/pecos-river-2.html</id>
-        <link href="https://blog.plover.com/law/pecos-river-2.html"/>
-        <title>The Master of the Pecos River returns</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2023-05-28T21:11:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-the-master-of-the-pecos-river-returns/</id>
     <content type="html">
         
     </content>
@@ -9111,6 +9111,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Notion, AI, and Me</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+    <published>2023-01-17T19:11:30+00:00</published>
+    <updated>2023-01-17T19:11:30+00:00</updated>
+    <link href="https://news.cryptic.io/linus-lee-notion-ai-and-me/"/>
+    <link rel="alternate" href="https://news.cryptic.io/linus-lee-notion-ai-and-me/" type="text/html"/>
+      <source>
+        <id>https://thesephist.com/posts/notion/</id>
+        <link href="https://thesephist.com/posts/notion/"/>
+        <title>Notion, AI, and Me</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+        <updated>2023-01-17T19:11:30+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/linus-lee-notion-ai-and-me/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>My talk on CSS runtime performance</title>
         <author>
             <name>Nolan Lawson</name>
@@ -9274,6 +9298,30 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-fear-and-loathing-of-the-terminal/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Backpropagating through reasoning</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+    <published>2023-01-11T12:29:28+00:00</published>
+    <updated>2023-01-11T12:29:28+00:00</updated>
+    <link href="https://news.cryptic.io/linus-lee-backpropagating-through-reasoning/"/>
+    <link rel="alternate" href="https://news.cryptic.io/linus-lee-backpropagating-through-reasoning/" type="text/html"/>
+      <source>
+        <id>https://thesephist.com/posts/backprop-through-reasoning/</id>
+        <link href="https://thesephist.com/posts/backprop-through-reasoning/"/>
+        <title>Backpropagating through reasoning</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+        <updated>2023-01-11T12:29:28+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/linus-lee-backpropagating-through-reasoning/</id>
     <content type="html">
         
     </content>
@@ -12687,6 +12735,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Build UNIX, not Uber</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+    <published>2022-07-16T20:37:45+00:00</published>
+    <updated>2022-07-16T20:37:45+00:00</updated>
+    <link href="https://news.cryptic.io/linus-lee-build-unix-not-uber/"/>
+    <link rel="alternate" href="https://news.cryptic.io/linus-lee-build-unix-not-uber/" type="text/html"/>
+      <source>
+        <id>https://thesephist.com/posts/legacy/</id>
+        <link href="https://thesephist.com/posts/legacy/"/>
+        <title>Build UNIX, not Uber</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+        <updated>2022-07-16T20:37:45+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/linus-lee-build-unix-not-uber/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>A better mental model for reasoning about Typescript types</title>
         <author>
             <name>Douglas Vaghetti</name>
@@ -12994,6 +13066,30 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-achievement-unlocked-intent-to-mathify/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Design with materials, not features</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+    <published>2022-06-20T19:23:10+00:00</published>
+    <updated>2022-06-20T19:23:10+00:00</updated>
+    <link href="https://news.cryptic.io/linus-lee-design-with-materials-not-features/"/>
+    <link rel="alternate" href="https://news.cryptic.io/linus-lee-design-with-materials-not-features/" type="text/html"/>
+      <source>
+        <id>https://thesephist.com/posts/materials/</id>
+        <link href="https://thesephist.com/posts/materials/"/>
+        <title>Design with materials, not features</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+        <updated>2022-06-20T19:23:10+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/linus-lee-design-with-materials-not-features/</id>
     <content type="html">
         
     </content>
@@ -13431,6 +13527,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Hyperlink maximalism</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+    <published>2022-05-22T00:02:43+00:00</published>
+    <updated>2022-05-22T00:02:43+00:00</updated>
+    <link href="https://news.cryptic.io/linus-lee-hyperlink-maximalism/"/>
+    <link rel="alternate" href="https://news.cryptic.io/linus-lee-hyperlink-maximalism/" type="text/html"/>
+      <source>
+        <id>https://thesephist.com/posts/hyperlink/</id>
+        <link href="https://thesephist.com/posts/hyperlink/"/>
+        <title>Hyperlink maximalism</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+        <updated>2022-05-22T00:02:43+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/linus-lee-hyperlink-maximalism/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The mindless tyranny of &#x27;what if it changes?&#x27; as a software design principle</title>
         <author>
             <name>Chris Kiehl</name>
@@ -13498,6 +13618,30 @@
       </source>
 
     <id>https://news.cryptic.io/arun-prasad-jang-bbijju/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Knowledge tools, finite and infinite</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+    <published>2022-05-19T20:01:05+00:00</published>
+    <updated>2022-05-19T20:01:05+00:00</updated>
+    <link href="https://news.cryptic.io/linus-lee-knowledge-tools-finite-and-infinite/"/>
+    <link rel="alternate" href="https://news.cryptic.io/linus-lee-knowledge-tools-finite-and-infinite/" type="text/html"/>
+      <source>
+        <id>https://thesephist.com/posts/infinite/</id>
+        <link href="https://thesephist.com/posts/infinite/"/>
+        <title>Knowledge tools, finite and infinite</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+        <updated>2022-05-19T20:01:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/linus-lee-knowledge-tools-finite-and-infinite/</id>
     <content type="html">
         
     </content>
@@ -13594,6 +13738,30 @@
       </source>
 
     <id>https://news.cryptic.io/patrick-tanguay-using-twitter-at-a-distance/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Resonant</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+    <published>2022-05-17T18:53:11+00:00</published>
+    <updated>2022-05-17T18:53:11+00:00</updated>
+    <link href="https://news.cryptic.io/linus-lee-resonant/"/>
+    <link rel="alternate" href="https://news.cryptic.io/linus-lee-resonant/" type="text/html"/>
+      <source>
+        <id>https://thesephist.com/posts/resonant/</id>
+        <link href="https://thesephist.com/posts/resonant/"/>
+        <title>Resonant</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+        <updated>2022-05-17T18:53:11+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/linus-lee-resonant/</id>
     <content type="html">
         
     </content>
@@ -13743,6 +13911,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Thoughts at the boundary between machine and mind</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+    <published>2022-05-05T20:38:53+00:00</published>
+    <updated>2022-05-05T20:38:53+00:00</updated>
+    <link href="https://news.cryptic.io/linus-lee-thoughts-at-the-boundary-between-machine-and-mind/"/>
+    <link rel="alternate" href="https://news.cryptic.io/linus-lee-thoughts-at-the-boundary-between-machine-and-mind/" type="text/html"/>
+      <source>
+        <id>https://thesephist.com/posts/representation/</id>
+        <link href="https://thesephist.com/posts/representation/"/>
+        <title>Thoughts at the boundary between machine and mind</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+        <updated>2022-05-05T20:38:53+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/linus-lee-thoughts-at-the-boundary-between-machine-and-mind/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Some scanning principles</title>
         <author>
             <name>Patrick Tanguay</name>
@@ -13762,6 +13954,54 @@
       </source>
 
     <id>https://news.cryptic.io/patrick-tanguay-some-scanning-principles/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Imagining better interfaces to language models</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+    <published>2022-05-01T19:03:50+00:00</published>
+    <updated>2022-05-01T19:03:50+00:00</updated>
+    <link href="https://news.cryptic.io/linus-lee-imagining-better-interfaces-to-language-models/"/>
+    <link rel="alternate" href="https://news.cryptic.io/linus-lee-imagining-better-interfaces-to-language-models/" type="text/html"/>
+      <source>
+        <id>https://thesephist.com/posts/latent/</id>
+        <link href="https://thesephist.com/posts/latent/"/>
+        <title>Imagining better interfaces to language models</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+        <updated>2022-05-01T19:03:50+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/linus-lee-imagining-better-interfaces-to-language-models/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Legal documents are pushing text interfaces forward</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+    <published>2022-04-30T17:29:05+00:00</published>
+    <updated>2022-04-30T17:29:05+00:00</updated>
+    <link href="https://news.cryptic.io/linus-lee-legal-documents-are-pushing-text-interfaces-forward/"/>
+    <link rel="alternate" href="https://news.cryptic.io/linus-lee-legal-documents-are-pushing-text-interfaces-forward/" type="text/html"/>
+      <source>
+        <id>https://thesephist.com/posts/legal-documents-text-interface/</id>
+        <link href="https://thesephist.com/posts/legal-documents-text-interface/"/>
+        <title>Legal documents are pushing text interfaces forward</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+        <updated>2022-04-30T17:29:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/linus-lee-legal-documents-are-pushing-text-interfaces-forward/</id>
     <content type="html">
         
     </content>
