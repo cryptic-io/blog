@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-08-11T00:00:00+00:00</updated>
+  <updated>2023-08-11T16:41:47+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Marmite Defontes</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-08-11T16:41:47+00:00</published>
+    <updated>2023-08-11T16:41:47+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-marmite-defontes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-marmite-defontes/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/marmite-defontes/</id>
+        <link href="https://robinrendle.com/notes/marmite-defontes/"/>
+        <title>Marmite Defontes</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-08-11T16:41:47+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-marmite-defontes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Perseids Pronunciation</title>
         <author>
@@ -3610,30 +3634,6 @@
       </source>
 
     <id>https://news.cryptic.io/fbifemboy-fukuyama-winning-isnt-necessarily-a-good-thing/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Seven Gigabytes</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-06-24T17:09:33+00:00</published>
-    <updated>2023-06-24T17:09:33+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-seven-gigabytes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-seven-gigabytes/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/seven-gigabytes/</id>
-        <link href="https://robinrendle.com/notes/seven-gigabytes/"/>
-        <title>Seven Gigabytes</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-06-24T17:09:33+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-seven-gigabytes/</id>
     <content type="html">
         
     </content>
