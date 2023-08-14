@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-08-14T05:00:00+00:00</updated>
+  <updated>2023-08-14T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>There’s Meaning in the Ordering of the Web’s Tech Stack </title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-08-14T19:00:00+00:00</published>
+    <updated>2023-08-14T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-theres-meaning-in-the-ordering-of-the-webs-tech-stack/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-theres-meaning-in-the-ordering-of-the-webs-tech-stack/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/meaning-in-web-tech-stack-ordering/</id>
+        <link href="https://blog.jim-nielsen.com/2023/meaning-in-web-tech-stack-ordering/"/>
+        <title>There’s Meaning in the Ordering of the Web’s Tech Stack </title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-08-14T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-theres-meaning-in-the-ordering-of-the-webs-tech-stack/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Post-industrial bricolage</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-postindustrial-bricolage/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Thoughts on high-stakes college admissions</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+    <published>2023-08-14T00:00:00+00:00</published>
+    <updated>2023-08-14T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dynomight-thoughts-on-highstakes-college-admissions/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dynomight-thoughts-on-highstakes-college-admissions/" type="text/html"/>
+      <source>
+        <id>https://dynomight.net/college/</id>
+        <link href="https://dynomight.net/college/"/>
+        <title>Thoughts on high-stakes college admissions</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+        <updated>2023-08-14T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dynomight-thoughts-on-highstakes-college-admissions/</id>
     <content type="html">
         
     </content>
@@ -3663,30 +3711,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Components and LEGOs</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-06-24T19:00:00+00:00</published>
-    <updated>2023-06-24T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-components-and-legos/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-components-and-legos/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/components-and-legos/</id>
-        <link href="https://blog.jim-nielsen.com/2023/components-and-legos/"/>
-        <title>Components and LEGOs</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-06-24T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-components-and-legos/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Fediverse Governance</title>
         <author>
             <name>Tim Bray</name>
@@ -6322,30 +6346,6 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-what-would-a-map-of-your-career-look-like/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Reasons after nonpersons</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-    <published>2023-04-24T00:00:00+00:00</published>
-    <updated>2023-04-24T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dynomight-reasons-after-nonpersons/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dynomight-reasons-after-nonpersons/" type="text/html"/>
-      <source>
-        <id>https://dynomight.net/nonpersons/</id>
-        <link href="https://dynomight.net/nonpersons/"/>
-        <title>Reasons after nonpersons</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-        <updated>2023-04-24T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dynomight-reasons-after-nonpersons/</id>
     <content type="html">
         
     </content>
