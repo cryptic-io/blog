@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-08-13T03:54:03.686+00:00</updated>
+  <updated>2023-08-14T05:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Post-industrial bricolage</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+    <published>2023-08-14T05:00:00+00:00</published>
+    <updated>2023-08-14T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/cristbal-sciutto-postindustrial-bricolage/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-postindustrial-bricolage/" type="text/html"/>
+      <source>
+        <id>https://cristobal.space/writing/carts</id>
+        <link href="https://cristobal.space/writing/carts"/>
+        <title>Post-industrial bricolage</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+        <updated>2023-08-14T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cristbal-sciutto-postindustrial-bricolage/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>AI Tools for the distracted developer</title>
         <author>
@@ -10119,6 +10143,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Among the shadow librarians </title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+    <published>2022-12-30T05:00:00+00:00</published>
+    <updated>2022-12-30T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/cristbal-sciutto-among-the-shadow-librarians/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-among-the-shadow-librarians/" type="text/html"/>
+      <source>
+        <id>https://cristobal.space/writing/ubu</id>
+        <link href="https://cristobal.space/writing/ubu"/>
+        <title>Among the shadow librarians </title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+        <updated>2022-12-30T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cristbal-sciutto-among-the-shadow-librarians/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>What even is an institution?</title>
         <author>
             <name>Vitalik Buterin</name>
@@ -13119,30 +13167,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Convivial Forms</title>
-        <author>
-            <name>CRISTÓBAL SCIUTTO</name>
-        </author>
-    <published>2022-07-01T05:00:00+00:00</published>
-    <updated>2022-07-01T05:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/cristbal-sciutto-convivial-forms/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-convivial-forms/" type="text/html"/>
-      <source>
-        <id>https://cristobal.space/convivial/index.html</id>
-        <link href="https://cristobal.space/convivial/index.html"/>
-        <title>Convivial Forms</title>
-        <author>
-            <name>CRISTÓBAL SCIUTTO</name>
-        </author>
-        <updated>2022-07-01T05:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cristbal-sciutto-convivial-forms/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Decay Mindset</title>
         <author>
             <name>Jesse Duffield</name>
@@ -13450,30 +13474,6 @@
       </source>
 
     <id>https://news.cryptic.io/andersource-interactive-data-exploration/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Folk (Browser) Interfaces</title>
-        <author>
-            <name>CRISTÓBAL SCIUTTO</name>
-        </author>
-    <published>2022-06-01T05:00:00+00:00</published>
-    <updated>2022-06-01T05:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/cristbal-sciutto-folk-browser-interfaces/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-folk-browser-interfaces/" type="text/html"/>
-      <source>
-        <id>https://cristobal.space/writing/folk.html</id>
-        <link href="https://cristobal.space/writing/folk.html"/>
-        <title>Folk (Browser) Interfaces</title>
-        <author>
-            <name>CRISTÓBAL SCIUTTO</name>
-        </author>
-        <updated>2022-06-01T05:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cristbal-sciutto-folk-browser-interfaces/</id>
     <content type="html">
         
     </content>
