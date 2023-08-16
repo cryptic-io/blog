@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-08-14T23:55:57+00:00</updated>
+  <updated>2023-08-16T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>What do I think about Community Notes?</title>
+        <author>
+            <name>Vitalik Buterin</name>
+        </author>
+    <published>2023-08-16T00:00:00+00:00</published>
+    <updated>2023-08-16T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/vitalik-buterin-what-do-i-think-about-community-notes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/vitalik-buterin-what-do-i-think-about-community-notes/" type="text/html"/>
+      <source>
+        <id>https://vitalik.ca/general/2023/08/16/communitynotes.html</id>
+        <link href="https://vitalik.ca/general/2023/08/16/communitynotes.html"/>
+        <title>What do I think about Community Notes?</title>
+        <author>
+            <name>Vitalik Buterin</name>
+        </author>
+        <updated>2023-08-16T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/vitalik-buterin-what-do-i-think-about-community-notes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Real Talk: Games About Trauma (art caught between “everything is horrible”, “everything is survivable”, and “this is too hard to talk about”)</title>
         <author>
@@ -10762,30 +10786,6 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-appreciating-fdroid-as-an-app-developer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Updating my blog: a quick GPT chatbot coding experiment</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-    <published>2022-12-06T00:00:00+00:00</published>
-    <updated>2022-12-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/vitalik-buterin-updating-my-blog-a-quick-gpt-chatbot-coding-experiment/"/>
-    <link rel="alternate" href="https://news.cryptic.io/vitalik-buterin-updating-my-blog-a-quick-gpt-chatbot-coding-experiment/" type="text/html"/>
-      <source>
-        <id>https://vitalik.ca/general/2022/12/06/gpt3.html</id>
-        <link href="https://vitalik.ca/general/2022/12/06/gpt3.html"/>
-        <title>Updating my blog: a quick GPT chatbot coding experiment</title>
-        <author>
-            <name>Vitalik Buterin</name>
-        </author>
-        <updated>2022-12-06T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/vitalik-buterin-updating-my-blog-a-quick-gpt-chatbot-coding-experiment/</id>
     <content type="html">
         
     </content>
