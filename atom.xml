@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-08-16T16:24:08+00:00</updated>
+  <updated>2023-08-16T22:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>People and Blogs</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2023-08-16T22:00:00+00:00</published>
+    <updated>2023-08-16T22:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-people-and-blogs/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-people-and-blogs/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/FaO7jpERibZnwjsS</id>
+        <link href="https://manuelmoreale.com/@/page/FaO7jpERibZnwjsS"/>
+        <title>People and Blogs</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2023-08-16T22:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-people-and-blogs/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Type Revival for Film &amp; TV</title>
         <author>
@@ -74,30 +98,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-pdoom/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Failed attempt at free multilingual TTS by abusing IPA</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-08-16T04:00:00+00:00</published>
-    <updated>2023-08-16T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-failed-attempt-at-free-multilingual-tts-by-abusing-ipa/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-failed-attempt-at-free-multilingual-tts-by-abusing-ipa/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/08-16-failed-attempt-at-free-multilingual-tts-by-abusing-ipa.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/08-16-failed-attempt-at-free-multilingual-tts-by-abusing-ipa.gmi"/>
-        <title>Failed attempt at free multilingual TTS by abusing IPA</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-08-16T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-failed-attempt-at-free-multilingual-tts-by-abusing-ipa/</id>
     <content type="html">
         
     </content>
@@ -1303,30 +1303,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>How incredibly easy it is to break (weak) passwords</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-08-03T04:00:00+00:00</published>
-    <updated>2023-08-03T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-how-incredibly-easy-it-is-to-break-weak-passwords/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-how-incredibly-easy-it-is-to-break-weak-passwords/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/08-03-how-incredibly-easy-it-is-to-break-weak-password.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/08-03-how-incredibly-easy-it-is-to-break-weak-password.gmi"/>
-        <title>How incredibly easy it is to break (weak) passwords</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-08-03T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-how-incredibly-easy-it-is-to-break-weak-passwords/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>My experience at the k-space hackerspace hackathon</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -2191,30 +2167,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>New Public Service: Publically Accessible GNUnet Hostlist</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-07-23T04:00:00+00:00</published>
-    <updated>2023-07-23T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-new-public-service-publically-accessible-gnunet-hostlist/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-new-public-service-publically-accessible-gnunet-hostlist/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/07-23-new-public-service-publically-accessible-gnunet-hostlist.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/07-23-new-public-service-publically-accessible-gnunet-hostlist.gmi"/>
-        <title>New Public Service: Publically Accessible GNUnet Hostlist</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-07-23T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-new-public-service-publically-accessible-gnunet-hostlist/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Laniakea Books: Public domain books for everyone</title>
         <author>
             <name>nutcroft</name>
@@ -2695,30 +2647,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Inexhaustive Lsit of AI Models that works on RK3588</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-07-15T04:00:00+00:00</published>
-    <updated>2023-07-15T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-inexhaustive-lsit-of-ai-models-that-works-on-rk3588/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-inexhaustive-lsit-of-ai-models-that-works-on-rk3588/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/07-15-inexhaustive-list-of-models-that-works-on-rk3588.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/07-15-inexhaustive-list-of-models-that-works-on-rk3588.gmi"/>
-        <title>Inexhaustive Lsit of AI Models that works on RK3588</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-07-15T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-inexhaustive-lsit-of-ai-models-that-works-on-rk3588/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Community-controlled Backup Ceremony</title>
         <author>
             <name>Various</name>
@@ -2810,30 +2738,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-links/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Rockchip NPUs and deploying scikit-learn models on them</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-07-13T04:00:00+00:00</published>
-    <updated>2023-07-13T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-rockchip-npus-and-deploying-scikitlearn-models-on-them/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-rockchip-npus-and-deploying-scikitlearn-models-on-them/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/07-13-rockchip-npus-and-deploying-scikit-learn-models-on-them.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/07-13-rockchip-npus-and-deploying-scikit-learn-models-on-them.gmi"/>
-        <title>Rockchip NPUs and deploying scikit-learn models on them</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-07-13T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-rockchip-npus-and-deploying-scikitlearn-models-on-them/</id>
     <content type="html">
         
     </content>
@@ -3154,30 +3058,6 @@
       </source>
 
     <id>https://news.cryptic.io/iliana-etaoin-ceci-nest-pas-une-licence/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I am not a writer</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2023-07-08T22:00:00+00:00</published>
-    <updated>2023-07-08T22:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-i-am-not-a-writer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-i-am-not-a-writer/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/0K8qsXexU114hYEI</id>
-        <link href="https://manuelmoreale.com/@/page/0K8qsXexU114hYEI"/>
-        <title>I am not a writer</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2023-07-08T22:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-i-am-not-a-writer/</id>
     <content type="html">
         
     </content>
@@ -3735,30 +3615,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Backups of RK3588 TRM and Datasheet (on the decentralized web)</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-06-27T04:00:00+00:00</published>
-    <updated>2023-06-27T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-backups-of-rk3588-trm-and-datasheet-on-the-decentralized-web/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-backups-of-rk3588-trm-and-datasheet-on-the-decentralized-web/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/06-27-backups-of-rk3588-trm-and-datasheet-on-the-decentralized-web.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/06-27-backups-of-rk3588-trm-and-datasheet-on-the-decentralized-web.gmi"/>
-        <title>Backups of RK3588 TRM and Datasheet (on the decentralized web)</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-06-27T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-backups-of-rk3588-trm-and-datasheet-on-the-decentralized-web/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>My stupid noise journey</title>
         <author>
             <name>dynomight</name>
@@ -4018,30 +3874,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-making-c-memorysafe-without-borrow-checking-reference-counting-or-tracing-garbage-collection/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Empowering the masses to wreak havoc (my view and wish for Large Language Models)</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-06-22T04:00:00+00:00</published>
-    <updated>2023-06-22T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-empowering-the-masses-to-wreak-havoc-my-view-and-wish-for-large-language-models/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-empowering-the-masses-to-wreak-havoc-my-view-and-wish-for-large-language-models/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/06-22-empowering-the-masses-to-reak-havoc-my-view-and-wish-for-large-language-models.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/06-22-empowering-the-masses-to-reak-havoc-my-view-and-wish-for-large-language-models.gmi"/>
-        <title>Empowering the masses to wreak havoc (my view and wish for Large Language Models)</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-06-22T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-empowering-the-masses-to-wreak-havoc-my-view-and-wish-for-large-language-models/</id>
     <content type="html">
         
     </content>
@@ -4335,30 +4167,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Setting up OpenCL on RK3588 using libmali</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-06-17T04:00:00+00:00</published>
-    <updated>2023-06-17T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-setting-up-opencl-on-rk3588-using-libmali/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-setting-up-opencl-on-rk3588-using-libmali/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/06-17-setting-up-opencl-on-rk3588-using-libmali.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/06-17-setting-up-opencl-on-rk3588-using-libmali.gmi"/>
-        <title>Setting up OpenCL on RK3588 using libmali</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-06-17T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-setting-up-opencl-on-rk3588-using-libmali/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Throwing in the towel on mobile Linux</title>
         <author>
             <name>Drew DeVault</name>
@@ -4599,30 +4407,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Introduction to GNUnet GNS</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-06-11T04:00:00+00:00</published>
-    <updated>2023-06-11T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-introduction-to-gnunet-gns/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-introduction-to-gnunet-gns/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/06-11-introduction-to-gnunet-gns.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/06-11-introduction-to-gnunet-gns.gmi"/>
-        <title>Introduction to GNUnet GNS</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-06-11T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-introduction-to-gnunet-gns/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>AR Vision</title>
         <author>
             <name>Tim Bray</name>
@@ -4666,30 +4450,6 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-i-blew-up-my-backup-server-valve-pls-fix/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Rambly rant about my Apple fan boy coworker and tech illiteracy</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-06-10T04:00:00+00:00</published>
-    <updated>2023-06-10T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-rambly-rant-about-my-apple-fan-boy-coworker-and-tech-illiteracy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-rambly-rant-about-my-apple-fan-boy-coworker-and-tech-illiteracy/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/06-10-rambly-rant-about-my-apple-fan-boy-coworker-and-tech-illiteracy.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/06-10-rambly-rant-about-my-apple-fan-boy-coworker-and-tech-illiteracy.gmi"/>
-        <title>Rambly rant about my Apple fan boy coworker and tech illiteracy</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-06-10T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-rambly-rant-about-my-apple-fan-boy-coworker-and-tech-illiteracy/</id>
     <content type="html">
         
     </content>
