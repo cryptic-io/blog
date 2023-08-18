@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-08-17T22:59:41+00:00</updated>
+  <updated>2023-08-18T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>My Guest Appearance on JS Party #288</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-08-18T19:00:00+00:00</published>
+    <updated>2023-08-18T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-my-guest-appearance-on-js-party-288/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-my-guest-appearance-on-js-party-288/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/js-party-288/</id>
+        <link href="https://blog.jim-nielsen.com/2023/js-party-288/"/>
+        <title>My Guest Appearance on JS Party #288</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-08-18T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-my-guest-appearance-on-js-party-288/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A Bar at the Folies-Bergère</title>
         <author>
@@ -3706,30 +3730,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-burnout-and-the-quiet-failures-of-the-hacker-community/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Apollo and App Icons</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-06-28T19:00:00+00:00</published>
-    <updated>2023-06-28T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-apollo-and-app-icons/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-apollo-and-app-icons/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/apollo-app-icons/</id>
-        <link href="https://blog.jim-nielsen.com/2023/apollo-app-icons/"/>
-        <title>Apollo and App Icons</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-06-28T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-apollo-and-app-icons/</id>
     <content type="html">
         
     </content>
