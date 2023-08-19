@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-08-18T19:00:00+00:00</updated>
+  <updated>2023-08-19T02:55:02+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>My own magic-wormhole relay, for zippier transfers</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2023-08-19T02:55:02+00:00</published>
+    <updated>2023-08-19T02:55:02+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-my-own-magicwormhole-relay-for-zippier-transfers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-my-own-magicwormhole-relay-for-zippier-transfers/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2023/my-own-magic-wormhole-relay-zippier-transfers</id>
+        <link href="https://www.jeffgeerling.com/blog/2023/my-own-magic-wormhole-relay-zippier-transfers"/>
+        <title>My own magic-wormhole relay, for zippier transfers</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2023-08-19T02:55:02+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-my-own-magicwormhole-relay-for-zippier-transfers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>My Guest Appearance on JS Party #288</title>
         <author>
@@ -3706,30 +3730,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-selfpublished-ansible-book-87k-copies-300k-revenue-41-revisions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>GPLv2, Red Hat, and You</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2023-06-29T00:04:36+00:00</published>
-    <updated>2023-06-29T00:04:36+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-gplv2-red-hat-and-you/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-gplv2-red-hat-and-you/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2023/gplv2-red-hat-and-you</id>
-        <link href="https://www.jeffgeerling.com/blog/2023/gplv2-red-hat-and-you"/>
-        <title>GPLv2, Red Hat, and You</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2023-06-29T00:04:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-gplv2-red-hat-and-you/</id>
     <content type="html">
         
     </content>
