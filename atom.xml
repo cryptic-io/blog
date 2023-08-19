@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-08-19T02:55:02+00:00</updated>
+  <updated>2023-08-19T09:07:10+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Part 1: Creating Todo Application With Htmx</title>
+        <author>
+            <name>Rohan Deshmukh</name>
+        </author>
+    <published>2023-08-19T09:07:10+00:00</published>
+    <updated>2023-08-19T09:07:10+00:00</updated>
+    <link href="https://news.cryptic.io/rohan-deshmukh-part-1-creating-todo-application-with-htmx/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rohan-deshmukh-part-1-creating-todo-application-with-htmx/" type="text/html"/>
+      <source>
+        <id>https://rohanrd.xyz/posts/part-1-creating-todo-application-with-htmx/</id>
+        <link href="https://rohanrd.xyz/posts/part-1-creating-todo-application-with-htmx/"/>
+        <title>Part 1: Creating Todo Application With Htmx</title>
+        <author>
+            <name>Rohan Deshmukh</name>
+        </author>
+        <updated>2023-08-19T09:07:10+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rohan-deshmukh-part-1-creating-todo-application-with-htmx/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>My own magic-wormhole relay, for zippier transfers</title>
         <author>
@@ -2839,25 +2863,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Inexhaustive Lsit of AI Models that works on RK3588</title>
+    <title>Inexhaustive List of AI Models that works on RK3588</title>
         <author>
             <name>Martin Chang</name>
         </author>
     <published>2023-07-15T04:00:00+00:00</published>
     <updated>2023-07-15T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-inexhaustive-lsit-of-ai-models-that-works-on-rk3588/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-inexhaustive-lsit-of-ai-models-that-works-on-rk3588/" type="text/html"/>
+    <link href="https://news.cryptic.io/martin-chang-inexhaustive-list-of-ai-models-that-works-on-rk3588/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-inexhaustive-list-of-ai-models-that-works-on-rk3588/" type="text/html"/>
       <source>
         <id>https://clehaxze.tw/gemlog/2023/07-15-inexhaustive-list-of-models-that-works-on-rk3588.gmi</id>
         <link href="https://clehaxze.tw/gemlog/2023/07-15-inexhaustive-list-of-models-that-works-on-rk3588.gmi"/>
-        <title>Inexhaustive Lsit of AI Models that works on RK3588</title>
+        <title>Inexhaustive List of AI Models that works on RK3588</title>
         <author>
             <name>Martin Chang</name>
         </author>
         <updated>2023-07-15T04:00:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/martin-chang-inexhaustive-lsit-of-ai-models-that-works-on-rk3588/</id>
+    <id>https://news.cryptic.io/martin-chang-inexhaustive-list-of-ai-models-that-works-on-rk3588/</id>
     <content type="html">
         
     </content>
@@ -14386,30 +14410,6 @@
       </source>
 
     <id>https://news.cryptic.io/clayton-craft-h-help-help-help/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Getting Started With Self Hosting</title>
-        <author>
-            <name>Rohan Deshmukh</name>
-        </author>
-    <published>2022-04-09T02:29:26+00:00</published>
-    <updated>2022-04-09T02:29:26+00:00</updated>
-    <link href="https://news.cryptic.io/rohan-deshmukh-getting-started-with-self-hosting/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rohan-deshmukh-getting-started-with-self-hosting/" type="text/html"/>
-      <source>
-        <id>https://rohanrd.xyz/posts/getting-started-with-self-hosting/</id>
-        <link href="https://rohanrd.xyz/posts/getting-started-with-self-hosting/"/>
-        <title>Getting Started With Self Hosting</title>
-        <author>
-            <name>Rohan Deshmukh</name>
-        </author>
-        <updated>2022-04-09T02:29:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rohan-deshmukh-getting-started-with-self-hosting/</id>
     <content type="html">
         
     </content>
