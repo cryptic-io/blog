@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-08-21T06:43:00+00:00</updated>
+  <updated>2023-08-21T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Reloading a Document (and Preserving Query String Parameters) Using Only HTML</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-08-21T19:00:00+00:00</published>
+    <updated>2023-08-21T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-reloading-a-document-and-preserving-query-string-parameters-using-only-html/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-reloading-a-document-and-preserving-query-string-parameters-using-only-html/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/reloading-document-in-html-and-preserve-query-params/</id>
+        <link href="https://blog.jim-nielsen.com/2023/reloading-document-in-html-and-preserve-query-params/"/>
+        <title>Reloading a Document (and Preserving Query String Parameters) Using Only HTML</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-08-21T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-reloading-a-document-and-preserving-query-string-parameters-using-only-html/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Making Computers and the Internet Fun Again</title>
         <author>
@@ -3194,30 +3218,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-ellis-bruteforcing-the-nyt-digits-game/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Stop Being Fancy</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-07-11T19:00:00+00:00</published>
-    <updated>2023-07-11T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-stop-being-fancy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-stop-being-fancy/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/stop-being-fancy/</id>
-        <link href="https://blog.jim-nielsen.com/2023/stop-being-fancy/"/>
-        <title>Stop Being Fancy</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-07-11T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-stop-being-fancy/</id>
     <content type="html">
         
     </content>
