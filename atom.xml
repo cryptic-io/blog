@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-08-20T12:00:00+00:00</updated>
+  <updated>2023-08-20T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>“We’re All Just Temporarily Abled”</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-08-20T19:00:00+00:00</published>
+    <updated>2023-08-20T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-were-all-just-temporarily-abled/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-were-all-just-temporarily-abled/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/temporarily-abled/</id>
+        <link href="https://blog.jim-nielsen.com/2023/temporarily-abled/"/>
+        <title>“We’re All Just Temporarily Abled”</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-08-20T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-were-all-just-temporarily-abled/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Missing Screwtape Letters from Academia</title>
         <author>
@@ -3490,30 +3514,6 @@
       </source>
 
     <id>https://news.cryptic.io/nathalie-lawhead-you-scream-into-the-void-but-the-rate-limit-has-been-exceeded-nobody-can-hear-you-scream/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Language-Level Toll Roads</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-07-05T19:00:00+00:00</published>
-    <updated>2023-07-05T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-languagelevel-toll-roads/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-languagelevel-toll-roads/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/language-level-toll-roads/</id>
-        <link href="https://blog.jim-nielsen.com/2023/language-level-toll-roads/"/>
-        <title>Language-Level Toll Roads</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-07-05T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-languagelevel-toll-roads/</id>
     <content type="html">
         
     </content>
