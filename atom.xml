@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-08-22T00:00:00+00:00</updated>
+  <updated>2023-08-23T14:27:07+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Use web components for what they’re good at</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2023-08-23T14:27:07+00:00</published>
+    <updated>2023-08-23T14:27:07+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-use-web-components-for-what-theyre-good-at/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-use-web-components-for-what-theyre-good-at/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/</id>
+        <link href="https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/"/>
+        <title>Use web components for what they’re good at</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2023-08-23T14:27:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-use-web-components-for-what-theyre-good-at/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>My favourite coffee places in Edinburgh</title>
         <author>
@@ -13714,30 +13738,6 @@
       </source>
 
     <id>https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-kagi/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Dialogs and shadow DOM: can we make it accessible?</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-    <published>2022-06-14T14:47:38+00:00</published>
-    <updated>2022-06-14T14:47:38+00:00</updated>
-    <link href="https://news.cryptic.io/nolan-lawson-dialogs-and-shadow-dom-can-we-make-it-accessible/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-dialogs-and-shadow-dom-can-we-make-it-accessible/" type="text/html"/>
-      <source>
-        <id>https://nolanlawson.com/2022/06/14/dialogs-and-shadow-dom-can-we-make-it-accessible/</id>
-        <link href="https://nolanlawson.com/2022/06/14/dialogs-and-shadow-dom-can-we-make-it-accessible/"/>
-        <title>Dialogs and shadow DOM: can we make it accessible?</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-        <updated>2022-06-14T14:47:38+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nolan-lawson-dialogs-and-shadow-dom-can-we-make-it-accessible/</id>
     <content type="html">
         
     </content>
