@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-08-26T04:00:00+00:00</updated>
+  <updated>2023-08-26T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>There’s Something You Need to Know About Web Design and Development</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-08-26T19:00:00+00:00</published>
+    <updated>2023-08-26T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-theres-something-you-need-to-know-about-web-design-and-development/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-theres-something-you-need-to-know-about-web-design-and-development/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/something-you-need-to-know-about-web-dev/</id>
+        <link href="https://blog.jim-nielsen.com/2023/something-you-need-to-know-about-web-dev/"/>
+        <title>There’s Something You Need to Know About Web Design and Development</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-08-26T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-theres-something-you-need-to-know-about-web-design-and-development/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Benchmarking RK3588 NPU matrix multiplication performance</title>
         <author>
@@ -2954,30 +2978,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-guide-guide/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Domain Sins of My Youth</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-07-20T19:00:00+00:00</published>
-    <updated>2023-07-20T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-domain-sins-of-my-youth/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-domain-sins-of-my-youth/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/domain-sins-of-my-youth/</id>
-        <link href="https://blog.jim-nielsen.com/2023/domain-sins-of-my-youth/"/>
-        <title>Domain Sins of My Youth</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-07-20T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-domain-sins-of-my-youth/</id>
     <content type="html">
         
     </content>
