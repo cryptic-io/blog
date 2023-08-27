@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-08-26T19:00:00+00:00</updated>
+  <updated>2023-08-27T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>How to use Tailwind CSS in your Go programs</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-08-27T00:00:00+00:00</published>
+    <updated>2023-08-27T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-how-to-use-tailwind-css-in-your-go-programs/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-how-to-use-tailwind-css-in-your-go-programs/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/using-tailwind-go</id>
+        <link href="https://xeiaso.net/blog/using-tailwind-go"/>
+        <title>How to use Tailwind CSS in your Go programs</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-08-27T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-how-to-use-tailwind-css-in-your-go-programs/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>There’s Something You Need to Know About Web Design and Development</title>
         <author>
@@ -3074,30 +3098,6 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-using-threat-modelling-to-choose-a-password-manager/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to run a sysdiagnose on an iPad</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2023-07-20T00:00:00+00:00</published>
-    <updated>2023-07-20T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-how-to-run-a-sysdiagnose-on-an-ipad/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-how-to-run-a-sysdiagnose-on-an-ipad/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/sysdiagnose-ipad</id>
-        <link href="https://xeiaso.net/blog/sysdiagnose-ipad"/>
-        <title>How to run a sysdiagnose on an iPad</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2023-07-20T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-how-to-run-a-sysdiagnose-on-an-ipad/</id>
     <content type="html">
         
     </content>
