@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-08-31T19:00:00+00:00</updated>
+  <updated>2023-08-31T21:08:39+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Pointing Fingers</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-08-31T21:08:39+00:00</published>
+    <updated>2023-08-31T21:08:39+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-pointing-fingers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-pointing-fingers/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/pointing-fingers</id>
+        <link href="https://matthiasott.com/notes/pointing-fingers"/>
+        <title>Pointing Fingers</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-08-31T21:08:39+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-pointing-fingers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A lot of stuff is just fine.</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-08-31T20:54:57+00:00</published>
+    <updated>2023-08-31T20:54:57+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-a-lot-of-stuff-is-just-fine/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-a-lot-of-stuff-is-just-fine/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/a-lot-of-stuff-is-just-fine./</id>
+        <link href="https://robinrendle.com/notes/a-lot-of-stuff-is-just-fine./"/>
+        <title>A lot of stuff is just fine.</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-08-31T20:54:57+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-a-lot-of-stuff-is-just-fine/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Book Notes: “Out of the Software Crisis” by Baldur Bjarnason</title>
         <author>
@@ -2906,30 +2954,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-tiny-life-hack-paint-your-mouse-dongles/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>On successor states and websites</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-07-29T15:39:37+00:00</published>
-    <updated>2023-07-29T15:39:37+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-on-successor-states-and-websites/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-on-successor-states-and-websites/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/on-successor-states-and-websites/</id>
-        <link href="https://robinrendle.com/notes/on-successor-states-and-websites/"/>
-        <title>On successor states and websites</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-07-29T15:39:37+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-on-successor-states-and-websites/</id>
     <content type="html">
         
     </content>
@@ -8530,30 +8554,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-check-out-ublock-origins-element-picker/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Synthe Size Me</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-03-12T21:53:00+00:00</published>
-    <updated>2023-03-12T21:53:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-synthe-size-me/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-synthe-size-me/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/synthe-size-me</id>
-        <link href="https://matthiasott.com/notes/synthe-size-me"/>
-        <title>Synthe Size Me</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-03-12T21:53:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-synthe-size-me/</id>
     <content type="html">
         
     </content>
