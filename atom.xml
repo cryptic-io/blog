@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-08-30T19:26:34+00:00</updated>
+  <updated>2023-08-31T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Book Notes: “Out of the Software Crisis” by Baldur Bjarnason</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-08-31T19:00:00+00:00</published>
+    <updated>2023-08-31T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-book-notes-out-of-the-software-crisis-by-baldur-bjarnason/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-book-notes-out-of-the-software-crisis-by-baldur-bjarnason/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/book-notes-out-of-the-software-crisis/</id>
+        <link href="https://blog.jim-nielsen.com/2023/book-notes-out-of-the-software-crisis/"/>
+        <title>Book Notes: “Out of the Software Crisis” by Baldur Bjarnason</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-08-31T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-book-notes-out-of-the-software-crisis-by-baldur-bjarnason/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Bonus McMansion Hell: Ye Olde Barrington</title>
         <author>
@@ -2642,30 +2666,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-github-has-too-many-hidden-features/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>User Feedback</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-07-31T19:00:00+00:00</published>
-    <updated>2023-07-31T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-user-feedback/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-user-feedback/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/user-feedback/</id>
-        <link href="https://blog.jim-nielsen.com/2023/user-feedback/"/>
-        <title>User Feedback</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-07-31T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-user-feedback/</id>
     <content type="html">
         
     </content>
