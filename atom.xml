@@ -103,6 +103,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Make the Thing a Link</title>
+        <author>
+            <name>Allen Pike</name>
+        </author>
+    <published>2023-08-31T05:45:30+00:00</published>
+    <updated>2023-08-31T05:45:30+00:00</updated>
+    <link href="https://news.cryptic.io/allen-pike-makethethingalink/"/>
+    <link rel="alternate" href="https://news.cryptic.io/allen-pike-makethethingalink/" type="text/html"/>
+      <source>
+        <id>https://www.allenpike.com/2023/make-the-thing-a-link</id>
+        <link href="https://www.allenpike.com/2023/make-the-thing-a-link"/>
+        <title>Make the Thing a Link</title>
+        <author>
+            <name>Allen Pike</name>
+        </author>
+        <updated>2023-08-31T05:45:30+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/allen-pike-makethethingalink/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Bonus McMansion Hell: Ye Olde Barrington</title>
         <author>
             <name>Kate Wagner</name>
@@ -4258,30 +4282,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-pm-is-the-chooseyourownadventure-role/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Going Way Beyond ChatGPT</title>
-        <author>
-            <name>Allen Pike</name>
-        </author>
-    <published>2023-06-30T05:45:30+00:00</published>
-    <updated>2023-06-30T05:45:30+00:00</updated>
-    <link href="https://news.cryptic.io/allen-pike-going-way-beyond-chatgpt/"/>
-    <link rel="alternate" href="https://news.cryptic.io/allen-pike-going-way-beyond-chatgpt/" type="text/html"/>
-      <source>
-        <id>https://www.allenpike.com/2023/llm-tools-beyond-chatgpt</id>
-        <link href="https://www.allenpike.com/2023/llm-tools-beyond-chatgpt"/>
-        <title>Going Way Beyond ChatGPT</title>
-        <author>
-            <name>Allen Pike</name>
-        </author>
-        <updated>2023-06-30T05:45:30+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/allen-pike-going-way-beyond-chatgpt/</id>
     <content type="html">
         
     </content>
