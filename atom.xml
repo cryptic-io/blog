@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Fossil</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-09-01T00:00:00+00:00</published>
+    <updated>2023-09-01T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-fossil/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-fossil/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2823/</id>
+        <link href="https://xkcd.com/2823/"/>
+        <title>Fossil</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-09-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-fossil/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>P&amp;B: Manton Reece</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -962,30 +986,6 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-use-web-components-for-what-theyre-good-at/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Pronunciation</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-08-23T00:00:00+00:00</published>
-    <updated>2023-08-23T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-pronunciation/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-pronunciation/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2819/</id>
-        <link href="https://xkcd.com/2819/"/>
-        <title>Pronunciation</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-08-23T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-pronunciation/</id>
     <content type="html">
         
     </content>
