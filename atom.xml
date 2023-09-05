@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-04T19:00:00+00:00</updated>
+  <updated>2023-09-04T23:58:19+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Time zones are hard because people are hard</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-09-04T23:58:19+00:00</published>
+    <updated>2023-09-04T23:58:19+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-time-zones-are-hard-because-people-are-hard/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-time-zones-are-hard-because-people-are-hard/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/time-zones-are-hard-because-people-are-hard/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/time-zones-are-hard-because-people-are-hard/"/>
+        <title>Time zones are hard because people are hard</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-09-04T23:58:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-time-zones-are-hard-because-people-are-hard/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Out of the Software Crisis: Gardening</title>
         <author>
@@ -74,6 +98,30 @@
       </source>
 
     <id>https://news.cryptic.io/clayton-craft-upgrading-steam-deck-storage-the-lazy-way/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Abstract Pickup</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-09-04T00:00:00+00:00</published>
+    <updated>2023-09-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-abstract-pickup/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-abstract-pickup/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2824/</id>
+        <link href="https://xkcd.com/2824/"/>
+        <title>Abstract Pickup</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-09-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-abstract-pickup/</id>
     <content type="html">
         
     </content>
@@ -914,30 +962,6 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-mailbag-should-you-give-candidates-feedback-on-their-interview-performance/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Inspiration</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-08-25T00:00:00+00:00</published>
-    <updated>2023-08-25T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-inspiration/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-inspiration/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2820/</id>
-        <link href="https://xkcd.com/2820/"/>
-        <title>Inspiration</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-08-25T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-inspiration/</id>
     <content type="html">
         
     </content>
@@ -4018,30 +4042,6 @@
       </source>
 
     <id>https://news.cryptic.io/fbifemboy-lifespan-extension-separating-fact-from-fiction/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>What chocolatiering taught me about programming</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-07-07T19:59:00+00:00</published>
-    <updated>2023-07-07T19:59:00+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-what-chocolatiering-taught-me-about-programming/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-what-chocolatiering-taught-me-about-programming/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/what-chocolatiering-taught-me-about-programming/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/what-chocolatiering-taught-me-about-programming/"/>
-        <title>What chocolatiering taught me about programming</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-07-07T19:59:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-what-chocolatiering-taught-me-about-programming/</id>
     <content type="html">
         
     </content>
