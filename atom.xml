@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-05T16:12:53+00:00</updated>
+  <updated>2023-09-05T22:48:36+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Testing 10 GbE throughput on Windows - iperf3 is outdated</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2023-09-05T22:48:36+00:00</published>
+    <updated>2023-09-05T22:48:36+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-testing-10-gbe-throughput-on-windows-iperf3-is-outdated/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-testing-10-gbe-throughput-on-windows-iperf3-is-outdated/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2023/testing-10-gbe-throughput-on-windows-iperf3-outdated</id>
+        <link href="https://www.jeffgeerling.com/blog/2023/testing-10-gbe-throughput-on-windows-iperf3-outdated"/>
+        <title>Testing 10 GbE throughput on Windows - iperf3 is outdated</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2023-09-05T22:48:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-testing-10-gbe-throughput-on-windows-iperf3-is-outdated/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Testing the Coral TPU Accelerator (M.2 or PCIe) in Docker</title>
         <author>
@@ -1154,6 +1178,30 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-the-great-desolation-thoughts-on-mastodon-and-bluesky/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>DANE Will Set Us Free</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2023-08-24T16:13:52+00:00</published>
+    <updated>2023-08-24T16:13:52+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-dane-will-set-us-free/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-dane-will-set-us-free/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/dane</id>
+        <link href="https://mediocregopher.com/posts/dane"/>
+        <title>DANE Will Set Us Free</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2023-08-24T16:13:52+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-dane-will-set-us-free/</id>
     <content type="html">
         
     </content>
@@ -2311,6 +2359,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Open Offer: I Will Host Your Domain</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2023-08-09T13:56:44+00:00</published>
+    <updated>2023-08-09T13:56:44+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-open-offer-i-will-host-your-domain/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-open-offer-i-will-host-your-domain/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/domani</id>
+        <link href="https://mediocregopher.com/posts/domani"/>
+        <title>Open Offer: I Will Host Your Domain</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2023-08-09T13:56:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-open-offer-i-will-host-your-domain/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>No plan survives contact with the enemy</title>
         <author>
             <name>Mark Dominus</name>
@@ -3031,6 +3103,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>How to Errors Good</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2023-07-31T16:10:42+00:00</published>
+    <updated>2023-07-31T16:10:42+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-how-to-errors-good/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-how-to-errors-good/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/errors</id>
+        <link href="https://mediocregopher.com/posts/errors"/>
+        <title>How to Errors Good</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2023-07-31T16:10:42+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-how-to-errors-good/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Can you identify this language?</title>
         <author>
             <name>Mark Dominus</name>
@@ -3530,30 +3626,6 @@
       </source>
 
     <id>https://news.cryptic.io/nutcroft-laniakea-books-public-domain-books-for-everyone/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Clearing up FUD surrounding Red Hat&#x27;s actions</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2023-07-22T06:07:20+00:00</published>
-    <updated>2023-07-22T06:07:20+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-clearing-up-fud-surrounding-red-hats-actions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-clearing-up-fud-surrounding-red-hats-actions/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2023/clearing-fud-surrounding-red-hats-actions</id>
-        <link href="https://www.jeffgeerling.com/blog/2023/clearing-fud-surrounding-red-hats-actions"/>
-        <title>Clearing up FUD surrounding Red Hat&#x27;s actions</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2023-07-22T06:07:20+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-clearing-up-fud-surrounding-red-hats-actions/</id>
     <content type="html">
         
     </content>
@@ -5511,30 +5583,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Feedback: the feed seems just fine...</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-06-04T02:04:21+00:00</published>
-    <updated>2023-06-04T02:04:21+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/06/03/feed/</id>
-        <link href="https://rachelbythebay.com/w/2023/06/03/feed/"/>
-        <title>Feedback: the feed seems just fine...</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-06-04T02:04:21+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Bees</title>
         <author>
             <name>Gigi</name>
@@ -5655,30 +5703,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Feedback: I try to answer &quot;how to become a systems engineer&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-05-31T00:51:08+00:00</published>
-    <updated>2023-05-31T00:51:08+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feedback-i-try-to-answer-how-to-become-a-systems-engineer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-i-try-to-answer-how-to-become-a-systems-engineer/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/05/30/eng/</id>
-        <link href="https://rachelbythebay.com/w/2023/05/30/eng/"/>
-        <title>Feedback: I try to answer &quot;how to become a systems engineer&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-05-31T00:51:08+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feedback-i-try-to-answer-how-to-become-a-systems-engineer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The misery of applications</title>
         <author>
             <name>nutcroft</name>
@@ -5751,25 +5775,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Administrivia: new web hosting arrangements</title>
+    <title>RESP as a General Purpose Serialization Protocol</title>
         <author>
-            <name>rachelbythebay</name>
+            <name>mediocregopher</name>
         </author>
-    <published>2023-05-27T22:20:12+00:00</published>
-    <updated>2023-05-27T22:20:12+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-administrivia-new-web-hosting-arrangements/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-new-web-hosting-arrangements/" type="text/html"/>
+    <published>2023-05-29T15:52:52+00:00</published>
+    <updated>2023-05-29T15:52:52+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-resp-as-a-general-purpose-serialization-protocol/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-resp-as-a-general-purpose-serialization-protocol/" type="text/html"/>
       <source>
-        <id>https://rachelbythebay.com/w/2023/05/27/newbox/</id>
-        <link href="https://rachelbythebay.com/w/2023/05/27/newbox/"/>
-        <title>Administrivia: new web hosting arrangements</title>
+        <id>https://mediocregopher.com/posts/resp-is-good</id>
+        <link href="https://mediocregopher.com/posts/resp-is-good"/>
+        <title>RESP as a General Purpose Serialization Protocol</title>
         <author>
-            <name>rachelbythebay</name>
+            <name>mediocregopher</name>
         </author>
-        <updated>2023-05-27T22:20:12+00:00</updated>
+        <updated>2023-05-29T15:52:52+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/rachelbythebay-administrivia-new-web-hosting-arrangements/</id>
+    <id>https://news.cryptic.io/mediocregopher-resp-as-a-general-purpose-serialization-protocol/</id>
     <content type="html">
         
     </content>
@@ -5914,6 +5938,30 @@
       </source>
 
     <id>https://news.cryptic.io/fbifemboy-standardized-exams-measure-intrinsic-ability-not-racial-or-socioeconomic-privilege/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Domiply: Your Friendly Neighborhood Gateway</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2023-05-23T10:40:19+00:00</published>
+    <updated>2023-05-23T10:40:19+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-domiply-your-friendly-neighborhood-gateway/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-domiply-your-friendly-neighborhood-gateway/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/domiply</id>
+        <link href="https://mediocregopher.com/posts/domiply"/>
+        <title>Domiply: Your Friendly Neighborhood Gateway</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2023-05-23T10:40:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-domiply-your-friendly-neighborhood-gateway/</id>
     <content type="html">
         
     </content>
@@ -6490,30 +6538,6 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-lightning-ndert-alles/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Fulfilling a reader&#x27;s request for my &quot;dot files&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-05-06T19:02:51+00:00</published>
-    <updated>2023-05-06T19:02:51+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/05/05/dot/</id>
-        <link href="https://rachelbythebay.com/w/2023/05/05/dot/"/>
-        <title>Fulfilling a reader&#x27;s request for my &quot;dot files&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-05-06T19:02:51+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/</id>
     <content type="html">
         
     </content>
@@ -7479,30 +7503,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Escalating via post-it note just to get some health checks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-04-09T22:50:31+00:00</published>
-    <updated>2023-04-09T22:50:31+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-escalating-via-postit-note-just-to-get-some-health-checks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-escalating-via-postit-note-just-to-get-some-health-checks/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/04/09/note/</id>
-        <link href="https://rachelbythebay.com/w/2023/04/09/note/"/>
-        <title>Escalating via post-it note just to get some health checks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-04-09T22:50:31+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-escalating-via-postit-note-just-to-get-some-health-checks/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>What does a research grant pay for?</title>
         <author>
             <name>Austin Z. Henley</name>
@@ -7815,30 +7815,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Administrivia: HTML generation and my general clowniness</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-03-31T08:23:18+00:00</published>
-    <updated>2023-03-31T08:23:18+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-administrivia-html-generation-and-my-general-clowniness/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-html-generation-and-my-general-clowniness/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/03/31/html/</id>
-        <link href="https://rachelbythebay.com/w/2023/03/31/html/"/>
-        <title>Administrivia: HTML generation and my general clowniness</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-03-31T08:23:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-administrivia-html-generation-and-my-general-clowniness/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Follow-ups to &quot;Incompetent but Nice&quot;</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -8002,6 +7978,30 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-tiered-storage-use-the-right-tool-for-the-job/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Saying LLMs Lack &quot;Understanding&quot;</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2023-03-25T18:59:12+00:00</published>
+    <updated>2023-03-25T18:59:12+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-saying-llms-lack-understanding/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-saying-llms-lack-understanding/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/llm-understanding</id>
+        <link href="https://mediocregopher.com/posts/llm-understanding"/>
+        <title>Saying LLMs Lack &quot;Understanding&quot;</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2023-03-25T18:59:12+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-saying-llms-lack-understanding/</id>
     <content type="html">
         
     </content>
@@ -8367,6 +8367,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Copyright, but Punk</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2023-03-15T21:51:28+00:00</published>
+    <updated>2023-03-15T21:51:28+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-copyright-but-punk/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-copyright-but-punk/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/copypunk</id>
+        <link href="https://mediocregopher.com/posts/copypunk"/>
+        <title>Copyright, but Punk</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2023-03-15T21:51:28+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-copyright-but-punk/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>I wish Chat GPT was more like chatting</title>
         <author>
             <name>John Whiles</name>
@@ -8650,30 +8674,6 @@
       </source>
 
     <id>https://news.cryptic.io/jes-olson-write-posix-shell/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Load &#x27;em up and throw &#x27;em under the bus</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-03-09T21:56:17+00:00</published>
-    <updated>2023-03-09T21:56:17+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/03/09/bus/</id>
-        <link href="https://rachelbythebay.com/w/2023/03/09/bus/"/>
-        <title>Load &#x27;em up and throw &#x27;em under the bus</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-03-09T21:56:17+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/</id>
     <content type="html">
         
     </content>
@@ -9159,6 +9159,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Eyeball-Minute Land</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2023-02-20T22:10:49+00:00</published>
+    <updated>2023-02-20T22:10:49+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-eyeballminute-land/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-eyeballminute-land/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/eyeball-minute-land</id>
+        <link href="https://mediocregopher.com/posts/eyeball-minute-land"/>
+        <title>Eyeball-Minute Land</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2023-02-20T22:10:49+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-eyeballminute-land/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>More Lazygit Integration Testing (Dev Blog)</title>
         <author>
             <name>Jesse Duffield</name>
@@ -9322,30 +9346,6 @@
       </source>
 
     <id>https://news.cryptic.io/charlie-andrews-how-employees-can-get-burned-in-acquisitions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>More than five whys and &quot;layer eight&quot; problems</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-02-14T00:39:58+00:00</published>
-    <updated>2023-02-14T00:39:58+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/02/13/broken/</id>
-        <link href="https://rachelbythebay.com/w/2023/02/13/broken/"/>
-        <title>More than five whys and &quot;layer eight&quot; problems</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-02-14T00:39:58+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/</id>
     <content type="html">
         
     </content>
@@ -9687,30 +9687,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Determine durations with monotonic clocks if available</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-29T23:12:23+00:00</published>
-    <updated>2023-01-29T23:12:23+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/29/bash/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/29/bash/"/>
-        <title>Determine durations with monotonic clocks if available</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-29T23:12:23+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Escaping Jekyll, and moving to Eleventy</title>
         <author>
             <name>mendhak</name>
@@ -9730,30 +9706,6 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-escaping-jekyll-and-moving-to-eleventy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-01-27T04:18:56+00:00</published>
-    <updated>2023-01-27T04:18:56+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/01/26/shadow/</id>
-        <link href="https://rachelbythebay.com/w/2023/01/26/shadow/"/>
-        <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-01-27T04:18:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/</id>
     <content type="html">
         
     </content>
@@ -9850,6 +9802,30 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-rating-the-ramen-i-ate-in-japan/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A Tour of Gemspace</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2023-01-22T15:31:56+00:00</published>
+    <updated>2023-01-22T15:31:56+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-a-tour-of-gemspace/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-a-tour-of-gemspace/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/gemspace-tour</id>
+        <link href="https://mediocregopher.com/posts/gemspace-tour"/>
+        <title>A Tour of Gemspace</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2023-01-22T15:31:56+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-a-tour-of-gemspace/</id>
     <content type="html">
         
     </content>
@@ -10762,6 +10738,30 @@
       </source>
 
     <id>https://news.cryptic.io/rohan-deshmukh-self-hosting-password-manager/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>How to Learn Rust</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2022-12-23T22:04:36+00:00</published>
+    <updated>2022-12-23T22:04:36+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-how-to-learn-rust/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-how-to-learn-rust/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/learning-rust-notes</id>
+        <link href="https://mediocregopher.com/posts/learning-rust-notes"/>
+        <title>How to Learn Rust</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2022-12-23T22:04:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-how-to-learn-rust/</id>
     <content type="html">
         
     </content>

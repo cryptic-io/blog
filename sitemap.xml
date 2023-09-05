@@ -1416,10 +1416,6 @@
         <lastmod>2023-08-28T13:01:25Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/jeff-geerling-clearing-up-fud-surrounding-red-hats-actions/</loc>
-        <lastmod>2023-07-22T06:07:20Z</lastmod>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/jeff-geerling-fork-yeah-examining-open-source-history-after-red-hats-move/</loc>
         <lastmod>2023-08-09T15:31:16Z</lastmod>
     </url>
@@ -1438,6 +1434,10 @@
     <url>
         <loc>https://news.cryptic.io/jeff-geerling-soundproofing-my-studio-whats-in-a-wall/</loc>
         <lastmod>2023-08-18T15:08:45Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/jeff-geerling-testing-10-gbe-throughput-on-windows-iperf3-is-outdated/</loc>
+        <lastmod>2023-09-05T22:48:36Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/jeff-geerling-testing-iperf-through-an-ssh-tunnel/</loc>
@@ -2096,6 +2096,46 @@
         <lastmod>2023-06-28T06:16:09Z</lastmod>
     </url>
     <url>
+        <loc>https://news.cryptic.io/mediocregopher-a-tour-of-gemspace/</loc>
+        <lastmod>2023-01-22T15:31:56Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/mediocregopher-copyright-but-punk/</loc>
+        <lastmod>2023-03-15T21:51:28Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/mediocregopher-dane-will-set-us-free/</loc>
+        <lastmod>2023-08-24T16:13:52Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/mediocregopher-domiply-your-friendly-neighborhood-gateway/</loc>
+        <lastmod>2023-05-23T10:40:19Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/mediocregopher-eyeballminute-land/</loc>
+        <lastmod>2023-02-20T22:10:49Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/mediocregopher-how-to-errors-good/</loc>
+        <lastmod>2023-07-31T16:10:42Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/mediocregopher-how-to-learn-rust/</loc>
+        <lastmod>2022-12-23T22:04:36Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/mediocregopher-open-offer-i-will-host-your-domain/</loc>
+        <lastmod>2023-08-09T13:56:44Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/mediocregopher-resp-as-a-general-purpose-serialization-protocol/</loc>
+        <lastmod>2023-05-29T15:52:52Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/mediocregopher-saying-llms-lack-understanding/</loc>
+        <lastmod>2023-03-25T18:59:12Z</lastmod>
+    </url>
+    <url>
         <loc>https://news.cryptic.io/mendhak-a-simple-cli-lookup-tool/</loc>
         <lastmod>2023-07-29T00:00:00Z</lastmod>
     </url>
@@ -2449,46 +2489,6 @@
     <url>
         <loc>https://news.cryptic.io/patrick-tanguay-your-own-transdisciplinarity/</loc>
         <lastmod>2023-07-06T00:00:00Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-administrivia-html-generation-and-my-general-clowniness/</loc>
-        <lastmod>2023-03-31T08:23:18Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-administrivia-new-web-hosting-arrangements/</loc>
-        <lastmod>2023-05-27T22:20:12Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/</loc>
-        <lastmod>2023-01-29T23:12:23Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-escalating-via-postit-note-just-to-get-some-health-checks/</loc>
-        <lastmod>2023-04-09T22:50:31Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-feedback-i-try-to-answer-how-to-become-a-systems-engineer/</loc>
-        <lastmod>2023-05-31T00:51:08Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/</loc>
-        <lastmod>2023-06-04T02:04:21Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/</loc>
-        <lastmod>2023-05-06T19:02:51Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/</loc>
-        <lastmod>2023-03-09T21:56:17Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/</loc>
-        <lastmod>2023-02-14T00:39:58Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/</loc>
-        <lastmod>2023-01-27T04:18:56Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/randall-munroe-abstract-pickup/</loc>
