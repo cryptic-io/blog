@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Autumn and Fall</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-09-06T00:00:00+00:00</published>
+    <updated>2023-09-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-autumn-and-fall/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-autumn-and-fall/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2825/</id>
+        <link href="https://xkcd.com/2825/"/>
+        <title>Autumn and Fall</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-09-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-autumn-and-fall/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Testing 10 GbE throughput on Windows - iperf3 is outdated</title>
         <author>
             <name>Jeff Geerling</name>
@@ -938,30 +962,6 @@
       </source>
 
     <id>https://news.cryptic.io/degrowther-the-state-will-not-save-us-from-climate-catastrophe/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Path Minimization</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-08-28T00:00:00+00:00</published>
-    <updated>2023-08-28T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-path-minimization/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-path-minimization/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2821/</id>
-        <link href="https://xkcd.com/2821/"/>
-        <title>Path Minimization</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-08-28T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-path-minimization/</id>
     <content type="html">
         
     </content>
