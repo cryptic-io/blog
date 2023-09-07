@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-07T03:00:00+00:00</updated>
+  <updated>2023-09-07T08:16:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>WOFF Has Left the Building</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-09-07T08:16:00+00:00</published>
+    <updated>2023-09-07T08:16:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-woff-has-left-the-building/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-woff-has-left-the-building/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/woff-has-left-the-building</id>
+        <link href="https://matthiasott.com/notes/woff-has-left-the-building"/>
+        <title>WOFF Has Left the Building</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-09-07T08:16:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-woff-has-left-the-building/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The IKEA-powered homelab on a wall</title>
         <author>
@@ -242,6 +266,30 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-math-se-report-202306-funkylooking-hasse-diagrams-and-what-is-a-polynomial-anyway/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Time zones are hard because people are hard</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-09-04T23:58:19+00:00</published>
+    <updated>2023-09-04T23:58:19+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-time-zones-are-hard-because-people-are-hard/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-time-zones-are-hard-because-people-are-hard/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/time-zones-are-hard-because-people-are-hard/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/time-zones-are-hard-because-people-are-hard/"/>
+        <title>Time zones are hard because people are hard</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-09-04T23:58:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-time-zones-are-hard-because-people-are-hard/</id>
     <content type="html">
         
     </content>
@@ -559,6 +607,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Pointing Fingers</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-08-31T21:08:00+00:00</published>
+    <updated>2023-08-31T21:08:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-pointing-fingers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-pointing-fingers/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/pointing-fingers</id>
+        <link href="https://matthiasott.com/notes/pointing-fingers"/>
+        <title>Pointing Fingers</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-08-31T21:08:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-pointing-fingers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>A lot of stuff is just fine.</title>
         <author>
             <name>Robin Rendle</name>
@@ -818,6 +890,30 @@
       </source>
 
     <id>https://news.cryptic.io/randall-munroe-gmailcom/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> My painful, futile quest for programmable slideshow animations</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-08-29T17:11:02+00:00</published>
+    <updated>2023-08-29T17:11:02+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-my-painful-futile-quest-for-programmable-slideshow-animations/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-my-painful-futile-quest-for-programmable-slideshow-animations/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/my-painful-futile-quest-for-programmable/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/my-painful-futile-quest-for-programmable/"/>
+        <title> My painful, futile quest for programmable slideshow animations</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-08-29T17:11:02+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-my-painful-futile-quest-for-programmable-slideshow-animations/</id>
     <content type="html">
         
     </content>
@@ -1423,6 +1519,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Educational Codebases</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-08-21T21:08:04+00:00</published>
+    <updated>2023-08-21T21:08:04+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-educational-codebases/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-educational-codebases/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/educational-codebases/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/educational-codebases/"/>
+        <title>Educational Codebases</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-08-21T21:08:04+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-educational-codebases/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Reloading a Document (and Preserving Query String Parameters) Using Only HTML</title>
         <author>
             <name>Jim Nielsen</name>
@@ -1903,6 +2023,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Turing kicked us out of Heaven</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-08-14T21:13:12+00:00</published>
+    <updated>2023-08-14T21:13:12+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-turing-kicked-us-out-of-heaven/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-turing-kicked-us-out-of-heaven/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/turing-kicked-us-out-of-heaven/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/turing-kicked-us-out-of-heaven/"/>
+        <title>Turing kicked us out of Heaven</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-08-14T21:13:12+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-turing-kicked-us-out-of-heaven/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Unicode Scalar Value</title>
         <author>
             <name>Tim Bray</name>
@@ -2191,6 +2335,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Symmetric Properties</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-08-10T20:51:47+00:00</published>
+    <updated>2023-08-10T20:51:47+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-symmetric-properties/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-symmetric-properties/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/symmetric-properties/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/symmetric-properties/"/>
+        <title>Symmetric Properties</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-08-10T20:51:47+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-symmetric-properties/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Interpreting tarot cards with pinocchio and GPT</title>
         <author>
             <name>manuel</name>
@@ -2282,6 +2450,30 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-maybe-the-problem-is-that-harvard-exists/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Good Riddance, GPTBot</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-08-09T21:14:00+00:00</published>
+    <updated>2023-08-09T21:14:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-good-riddance-gptbot/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-good-riddance-gptbot/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/good-riddance-gptbot</id>
+        <link href="https://matthiasott.com/notes/good-riddance-gptbot"/>
+        <title>Good Riddance, GPTBot</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-08-09T21:14:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-good-riddance-gptbot/</id>
     <content type="html">
         
     </content>
@@ -2474,6 +2666,30 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-a-really-big-computer/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Raku: A Language for Gremlins</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-08-07T20:32:19+00:00</published>
+    <updated>2023-08-07T20:32:19+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-raku-a-language-for-gremlins/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-raku-a-language-for-gremlins/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/"/>
+        <title>Raku: A Language for Gremlins</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-08-07T20:32:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-raku-a-language-for-gremlins/</id>
     <content type="html">
         
     </content>
@@ -3031,6 +3247,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>GitHub has too many hidden features</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-07-31T19:50:56+00:00</published>
+    <updated>2023-07-31T19:50:56+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-github-has-too-many-hidden-features/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-github-has-too-many-hidden-features/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/"/>
+        <title>GitHub has too many hidden features</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-07-31T19:50:56+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-github-has-too-many-hidden-features/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How to Errors Good</title>
         <author>
             <name>mediocregopher</name>
@@ -3511,6 +3751,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Queryability and the Sublime Mediocrity of SQL</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-07-21T20:29:17+00:00</published>
+    <updated>2023-07-21T20:29:17+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-queryability-and-the-sublime-mediocrity-of-sql/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-queryability-and-the-sublime-mediocrity-of-sql/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/queryability-and-the-sublime-mediocrity-of-sql/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/queryability-and-the-sublime-mediocrity-of-sql/"/>
+        <title>Queryability and the Sublime Mediocrity of SQL</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-07-21T20:29:17+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-queryability-and-the-sublime-mediocrity-of-sql/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>A disgusting playbook</title>
         <author>
             <name>geohot</name>
@@ -3626,6 +3890,30 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-long-links/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>More Software Projects need Defenses of Design</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-07-18T22:13:55+00:00</published>
+    <updated>2023-07-18T22:13:55+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-more-software-projects-need-defenses-of-design/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-more-software-projects-need-defenses-of-design/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/"/>
+        <title>More Software Projects need Defenses of Design</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-07-18T22:13:55+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-more-software-projects-need-defenses-of-design/</id>
     <content type="html">
         
     </content>
@@ -3890,6 +4178,30 @@
       </source>
 
     <id>https://news.cryptic.io/alex-ellis-bruteforcing-the-nyt-digits-game/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>In Defense of Slow Feedback Loops</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-07-11T18:47:55+00:00</published>
+    <updated>2023-07-11T18:47:55+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-in-defense-of-slow-feedback-loops/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-in-defense-of-slow-feedback-loops/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/in-defense-of-slow-feedback-loops/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/in-defense-of-slow-feedback-loops/"/>
+        <title>In Defense of Slow Feedback Loops</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-07-11T18:47:55+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-in-defense-of-slow-feedback-loops/</id>
     <content type="html">
         
     </content>
@@ -4882,6 +5194,30 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-reforming-the-free-software-message/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The New CSS</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-06-18T21:29:00+00:00</published>
+    <updated>2023-06-18T21:29:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-the-new-css/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-the-new-css/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/the-new-css</id>
+        <link href="https://matthiasott.com/notes/the-new-css"/>
+        <title>The New CSS</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-06-18T21:29:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-the-new-css/</id>
     <content type="html">
         
     </content>
@@ -5991,6 +6327,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Writing, Fragments, and the Memex Method</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-05-16T21:26:00+00:00</published>
+    <updated>2023-05-16T21:26:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-writing-fragments-and-the-memex-method/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-writing-fragments-and-the-memex-method/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/writing-fragments-and-the-memex-method</id>
+        <link href="https://matthiasott.com/notes/writing-fragments-and-the-memex-method"/>
+        <title>Writing, Fragments, and the Memex Method</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-05-16T21:26:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-writing-fragments-and-the-memex-method/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>BONUS MCMANSION HELL: liminal edition</title>
         <author>
             <name>Kate Wagner</name>
@@ -6567,6 +6927,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Simple Truths About Personal Websites</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-04-30T00:14:00+00:00</published>
+    <updated>2023-04-30T00:14:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/simple-truths-about-personal-websites</id>
+        <link href="https://matthiasott.com/notes/simple-truths-about-personal-websites"/>
+        <title>Simple Truths About Personal Websites</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-04-30T00:14:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>If you think Bluesky is decentralized, you’ve been conned</title>
         <author>
             <name>Wesley Aptekar-Cassels</name>
@@ -6855,6 +7239,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>CSS Custom Properties Beyond the :root</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-04-20T11:39:00+00:00</published>
+    <updated>2023-04-20T11:39:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/custom-properties-beyond-the-root</id>
+        <link href="https://matthiasott.com/notes/custom-properties-beyond-the-root"/>
+        <title>CSS Custom Properties Beyond the :root</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-04-20T11:39:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Life is maintenance, maintenance is life</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -6898,6 +7306,30 @@
       </source>
 
     <id>https://news.cryptic.io/derek-sivers-why-i-let-go-of-my-us-citizenship/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Starting A New Kirby Project</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-04-18T21:24:00+00:00</published>
+    <updated>2023-04-18T21:24:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/starting-a-new-kirby-project</id>
+        <link href="https://matthiasott.com/notes/starting-a-new-kirby-project"/>
+        <title>Starting A New Kirby Project</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-04-18T21:24:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/</id>
     <content type="html">
         
     </content>
@@ -7167,6 +7599,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>A README Template – With an Automatically Generated Table of Contents</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-04-11T14:28:00+00:00</published>
+    <updated>2023-04-11T14:28:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-a-readme-template-with-an-automatically-generated-table-of-contents/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-a-readme-template-with-an-automatically-generated-table-of-contents/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/a-readme-template-with-an-automatically-generated-table-of-contents</id>
+        <link href="https://matthiasott.com/notes/a-readme-template-with-an-automatically-generated-table-of-contents"/>
+        <title>A README Template – With an Automatically Generated Table of Contents</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-04-11T14:28:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-a-readme-template-with-an-automatically-generated-table-of-contents/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Wireheading City</title>
         <author>
             <name>geohot</name>
@@ -7306,6 +7762,30 @@
       </source>
 
     <id>https://news.cryptic.io/nutcroft-a-new-startup-lifecycle/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>How I (Usually) Write Blog Posts</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-04-07T15:44:34+00:00</published>
+    <updated>2023-04-07T15:44:34+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-how-i-usually-write-blog-posts/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-how-i-usually-write-blog-posts/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/how-i-write-blog-posts</id>
+        <link href="https://matthiasott.com/notes/how-i-write-blog-posts"/>
+        <title>How I (Usually) Write Blog Posts</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-04-07T15:44:34+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-how-i-usually-write-blog-posts/</id>
     <content type="html">
         
     </content>
