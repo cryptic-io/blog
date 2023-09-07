@@ -4,32 +4,8 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-07T08:16:40+00:00</updated>
+  <updated>2023-09-07T03:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
-  <entry xml:lang="en">
-    <title>WOFF Has Left the Building</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-09-07T08:16:40+00:00</published>
-    <updated>2023-09-07T08:16:40+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-woff-has-left-the-building/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-woff-has-left-the-building/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/woff-has-left-the-building</id>
-        <link href="https://matthiasott.com/notes/woff-has-left-the-building"/>
-        <title>WOFF Has Left the Building</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-09-07T08:16:40+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-woff-has-left-the-building/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
   <entry xml:lang="en">
     <title>The IKEA-powered homelab on a wall</title>
         <author>
@@ -343,30 +319,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Upgrading Steam Deck storage the lazy way</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2023-09-04T00:00:00+00:00</published>
-    <updated>2023-09-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-upgrading-steam-deck-storage-the-lazy-way/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-upgrading-steam-deck-storage-the-lazy-way/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/steamdeck-nvme-upgrade/</id>
-        <link href="https://blog.craftyguy.net/steamdeck-nvme-upgrade/"/>
-        <title>Upgrading Steam Deck storage the lazy way</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2023-09-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-upgrading-steam-deck-storage-the-lazy-way/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Abstract Pickup</title>
         <author>
             <name>Randall Munroe</name>
@@ -578,30 +530,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-manton-reece/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Pointing Fingers</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-08-31T21:08:00+00:00</published>
-    <updated>2023-08-31T21:08:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-pointing-fingers/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-pointing-fingers/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/pointing-fingers</id>
-        <link href="https://matthiasott.com/notes/pointing-fingers"/>
-        <title>Pointing Fingers</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-08-31T21:08:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-pointing-fingers/</id>
     <content type="html">
         
     </content>
@@ -2426,30 +2354,6 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-maybe-the-problem-is-that-harvard-exists/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Good Riddance, GPTBot</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-08-09T21:14:00+00:00</published>
-    <updated>2023-08-09T21:14:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-good-riddance-gptbot/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-good-riddance-gptbot/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/good-riddance-gptbot</id>
-        <link href="https://matthiasott.com/notes/good-riddance-gptbot"/>
-        <title>Good Riddance, GPTBot</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-08-09T21:14:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-good-riddance-gptbot/</id>
     <content type="html">
         
     </content>
@@ -5175,30 +5079,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The New CSS</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-06-18T21:29:00+00:00</published>
-    <updated>2023-06-18T21:29:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-the-new-css/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-the-new-css/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/the-new-css</id>
-        <link href="https://matthiasott.com/notes/the-new-css"/>
-        <title>The New CSS</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-06-18T21:29:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-the-new-css/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>GitHub Merge Queue</title>
         <author>
             <name>Alex Kladov</name>
@@ -5655,6 +5535,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Feedback: the feed seems just fine...</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-06-04T02:04:21+00:00</published>
+    <updated>2023-06-04T02:04:21+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/06/03/feed/</id>
+        <link href="https://rachelbythebay.com/w/2023/06/03/feed/"/>
+        <title>Feedback: the feed seems just fine...</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-06-04T02:04:21+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Bees</title>
         <author>
             <name>Gigi</name>
@@ -5775,6 +5679,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Feedback: I try to answer &quot;how to become a systems engineer&quot;</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-05-31T00:51:08+00:00</published>
+    <updated>2023-05-31T00:51:08+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-feedback-i-try-to-answer-how-to-become-a-systems-engineer/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-i-try-to-answer-how-to-become-a-systems-engineer/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/05/30/eng/</id>
+        <link href="https://rachelbythebay.com/w/2023/05/30/eng/"/>
+        <title>Feedback: I try to answer &quot;how to become a systems engineer&quot;</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-05-31T00:51:08+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-feedback-i-try-to-answer-how-to-become-a-systems-engineer/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The misery of applications</title>
         <author>
             <name>nutcroft</name>
@@ -5866,6 +5794,30 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-resp-as-a-general-purpose-serialization-protocol/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Administrivia: new web hosting arrangements</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-05-27T22:20:12+00:00</published>
+    <updated>2023-05-27T22:20:12+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-administrivia-new-web-hosting-arrangements/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-new-web-hosting-arrangements/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/05/27/newbox/</id>
+        <link href="https://rachelbythebay.com/w/2023/05/27/newbox/"/>
+        <title>Administrivia: new web hosting arrangements</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-05-27T22:20:12+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-administrivia-new-web-hosting-arrangements/</id>
     <content type="html">
         
     </content>
@@ -6231,30 +6183,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Writing, Fragments, and the Memex Method</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-05-16T21:26:00+00:00</published>
-    <updated>2023-05-16T21:26:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-writing-fragments-and-the-memex-method/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-writing-fragments-and-the-memex-method/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/writing-fragments-and-the-memex-method</id>
-        <link href="https://matthiasott.com/notes/writing-fragments-and-the-memex-method"/>
-        <title>Writing, Fragments, and the Memex Method</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-05-16T21:26:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-writing-fragments-and-the-memex-method/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>BONUS MCMANSION HELL: liminal edition</title>
         <author>
             <name>Kate Wagner</name>
@@ -6615,6 +6543,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Fulfilling a reader&#x27;s request for my &quot;dot files&quot;</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-05-06T19:02:51+00:00</published>
+    <updated>2023-05-06T19:02:51+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/05/05/dot/</id>
+        <link href="https://rachelbythebay.com/w/2023/05/05/dot/"/>
+        <title>Fulfilling a reader&#x27;s request for my &quot;dot files&quot;</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-05-06T19:02:51+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>GraphQL ❤️ SQLite</title>
         <author>
             <name>Andraž Bajt</name>
@@ -6826,30 +6778,6 @@
       </source>
 
     <id>https://news.cryptic.io/degrowther-opportunistic-critiques/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Simple Truths About Personal Websites</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-04-30T00:14:00+00:00</published>
-    <updated>2023-04-30T00:14:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/simple-truths-about-personal-websites</id>
-        <link href="https://matthiasott.com/notes/simple-truths-about-personal-websites"/>
-        <title>Simple Truths About Personal Websites</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-04-30T00:14:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/</id>
     <content type="html">
         
     </content>
@@ -7143,30 +7071,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>CSS Custom Properties Beyond the :root</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-04-20T11:39:00+00:00</published>
-    <updated>2023-04-20T11:39:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/custom-properties-beyond-the-root</id>
-        <link href="https://matthiasott.com/notes/custom-properties-beyond-the-root"/>
-        <title>CSS Custom Properties Beyond the :root</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-04-20T11:39:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Life is maintenance, maintenance is life</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -7210,30 +7114,6 @@
       </source>
 
     <id>https://news.cryptic.io/derek-sivers-why-i-let-go-of-my-us-citizenship/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Starting A New Kirby Project</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-04-18T21:24:00+00:00</published>
-    <updated>2023-04-18T21:24:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/starting-a-new-kirby-project</id>
-        <link href="https://matthiasott.com/notes/starting-a-new-kirby-project"/>
-        <title>Starting A New Kirby Project</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-04-18T21:24:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/</id>
     <content type="html">
         
     </content>
@@ -7503,30 +7383,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A README Template – With an Automatically Generated Table of Contents</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-04-11T14:28:00+00:00</published>
-    <updated>2023-04-11T14:28:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-a-readme-template-with-an-automatically-generated-table-of-contents/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-a-readme-template-with-an-automatically-generated-table-of-contents/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/a-readme-template-with-an-automatically-generated-table-of-contents</id>
-        <link href="https://matthiasott.com/notes/a-readme-template-with-an-automatically-generated-table-of-contents"/>
-        <title>A README Template – With an Automatically Generated Table of Contents</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-04-11T14:28:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-a-readme-template-with-an-automatically-generated-table-of-contents/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Wireheading City</title>
         <author>
             <name>geohot</name>
@@ -7551,25 +7407,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Wait, I can manage DNS config without losing hair??</title>
+    <title>Escalating via post-it note just to get some health checks</title>
         <author>
-            <name>Clayton Craft</name>
+            <name>rachelbythebay</name>
         </author>
-    <published>2023-04-11T00:00:00+00:00</published>
-    <updated>2023-04-11T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-wait-i-can-manage-dns-config-without-losing-hair/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-wait-i-can-manage-dns-config-without-losing-hair/" type="text/html"/>
+    <published>2023-04-09T22:50:31+00:00</published>
+    <updated>2023-04-09T22:50:31+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-escalating-via-postit-note-just-to-get-some-health-checks/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-escalating-via-postit-note-just-to-get-some-health-checks/" type="text/html"/>
       <source>
-        <id>https://blog.craftyguy.net/luadns/</id>
-        <link href="https://blog.craftyguy.net/luadns/"/>
-        <title>Wait, I can manage DNS config without losing hair??</title>
+        <id>https://rachelbythebay.com/w/2023/04/09/note/</id>
+        <link href="https://rachelbythebay.com/w/2023/04/09/note/"/>
+        <title>Escalating via post-it note just to get some health checks</title>
         <author>
-            <name>Clayton Craft</name>
+            <name>rachelbythebay</name>
         </author>
-        <updated>2023-04-11T00:00:00+00:00</updated>
+        <updated>2023-04-09T22:50:31+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/clayton-craft-wait-i-can-manage-dns-config-without-losing-hair/</id>
+    <id>https://news.cryptic.io/rachelbythebay-escalating-via-postit-note-just-to-get-some-health-checks/</id>
     <content type="html">
         
     </content>
@@ -7642,30 +7498,6 @@
       </source>
 
     <id>https://news.cryptic.io/nutcroft-a-new-startup-lifecycle/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How I (Usually) Write Blog Posts</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-04-07T15:44:34+00:00</published>
-    <updated>2023-04-07T15:44:34+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-how-i-usually-write-blog-posts/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-how-i-usually-write-blog-posts/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/how-i-write-blog-posts</id>
-        <link href="https://matthiasott.com/notes/how-i-write-blog-posts"/>
-        <title>How I (Usually) Write Blog Posts</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-04-07T15:44:34+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-how-i-usually-write-blog-posts/</id>
     <content type="html">
         
     </content>
@@ -7882,6 +7714,30 @@
       </source>
 
     <id>https://news.cryptic.io/kate-wagner-in-my-latest-column-for-the-nation-i-defend-single-stair-buildings-against-their-detractors-ihellip/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Administrivia: HTML generation and my general clowniness</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-03-31T08:23:18+00:00</published>
+    <updated>2023-03-31T08:23:18+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-administrivia-html-generation-and-my-general-clowniness/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-html-generation-and-my-general-clowniness/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/03/31/html/</id>
+        <link href="https://rachelbythebay.com/w/2023/03/31/html/"/>
+        <title>Administrivia: HTML generation and my general clowniness</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-03-31T08:23:18+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-administrivia-html-generation-and-my-general-clowniness/</id>
     <content type="html">
         
     </content>
@@ -8607,30 +8463,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Presence detection, without compromising privacy</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2023-03-12T00:00:00+00:00</published>
-    <updated>2023-03-12T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-presence-detection-without-compromising-privacy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-presence-detection-without-compromising-privacy/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/ha-presence-privacy/</id>
-        <link href="https://blog.craftyguy.net/ha-presence-privacy/"/>
-        <title>Presence detection, without compromising privacy</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2023-03-12T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-presence-detection-without-compromising-privacy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Lightning Prisms</title>
         <author>
             <name>Gigi</name>
@@ -8722,6 +8554,30 @@
       </source>
 
     <id>https://news.cryptic.io/jes-olson-write-posix-shell/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Load &#x27;em up and throw &#x27;em under the bus</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-03-09T21:56:17+00:00</published>
+    <updated>2023-03-09T21:56:17+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/03/09/bus/</id>
+        <link href="https://rachelbythebay.com/w/2023/03/09/bus/"/>
+        <title>Load &#x27;em up and throw &#x27;em under the bus</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-03-09T21:56:17+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-load-em-up-and-throw-em-under-the-bus/</id>
     <content type="html">
         
     </content>
@@ -9327,30 +9183,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>On meetings...</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2023-02-15T00:00:00+00:00</published>
-    <updated>2023-02-15T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-on-meetings/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-on-meetings/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/on-meetings/</id>
-        <link href="https://blog.craftyguy.net/on-meetings/"/>
-        <title>On meetings...</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2023-02-15T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-on-meetings/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How employees can get burned in acquisitions</title>
         <author>
             <name>Charlie Andrews</name>
@@ -9370,6 +9202,30 @@
       </source>
 
     <id>https://news.cryptic.io/charlie-andrews-how-employees-can-get-burned-in-acquisitions/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>More than five whys and &quot;layer eight&quot; problems</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-02-14T00:39:58+00:00</published>
+    <updated>2023-02-14T00:39:58+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/02/13/broken/</id>
+        <link href="https://rachelbythebay.com/w/2023/02/13/broken/"/>
+        <title>More than five whys and &quot;layer eight&quot; problems</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-02-14T00:39:58+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-more-than-five-whys-and-layer-eight-problems/</id>
     <content type="html">
         
     </content>
@@ -9466,30 +9322,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-a-few-good-lies/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>FOSDEM 2023!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2023-02-09T00:00:00+00:00</published>
-    <updated>2023-02-09T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-fosdem-2023/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-fosdem-2023/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/fosdem23/</id>
-        <link href="https://blog.craftyguy.net/fosdem23/"/>
-        <title>FOSDEM 2023!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2023-02-09T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-fosdem-2023/</id>
     <content type="html">
         
     </content>
@@ -9711,6 +9543,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Determine durations with monotonic clocks if available</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-29T23:12:23+00:00</published>
+    <updated>2023-01-29T23:12:23+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/29/bash/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/29/bash/"/>
+        <title>Determine durations with monotonic clocks if available</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-29T23:12:23+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-determine-durations-with-monotonic-clocks-if-available/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Escaping Jekyll, and moving to Eleventy</title>
         <author>
             <name>mendhak</name>
@@ -9730,6 +9586,30 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-escaping-jekyll-and-moving-to-eleventy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-01-27T04:18:56+00:00</published>
+    <updated>2023-01-27T04:18:56+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/01/26/shadow/</id>
+        <link href="https://rachelbythebay.com/w/2023/01/26/shadow/"/>
+        <title>Tonight&#x27;s rabbit hole: time math and 32 bit longs</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-01-27T04:18:56+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-tonights-rabbit-hole-time-math-and-32-bit-longs/</id>
     <content type="html">
         
     </content>
@@ -12327,30 +12207,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>8 cubic feet</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2022-09-29T00:00:00+00:00</published>
-    <updated>2022-09-29T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-8-cubic-feet/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-8-cubic-feet/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/8-cu-ft/</id>
-        <link href="https://blog.craftyguy.net/8-cu-ft/"/>
-        <title>8 cubic feet</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2022-09-29T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-8-cubic-feet/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The appeal of small computers</title>
         <author>
             <name>Andre Alves Garzia</name>
@@ -13378,30 +13234,6 @@
       </source>
 
     <id>https://news.cryptic.io/roy-van-rijn-solving-the-daily-calendar-puzzle/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Deleting stuff is fun and helpful!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2022-07-06T00:00:00+00:00</published>
-    <updated>2022-07-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-deleting-stuff-is-fun-and-helpful/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-deleting-stuff-is-fun-and-helpful/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/delete-stuff/</id>
-        <link href="https://blog.craftyguy.net/delete-stuff/"/>
-        <title>Deleting stuff is fun and helpful!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2022-07-06T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-deleting-stuff-is-fun-and-helpful/</id>
     <content type="html">
         
     </content>
@@ -14487,30 +14319,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>-h --help -help help --? -? ????</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2022-04-10T00:00:00+00:00</published>
-    <updated>2022-04-10T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-h-help-help-help/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-h-help-help-help/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/cmdline-help/</id>
-        <link href="https://blog.craftyguy.net/cmdline-help/"/>
-        <title>-h --help -help help --? -? ????</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2022-04-10T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-h-help-help-help/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Getting Started With Self Hosting</title>
         <author>
             <name>Rohan Deshmukh</name>
@@ -14674,30 +14482,6 @@
       </source>
 
     <id>https://news.cryptic.io/adam-pritchard-forwarded-header-sabotage/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Never miss completion of a long-running command again!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2022-03-28T00:00:00+00:00</published>
-    <updated>2022-03-28T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-never-miss-completion-of-a-longrunning-command-again/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-never-miss-completion-of-a-longrunning-command-again/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/alert-done/</id>
-        <link href="https://blog.craftyguy.net/alert-done/"/>
-        <title>Never miss completion of a long-running command again!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2022-03-28T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-never-miss-completion-of-a-longrunning-command-again/</id>
     <content type="html">
         
     </content>
@@ -15466,30 +15250,6 @@
       </source>
 
     <id>https://news.cryptic.io/dkbdkbfyi-dkb-how-to-read-a-book/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Diffing binaries, in living color!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2022-02-04T00:00:00+00:00</published>
-    <updated>2022-02-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-diffing-binaries-in-living-color/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-diffing-binaries-in-living-color/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/color-hex-diff/</id>
-        <link href="https://blog.craftyguy.net/color-hex-diff/"/>
-        <title>Diffing binaries, in living color!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2022-02-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-diffing-binaries-in-living-color/</id>
     <content type="html">
         
     </content>
