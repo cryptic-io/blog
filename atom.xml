@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-08T00:00:00+00:00</updated>
+  <updated>2023-09-09T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Out Of The Box</title>
+        <author>
+            <name>Jesse Duffield</name>
+        </author>
+    <published>2023-09-09T00:00:00+00:00</published>
+    <updated>2023-09-09T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jesse-duffield-out-of-the-box/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jesse-duffield-out-of-the-box/" type="text/html"/>
+      <source>
+        <id>https://jesseduffield.com/Out-Of-The-Box/</id>
+        <link href="https://jesseduffield.com/Out-Of-The-Box/"/>
+        <title>Out Of The Box</title>
+        <author>
+            <name>Jesse Duffield</name>
+        </author>
+        <updated>2023-09-09T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jesse-duffield-out-of-the-box/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Gold</title>
         <author>
@@ -13426,30 +13450,6 @@
       </source>
 
     <id>https://news.cryptic.io/arun-prasad-side-projects/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Decay Mindset</title>
-        <author>
-            <name>Jesse Duffield</name>
-        </author>
-    <published>2022-06-30T00:00:00+00:00</published>
-    <updated>2022-06-30T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jesse-duffield-decay-mindset/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jesse-duffield-decay-mindset/" type="text/html"/>
-      <source>
-        <id>https://jesseduffield.com/Decay-Mindset/</id>
-        <link href="https://jesseduffield.com/Decay-Mindset/"/>
-        <title>Decay Mindset</title>
-        <author>
-            <name>Jesse Duffield</name>
-        </author>
-        <updated>2022-06-30T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jesse-duffield-decay-mindset/</id>
     <content type="html">
         
     </content>
