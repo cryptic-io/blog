@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-09T00:00:00+00:00</updated>
+  <updated>2023-09-09T14:02:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>My favorite luxurious office equipment is low-tech</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2023-09-09T14:02:00+00:00</published>
+    <updated>2023-09-09T14:02:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-my-favorite-luxurious-office-equipment-is-lowtech/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-my-favorite-luxurious-office-equipment-is-lowtech/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/tech/office-equipment.html</id>
+        <link href="https://blog.plover.com/tech/office-equipment.html"/>
+        <title>My favorite luxurious office equipment is low-tech</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2023-09-09T14:02:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-my-favorite-luxurious-office-equipment-is-lowtech/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Out Of The Box</title>
         <author>
@@ -3458,30 +3482,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-i-made-a-quotebacks-plugin-for-marked/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Tiny life hack: paint your mouse dongles</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2023-07-29T18:45:00+00:00</published>
-    <updated>2023-07-29T18:45:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-tiny-life-hack-paint-your-mouse-dongles/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-tiny-life-hack-paint-your-mouse-dongles/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/tech/mouse-dongle-hack.html</id>
-        <link href="https://blog.plover.com/tech/mouse-dongle-hack.html"/>
-        <title>Tiny life hack: paint your mouse dongles</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2023-07-29T18:45:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-tiny-life-hack-paint-your-mouse-dongles/</id>
     <content type="html">
         
     </content>
