@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-09T14:02:00+00:00</updated>
+  <updated>2023-09-10T17:04:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Killer Whale Dagger</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2023-09-10T17:04:00+00:00</published>
+    <updated>2023-09-10T17:04:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-the-killer-whale-dagger/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-the-killer-whale-dagger/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/art/killer-whale-dagger.html</id>
+        <link href="https://blog.plover.com/art/killer-whale-dagger.html"/>
+        <title>The Killer Whale Dagger</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2023-09-10T17:04:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-the-killer-whale-dagger/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>My favorite luxurious office equipment is low-tech</title>
         <author>
@@ -3434,30 +3458,6 @@
       </source>
 
     <id>https://news.cryptic.io/tyler-cipriani-sriracha-fight/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The shell and its crappy handling of whitespace</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2023-07-30T13:11:00+00:00</published>
-    <updated>2023-07-30T13:11:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-the-shell-and-its-crappy-handling-of-whitespace/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-the-shell-and-its-crappy-handling-of-whitespace/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/Unix/whitespace.html</id>
-        <link href="https://blog.plover.com/Unix/whitespace.html"/>
-        <title>The shell and its crappy handling of whitespace</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2023-07-30T13:11:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-the-shell-and-its-crappy-handling-of-whitespace/</id>
     <content type="html">
         
     </content>
