@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-13T10:58:49+00:00</updated>
+  <updated>2023-09-13T13:48:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Horizontal and vertical complexity</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2023-09-13T13:48:00+00:00</published>
+    <updated>2023-09-13T13:48:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-horizontal-and-vertical-complexity/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-horizontal-and-vertical-complexity/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/prog/vertical-complexity.html</id>
+        <link href="https://blog.plover.com/prog/vertical-complexity.html"/>
+        <title>Horizontal and vertical complexity</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2023-09-13T13:48:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-horizontal-and-vertical-complexity/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Story Time: The Hackiest Feature of Them All</title>
         <author>
@@ -3554,30 +3578,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-how-to-errors-good/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Can you identify this language?</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2023-07-31T13:37:00+00:00</published>
-    <updated>2023-07-31T13:37:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-can-you-identify-this-language/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-can-you-identify-this-language/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/lang/mystery-language.html</id>
-        <link href="https://blog.plover.com/lang/mystery-language.html"/>
-        <title>Can you identify this language?</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2023-07-31T13:37:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-can-you-identify-this-language/</id>
     <content type="html">
         
     </content>
