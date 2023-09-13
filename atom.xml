@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-12T00:00:00+00:00</updated>
+  <updated>2023-09-13T04:59:19+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>If you work on a big language, I&#x27;d like to talk</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-09-13T04:59:19+00:00</published>
+    <updated>2023-09-13T04:59:19+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-if-you-work-on-a-big-language-id-like-to-talk/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-if-you-work-on-a-big-language-id-like-to-talk/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/if-you-work-on-a-big-language-id-like-to-talk/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/if-you-work-on-a-big-language-id-like-to-talk/"/>
+        <title>If you work on a big language, I&#x27;d like to talk</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-09-13T04:59:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-if-you-work-on-a-big-language-id-like-to-talk/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Bethesda&#x27;s Starfield is a disgrace to game development and a slap in the face to gamers</title>
         <author>
@@ -4298,30 +4322,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-ellis-bruteforcing-the-nyt-digits-game/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>In Defense of Slow Feedback Loops</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-07-11T18:47:55+00:00</published>
-    <updated>2023-07-11T18:47:55+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-in-defense-of-slow-feedback-loops/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-in-defense-of-slow-feedback-loops/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/in-defense-of-slow-feedback-loops/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/in-defense-of-slow-feedback-loops/"/>
-        <title>In Defense of Slow Feedback Loops</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-07-11T18:47:55+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-in-defense-of-slow-feedback-loops/</id>
     <content type="html">
         
     </content>
