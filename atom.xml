@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-14T01:23:18+00:00</updated>
+  <updated>2023-09-14T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>“The iOS App Icon Book” in Japanese</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-09-14T19:00:00+00:00</published>
+    <updated>2023-09-14T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-the-ios-app-icon-book-in-japanese/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-the-ios-app-icon-book-in-japanese/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/japanese-ios-app-icon-book/</id>
+        <link href="https://blog.jim-nielsen.com/2023/japanese-ios-app-icon-book/"/>
+        <title>“The iOS App Icon Book” in Japanese</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-09-14T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-the-ios-app-icon-book-in-japanese/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Generous Space of Alternative Game Engines (A Curation)</title>
         <author>
@@ -2018,30 +2042,6 @@
       </source>
 
     <id>https://news.cryptic.io/cheapskate-making-computers-and-the-internet-fun-again/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>“We’re All Just Temporarily Abled”</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-08-20T19:00:00+00:00</published>
-    <updated>2023-08-20T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-were-all-just-temporarily-abled/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-were-all-just-temporarily-abled/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/temporarily-abled/</id>
-        <link href="https://blog.jim-nielsen.com/2023/temporarily-abled/"/>
-        <title>“We’re All Just Temporarily Abled”</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-08-20T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-were-all-just-temporarily-abled/</id>
     <content type="html">
         
     </content>
