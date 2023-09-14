@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-14T19:00:00+00:00</updated>
+  <updated>2023-09-14T23:08:13+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>v13</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-09-14T23:08:13+00:00</published>
+    <updated>2023-09-14T23:08:13+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-v13/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-v13/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/v13/</id>
+        <link href="https://robinrendle.com/notes/v13/"/>
+        <title>v13</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-09-14T23:08:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-v13/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>“The iOS App Icon Book” in Japanese</title>
         <author>
@@ -3194,30 +3218,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-brr/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Dark mode in the ancient world</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-08-06T15:14:30+00:00</published>
-    <updated>2023-08-06T15:14:30+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-dark-mode-in-the-ancient-world/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-dark-mode-in-the-ancient-world/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/dark-mode-in-the-ancient-world/</id>
-        <link href="https://robinrendle.com/notes/dark-mode-in-the-ancient-world/"/>
-        <title>Dark mode in the ancient world</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-08-06T15:14:30+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-dark-mode-in-the-ancient-world/</id>
     <content type="html">
         
     </content>
