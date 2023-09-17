@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-17T04:00:00+00:00</updated>
+  <updated>2023-09-17T14:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Chesterton&#x27;s Invisible Fences</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2023-09-17T14:00:00+00:00</published>
+    <updated>2023-09-17T14:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-chestertons-invisible-fences/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-chestertons-invisible-fences/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2023/chesterton/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2023/chesterton/"/>
+        <title>Chesterton&#x27;s Invisible Fences</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2023-09-17T14:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-chestertons-invisible-fences/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Hardware accelerated playback on PineTab 2 (RK3566)</title>
         <author>
@@ -8290,30 +8314,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-the-art-of-resisting-promotion/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Great Deprival</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-    <published>2023-03-23T07:00:00+00:00</published>
-    <updated>2023-03-23T07:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-the-great-deprival/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-the-great-deprival/" type="text/html"/>
-      <source>
-        <id>http://bastian.rieck.me/blog/posts/2023/deprival/</id>
-        <link href="http://bastian.rieck.me/blog/posts/2023/deprival/"/>
-        <title>The Great Deprival</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-        <updated>2023-03-23T07:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bastian-rieck-the-great-deprival/</id>
     <content type="html">
         
     </content>
