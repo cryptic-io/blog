@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-17T14:00:00+00:00</updated>
+  <updated>2023-09-17T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Notes from “Weathering Software Winter” by Devine Lu Linvega</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-09-17T19:00:00+00:00</published>
+    <updated>2023-09-17T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-notes-from-weathering-software-winter-by-devine-lu-linvega/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-notes-from-weathering-software-winter-by-devine-lu-linvega/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/precarious-modern-computing/</id>
+        <link href="https://blog.jim-nielsen.com/2023/precarious-modern-computing/"/>
+        <title>Notes from “Weathering Software Winter” by Devine Lu Linvega</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-09-17T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-notes-from-weathering-software-winter-by-devine-lu-linvega/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Chesterton&#x27;s Invisible Fences</title>
         <author>
@@ -2210,30 +2234,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-educational-codebases/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Reloading a Document (and Preserving Query String Parameters) Using Only HTML</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-08-21T19:00:00+00:00</published>
-    <updated>2023-08-21T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-reloading-a-document-and-preserving-query-string-parameters-using-only-html/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-reloading-a-document-and-preserving-query-string-parameters-using-only-html/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/reloading-document-in-html-and-preserve-query-params/</id>
-        <link href="https://blog.jim-nielsen.com/2023/reloading-document-in-html-and-preserve-query-params/"/>
-        <title>Reloading a Document (and Preserving Query String Parameters) Using Only HTML</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-08-21T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-reloading-a-document-and-preserving-query-string-parameters-using-only-html/</id>
     <content type="html">
         
     </content>
