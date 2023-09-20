@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-19T22:52:44+00:00</updated>
+  <updated>2023-09-20T00:03:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Haskell webassembly in the browser</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2023-09-20T00:03:00+00:00</published>
+    <updated>2023-09-20T00:03:00+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-haskell-webassembly-in-the-browser/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-haskell-webassembly-in-the-browser/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/</id>
+        <link href="http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/"/>
+        <title>Haskell webassembly in the browser</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2023-09-20T00:03:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-haskell-webassembly-in-the-browser/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The best model checker is your head</title>
         <author>
@@ -16970,30 +16994,6 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-making-persistent-build-folders-in-netlify/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Withrawing github-backup</title>
-        <author>
-            <name>Joey Hess</name>
-        </author>
-    <published>2020-12-29T16:32:32+00:00</published>
-    <updated>2020-12-29T16:32:32+00:00</updated>
-    <link href="https://news.cryptic.io/joey-hess-withrawing-githubbackup/"/>
-    <link rel="alternate" href="https://news.cryptic.io/joey-hess-withrawing-githubbackup/" type="text/html"/>
-      <source>
-        <id>http://joeyh.name/blog/entry/Withrawing_github-backup/</id>
-        <link href="http://joeyh.name/blog/entry/Withrawing_github-backup/"/>
-        <title>Withrawing github-backup</title>
-        <author>
-            <name>Joey Hess</name>
-        </author>
-        <updated>2020-12-29T16:32:32+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/joey-hess-withrawing-githubbackup/</id>
     <content type="html">
         
     </content>
