@@ -124,11 +124,11 @@
     name = "matklad";
     url = "https://matklad.github.io/feed.xml";
   }
-  {
-    name = "rohanrd.xyz";
-    author = "Rohan Deshmukh";
-    url = "https://rohanrd.xyz/index.xml";
-  }
+  #{
+  #  name = "rohanrd.xyz";
+  #  author = "Rohan Deshmukh";
+  #  url = "https://rohanrd.xyz/index.xml";
+  #}
   {
     name = "johnwhiles.com";
     author = "John Whiles";
