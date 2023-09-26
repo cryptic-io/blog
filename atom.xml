@@ -55,6 +55,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Lying</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-09-25T00:00:00+00:00</published>
+    <updated>2023-09-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-lying/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-lying/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2833/</id>
+        <link href="https://xkcd.com/2833/"/>
+        <title>Lying</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-09-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-lying/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Build Great Software By Repeatedly Encountering It</title>
         <author>
             <name>Jim Nielsen</name>
@@ -794,30 +818,6 @@
       </source>
 
     <id>https://news.cryptic.io/patrick-tanguay-interesting/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Iceberg Efficiency</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-09-15T00:00:00+00:00</published>
-    <updated>2023-09-15T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-iceberg-efficiency/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-iceberg-efficiency/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2829/</id>
-        <link href="https://xkcd.com/2829/"/>
-        <title>Iceberg Efficiency</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-09-15T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-iceberg-efficiency/</id>
     <content type="html">
         
     </content>
