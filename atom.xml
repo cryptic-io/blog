@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-26T10:05:17+00:00</updated>
+  <updated>2023-09-26T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Software is What We Learned Along the Way</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-09-26T19:00:00+00:00</published>
+    <updated>2023-09-26T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-software-is-what-we-learned-along-the-way/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-software-is-what-we-learned-along-the-way/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/software-is-what-we-learned-along-the-way/</id>
+        <link href="https://blog.jim-nielsen.com/2023/software-is-what-we-learned-along-the-way/"/>
+        <title>Software is What We Learned Along the Way</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-09-26T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-software-is-what-we-learned-along-the-way/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Formal Methods can&#x27;t fix everything and that&#x27;s okay</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-09-26T15:00:00+00:00</published>
+    <updated>2023-09-26T15:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-formal-methods-cant-fix-everything-and-thats-okay/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-formal-methods-cant-fix-everything-and-thats-okay/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/formal-methods-cant-fix-everything-and-thats-okay/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/formal-methods-cant-fix-everything-and-thats-okay/"/>
+        <title>Formal Methods can&#x27;t fix everything and that&#x27;s okay</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-09-26T15:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-formal-methods-cant-fix-everything-and-thats-okay/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Code Coverage Ain&#x27;t Everything</title>
         <author>
@@ -506,6 +554,30 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-housekeeping/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Internet Centralization may have made Blocking Unwanted Web-Crawling Robots Easier</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-09-18T08:42:00+00:00</published>
+    <updated>2023-09-18T08:42:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-internet-centralization-may-have-made-blocking-unwanted-webcrawling-robots-easier/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-internet-centralization-may-have-made-blocking-unwanted-webcrawling-robots-easier/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/the-centralization-of-robots.html</id>
+        <link href="https://cheapskatesguide.org/articles/the-centralization-of-robots.html"/>
+        <title>Internet Centralization may have made Blocking Unwanted Web-Crawling Robots Easier</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-09-18T08:42:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-internet-centralization-may-have-made-blocking-unwanted-webcrawling-robots-easier/</id>
     <content type="html">
         
     </content>
@@ -1591,6 +1663,54 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Initial Impressions of the Nostr Network</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-09-04T03:15:00+00:00</published>
+    <updated>2023-09-04T03:15:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-initial-impressions-of-the-nostr-network/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-initial-impressions-of-the-nostr-network/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/nostr.html</id>
+        <link href="https://cheapskatesguide.org/articles/nostr.html"/>
+        <title>Initial Impressions of the Nostr Network</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-09-04T03:15:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-initial-impressions-of-the-nostr-network/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Upgrading Steam Deck storage the lazy way</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2023-09-04T00:00:00+00:00</published>
+    <updated>2023-09-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-upgrading-steam-deck-storage-the-lazy-way/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-upgrading-steam-deck-storage-the-lazy-way/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/steamdeck-nvme-upgrade/</id>
+        <link href="https://blog.craftyguy.net/steamdeck-nvme-upgrade/"/>
+        <title>Upgrading Steam Deck storage the lazy way</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2023-09-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-upgrading-steam-deck-storage-the-lazy-way/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Tips on how to structure your home directory</title>
         <author>
             <name>unixsheikh</name>
@@ -2287,30 +2407,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>There’s Something You Need to Know About Web Design and Development</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-08-26T19:00:00+00:00</published>
-    <updated>2023-08-26T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-theres-something-you-need-to-know-about-web-design-and-development/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-theres-something-you-need-to-know-about-web-design-and-development/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/something-you-need-to-know-about-web-dev/</id>
-        <link href="https://blog.jim-nielsen.com/2023/something-you-need-to-know-about-web-dev/"/>
-        <title>There’s Something You Need to Know About Web Design and Development</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-08-26T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-theres-something-you-need-to-know-about-web-design-and-development/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Benchmarking RK3588 NPU matrix multiplication performance</title>
         <author>
             <name>Martin Chang</name>
@@ -2594,6 +2690,30 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-educational-codebases/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Making Computers and the Internet Fun Again</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-08-21T06:43:00+00:00</published>
+    <updated>2023-08-21T06:43:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-making-computers-and-the-internet-fun-again/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-making-computers-and-the-internet-fun-again/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/making-computers-fun-again.html</id>
+        <link href="https://cheapskatesguide.org/articles/making-computers-fun-again.html"/>
+        <title>Making Computers and the Internet Fun Again</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-08-21T06:43:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-making-computers-and-the-internet-fun-again/</id>
     <content type="html">
         
     </content>
@@ -3511,6 +3631,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The Best Under $100 Pre-Owned Mini Computers to use as Desktop PC&#x27;s and Servers in 2023</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-08-07T07:56:00+00:00</published>
+    <updated>2023-08-07T07:56:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-the-best-under-100-preowned-mini-computers-to-use-as-desktop-pcs-and-servers-in-2023/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-best-under-100-preowned-mini-computers-to-use-as-desktop-pcs-and-servers-in-2023/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/best-mini-servers.html</id>
+        <link href="https://cheapskatesguide.org/articles/best-mini-servers.html"/>
+        <title>The Best Under $100 Pre-Owned Mini Computers to use as Desktop PC&#x27;s and Servers in 2023</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-08-07T07:56:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-the-best-under-100-preowned-mini-computers-to-use-as-desktop-pcs-and-servers-in-2023/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Particle playground</title>
         <author>
             <name>Austin Z. Henley</name>
@@ -4183,6 +4327,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Big Tech&#x27;s Takeover and Destruction of Open Protocols and Networks</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-07-24T03:03:00+00:00</published>
+    <updated>2023-07-24T03:03:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-big-techs-takeover-and-destruction-of-open-protocols-and-networks/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-big-techs-takeover-and-destruction-of-open-protocols-and-networks/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/big-tech-takeovers.html</id>
+        <link href="https://cheapskatesguide.org/articles/big-tech-takeovers.html"/>
+        <title>Big Tech&#x27;s Takeover and Destruction of Open Protocols and Networks</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-07-24T03:03:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-big-techs-takeover-and-destruction-of-open-protocols-and-networks/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>What do I think about biometric proof of personhood?</title>
         <author>
             <name>Vitalik Buterin</name>
@@ -4274,30 +4442,6 @@
       </source>
 
     <id>https://news.cryptic.io/nutcroft-laniakea-books-public-domain-books-for-everyone/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Queryability and the Sublime Mediocrity of SQL</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-07-21T20:29:17+00:00</published>
-    <updated>2023-07-21T20:29:17+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-queryability-and-the-sublime-mediocrity-of-sql/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-queryability-and-the-sublime-mediocrity-of-sql/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/queryability-and-the-sublime-mediocrity-of-sql/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/queryability-and-the-sublime-mediocrity-of-sql/"/>
-        <title>Queryability and the Sublime Mediocrity of SQL</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-07-21T20:29:17+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-queryability-and-the-sublime-mediocrity-of-sql/</id>
     <content type="html">
         
     </content>
@@ -5938,6 +6082,30 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-what-vale-taught-me-about-linear-types-borrowing-and-memory-safety/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>On the Poor Writing Found on Most Personal Websites, and the Few Shining Exceptions</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2023-05-31T11:59:00+00:00</published>
+    <updated>2023-05-31T11:59:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/personal-websites-and-writing.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/personal-websites-and-writing.html"/>
+        <title>On the Poor Writing Found on Most Personal Websites, and the Few Shining Exceptions</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2023-05-31T11:59:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/</id>
     <content type="html">
         
     </content>
@@ -7623,6 +7791,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Wait, I can manage DNS config without losing hair??</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2023-04-11T00:00:00+00:00</published>
+    <updated>2023-04-11T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-wait-i-can-manage-dns-config-without-losing-hair/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-wait-i-can-manage-dns-config-without-losing-hair/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/luadns/</id>
+        <link href="https://blog.craftyguy.net/luadns/"/>
+        <title>Wait, I can manage DNS config without losing hair??</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2023-04-11T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-wait-i-can-manage-dns-config-without-losing-hair/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>What does a research grant pay for?</title>
         <author>
             <name>Austin Z. Henley</name>
@@ -8487,6 +8679,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Presence detection, without compromising privacy</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2023-03-12T00:00:00+00:00</published>
+    <updated>2023-03-12T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-presence-detection-without-compromising-privacy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-presence-detection-without-compromising-privacy/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/ha-presence-privacy/</id>
+        <link href="https://blog.craftyguy.net/ha-presence-privacy/"/>
+        <title>Presence detection, without compromising privacy</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2023-03-12T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-presence-detection-without-compromising-privacy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Lightning Prisms</title>
         <author>
             <name>Gigi</name>
@@ -9183,6 +9399,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>On meetings...</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2023-02-15T00:00:00+00:00</published>
+    <updated>2023-02-15T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-on-meetings/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-on-meetings/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/on-meetings/</id>
+        <link href="https://blog.craftyguy.net/on-meetings/"/>
+        <title>On meetings...</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2023-02-15T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-on-meetings/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How employees can get burned in acquisitions</title>
         <author>
             <name>Charlie Andrews</name>
@@ -9322,6 +9562,30 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-a-few-good-lies/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>FOSDEM 2023!</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2023-02-09T00:00:00+00:00</published>
+    <updated>2023-02-09T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-fosdem-2023/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-fosdem-2023/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/fosdem23/</id>
+        <link href="https://blog.craftyguy.net/fosdem23/"/>
+        <title>FOSDEM 2023!</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2023-02-09T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-fosdem-2023/</id>
     <content type="html">
         
     </content>
@@ -10335,6 +10599,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2023-01-01T12:00:00+00:00</published>
+    <updated>2023-01-01T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/beware-help.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/beware-help.html"/>
+        <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2023-01-01T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Procedural boiderflies</title>
         <author>
             <name>andersource</name>
@@ -11199,6 +11487,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Idyllic Life</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-11-05T12:04:00+00:00</published>
+    <updated>2022-11-05T12:04:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-idyllic-life/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-idyllic-life/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/idyllic-life.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/idyllic-life.html"/>
+        <title>Idyllic Life</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-11-05T12:04:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-idyllic-life/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The heavy responsibility of the package maintainer</title>
         <author>
             <name>unixsheikh</name>
@@ -11775,6 +12087,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>8 cubic feet</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2022-09-29T00:00:00+00:00</published>
+    <updated>2022-09-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-8-cubic-feet/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-8-cubic-feet/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/8-cu-ft/</id>
+        <link href="https://blog.craftyguy.net/8-cu-ft/"/>
+        <title>8 cubic feet</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2022-09-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-8-cubic-feet/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The appeal of small computers</title>
         <author>
             <name>Andre Alves Garzia</name>
@@ -12202,6 +12538,30 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-text-as-interface/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-08-31T13:19:00+00:00</published>
+    <updated>2022-08-31T13:19:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html"/>
+        <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-08-31T13:19:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/</id>
     <content type="html">
         
     </content>
@@ -12783,6 +13143,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Deleting stuff is fun and helpful!</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2022-07-06T00:00:00+00:00</published>
+    <updated>2022-07-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-deleting-stuff-is-fun-and-helpful/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-deleting-stuff-is-fun-and-helpful/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/delete-stuff/</id>
+        <link href="https://blog.craftyguy.net/delete-stuff/"/>
+        <title>Deleting stuff is fun and helpful!</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2022-07-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-deleting-stuff-is-fun-and-helpful/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Side Projects</title>
         <author>
             <name>Arun Prasad</name>
@@ -13066,6 +13450,30 @@
       </source>
 
     <id>https://news.cryptic.io/tim-daubenschtz-what-are-accountbound-tokens/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Computers Were Not Meant to be Screwdrivers</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-05-28T10:34:00+00:00</published>
+    <updated>2022-05-28T10:34:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/computers-and-screwdrivers.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/computers-and-screwdrivers.html"/>
+        <title>Computers Were Not Meant to be Screwdrivers</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-05-28T10:34:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-computers-were-not-meant-to-be-screwdrivers/</id>
     <content type="html">
         
     </content>
@@ -13815,6 +14223,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>-h --help -help help --? -? ????</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2022-04-10T00:00:00+00:00</published>
+    <updated>2022-04-10T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-h-help-help-help/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-h-help-help-help/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/cmdline-help/</id>
+        <link href="https://blog.craftyguy.net/cmdline-help/"/>
+        <title>-h --help -help help --? -? ????</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2022-04-10T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-h-help-help-help/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>We need platform regulation</title>
         <author>
             <name>Douglas Vaghetti</name>
@@ -13954,6 +14386,30 @@
       </source>
 
     <id>https://news.cryptic.io/adam-pritchard-forwarded-header-sabotage/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Never miss completion of a long-running command again!</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2022-03-28T00:00:00+00:00</published>
+    <updated>2022-03-28T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-never-miss-completion-of-a-longrunning-command-again/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-never-miss-completion-of-a-longrunning-command-again/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/alert-done/</id>
+        <link href="https://blog.craftyguy.net/alert-done/"/>
+        <title>Never miss completion of a long-running command again!</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2022-03-28T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-never-miss-completion-of-a-longrunning-command-again/</id>
     <content type="html">
         
     </content>
@@ -14674,6 +15130,30 @@
       </source>
 
     <id>https://news.cryptic.io/dkbdkbfyi-dkb-how-to-read-a-book/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Diffing binaries, in living color!</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2022-02-04T00:00:00+00:00</published>
+    <updated>2022-02-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-diffing-binaries-in-living-color/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-diffing-binaries-in-living-color/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/color-hex-diff/</id>
+        <link href="https://blog.craftyguy.net/color-hex-diff/"/>
+        <title>Diffing binaries, in living color!</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2022-02-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-diffing-binaries-in-living-color/</id>
     <content type="html">
         
     </content>
