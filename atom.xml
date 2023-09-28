@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-28T06:00:43+00:00</updated>
+  <updated>2023-09-28T07:44:24.319+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The creative agency of small projects</title>
+        <author>
+            <name>herman</name>
+        </author>
+    <published>2023-09-28T07:44:24.319+00:00</published>
+    <updated>2023-09-28T07:44:24.319+00:00</updated>
+    <link href="https://news.cryptic.io/herman-the-creative-agency-of-small-projects/"/>
+    <link rel="alternate" href="https://news.cryptic.io/herman-the-creative-agency-of-small-projects/" type="text/html"/>
+      <source>
+        <id>https://herman.bearblog.dev/the-creative-agency-of-small-projects/</id>
+        <link href="https://herman.bearblog.dev/the-creative-agency-of-small-projects/"/>
+        <title>The creative agency of small projects</title>
+        <author>
+            <name>herman</name>
+        </author>
+        <updated>2023-09-28T07:44:24.319+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/herman-the-creative-agency-of-small-projects/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Testing PCIe on the Raspberry Pi 5</title>
         <author>
@@ -11938,30 +11962,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-my-choice-of-operating-system/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Building software to last forever</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2022-10-25T10:04:58.756+00:00</published>
-    <updated>2022-10-25T10:04:58.756+00:00</updated>
-    <link href="https://news.cryptic.io/herman-building-software-to-last-forever/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-building-software-to-last-forever/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/building-software-to-last-forever/</id>
-        <link href="https://herman.bearblog.dev/building-software-to-last-forever/"/>
-        <title>Building software to last forever</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2022-10-25T10:04:58.756+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-building-software-to-last-forever/</id>
     <content type="html">
         
     </content>
