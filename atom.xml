@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-28T15:37:46+00:00</updated>
+  <updated>2023-09-28T22:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>P&amp;B: Toby Shorin</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2023-09-28T22:00:00+00:00</published>
+    <updated>2023-09-28T22:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-toby-shorin/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-toby-shorin/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/raA9GYOPDloCBbJd</id>
+        <link href="https://manuelmoreale.com/@/page/raA9GYOPDloCBbJd"/>
+        <title>P&amp;B: Toby Shorin</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2023-09-28T22:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-toby-shorin/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Answering some questions about the Raspberry Pi 5</title>
         <author>
@@ -1802,30 +1826,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-testing-10-gbe-throughput-on-windows-iperf3-is-outdated/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Website flexibility</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2023-09-05T22:00:00+00:00</published>
-    <updated>2023-09-05T22:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-website-flexibility/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-website-flexibility/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/84UTvodOx1kVg0dl</id>
-        <link href="https://manuelmoreale.com/@/page/84UTvodOx1kVg0dl"/>
-        <title>Website flexibility</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2023-09-05T22:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-website-flexibility/</id>
     <content type="html">
         
     </content>
