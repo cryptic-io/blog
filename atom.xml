@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-28T22:00:00+00:00</updated>
+  <updated>2023-09-29T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The forbidden topics</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2023-09-29T00:00:00+00:00</published>
+    <updated>2023-09-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-the-forbidden-topics/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-the-forbidden-topics/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2023/09/29/The-forbidden-topics.html</id>
+        <link href="https://drewdevault.com/2023/09/29/The-forbidden-topics.html"/>
+        <title>The forbidden topics</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2023-09-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-the-forbidden-topics/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>P&amp;B: Toby Shorin</title>
         <author>
@@ -5722,30 +5746,6 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-why-write/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Throwing in the towel on mobile Linux</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-    <published>2023-06-16T00:00:00+00:00</published>
-    <updated>2023-06-16T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/drew-devault-throwing-in-the-towel-on-mobile-linux/"/>
-    <link rel="alternate" href="https://news.cryptic.io/drew-devault-throwing-in-the-towel-on-mobile-linux/" type="text/html"/>
-      <source>
-        <id>https://drewdevault.com/2023/06/16/Mobile-linux-retrospective.html</id>
-        <link href="https://drewdevault.com/2023/06/16/Mobile-linux-retrospective.html"/>
-        <title>Throwing in the towel on mobile Linux</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-        <updated>2023-06-16T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/drew-devault-throwing-in-the-towel-on-mobile-linux/</id>
     <content type="html">
         
     </content>
