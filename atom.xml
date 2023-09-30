@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-30T17:13:24+00:00</updated>
+  <updated>2023-09-30T17:33:35+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Typographic Malaise</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-09-30T17:33:35+00:00</published>
+    <updated>2023-09-30T17:33:35+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-typographic-malaise/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-typographic-malaise/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/typographic-malaise/</id>
+        <link href="https://robinrendle.com/notes/typographic-malaise/"/>
+        <title>Typographic Malaise</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-09-30T17:33:35+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-typographic-malaise/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Meta in Myanmar</title>
         <author>
@@ -3242,30 +3266,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-typescript-is-surprisingly-ok-for-compilers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Type Revival for Film &amp; TV</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-08-16T16:24:08+00:00</published>
-    <updated>2023-08-16T16:24:08+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-type-revival-for-film-tv/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-type-revival-for-film-tv/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/type-revival-for-film-&amp;-tv/</id>
-        <link href="https://robinrendle.com/notes/type-revival-for-film-&amp;-tv/"/>
-        <title>Type Revival for Film &amp; TV</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-08-16T16:24:08+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-type-revival-for-film-tv/</id>
     <content type="html">
         
     </content>
