@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-30T13:00:00+00:00</updated>
+  <updated>2023-09-30T17:13:24+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Meta in Myanmar</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-09-30T17:13:24+00:00</published>
+    <updated>2023-09-30T17:13:24+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-meta-in-myanmar/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-meta-in-myanmar/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/meta-in-myanmar/</id>
+        <link href="https://robinrendle.com/notes/meta-in-myanmar/"/>
+        <title>Meta in Myanmar</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-09-30T17:13:24+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-meta-in-myanmar/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>BFS zero-to-hero, part 1: intro &amp;amp; maze</title>
         <author>
@@ -3458,30 +3482,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-unicode-scalar-value/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Where the gaps are</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-08-14T15:58:38+00:00</published>
-    <updated>2023-08-14T15:58:38+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-where-the-gaps-are/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-where-the-gaps-are/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/where-the-gaps-are/</id>
-        <link href="https://robinrendle.com/notes/where-the-gaps-are/"/>
-        <title>Where the gaps are</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-08-14T15:58:38+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-where-the-gaps-are/</id>
     <content type="html">
         
     </content>
