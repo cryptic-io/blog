@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-30T03:53:31+00:00</updated>
+  <updated>2023-09-30T13:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>BFS zero-to-hero, part 1: intro &amp;amp; maze</title>
+        <author>
+            <name>andersource</name>
+        </author>
+    <published>2023-09-30T13:00:00+00:00</published>
+    <updated>2023-09-30T13:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/andersource-bfs-zerotohero-part-1-intro-amp-maze/"/>
+    <link rel="alternate" href="https://news.cryptic.io/andersource-bfs-zerotohero-part-1-intro-amp-maze/" type="text/html"/>
+      <source>
+        <id>andersource.github.io/2023/09/30/bfs-zero-to-hero-1.html</id>
+        <link href="andersource.github.io/2023/09/30/bfs-zero-to-hero-1.html"/>
+        <title>BFS zero-to-hero, part 1: intro &amp;amp; maze</title>
+        <author>
+            <name>andersource</name>
+        </author>
+        <updated>2023-09-30T13:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/andersource-bfs-zerotohero-part-1-intro-amp-maze/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>nmcli for WiFi on Raspberry Pi OS 12 &#x27;Bookworm&#x27;</title>
         <author>
@@ -50,6 +74,30 @@
       </source>
 
     <id>https://news.cryptic.io/vitalik-buterin-should-ethereum-be-okay-with-enshrining-more-things-in-the-protocol/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Sine</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-09-30T00:00:00+00:00</published>
+    <updated>2023-09-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-sine/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-sine/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/sine/</id>
+        <link href="https://xeiaso.net/blog/sine/"/>
+        <title>Sine</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-09-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-sine/</id>
     <content type="html">
         
     </content>
@@ -319,30 +367,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Philips Hue ecosystem is collapsing into stupidity</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-09-26T23:15:25+00:00</published>
-    <updated>2023-09-26T23:15:25+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/26/hue/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/26/hue/"/>
-        <title>The Philips Hue ecosystem is collapsing into stupidity</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-09-26T23:15:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Bots, Spiders, and Crawlers: The Results</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -458,30 +482,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-client-maintenance-sponsored-by-the-calyx-institute/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Expressing my laziness in concrete ways</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-09-25T19:42:47+00:00</published>
-    <updated>2023-09-25T19:42:47+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/25/lazy/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/25/lazy/"/>
-        <title>Expressing my laziness in concrete ways</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-09-25T19:42:47+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/</id>
     <content type="html">
         
     </content>
@@ -679,30 +679,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The customer stuck due to a hurricane who needed ssh</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-09-21T17:38:18+00:00</published>
-    <updated>2023-09-21T17:38:18+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/21/hurricane/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/21/hurricane/"/>
-        <title>The customer stuck due to a hurricane who needed ssh</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-09-21T17:38:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Metra Ticket Gallery</title>
         <author>
             <name>Robin Rendle</name>
@@ -722,30 +698,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-metra-ticket-gallery/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Memories of a really goofy phone from the late 80s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-09-20T19:57:28+00:00</published>
-    <updated>2023-09-20T19:57:28+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/20/fv1000/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/20/fv1000/"/>
-        <title>Memories of a really goofy phone from the late 80s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-09-20T19:57:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/</id>
     <content type="html">
         
     </content>
@@ -799,30 +751,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Add extra stuff to a &quot;standard&quot; encoding?  Sure, why not.</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-09-20T02:53:07+00:00</published>
-    <updated>2023-09-20T02:53:07+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-add-extra-stuff-to-a-standard-encoding-sure-why-not/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-add-extra-stuff-to-a-standard-encoding-sure-why-not/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/19/badlib/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/19/badlib/"/>
-        <title>Add extra stuff to a &quot;standard&quot; encoding?  Sure, why not.</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-09-20T02:53:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-add-extra-stuff-to-a-standard-encoding-sure-why-not/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Haskell webassembly in the browser</title>
         <author>
             <name>Joey Hess</name>
@@ -856,8 +784,8 @@
     <link href="https://news.cryptic.io/xe-iaso-gokrazy-is-really-cool/"/>
     <link rel="alternate" href="https://news.cryptic.io/xe-iaso-gokrazy-is-really-cool/" type="text/html"/>
       <source>
-        <id>https://xeiaso.net/blog/gokrazy</id>
-        <link href="https://xeiaso.net/blog/gokrazy"/>
+        <id>https://xeiaso.net/blog/gokrazy/</id>
+        <link href="https://xeiaso.net/blog/gokrazy/"/>
         <title>gokrazy is really cool</title>
         <author>
             <name>Xe Iaso</name>
@@ -1240,8 +1168,8 @@
     <link href="https://news.cryptic.io/xe-iaso-making-nixos-modules-for-fun-and-hopefully-profit/"/>
     <link rel="alternate" href="https://news.cryptic.io/xe-iaso-making-nixos-modules-for-fun-and-hopefully-profit/" type="text/html"/>
       <source>
-        <id>https://xeiaso.net/talks/asg-2023-nixos</id>
-        <link href="https://xeiaso.net/talks/asg-2023-nixos"/>
+        <id>https://xeiaso.net/talks/asg-2023-nixos/</id>
+        <link href="https://xeiaso.net/talks/asg-2023-nixos/"/>
         <title>Making NixOS modules for fun and (hopefully) profit</title>
         <author>
             <name>Xe Iaso</name>
@@ -2728,8 +2656,8 @@
     <link href="https://news.cryptic.io/xe-iaso-how-to-use-tailwind-css-in-your-go-programs/"/>
     <link rel="alternate" href="https://news.cryptic.io/xe-iaso-how-to-use-tailwind-css-in-your-go-programs/" type="text/html"/>
       <source>
-        <id>https://xeiaso.net/blog/using-tailwind-go</id>
-        <link href="https://xeiaso.net/blog/using-tailwind-go"/>
+        <id>https://xeiaso.net/blog/using-tailwind-go/</id>
+        <link href="https://xeiaso.net/blog/using-tailwind-go/"/>
         <title>How to use Tailwind CSS in your Go programs</title>
         <author>
             <name>Xe Iaso</name>
@@ -2752,8 +2680,8 @@
     <link href="https://news.cryptic.io/xe-iaso-reaching-the-unix-philosophys-logical-extreme-with-webassembly/"/>
     <link rel="alternate" href="https://news.cryptic.io/xe-iaso-reaching-the-unix-philosophys-logical-extreme-with-webassembly/" type="text/html"/>
       <source>
-        <id>https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm</id>
-        <link href="https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm"/>
+        <id>https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm/</id>
+        <link href="https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm/"/>
         <title>Reaching the Unix Philosophy&#x27;s Logical Extreme with Webassembly</title>
         <author>
             <name>Xe Iaso</name>
@@ -2800,8 +2728,8 @@
     <link href="https://news.cryptic.io/xe-iaso-this-isnt-the-way-to-speed-up-rust-compile-times/"/>
     <link rel="alternate" href="https://news.cryptic.io/xe-iaso-this-isnt-the-way-to-speed-up-rust-compile-times/" type="text/html"/>
       <source>
-        <id>https://xeiaso.net/blog/serde-precompiled-stupid</id>
-        <link href="https://xeiaso.net/blog/serde-precompiled-stupid"/>
+        <id>https://xeiaso.net/blog/serde-precompiled-stupid/</id>
+        <link href="https://xeiaso.net/blog/serde-precompiled-stupid/"/>
         <title>This isn&#x27;t the way to speed up Rust compile times</title>
         <author>
             <name>Xe Iaso</name>
@@ -3487,6 +3415,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>I had a great time at DEF CON 31</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-08-14T00:00:00+00:00</published>
+    <updated>2023-08-14T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-i-had-a-great-time-at-def-con-31/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-i-had-a-great-time-at-def-con-31/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/dc31/</id>
+        <link href="https://xeiaso.net/blog/dc31/"/>
+        <title>I had a great time at DEF CON 31</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-08-14T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-i-had-a-great-time-at-def-con-31/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>mojo dojo casa house</title>
         <author>
             <name>Kate Wagner</name>
@@ -3602,6 +3554,30 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-mastodon-status-check/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Introducing nixexpr: Nix expressions for JavaScript</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-08-11T00:00:00+00:00</published>
+    <updated>2023-08-11T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-introducing-nixexpr-nix-expressions-for-javascript/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-introducing-nixexpr-nix-expressions-for-javascript/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/nixexpr/</id>
+        <link href="https://xeiaso.net/blog/nixexpr/"/>
+        <title>Introducing nixexpr: Nix expressions for JavaScript</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-08-11T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-introducing-nixexpr-nix-expressions-for-javascript/</id>
     <content type="html">
         
     </content>
@@ -4423,6 +4399,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>CVE-2023-36325: Attackers can de-anonymize i2p hidden services with a message replay attack</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-07-30T00:00:00+00:00</published>
+    <updated>2023-07-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-cve202336325-attackers-can-deanonymize-i2p-hidden-services-with-a-message-replay-attack/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-cve202336325-attackers-can-deanonymize-i2p-hidden-services-with-a-message-replay-attack/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/CVE-2023-36325/</id>
+        <link href="https://xeiaso.net/blog/CVE-2023-36325/"/>
+        <title>CVE-2023-36325: Attackers can de-anonymize i2p hidden services with a message replay attack</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-07-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-cve202336325-attackers-can-deanonymize-i2p-hidden-services-with-a-message-replay-attack/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>I made a Quotebacks plugin for Marked</title>
         <author>
             <name>John Whiles</name>
@@ -4802,6 +4802,30 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-using-threat-modelling-to-choose-a-password-manager/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>How to run a sysdiagnose on an iPad</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-07-20T00:00:00+00:00</published>
+    <updated>2023-07-20T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-how-to-run-a-sysdiagnose-on-an-ipad/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-how-to-run-a-sysdiagnose-on-an-ipad/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/sysdiagnose-ipad/</id>
+        <link href="https://xeiaso.net/blog/sysdiagnose-ipad/"/>
+        <title>How to run a sysdiagnose on an iPad</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-07-20T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-how-to-run-a-sysdiagnose-on-an-ipad/</id>
     <content type="html">
         
     </content>
@@ -6255,30 +6279,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Feedback: the feed seems just fine...</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-06-04T02:04:21+00:00</published>
-    <updated>2023-06-04T02:04:21+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/06/03/feed/</id>
-        <link href="https://rachelbythebay.com/w/2023/06/03/feed/"/>
-        <title>Feedback: the feed seems just fine...</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-06-04T02:04:21+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Bees</title>
         <author>
             <name>Gigi</name>
@@ -6375,30 +6375,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Feedback: I try to answer &quot;how to become a systems engineer&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-05-31T00:51:08+00:00</published>
-    <updated>2023-05-31T00:51:08+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feedback-i-try-to-answer-how-to-become-a-systems-engineer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-i-try-to-answer-how-to-become-a-systems-engineer/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/05/30/eng/</id>
-        <link href="https://rachelbythebay.com/w/2023/05/30/eng/"/>
-        <title>Feedback: I try to answer &quot;how to become a systems engineer&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-05-31T00:51:08+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feedback-i-try-to-answer-how-to-become-a-systems-engineer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The misery of applications</title>
         <author>
             <name>nutcroft</name>
@@ -6466,30 +6442,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-resp-as-a-general-purpose-serialization-protocol/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Administrivia: new web hosting arrangements</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-05-27T22:20:12+00:00</published>
-    <updated>2023-05-27T22:20:12+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-administrivia-new-web-hosting-arrangements/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-new-web-hosting-arrangements/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/05/27/newbox/</id>
-        <link href="https://rachelbythebay.com/w/2023/05/27/newbox/"/>
-        <title>Administrivia: new web hosting arrangements</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-05-27T22:20:12+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-administrivia-new-web-hosting-arrangements/</id>
     <content type="html">
         
     </content>
@@ -7186,30 +7138,6 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-lightning-ndert-alles/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Fulfilling a reader&#x27;s request for my &quot;dot files&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-05-06T19:02:51+00:00</published>
-    <updated>2023-05-06T19:02:51+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/05/05/dot/</id>
-        <link href="https://rachelbythebay.com/w/2023/05/05/dot/"/>
-        <title>Fulfilling a reader&#x27;s request for my &quot;dot files&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-05-06T19:02:51+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/</id>
     <content type="html">
         
     </content>
@@ -8146,30 +8074,6 @@
       </source>
 
     <id>https://news.cryptic.io/clayton-craft-wait-i-can-manage-dns-config-without-losing-hair/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Escalating via post-it note just to get some health checks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-04-09T22:50:31+00:00</published>
-    <updated>2023-04-09T22:50:31+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-escalating-via-postit-note-just-to-get-some-health-checks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-escalating-via-postit-note-just-to-get-some-health-checks/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/04/09/note/</id>
-        <link href="https://rachelbythebay.com/w/2023/04/09/note/"/>
-        <title>Escalating via post-it note just to get some health checks</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-04-09T22:50:31+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-escalating-via-postit-note-just-to-get-some-health-checks/</id>
     <content type="html">
         
     </content>
@@ -16830,30 +16734,6 @@
       </source>
 
     <id>https://news.cryptic.io/jes-olson-building-a-fixed-gear-bicycle/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Generating an organic grid</title>
-        <author>
-            <name>andersource</name>
-        </author>
-    <published>2020-11-06T06:40:00+00:00</published>
-    <updated>2020-11-06T06:40:00+00:00</updated>
-    <link href="https://news.cryptic.io/andersource-generating-an-organic-grid/"/>
-    <link rel="alternate" href="https://news.cryptic.io/andersource-generating-an-organic-grid/" type="text/html"/>
-      <source>
-        <id>andersource.github.io/2020/11/06/organic-grid.html</id>
-        <link href="andersource.github.io/2020/11/06/organic-grid.html"/>
-        <title>Generating an organic grid</title>
-        <author>
-            <name>andersource</name>
-        </author>
-        <updated>2020-11-06T06:40:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/andersource-generating-an-organic-grid/</id>
     <content type="html">
         
     </content>
