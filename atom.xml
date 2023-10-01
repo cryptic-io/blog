@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-09-30T17:33:35+00:00</updated>
+  <updated>2023-10-01T03:00:01+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A raycasting engine in 7 easy steps</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2023-10-01T03:00:01+00:00</published>
+    <updated>2023-10-01T03:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-a-raycasting-engine-in-7-easy-steps/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-a-raycasting-engine-in-7-easy-steps/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/raycasting.html</id>
+        <link href="https://austinhenley.com/blog/raycasting.html"/>
+        <title>A raycasting engine in 7 easy steps</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2023-10-01T03:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-a-raycasting-engine-in-7-easy-steps/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Typographic Malaise</title>
         <author>
@@ -8794,30 +8818,6 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-de-bermuda-e-chinelo/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Don&#x27;t trap me in the chat window</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-    <published>2023-03-17T01:00:01+00:00</published>
-    <updated>2023-03-17T01:00:01+00:00</updated>
-    <link href="https://news.cryptic.io/austin-z-henley-dont-trap-me-in-the-chat-window/"/>
-    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-dont-trap-me-in-the-chat-window/" type="text/html"/>
-      <source>
-        <id>https://austinhenley.com/blog/trappedchat.html</id>
-        <link href="https://austinhenley.com/blog/trappedchat.html"/>
-        <title>Don&#x27;t trap me in the chat window</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-        <updated>2023-03-17T01:00:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/austin-z-henley-dont-trap-me-in-the-chat-window/</id>
     <content type="html">
         
     </content>
