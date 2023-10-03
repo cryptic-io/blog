@@ -4,56 +4,8 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-03T20:23:13+00:00</updated>
+  <updated>2023-10-03T14:45:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
-  <entry xml:lang="en">
-    <title>The Philips Hue ecosystem is collapsing into stupidity</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-03T20:23:13+00:00</published>
-    <updated>2023-10-03T20:23:13+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/26/hue/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/26/hue/"/>
-        <title>The Philips Hue ecosystem is collapsing into stupidity</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-03T20:23:13+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I screwed something up in that last post about Hue</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-03T20:20:04+00:00</published>
-    <updated>2023-10-03T20:20:04+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/03/js/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/03/js/"/>
-        <title>I screwed something up in that last post about Hue</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-03T20:20:04+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
   <entry xml:lang="en">
     <title>Picat is my favorite new toolbox language</title>
         <author>
@@ -895,30 +847,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Expressing my laziness in concrete ways</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-09-25T19:42:47+00:00</published>
-    <updated>2023-09-25T19:42:47+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/25/lazy/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/25/lazy/"/>
-        <title>Expressing my laziness in concrete ways</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-09-25T19:42:47+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Using llama-cpp-python server with LangChain</title>
         <author>
             <name>Martin Chang</name>
@@ -1111,30 +1039,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The customer stuck due to a hurricane who needed ssh</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-09-21T17:38:18+00:00</published>
-    <updated>2023-09-21T17:38:18+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/21/hurricane/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/21/hurricane/"/>
-        <title>The customer stuck due to a hurricane who needed ssh</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-09-21T17:38:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Metra Ticket Gallery</title>
         <author>
             <name>Robin Rendle</name>
@@ -1154,30 +1058,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-metra-ticket-gallery/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Memories of a really goofy phone from the late 80s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-09-20T19:57:28+00:00</published>
-    <updated>2023-09-20T19:57:28+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/20/fv1000/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/20/fv1000/"/>
-        <title>Memories of a really goofy phone from the late 80s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-09-20T19:57:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/</id>
     <content type="html">
         
     </content>
@@ -1226,30 +1106,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-the-frustration-loop/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Add extra stuff to a &quot;standard&quot; encoding?  Sure, why not.</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-09-20T02:53:07+00:00</published>
-    <updated>2023-09-20T02:53:07+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-add-extra-stuff-to-a-standard-encoding-sure-why-not/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-add-extra-stuff-to-a-standard-encoding-sure-why-not/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/19/badlib/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/19/badlib/"/>
-        <title>Add extra stuff to a &quot;standard&quot; encoding?  Sure, why not.</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-09-20T02:53:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-add-extra-stuff-to-a-standard-encoding-sure-why-not/</id>
     <content type="html">
         
     </content>
@@ -6495,30 +6351,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Feedback: the feed seems just fine...</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-06-04T02:04:21+00:00</published>
-    <updated>2023-06-04T02:04:21+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/06/03/feed/</id>
-        <link href="https://rachelbythebay.com/w/2023/06/03/feed/"/>
-        <title>Feedback: the feed seems just fine...</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-06-04T02:04:21+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Bees</title>
         <author>
             <name>Gigi</name>
@@ -6615,30 +6447,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Feedback: I try to answer &quot;how to become a systems engineer&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-05-31T00:51:08+00:00</published>
-    <updated>2023-05-31T00:51:08+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feedback-i-try-to-answer-how-to-become-a-systems-engineer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-i-try-to-answer-how-to-become-a-systems-engineer/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/05/30/eng/</id>
-        <link href="https://rachelbythebay.com/w/2023/05/30/eng/"/>
-        <title>Feedback: I try to answer &quot;how to become a systems engineer&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-05-31T00:51:08+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feedback-i-try-to-answer-how-to-become-a-systems-engineer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The misery of applications</title>
         <author>
             <name>nutcroft</name>
@@ -6706,30 +6514,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-resp-as-a-general-purpose-serialization-protocol/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Administrivia: new web hosting arrangements</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-05-27T22:20:12+00:00</published>
-    <updated>2023-05-27T22:20:12+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-administrivia-new-web-hosting-arrangements/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-new-web-hosting-arrangements/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/05/27/newbox/</id>
-        <link href="https://rachelbythebay.com/w/2023/05/27/newbox/"/>
-        <title>Administrivia: new web hosting arrangements</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-05-27T22:20:12+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-administrivia-new-web-hosting-arrangements/</id>
     <content type="html">
         
     </content>
@@ -7426,30 +7210,6 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-lightning-ndert-alles/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Fulfilling a reader&#x27;s request for my &quot;dot files&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-05-06T19:02:51+00:00</published>
-    <updated>2023-05-06T19:02:51+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/05/05/dot/</id>
-        <link href="https://rachelbythebay.com/w/2023/05/05/dot/"/>
-        <title>Fulfilling a reader&#x27;s request for my &quot;dot files&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-05-06T19:02:51+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/</id>
     <content type="html">
         
     </content>
@@ -16758,246 +16518,6 @@
       </source>
 
     <id>https://news.cryptic.io/ash-eight-months-of-nixos/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Advent of Code 2016</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-    <published>2020-08-16T02:48:45+00:00</published>
-    <updated>2020-08-16T02:48:45+00:00</updated>
-    <link href="https://news.cryptic.io/carl-svensson-advent-of-code-2016/"/>
-    <link rel="alternate" href="https://news.cryptic.io/carl-svensson-advent-of-code-2016/" type="text/html"/>
-      <source>
-        <id>https://www.datagubbe.se/adv2016/</id>
-        <link href="https://www.datagubbe.se/adv2016/"/>
-        <title>Advent of Code 2016</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-        <updated>2020-08-16T02:48:45+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/carl-svensson-advent-of-code-2016/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>New version of colshift</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-    <published>2020-08-08T13:50:48+00:00</published>
-    <updated>2020-08-08T13:50:48+00:00</updated>
-    <link href="https://news.cryptic.io/carl-svensson-new-version-of-colshift/"/>
-    <link rel="alternate" href="https://news.cryptic.io/carl-svensson-new-version-of-colshift/" type="text/html"/>
-      <source>
-        <id>https://www.datagubbe.se/colshift/</id>
-        <link href="https://www.datagubbe.se/colshift/"/>
-        <title>New version of colshift</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-        <updated>2020-08-08T13:50:48+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/carl-svensson-new-version-of-colshift/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>New version of Tube</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-    <published>2020-08-08T03:59:53+00:00</published>
-    <updated>2020-08-08T03:59:53+00:00</updated>
-    <link href="https://news.cryptic.io/carl-svensson-new-version-of-tube/"/>
-    <link rel="alternate" href="https://news.cryptic.io/carl-svensson-new-version-of-tube/" type="text/html"/>
-      <source>
-        <id>https://www.datagubbe.se/yt/</id>
-        <link href="https://www.datagubbe.se/yt/"/>
-        <title>New version of Tube</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-        <updated>2020-08-08T03:59:53+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/carl-svensson-new-version-of-tube/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>New version of Tube - with omxplayer support</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-    <published>2020-08-04T02:38:13+00:00</published>
-    <updated>2020-08-04T02:38:13+00:00</updated>
-    <link href="https://news.cryptic.io/carl-svensson-new-version-of-tube-with-omxplayer-support/"/>
-    <link rel="alternate" href="https://news.cryptic.io/carl-svensson-new-version-of-tube-with-omxplayer-support/" type="text/html"/>
-      <source>
-        <id>https://www.datagubbe.se/yt/</id>
-        <link href="https://www.datagubbe.se/yt/"/>
-        <title>New version of Tube - with omxplayer support</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-        <updated>2020-08-04T02:38:13+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/carl-svensson-new-version-of-tube-with-omxplayer-support/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>FVWM config for Raspberry Pi</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-    <published>2020-08-04T00:00:28+00:00</published>
-    <updated>2020-08-04T00:00:28+00:00</updated>
-    <link href="https://news.cryptic.io/carl-svensson-fvwm-config-for-raspberry-pi/"/>
-    <link rel="alternate" href="https://news.cryptic.io/carl-svensson-fvwm-config-for-raspberry-pi/" type="text/html"/>
-      <source>
-        <id>https://www.datagubbe.se/fvwm/</id>
-        <link href="https://www.datagubbe.se/fvwm/"/>
-        <title>FVWM config for Raspberry Pi</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-        <updated>2020-08-04T00:00:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/carl-svensson-fvwm-config-for-raspberry-pi/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>colshift - X11 Color Tool</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-    <published>2020-07-27T03:25:12+00:00</published>
-    <updated>2020-07-27T03:25:12+00:00</updated>
-    <link href="https://news.cryptic.io/carl-svensson-colshift-x11-color-tool/"/>
-    <link rel="alternate" href="https://news.cryptic.io/carl-svensson-colshift-x11-color-tool/" type="text/html"/>
-      <source>
-        <id>https://www.datagubbe.se/colshift/</id>
-        <link href="https://www.datagubbe.se/colshift/"/>
-        <title>colshift - X11 Color Tool</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-        <updated>2020-07-27T03:25:12+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/carl-svensson-colshift-x11-color-tool/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Added a links section</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-    <published>2020-07-24T22:59:56+00:00</published>
-    <updated>2020-07-24T22:59:56+00:00</updated>
-    <link href="https://news.cryptic.io/carl-svensson-added-a-links-section/"/>
-    <link rel="alternate" href="https://news.cryptic.io/carl-svensson-added-a-links-section/" type="text/html"/>
-      <source>
-        <id>https://www.datagubbe.se/links/</id>
-        <link href="https://www.datagubbe.se/links/"/>
-        <title>Added a links section</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-        <updated>2020-07-24T22:59:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/carl-svensson-added-a-links-section/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>New version of Tube - with search function</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-    <published>2020-07-22T23:31:01+00:00</published>
-    <updated>2020-07-22T23:31:01+00:00</updated>
-    <link href="https://news.cryptic.io/carl-svensson-new-version-of-tube-with-search-function/"/>
-    <link rel="alternate" href="https://news.cryptic.io/carl-svensson-new-version-of-tube-with-search-function/" type="text/html"/>
-      <source>
-        <id>https://www.datagubbe.se/yt/</id>
-        <link href="https://www.datagubbe.se/yt/"/>
-        <title>New version of Tube - with search function</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-        <updated>2020-07-22T23:31:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/carl-svensson-new-version-of-tube-with-search-function/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>xvol - X11 Volume Indicator</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-    <published>2020-07-21T20:25:52+00:00</published>
-    <updated>2020-07-21T20:25:52+00:00</updated>
-    <link href="https://news.cryptic.io/carl-svensson-xvol-x11-volume-indicator/"/>
-    <link rel="alternate" href="https://news.cryptic.io/carl-svensson-xvol-x11-volume-indicator/" type="text/html"/>
-      <source>
-        <id>https://www.datagubbe.se/xvol/</id>
-        <link href="https://www.datagubbe.se/xvol/"/>
-        <title>xvol - X11 Volume Indicator</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-        <updated>2020-07-21T20:25:52+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/carl-svensson-xvol-x11-volume-indicator/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>RSS Feed</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-    <published>2020-07-21T20:25:11+00:00</published>
-    <updated>2020-07-21T20:25:11+00:00</updated>
-    <link href="https://news.cryptic.io/carl-svensson-rss-feed/"/>
-    <link rel="alternate" href="https://news.cryptic.io/carl-svensson-rss-feed/" type="text/html"/>
-      <source>
-        <id>https://www.datagubbe.se/atom.xml</id>
-        <link href="https://www.datagubbe.se/atom.xml"/>
-        <title>RSS Feed</title>
-        <author>
-            <name>carl svensson</name>
-        </author>
-        <updated>2020-07-21T20:25:11+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/carl-svensson-rss-feed/</id>
     <content type="html">
         
     </content>
