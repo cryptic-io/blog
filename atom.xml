@@ -103,6 +103,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Odyssey</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-10-04T00:00:00+00:00</published>
+    <updated>2023-10-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-odyssey/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-odyssey/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2837/</id>
+        <link href="https://xkcd.com/2837/"/>
+        <title>Odyssey</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-10-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-odyssey/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>My issue with the modern NBA</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -1063,30 +1087,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Lying</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-09-25T00:00:00+00:00</published>
-    <updated>2023-09-25T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-lying/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-lying/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2833/</id>
-        <link href="https://xkcd.com/2833/"/>
-        <title>Lying</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-09-25T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-lying/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Pull requests make CI harder</title>
         <author>
             <name>Tyler Cipriani</name>
@@ -1490,30 +1490,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-safe-pixel-unlock/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>My trip to the Communication and Laptop Museum in Estonia</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2023-09-19T03:00:00+00:00</published>
-    <updated>2023-09-19T03:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-my-trip-to-the-communication-and-laptop-museum-in-estonia/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-my-trip-to-the-communication-and-laptop-museum-in-estonia/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2023/09/19/trip-to-communication-laptop-museum/</id>
-        <link href="https://ounapuu.ee/posts/2023/09/19/trip-to-communication-laptop-museum/"/>
-        <title>My trip to the Communication and Laptop Museum in Estonia</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2023-09-19T03:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-my-trip-to-the-communication-and-laptop-museum-in-estonia/</id>
     <content type="html">
         
     </content>
@@ -2167,30 +2143,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Steam local network game transfers are a game-changer</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2023-09-11T03:00:00+00:00</published>
-    <updated>2023-09-11T03:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-steam-local-network-game-transfers-are-a-gamechanger/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-steam-local-network-game-transfers-are-a-gamechanger/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2023/09/11/steam-cache/</id>
-        <link href="https://ounapuu.ee/posts/2023/09/11/steam-cache/"/>
-        <title>Steam local network game transfers are a game-changer</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2023-09-11T03:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-steam-local-network-game-transfers-are-a-gamechanger/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Team size isn&#x27;t a measure of success</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -2354,30 +2306,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-woff-has-left-the-building/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The IKEA-powered homelab on a wall</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2023-09-07T03:00:00+00:00</published>
-    <updated>2023-09-07T03:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-ikeapowered-homelab-on-a-wall/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-ikeapowered-homelab-on-a-wall/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2023/09/07/ikea-powered-homelab/</id>
-        <link href="https://ounapuu.ee/posts/2023/09/07/ikea-powered-homelab/"/>
-        <title>The IKEA-powered homelab on a wall</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2023-09-07T03:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-ikeapowered-homelab-on-a-wall/</id>
     <content type="html">
         
     </content>
@@ -2618,30 +2546,6 @@
       </source>
 
     <id>https://news.cryptic.io/cheapskate-initial-impressions-of-the-nostr-network/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Upgrading Steam Deck storage the lazy way</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2023-09-04T00:00:00+00:00</published>
-    <updated>2023-09-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-upgrading-steam-deck-storage-the-lazy-way/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-upgrading-steam-deck-storage-the-lazy-way/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/steamdeck-nvme-upgrade/</id>
-        <link href="https://blog.craftyguy.net/steamdeck-nvme-upgrade/"/>
-        <title>Upgrading Steam Deck storage the lazy way</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2023-09-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-upgrading-steam-deck-storage-the-lazy-way/</id>
     <content type="html">
         
     </content>
@@ -3050,30 +2954,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-why-are-websites-embarrassing/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why you might not want to publicly self-host a Wikipedia clone</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2023-08-29T03:00:00+00:00</published>
-    <updated>2023-08-29T03:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-why-you-might-not-want-to-publicly-selfhost-a-wikipedia-clone/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-why-you-might-not-want-to-publicly-selfhost-a-wikipedia-clone/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2023/08/29/why-you-might-not-want-to-self-host-wikipedia/</id>
-        <link href="https://ounapuu.ee/posts/2023/08/29/why-you-might-not-want-to-self-host-wikipedia/"/>
-        <title>Why you might not want to publicly self-host a Wikipedia clone</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2023-08-29T03:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-why-you-might-not-want-to-publicly-selfhost-a-wikipedia-clone/</id>
     <content type="html">
         
     </content>
@@ -4519,30 +4399,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Cool projects</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2023-08-03T04:44:00+00:00</published>
-    <updated>2023-08-03T04:44:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-cool-projects/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-cool-projects/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/misc/cool-projects/</id>
-        <link href="https://ounapuu.ee/misc/cool-projects/"/>
-        <title>Cool projects</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2023-08-03T04:44:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-cool-projects/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How incredibly easy it is to break (weak) passwords</title>
         <author>
             <name>Martin Chang</name>
@@ -4562,30 +4418,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-how-incredibly-easy-it-is-to-break-weak-passwords/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>My experience at the k-space hackerspace hackathon</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2023-08-03T03:00:00+00:00</published>
-    <updated>2023-08-03T03:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-my-experience-at-the-kspace-hackerspace-hackathon/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-my-experience-at-the-kspace-hackerspace-hackathon/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2023/08/03/k-space-hackathon/</id>
-        <link href="https://ounapuu.ee/posts/2023/08/03/k-space-hackathon/"/>
-        <title>My experience at the k-space hackerspace hackathon</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2023-08-03T03:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-my-experience-at-the-kspace-hackerspace-hackathon/</id>
     <content type="html">
         
     </content>
@@ -6423,30 +6255,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>How I blew up my backup server (Valve pls fix)</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2023-06-10T09:00:00+00:00</published>
-    <updated>2023-06-10T09:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-i-blew-up-my-backup-server-valve-pls-fix/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-i-blew-up-my-backup-server-valve-pls-fix/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2023/06/10/how-i-blew-up-my-backup-server/</id>
-        <link href="https://ounapuu.ee/posts/2023/06/10/how-i-blew-up-my-backup-server/"/>
-        <title>How I blew up my backup server (Valve pls fix)</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2023-06-10T09:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-i-blew-up-my-backup-server-valve-pls-fix/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The Link Between Generics, Compile Times, Type-Erasure, Cloud Building, and Hot-Code Reloading</title>
         <author>
             <name>Evan Ovadia</name>
@@ -6802,30 +6610,6 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-how-to-write-a-scientific-paper/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I held a talk about my self-hosting adventure!</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2023-05-26T03:00:00+00:00</published>
-    <updated>2023-05-26T03:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-held-a-talk-about-my-selfhosting-adventure/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-held-a-talk-about-my-selfhosting-adventure/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2023/05/26/my-selfhosting-adventure/</id>
-        <link href="https://ounapuu.ee/posts/2023/05/26/my-selfhosting-adventure/"/>
-        <title>I held a talk about my self-hosting adventure!</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2023-05-26T03:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-held-a-talk-about-my-selfhosting-adventure/</id>
     <content type="html">
         
     </content>
@@ -7743,30 +7527,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Dell Latitude 5411: the Linux compatibility sweet spot</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2023-04-28T03:00:00+00:00</published>
-    <updated>2023-04-28T03:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-dell-latitude-5411-the-linux-compatibility-sweet-spot/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-dell-latitude-5411-the-linux-compatibility-sweet-spot/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2023/04/28/dell-latitude-5411/</id>
-        <link href="https://ounapuu.ee/posts/2023/04/28/dell-latitude-5411/"/>
-        <title>Dell Latitude 5411: the Linux compatibility sweet spot</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2023-04-28T03:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-dell-latitude-5411-the-linux-compatibility-sweet-spot/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The future of programming: Research at CHI 2023</title>
         <author>
             <name>Austin Z. Henley</name>
@@ -8026,30 +7786,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Life is maintenance, maintenance is life</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2023-04-20T03:00:00+00:00</published>
-    <updated>2023-04-20T03:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-life-is-maintenance-maintenance-is-life/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-life-is-maintenance-maintenance-is-life/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2023/04/20/maintenance/</id>
-        <link href="https://ounapuu.ee/posts/2023/04/20/maintenance/"/>
-        <title>Life is maintenance, maintenance is life</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2023-04-20T03:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-life-is-maintenance-maintenance-is-life/</id>
     <content type="html">
         
     </content>
@@ -8410,30 +8146,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-wireheading-city/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Wait, I can manage DNS config without losing hair??</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2023-04-11T00:00:00+00:00</published>
-    <updated>2023-04-11T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-wait-i-can-manage-dns-config-without-losing-hair/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-wait-i-can-manage-dns-config-without-losing-hair/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/luadns/</id>
-        <link href="https://blog.craftyguy.net/luadns/"/>
-        <title>Wait, I can manage DNS config without losing hair??</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2023-04-11T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-wait-i-can-manage-dns-config-without-losing-hair/</id>
     <content type="html">
         
     </content>
@@ -9255,30 +8967,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Presence detection, without compromising privacy</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2023-03-12T00:00:00+00:00</published>
-    <updated>2023-03-12T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-presence-detection-without-compromising-privacy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-presence-detection-without-compromising-privacy/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/ha-presence-privacy/</id>
-        <link href="https://blog.craftyguy.net/ha-presence-privacy/"/>
-        <title>Presence detection, without compromising privacy</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2023-03-12T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-presence-detection-without-compromising-privacy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Lightning Prisms</title>
         <author>
             <name>Gigi</name>
@@ -9951,30 +9639,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>On meetings...</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2023-02-15T00:00:00+00:00</published>
-    <updated>2023-02-15T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-on-meetings/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-on-meetings/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/on-meetings/</id>
-        <link href="https://blog.craftyguy.net/on-meetings/"/>
-        <title>On meetings...</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2023-02-15T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-on-meetings/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How employees can get burned in acquisitions</title>
         <author>
             <name>Charlie Andrews</name>
@@ -10090,30 +9754,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-a-few-good-lies/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>FOSDEM 2023!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2023-02-09T00:00:00+00:00</published>
-    <updated>2023-02-09T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-fosdem-2023/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-fosdem-2023/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/fosdem23/</id>
-        <link href="https://blog.craftyguy.net/fosdem23/"/>
-        <title>FOSDEM 2023!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2023-02-09T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-fosdem-2023/</id>
     <content type="html">
         
     </content>
@@ -12399,30 +12039,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>8 cubic feet</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2022-09-29T00:00:00+00:00</published>
-    <updated>2022-09-29T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-8-cubic-feet/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-8-cubic-feet/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/8-cu-ft/</id>
-        <link href="https://blog.craftyguy.net/8-cu-ft/"/>
-        <title>8 cubic feet</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2022-09-29T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-8-cubic-feet/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The appeal of small computers</title>
         <author>
             <name>Andre Alves Garzia</name>
@@ -13378,30 +12994,6 @@
       </source>
 
     <id>https://news.cryptic.io/roy-van-rijn-solving-the-daily-calendar-puzzle/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Deleting stuff is fun and helpful!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2022-07-06T00:00:00+00:00</published>
-    <updated>2022-07-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-deleting-stuff-is-fun-and-helpful/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-deleting-stuff-is-fun-and-helpful/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/delete-stuff/</id>
-        <link href="https://blog.craftyguy.net/delete-stuff/"/>
-        <title>Deleting stuff is fun and helpful!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2022-07-06T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-deleting-stuff-is-fun-and-helpful/</id>
     <content type="html">
         
     </content>
@@ -14463,30 +14055,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>-h --help -help help --? -? ????</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2022-04-10T00:00:00+00:00</published>
-    <updated>2022-04-10T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-h-help-help-help/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-h-help-help-help/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/cmdline-help/</id>
-        <link href="https://blog.craftyguy.net/cmdline-help/"/>
-        <title>-h --help -help help --? -? ????</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2022-04-10T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-h-help-help-help/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>We need platform regulation</title>
         <author>
             <name>Douglas Vaghetti</name>
@@ -14602,30 +14170,6 @@
       </source>
 
     <id>https://news.cryptic.io/adam-pritchard-forwarded-header-sabotage/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Never miss completion of a long-running command again!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2022-03-28T00:00:00+00:00</published>
-    <updated>2022-03-28T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-never-miss-completion-of-a-longrunning-command-again/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-never-miss-completion-of-a-longrunning-command-again/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/alert-done/</id>
-        <link href="https://blog.craftyguy.net/alert-done/"/>
-        <title>Never miss completion of a long-running command again!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2022-03-28T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-never-miss-completion-of-a-longrunning-command-again/</id>
     <content type="html">
         
     </content>
@@ -15322,30 +14866,6 @@
       </source>
 
     <id>https://news.cryptic.io/dkbdkbfyi-dkb-how-to-read-a-book/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Diffing binaries, in living color!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2022-02-04T00:00:00+00:00</published>
-    <updated>2022-02-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-diffing-binaries-in-living-color/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-diffing-binaries-in-living-color/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/color-hex-diff/</id>
-        <link href="https://blog.craftyguy.net/color-hex-diff/"/>
-        <title>Diffing binaries, in living color!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2022-02-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-diffing-binaries-in-living-color/</id>
     <content type="html">
         
     </content>
