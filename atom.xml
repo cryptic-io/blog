@@ -55,6 +55,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>tel:me.about.it.</title>
+        <author>
+            <name>Brian Kardell</name>
+        </author>
+    <published>2023-10-05T04:00:00+00:00</published>
+    <updated>2023-10-05T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/brian-kardell-telmeaboutit/"/>
+    <link rel="alternate" href="https://news.cryptic.io/brian-kardell-telmeaboutit/" type="text/html"/>
+      <source>
+        <id>https://bkardell.com/blog/tel-me.html</id>
+        <link href="https://bkardell.com/blog/tel-me.html"/>
+        <title>tel:me.about.it.</title>
+        <author>
+            <name>Brian Kardell</name>
+        </author>
+        <updated>2023-10-05T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/brian-kardell-telmeaboutit/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Grug on diet soda and autism</title>
         <author>
             <name>dynomight</name>
@@ -11698,30 +11722,6 @@
       </source>
 
     <id>https://news.cryptic.io/andersource-the-exhaustive-todo-list/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Alice 2023</title>
-        <author>
-            <name>Brian Kardell</name>
-        </author>
-    <published>2022-11-25T05:00:00+00:00</published>
-    <updated>2022-11-25T05:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/brian-kardell-alice-2023/"/>
-    <link rel="alternate" href="https://news.cryptic.io/brian-kardell-alice-2023/" type="text/html"/>
-      <source>
-        <id>https://bkardell.com/blog/Alice-2023.html</id>
-        <link href="https://bkardell.com/blog/Alice-2023.html"/>
-        <title>Alice 2023</title>
-        <author>
-            <name>Brian Kardell</name>
-        </author>
-        <updated>2022-11-25T05:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/brian-kardell-alice-2023/</id>
     <content type="html">
         
     </content>
