@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-05T07:11:12.023+00:00</updated>
+  <updated>2023-10-05T17:00:01+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>ASCII protocol buffers as config files</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-05T17:00:01+00:00</published>
+    <updated>2023-10-05T17:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/05/config/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/05/config/"/>
+        <title>ASCII protocol buffers as config files</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-05T17:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>How I stay motivated as a solo-creator</title>
         <author>
@@ -7546,30 +7570,6 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-lightning-ndert-alles/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Fulfilling a reader&#x27;s request for my &quot;dot files&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-05-06T19:02:51+00:00</published>
-    <updated>2023-05-06T19:02:51+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/05/05/dot/</id>
-        <link href="https://rachelbythebay.com/w/2023/05/05/dot/"/>
-        <title>Fulfilling a reader&#x27;s request for my &quot;dot files&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-05-06T19:02:51+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-fulfilling-a-readers-request-for-my-dot-files/</id>
     <content type="html">
         
     </content>
