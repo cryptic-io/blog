@@ -83,6 +83,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Dubious Islands</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-10-06T00:00:00+00:00</published>
+    <updated>2023-10-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-dubious-islands/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-dubious-islands/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2838/</id>
+        <link href="https://xkcd.com/2838/"/>
+        <title>Dubious Islands</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-10-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-dubious-islands/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>P&amp;B: Andrea Contino</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -1062,30 +1086,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-robotstxt/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Book Podcasts</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-09-27T00:00:00+00:00</published>
-    <updated>2023-09-27T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-book-podcasts/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-book-podcasts/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2834/</id>
-        <link href="https://xkcd.com/2834/"/>
-        <title>Book Podcasts</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-09-27T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-book-podcasts/</id>
     <content type="html">
         
     </content>
