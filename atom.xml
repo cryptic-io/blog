@@ -4,8 +4,60 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-06T00:00:00+00:00</updated>
+  <updated>2023-10-06T20:59:31+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>
+      Interesting
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+    <published>2023-10-06T20:59:31+00:00</published>
+    <updated>2023-10-06T20:59:31+00:00</updated>
+    <link href="https://news.cryptic.io/apenwarr-interesting/"/>
+    <link rel="alternate" href="https://news.cryptic.io/apenwarr-interesting/" type="text/html"/>
+      <source>
+        <id>https://apenwarr.ca/log/20231006</id>
+        <link href="https://apenwarr.ca/log/20231006"/>
+        <title>
+      Interesting
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+        <updated>2023-10-06T20:59:31+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/apenwarr-interesting/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Cascade</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-10-06T20:36:26+00:00</published>
+    <updated>2023-10-06T20:36:26+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-the-cascade/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-cascade/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/the-cascade/</id>
+        <link href="https://robinrendle.com/notes/the-cascade/"/>
+        <title>The Cascade</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-10-06T20:36:26+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-the-cascade/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>What is an Invariant?</title>
         <author>
@@ -3002,30 +3054,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-my-painful-futile-quest-for-programmable-slideshow-animations/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why are websites embarrassing?</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-08-29T17:07:16+00:00</published>
-    <updated>2023-08-29T17:07:16+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-why-are-websites-embarrassing/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-why-are-websites-embarrassing/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/why-are-websites-embarrassing/</id>
-        <link href="https://robinrendle.com/notes/why-are-websites-embarrassing/"/>
-        <title>Why are websites embarrassing?</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-08-29T17:07:16+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-why-are-websites-embarrassing/</id>
     <content type="html">
         
     </content>
@@ -16682,34 +16710,6 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-making-persistent-build-folders-in-netlify/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>
-      Systems design explains the world: volume 1
-    </title>
-        <author>
-            <name>apenwarr</name>
-        </author>
-    <published>2020-12-29T03:45:00+00:00</published>
-    <updated>2020-12-29T03:45:00+00:00</updated>
-    <link href="https://news.cryptic.io/apenwarr-systems-design-explains-the-world-volume-1/"/>
-    <link rel="alternate" href="https://news.cryptic.io/apenwarr-systems-design-explains-the-world-volume-1/" type="text/html"/>
-      <source>
-        <id>https://apenwarr.ca/log/20201227</id>
-        <link href="https://apenwarr.ca/log/20201227"/>
-        <title>
-      Systems design explains the world: volume 1
-    </title>
-        <author>
-            <name>apenwarr</name>
-        </author>
-        <updated>2020-12-29T03:45:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/apenwarr-systems-design-explains-the-world-volume-1/</id>
     <content type="html">
         
     </content>
