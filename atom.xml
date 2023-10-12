@@ -103,6 +103,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Okay, fine, I&#x27;m using a static site generator now</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-10-12T00:00:00+00:00</published>
+    <updated>2023-10-12T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-okay-fine-im-using-a-static-site-generator-now/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-okay-fine-im-using-a-static-site-generator-now/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/xesite-v4/</id>
+        <link href="https://xeiaso.net/blog/xesite-v4/"/>
+        <title>Okay, fine, I&#x27;m using a static site generator now</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-10-12T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-okay-fine-im-using-a-static-site-generator-now/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How to make a blog</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -4422,30 +4446,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-mastodon-status-check/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Introducing nixexpr: Nix expressions for JavaScript</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2023-08-11T00:00:00+00:00</published>
-    <updated>2023-08-11T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-introducing-nixexpr-nix-expressions-for-javascript/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-introducing-nixexpr-nix-expressions-for-javascript/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/nixexpr/</id>
-        <link href="https://xeiaso.net/blog/nixexpr/"/>
-        <title>Introducing nixexpr: Nix expressions for JavaScript</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2023-08-11T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-introducing-nixexpr-nix-expressions-for-javascript/</id>
     <content type="html">
         
     </content>
