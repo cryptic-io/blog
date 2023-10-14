@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-13T03:26:06+00:00</updated>
+  <updated>2023-10-14T15:59:19+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Post Series</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-10-14T15:59:19+00:00</published>
+    <updated>2023-10-14T15:59:19+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-post-series/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-post-series/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/series/</id>
+        <link href="https://xeiaso.net/blog/series/"/>
+        <title>Post Series</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-10-14T15:59:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-post-series/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title> Administrivia: new page&#x2F;feed generator is now live</title>
         <author>
@@ -4451,30 +4475,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>I had a great time at DEF CON 31</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2023-08-14T00:00:00+00:00</published>
-    <updated>2023-08-14T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-i-had-a-great-time-at-def-con-31/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-i-had-a-great-time-at-def-con-31/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/dc31/</id>
-        <link href="https://xeiaso.net/blog/dc31/"/>
-        <title>I had a great time at DEF CON 31</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2023-08-14T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-i-had-a-great-time-at-def-con-31/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>mojo dojo casa house</title>
         <author>
             <name>Kate Wagner</name>
@@ -6811,30 +6811,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Manuel was annoyed</title>
-        <author>
-            <name>Manuel</name>
-        </author>
-    <published>2023-06-11T08:57:48+00:00</published>
-    <updated>2023-06-11T08:57:48+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-manuel-was-annoyed/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-manuel-was-annoyed/" type="text/html"/>
-      <source>
-        <id>https://annoying.technology/posts/d01dcb9c842987dc/</id>
-        <link href="https://annoying.technology/posts/d01dcb9c842987dc/"/>
-        <title>Manuel was annoyed</title>
-        <author>
-            <name>Manuel</name>
-        </author>
-        <updated>2023-06-11T08:57:48+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-manuel-was-annoyed/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How I blew up my backup server (Valve pls fix)</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -8246,6 +8222,30 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-inhale-and-exhale-days/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Manuel was annoyed</title>
+        <author>
+            <name>Manuel</name>
+        </author>
+    <published>2023-04-23T13:26:07+00:00</published>
+    <updated>2023-04-23T13:26:07+00:00</updated>
+    <link href="https://news.cryptic.io/manuel-manuel-was-annoyed/"/>
+    <link rel="alternate" href="https://news.cryptic.io/manuel-manuel-was-annoyed/" type="text/html"/>
+      <source>
+        <id>https://annoying.technology/posts/a6a3b563a8d4d7ea/</id>
+        <link href="https://annoying.technology/posts/a6a3b563a8d4d7ea/"/>
+        <title>Manuel was annoyed</title>
+        <author>
+            <name>Manuel</name>
+        </author>
+        <updated>2023-04-23T13:26:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/manuel-manuel-was-annoyed/</id>
     <content type="html">
         
     </content>
