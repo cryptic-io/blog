@@ -4,52 +4,28 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-15T17:27:55+00:00</updated>
+  <updated>2023-10-15T18:50:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
-    <title>Post Series</title>
+    <title>BFS zero-to-hero, part 2: snake</title>
         <author>
-            <name>Xe Iaso</name>
+            <name>andersource</name>
         </author>
-    <published>2023-10-15T17:27:55+00:00</published>
-    <updated>2023-10-15T17:27:55+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-post-series/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-post-series/" type="text/html"/>
+    <published>2023-10-15T18:50:00+00:00</published>
+    <updated>2023-10-15T18:50:00+00:00</updated>
+    <link href="https://news.cryptic.io/andersource-bfs-zerotohero-part-2-snake/"/>
+    <link rel="alternate" href="https://news.cryptic.io/andersource-bfs-zerotohero-part-2-snake/" type="text/html"/>
       <source>
-        <id>https://xeiaso.net/blog/series/</id>
-        <link href="https://xeiaso.net/blog/series/"/>
-        <title>Post Series</title>
+        <id>andersource.github.io/2023/10/15/bfs-zero-to-hero-2.html</id>
+        <link href="andersource.github.io/2023/10/15/bfs-zero-to-hero-2.html"/>
+        <title>BFS zero-to-hero, part 2: snake</title>
         <author>
-            <name>Xe Iaso</name>
+            <name>andersource</name>
         </author>
-        <updated>2023-10-15T17:27:55+00:00</updated>
+        <updated>2023-10-15T18:50:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/xe-iaso-post-series/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Design systems, color spaces, and CSS</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-10-15T03:31:33+00:00</published>
-    <updated>2023-10-15T03:31:33+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-design-systems-color-spaces-and-css/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-design-systems-color-spaces-and-css/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/design-systems-color-spaces-and-css/</id>
-        <link href="https://robinrendle.com/notes/design-systems-color-spaces-and-css/"/>
-        <title>Design systems, color spaces, and CSS</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-10-15T03:31:33+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-design-systems-color-spaces-and-css/</id>
+    <id>https://news.cryptic.io/andersource-bfs-zerotohero-part-2-snake/</id>
     <content type="html">
         
     </content>
@@ -803,30 +779,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Cascade</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-10-06T20:36:26+00:00</published>
-    <updated>2023-10-06T20:36:26+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-cascade/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-cascade/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-cascade/</id>
-        <link href="https://robinrendle.com/notes/the-cascade/"/>
-        <title>The Cascade</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-10-06T20:36:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-cascade/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>What is an Invariant?</title>
         <author>
             <name>Alex Kladov</name>
@@ -1038,30 +990,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-a-few-details-about-my-notes-website/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>footer.design</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-10-04T17:38:41+00:00</published>
-    <updated>2023-10-04T17:38:41+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-footerdesign/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-footerdesign/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/footer.design-/</id>
-        <link href="https://robinrendle.com/notes/footer.design-/"/>
-        <title>footer.design</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-10-04T17:38:41+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-footerdesign/</id>
     <content type="html">
         
     </content>
@@ -1398,54 +1326,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-a-raycasting-engine-in-7-easy-steps/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Typographic Malaise</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-09-30T17:33:35+00:00</published>
-    <updated>2023-09-30T17:33:35+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-typographic-malaise/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-typographic-malaise/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/typographic-malaise/</id>
-        <link href="https://robinrendle.com/notes/typographic-malaise/"/>
-        <title>Typographic Malaise</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-09-30T17:33:35+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-typographic-malaise/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Meta in Myanmar</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-09-30T17:13:24+00:00</published>
-    <updated>2023-09-30T17:13:24+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-meta-in-myanmar/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-meta-in-myanmar/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/meta-in-myanmar/</id>
-        <link href="https://robinrendle.com/notes/meta-in-myanmar/"/>
-        <title>Meta in Myanmar</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-09-30T17:13:24+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-meta-in-myanmar/</id>
     <content type="html">
         
     </content>
@@ -2027,30 +1907,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Meh</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-09-23T02:01:24+00:00</published>
-    <updated>2023-09-23T02:01:24+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-meh/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-meh/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/meh/</id>
-        <link href="https://robinrendle.com/notes/meh/"/>
-        <title>Meh</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-09-23T02:01:24+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-meh/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Flipping tables and hiring kids</title>
         <author>
             <name>Justin Jackson</name>
@@ -2123,30 +1979,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Metra Ticket Gallery</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-09-21T17:28:57+00:00</published>
-    <updated>2023-09-21T17:28:57+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-metra-ticket-gallery/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-metra-ticket-gallery/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/metra-ticket-gallery/</id>
-        <link href="https://robinrendle.com/notes/metra-ticket-gallery/"/>
-        <title>Metra Ticket Gallery</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-09-21T17:28:57+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-metra-ticket-gallery/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title> Memories of a really goofy phone from the late 80s</title>
         <author>
             <name>rachelbythebay</name>
@@ -2166,30 +1998,6 @@
       </source>
 
     <id>https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Kobo Libra 2</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-09-20T18:18:57+00:00</published>
-    <updated>2023-09-20T18:18:57+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-kobo-libra-2/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-kobo-libra-2/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/kobo-libra-2/</id>
-        <link href="https://robinrendle.com/notes/kobo-libra-2/"/>
-        <title>Kobo Libra 2</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-09-20T18:18:57+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-kobo-libra-2/</id>
     <content type="html">
         
     </content>
@@ -2622,30 +2430,6 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-making-nixos-modules-for-fun-and-hopefully-profit/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>v13</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-09-14T23:08:13+00:00</published>
-    <updated>2023-09-14T23:08:13+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-v13/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-v13/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/v13/</id>
-        <link href="https://robinrendle.com/notes/v13/"/>
-        <title>v13</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-09-14T23:08:13+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-v13/</id>
     <content type="html">
         
     </content>
@@ -3462,30 +3246,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-pointing-fingers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A lot of stuff is just fine.</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-08-31T20:54:57+00:00</published>
-    <updated>2023-08-31T20:54:57+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-a-lot-of-stuff-is-just-fine/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-a-lot-of-stuff-is-just-fine/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/a-lot-of-stuff-is-just-fine./</id>
-        <link href="https://robinrendle.com/notes/a-lot-of-stuff-is-just-fine./"/>
-        <title>A lot of stuff is just fine.</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-08-31T20:54:57+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-a-lot-of-stuff-is-just-fine/</id>
     <content type="html">
         
     </content>
@@ -4494,6 +4254,30 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-thoughts-on-highstakes-college-admissions/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>I had a great time at DEF CON 31</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-08-14T00:00:00+00:00</published>
+    <updated>2023-08-14T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-i-had-a-great-time-at-def-con-31/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-i-had-a-great-time-at-def-con-31/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/dc31/</id>
+        <link href="https://xeiaso.net/blog/dc31/"/>
+        <title>I had a great time at DEF CON 31</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-08-14T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-i-had-a-great-time-at-def-con-31/</id>
     <content type="html">
         
     </content>
@@ -16542,30 +16326,6 @@
       </source>
 
     <id>https://news.cryptic.io/marco-declarative-dev-environments/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The faulty digital clock problem</title>
-        <author>
-            <name>andersource</name>
-        </author>
-    <published>2021-04-29T20:00:00+00:00</published>
-    <updated>2021-04-29T20:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/andersource-the-faulty-digital-clock-problem/"/>
-    <link rel="alternate" href="https://news.cryptic.io/andersource-the-faulty-digital-clock-problem/" type="text/html"/>
-      <source>
-        <id>andersource.github.io/2021/04/29/faulty_digital_clock.html</id>
-        <link href="andersource.github.io/2021/04/29/faulty_digital_clock.html"/>
-        <title>The faulty digital clock problem</title>
-        <author>
-            <name>andersource</name>
-        </author>
-        <updated>2021-04-29T20:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/andersource-the-faulty-digital-clock-problem/</id>
     <content type="html">
         
     </content>
