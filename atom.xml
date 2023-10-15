@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-14T15:59:19+00:00</updated>
+  <updated>2023-10-15T03:31:33+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Design systems, color spaces, and CSS</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-10-15T03:31:33+00:00</published>
+    <updated>2023-10-15T03:31:33+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-design-systems-color-spaces-and-css/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-design-systems-color-spaces-and-css/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/design-systems-color-spaces-and-css/</id>
+        <link href="https://robinrendle.com/notes/design-systems-color-spaces-and-css/"/>
+        <title>Design systems, color spaces, and CSS</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-10-15T03:31:33+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-design-systems-color-spaces-and-css/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Post Series</title>
         <author>
@@ -3438,30 +3462,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-a-lot-of-stuff-is-just-fine/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Processing painful work exits</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-08-31T18:36:21+00:00</published>
-    <updated>2023-08-31T18:36:21+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-processing-painful-work-exits/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-processing-painful-work-exits/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/processing-painful-work-exits/</id>
-        <link href="https://robinrendle.com/notes/processing-painful-work-exits/"/>
-        <title>Processing painful work exits</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-08-31T18:36:21+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-processing-painful-work-exits/</id>
     <content type="html">
         
     </content>
