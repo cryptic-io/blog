@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-15T22:56:00+00:00</updated>
+  <updated>2023-10-17T00:00:07+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-17T00:00:07+00:00</published>
+    <updated>2023-10-17T00:00:07+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/16/env/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/16/env/"/>
+        <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-17T00:00:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Inspiraling Roundabout</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-10-16T00:00:00+00:00</published>
+    <updated>2023-10-16T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-inspiraling-roundabout/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-inspiraling-roundabout/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2842/</id>
+        <link href="https://xkcd.com/2842/"/>
+        <title>Inspiraling Roundabout</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-10-16T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-inspiraling-roundabout/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The discrete logarithm</title>
         <author>
@@ -131,8 +179,8 @@
         <author>
             <name>rachelbythebay</name>
         </author>
-    <published>2023-10-13T03:26:06+00:00</published>
-    <updated>2023-10-13T03:26:06+00:00</updated>
+    <published>2023-10-13T03:29:40+00:00</published>
+    <updated>2023-10-13T03:29:40+00:00</updated>
     <link href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/"/>
     <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/" type="text/html"/>
       <source>
@@ -142,7 +190,7 @@
         <author>
             <name>rachelbythebay</name>
         </author>
-        <updated>2023-10-13T03:26:06+00:00</updated>
+        <updated>2023-10-13T03:29:40+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/</id>
@@ -942,30 +990,6 @@
       </source>
 
     <id>https://news.cryptic.io/jes-olson-shell-tip-print-json-with-printf/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Dubious Islands</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-10-06T00:00:00+00:00</published>
-    <updated>2023-10-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-dubious-islands/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-dubious-islands/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2838/</id>
-        <link href="https://xkcd.com/2838/"/>
-        <title>Dubious Islands</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-10-06T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-dubious-islands/</id>
     <content type="html">
         
     </content>
@@ -7070,30 +7094,6 @@
       </source>
 
     <id>https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> Feedback: I try to answer &quot;how to become a systems engineer&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-05-31T00:51:08+00:00</published>
-    <updated>2023-05-31T00:51:08+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feedback-i-try-to-answer-how-to-become-a-systems-engineer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-i-try-to-answer-how-to-become-a-systems-engineer/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/05/30/eng/</id>
-        <link href="https://rachelbythebay.com/w/2023/05/30/eng/"/>
-        <title> Feedback: I try to answer &quot;how to become a systems engineer&quot;</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-05-31T00:51:08+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feedback-i-try-to-answer-how-to-become-a-systems-engineer/</id>
     <content type="html">
         
     </content>
