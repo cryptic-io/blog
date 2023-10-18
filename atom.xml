@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-18T11:14:54.196+00:00</updated>
+  <updated>2023-10-18T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>LLMs and Naming Things</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-10-18T19:00:00+00:00</published>
+    <updated>2023-10-18T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-llms-and-naming-things/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-llms-and-naming-things/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/naming-things-and-llms/</id>
+        <link href="https://blog.jim-nielsen.com/2023/naming-things-and-llms/"/>
+        <title>LLMs and Naming Things</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-10-18T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-llms-and-naming-things/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Teaching tax in school</title>
         <author>
@@ -2886,30 +2910,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-v13/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>“The iOS App Icon Book” in Japanese</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-09-14T19:00:00+00:00</published>
-    <updated>2023-09-14T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-the-ios-app-icon-book-in-japanese/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-the-ios-app-icon-book-in-japanese/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/japanese-ios-app-icon-book/</id>
-        <link href="https://blog.jim-nielsen.com/2023/japanese-ios-app-icon-book/"/>
-        <title>“The iOS App Icon Book” in Japanese</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-09-14T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-the-ios-app-icon-book-in-japanese/</id>
     <content type="html">
         
     </content>
