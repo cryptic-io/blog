@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-18T19:00:00+00:00</updated>
+  <updated>2023-10-19T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Actions that create opportuninities</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+    <published>2023-10-19T00:00:00+00:00</published>
+    <updated>2023-10-19T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/justin-jackson-actions-that-create-opportuninities/"/>
+    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-actions-that-create-opportuninities/" type="text/html"/>
+      <source>
+        <id>https://justinjackson.ca/actions</id>
+        <link href="https://justinjackson.ca/actions"/>
+        <title>Actions that create opportuninities</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+        <updated>2023-10-19T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/justin-jackson-actions-that-create-opportuninities/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>LLMs and Naming Things</title>
         <author>
@@ -9206,30 +9230,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-the-art-of-resisting-promotion/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Is ChatGPT the next big startup platform?</title>
-        <author>
-            <name>Justin Jackson</name>
-        </author>
-    <published>2023-03-25T00:00:00+00:00</published>
-    <updated>2023-03-25T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/justin-jackson-is-chatgpt-the-next-big-startup-platform/"/>
-    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-is-chatgpt-the-next-big-startup-platform/" type="text/html"/>
-      <source>
-        <id>https://justinjackson.ca/chatgpt-business</id>
-        <link href="https://justinjackson.ca/chatgpt-business"/>
-        <title>Is ChatGPT the next big startup platform?</title>
-        <author>
-            <name>Justin Jackson</name>
-        </author>
-        <updated>2023-03-25T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/justin-jackson-is-chatgpt-the-next-big-startup-platform/</id>
     <content type="html">
         
     </content>
