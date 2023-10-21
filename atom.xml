@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-20T19:00:00+00:00</updated>
+  <updated>2023-10-21T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>We have used too many levels of abstractions and now the future looks bleak</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2023-10-21T00:00:00+00:00</published>
+    <updated>2023-10-21T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html</id>
+        <link href="https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html"/>
+        <title>We have used too many levels of abstractions and now the future looks bleak</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2023-10-21T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>People and Blogs and Me</title>
         <author>
@@ -12326,30 +12350,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-my-choice-of-operating-system/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Understanding Unix filesystem timestamps</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2022-10-25T00:00:00+00:00</published>
-    <updated>2022-10-25T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-understanding-unix-filesystem-timestamps/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-understanding-unix-filesystem-timestamps/" type="text/html"/>
-      <source>
-        <id>https://unixsheikh.com/articles/understanding-unix-filesystem-timestamps.html</id>
-        <link href="https://unixsheikh.com/articles/understanding-unix-filesystem-timestamps.html"/>
-        <title>Understanding Unix filesystem timestamps</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2022-10-25T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-understanding-unix-filesystem-timestamps/</id>
     <content type="html">
         
     </content>
