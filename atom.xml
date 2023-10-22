@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-21T19:00:00+00:00</updated>
+  <updated>2023-10-22T02:46:29+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>NVMe SSD boot with the Raspberry Pi 5</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2023-10-22T02:46:29+00:00</published>
+    <updated>2023-10-22T02:46:29+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-nvme-ssd-boot-with-the-raspberry-pi-5/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-nvme-ssd-boot-with-the-raspberry-pi-5/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5</id>
+        <link href="https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5"/>
+        <title>NVMe SSD boot with the Raspberry Pi 5</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2023-10-22T02:46:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-nvme-ssd-boot-with-the-raspberry-pi-5/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Feminized Feed</title>
         <author>
@@ -3942,30 +3966,6 @@
       </source>
 
     <id>https://news.cryptic.io/kate-wagner-bonus-mcmansion-hell-ye-olde-barrington/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to solve &quot;error: externally-managed-environment&quot; when installing via pip3</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2023-08-30T19:18:30+00:00</published>
-    <updated>2023-08-30T19:18:30+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-how-to-solve-error-externallymanagedenvironment-when-installing-via-pip3/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-how-to-solve-error-externallymanagedenvironment-when-installing-via-pip3/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2023/how-solve-error-externally-managed-environment-when-installing-pip3</id>
-        <link href="https://www.jeffgeerling.com/blog/2023/how-solve-error-externally-managed-environment-when-installing-pip3"/>
-        <title>How to solve &quot;error: externally-managed-environment&quot; when installing via pip3</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2023-08-30T19:18:30+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-how-to-solve-error-externallymanagedenvironment-when-installing-via-pip3/</id>
     <content type="html">
         
     </content>
