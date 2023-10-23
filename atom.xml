@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-22T22:27:22+00:00</updated>
+  <updated>2023-10-23T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Extinction Mechanisms</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-10-23T00:00:00+00:00</published>
+    <updated>2023-10-23T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-extinction-mechanisms/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-extinction-mechanisms/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2845/</id>
+        <link href="https://xkcd.com/2845/"/>
+        <title>Extinction Mechanisms</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-10-23T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-extinction-mechanisms/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>80&#x2F;20 Spanish</title>
         <author>
@@ -842,30 +866,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-going-offscript/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Sign Combo</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-10-13T00:00:00+00:00</published>
-    <updated>2023-10-13T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-sign-combo/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-sign-combo/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2841/</id>
-        <link href="https://xkcd.com/2841/"/>
-        <title>Sign Combo</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-10-13T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-sign-combo/</id>
     <content type="html">
         
     </content>
