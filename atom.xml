@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-23T14:37:00+00:00</updated>
+  <updated>2023-10-23T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>JavaScript Is Enabled by Default in Web Browsers</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-10-23T19:00:00+00:00</published>
+    <updated>2023-10-23T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-javascript-is-enabled-by-default-in-web-browsers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-javascript-is-enabled-by-default-in-web-browsers/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/javascript-is-enabled-by-default/</id>
+        <link href="https://blog.jim-nielsen.com/2023/javascript-is-enabled-by-default/"/>
+        <title>JavaScript Is Enabled by Default in Web Browsers</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-10-23T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-javascript-is-enabled-by-default-in-web-browsers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Help wanted: blog redesign</title>
         <author>
@@ -2550,30 +2574,6 @@
       </source>
 
     <id>https://news.cryptic.io/tyler-cipriani-pull-requests-make-ci-harder/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Build Great Software By Repeatedly Encountering It</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-09-24T19:00:00+00:00</published>
-    <updated>2023-09-24T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-build-great-software-by-repeatedly-encountering-it/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-build-great-software-by-repeatedly-encountering-it/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/software-by-encountering/</id>
-        <link href="https://blog.jim-nielsen.com/2023/software-by-encountering/"/>
-        <title>Build Great Software By Repeatedly Encountering It</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-09-24T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-build-great-software-by-repeatedly-encountering-it/</id>
     <content type="html">
         
     </content>
