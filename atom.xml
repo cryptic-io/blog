@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-23T19:00:00+00:00</updated>
+  <updated>2023-10-24T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>What DevRel means to me</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-10-24T00:00:00+00:00</published>
+    <updated>2023-10-24T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-what-devrel-means-to-me/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-what-devrel-means-to-me/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/devrel/</id>
+        <link href="https://xeiaso.net/blog/devrel/"/>
+        <title>What DevRel means to me</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-10-24T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-what-devrel-means-to-me/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>JavaScript Is Enabled by Default in Web Browsers</title>
         <author>
@@ -4086,30 +4110,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-completely-random-car-and-design-stuff/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to use Tailwind CSS in your Go programs</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2023-08-27T00:00:00+00:00</published>
-    <updated>2023-08-27T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-how-to-use-tailwind-css-in-your-go-programs/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-how-to-use-tailwind-css-in-your-go-programs/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/using-tailwind-go/</id>
-        <link href="https://xeiaso.net/blog/using-tailwind-go/"/>
-        <title>How to use Tailwind CSS in your Go programs</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2023-08-27T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-how-to-use-tailwind-css-in-your-go-programs/</id>
     <content type="html">
         
     </content>
