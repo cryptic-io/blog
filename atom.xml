@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Daylight Saving Choice</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-10-25T00:00:00+00:00</published>
+    <updated>2023-10-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-daylight-saving-choice/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-daylight-saving-choice/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2846/</id>
+        <link href="https://xkcd.com/2846/"/>
+        <title>Daylight Saving Choice</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-10-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-daylight-saving-choice/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Things I don’t know how to do</title>
         <author>
             <name>Various</name>
@@ -938,30 +962,6 @@
       </source>
 
     <id>https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Inspiraling Roundabout</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-10-16T00:00:00+00:00</published>
-    <updated>2023-10-16T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-inspiraling-roundabout/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-inspiraling-roundabout/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2842/</id>
-        <link href="https://xkcd.com/2842/"/>
-        <title>Inspiraling Roundabout</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-10-16T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-inspiraling-roundabout/</id>
     <content type="html">
         
     </content>
