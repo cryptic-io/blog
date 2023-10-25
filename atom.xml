@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-24T23:08:26+00:00</updated>
+  <updated>2023-10-24T23:39:40+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Things I don’t know how to do</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2023-10-24T23:39:40+00:00</published>
+    <updated>2023-10-24T23:39:40+00:00</updated>
+    <link href="https://news.cryptic.io/various-things-i-dont-know-how-to-do/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-things-i-dont-know-how-to-do/" type="text/html"/>
+      <source>
+        <id>https://www.autodidacts.io/intractable/</id>
+        <link href="https://www.autodidacts.io/intractable/"/>
+        <title>Things I don’t know how to do</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2023-10-24T23:39:40+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-things-i-dont-know-how-to-do/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Ansible Galaxy error &#x27;Unable to compare role versions&#x27;</title>
         <author>
@@ -50,6 +74,30 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-i-wish-people-would-do-historical-arguments-better/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Advice to a novice programmer</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2023-10-24T00:00:00+00:00</published>
+    <updated>2023-10-24T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-advice-to-a-novice-programmer/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-advice-to-a-novice-programmer/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/prog/katara-advice.html</id>
+        <link href="https://blog.plover.com/prog/katara-advice.html"/>
+        <title>Advice to a novice programmer</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2023-10-24T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-advice-to-a-novice-programmer/</id>
     <content type="html">
         
     </content>
@@ -3750,30 +3798,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-the-killer-whale-dagger/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>My favorite luxurious office equipment is low-tech</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2023-09-09T14:02:00+00:00</published>
-    <updated>2023-09-09T14:02:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-my-favorite-luxurious-office-equipment-is-lowtech/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-my-favorite-luxurious-office-equipment-is-lowtech/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/tech/office-equipment.html</id>
-        <link href="https://blog.plover.com/tech/office-equipment.html"/>
-        <title>My favorite luxurious office equipment is low-tech</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2023-09-09T14:02:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-my-favorite-luxurious-office-equipment-is-lowtech/</id>
     <content type="html">
         
     </content>
@@ -12446,30 +12470,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-my-choice-of-operating-system/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Elon Musk could be reading this blogpost</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2022-10-23T04:05:00+00:00</published>
-    <updated>2022-10-23T04:05:00+00:00</updated>
-    <link href="https://news.cryptic.io/various-elon-musk-could-be-reading-this-blogpost/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-elon-musk-could-be-reading-this-blogpost/" type="text/html"/>
-      <source>
-        <id>https://www.autodidacts.io/elon-musk-could-be-reading-this-blogpost/</id>
-        <link href="https://www.autodidacts.io/elon-musk-could-be-reading-this-blogpost/"/>
-        <title>Elon Musk could be reading this blogpost</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2022-10-23T04:05:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-elon-musk-could-be-reading-this-blogpost/</id>
     <content type="html">
         
     </content>
