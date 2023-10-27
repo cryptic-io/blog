@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Dendrochronology</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-10-27T00:00:00+00:00</published>
+    <updated>2023-10-27T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-dendrochronology/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-dendrochronology/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2847/</id>
+        <link href="https://xkcd.com/2847/"/>
+        <title>Dendrochronology</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-10-27T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-dendrochronology/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How to fix terraform and nix flakes</title>
         <author>
             <name>Xe Iaso</name>
@@ -1034,30 +1058,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-unless-explicitly-specified-otherwise-open-source-software-with-users-carries-moral-obligations/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Professional Oaths</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-10-18T00:00:00+00:00</published>
-    <updated>2023-10-18T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-professional-oaths/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-professional-oaths/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2843/</id>
-        <link href="https://xkcd.com/2843/"/>
-        <title>Professional Oaths</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-10-18T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-professional-oaths/</id>
     <content type="html">
         
     </content>
