@@ -4,28 +4,52 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-27T00:00:00+00:00</updated>
+  <updated>2023-10-27T14:00:31+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
-    <title>Stop submitting to social conformity and use your brain instead</title>
+    <title>Everything I&#x27;ve learned building the fastest Arm desktop</title>
         <author>
-            <name>unixsheikh</name>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2023-10-27T14:00:31+00:00</published>
+    <updated>2023-10-27T14:00:31+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-everything-ive-learned-building-the-fastest-arm-desktop/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-everything-ive-learned-building-the-fastest-arm-desktop/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2023/everything-ive-learned-building-fastest-arm-desktop</id>
+        <link href="https://www.jeffgeerling.com/blog/2023/everything-ive-learned-building-fastest-arm-desktop"/>
+        <title>Everything I&#x27;ve learned building the fastest Arm desktop</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2023-10-27T14:00:31+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-everything-ive-learned-building-the-fastest-arm-desktop/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>How to fix terraform and nix flakes</title>
+        <author>
+            <name>Xe Iaso</name>
         </author>
     <published>2023-10-27T00:00:00+00:00</published>
     <updated>2023-10-27T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-stop-submitting-to-social-conformity-and-use-your-brain-instead/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-stop-submitting-to-social-conformity-and-use-your-brain-instead/" type="text/html"/>
+    <link href="https://news.cryptic.io/xe-iaso-how-to-fix-terraform-and-nix-flakes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-how-to-fix-terraform-and-nix-flakes/" type="text/html"/>
       <source>
-        <id>https://unixsheikh.com/articles/stop-submitting-to-social-conformity-and-use-your-brain-instead.html</id>
-        <link href="https://unixsheikh.com/articles/stop-submitting-to-social-conformity-and-use-your-brain-instead.html"/>
-        <title>Stop submitting to social conformity and use your brain instead</title>
+        <id>https://xeiaso.net/blog/notes/nix-flakes-terraform-unfree-fix/</id>
+        <link href="https://xeiaso.net/blog/notes/nix-flakes-terraform-unfree-fix/"/>
+        <title>How to fix terraform and nix flakes</title>
         <author>
-            <name>unixsheikh</name>
+            <name>Xe Iaso</name>
         </author>
         <updated>2023-10-27T00:00:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/unixsheikh-stop-submitting-to-social-conformity-and-use-your-brain-instead/</id>
+    <id>https://news.cryptic.io/xe-iaso-how-to-fix-terraform-and-nix-flakes/</id>
     <content type="html">
         
     </content>
@@ -4043,30 +4067,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Testing 10 GbE throughput on Windows - iperf3 is outdated</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2023-09-05T22:48:36+00:00</published>
-    <updated>2023-09-05T22:48:36+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-testing-10-gbe-throughput-on-windows-iperf3-is-outdated/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-testing-10-gbe-throughput-on-windows-iperf3-is-outdated/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2023/testing-10-gbe-throughput-on-windows-iperf3-outdated</id>
-        <link href="https://www.jeffgeerling.com/blog/2023/testing-10-gbe-throughput-on-windows-iperf3-outdated"/>
-        <title>Testing 10 GbE throughput on Windows - iperf3 is outdated</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2023-09-05T22:48:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-testing-10-gbe-throughput-on-windows-iperf3-is-outdated/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Time zones are hard because people are hard</title>
         <author>
             <name>Hillel Wayne</name>
@@ -4542,30 +4542,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-completely-random-car-and-design-stuff/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Reaching the Unix Philosophy&#x27;s Logical Extreme with Webassembly</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2023-08-27T00:00:00+00:00</published>
-    <updated>2023-08-27T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-reaching-the-unix-philosophys-logical-extreme-with-webassembly/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-reaching-the-unix-philosophys-logical-extreme-with-webassembly/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm/</id>
-        <link href="https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm/"/>
-        <title>Reaching the Unix Philosophy&#x27;s Logical Extreme with Webassembly</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2023-08-27T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-reaching-the-unix-philosophys-logical-extreme-with-webassembly/</id>
     <content type="html">
         
     </content>
@@ -12470,6 +12446,30 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-a-beginners-guide-to-chrome-tracing/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>My choice of operating system</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2022-10-26T00:00:00+00:00</published>
+    <updated>2022-10-26T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-my-choice-of-operating-system/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-my-choice-of-operating-system/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/articles/my-choice-of-operating-system.html</id>
+        <link href="https://unixsheikh.com/articles/my-choice-of-operating-system.html"/>
+        <title>My choice of operating system</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2022-10-26T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-my-choice-of-operating-system/</id>
     <content type="html">
         
     </content>

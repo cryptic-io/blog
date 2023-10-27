@@ -1408,6 +1408,10 @@
         <lastmod>2023-10-18T03:03:27Z</lastmod>
     </url>
     <url>
+        <loc>https://news.cryptic.io/jeff-geerling-everything-ive-learned-building-the-fastest-arm-desktop/</loc>
+        <lastmod>2023-10-27T14:00:31Z</lastmod>
+    </url>
+    <url>
         <loc>https://news.cryptic.io/jeff-geerling-forcing-pci-express-gen-30-speeds-on-the-pi-5/</loc>
         <lastmod>2023-10-11T14:12:53Z</lastmod>
     </url>
@@ -1422,10 +1426,6 @@
     <url>
         <loc>https://news.cryptic.io/jeff-geerling-overclocking-and-underclocking-the-raspberry-pi-5/</loc>
         <lastmod>2023-10-04T12:59:52Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/jeff-geerling-testing-10-gbe-throughput-on-windows-iperf3-is-outdated/</loc>
-        <lastmod>2023-09-05T22:48:36Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/jeff-geerling-testing-pcie-on-the-raspberry-pi-5/</loc>
@@ -2775,12 +2775,12 @@
         <lastmod>2022-11-02T00:00:00Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/unixsheikh-one-of-the-most-basic-requirements-for-success-is-also-one-of-the-most-difficult-to-get-right/</loc>
-        <lastmod>2023-05-25T00:00:00Z</lastmod>
+        <loc>https://news.cryptic.io/unixsheikh-my-choice-of-operating-system/</loc>
+        <lastmod>2022-10-26T00:00:00Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/unixsheikh-stop-submitting-to-social-conformity-and-use-your-brain-instead/</loc>
-        <lastmod>2023-10-27T00:00:00Z</lastmod>
+        <loc>https://news.cryptic.io/unixsheikh-one-of-the-most-basic-requirements-for-success-is-also-one-of-the-most-difficult-to-get-right/</loc>
+        <lastmod>2023-05-25T00:00:00Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/unixsheikh-the-heavy-responsibility-of-the-package-maintainer/</loc>
@@ -3019,6 +3019,10 @@
         <lastmod>2023-09-20T00:00:00Z</lastmod>
     </url>
     <url>
+        <loc>https://news.cryptic.io/xe-iaso-how-to-fix-terraform-and-nix-flakes/</loc>
+        <lastmod>2023-10-27T00:00:00Z</lastmod>
+    </url>
+    <url>
         <loc>https://news.cryptic.io/xe-iaso-how-to-resize-a-gokrazy-sd-card/</loc>
         <lastmod>2023-10-02T00:00:00Z</lastmod>
     </url>
@@ -3029,10 +3033,6 @@
     <url>
         <loc>https://news.cryptic.io/xe-iaso-okay-fine-im-using-a-static-site-generator-now/</loc>
         <lastmod>2023-10-12T00:00:00Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/xe-iaso-reaching-the-unix-philosophys-logical-extreme-with-webassembly/</loc>
-        <lastmod>2023-08-27T00:00:00Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/xe-iaso-sine/</loc>
