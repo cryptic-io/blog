@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-26T22:13:12+00:00</updated>
+  <updated>2023-10-27T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Stop submitting to social conformity and use your brain instead</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2023-10-27T00:00:00+00:00</published>
+    <updated>2023-10-27T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-stop-submitting-to-social-conformity-and-use-your-brain-instead/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-stop-submitting-to-social-conformity-and-use-your-brain-instead/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/articles/stop-submitting-to-social-conformity-and-use-your-brain-instead.html</id>
+        <link href="https://unixsheikh.com/articles/stop-submitting-to-social-conformity-and-use-your-brain-instead.html"/>
+        <title>Stop submitting to social conformity and use your brain instead</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2023-10-27T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-stop-submitting-to-social-conformity-and-use-your-brain-instead/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Raku is surprisingly good for CLIs</title>
         <author>
@@ -50,6 +74,30 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-youre-invited-to-a-colonoscopy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Contributor Highlights</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2023-10-26T00:00:00+00:00</published>
+    <updated>2023-10-26T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-contributor-highlights/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-contributor-highlights/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2023/10/26/twif-contributor-highlights.html</id>
+        <link href="https://f-droid.org/en/2023/10/26/twif-contributor-highlights.html"/>
+        <title>Contributor Highlights</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2023-10-26T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-contributor-highlights/</id>
     <content type="html">
         
     </content>
@@ -1039,30 +1087,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-17T00:00:07+00:00</published>
-    <updated>2023-10-17T00:00:07+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/16/env/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/16/env/"/>
-        <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-17T00:00:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The discrete logarithm</title>
         <author>
             <name>Mark Dominus</name>
@@ -1183,30 +1207,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title> Administrivia: new page&#x2F;feed generator is now live</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-13T03:29:40+00:00</published>
-    <updated>2023-10-13T03:29:40+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/12/html/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/12/html/"/>
-        <title> Administrivia: new page&#x2F;feed generator is now live</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-13T03:29:40+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Going off-script</title>
         <author>
             <name>Drew DeVault</name>
@@ -1250,126 +1250,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-ana-rodrigues/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> Feedback: the feed seems just fine...</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T20:45:14+00:00</published>
-    <updated>2023-10-12T20:45:14+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/06/03/feed/</id>
-        <link href="https://rachelbythebay.com/w/2023/06/03/feed/"/>
-        <title> Feedback: the feed seems just fine...</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T20:45:14+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> I screwed something up in that last post about Hue</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T19:55:44+00:00</published>
-    <updated>2023-10-12T19:55:44+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/03/js/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/03/js/"/>
-        <title> I screwed something up in that last post about Hue</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T19:55:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> The Philips Hue ecosystem is collapsing into stupidity</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T19:55:36+00:00</published>
-    <updated>2023-10-12T19:55:36+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/26/hue/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/26/hue/"/>
-        <title> The Philips Hue ecosystem is collapsing into stupidity</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T19:55:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> ASCII protocol buffers as config files</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T19:51:03+00:00</published>
-    <updated>2023-10-12T19:51:03+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/05/config/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/05/config/"/>
-        <title> ASCII protocol buffers as config files</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T19:51:03+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> Expressing my laziness in concrete ways</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T19:44:29+00:00</published>
-    <updated>2023-10-12T19:44:29+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/25/lazy/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/25/lazy/"/>
-        <title> Expressing my laziness in concrete ways</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T19:44:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/</id>
     <content type="html">
         
     </content>
@@ -3059,30 +2939,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title> The customer stuck due to a hurricane who needed ssh</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-09-21T17:38:18+00:00</published>
-    <updated>2023-09-21T17:38:18+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/21/hurricane/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/21/hurricane/"/>
-        <title> The customer stuck due to a hurricane who needed ssh</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-09-21T17:38:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Metra Ticket Gallery</title>
         <author>
             <name>Robin Rendle</name>
@@ -3102,30 +2958,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-metra-ticket-gallery/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> Memories of a really goofy phone from the late 80s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-09-20T19:57:28+00:00</published>
-    <updated>2023-09-20T19:57:28+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/20/fv1000/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/20/fv1000/"/>
-        <title> Memories of a really goofy phone from the late 80s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-09-20T19:57:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/</id>
     <content type="html">
         
     </content>
@@ -3174,30 +3006,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-the-frustration-loop/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> Add extra stuff to a &quot;standard&quot; encoding?  Sure, why not.</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-09-20T02:53:07+00:00</published>
-    <updated>2023-09-20T02:53:07+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-add-extra-stuff-to-a-standard-encoding-sure-why-not/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-add-extra-stuff-to-a-standard-encoding-sure-why-not/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/19/badlib/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/19/badlib/"/>
-        <title> Add extra stuff to a &quot;standard&quot; encoding?  Sure, why not.</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-09-20T02:53:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-add-extra-stuff-to-a-standard-encoding-sure-why-not/</id>
     <content type="html">
         
     </content>
@@ -8299,30 +8107,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>How to use the F-Droid libraries, like CalyxOS</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-05-02T00:00:00+00:00</published>
-    <updated>2023-05-02T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/various-how-to-use-the-fdroid-libraries-like-calyxos/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-how-to-use-the-fdroid-libraries-like-calyxos/" type="text/html"/>
-      <source>
-        <id>https://f-droid.org/en/2023/05/02/three-client-libraries.html</id>
-        <link href="https://f-droid.org/en/2023/05/02/three-client-libraries.html"/>
-        <title>How to use the F-Droid libraries, like CalyxOS</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-05-02T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-how-to-use-the-fdroid-libraries-like-calyxos/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Opportunistic critiques</title>
         <author>
             <name>degrowther</name>
@@ -12446,30 +12230,6 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-a-beginners-guide-to-chrome-tracing/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>My choice of operating system</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2022-10-26T00:00:00+00:00</published>
-    <updated>2022-10-26T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-my-choice-of-operating-system/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-my-choice-of-operating-system/" type="text/html"/>
-      <source>
-        <id>https://unixsheikh.com/articles/my-choice-of-operating-system.html</id>
-        <link href="https://unixsheikh.com/articles/my-choice-of-operating-system.html"/>
-        <title>My choice of operating system</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2022-10-26T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-my-choice-of-operating-system/</id>
     <content type="html">
         
     </content>
