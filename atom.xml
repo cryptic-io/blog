@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-27T22:00:00+00:00</updated>
+  <updated>2023-10-29T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Our incredible journey with Xeact</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2023-10-29T00:00:00+00:00</published>
+    <updated>2023-10-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-our-incredible-journey-with-xeact/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-our-incredible-journey-with-xeact/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/incredible-xeact-journey/</id>
+        <link href="https://xeiaso.net/blog/incredible-xeact-journey/"/>
+        <title>Our incredible journey with Xeact</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2023-10-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-our-incredible-journey-with-xeact/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Why I&#x27;ll never do podcasts</title>
         <author>
@@ -631,6 +655,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Cut the Intro</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-10-22T17:57:37+00:00</published>
+    <updated>2023-10-22T17:57:37+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-cut-the-intro/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-cut-the-intro/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/cut-the-intro/</id>
+        <link href="https://robinrendle.com/notes/cut-the-intro/"/>
+        <title>Cut the Intro</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-10-22T17:57:37+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-cut-the-intro/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Cats in Romance languages</title>
         <author>
             <name>Mark Dominus</name>
@@ -1250,6 +1298,30 @@
       </source>
 
     <id>https://news.cryptic.io/andersource-bfs-zerotohero-part-2-snake/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Design systems, color spaces, and CSS</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-10-15T03:31:33+00:00</published>
+    <updated>2023-10-15T03:31:33+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-design-systems-color-spaces-and-css/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-design-systems-color-spaces-and-css/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/design-systems-color-spaces-and-css/</id>
+        <link href="https://robinrendle.com/notes/design-systems-color-spaces-and-css/"/>
+        <title>Design systems, color spaces, and CSS</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-10-15T03:31:33+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-design-systems-color-spaces-and-css/</id>
     <content type="html">
         
     </content>
@@ -1955,6 +2027,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The Cascade</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-10-06T20:36:26+00:00</published>
+    <updated>2023-10-06T20:36:26+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-the-cascade/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-cascade/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/the-cascade/</id>
+        <link href="https://robinrendle.com/notes/the-cascade/"/>
+        <title>The Cascade</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-10-06T20:36:26+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-the-cascade/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>What is an Invariant?</title>
         <author>
             <name>Alex Kladov</name>
@@ -2142,6 +2238,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-a-few-details-about-my-notes-website/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>footer.design</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-10-04T17:38:41+00:00</published>
+    <updated>2023-10-04T17:38:41+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-footerdesign/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-footerdesign/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/footer.design-/</id>
+        <link href="https://robinrendle.com/notes/footer.design-/"/>
+        <title>footer.design</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-10-04T17:38:41+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-footerdesign/</id>
     <content type="html">
         
     </content>
@@ -2478,6 +2598,54 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-a-raycasting-engine-in-7-easy-steps/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Typographic Malaise</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-09-30T17:33:35+00:00</published>
+    <updated>2023-09-30T17:33:35+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-typographic-malaise/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-typographic-malaise/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/typographic-malaise/</id>
+        <link href="https://robinrendle.com/notes/typographic-malaise/"/>
+        <title>Typographic Malaise</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-09-30T17:33:35+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-typographic-malaise/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Meta in Myanmar</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-09-30T17:13:24+00:00</published>
+    <updated>2023-09-30T17:13:24+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-meta-in-myanmar/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-meta-in-myanmar/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/meta-in-myanmar/</id>
+        <link href="https://robinrendle.com/notes/meta-in-myanmar/"/>
+        <title>Meta in Myanmar</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-09-30T17:13:24+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-meta-in-myanmar/</id>
     <content type="html">
         
     </content>
@@ -2963,6 +3131,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Meh</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-09-23T02:01:24+00:00</published>
+    <updated>2023-09-23T02:01:24+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-meh/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-meh/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/meh/</id>
+        <link href="https://robinrendle.com/notes/meh/"/>
+        <title>Meh</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-09-23T02:01:24+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-meh/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Flipping tables and hiring kids</title>
         <author>
             <name>Justin Jackson</name>
@@ -3011,6 +3203,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Metra Ticket Gallery</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-09-21T17:28:57+00:00</published>
+    <updated>2023-09-21T17:28:57+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-metra-ticket-gallery/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-metra-ticket-gallery/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/metra-ticket-gallery/</id>
+        <link href="https://robinrendle.com/notes/metra-ticket-gallery/"/>
+        <title>Metra Ticket Gallery</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-09-21T17:28:57+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-metra-ticket-gallery/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title> Memories of a really goofy phone from the late 80s</title>
         <author>
             <name>rachelbythebay</name>
@@ -3030,6 +3246,30 @@
       </source>
 
     <id>https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Kobo Libra 2</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-09-20T18:18:57+00:00</published>
+    <updated>2023-09-20T18:18:57+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-kobo-libra-2/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-kobo-libra-2/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/kobo-libra-2/</id>
+        <link href="https://robinrendle.com/notes/kobo-libra-2/"/>
+        <title>Kobo Libra 2</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-09-20T18:18:57+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-kobo-libra-2/</id>
     <content type="html">
         
     </content>
@@ -3395,25 +3635,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Making NixOS modules for fun and (hopefully) profit</title>
+    <title>v13</title>
         <author>
-            <name>Xe Iaso</name>
+            <name>Robin Rendle</name>
         </author>
-    <published>2023-09-15T00:00:00+00:00</published>
-    <updated>2023-09-15T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-making-nixos-modules-for-fun-and-hopefully-profit/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-making-nixos-modules-for-fun-and-hopefully-profit/" type="text/html"/>
+    <published>2023-09-14T23:08:13+00:00</published>
+    <updated>2023-09-14T23:08:13+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-v13/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-v13/" type="text/html"/>
       <source>
-        <id>https://xeiaso.net/talks/asg-2023-nixos/</id>
-        <link href="https://xeiaso.net/talks/asg-2023-nixos/"/>
-        <title>Making NixOS modules for fun and (hopefully) profit</title>
+        <id>https://robinrendle.com/notes/v13/</id>
+        <link href="https://robinrendle.com/notes/v13/"/>
+        <title>v13</title>
         <author>
-            <name>Xe Iaso</name>
+            <name>Robin Rendle</name>
         </author>
-        <updated>2023-09-15T00:00:00+00:00</updated>
+        <updated>2023-09-14T23:08:13+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/xe-iaso-making-nixos-modules-for-fun-and-hopefully-profit/</id>
+    <id>https://news.cryptic.io/robin-rendle-v13/</id>
     <content type="html">
         
     </content>
