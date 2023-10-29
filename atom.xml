@@ -631,30 +631,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Cut the Intro</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-10-22T17:57:37+00:00</published>
-    <updated>2023-10-22T17:57:37+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-cut-the-intro/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-cut-the-intro/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/cut-the-intro/</id>
-        <link href="https://robinrendle.com/notes/cut-the-intro/"/>
-        <title>Cut the Intro</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-10-22T17:57:37+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-cut-the-intro/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Cats in Romance languages</title>
         <author>
             <name>Mark Dominus</name>
@@ -1183,6 +1159,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-17T00:00:07+00:00</published>
+    <updated>2023-10-17T00:00:07+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/16/env/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/16/env/"/>
+        <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-17T00:00:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The discrete logarithm</title>
         <author>
             <name>Mark Dominus</name>
@@ -1255,30 +1255,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Design systems, color spaces, and CSS</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-10-15T03:31:33+00:00</published>
-    <updated>2023-10-15T03:31:33+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-design-systems-color-spaces-and-css/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-design-systems-color-spaces-and-css/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/design-systems-color-spaces-and-css/</id>
-        <link href="https://robinrendle.com/notes/design-systems-color-spaces-and-css/"/>
-        <title>Design systems, color spaces, and CSS</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-10-15T03:31:33+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-design-systems-color-spaces-and-css/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Shoes dilemma</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -1298,6 +1274,30 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-shoes-dilemma/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> Administrivia: new page&#x2F;feed generator is now live</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-13T03:29:40+00:00</published>
+    <updated>2023-10-13T03:29:40+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/12/html/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/12/html/"/>
+        <title> Administrivia: new page&#x2F;feed generator is now live</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-13T03:29:40+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/</id>
     <content type="html">
         
     </content>
@@ -1346,6 +1346,126 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-ana-rodrigues/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> Feedback: the feed seems just fine...</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T20:45:14+00:00</published>
+    <updated>2023-10-12T20:45:14+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/06/03/feed/</id>
+        <link href="https://rachelbythebay.com/w/2023/06/03/feed/"/>
+        <title> Feedback: the feed seems just fine...</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T20:45:14+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> I screwed something up in that last post about Hue</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:55:44+00:00</published>
+    <updated>2023-10-12T19:55:44+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/03/js/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/03/js/"/>
+        <title> I screwed something up in that last post about Hue</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:55:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> The Philips Hue ecosystem is collapsing into stupidity</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:55:36+00:00</published>
+    <updated>2023-10-12T19:55:36+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/09/26/hue/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/26/hue/"/>
+        <title> The Philips Hue ecosystem is collapsing into stupidity</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:55:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> ASCII protocol buffers as config files</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:51:03+00:00</published>
+    <updated>2023-10-12T19:51:03+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/05/config/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/05/config/"/>
+        <title> ASCII protocol buffers as config files</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:51:03+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> Expressing my laziness in concrete ways</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:44:29+00:00</published>
+    <updated>2023-10-12T19:44:29+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/09/25/lazy/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/25/lazy/"/>
+        <title> Expressing my laziness in concrete ways</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:44:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/</id>
     <content type="html">
         
     </content>
@@ -1835,30 +1955,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Cascade</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-10-06T20:36:26+00:00</published>
-    <updated>2023-10-06T20:36:26+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-cascade/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-cascade/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-cascade/</id>
-        <link href="https://robinrendle.com/notes/the-cascade/"/>
-        <title>The Cascade</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-10-06T20:36:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-cascade/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>What is an Invariant?</title>
         <author>
             <name>Alex Kladov</name>
@@ -2046,30 +2142,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-a-few-details-about-my-notes-website/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>footer.design</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-10-04T17:38:41+00:00</published>
-    <updated>2023-10-04T17:38:41+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-footerdesign/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-footerdesign/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/footer.design-/</id>
-        <link href="https://robinrendle.com/notes/footer.design-/"/>
-        <title>footer.design</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-10-04T17:38:41+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-footerdesign/</id>
     <content type="html">
         
     </content>
@@ -2406,54 +2478,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-a-raycasting-engine-in-7-easy-steps/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Typographic Malaise</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-09-30T17:33:35+00:00</published>
-    <updated>2023-09-30T17:33:35+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-typographic-malaise/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-typographic-malaise/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/typographic-malaise/</id>
-        <link href="https://robinrendle.com/notes/typographic-malaise/"/>
-        <title>Typographic Malaise</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-09-30T17:33:35+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-typographic-malaise/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Meta in Myanmar</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-09-30T17:13:24+00:00</published>
-    <updated>2023-09-30T17:13:24+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-meta-in-myanmar/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-meta-in-myanmar/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/meta-in-myanmar/</id>
-        <link href="https://robinrendle.com/notes/meta-in-myanmar/"/>
-        <title>Meta in Myanmar</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-09-30T17:13:24+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-meta-in-myanmar/</id>
     <content type="html">
         
     </content>
@@ -2939,30 +2963,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Meh</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-09-23T02:01:24+00:00</published>
-    <updated>2023-09-23T02:01:24+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-meh/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-meh/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/meh/</id>
-        <link href="https://robinrendle.com/notes/meh/"/>
-        <title>Meh</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-09-23T02:01:24+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-meh/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Flipping tables and hiring kids</title>
         <author>
             <name>Justin Jackson</name>
@@ -2987,49 +2987,49 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Metra Ticket Gallery</title>
+    <title> The customer stuck due to a hurricane who needed ssh</title>
         <author>
-            <name>Robin Rendle</name>
+            <name>rachelbythebay</name>
         </author>
-    <published>2023-09-21T17:28:57+00:00</published>
-    <updated>2023-09-21T17:28:57+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-metra-ticket-gallery/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-metra-ticket-gallery/" type="text/html"/>
+    <published>2023-09-21T17:38:18+00:00</published>
+    <updated>2023-09-21T17:38:18+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/" type="text/html"/>
       <source>
-        <id>https://robinrendle.com/notes/metra-ticket-gallery/</id>
-        <link href="https://robinrendle.com/notes/metra-ticket-gallery/"/>
-        <title>Metra Ticket Gallery</title>
+        <id>https://rachelbythebay.com/w/2023/09/21/hurricane/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/21/hurricane/"/>
+        <title> The customer stuck due to a hurricane who needed ssh</title>
         <author>
-            <name>Robin Rendle</name>
+            <name>rachelbythebay</name>
         </author>
-        <updated>2023-09-21T17:28:57+00:00</updated>
+        <updated>2023-09-21T17:38:18+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/robin-rendle-metra-ticket-gallery/</id>
+    <id>https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/</id>
     <content type="html">
         
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Kobo Libra 2</title>
+    <title> Memories of a really goofy phone from the late 80s</title>
         <author>
-            <name>Robin Rendle</name>
+            <name>rachelbythebay</name>
         </author>
-    <published>2023-09-20T18:18:57+00:00</published>
-    <updated>2023-09-20T18:18:57+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-kobo-libra-2/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-kobo-libra-2/" type="text/html"/>
+    <published>2023-09-20T19:57:28+00:00</published>
+    <updated>2023-09-20T19:57:28+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/" type="text/html"/>
       <source>
-        <id>https://robinrendle.com/notes/kobo-libra-2/</id>
-        <link href="https://robinrendle.com/notes/kobo-libra-2/"/>
-        <title>Kobo Libra 2</title>
+        <id>https://rachelbythebay.com/w/2023/09/20/fv1000/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/20/fv1000/"/>
+        <title> Memories of a really goofy phone from the late 80s</title>
         <author>
-            <name>Robin Rendle</name>
+            <name>rachelbythebay</name>
         </author>
-        <updated>2023-09-20T18:18:57+00:00</updated>
+        <updated>2023-09-20T19:57:28+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/robin-rendle-kobo-libra-2/</id>
+    <id>https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/</id>
     <content type="html">
         
     </content>
@@ -3054,6 +3054,30 @@
       </source>
 
     <id>https://news.cryptic.io/herman-the-frustration-loop/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> Add extra stuff to a &quot;standard&quot; encoding?  Sure, why not.</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-09-20T02:53:07+00:00</published>
+    <updated>2023-09-20T02:53:07+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-add-extra-stuff-to-a-standard-encoding-sure-why-not/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-add-extra-stuff-to-a-standard-encoding-sure-why-not/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/09/19/badlib/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/19/badlib/"/>
+        <title> Add extra stuff to a &quot;standard&quot; encoding?  Sure, why not.</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-09-20T02:53:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-add-extra-stuff-to-a-standard-encoding-sure-why-not/</id>
     <content type="html">
         
     </content>
@@ -3390,30 +3414,6 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-making-nixos-modules-for-fun-and-hopefully-profit/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>v13</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-09-14T23:08:13+00:00</published>
-    <updated>2023-09-14T23:08:13+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-v13/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-v13/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/v13/</id>
-        <link href="https://robinrendle.com/notes/v13/"/>
-        <title>v13</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-09-14T23:08:13+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-v13/</id>
     <content type="html">
         
     </content>
