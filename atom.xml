@@ -4,15 +4,39 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-30T00:33:50+00:00</updated>
+  <updated>2023-10-30T09:41:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Introducting and Explaining the Website ‘Coachtracker’</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2023-10-30T09:41:00+00:00</published>
+    <updated>2023-10-30T09:41:00+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-introducting-and-explaining-the-website-coachtracker/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-introducting-and-explaining-the-website-coachtracker/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/coachtracker-update-1</id>
+        <link href="https://johnwhiles.com/posts/coachtracker-update-1"/>
+        <title>Introducting and Explaining the Website ‘Coachtracker’</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2023-10-30T09:41:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-introducting-and-explaining-the-website-coachtracker/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>No Borders</title>
         <author>
             <name>matthiasott</name>
         </author>
-    <published>2023-10-30T00:33:50+00:00</published>
-    <updated>2023-10-30T00:33:50+00:00</updated>
+    <published>2023-10-30T00:33:00+00:00</published>
+    <updated>2023-10-30T00:33:00+00:00</updated>
     <link href="https://news.cryptic.io/matthiasott-no-borders/"/>
     <link rel="alternate" href="https://news.cryptic.io/matthiasott-no-borders/" type="text/html"/>
       <source>
@@ -22,7 +46,7 @@
         <author>
             <name>matthiasott</name>
         </author>
-        <updated>2023-10-30T00:33:50+00:00</updated>
+        <updated>2023-10-30T00:33:00+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/matthiasott-no-borders/</id>
@@ -11150,30 +11174,6 @@
       </source>
 
     <id>https://news.cryptic.io/chris-kiehl-making-lenses-practical-in-java/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Suggestions and Observations, Japan</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-    <published>2023-01-13T12:12:00+00:00</published>
-    <updated>2023-01-13T12:12:00+00:00</updated>
-    <link href="https://news.cryptic.io/john-whiles-suggestions-and-observations-japan/"/>
-    <link rel="alternate" href="https://news.cryptic.io/john-whiles-suggestions-and-observations-japan/" type="text/html"/>
-      <source>
-        <id>https://johnwhiles.com/posts/japan</id>
-        <link href="https://johnwhiles.com/posts/japan"/>
-        <title>Suggestions and Observations, Japan</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-        <updated>2023-01-13T12:12:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/john-whiles-suggestions-and-observations-japan/</id>
     <content type="html">
         
     </content>
