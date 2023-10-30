@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-29T19:00:50+00:00</updated>
+  <updated>2023-10-30T00:33:50+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>No Borders</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-10-30T00:33:50+00:00</published>
+    <updated>2023-10-30T00:33:50+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-no-borders/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-no-borders/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/no-borders</id>
+        <link href="https://matthiasott.com/notes/no-borders"/>
+        <title>No Borders</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-10-30T00:33:50+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-no-borders/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Daylight confusion week</title>
         <author>
@@ -8438,30 +8462,6 @@
       </source>
 
     <id>https://news.cryptic.io/derek-sivers-why-i-let-go-of-my-us-citizenship/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Starting A New Kirby Project</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-04-18T21:24:00+00:00</published>
-    <updated>2023-04-18T21:24:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/starting-a-new-kirby-project</id>
-        <link href="https://matthiasott.com/notes/starting-a-new-kirby-project"/>
-        <title>Starting A New Kirby Project</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-04-18T21:24:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-starting-a-new-kirby-project/</id>
     <content type="html">
         
     </content>
