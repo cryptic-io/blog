@@ -319,6 +319,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Breaker Box</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-10-30T00:00:00+00:00</published>
+    <updated>2023-10-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-breaker-box/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-breaker-box/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2848/</id>
+        <link href="https://xkcd.com/2848/"/>
+        <title>Breaker Box</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-10-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-breaker-box/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The main differences between OpenBSD, FreeBSD, NetBSD and DragonFly BSD</title>
         <author>
             <name>unixsheikh</name>
@@ -1226,30 +1250,6 @@
       </source>
 
     <id>https://news.cryptic.io/jes-olson-recover-lost-text-by-coredumping-firefox/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Black Holes vs Regular Holes</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-10-20T00:00:00+00:00</published>
-    <updated>2023-10-20T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-black-holes-vs-regular-holes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-black-holes-vs-regular-holes/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2844/</id>
-        <link href="https://xkcd.com/2844/"/>
-        <title>Black Holes vs Regular Holes</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-10-20T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-black-holes-vs-regular-holes/</id>
     <content type="html">
         
     </content>
