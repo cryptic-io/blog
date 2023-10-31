@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-10-31T00:00:00+00:00</updated>
+  <updated>2023-10-31T05:45:30+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Build a Deck of Heroes</title>
+        <author>
+            <name>Allen Pike</name>
+        </author>
+    <published>2023-10-31T05:45:30+00:00</published>
+    <updated>2023-10-31T05:45:30+00:00</updated>
+    <link href="https://news.cryptic.io/allen-pike-build-a-deck-of-heroes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/allen-pike-build-a-deck-of-heroes/" type="text/html"/>
+      <source>
+        <id>https://www.allenpike.com/2023/deck-of-heroes</id>
+        <link href="https://www.allenpike.com/2023/deck-of-heroes"/>
+        <title>Build a Deck of Heroes</title>
+        <author>
+            <name>Allen Pike</name>
+        </author>
+        <updated>2023-10-31T05:45:30+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/allen-pike-build-a-deck-of-heroes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Different types of layer 2s</title>
         <author>
@@ -1495,6 +1519,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-17T00:00:07+00:00</published>
+    <updated>2023-10-17T00:00:07+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/16/env/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/16/env/"/>
+        <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-17T00:00:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The discrete logarithm</title>
         <author>
             <name>Mark Dominus</name>
@@ -1615,6 +1663,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title> Administrivia: new page&#x2F;feed generator is now live</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-13T03:29:40+00:00</published>
+    <updated>2023-10-13T03:29:40+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/12/html/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/12/html/"/>
+        <title> Administrivia: new page&#x2F;feed generator is now live</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-13T03:29:40+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Going off-script</title>
         <author>
             <name>Drew DeVault</name>
@@ -1658,6 +1730,126 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-ana-rodrigues/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> Feedback: the feed seems just fine...</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T20:45:14+00:00</published>
+    <updated>2023-10-12T20:45:14+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/06/03/feed/</id>
+        <link href="https://rachelbythebay.com/w/2023/06/03/feed/"/>
+        <title> Feedback: the feed seems just fine...</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T20:45:14+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> I screwed something up in that last post about Hue</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:55:44+00:00</published>
+    <updated>2023-10-12T19:55:44+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/03/js/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/03/js/"/>
+        <title> I screwed something up in that last post about Hue</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:55:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> The Philips Hue ecosystem is collapsing into stupidity</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:55:36+00:00</published>
+    <updated>2023-10-12T19:55:36+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/09/26/hue/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/26/hue/"/>
+        <title> The Philips Hue ecosystem is collapsing into stupidity</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:55:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> ASCII protocol buffers as config files</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:51:03+00:00</published>
+    <updated>2023-10-12T19:51:03+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/05/config/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/05/config/"/>
+        <title> ASCII protocol buffers as config files</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:51:03+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> Expressing my laziness in concrete ways</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:44:29+00:00</published>
+    <updated>2023-10-12T19:44:29+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/09/25/lazy/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/25/lazy/"/>
+        <title> Expressing my laziness in concrete ways</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:44:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/</id>
     <content type="html">
         
     </content>
@@ -3203,6 +3395,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title> The customer stuck due to a hurricane who needed ssh</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-09-21T17:38:18+00:00</published>
+    <updated>2023-09-21T17:38:18+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/09/21/hurricane/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/21/hurricane/"/>
+        <title> The customer stuck due to a hurricane who needed ssh</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-09-21T17:38:18+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Metra Ticket Gallery</title>
         <author>
             <name>Robin Rendle</name>
@@ -3222,6 +3438,30 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-metra-ticket-gallery/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> Memories of a really goofy phone from the late 80s</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-09-20T19:57:28+00:00</published>
+    <updated>2023-09-20T19:57:28+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/09/20/fv1000/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/20/fv1000/"/>
+        <title> Memories of a really goofy phone from the late 80s</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-09-20T19:57:28+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/</id>
     <content type="html">
         
     </content>
@@ -3270,6 +3510,30 @@
       </source>
 
     <id>https://news.cryptic.io/herman-the-frustration-loop/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> Add extra stuff to a &quot;standard&quot; encoding?  Sure, why not.</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-09-20T02:53:07+00:00</published>
+    <updated>2023-09-20T02:53:07+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-add-extra-stuff-to-a-standard-encoding-sure-why-not/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-add-extra-stuff-to-a-standard-encoding-sure-why-not/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/09/19/badlib/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/19/badlib/"/>
+        <title> Add extra stuff to a &quot;standard&quot; encoding?  Sure, why not.</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-09-20T02:53:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-add-extra-stuff-to-a-standard-encoding-sure-why-not/</id>
     <content type="html">
         
     </content>
@@ -4398,30 +4662,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-ai-crap/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Feedback Wizard</title>
-        <author>
-            <name>Allen Pike</name>
-        </author>
-    <published>2023-08-28T21:11:05+00:00</published>
-    <updated>2023-08-28T21:11:05+00:00</updated>
-    <link href="https://news.cryptic.io/allen-pike-the-feedback-wizard/"/>
-    <link rel="alternate" href="https://news.cryptic.io/allen-pike-the-feedback-wizard/" type="text/html"/>
-      <source>
-        <id>https://www.allenpike.com/2023/feedback-wizard</id>
-        <link href="https://www.allenpike.com/2023/feedback-wizard"/>
-        <title>The Feedback Wizard</title>
-        <author>
-            <name>Allen Pike</name>
-        </author>
-        <updated>2023-08-28T21:11:05+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/allen-pike-the-feedback-wizard/</id>
     <content type="html">
         
     </content>
@@ -10459,30 +10699,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Annotated: Sam Bankman-Fried’s “FTX Pre-Mortem Overview”</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-    <published>2023-01-23T00:00:00+00:00</published>
-    <updated>2023-01-23T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/molly-white-annotated-sam-bankmanfrieds-ftx-premortem-overview/"/>
-    <link rel="alternate" href="https://news.cryptic.io/molly-white-annotated-sam-bankmanfrieds-ftx-premortem-overview/" type="text/html"/>
-      <source>
-        <id>https://blog.mollywhite.net/sbf-ftx-pre-mortem-overview/</id>
-        <link href="https://blog.mollywhite.net/sbf-ftx-pre-mortem-overview/"/>
-        <title>Annotated: Sam Bankman-Fried’s “FTX Pre-Mortem Overview”</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-        <updated>2023-01-23T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/molly-white-annotated-sam-bankmanfrieds-ftx-premortem-overview/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Rating the Ramen I ate in Japan</title>
         <author>
             <name>John Whiles</name>
@@ -11251,30 +11467,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Livetweets of the December 14, 2022 Senate Banking Committee hearing on FTX</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-    <published>2022-12-14T00:00:00+00:00</published>
-    <updated>2022-12-14T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/molly-white-livetweets-of-the-december-14-2022-senate-banking-committee-hearing-on-ftx/"/>
-    <link rel="alternate" href="https://news.cryptic.io/molly-white-livetweets-of-the-december-14-2022-senate-banking-committee-hearing-on-ftx/" type="text/html"/>
-      <source>
-        <id>https://blog.mollywhite.net/senate-banking-committee-ftx-hearing/</id>
-        <link href="https://blog.mollywhite.net/senate-banking-committee-ftx-hearing/"/>
-        <title>Livetweets of the December 14, 2022 Senate Banking Committee hearing on FTX</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-        <updated>2022-12-14T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/molly-white-livetweets-of-the-december-14-2022-senate-banking-committee-hearing-on-ftx/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Expectation Fields</title>
         <author>
             <name>Various</name>
@@ -11294,30 +11486,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-expectation-fields/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Livetweets of the December 13, 2022 House Financial Services Committee hearing on FTX</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-    <published>2022-12-13T00:00:00+00:00</published>
-    <updated>2022-12-13T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/molly-white-livetweets-of-the-december-13-2022-house-financial-services-committee-hearing-on-ftx/"/>
-    <link rel="alternate" href="https://news.cryptic.io/molly-white-livetweets-of-the-december-13-2022-house-financial-services-committee-hearing-on-ftx/" type="text/html"/>
-      <source>
-        <id>https://blog.mollywhite.net/house-financial-services-committee-ftx-hearing/</id>
-        <link href="https://blog.mollywhite.net/house-financial-services-committee-ftx-hearing/"/>
-        <title>Livetweets of the December 13, 2022 House Financial Services Committee hearing on FTX</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-        <updated>2022-12-13T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/molly-white-livetweets-of-the-december-13-2022-house-financial-services-committee-hearing-on-ftx/</id>
     <content type="html">
         
     </content>
@@ -11875,30 +12043,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Is web3 bullshit? (Transcript)</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-    <published>2022-11-04T00:00:00+00:00</published>
-    <updated>2022-11-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/molly-white-is-web3-bullshit-transcript/"/>
-    <link rel="alternate" href="https://news.cryptic.io/molly-white-is-web3-bullshit-transcript/" type="text/html"/>
-      <source>
-        <id>https://blog.mollywhite.net/is-web3-bullshit/</id>
-        <link href="https://blog.mollywhite.net/is-web3-bullshit/"/>
-        <title>Is web3 bullshit? (Transcript)</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-        <updated>2022-11-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/molly-white-is-web3-bullshit-transcript/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Practice being a beginner</title>
         <author>
             <name>Alex Ellis</name>
@@ -12379,30 +12523,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Blockchain solutionism (Lecture transcript)</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-    <published>2022-09-21T00:00:00+00:00</published>
-    <updated>2022-09-21T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/molly-white-blockchain-solutionism-lecture-transcript/"/>
-    <link rel="alternate" href="https://news.cryptic.io/molly-white-blockchain-solutionism-lecture-transcript/" type="text/html"/>
-      <source>
-        <id>https://blog.mollywhite.net/blockchain-solutionism-lecture/</id>
-        <link href="https://blog.mollywhite.net/blockchain-solutionism-lecture/"/>
-        <title>Blockchain solutionism (Lecture transcript)</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-        <updated>2022-09-21T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/molly-white-blockchain-solutionism-lecture-transcript/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>There is no “software supply chain”</title>
         <author>
             <name>iliana etaoin</name>
@@ -12811,30 +12931,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Announcing the Whitespace newsletter and a Patreon</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-    <published>2022-08-21T00:00:00+00:00</published>
-    <updated>2022-08-21T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/molly-white-announcing-the-whitespace-newsletter-and-a-patreon/"/>
-    <link rel="alternate" href="https://news.cryptic.io/molly-white-announcing-the-whitespace-newsletter-and-a-patreon/" type="text/html"/>
-      <source>
-        <id>https://blog.mollywhite.net/announcing-the-whitespace-newsletter-and-a-patreon/</id>
-        <link href="https://blog.mollywhite.net/announcing-the-whitespace-newsletter-and-a-patreon/"/>
-        <title>Announcing the Whitespace newsletter and a Patreon</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-        <updated>2022-08-21T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/molly-white-announcing-the-whitespace-newsletter-and-a-patreon/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Social media</title>
         <author>
             <name>degrowther</name>
@@ -12998,102 +13094,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-daubenschtz-its-time-to-think/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Statement to the Financial Stability Oversight Council: Regulating digital assets</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-    <published>2022-07-27T00:00:00+00:00</published>
-    <updated>2022-07-27T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/molly-white-statement-to-the-financial-stability-oversight-council-regulating-digital-assets/"/>
-    <link rel="alternate" href="https://news.cryptic.io/molly-white-statement-to-the-financial-stability-oversight-council-regulating-digital-assets/" type="text/html"/>
-      <source>
-        <id>https://blog.mollywhite.net/fsoc-statement-regulating-digital-assets/</id>
-        <link href="https://blog.mollywhite.net/fsoc-statement-regulating-digital-assets/"/>
-        <title>Statement to the Financial Stability Oversight Council: Regulating digital assets</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-        <updated>2022-07-27T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/molly-white-statement-to-the-financial-stability-oversight-council-regulating-digital-assets/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Excerpts from letters to the judge in the Voyager Digital bankruptcy case</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-    <published>2022-07-23T00:00:00+00:00</published>
-    <updated>2022-07-23T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/molly-white-excerpts-from-letters-to-the-judge-in-the-voyager-digital-bankruptcy-case/"/>
-    <link rel="alternate" href="https://news.cryptic.io/molly-white-excerpts-from-letters-to-the-judge-in-the-voyager-digital-bankruptcy-case/" type="text/html"/>
-      <source>
-        <id>https://blog.mollywhite.net/voyager-letters/</id>
-        <link href="https://blog.mollywhite.net/voyager-letters/"/>
-        <title>Excerpts from letters to the judge in the Voyager Digital bankruptcy case</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-        <updated>2022-07-23T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/molly-white-excerpts-from-letters-to-the-judge-in-the-voyager-digital-bankruptcy-case/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Excerpts from letters to the judge in the Celsius Network bankruptcy case</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-    <published>2022-07-22T00:00:00+00:00</published>
-    <updated>2022-07-22T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/molly-white-excerpts-from-letters-to-the-judge-in-the-celsius-network-bankruptcy-case/"/>
-    <link rel="alternate" href="https://news.cryptic.io/molly-white-excerpts-from-letters-to-the-judge-in-the-celsius-network-bankruptcy-case/" type="text/html"/>
-      <source>
-        <id>https://blog.mollywhite.net/celsius-letters/</id>
-        <link href="https://blog.mollywhite.net/celsius-letters/"/>
-        <title>Excerpts from letters to the judge in the Celsius Network bankruptcy case</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-        <updated>2022-07-22T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/molly-white-excerpts-from-letters-to-the-judge-in-the-celsius-network-bankruptcy-case/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Stop saying “They shouldn’t have invested more than they could afford to lose”</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-    <published>2022-07-22T00:00:00+00:00</published>
-    <updated>2022-07-22T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/molly-white-stop-saying-they-shouldnt-have-invested-more-than-they-could-afford-to-lose/"/>
-    <link rel="alternate" href="https://news.cryptic.io/molly-white-stop-saying-they-shouldnt-have-invested-more-than-they-could-afford-to-lose/" type="text/html"/>
-      <source>
-        <id>https://blog.mollywhite.net/stop-saying-they-shouldnt-have-invested-more-than-they-can-afford-to-lose/</id>
-        <link href="https://blog.mollywhite.net/stop-saying-they-shouldnt-have-invested-more-than-they-can-afford-to-lose/"/>
-        <title>Stop saying “They shouldn’t have invested more than they could afford to lose”</title>
-        <author>
-            <name>Molly White</name>
-        </author>
-        <updated>2022-07-22T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/molly-white-stop-saying-they-shouldnt-have-invested-more-than-they-could-afford-to-lose/</id>
     <content type="html">
         
     </content>
