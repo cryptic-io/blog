@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-01T19:51:21+00:00</updated>
+  <updated>2023-11-01T21:12:23+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Setting up a Mikrotik 10 Gbps Switch the first time</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2023-11-01T21:12:23+00:00</published>
+    <updated>2023-11-01T21:12:23+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-setting-up-a-mikrotik-10-gbps-switch-the-first-time/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-setting-up-a-mikrotik-10-gbps-switch-the-first-time/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2023/setting-mikrotik-10-gbps-switch-first-time</id>
+        <link href="https://www.jeffgeerling.com/blog/2023/setting-mikrotik-10-gbps-switch-first-time"/>
+        <title>Setting up a Mikrotik 10 Gbps Switch the first time</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2023-11-01T21:12:23+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-setting-up-a-mikrotik-10-gbps-switch-the-first-time/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A very stupid bug</title>
         <author>
@@ -3270,30 +3294,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-the-creative-agency-of-small-projects/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Testing PCIe on the Raspberry Pi 5</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2023-09-28T06:00:43+00:00</published>
-    <updated>2023-09-28T06:00:43+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-testing-pcie-on-the-raspberry-pi-5/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-testing-pcie-on-the-raspberry-pi-5/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2023/testing-pcie-on-raspberry-pi-5</id>
-        <link href="https://www.jeffgeerling.com/blog/2023/testing-pcie-on-raspberry-pi-5"/>
-        <title>Testing PCIe on the Raspberry Pi 5</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2023-09-28T06:00:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-testing-pcie-on-the-raspberry-pi-5/</id>
     <content type="html">
         
     </content>
