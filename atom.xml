@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-02T23:00:00+00:00</updated>
+  <updated>2023-11-03T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>LLM output is malicious user input</title>
+        <author>
+            <name>mendhak</name>
+        </author>
+    <published>2023-11-03T00:00:00+00:00</published>
+    <updated>2023-11-03T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/mendhak-llm-output-is-malicious-user-input/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mendhak-llm-output-is-malicious-user-input/" type="text/html"/>
+      <source>
+        <id>https://code.mendhak.com/llm-output-is-malicious/</id>
+        <link href="https://code.mendhak.com/llm-output-is-malicious/"/>
+        <title>LLM output is malicious user input</title>
+        <author>
+            <name>mendhak</name>
+        </author>
+        <updated>2023-11-03T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mendhak-llm-output-is-malicious-user-input/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Doctor&#x27;s Office</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-11-03T00:00:00+00:00</published>
+    <updated>2023-11-03T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-doctors-office/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-doctors-office/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2850/</id>
+        <link href="https://xkcd.com/2850/"/>
+        <title>Doctor&#x27;s Office</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-11-03T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-doctors-office/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>P&amp;B: Jamie Crisman</title>
         <author>
@@ -890,30 +938,6 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-optimization-treadmill-why-i-keep-changing-my-computing-setup-all-the-time/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Daylight Saving Choice</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-10-25T00:00:00+00:00</published>
-    <updated>2023-10-25T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-daylight-saving-choice/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-daylight-saving-choice/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2846/</id>
-        <link href="https://xkcd.com/2846/"/>
-        <title>Daylight Saving Choice</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-10-25T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-daylight-saving-choice/</id>
     <content type="html">
         
     </content>
@@ -11462,30 +11486,6 @@
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-the-goblin-den/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Appreciating F-Droid as an app developer</title>
-        <author>
-            <name>mendhak</name>
-        </author>
-    <published>2022-12-06T00:00:00+00:00</published>
-    <updated>2022-12-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mendhak-appreciating-fdroid-as-an-app-developer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mendhak-appreciating-fdroid-as-an-app-developer/" type="text/html"/>
-      <source>
-        <id>https://code.mendhak.com/in-appreciation-of-fdroid/</id>
-        <link href="https://code.mendhak.com/in-appreciation-of-fdroid/"/>
-        <title>Appreciating F-Droid as an app developer</title>
-        <author>
-            <name>mendhak</name>
-        </author>
-        <updated>2022-12-06T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mendhak-appreciating-fdroid-as-an-app-developer/</id>
     <content type="html">
         
     </content>
