@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-03T00:00:00+00:00</updated>
+  <updated>2023-11-04T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The proper design process in web development</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2023-11-04T00:00:00+00:00</published>
+    <updated>2023-11-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-the-proper-design-process-in-web-development/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-the-proper-design-process-in-web-development/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/articles/the-proper-design-process-in-web-development.html</id>
+        <link href="https://unixsheikh.com/articles/the-proper-design-process-in-web-development.html"/>
+        <title>The proper design process in web development</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2023-11-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-the-proper-design-process-in-web-development/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>LLM output is malicious user input</title>
         <author>
@@ -12206,30 +12230,6 @@
       </source>
 
     <id>https://news.cryptic.io/degrowther-twitter-and-autonomy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Will the ranting on this website ever stop?</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2022-10-31T00:00:00+00:00</published>
-    <updated>2022-10-31T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-will-the-ranting-on-this-website-ever-stop/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-will-the-ranting-on-this-website-ever-stop/" type="text/html"/>
-      <source>
-        <id>https://unixsheikh.com/articles/will-the-ranting-on-this-website-ever-stop.html</id>
-        <link href="https://unixsheikh.com/articles/will-the-ranting-on-this-website-ever-stop.html"/>
-        <title>Will the ranting on this website ever stop?</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2022-10-31T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-will-the-ranting-on-this-website-ever-stop/</id>
     <content type="html">
         
     </content>
