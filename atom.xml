@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-05T15:00:00+00:00</updated>
+  <updated>2023-11-05T20:29:07+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Reducing Raspberry Pi 5&#x27;s power consumption by 140x</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2023-11-05T20:29:07+00:00</published>
+    <updated>2023-11-05T20:29:07+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-reducing-raspberry-pi-5s-power-consumption-by-140x/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-reducing-raspberry-pi-5s-power-consumption-by-140x/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x</id>
+        <link href="https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x"/>
+        <title>Reducing Raspberry Pi 5&#x27;s power consumption by 140x</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2023-11-05T20:29:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-reducing-raspberry-pi-5s-power-consumption-by-140x/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Contra Posturing</title>
         <author>
@@ -3438,30 +3462,6 @@
       </source>
 
     <id>https://news.cryptic.io/justin-jackson-best-saas-marketing-strategies-for-2023/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Answering some questions about the Raspberry Pi 5</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2023-09-28T15:37:46+00:00</published>
-    <updated>2023-09-28T15:37:46+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-answering-some-questions-about-the-raspberry-pi-5/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-answering-some-questions-about-the-raspberry-pi-5/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2023/answering-some-questions-about-raspberry-pi-5</id>
-        <link href="https://www.jeffgeerling.com/blog/2023/answering-some-questions-about-raspberry-pi-5"/>
-        <title>Answering some questions about the Raspberry Pi 5</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2023-09-28T15:37:46+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-answering-some-questions-about-the-raspberry-pi-5/</id>
     <content type="html">
         
     </content>
