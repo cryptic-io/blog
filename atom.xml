@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-06T18:21:13+00:00</updated>
+  <updated>2023-11-07T16:54:26+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Some thoughts on software expertise</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2023-11-07T16:54:26+00:00</published>
+    <updated>2023-11-07T16:54:26+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-some-thoughts-on-software-expertise/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-some-thoughts-on-software-expertise/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/some-thoughts-on-software-expertise/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/some-thoughts-on-software-expertise/"/>
+        <title>Some thoughts on software expertise</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2023-11-07T16:54:26+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-some-thoughts-on-software-expertise/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Smart home automation shouldn&#x27;t be stupid</title>
         <author>
@@ -4326,30 +4350,6 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-my-heuristics-for-interacting-with-humans/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Time zones are hard because people are hard</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-09-04T23:58:19+00:00</published>
-    <updated>2023-09-04T23:58:19+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-time-zones-are-hard-because-people-are-hard/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-time-zones-are-hard-because-people-are-hard/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/time-zones-are-hard-because-people-are-hard/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/time-zones-are-hard-because-people-are-hard/"/>
-        <title>Time zones are hard because people are hard</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-09-04T23:58:19+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-time-zones-are-hard-because-people-are-hard/</id>
     <content type="html">
         
     </content>
