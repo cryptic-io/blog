@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-06T18:21:13+00:00</updated>
+  <updated>2023-11-06T23:43:37+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title> Still no love for WPA3 on the Raspberry Pi 5</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-11-06T23:43:37+00:00</published>
+    <updated>2023-11-06T23:43:37+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/06/wpa3/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/06/wpa3/"/>
+        <title> Still no love for WPA3 on the Raspberry Pi 5</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-11-06T23:43:37+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Smart home automation shouldn&#x27;t be stupid</title>
         <author>
@@ -2186,30 +2210,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-ana-rodrigues/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> Feedback: the feed seems just fine...</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T20:45:14+00:00</published>
-    <updated>2023-10-12T20:45:14+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/06/03/feed/</id>
-        <link href="https://rachelbythebay.com/w/2023/06/03/feed/"/>
-        <title> Feedback: the feed seems just fine...</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T20:45:14+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feedback-the-feed-seems-just-fine/</id>
     <content type="html">
         
     </content>
