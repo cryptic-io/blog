@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-08T10:36:00+00:00</updated>
+  <updated>2023-11-09T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Are Passkeys really the beginning of the end of passwords? I certainly hope not!</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2023-11-09T00:00:00+00:00</published>
+    <updated>2023-11-09T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/articles/are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not.html</id>
+        <link href="https://unixsheikh.com/articles/are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not.html"/>
+        <title>Are Passkeys really the beginning of the end of passwords? I certainly hope not!</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2023-11-09T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The US Health-Insurance Industry is Now so Thoroughly Enshittified that the Time has Come to Flush It</title>
         <author>
@@ -74,6 +98,54 @@
       </source>
 
     <id>https://news.cryptic.io/randall-munroe-parameterball/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> Asahi Linux folks are doing us a solid with WPA3 fixes</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-11-07T21:47:28+00:00</published>
+    <updated>2023-11-07T21:47:28+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/07/wpa3/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/07/wpa3/"/>
+        <title> Asahi Linux folks are doing us a solid with WPA3 fixes</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-11-07T21:47:28+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> Still no love for WPA3 on the Raspberry Pi 5</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-11-07T21:44:38+00:00</published>
+    <updated>2023-11-07T21:44:38+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/06/wpa3/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/06/wpa3/"/>
+        <title> Still no love for WPA3 on the Raspberry Pi 5</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-11-07T21:44:38+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/</id>
     <content type="html">
         
     </content>
@@ -2095,6 +2167,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-17T00:00:07+00:00</published>
+    <updated>2023-10-17T00:00:07+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/16/env/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/16/env/"/>
+        <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-17T00:00:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The discrete logarithm</title>
         <author>
             <name>Mark Dominus</name>
@@ -2215,6 +2311,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title> Administrivia: new page&#x2F;feed generator is now live</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-13T03:29:40+00:00</published>
+    <updated>2023-10-13T03:29:40+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/12/html/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/12/html/"/>
+        <title> Administrivia: new page&#x2F;feed generator is now live</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-13T03:29:40+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Going off-script</title>
         <author>
             <name>Drew DeVault</name>
@@ -2258,6 +2378,102 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-ana-rodrigues/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> I screwed something up in that last post about Hue</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:55:44+00:00</published>
+    <updated>2023-10-12T19:55:44+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/03/js/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/03/js/"/>
+        <title> I screwed something up in that last post about Hue</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:55:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> The Philips Hue ecosystem is collapsing into stupidity</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:55:36+00:00</published>
+    <updated>2023-10-12T19:55:36+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/09/26/hue/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/26/hue/"/>
+        <title> The Philips Hue ecosystem is collapsing into stupidity</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:55:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> ASCII protocol buffers as config files</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:51:03+00:00</published>
+    <updated>2023-10-12T19:51:03+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/05/config/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/05/config/"/>
+        <title> ASCII protocol buffers as config files</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:51:03+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> Expressing my laziness in concrete ways</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:44:29+00:00</published>
+    <updated>2023-10-12T19:44:29+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/09/25/lazy/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/25/lazy/"/>
+        <title> Expressing my laziness in concrete ways</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:44:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/</id>
     <content type="html">
         
     </content>
@@ -3659,6 +3875,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title> The customer stuck due to a hurricane who needed ssh</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-09-21T17:38:18+00:00</published>
+    <updated>2023-09-21T17:38:18+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/09/21/hurricane/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/21/hurricane/"/>
+        <title> The customer stuck due to a hurricane who needed ssh</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-09-21T17:38:18+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Metra Ticket Gallery</title>
         <author>
             <name>Robin Rendle</name>
@@ -3678,6 +3918,30 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-metra-ticket-gallery/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> Memories of a really goofy phone from the late 80s</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-09-20T19:57:28+00:00</published>
+    <updated>2023-09-20T19:57:28+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/09/20/fv1000/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/20/fv1000/"/>
+        <title> Memories of a really goofy phone from the late 80s</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-09-20T19:57:28+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/</id>
     <content type="html">
         
     </content>
@@ -11971,30 +12235,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Is criticizing tech on political grounds valid?</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2022-11-02T00:00:00+00:00</published>
-    <updated>2022-11-02T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-is-criticizing-tech-on-political-grounds-valid/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-is-criticizing-tech-on-political-grounds-valid/" type="text/html"/>
-      <source>
-        <id>https://unixsheikh.com/articles/is-criticizing-tech-on-political-grounds-valid.html</id>
-        <link href="https://unixsheikh.com/articles/is-criticizing-tech-on-political-grounds-valid.html"/>
-        <title>Is criticizing tech on political grounds valid?</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2022-11-02T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-is-criticizing-tech-on-political-grounds-valid/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Twitter and autonomy</title>
         <author>
             <name>degrowther</name>
@@ -17126,6 +17366,246 @@
       </source>
 
     <id>https://news.cryptic.io/chris-coyier-by-20-extraordinary-blogs-with-unique-post-designs-smashing-magazine/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Rough Type has a new RSS feed</title>
+        <author>
+            <name>Nick</name>
+        </author>
+    <published>2012-06-26T01:33:27+00:00</published>
+    <updated>2012-06-26T01:33:27+00:00</updated>
+    <link href="https://news.cryptic.io/nick-rough-type-has-a-new-rss-feed/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nick-rough-type-has-a-new-rss-feed/" type="text/html"/>
+      <source>
+        <id>http://www.roughtype.com/archives/2012/06/rough_type_has_a_new_rss_feed.php</id>
+        <link href="http://www.roughtype.com/archives/2012/06/rough_type_has_a_new_rss_feed.php"/>
+        <title>Rough Type has a new RSS feed</title>
+        <author>
+            <name>Nick</name>
+        </author>
+        <updated>2012-06-26T01:33:27+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nick-rough-type-has-a-new-rss-feed/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Rough Type is experiencing technical difficulties</title>
+        <author>
+            <name>Nick</name>
+        </author>
+    <published>2012-06-22T04:26:55+00:00</published>
+    <updated>2012-06-22T04:26:55+00:00</updated>
+    <link href="https://news.cryptic.io/nick-rough-type-is-experiencing-technical-difficulties/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nick-rough-type-is-experiencing-technical-difficulties/" type="text/html"/>
+      <source>
+        <id>http://www.roughtype.com/archives/2012/06/rough_type_is_experiencing_tec.php</id>
+        <link href="http://www.roughtype.com/archives/2012/06/rough_type_is_experiencing_tec.php"/>
+        <title>Rough Type is experiencing technical difficulties</title>
+        <author>
+            <name>Nick</name>
+        </author>
+        <updated>2012-06-22T04:26:55+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nick-rough-type-is-experiencing-technical-difficulties/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>What realtime is before it&#x27;s realtime</title>
+        <author>
+            <name>Nick</name>
+        </author>
+    <published>2012-06-18T23:31:36+00:00</published>
+    <updated>2012-06-18T23:31:36+00:00</updated>
+    <link href="https://news.cryptic.io/nick-what-realtime-is-before-its-realtime/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nick-what-realtime-is-before-its-realtime/" type="text/html"/>
+      <source>
+        <id>http://www.roughtype.com/archives/2012/06/what_realtime_is_before_its_re.php</id>
+        <link href="http://www.roughtype.com/archives/2012/06/what_realtime_is_before_its_re.php"/>
+        <title>What realtime is before it&#x27;s realtime</title>
+        <author>
+            <name>Nick</name>
+        </author>
+        <updated>2012-06-18T23:31:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nick-what-realtime-is-before-its-realtime/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>1964</title>
+        <author>
+            <name>Nick</name>
+        </author>
+    <published>2012-06-14T18:25:27+00:00</published>
+    <updated>2012-06-14T18:25:27+00:00</updated>
+    <link href="https://news.cryptic.io/nick-1964/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nick-1964/" type="text/html"/>
+      <source>
+        <id>http://www.roughtype.com/archives/2012/06/1964.php</id>
+        <link href="http://www.roughtype.com/archives/2012/06/1964.php"/>
+        <title>1964</title>
+        <author>
+            <name>Nick</name>
+        </author>
+        <updated>2012-06-14T18:25:27+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nick-1964/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Live fast, die young and leave a beautiful hologram</title>
+        <author>
+            <name>Nick</name>
+        </author>
+    <published>2012-06-13T00:28:15+00:00</published>
+    <updated>2012-06-13T00:28:15+00:00</updated>
+    <link href="https://news.cryptic.io/nick-live-fast-die-young-and-leave-a-beautiful-hologram/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nick-live-fast-die-young-and-leave-a-beautiful-hologram/" type="text/html"/>
+      <source>
+        <id>http://www.roughtype.com/archives/2012/06/live_fast_die_young_and_leave.php</id>
+        <link href="http://www.roughtype.com/archives/2012/06/live_fast_die_young_and_leave.php"/>
+        <title>Live fast, die young and leave a beautiful hologram</title>
+        <author>
+            <name>Nick</name>
+        </author>
+        <updated>2012-06-13T00:28:15+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nick-live-fast-die-young-and-leave-a-beautiful-hologram/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Books ain&#x27;t music</title>
+        <author>
+            <name>Nick</name>
+        </author>
+    <published>2012-06-04T18:58:34+00:00</published>
+    <updated>2012-06-04T18:58:34+00:00</updated>
+    <link href="https://news.cryptic.io/nick-books-aint-music/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nick-books-aint-music/" type="text/html"/>
+      <source>
+        <id>http://www.roughtype.com/archives/2012/06/books_aint_music.php</id>
+        <link href="http://www.roughtype.com/archives/2012/06/books_aint_music.php"/>
+        <title>Books ain&#x27;t music</title>
+        <author>
+            <name>Nick</name>
+        </author>
+        <updated>2012-06-04T18:58:34+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nick-books-aint-music/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Reading with Oprah</title>
+        <author>
+            <name>Nick</name>
+        </author>
+    <published>2012-06-02T18:33:44+00:00</published>
+    <updated>2012-06-02T18:33:44+00:00</updated>
+    <link href="https://news.cryptic.io/nick-reading-with-oprah/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nick-reading-with-oprah/" type="text/html"/>
+      <source>
+        <id>http://www.roughtype.com/archives/2012/06/reading_with_oprah.php</id>
+        <link href="http://www.roughtype.com/archives/2012/06/reading_with_oprah.php"/>
+        <title>Reading with Oprah</title>
+        <author>
+            <name>Nick</name>
+        </author>
+        <updated>2012-06-02T18:33:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nick-reading-with-oprah/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Careful what you link to</title>
+        <author>
+            <name>Nick</name>
+        </author>
+    <published>2012-06-01T09:40:47+00:00</published>
+    <updated>2012-06-01T09:40:47+00:00</updated>
+    <link href="https://news.cryptic.io/nick-careful-what-you-link-to/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nick-careful-what-you-link-to/" type="text/html"/>
+      <source>
+        <id>http://www.roughtype.com/archives/2012/06/careful_what_you_link_to.php</id>
+        <link href="http://www.roughtype.com/archives/2012/06/careful_what_you_link_to.php"/>
+        <title>Careful what you link to</title>
+        <author>
+            <name>Nick</name>
+        </author>
+        <updated>2012-06-01T09:40:47+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nick-careful-what-you-link-to/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Perfect silence</title>
+        <author>
+            <name>Nick</name>
+        </author>
+    <published>2012-05-31T18:37:40+00:00</published>
+    <updated>2012-05-31T18:37:40+00:00</updated>
+    <link href="https://news.cryptic.io/nick-perfect-silence/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nick-perfect-silence/" type="text/html"/>
+      <source>
+        <id>http://www.roughtype.com/archives/2012/05/perfect_silence.php</id>
+        <link href="http://www.roughtype.com/archives/2012/05/perfect_silence.php"/>
+        <title>Perfect silence</title>
+        <author>
+            <name>Nick</name>
+        </author>
+        <updated>2012-05-31T18:37:40+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nick-perfect-silence/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A little more signal, a lot more noise</title>
+        <author>
+            <name>Nick</name>
+        </author>
+    <published>2012-05-30T14:56:09+00:00</published>
+    <updated>2012-05-30T14:56:09+00:00</updated>
+    <link href="https://news.cryptic.io/nick-a-little-more-signal-a-lot-more-noise/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nick-a-little-more-signal-a-lot-more-noise/" type="text/html"/>
+      <source>
+        <id>http://www.roughtype.com/archives/2012/05/a_little_more_signal_a_lot_mor.php</id>
+        <link href="http://www.roughtype.com/archives/2012/05/a_little_more_signal_a_lot_mor.php"/>
+        <title>A little more signal, a lot more noise</title>
+        <author>
+            <name>Nick</name>
+        </author>
+        <updated>2012-05-30T14:56:09+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nick-a-little-more-signal-a-lot-more-noise/</id>
     <content type="html">
         
     </content>
