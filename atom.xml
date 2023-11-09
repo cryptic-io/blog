@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>What’s so great about tunnel man?</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+    <published>2023-11-09T00:00:00+00:00</published>
+    <updated>2023-11-09T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dynomight-whats-so-great-about-tunnel-man/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dynomight-whats-so-great-about-tunnel-man/" type="text/html"/>
+      <source>
+        <id>https://dynomight.net/tunnel-man/</id>
+        <link href="https://dynomight.net/tunnel-man/"/>
+        <title>What’s so great about tunnel man?</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+        <updated>2023-11-09T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dynomight-whats-so-great-about-tunnel-man/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Are Passkeys really the beginning of the end of passwords? I certainly hope not!</title>
         <author>
             <name>unixsheikh</name>
@@ -50,30 +74,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The US Health-Insurance Industry is Now so Thoroughly Enshittified that the Time has Come to Flush It</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2023-11-08T10:36:00+00:00</published>
-    <updated>2023-11-08T10:36:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-the-us-healthinsurance-industry-is-now-so-thoroughly-enshittified-that-the-time-has-come-to-flush-it/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-the-us-healthinsurance-industry-is-now-so-thoroughly-enshittified-that-the-time-has-come-to-flush-it/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/beware-help.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/beware-help.html"/>
-        <title>The US Health-Insurance Industry is Now so Thoroughly Enshittified that the Time has Come to Flush It</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2023-11-08T10:36:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-the-us-healthinsurance-industry-is-now-so-thoroughly-enshittified-that-the-time-has-come-to-flush-it/</id>
     <content type="html">
         
     </content>
@@ -146,30 +146,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-some-thoughts-on-software-expertise/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Building My Own Firewall&#x2F;Router, Part 1</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-11-07T13:11:00+00:00</published>
-    <updated>2023-11-07T13:11:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-building-my-own-firewallrouter-part-1/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-building-my-own-firewallrouter-part-1/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/building-my-own-firewall.html</id>
-        <link href="https://cheapskatesguide.org/articles/building-my-own-firewall.html"/>
-        <title>Building My Own Firewall&#x2F;Router, Part 1</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-11-07T13:11:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-building-my-own-firewallrouter-part-1/</id>
     <content type="html">
         
     </content>
@@ -2119,30 +2095,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>First Impressions of IPFire&#x27;s Firewall Software</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-10-17T13:47:00+00:00</published>
-    <updated>2023-10-17T13:47:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-first-impressions-of-ipfires-firewall-software/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-first-impressions-of-ipfires-firewall-software/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/ipfire.html</id>
-        <link href="https://cheapskatesguide.org/articles/ipfire.html"/>
-        <title>First Impressions of IPFire&#x27;s Firewall Software</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-10-17T13:47:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-first-impressions-of-ipfires-firewall-software/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The discrete logarithm</title>
         <author>
             <name>Mark Dominus</name>
@@ -3131,30 +3083,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>In July the Cheapskate&#x27;s Guide Experienced the Self-Hoster&#x27;s Worst Nightmare</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-10-02T02:38:00+00:00</published>
-    <updated>2023-10-02T02:38:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-in-july-the-cheapskates-guide-experienced-the-selfhosters-worst-nightmare/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-in-july-the-cheapskates-guide-experienced-the-selfhosters-worst-nightmare/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/self-hosters-nightmare.html</id>
-        <link href="https://cheapskatesguide.org/articles/self-hosters-nightmare.html"/>
-        <title>In July the Cheapskate&#x27;s Guide Experienced the Self-Hoster&#x27;s Worst Nightmare</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-10-02T02:38:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-in-july-the-cheapskates-guide-experienced-the-selfhosters-worst-nightmare/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Infrastructure-as-code migration</title>
         <author>
             <name>Various</name>
@@ -3899,30 +3827,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Internet Centralization may have made Blocking Unwanted Web-Crawling Robots Easier</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-09-18T08:42:00+00:00</published>
-    <updated>2023-09-18T08:42:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-internet-centralization-may-have-made-blocking-unwanted-webcrawling-robots-easier/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-internet-centralization-may-have-made-blocking-unwanted-webcrawling-robots-easier/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/the-centralization-of-robots.html</id>
-        <link href="https://cheapskatesguide.org/articles/the-centralization-of-robots.html"/>
-        <title>Internet Centralization may have made Blocking Unwanted Web-Crawling Robots Easier</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-09-18T08:42:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-internet-centralization-may-have-made-blocking-unwanted-webcrawling-robots-easier/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Chesterton&#x27;s Invisible Fences</title>
         <author>
             <name>Bastian Rieck</name>
@@ -4494,30 +4398,6 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-my-heuristics-for-interacting-with-humans/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Initial Impressions of the Nostr Network</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-09-04T03:15:00+00:00</published>
-    <updated>2023-09-04T03:15:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-initial-impressions-of-the-nostr-network/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-initial-impressions-of-the-nostr-network/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/nostr.html</id>
-        <link href="https://cheapskatesguide.org/articles/nostr.html"/>
-        <title>Initial Impressions of the Nostr Network</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-09-04T03:15:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-initial-impressions-of-the-nostr-network/</id>
     <content type="html">
         
     </content>
@@ -6131,30 +6011,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Conspiracy theory: Electric cars make more air pollution than gas cars</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-    <published>2023-07-27T00:00:00+00:00</published>
-    <updated>2023-07-27T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dynomight-conspiracy-theory-electric-cars-make-more-air-pollution-than-gas-cars/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dynomight-conspiracy-theory-electric-cars-make-more-air-pollution-than-gas-cars/" type="text/html"/>
-      <source>
-        <id>https://dynomight.net/tires/</id>
-        <link href="https://dynomight.net/tires/"/>
-        <title>Conspiracy theory: Electric cars make more air pollution than gas cars</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-        <updated>2023-07-27T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dynomight-conspiracy-theory-electric-cars-make-more-air-pollution-than-gas-cars/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Bespoke GUIs on the fly</title>
         <author>
             <name>Austin Z. Henley</name>
@@ -7550,30 +7406,6 @@
       </source>
 
     <id>https://news.cryptic.io/nutcroft-the-misery-of-applications/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>On the Poor Writing Found on Most Personal Websites, and the Few Shining Exceptions</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2023-05-30T11:00:00+00:00</published>
-    <updated>2023-05-30T11:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/personal-websites-and-writing.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/personal-websites-and-writing.html"/>
-        <title>On the Poor Writing Found on Most Personal Websites, and the Few Shining Exceptions</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2023-05-30T11:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/</id>
     <content type="html">
         
     </content>
@@ -11155,30 +10987,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2023-01-01T12:00:00+00:00</published>
-    <updated>2023-01-01T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/beware-help.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/beware-help.html"/>
-        <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2023-01-01T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Procedural boiderflies</title>
         <author>
             <name>andersource</name>
@@ -11894,30 +11702,6 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-professionalism-you-should-maintain-a-transition-file/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Idyllic Life</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-11-05T12:04:00+00:00</published>
-    <updated>2022-11-05T12:04:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-idyllic-life/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-idyllic-life/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/idyllic-life.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/idyllic-life.html"/>
-        <title>Idyllic Life</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-11-05T12:04:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-idyllic-life/</id>
     <content type="html">
         
     </content>
@@ -12686,30 +12470,6 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-text-as-interface/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-08-31T13:19:00+00:00</published>
-    <updated>2022-08-31T13:19:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html"/>
-        <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-08-31T13:19:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/</id>
     <content type="html">
         
     </content>
