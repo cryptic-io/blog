@@ -103,54 +103,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title> Asahi Linux folks are doing us a solid with WPA3 fixes</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-07T21:47:28+00:00</published>
-    <updated>2023-11-07T21:47:28+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/07/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/07/wpa3/"/>
-        <title> Asahi Linux folks are doing us a solid with WPA3 fixes</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-07T21:47:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> Still no love for WPA3 on the Raspberry Pi 5</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-07T21:44:38+00:00</published>
-    <updated>2023-11-07T21:44:38+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/06/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/06/wpa3/"/>
-        <title> Still no love for WPA3 on the Raspberry Pi 5</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-07T21:44:38+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Some thoughts on software expertise</title>
         <author>
             <name>Hillel Wayne</name>
@@ -410,30 +362,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-disrupt-the-government/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>pledge(2)-ing and unveil(2)-ing the Drogon web application framework</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-11-04T04:00:00+00:00</published>
-    <updated>2023-11-04T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-pledge2ing-and-unveil2ing-the-drogon-web-application-framework/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-pledge2ing-and-unveil2ing-the-drogon-web-application-framework/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/11-04-pledgeing-and-unveiling-the-drogon-web-application-framework.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/11-04-pledgeing-and-unveiling-the-drogon-web-application-framework.gmi"/>
-        <title>pledge(2)-ing and unveil(2)-ing the Drogon web application framework</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-11-04T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-pledge2ing-and-unveil2ing-the-drogon-web-application-framework/</id>
     <content type="html">
         
     </content>
@@ -1711,30 +1639,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Experimental RKNPU2 backend for GGML&#x2F;llama.cpp</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-10-22T04:00:00+00:00</published>
-    <updated>2023-10-22T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-experimental-rknpu2-backend-for-ggmlllamacpp/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-experimental-rknpu2-backend-for-ggmlllamacpp/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/10-22-experiemtal-rknpu2-backend-for-ggml-llamacpp.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/10-22-experiemtal-rknpu2-backend-for-ggml-llamacpp.gmi"/>
-        <title>Experimental RKNPU2 backend for GGML&#x2F;llama.cpp</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-10-22T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-experimental-rknpu2-backend-for-ggmlllamacpp/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>NVMe SSD boot with the Raspberry Pi 5</title>
         <author>
             <name>Jeff Geerling</name>
@@ -2167,30 +2071,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-17T00:00:07+00:00</published>
-    <updated>2023-10-17T00:00:07+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/16/env/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/16/env/"/>
-        <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-17T00:00:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The discrete logarithm</title>
         <author>
             <name>Mark Dominus</name>
@@ -2311,30 +2191,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title> Administrivia: new page&#x2F;feed generator is now live</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-13T03:29:40+00:00</published>
-    <updated>2023-10-13T03:29:40+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/12/html/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/12/html/"/>
-        <title> Administrivia: new page&#x2F;feed generator is now live</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-13T03:29:40+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Going off-script</title>
         <author>
             <name>Drew DeVault</name>
@@ -2378,102 +2234,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-ana-rodrigues/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> I screwed something up in that last post about Hue</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T19:55:44+00:00</published>
-    <updated>2023-10-12T19:55:44+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/03/js/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/03/js/"/>
-        <title> I screwed something up in that last post about Hue</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T19:55:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> The Philips Hue ecosystem is collapsing into stupidity</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T19:55:36+00:00</published>
-    <updated>2023-10-12T19:55:36+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/26/hue/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/26/hue/"/>
-        <title> The Philips Hue ecosystem is collapsing into stupidity</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T19:55:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> ASCII protocol buffers as config files</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T19:51:03+00:00</published>
-    <updated>2023-10-12T19:51:03+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/05/config/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/05/config/"/>
-        <title> ASCII protocol buffers as config files</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T19:51:03+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> Expressing my laziness in concrete ways</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T19:44:29+00:00</published>
-    <updated>2023-10-12T19:44:29+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/25/lazy/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/25/lazy/"/>
-        <title> Expressing my laziness in concrete ways</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T19:44:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/</id>
     <content type="html">
         
     </content>
@@ -3755,30 +3515,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Using llama-cpp-python server with LangChain</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-09-25T04:00:00+00:00</published>
-    <updated>2023-09-25T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-using-llamacpppython-server-with-langchain/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-using-llamacpppython-server-with-langchain/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/09-25-using-llama-cpp-python-server-with-langchain.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/09-25-using-llama-cpp-python-server-with-langchain.gmi"/>
-        <title>Using llama-cpp-python server with LangChain</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-09-25T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-using-llamacpppython-server-with-langchain/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Pull requests make CI harder</title>
         <author>
             <name>Tyler Cipriani</name>
@@ -3875,30 +3611,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title> The customer stuck due to a hurricane who needed ssh</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-09-21T17:38:18+00:00</published>
-    <updated>2023-09-21T17:38:18+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/21/hurricane/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/21/hurricane/"/>
-        <title> The customer stuck due to a hurricane who needed ssh</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-09-21T17:38:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Metra Ticket Gallery</title>
         <author>
             <name>Robin Rendle</name>
@@ -3918,30 +3630,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-metra-ticket-gallery/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> Memories of a really goofy phone from the late 80s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-09-20T19:57:28+00:00</published>
-    <updated>2023-09-20T19:57:28+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/20/fv1000/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/20/fv1000/"/>
-        <title> Memories of a really goofy phone from the late 80s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-09-20T19:57:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/</id>
     <content type="html">
         
     </content>
@@ -4163,30 +3851,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Hardware accelerated playback on PineTab 2 (RK3566)</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-09-17T04:00:00+00:00</published>
-    <updated>2023-09-17T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-hardware-accelerated-playback-on-pinetab-2-rk3566/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-hardware-accelerated-playback-on-pinetab-2-rk3566/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/09-17-hardware-accelerated-playback-on-pinetab2.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/09-17-hardware-accelerated-playback-on-pinetab2.gmi"/>
-        <title>Hardware accelerated playback on PineTab 2 (RK3566)</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-09-17T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-hardware-accelerated-playback-on-pinetab-2-rk3566/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Hyprland is a toxic community</title>
         <author>
             <name>Drew DeVault</name>
@@ -4206,30 +3870,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-hyprland-is-a-toxic-community/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>RE: On using Pinyin</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-09-15T04:00:00+00:00</published>
-    <updated>2023-09-15T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-re-on-using-pinyin/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-re-on-using-pinyin/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/09-15-re-on-using-pinyin.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/09-15-re-on-using-pinyin.gmi"/>
-        <title>RE: On using Pinyin</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-09-15T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-re-on-using-pinyin/</id>
     <content type="html">
         
     </content>
@@ -4835,30 +4475,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Benchmarking RK3588 NPU matrix multiplication performance EP2</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-09-02T04:00:00+00:00</published>
-    <updated>2023-09-02T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-benchmarking-rk3588-npu-matrix-multiplication-performance-ep2/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-benchmarking-rk3588-npu-matrix-multiplication-performance-ep2/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/09-02-benchmarking-rk3588-npu-matrix-multiplcation-performance-ep2.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/09-02-benchmarking-rk3588-npu-matrix-multiplcation-performance-ep2.gmi"/>
-        <title>Benchmarking RK3588 NPU matrix multiplication performance EP2</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-09-02T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-benchmarking-rk3588-npu-matrix-multiplication-performance-ep2/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Pointing Fingers</title>
         <author>
             <name>matthiasott</name>
@@ -5051,30 +4667,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Adding a fan to my OrangePi 5+</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-08-28T04:00:00+00:00</published>
-    <updated>2023-08-28T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-adding-a-fan-to-my-orangepi-5/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-adding-a-fan-to-my-orangepi-5/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/08-28-adding-a-fan-to-my-orange-pi-5b-plus.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/08-28-adding-a-fan-to-my-orange-pi-5b-plus.gmi"/>
-        <title>Adding a fan to my OrangePi 5+</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-08-28T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-adding-a-fan-to-my-orangepi-5/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The state will not save us from climate catastrophe</title>
         <author>
             <name>degrowther</name>
@@ -5118,30 +4710,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-completely-random-car-and-design-stuff/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Benchmarking RK3588 NPU matrix multiplication performance</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-08-26T04:00:00+00:00</published>
-    <updated>2023-08-26T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-benchmarking-rk3588-npu-matrix-multiplication-performance/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-benchmarking-rk3588-npu-matrix-multiplication-performance/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/08-26-benchmarking-rk3588-npu-matrix-multiplcation-performance.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/08-26-benchmarking-rk3588-npu-matrix-multiplcation-performance.gmi"/>
-        <title>Benchmarking RK3588 NPU matrix multiplication performance</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-08-26T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-benchmarking-rk3588-npu-matrix-multiplication-performance/</id>
     <content type="html">
         
     </content>
@@ -5430,30 +4998,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-pdoom/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Failed attempt at free multilingual TTS by abusing IPA</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-08-16T04:00:00+00:00</published>
-    <updated>2023-08-16T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-failed-attempt-at-free-multilingual-tts-by-abusing-ipa/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-failed-attempt-at-free-multilingual-tts-by-abusing-ipa/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/08-16-failed-attempt-at-free-multilingual-tts-by-abusing-ipa.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/08-16-failed-attempt-at-free-multilingual-tts-by-abusing-ipa.gmi"/>
-        <title>Failed attempt at free multilingual TTS by abusing IPA</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-08-16T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-failed-attempt-at-free-multilingual-tts-by-abusing-ipa/</id>
     <content type="html">
         
     </content>
@@ -6078,30 +5622,6 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-cool-projects/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How incredibly easy it is to break (weak) passwords</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-08-03T04:00:00+00:00</published>
-    <updated>2023-08-03T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-how-incredibly-easy-it-is-to-break-weak-passwords/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-how-incredibly-easy-it-is-to-break-weak-passwords/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/08-03-how-incredibly-easy-it-is-to-break-weak-password.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/08-03-how-incredibly-easy-it-is-to-break-weak-password.gmi"/>
-        <title>How incredibly easy it is to break (weak) passwords</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-08-03T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-how-incredibly-easy-it-is-to-break-weak-passwords/</id>
     <content type="html">
         
     </content>
