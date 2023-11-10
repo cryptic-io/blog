@@ -55,6 +55,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Redshift</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-11-10T00:00:00+00:00</published>
+    <updated>2023-11-10T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-redshift/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-redshift/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2853/</id>
+        <link href="https://xkcd.com/2853/"/>
+        <title>Redshift</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-11-10T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-redshift/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>P&amp;B: Piper Haywood</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -914,30 +938,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-machine-learning-of-guis-at-scale/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Under the Stars</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-11-01T00:00:00+00:00</published>
-    <updated>2023-11-01T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-under-the-stars/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-under-the-stars/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2849/</id>
-        <link href="https://xkcd.com/2849/"/>
-        <title>Under the Stars</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-11-01T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-under-the-stars/</id>
     <content type="html">
         
     </content>
