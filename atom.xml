@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-10T23:00:00+00:00</updated>
+  <updated>2023-11-11T17:57:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>On Doing Maintenance &#x2F; Cataloguing the Work</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2023-11-11T17:57:00+00:00</published>
+    <updated>2023-11-11T17:57:00+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-on-doing-maintenance-cataloguing-the-work/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-on-doing-maintenance-cataloguing-the-work/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/maintenance</id>
+        <link href="https://johnwhiles.com/posts/maintenance"/>
+        <title>On Doing Maintenance &#x2F; Cataloguing the Work</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2023-11-11T17:57:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-on-doing-maintenance-cataloguing-the-work/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>App Defaults</title>
         <author>
@@ -10886,30 +10910,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-rating-the-ramen-i-ate-in-japan/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>GUEST POST: Japan&#x27;s hottest tunes right now</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-    <published>2023-01-21T23:00:00+00:00</published>
-    <updated>2023-01-21T23:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/john-whiles-guest-post-japans-hottest-tunes-right-now/"/>
-    <link rel="alternate" href="https://news.cryptic.io/john-whiles-guest-post-japans-hottest-tunes-right-now/" type="text/html"/>
-      <source>
-        <id>https://johnwhiles.com/posts/japans-hottest-tunes</id>
-        <link href="https://johnwhiles.com/posts/japans-hottest-tunes"/>
-        <title>GUEST POST: Japan&#x27;s hottest tunes right now</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-        <updated>2023-01-21T23:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/john-whiles-guest-post-japans-hottest-tunes-right-now/</id>
     <content type="html">
         
     </content>
