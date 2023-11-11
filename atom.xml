@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-10T00:22:36+00:00</updated>
+  <updated>2023-11-10T23:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>App Defaults</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2023-11-10T23:00:00+00:00</published>
+    <updated>2023-11-10T23:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-app-defaults/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-app-defaults/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/W5XmpAylHehvXfY1</id>
+        <link href="https://manuelmoreale.com/@/page/W5XmpAylHehvXfY1"/>
+        <title>App Defaults</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2023-11-10T23:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-app-defaults/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>How do you take the average of two timestamps?</title>
         <author>
@@ -2522,30 +2546,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-going-offscript/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>P&amp;B: Ana Rodrigues</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2023-10-12T22:00:00+00:00</published>
-    <updated>2023-10-12T22:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-ana-rodrigues/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-ana-rodrigues/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/ltAjFpGuW8w0yOqO</id>
-        <link href="https://manuelmoreale.com/@/page/ltAjFpGuW8w0yOqO"/>
-        <title>P&amp;B: Ana Rodrigues</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2023-10-12T22:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-ana-rodrigues/</id>
     <content type="html">
         
     </content>
