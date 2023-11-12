@@ -103,30 +103,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>We have Earlywood at home</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-    <published>2023-11-10T00:00:00+00:00</published>
-    <updated>2023-11-10T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-kiehl-we-have-earlywood-at-home/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-kiehl-we-have-earlywood-at-home/" type="text/html"/>
-      <source>
-        <id>https://chriskiehl.com/article/dollar-store-brand-earlywood</id>
-        <link href="https://chriskiehl.com/article/dollar-store-brand-earlywood"/>
-        <title>We have Earlywood at home</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-        <updated>2023-11-10T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-kiehl-we-have-earlywood-at-home/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Actions that create opportunities</title>
         <author>
             <name>Justin Jackson</name>
@@ -343,6 +319,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The US Health-Insurance Industry is Now so Thoroughly Enshittified that the Time has Come to Flush It</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2023-11-08T10:36:00+00:00</published>
+    <updated>2023-11-08T10:36:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-the-us-healthinsurance-industry-is-now-so-thoroughly-enshittified-that-the-time-has-come-to-flush-it/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-the-us-healthinsurance-industry-is-now-so-thoroughly-enshittified-that-the-time-has-come-to-flush-it/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/beware-help.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/beware-help.html"/>
+        <title>The US Health-Insurance Industry is Now so Thoroughly Enshittified that the Time has Come to Flush It</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2023-11-08T10:36:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-the-us-healthinsurance-industry-is-now-so-thoroughly-enshittified-that-the-time-has-come-to-flush-it/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Wolvic Store Experiment</title>
         <author>
             <name>Brian Kardell</name>
@@ -391,54 +391,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title> Asahi Linux folks are doing us a solid with WPA3 fixes</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-07T21:47:28+00:00</published>
-    <updated>2023-11-07T21:47:28+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/07/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/07/wpa3/"/>
-        <title> Asahi Linux folks are doing us a solid with WPA3 fixes</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-07T21:47:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> Still no love for WPA3 on the Raspberry Pi 5</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-07T21:44:38+00:00</published>
-    <updated>2023-11-07T21:44:38+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/06/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/06/wpa3/"/>
-        <title> Still no love for WPA3 on the Raspberry Pi 5</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-07T21:44:38+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Some thoughts on software expertise</title>
         <author>
             <name>Hillel Wayne</name>
@@ -458,6 +410,30 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-some-thoughts-on-software-expertise/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Building My Own Firewall&#x2F;Router, Part 1</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-11-07T13:11:00+00:00</published>
+    <updated>2023-11-07T13:11:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-building-my-own-firewallrouter-part-1/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-building-my-own-firewallrouter-part-1/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/building-my-own-firewall.html</id>
+        <link href="https://cheapskatesguide.org/articles/building-my-own-firewall.html"/>
+        <title>Building My Own Firewall&#x2F;Router, Part 1</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-11-07T13:11:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-building-my-own-firewallrouter-part-1/</id>
     <content type="html">
         
     </content>
@@ -2359,25 +2335,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
+    <title>First Impressions of IPFire&#x27;s Firewall Software</title>
         <author>
-            <name>rachelbythebay</name>
+            <name>Cheapskate</name>
         </author>
-    <published>2023-10-17T00:00:07+00:00</published>
-    <updated>2023-10-17T00:00:07+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/" type="text/html"/>
+    <published>2023-10-17T13:47:00+00:00</published>
+    <updated>2023-10-17T13:47:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-first-impressions-of-ipfires-firewall-software/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-first-impressions-of-ipfires-firewall-software/" type="text/html"/>
       <source>
-        <id>https://rachelbythebay.com/w/2023/10/16/env/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/16/env/"/>
-        <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
+        <id>https://cheapskatesguide.org/articles/ipfire.html</id>
+        <link href="https://cheapskatesguide.org/articles/ipfire.html"/>
+        <title>First Impressions of IPFire&#x27;s Firewall Software</title>
         <author>
-            <name>rachelbythebay</name>
+            <name>Cheapskate</name>
         </author>
-        <updated>2023-10-17T00:00:07+00:00</updated>
+        <updated>2023-10-17T13:47:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/</id>
+    <id>https://news.cryptic.io/cheapskate-first-impressions-of-ipfires-firewall-software/</id>
     <content type="html">
         
     </content>
@@ -2503,30 +2479,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title> Administrivia: new page&#x2F;feed generator is now live</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-13T03:29:40+00:00</published>
-    <updated>2023-10-13T03:29:40+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/12/html/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/12/html/"/>
-        <title> Administrivia: new page&#x2F;feed generator is now live</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-13T03:29:40+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Going off-script</title>
         <author>
             <name>Drew DeVault</name>
@@ -2546,102 +2498,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-going-offscript/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> I screwed something up in that last post about Hue</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T19:55:44+00:00</published>
-    <updated>2023-10-12T19:55:44+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/03/js/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/03/js/"/>
-        <title> I screwed something up in that last post about Hue</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T19:55:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> The Philips Hue ecosystem is collapsing into stupidity</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T19:55:36+00:00</published>
-    <updated>2023-10-12T19:55:36+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/26/hue/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/26/hue/"/>
-        <title> The Philips Hue ecosystem is collapsing into stupidity</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T19:55:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> ASCII protocol buffers as config files</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T19:51:03+00:00</published>
-    <updated>2023-10-12T19:51:03+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/05/config/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/05/config/"/>
-        <title> ASCII protocol buffers as config files</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T19:51:03+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> Expressing my laziness in concrete ways</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T19:44:29+00:00</published>
-    <updated>2023-10-12T19:44:29+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/25/lazy/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/25/lazy/"/>
-        <title> Expressing my laziness in concrete ways</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T19:44:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/</id>
     <content type="html">
         
     </content>
@@ -3419,6 +3275,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>In July the Cheapskate&#x27;s Guide Experienced the Self-Hoster&#x27;s Worst Nightmare</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-10-02T02:38:00+00:00</published>
+    <updated>2023-10-02T02:38:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-in-july-the-cheapskates-guide-experienced-the-selfhosters-worst-nightmare/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-in-july-the-cheapskates-guide-experienced-the-selfhosters-worst-nightmare/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/self-hosters-nightmare.html</id>
+        <link href="https://cheapskatesguide.org/articles/self-hosters-nightmare.html"/>
+        <title>In July the Cheapskate&#x27;s Guide Experienced the Self-Hoster&#x27;s Worst Nightmare</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-10-02T02:38:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-in-july-the-cheapskates-guide-experienced-the-selfhosters-worst-nightmare/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Infrastructure-as-code migration</title>
         <author>
             <name>Various</name>
@@ -3947,30 +3827,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title> The customer stuck due to a hurricane who needed ssh</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-09-21T17:38:18+00:00</published>
-    <updated>2023-09-21T17:38:18+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/21/hurricane/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/21/hurricane/"/>
-        <title> The customer stuck due to a hurricane who needed ssh</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-09-21T17:38:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Metra Ticket Gallery</title>
         <author>
             <name>Robin Rendle</name>
@@ -3990,30 +3846,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-metra-ticket-gallery/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> Memories of a really goofy phone from the late 80s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-09-20T19:57:28+00:00</published>
-    <updated>2023-09-20T19:57:28+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/20/fv1000/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/20/fv1000/"/>
-        <title> Memories of a really goofy phone from the late 80s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-09-20T19:57:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/</id>
     <content type="html">
         
     </content>
@@ -4182,6 +4014,30 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-using-a-local-llm-to-automate-an-android-device/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Internet Centralization may have made Blocking Unwanted Web-Crawling Robots Easier</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-09-18T08:42:00+00:00</published>
+    <updated>2023-09-18T08:42:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-internet-centralization-may-have-made-blocking-unwanted-webcrawling-robots-easier/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-internet-centralization-may-have-made-blocking-unwanted-webcrawling-robots-easier/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/the-centralization-of-robots.html</id>
+        <link href="https://cheapskatesguide.org/articles/the-centralization-of-robots.html"/>
+        <title>Internet Centralization may have made Blocking Unwanted Web-Crawling Robots Easier</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-09-18T08:42:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-internet-centralization-may-have-made-blocking-unwanted-webcrawling-robots-easier/</id>
     <content type="html">
         
     </content>
@@ -4734,6 +4590,30 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-my-heuristics-for-interacting-with-humans/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Initial Impressions of the Nostr Network</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-09-04T03:15:00+00:00</published>
+    <updated>2023-09-04T03:15:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-initial-impressions-of-the-nostr-network/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-initial-impressions-of-the-nostr-network/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/nostr.html</id>
+        <link href="https://cheapskatesguide.org/articles/nostr.html"/>
+        <title>Initial Impressions of the Nostr Network</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-09-04T03:15:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-initial-impressions-of-the-nostr-network/</id>
     <content type="html">
         
     </content>
@@ -7699,6 +7579,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>On the Poor Writing Found on Most Personal Websites, and the Few Shining Exceptions</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2023-05-30T11:00:00+00:00</published>
+    <updated>2023-05-30T11:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/personal-websites-and-writing.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/personal-websites-and-writing.html"/>
+        <title>On the Poor Writing Found on Most Personal Websites, and the Few Shining Exceptions</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2023-05-30T11:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>My first superoptimizer</title>
         <author>
             <name>Austin Z. Henley</name>
@@ -9907,30 +9811,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>How to lose $950 very quickly on AirBnB</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-    <published>2023-03-05T00:00:00+00:00</published>
-    <updated>2023-03-05T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-kiehl-how-to-lose-950-very-quickly-on-airbnb/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-kiehl-how-to-lose-950-very-quickly-on-airbnb/" type="text/html"/>
-      <source>
-        <id>https://chriskiehl.com/article/how-to-lose-about-nine-fitty</id>
-        <link href="https://chriskiehl.com/article/how-to-lose-about-nine-fitty"/>
-        <title>How to lose $950 very quickly on AirBnB</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-        <updated>2023-03-05T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-kiehl-how-to-lose-950-very-quickly-on-airbnb/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>John Reviews: Rosalía‘s coca cola</title>
         <author>
             <name>John Whiles</name>
@@ -10915,30 +10795,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Making Lenses Practical in Java</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-    <published>2023-01-15T00:00:00+00:00</published>
-    <updated>2023-01-15T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-kiehl-making-lenses-practical-in-java/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-kiehl-making-lenses-practical-in-java/" type="text/html"/>
-      <source>
-        <id>https://chriskiehl.com/article/practical-lenses</id>
-        <link href="https://chriskiehl.com/article/practical-lenses"/>
-        <title>Making Lenses Practical in Java</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-        <updated>2023-01-15T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-kiehl-making-lenses-practical-in-java/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Backpropagating through reasoning</title>
         <author>
             <name>Linus Lee</name>
@@ -11251,6 +11107,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2023-01-01T12:00:00+00:00</published>
+    <updated>2023-01-01T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/beware-help.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/beware-help.html"/>
+        <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2023-01-01T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Procedural boiderflies</title>
         <author>
             <name>andersource</name>
@@ -11270,30 +11150,6 @@
       </source>
 
     <id>https://news.cryptic.io/andersource-procedural-boiderflies/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>2022</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-    <published>2022-12-31T00:00:00+00:00</published>
-    <updated>2022-12-31T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-kiehl-2022/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-kiehl-2022/" type="text/html"/>
-      <source>
-        <id>https://chriskiehl.com/article/2022</id>
-        <link href="https://chriskiehl.com/article/2022"/>
-        <title>2022</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-        <updated>2022-12-31T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-kiehl-2022/</id>
     <content type="html">
         
     </content>
@@ -11779,54 +11635,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The little feet really tie it all together</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-    <published>2022-11-16T00:00:00+00:00</published>
-    <updated>2022-11-16T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-kiehl-the-little-feet-really-tie-it-all-together/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-kiehl-the-little-feet-really-tie-it-all-together/" type="text/html"/>
-      <source>
-        <id>https://chriskiehl.com/article/the-feet-really-tie-it-all-together</id>
-        <link href="https://chriskiehl.com/article/the-feet-really-tie-it-all-together"/>
-        <title>The little feet really tie it all together</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-        <updated>2022-11-16T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-kiehl-the-little-feet-really-tie-it-all-together/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>SpOoKy Halloween Decoration (2022)</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-    <published>2022-11-14T00:00:00+00:00</published>
-    <updated>2022-11-14T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-kiehl-spooky-halloween-decoration-2022/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-kiehl-spooky-halloween-decoration-2022/" type="text/html"/>
-      <source>
-        <id>https://chriskiehl.com/article/2022-super-spooky-decoration</id>
-        <link href="https://chriskiehl.com/article/2022-super-spooky-decoration"/>
-        <title>SpOoKy Halloween Decoration (2022)</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-        <updated>2022-11-14T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-kiehl-spooky-halloween-decoration-2022/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>.io domains considered harmful</title>
         <author>
             <name>Jes Olson</name>
@@ -11966,6 +11774,30 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-professionalism-you-should-maintain-a-transition-file/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Idyllic Life</title>
+        <author>
+            <name>Tie</name>
+        </author>
+    <published>2022-11-05T12:04:00+00:00</published>
+    <updated>2022-11-05T12:04:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-idyllic-life/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-idyllic-life/" type="text/html"/>
+      <source>
+        <id>http://misc-stuff.terraaeon.com/articles/idyllic-life.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/idyllic-life.html"/>
+        <title>Idyllic Life</title>
+        <author>
+            <name>Tie</name>
+        </author>
+        <updated>2022-11-05T12:04:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tie-idyllic-life/</id>
     <content type="html">
         
     </content>
@@ -12499,30 +12331,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>How to Influence Query Planning in Postgresql</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-    <published>2022-09-18T00:00:00+00:00</published>
-    <updated>2022-09-18T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-kiehl-how-to-influence-query-planning-in-postgresql/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-kiehl-how-to-influence-query-planning-in-postgresql/" type="text/html"/>
-      <source>
-        <id>https://chriskiehl.com/article/query-plan-management</id>
-        <link href="https://chriskiehl.com/article/query-plan-management"/>
-        <title>How to Influence Query Planning in Postgresql</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-        <updated>2022-09-18T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-kiehl-how-to-influence-query-planning-in-postgresql/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>drones run linux: the free software movement isn&#x27;t enough</title>
         <author>
             <name>Jes Olson</name>
@@ -12590,30 +12398,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-ellis-stubbornness-and-programming/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Book Review: Fundamentals of Software Architecture</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-    <published>2022-09-10T00:00:00+00:00</published>
-    <updated>2022-09-10T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-kiehl-book-review-fundamentals-of-software-architecture/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-kiehl-book-review-fundamentals-of-software-architecture/" type="text/html"/>
-      <source>
-        <id>https://chriskiehl.com/article/review-of-fundamentals-of-architecture</id>
-        <link href="https://chriskiehl.com/article/review-of-fundamentals-of-architecture"/>
-        <title>Book Review: Fundamentals of Software Architecture</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-        <updated>2022-09-10T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-kiehl-book-review-fundamentals-of-software-architecture/</id>
     <content type="html">
         
     </content>
@@ -12739,25 +12523,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Webscraping on hard mode with Purescript </title>
+    <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
         <author>
-            <name>Chris Kiehl</name>
+            <name>Tie</name>
         </author>
-    <published>2022-08-30T00:00:00+00:00</published>
-    <updated>2022-08-30T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-kiehl-webscraping-on-hard-mode-with-purescript/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-kiehl-webscraping-on-hard-mode-with-purescript/" type="text/html"/>
+    <published>2022-08-31T13:19:00+00:00</published>
+    <updated>2022-08-31T13:19:00+00:00</updated>
+    <link href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/" type="text/html"/>
       <source>
-        <id>https://chriskiehl.com/article/webscraping-on-hard-mode</id>
-        <link href="https://chriskiehl.com/article/webscraping-on-hard-mode"/>
-        <title>Webscraping on hard mode with Purescript </title>
+        <id>http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html"/>
+        <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
         <author>
-            <name>Chris Kiehl</name>
+            <name>Tie</name>
         </author>
-        <updated>2022-08-30T00:00:00+00:00</updated>
+        <updated>2022-08-31T13:19:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/chris-kiehl-webscraping-on-hard-mode-with-purescript/</id>
+    <id>https://news.cryptic.io/tie-some-things-i-realized-about-ai-while-contemplating-slide-rule-prices-on-ebay/</id>
     <content type="html">
         
     </content>
@@ -13598,30 +13382,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-daubenschtz-ceci-nest-pas-une-non-fungible-token/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Rebuilding the really, really specific thing holder</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-    <published>2022-05-25T00:00:00+00:00</published>
-    <updated>2022-05-25T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-kiehl-rebuilding-the-really-really-specific-thing-holder/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-kiehl-rebuilding-the-really-really-specific-thing-holder/" type="text/html"/>
-      <source>
-        <id>https://chriskiehl.com/article/woodification-of-the-really-specific-thing-holder</id>
-        <link href="https://chriskiehl.com/article/woodification-of-the-really-specific-thing-holder"/>
-        <title>Rebuilding the really, really specific thing holder</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-        <updated>2022-05-25T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-kiehl-rebuilding-the-really-really-specific-thing-holder/</id>
     <content type="html">
         
     </content>
