@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-13T19:00:00+00:00</updated>
+  <updated>2023-11-14T07:39:10+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Help is just help</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-11-14T07:39:10+00:00</published>
+    <updated>2023-11-14T07:39:10+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-help-is-just-help/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-help-is-just-help/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/help-is-just-help/</id>
+        <link href="https://robinrendle.com/notes/help-is-just-help/"/>
+        <title>Help is just help</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-11-14T07:39:10+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-help-is-just-help/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>HTML Web Components</title>
         <author>
@@ -482,54 +506,6 @@
       </source>
 
     <id>https://news.cryptic.io/randall-munroe-parameterball/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> Asahi Linux folks are doing us a solid with WPA3 fixes</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-07T21:47:28+00:00</published>
-    <updated>2023-11-07T21:47:28+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/07/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/07/wpa3/"/>
-        <title> Asahi Linux folks are doing us a solid with WPA3 fixes</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-07T21:47:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> Still no love for WPA3 on the Raspberry Pi 5</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-07T21:44:38+00:00</published>
-    <updated>2023-11-07T21:44:38+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/06/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/06/wpa3/"/>
-        <title> Still no love for WPA3 on the Raspberry Pi 5</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-07T21:44:38+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/</id>
     <content type="html">
         
     </content>
@@ -1279,30 +1255,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>No Borders</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-10-30T00:33:00+00:00</published>
-    <updated>2023-10-30T00:33:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-no-borders/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-no-borders/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/no-borders</id>
-        <link href="https://matthiasott.com/notes/no-borders"/>
-        <title>No Borders</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-10-30T00:33:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-no-borders/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The main differences between OpenBSD, FreeBSD, NetBSD and DragonFly BSD</title>
         <author>
             <name>unixsheikh</name>
@@ -2023,30 +1975,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>My New Newsletter: Own Your Web</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-10-22T07:07:00+00:00</published>
-    <updated>2023-10-22T07:07:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-my-new-newsletter-own-your-web/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-my-new-newsletter-own-your-web/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/my-new-newsletter-own-your-web</id>
-        <link href="https://matthiasott.com/notes/my-new-newsletter-own-your-web"/>
-        <title>My New Newsletter: Own Your Web</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-10-22T07:07:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-my-new-newsletter-own-your-web/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Experimental RKNPU2 backend for GGML&#x2F;llama.cpp</title>
         <author>
             <name>Martin Chang</name>
@@ -2479,30 +2407,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-17T00:00:07+00:00</published>
-    <updated>2023-10-17T00:00:07+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/16/env/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/16/env/"/>
-        <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-17T00:00:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The discrete logarithm</title>
         <author>
             <name>Mark Dominus</name>
@@ -2623,30 +2527,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title> Administrivia: new page&#x2F;feed generator is now live</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-13T03:29:40+00:00</published>
-    <updated>2023-10-13T03:29:40+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/12/html/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/12/html/"/>
-        <title> Administrivia: new page&#x2F;feed generator is now live</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-13T03:29:40+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Going off-script</title>
         <author>
             <name>Drew DeVault</name>
@@ -2666,102 +2546,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-going-offscript/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> I screwed something up in that last post about Hue</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T19:55:44+00:00</published>
-    <updated>2023-10-12T19:55:44+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/03/js/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/03/js/"/>
-        <title> I screwed something up in that last post about Hue</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T19:55:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> The Philips Hue ecosystem is collapsing into stupidity</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T19:55:36+00:00</published>
-    <updated>2023-10-12T19:55:36+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/26/hue/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/26/hue/"/>
-        <title> The Philips Hue ecosystem is collapsing into stupidity</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T19:55:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> ASCII protocol buffers as config files</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T19:51:03+00:00</published>
-    <updated>2023-10-12T19:51:03+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/05/config/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/05/config/"/>
-        <title> ASCII protocol buffers as config files</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T19:51:03+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> Expressing my laziness in concrete ways</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T19:44:29+00:00</published>
-    <updated>2023-10-12T19:44:29+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/25/lazy/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/25/lazy/"/>
-        <title> Expressing my laziness in concrete ways</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T19:44:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/</id>
     <content type="html">
         
     </content>
@@ -4019,30 +3803,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title> The customer stuck due to a hurricane who needed ssh</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-09-21T17:38:18+00:00</published>
-    <updated>2023-09-21T17:38:18+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/21/hurricane/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/21/hurricane/"/>
-        <title> The customer stuck due to a hurricane who needed ssh</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-09-21T17:38:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Metra Ticket Gallery</title>
         <author>
             <name>Robin Rendle</name>
@@ -4062,30 +3822,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-metra-ticket-gallery/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title> Memories of a really goofy phone from the late 80s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-09-20T19:57:28+00:00</published>
-    <updated>2023-09-20T19:57:28+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/09/20/fv1000/</id>
-        <link href="https://rachelbythebay.com/w/2023/09/20/fv1000/"/>
-        <title> Memories of a really goofy phone from the late 80s</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-09-20T19:57:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/</id>
     <content type="html">
         
     </content>
@@ -4403,30 +4139,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>v13</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-09-14T23:08:13+00:00</published>
-    <updated>2023-09-14T23:08:13+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-v13/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-v13/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/v13/</id>
-        <link href="https://robinrendle.com/notes/v13/"/>
-        <title>v13</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-09-14T23:08:13+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-v13/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The Generous Space of Alternative Game Engines (A Curation)</title>
         <author>
             <name>Nathalie Lawhead</name>
@@ -4619,30 +4331,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>My Favorite Mac Apps in 2023</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-09-11T08:25:00+00:00</published>
-    <updated>2023-09-11T08:25:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-my-favorite-mac-apps-in-2023/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-my-favorite-mac-apps-in-2023/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/my-favorite-mac-apps-in-2023</id>
-        <link href="https://matthiasott.com/notes/my-favorite-mac-apps-in-2023"/>
-        <title>My Favorite Mac Apps in 2023</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-09-11T08:25:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-my-favorite-mac-apps-in-2023/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Steam local network game transfers are a game-changer</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -4734,30 +4422,6 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-out-of-the-box/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>WOFF Has Left the Building</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-09-07T08:16:00+00:00</published>
-    <updated>2023-09-07T08:16:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-woff-has-left-the-building/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-woff-has-left-the-building/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/woff-has-left-the-building</id>
-        <link href="https://matthiasott.com/notes/woff-has-left-the-building"/>
-        <title>WOFF Has Left the Building</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-09-07T08:16:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-woff-has-left-the-building/</id>
     <content type="html">
         
     </content>
@@ -4926,30 +4590,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-benchmarking-rk3588-npu-matrix-multiplication-performance-ep2/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Pointing Fingers</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-08-31T21:08:00+00:00</published>
-    <updated>2023-08-31T21:08:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-pointing-fingers/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-pointing-fingers/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/pointing-fingers</id>
-        <link href="https://matthiasott.com/notes/pointing-fingers"/>
-        <title>Pointing Fingers</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-08-31T21:08:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-pointing-fingers/</id>
     <content type="html">
         
     </content>
@@ -5838,30 +5478,6 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-maybe-the-problem-is-that-harvard-exists/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Good Riddance, GPTBot</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-08-09T21:14:00+00:00</published>
-    <updated>2023-08-09T21:14:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-good-riddance-gptbot/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-good-riddance-gptbot/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/good-riddance-gptbot</id>
-        <link href="https://matthiasott.com/notes/good-riddance-gptbot"/>
-        <title>Good Riddance, GPTBot</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-08-09T21:14:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-good-riddance-gptbot/</id>
     <content type="html">
         
     </content>
@@ -7291,30 +6907,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The New CSS</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-06-18T21:29:00+00:00</published>
-    <updated>2023-06-18T21:29:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-the-new-css/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-the-new-css/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/the-new-css</id>
-        <link href="https://matthiasott.com/notes/the-new-css"/>
-        <title>The New CSS</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-06-18T21:29:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-the-new-css/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Why Write?</title>
         <author>
             <name>Bastian Rieck</name>
@@ -8059,30 +7651,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Writing, Fragments, and the Memex Method</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-05-16T21:26:00+00:00</published>
-    <updated>2023-05-16T21:26:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-writing-fragments-and-the-memex-method/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-writing-fragments-and-the-memex-method/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/writing-fragments-and-the-memex-method</id>
-        <link href="https://matthiasott.com/notes/writing-fragments-and-the-memex-method"/>
-        <title>Writing, Fragments, and the Memex Method</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-05-16T21:26:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-writing-fragments-and-the-memex-method/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>BONUS MCMANSION HELL: liminal edition</title>
         <author>
             <name>Kate Wagner</name>
@@ -8395,30 +7963,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Simple Truths About Personal Websites</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-04-30T00:14:00+00:00</published>
-    <updated>2023-04-30T00:14:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/simple-truths-about-personal-websites</id>
-        <link href="https://matthiasott.com/notes/simple-truths-about-personal-websites"/>
-        <title>Simple Truths About Personal Websites</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-04-30T00:14:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-simple-truths-about-personal-websites/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>If you think Bluesky is decentralized, you’ve been conned</title>
         <author>
             <name>Wesley Aptekar-Cassels</name>
@@ -8606,30 +8150,6 @@
       </source>
 
     <id>https://news.cryptic.io/derek-sivers-the-joy-and-freedom-of-harmlessly-upsetting-social-norms/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>CSS Custom Properties Beyond the :root</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-04-20T11:39:00+00:00</published>
-    <updated>2023-04-20T11:39:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/custom-properties-beyond-the-root</id>
-        <link href="https://matthiasott.com/notes/custom-properties-beyond-the-root"/>
-        <title>CSS Custom Properties Beyond the :root</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-04-20T11:39:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/</id>
     <content type="html">
         
     </content>
