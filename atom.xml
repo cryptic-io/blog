@@ -103,6 +103,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Does someone need to be a good manager to give good management advice?</title>
+        <author>
+            <name>Jacob Kaplan-Moss</name>
+        </author>
+    <published>2023-11-16T00:00:00+00:00</published>
+    <updated>2023-11-16T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jacob-kaplanmoss-does-someone-need-to-be-a-good-manager-to-give-good-management-advice/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jacob-kaplanmoss-does-someone-need-to-be-a-good-manager-to-give-good-management-advice/" type="text/html"/>
+      <source>
+        <id>https://jacobian.org/2023/nov/16/good-manager-good-advice/</id>
+        <link href="https://jacobian.org/2023/nov/16/good-manager-good-advice/"/>
+        <title>Does someone need to be a good manager to give good management advice?</title>
+        <author>
+            <name>Jacob Kaplan-Moss</name>
+        </author>
+        <updated>2023-11-16T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jacob-kaplanmoss-does-someone-need-to-be-a-good-manager-to-give-good-management-advice/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How to Build Trust</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -842,6 +866,54 @@
       </source>
 
     <id>https://news.cryptic.io/randall-munroe-parameterball/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> Asahi Linux folks are doing us a solid with WPA3 fixes</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-11-07T21:47:28+00:00</published>
+    <updated>2023-11-07T21:47:28+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/07/wpa3/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/07/wpa3/"/>
+        <title> Asahi Linux folks are doing us a solid with WPA3 fixes</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-11-07T21:47:28+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> Still no love for WPA3 on the Raspberry Pi 5</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-11-07T21:44:38+00:00</published>
+    <updated>2023-11-07T21:44:38+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/06/wpa3/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/06/wpa3/"/>
+        <title> Still no love for WPA3 on the Raspberry Pi 5</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-11-07T21:44:38+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/</id>
     <content type="html">
         
     </content>
@@ -2767,6 +2839,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-17T00:00:07+00:00</published>
+    <updated>2023-10-17T00:00:07+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/16/env/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/16/env/"/>
+        <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-17T00:00:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The discrete logarithm</title>
         <author>
             <name>Mark Dominus</name>
@@ -2863,6 +2959,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title> Administrivia: new page&#x2F;feed generator is now live</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-13T03:29:40+00:00</published>
+    <updated>2023-10-13T03:29:40+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/12/html/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/12/html/"/>
+        <title> Administrivia: new page&#x2F;feed generator is now live</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-13T03:29:40+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Going off-script</title>
         <author>
             <name>Drew DeVault</name>
@@ -2882,6 +3002,102 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-going-offscript/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> I screwed something up in that last post about Hue</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:55:44+00:00</published>
+    <updated>2023-10-12T19:55:44+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/03/js/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/03/js/"/>
+        <title> I screwed something up in that last post about Hue</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:55:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> The Philips Hue ecosystem is collapsing into stupidity</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:55:36+00:00</published>
+    <updated>2023-10-12T19:55:36+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/09/26/hue/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/26/hue/"/>
+        <title> The Philips Hue ecosystem is collapsing into stupidity</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:55:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> ASCII protocol buffers as config files</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:51:03+00:00</published>
+    <updated>2023-10-12T19:51:03+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/05/config/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/05/config/"/>
+        <title> ASCII protocol buffers as config files</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:51:03+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> Expressing my laziness in concrete ways</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:44:29+00:00</published>
+    <updated>2023-10-12T19:44:29+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/09/25/lazy/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/25/lazy/"/>
+        <title> Expressing my laziness in concrete ways</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:44:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/</id>
     <content type="html">
         
     </content>
@@ -4067,6 +4283,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title> The customer stuck due to a hurricane who needed ssh</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-09-21T17:38:18+00:00</published>
+    <updated>2023-09-21T17:38:18+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/09/21/hurricane/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/21/hurricane/"/>
+        <title> The customer stuck due to a hurricane who needed ssh</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-09-21T17:38:18+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Metra Ticket Gallery</title>
         <author>
             <name>Robin Rendle</name>
@@ -4086,6 +4326,30 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-metra-ticket-gallery/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> Memories of a really goofy phone from the late 80s</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-09-20T19:57:28+00:00</published>
+    <updated>2023-09-20T19:57:28+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/09/20/fv1000/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/20/fv1000/"/>
+        <title> Memories of a really goofy phone from the late 80s</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-09-20T19:57:28+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-memories-of-a-really-goofy-phone-from-the-late-80s/</id>
     <content type="html">
         
     </content>
@@ -9086,30 +9350,6 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-hesitancy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Incompetent but Nice</title>
-        <author>
-            <name>Jacob Kaplan-Moss</name>
-        </author>
-    <published>2023-03-28T00:00:00+00:00</published>
-    <updated>2023-03-28T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jacob-kaplanmoss-incompetent-but-nice/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jacob-kaplanmoss-incompetent-but-nice/" type="text/html"/>
-      <source>
-        <id>https://jacobian.org/2023/mar/28/incompetent-but-nice/</id>
-        <link href="https://jacobian.org/2023/mar/28/incompetent-but-nice/"/>
-        <title>Incompetent but Nice</title>
-        <author>
-            <name>Jacob Kaplan-Moss</name>
-        </author>
-        <updated>2023-03-28T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jacob-kaplanmoss-incompetent-but-nice/</id>
     <content type="html">
         
     </content>
