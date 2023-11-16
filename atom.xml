@@ -55,6 +55,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Empiricism</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-11-15T00:00:00+00:00</published>
+    <updated>2023-11-15T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-empiricism/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-empiricism/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2855/</id>
+        <link href="https://xkcd.com/2855/"/>
+        <title>Empiricism</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-11-15T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-empiricism/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Why does VSCode keep uninstalling the Go extension?</title>
         <author>
             <name>Xe Iaso</name>
@@ -818,30 +842,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-smart-home-automation-shouldnt-be-stupid/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Messier Objects</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-11-06T00:00:00+00:00</published>
-    <updated>2023-11-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-messier-objects/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-messier-objects/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2851/</id>
-        <link href="https://xkcd.com/2851/"/>
-        <title>Messier Objects</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-11-06T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-messier-objects/</id>
     <content type="html">
         
     </content>
