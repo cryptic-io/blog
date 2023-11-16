@@ -4,8 +4,80 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-16T00:00:00+00:00</updated>
+  <updated>2023-11-16T16:16:35+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Mighty &#x27;MOX: 50kW AM Tower site tour</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2023-11-16T16:16:35+00:00</published>
+    <updated>2023-11-16T16:16:35+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-the-mighty-mox-50kw-am-tower-site-tour/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-the-mighty-mox-50kw-am-tower-site-tour/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2023/mighty-mox-50kw-am-tower-site-tour</id>
+        <link href="https://www.jeffgeerling.com/blog/2023/mighty-mox-50kw-am-tower-site-tour"/>
+        <title>The Mighty &#x27;MOX: 50kW AM Tower site tour</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2023-11-16T16:16:35+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-the-mighty-mox-50kw-am-tower-site-tour/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Let&#x27;s Play a Game</title>
+        <author>
+            <name>Brian Kardell</name>
+        </author>
+    <published>2023-11-16T05:00:00+00:00</published>
+    <updated>2023-11-16T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/brian-kardell-lets-play-a-game/"/>
+    <link rel="alternate" href="https://news.cryptic.io/brian-kardell-lets-play-a-game/" type="text/html"/>
+      <source>
+        <id>https://bkardell.com/blog/PriorityGame.html</id>
+        <link href="https://bkardell.com/blog/PriorityGame.html"/>
+        <title>Let&#x27;s Play a Game</title>
+        <author>
+            <name>Brian Kardell</name>
+        </author>
+        <updated>2023-11-16T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/brian-kardell-lets-play-a-game/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Bourdieu’s theory of taste: a grumbling abrégé</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+    <published>2023-11-16T00:00:00+00:00</published>
+    <updated>2023-11-16T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dynomight-bourdieus-theory-of-taste-a-grumbling-abrg/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dynomight-bourdieus-theory-of-taste-a-grumbling-abrg/" type="text/html"/>
+      <source>
+        <id>https://dynomight.net/bourdieu/</id>
+        <link href="https://dynomight.net/bourdieu/"/>
+        <title>Bourdieu’s theory of taste: a grumbling abrégé</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+        <updated>2023-11-16T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dynomight-bourdieus-theory-of-taste-a-grumbling-abrg/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>F-Droid Alphas and good news for CJK users</title>
         <author>
@@ -3491,30 +3563,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Overclocking and *Underclocking* the Raspberry Pi 5</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2023-10-04T12:59:52+00:00</published>
-    <updated>2023-10-04T12:59:52+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-overclocking-and-underclocking-the-raspberry-pi-5/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-overclocking-and-underclocking-the-raspberry-pi-5/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2023/overclocking-and-underclocking-raspberry-pi-5</id>
-        <link href="https://www.jeffgeerling.com/blog/2023/overclocking-and-underclocking-raspberry-pi-5"/>
-        <title>Overclocking and *Underclocking* the Raspberry Pi 5</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2023-10-04T12:59:52+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-overclocking-and-underclocking-the-raspberry-pi-5/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>DIY audio archives</title>
         <author>
             <name>CRISTÓBAL SCIUTTO</name>
@@ -5910,30 +5958,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-igalia-midseason-power-rankings/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Maybe the problem is that Harvard exists</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-    <published>2023-08-10T00:00:00+00:00</published>
-    <updated>2023-08-10T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dynomight-maybe-the-problem-is-that-harvard-exists/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dynomight-maybe-the-problem-is-that-harvard-exists/" type="text/html"/>
-      <source>
-        <id>https://dynomight.net/harvard/</id>
-        <link href="https://dynomight.net/harvard/"/>
-        <title>Maybe the problem is that Harvard exists</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-        <updated>2023-08-10T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dynomight-maybe-the-problem-is-that-harvard-exists/</id>
     <content type="html">
         
     </content>
@@ -11078,30 +11102,6 @@
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-testing-new-micropub-implementation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The NASCAR Model</title>
-        <author>
-            <name>Brian Kardell</name>
-        </author>
-    <published>2023-01-04T05:00:00+00:00</published>
-    <updated>2023-01-04T05:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/brian-kardell-the-nascar-model/"/>
-    <link rel="alternate" href="https://news.cryptic.io/brian-kardell-the-nascar-model/" type="text/html"/>
-      <source>
-        <id>https://bkardell.com/blog/NascarModel.html</id>
-        <link href="https://bkardell.com/blog/NascarModel.html"/>
-        <title>The NASCAR Model</title>
-        <author>
-            <name>Brian Kardell</name>
-        </author>
-        <updated>2023-01-04T05:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/brian-kardell-the-nascar-model/</id>
     <content type="html">
         
     </content>
