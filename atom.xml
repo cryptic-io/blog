@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-18T15:57:00+00:00</updated>
+  <updated>2023-11-18T16:57:12+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>All of the writing I did in a week as a software engineer</title>
+        <author>
+            <name>Alex Ellis</name>
+        </author>
+    <published>2023-11-18T16:57:12+00:00</published>
+    <updated>2023-11-18T16:57:12+00:00</updated>
+    <link href="https://news.cryptic.io/alex-ellis-all-of-the-writing-i-did-in-a-week-as-a-software-engineer/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-ellis-all-of-the-writing-i-did-in-a-week-as-a-software-engineer/" type="text/html"/>
+      <source>
+        <id>https://alexanderell.is/posts/writing-swe/</id>
+        <link href="https://alexanderell.is/posts/writing-swe/"/>
+        <title>All of the writing I did in a week as a software engineer</title>
+        <author>
+            <name>Alex Ellis</name>
+        </author>
+        <updated>2023-11-18T16:57:12+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-ellis-all-of-the-writing-i-did-in-a-week-as-a-software-engineer/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Suddenly, I Understand Software</title>
         <author>
@@ -13022,30 +13046,6 @@
       </source>
 
     <id>https://news.cryptic.io/chris-kiehl-webscraping-on-hard-mode-with-purescript/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Writing a toy WebSocket server from scratch</title>
-        <author>
-            <name>Alex Ellis</name>
-        </author>
-    <published>2022-08-28T16:06:08+00:00</published>
-    <updated>2022-08-28T16:06:08+00:00</updated>
-    <link href="https://news.cryptic.io/alex-ellis-writing-a-toy-websocket-server-from-scratch/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-ellis-writing-a-toy-websocket-server-from-scratch/" type="text/html"/>
-      <source>
-        <id>https://alexanderell.is/posts/websockets-from-scratch/</id>
-        <link href="https://alexanderell.is/posts/websockets-from-scratch/"/>
-        <title>Writing a toy WebSocket server from scratch</title>
-        <author>
-            <name>Alex Ellis</name>
-        </author>
-        <updated>2022-08-28T16:06:08+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-ellis-writing-a-toy-websocket-server-from-scratch/</id>
     <content type="html">
         
     </content>
