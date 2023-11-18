@@ -79,6 +79,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Materials Scientists</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-11-17T00:00:00+00:00</published>
+    <updated>2023-11-17T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-materials-scientists/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-materials-scientists/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2856/</id>
+        <link href="https://xkcd.com/2856/"/>
+        <title>Materials Scientists</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-11-17T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-materials-scientists/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>P&amp;B: Chris Coyier</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -986,30 +1010,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-wolvic-store-experiment/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Parameterball</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-11-08T00:00:00+00:00</published>
-    <updated>2023-11-08T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-parameterball/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-parameterball/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2852/</id>
-        <link href="https://xkcd.com/2852/"/>
-        <title>Parameterball</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-11-08T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-parameterball/</id>
     <content type="html">
         
     </content>
