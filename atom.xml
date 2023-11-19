@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-18T16:57:12+00:00</updated>
+  <updated>2023-11-19T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Hands on introduction to LLM programming for developers</title>
+        <author>
+            <name>mendhak</name>
+        </author>
+    <published>2023-11-19T00:00:00+00:00</published>
+    <updated>2023-11-19T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/mendhak-hands-on-introduction-to-llm-programming-for-developers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mendhak-hands-on-introduction-to-llm-programming-for-developers/" type="text/html"/>
+      <source>
+        <id>https://code.mendhak.com/hands-on-llm-tutorial/</id>
+        <link href="https://code.mendhak.com/hands-on-llm-tutorial/"/>
+        <title>Hands on introduction to LLM programming for developers</title>
+        <author>
+            <name>mendhak</name>
+        </author>
+        <updated>2023-11-19T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mendhak-hands-on-introduction-to-llm-programming-for-developers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>All of the writing I did in a week as a software engineer</title>
         <author>
@@ -10910,30 +10934,6 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-7-reasons-why-i-dont-write/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Escaping Jekyll, and moving to Eleventy</title>
-        <author>
-            <name>mendhak</name>
-        </author>
-    <published>2023-01-28T00:00:00+00:00</published>
-    <updated>2023-01-28T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mendhak-escaping-jekyll-and-moving-to-eleventy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mendhak-escaping-jekyll-and-moving-to-eleventy/" type="text/html"/>
-      <source>
-        <id>https://code.mendhak.com/escaping-jekyll-to-eleventy/</id>
-        <link href="https://code.mendhak.com/escaping-jekyll-to-eleventy/"/>
-        <title>Escaping Jekyll, and moving to Eleventy</title>
-        <author>
-            <name>mendhak</name>
-        </author>
-        <updated>2023-01-28T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mendhak-escaping-jekyll-and-moving-to-eleventy/</id>
     <content type="html">
         
     </content>
