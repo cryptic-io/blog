@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-19T23:00:00+00:00</updated>
+  <updated>2023-11-20T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Performance Is Contextual</title>
+        <author>
+            <name>Jacob Kaplan-Moss</name>
+        </author>
+    <published>2023-11-20T00:00:00+00:00</published>
+    <updated>2023-11-20T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jacob-kaplanmoss-performance-is-contextual/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jacob-kaplanmoss-performance-is-contextual/" type="text/html"/>
+      <source>
+        <id>https://jacobian.org/2023/nov/20/performance-is-contextual/</id>
+        <link href="https://jacobian.org/2023/nov/20/performance-is-contextual/"/>
+        <title>Performance Is Contextual</title>
+        <author>
+            <name>Jacob Kaplan-Moss</name>
+        </author>
+        <updated>2023-11-20T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jacob-kaplanmoss-performance-is-contextual/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>On Ad Blockers</title>
         <author>
@@ -9566,30 +9590,6 @@
       </source>
 
     <id>https://news.cryptic.io/kate-wagner-in-my-latest-column-for-the-nation-i-defend-single-stair-buildings-against-their-detractors-ihellip/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Follow-ups to &quot;Incompetent but Nice&quot;</title>
-        <author>
-            <name>Jacob Kaplan-Moss</name>
-        </author>
-    <published>2023-03-31T00:00:00+00:00</published>
-    <updated>2023-03-31T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jacob-kaplanmoss-followups-to-incompetent-but-nice/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jacob-kaplanmoss-followups-to-incompetent-but-nice/" type="text/html"/>
-      <source>
-        <id>https://jacobian.org/2023/mar/31/incompetent-but-nice-follow-ups/</id>
-        <link href="https://jacobian.org/2023/mar/31/incompetent-but-nice-follow-ups/"/>
-        <title>Follow-ups to &quot;Incompetent but Nice&quot;</title>
-        <author>
-            <name>Jacob Kaplan-Moss</name>
-        </author>
-        <updated>2023-03-31T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jacob-kaplanmoss-followups-to-incompetent-but-nice/</id>
     <content type="html">
         
     </content>
