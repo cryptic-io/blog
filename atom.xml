@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-21T16:23:04+00:00</updated>
+  <updated>2023-11-21T23:23:29+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Climate Optimism</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2023-11-21T23:23:29+00:00</published>
+    <updated>2023-11-21T23:23:29+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-climate-optimism/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-climate-optimism/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/climate-optimism</id>
+        <link href="https://matthiasott.com/notes/climate-optimism"/>
+        <title>Climate Optimism</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2023-11-21T23:23:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-climate-optimism/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>attribution armored code</title>
         <author>
@@ -8870,30 +8894,6 @@
       </source>
 
     <id>https://news.cryptic.io/derek-sivers-the-joy-and-freedom-of-harmlessly-upsetting-social-norms/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>CSS Custom Properties Beyond the :root</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-04-20T11:39:00+00:00</published>
-    <updated>2023-04-20T11:39:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/custom-properties-beyond-the-root</id>
-        <link href="https://matthiasott.com/notes/custom-properties-beyond-the-root"/>
-        <title>CSS Custom Properties Beyond the :root</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-04-20T11:39:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-css-custom-properties-beyond-the-root/</id>
     <content type="html">
         
     </content>
