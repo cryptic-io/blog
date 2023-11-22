@@ -16115,6 +16115,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Declarative Dev Environments</title>
+        <author>
+            <name>Marco</name>
+        </author>
+    <published>2021-05-10T00:00:00+00:00</published>
+    <updated>2021-05-10T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/marco-declarative-dev-environments/"/>
+    <link rel="alternate" href="https://news.cryptic.io/marco-declarative-dev-environments/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/declarative-dev-environments/</id>
+        <link href="https://marcopolo.io/code/declarative-dev-environments/"/>
+        <title>Declarative Dev Environments</title>
+        <author>
+            <name>Marco</name>
+        </author>
+        <updated>2021-05-10T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/marco-declarative-dev-environments/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Asset Pipelines in Eleventy</title>
         <author>
             <name>Max Böck</name>
@@ -16235,6 +16259,54 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Simple Declarative VMs</title>
+        <author>
+            <name>Marco</name>
+        </author>
+    <published>2021-03-24T00:00:00+00:00</published>
+    <updated>2021-03-24T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/marco-simple-declarative-vms/"/>
+    <link rel="alternate" href="https://news.cryptic.io/marco-simple-declarative-vms/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/simple-vms/</id>
+        <link href="https://marcopolo.io/code/simple-vms/"/>
+        <title>Simple Declarative VMs</title>
+        <author>
+            <name>Marco</name>
+        </author>
+        <updated>2021-03-24T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/marco-simple-declarative-vms/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Backups made simple</title>
+        <author>
+            <name>Marco</name>
+        </author>
+    <published>2021-03-07T00:00:00+00:00</published>
+    <updated>2021-03-07T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/marco-backups-made-simple/"/>
+    <link rel="alternate" href="https://news.cryptic.io/marco-backups-made-simple/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/backups-made-simple/</id>
+        <link href="https://marcopolo.io/code/backups-made-simple/"/>
+        <title>Backups made simple</title>
+        <author>
+            <name>Marco</name>
+        </author>
+        <updated>2021-03-07T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/marco-backups-made-simple/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How to Draw Invisible Programming Concepts: Part I</title>
         <author>
             <name>Maggie Appleton</name>
@@ -16350,6 +16422,30 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-webmention-analytics/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Goodbye, bit rot</title>
+        <author>
+            <name>Marco</name>
+        </author>
+    <published>2021-02-01T00:00:00+00:00</published>
+    <updated>2021-02-01T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/marco-goodbye-bit-rot/"/>
+    <link rel="alternate" href="https://news.cryptic.io/marco-goodbye-bit-rot/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/goodbye-bit-rot/</id>
+        <link href="https://marcopolo.io/code/goodbye-bit-rot/"/>
+        <title>Goodbye, bit rot</title>
+        <author>
+            <name>Marco</name>
+        </author>
+        <updated>2021-02-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/marco-goodbye-bit-rot/</id>
     <content type="html">
         
     </content>
@@ -16667,6 +16763,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Nix and small containers with Docker multi-stage builds</title>
+        <author>
+            <name>Marco</name>
+        </author>
+    <published>2020-05-15T00:00:00+00:00</published>
+    <updated>2020-05-15T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/marco-nix-and-small-containers-with-docker-multistage-builds/"/>
+    <link rel="alternate" href="https://news.cryptic.io/marco-nix-and-small-containers-with-docker-multistage-builds/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/nix-and-small-containers/</id>
+        <link href="https://marcopolo.io/code/nix-and-small-containers/"/>
+        <title>Nix and small containers with Docker multi-stage builds</title>
+        <author>
+            <name>Marco</name>
+        </author>
+        <updated>2020-05-15T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/marco-nix-and-small-containers-with-docker-multistage-builds/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Sigh...</title>
         <author>
             <name>Roy van Rijn</name>
@@ -16710,6 +16830,126 @@
       </source>
 
     <id>https://news.cryptic.io/ash-this-is-how-you-overcome-internalized-shame-and-judgment-by-reading-this-is-how-you-lose-the-time-war/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>From C to Rust to C again. Or: Re-exporting C exports in Rust</title>
+        <author>
+            <name>Marco</name>
+        </author>
+    <published>2019-12-12T00:00:00+00:00</published>
+    <updated>2019-12-12T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/marco-from-c-to-rust-to-c-again-or-reexporting-c-exports-in-rust/"/>
+    <link rel="alternate" href="https://news.cryptic.io/marco-from-c-to-rust-to-c-again-or-reexporting-c-exports-in-rust/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/from-c-to-rust-to-c/</id>
+        <link href="https://marcopolo.io/code/from-c-to-rust-to-c/"/>
+        <title>From C to Rust to C again. Or: Re-exporting C exports in Rust</title>
+        <author>
+            <name>Marco</name>
+        </author>
+        <updated>2019-12-12T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/marco-from-c-to-rust-to-c-again-or-reexporting-c-exports-in-rust/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Wasm is the future of serverless. Terrafirma, serverless wasm functions.</title>
+        <author>
+            <name>Marco</name>
+        </author>
+    <published>2019-11-06T00:00:00+00:00</published>
+    <updated>2019-11-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/marco-wasm-is-the-future-of-serverless-terrafirma-serverless-wasm-functions/"/>
+    <link rel="alternate" href="https://news.cryptic.io/marco-wasm-is-the-future-of-serverless-terrafirma-serverless-wasm-functions/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/terrafirma/</id>
+        <link href="https://marcopolo.io/code/terrafirma/"/>
+        <title>Wasm is the future of serverless. Terrafirma, serverless wasm functions.</title>
+        <author>
+            <name>Marco</name>
+        </author>
+        <updated>2019-11-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/marco-wasm-is-the-future-of-serverless-terrafirma-serverless-wasm-functions/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Thoughts on &quot;Why is React doing this?&quot;</title>
+        <author>
+            <name>Marco</name>
+        </author>
+    <published>2019-09-06T00:00:00+00:00</published>
+    <updated>2019-09-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/marco-thoughts-on-why-is-react-doing-this/"/>
+    <link rel="alternate" href="https://news.cryptic.io/marco-thoughts-on-why-is-react-doing-this/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/why-react-response/</id>
+        <link href="https://marcopolo.io/code/why-react-response/"/>
+        <title>Thoughts on &quot;Why is React doing this?&quot;</title>
+        <author>
+            <name>Marco</name>
+        </author>
+        <updated>2019-09-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/marco-thoughts-on-why-is-react-doing-this/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Bart Facts</title>
+        <author>
+            <name>Marco</name>
+        </author>
+    <published>2019-09-05T00:00:00+00:00</published>
+    <updated>2019-09-05T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/marco-bart-facts/"/>
+    <link rel="alternate" href="https://news.cryptic.io/marco-bart-facts/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/bart-facts/</id>
+        <link href="https://marcopolo.io/code/bart-facts/"/>
+        <title>Bart Facts</title>
+        <author>
+            <name>Marco</name>
+        </author>
+        <updated>2019-09-05T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/marco-bart-facts/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>My Experience at The Recurse Center</title>
+        <author>
+            <name>Marco</name>
+        </author>
+    <published>2019-08-23T00:00:00+00:00</published>
+    <updated>2019-08-23T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/marco-my-experience-at-the-recurse-center/"/>
+    <link rel="alternate" href="https://news.cryptic.io/marco-my-experience-at-the-recurse-center/" type="text/html"/>
+      <source>
+        <id>https://marcopolo.io/code/my-recurse-experience/</id>
+        <link href="https://marcopolo.io/code/my-recurse-experience/"/>
+        <title>My Experience at The Recurse Center</title>
+        <author>
+            <name>Marco</name>
+        </author>
+        <updated>2019-08-23T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/marco-my-experience-at-the-recurse-center/</id>
     <content type="html">
         
     </content>
