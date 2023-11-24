@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-23T23:00:00+00:00</updated>
+  <updated>2023-11-24T14:56:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Math SE report 2023-09: Sense and reference, Wason tasks, what is a sequence?</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2023-11-24T14:56:00+00:00</published>
+    <updated>2023-11-24T14:56:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-math-se-report-202309-sense-and-reference-wason-tasks-what-is-a-sequence/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-math-se-report-202309-sense-and-reference-wason-tasks-what-is-a-sequence/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/math/se/2023-09.html</id>
+        <link href="https://blog.plover.com/math/se/2023-09.html"/>
+        <title>Math SE report 2023-09: Sense and reference, Wason tasks, what is a sequence?</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2023-11-24T14:56:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-math-se-report-202309-sense-and-reference-wason-tasks-what-is-a-sequence/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>P&amp;B: Robin Rendle</title>
         <author>
@@ -74,6 +98,30 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-underrated-reasons-to-be-thankful-iii/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>New F-Droid releases on IPFS</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2023-11-23T00:00:00+00:00</published>
+    <updated>2023-11-23T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-new-fdroid-releases-on-ipfs/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-new-fdroid-releases-on-ipfs/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2023/11/23/twif-fdroid-new-releases-on-ipfs.html</id>
+        <link href="https://f-droid.org/en/2023/11/23/twif-fdroid-new-releases-on-ipfs.html"/>
+        <title>New F-Droid releases on IPFS</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2023-11-23T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-new-fdroid-releases-on-ipfs/</id>
     <content type="html">
         
     </content>
@@ -5099,30 +5147,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>TWIF is back</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-09-14T00:00:00+00:00</published>
-    <updated>2023-09-14T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/various-twif-is-back/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-twif-is-back/" type="text/html"/>
-      <source>
-        <id>https://f-droid.org/en/2023/09/14/twif-is-back.html</id>
-        <link href="https://f-droid.org/en/2023/09/14/twif-is-back.html"/>
-        <title>TWIF is back</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-09-14T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-twif-is-back/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Horizontal and vertical complexity</title>
         <author>
             <name>Mark Dominus</name>
@@ -5310,30 +5334,6 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-team-size-isnt-a-measure-of-success/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Killer Whale Dagger</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2023-09-10T17:04:00+00:00</published>
-    <updated>2023-09-10T17:04:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-the-killer-whale-dagger/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-the-killer-whale-dagger/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/art/killer-whale-dagger.html</id>
-        <link href="https://blog.plover.com/art/killer-whale-dagger.html"/>
-        <title>The Killer Whale Dagger</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2023-09-10T17:04:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-the-killer-whale-dagger/</id>
     <content type="html">
         
     </content>
