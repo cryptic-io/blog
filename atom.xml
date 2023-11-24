@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-24T14:56:00+00:00</updated>
+  <updated>2023-11-24T19:32:45+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>People and Blogs</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-11-24T19:32:45+00:00</published>
+    <updated>2023-11-24T19:32:45+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-people-and-blogs/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-people-and-blogs/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/people-and-blogs/</id>
+        <link href="https://robinrendle.com/notes/people-and-blogs/"/>
+        <title>People and Blogs</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-11-24T19:32:45+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-people-and-blogs/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Math SE report 2023-09: Sense and reference, Wason tasks, what is a sequence?</title>
         <author>
@@ -4806,30 +4830,6 @@
       </source>
 
     <id>https://news.cryptic.io/rachelbythebay-the-customer-stuck-due-to-a-hurricane-who-needed-ssh/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Metra Ticket Gallery</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-09-21T17:28:57+00:00</published>
-    <updated>2023-09-21T17:28:57+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-metra-ticket-gallery/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-metra-ticket-gallery/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/metra-ticket-gallery/</id>
-        <link href="https://robinrendle.com/notes/metra-ticket-gallery/"/>
-        <title>Metra Ticket Gallery</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-09-21T17:28:57+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-metra-ticket-gallery/</id>
     <content type="html">
         
     </content>
