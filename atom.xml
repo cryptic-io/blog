@@ -7,6 +7,30 @@
   <updated>2023-11-25T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
+    <title>Richard Stallman&#x27;s political discourse on sex</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2023-11-25T00:00:00+00:00</published>
+    <updated>2023-11-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-richard-stallmans-political-discourse-on-sex/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-richard-stallmans-political-discourse-on-sex/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2023/11/25/2023-11-26-RMS-on-sex.html</id>
+        <link href="https://drewdevault.com/2023/11/25/2023-11-26-RMS-on-sex.html"/>
+        <title>Richard Stallman&#x27;s political discourse on sex</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2023-11-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-richard-stallmans-political-discourse-on-sex/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Puzzling historical artifact in “Programming Erlang”?</title>
         <author>
             <name>Mark Dominus</name>
@@ -7478,30 +7502,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-passwords-are-fine/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Seriously, don&#x27;t sign a CLA</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-    <published>2023-07-04T00:00:00+00:00</published>
-    <updated>2023-07-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/drew-devault-seriously-dont-sign-a-cla/"/>
-    <link rel="alternate" href="https://news.cryptic.io/drew-devault-seriously-dont-sign-a-cla/" type="text/html"/>
-      <source>
-        <id>https://drewdevault.com/2023/07/04/Dont-sign-a-CLA-2.html</id>
-        <link href="https://drewdevault.com/2023/07/04/Dont-sign-a-CLA-2.html"/>
-        <title>Seriously, don&#x27;t sign a CLA</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-        <updated>2023-07-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/drew-devault-seriously-dont-sign-a-cla/</id>
     <content type="html">
         
     </content>
