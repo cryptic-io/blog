@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-25T00:00:00+00:00</updated>
+  <updated>2023-11-26T16:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Remembering Frank H. Lutz</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2023-11-26T16:00:00+00:00</published>
+    <updated>2023-11-26T16:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-remembering-frank-h-lutz/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-remembering-frank-h-lutz/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2023/frank_lutz/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2023/frank_lutz/"/>
+        <title>Remembering Frank H. Lutz</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2023-11-26T16:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-remembering-frank-h-lutz/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Richard Stallman&#x27;s political discourse on sex</title>
         <author>
@@ -8966,30 +8990,6 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-the-roadmap-is-not-the-territory/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Human in the Gaps: Thriving in the New AI Age</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-    <published>2023-04-16T14:00:00+00:00</published>
-    <updated>2023-04-16T14:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-human-in-the-gaps-thriving-in-the-new-ai-age/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-human-in-the-gaps-thriving-in-the-new-ai-age/" type="text/html"/>
-      <source>
-        <id>http://bastian.rieck.me/blog/posts/2023/gaps/</id>
-        <link href="http://bastian.rieck.me/blog/posts/2023/gaps/"/>
-        <title>Human in the Gaps: Thriving in the New AI Age</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-        <updated>2023-04-16T14:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bastian-rieck-human-in-the-gaps-thriving-in-the-new-ai-age/</id>
     <content type="html">
         
     </content>
