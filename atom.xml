@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-26T16:00:00+00:00</updated>
+  <updated>2023-11-26T23:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Human connection</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2023-11-26T23:00:00+00:00</published>
+    <updated>2023-11-26T23:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-human-connection/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-human-connection/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/YqoFoAVtjeJDQf3V</id>
+        <link href="https://manuelmoreale.com/@/page/YqoFoAVtjeJDQf3V"/>
+        <title>Human connection</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2023-11-26T23:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-human-connection/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Remembering Frank H. Lutz</title>
         <author>
@@ -2234,30 +2258,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-machine-learning-of-guis-at-scale/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>On subscriptions</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2023-10-31T23:00:00+00:00</published>
-    <updated>2023-10-31T23:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-on-subscriptions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-on-subscriptions/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/WmIAySksTq9mMwd6</id>
-        <link href="https://manuelmoreale.com/@/page/WmIAySksTq9mMwd6"/>
-        <title>On subscriptions</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2023-10-31T23:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-on-subscriptions/</id>
     <content type="html">
         
     </content>
