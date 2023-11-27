@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-27T00:00:00+00:00</updated>
+  <updated>2023-11-27T15:51:08+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Statically Cross-Compiling Rust Projects Using Nix</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2023-11-27T15:51:08+00:00</published>
+    <updated>2023-11-27T15:51:08+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-statically-crosscompiling-rust-projects-using-nix/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-statically-crosscompiling-rust-projects-using-nix/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/x-compiling-rust-with-nix</id>
+        <link href="https://mediocregopher.com/posts/x-compiling-rust-with-nix"/>
+        <title>Statically Cross-Compiling Rust Projects Using Nix</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2023-11-27T15:51:08+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-statically-crosscompiling-rust-projects-using-nix/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A Qmail example of dealing with unavoidable race conditions</title>
         <author>
@@ -9926,30 +9950,6 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-de-bermuda-e-chinelo/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Copyright, but Punk</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2023-03-15T21:51:28+00:00</published>
-    <updated>2023-03-15T21:51:28+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-copyright-but-punk/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-copyright-but-punk/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/posts/copypunk</id>
-        <link href="https://mediocregopher.com/posts/copypunk"/>
-        <title>Copyright, but Punk</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2023-03-15T21:51:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-copyright-but-punk/</id>
     <content type="html">
         
     </content>
