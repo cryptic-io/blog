@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-26T23:00:00+00:00</updated>
+  <updated>2023-11-27T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A Qmail example of dealing with unavoidable race conditions</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2023-11-27T00:00:00+00:00</published>
+    <updated>2023-11-27T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-a-qmail-example-of-dealing-with-unavoidable-race-conditions/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-a-qmail-example-of-dealing-with-unavoidable-race-conditions/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/prog/erlang-race-condition-2.html</id>
+        <link href="https://blog.plover.com/prog/erlang-race-condition-2.html"/>
+        <title>A Qmail example of dealing with unavoidable race conditions</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2023-11-27T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-a-qmail-example-of-dealing-with-unavoidable-race-conditions/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Human connection</title>
         <author>
@@ -4374,30 +4398,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-infrastructureascode-migration/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Irish logarithm</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2023-10-01T08:30:00+00:00</published>
-    <updated>2023-10-01T08:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-the-irish-logarithm/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-the-irish-logarithm/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/math/irish-logarithm.html</id>
-        <link href="https://blog.plover.com/math/irish-logarithm.html"/>
-        <title>The Irish logarithm</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2023-10-01T08:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-the-irish-logarithm/</id>
     <content type="html">
         
     </content>
