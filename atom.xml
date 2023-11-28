@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-27T15:51:08+00:00</updated>
+  <updated>2023-11-28T02:57:50+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title> That time Verisign typo-squatted all of .com and .net</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-11-28T02:57:50+00:00</published>
+    <updated>2023-11-28T02:57:50+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/27/sitefinder/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/27/sitefinder/"/>
+        <title> That time Verisign typo-squatted all of .com and .net</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-11-28T02:57:50+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Statically Cross-Compiling Rust Projects Using Nix</title>
         <author>
@@ -842,6 +866,30 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-imitation-learning/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> My rants about TP-Link Omada networking products</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-11-18T01:45:27+00:00</published>
+    <updated>2023-11-18T01:45:27+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/17/omada/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/17/omada/"/>
+        <title> My rants about TP-Link Omada networking products</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-11-18T01:45:27+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/</id>
     <content type="html">
         
     </content>
@@ -1730,6 +1778,54 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-wolvic-store-experiment/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> Asahi Linux folks are doing us a solid with WPA3 fixes</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-11-07T21:47:28+00:00</published>
+    <updated>2023-11-07T21:47:28+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/07/wpa3/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/07/wpa3/"/>
+        <title> Asahi Linux folks are doing us a solid with WPA3 fixes</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-11-07T21:47:28+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> Still no love for WPA3 on the Raspberry Pi 5</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-11-07T21:44:38+00:00</published>
+    <updated>2023-11-07T21:44:38+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/06/wpa3/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/06/wpa3/"/>
+        <title> Still no love for WPA3 on the Raspberry Pi 5</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-11-07T21:44:38+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/</id>
     <content type="html">
         
     </content>
@@ -3439,6 +3535,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-17T00:00:07+00:00</published>
+    <updated>2023-10-17T00:00:07+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/16/env/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/16/env/"/>
+        <title> getaddrinfo() on glibc calls getenv(), oh boy</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-17T00:00:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The discrete logarithm</title>
         <author>
             <name>Mark Dominus</name>
@@ -3511,6 +3631,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title> Administrivia: new page&#x2F;feed generator is now live</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-13T03:29:40+00:00</published>
+    <updated>2023-10-13T03:29:40+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/12/html/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/12/html/"/>
+        <title> Administrivia: new page&#x2F;feed generator is now live</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-13T03:29:40+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Going off-script</title>
         <author>
             <name>Drew DeVault</name>
@@ -3530,6 +3674,102 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-going-offscript/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> I screwed something up in that last post about Hue</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:55:44+00:00</published>
+    <updated>2023-10-12T19:55:44+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/03/js/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/03/js/"/>
+        <title> I screwed something up in that last post about Hue</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:55:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> The Philips Hue ecosystem is collapsing into stupidity</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:55:36+00:00</published>
+    <updated>2023-10-12T19:55:36+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/09/26/hue/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/26/hue/"/>
+        <title> The Philips Hue ecosystem is collapsing into stupidity</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:55:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-the-philips-hue-ecosystem-is-collapsing-into-stupidity/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> ASCII protocol buffers as config files</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:51:03+00:00</published>
+    <updated>2023-10-12T19:51:03+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/10/05/config/</id>
+        <link href="https://rachelbythebay.com/w/2023/10/05/config/"/>
+        <title> ASCII protocol buffers as config files</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:51:03+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title> Expressing my laziness in concrete ways</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-10-12T19:44:29+00:00</published>
+    <updated>2023-10-12T19:44:29+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/09/25/lazy/</id>
+        <link href="https://rachelbythebay.com/w/2023/09/25/lazy/"/>
+        <title> Expressing my laziness in concrete ways</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-10-12T19:44:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-expressing-my-laziness-in-concrete-ways/</id>
     <content type="html">
         
     </content>
@@ -13459,6 +13699,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Interview with Kagi</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+    <published>2022-06-17T00:00:00+00:00</published>
+    <updated>2022-06-17T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-kagi/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-kagi/" type="text/html"/>
+      <source>
+        <id>https://dkb.io/post/DEPR_kagi-interview</id>
+        <link href="https://dkb.io/post/DEPR_kagi-interview"/>
+        <title>Interview with Kagi</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+        <updated>2022-06-17T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-kagi/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Interactive data exploration</title>
         <author>
             <name>andersource</name>
@@ -13478,6 +13742,30 @@
       </source>
 
     <id>https://news.cryptic.io/andersource-interactive-data-exploration/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Interview with Neeva</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+    <published>2022-06-01T00:00:00+00:00</published>
+    <updated>2022-06-01T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-neeva/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-neeva/" type="text/html"/>
+      <source>
+        <id>https://dkb.io/post/DEPR_neeva-interview</id>
+        <link href="https://dkb.io/post/DEPR_neeva-interview"/>
+        <title>Interview with Neeva</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+        <updated>2022-06-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-neeva/</id>
     <content type="html">
         
     </content>
@@ -13987,6 +14275,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Interview with Brave Search</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+    <published>2022-05-06T00:00:00+00:00</published>
+    <updated>2022-05-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-brave-search/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-brave-search/" type="text/html"/>
+      <source>
+        <id>https://dkb.io/post/DEPR_brave-search-interview</id>
+        <link href="https://dkb.io/post/DEPR_brave-search-interview"/>
+        <title>Interview with Brave Search</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+        <updated>2022-05-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-brave-search/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Thoughts at the boundary between machine and mind</title>
         <author>
             <name>Linus Lee</name>
@@ -14323,6 +14635,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The Next Google</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+    <published>2022-04-05T00:00:00+00:00</published>
+    <updated>2022-04-05T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dkbdkbfyi-dkb-the-next-google/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-the-next-google/" type="text/html"/>
+      <source>
+        <id>https://dkb.io/post/DEPR_the-next-google</id>
+        <link href="https://dkb.io/post/DEPR_the-next-google"/>
+        <title>The Next Google</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+        <updated>2022-04-05T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dkbdkbfyi-dkb-the-next-google/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Forwarded Header Sabotage</title>
         <author>
             <name>Adam Pritchard</name>
@@ -14635,6 +14971,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>MarketRank: The Anti-SEO Ranking Algorithm</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+    <published>2022-03-11T00:00:00+00:00</published>
+    <updated>2022-03-11T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dkbdkbfyi-dkb-marketrank-the-antiseo-ranking-algorithm/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-marketrank-the-antiseo-ranking-algorithm/" type="text/html"/>
+      <source>
+        <id>https://dkb.io/post/DEPR_market-rank</id>
+        <link href="https://dkb.io/post/DEPR_market-rank"/>
+        <title>MarketRank: The Anti-SEO Ranking Algorithm</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+        <updated>2022-03-11T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dkbdkbfyi-dkb-marketrank-the-antiseo-ranking-algorithm/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>I live in the country with the most expensive Apple products on the planet. Here&#x27;s what it is like in here</title>
         <author>
             <name>Douglas Vaghetti</name>
@@ -14899,6 +15259,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Google Search Is Dying</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+    <published>2022-02-15T00:00:00+00:00</published>
+    <updated>2022-02-15T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dkbdkbfyi-dkb-google-search-is-dying/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-google-search-is-dying/" type="text/html"/>
+      <source>
+        <id>https://dkb.io/post/DEPR_google-search-is-dying</id>
+        <link href="https://dkb.io/post/DEPR_google-search-is-dying"/>
+        <title>Google Search Is Dying</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+        <updated>2022-02-15T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dkbdkbfyi-dkb-google-search-is-dying/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>SNES Development Part 2: Background Graphics</title>
         <author>
             <name>Wesley Aptekar-Cassels</name>
@@ -15014,6 +15398,30 @@
       </source>
 
     <id>https://news.cryptic.io/wesley-aptekarcassels-snes-development-part-6-sprites/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>How To Read A Book</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+    <published>2022-02-06T00:00:00+00:00</published>
+    <updated>2022-02-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dkbdkbfyi-dkb-how-to-read-a-book/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-how-to-read-a-book/" type="text/html"/>
+      <source>
+        <id>https://dkb.io/post/DEPR_how-to-read-a-book</id>
+        <link href="https://dkb.io/post/DEPR_how-to-read-a-book"/>
+        <title>How To Read A Book</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+        <updated>2022-02-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dkbdkbfyi-dkb-how-to-read-a-book/</id>
     <content type="html">
         
     </content>
@@ -16163,6 +16571,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>To Organize The World&#x27;s Information</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+    <published>2021-02-28T00:00:00+00:00</published>
+    <updated>2021-02-28T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dkbdkbfyi-dkb-to-organize-the-worlds-information/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-to-organize-the-worlds-information/" type="text/html"/>
+      <source>
+        <id>https://dkb.io/post/DEPR_organize-the-world-information</id>
+        <link href="https://dkb.io/post/DEPR_organize-the-world-information"/>
+        <title>To Organize The World&#x27;s Information</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+        <updated>2021-02-28T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dkbdkbfyi-dkb-to-organize-the-worlds-information/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Meat Planet: The Illustrated Notes</title>
         <author>
             <name>Maggie Appleton</name>
@@ -16806,6 +17238,30 @@
       </source>
 
     <id>https://news.cryptic.io/maggie-appleton-a-shelfish-starter-guide-to-databases/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Write It Anyway</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+    <published>2017-07-29T00:00:00+00:00</published>
+    <updated>2017-07-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dkbdkbfyi-dkb-write-it-anyway/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dkbdkbfyi-dkb-write-it-anyway/" type="text/html"/>
+      <source>
+        <id>https://dkb.io/post/DEPR_write-it-anyway</id>
+        <link href="https://dkb.io/post/DEPR_write-it-anyway"/>
+        <title>Write It Anyway</title>
+        <author>
+            <name>dkb@dkb.fyi (dkb)</name>
+        </author>
+        <updated>2017-07-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dkbdkbfyi-dkb-write-it-anyway/</id>
     <content type="html">
         
     </content>
