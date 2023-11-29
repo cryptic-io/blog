@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-11-28T19:00:00+00:00</updated>
+  <updated>2023-11-29T03:13:59+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>External GPUs working on the Raspberry Pi 5</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2023-11-29T03:13:59+00:00</published>
+    <updated>2023-11-29T03:13:59+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-external-gpus-working-on-the-raspberry-pi-5/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-external-gpus-working-on-the-raspberry-pi-5/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2023/external-gpus-working-on-raspberry-pi-5</id>
+        <link href="https://www.jeffgeerling.com/blog/2023/external-gpus-working-on-raspberry-pi-5"/>
+        <title>External GPUs working on the Raspberry Pi 5</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2023-11-29T03:13:59+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-external-gpus-working-on-the-raspberry-pi-5/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Examples of Great URL Design</title>
         <author>
@@ -2762,30 +2786,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-on-c2pa/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Everything I&#x27;ve learned building the fastest Arm desktop</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2023-10-27T14:00:31+00:00</published>
-    <updated>2023-10-27T14:00:31+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-everything-ive-learned-building-the-fastest-arm-desktop/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-everything-ive-learned-building-the-fastest-arm-desktop/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2023/everything-ive-learned-building-fastest-arm-desktop</id>
-        <link href="https://www.jeffgeerling.com/blog/2023/everything-ive-learned-building-fastest-arm-desktop"/>
-        <title>Everything I&#x27;ve learned building the fastest Arm desktop</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2023-10-27T14:00:31+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-everything-ive-learned-building-the-fastest-arm-desktop/</id>
     <content type="html">
         
     </content>
