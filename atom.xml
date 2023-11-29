@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>X Value</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-11-29T00:00:00+00:00</published>
+    <updated>2023-11-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-x-value/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-x-value/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2861/</id>
+        <link href="https://xkcd.com/2861/"/>
+        <title>X Value</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-11-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-x-value/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Late Light</title>
         <author>
             <name>Tim Bray</name>
@@ -866,30 +890,6 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-performance-is-contextual/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Rebuttals</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-11-20T00:00:00+00:00</published>
-    <updated>2023-11-20T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-rebuttals/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-rebuttals/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2857/</id>
-        <link href="https://xkcd.com/2857/"/>
-        <title>Rebuttals</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-11-20T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-rebuttals/</id>
     <content type="html">
         
     </content>
