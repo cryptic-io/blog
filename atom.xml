@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-01T08:00:00+00:00</updated>
+  <updated>2023-12-01T12:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>P&amp;B: Nicolas Magand</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2023-12-01T12:00:00+00:00</published>
+    <updated>2023-12-01T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-nicolas-magand/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-nicolas-magand/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/ZPK8dBAbe72QuC18</id>
+        <link href="https://manuelmoreale.com/@/page/ZPK8dBAbe72QuC18"/>
+        <title>P&amp;B: Nicolas Magand</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2023-12-01T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-nicolas-magand/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Control - how to make a game enjoyable for casual audiences</title>
         <author>
@@ -2138,30 +2162,6 @@
       </source>
 
     <id>https://news.cryptic.io/manuel-testing-smarter-not-harder-using-llms-for-better-unit-tests/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The beauty of broken things</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2023-11-04T23:00:00+00:00</published>
-    <updated>2023-11-04T23:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-the-beauty-of-broken-things/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-the-beauty-of-broken-things/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/OIIwkvpGhCUf2AM5</id>
-        <link href="https://manuelmoreale.com/@/page/OIIwkvpGhCUf2AM5"/>
-        <title>The beauty of broken things</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2023-11-04T23:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-the-beauty-of-broken-things/</id>
     <content type="html">
         
     </content>
