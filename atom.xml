@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-01T15:58:55+00:00</updated>
+  <updated>2023-12-01T17:23:56+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Figure it out</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-12-01T17:23:56+00:00</published>
+    <updated>2023-12-01T17:23:56+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-figure-it-out/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-figure-it-out/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/figure-it-out/</id>
+        <link href="https://robinrendle.com/notes/figure-it-out/"/>
+        <title>Figure it out</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-12-01T17:23:56+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-figure-it-out/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Pi clusters aren&#x27;t dumb</title>
         <author>
@@ -122,6 +146,30 @@
       </source>
 
     <id>https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Making Decisions: RFC processes are a poor fit for most organizations</title>
+        <author>
+            <name>Jacob Kaplan-Moss</name>
+        </author>
+    <published>2023-12-01T00:00:00+00:00</published>
+    <updated>2023-12-01T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jacob-kaplanmoss-making-decisions-rfc-processes-are-a-poor-fit-for-most-organizations/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jacob-kaplanmoss-making-decisions-rfc-processes-are-a-poor-fit-for-most-organizations/" type="text/html"/>
+      <source>
+        <id>https://jacobian.org/2023/dec/1/against-rfcs/</id>
+        <link href="https://jacobian.org/2023/dec/1/against-rfcs/"/>
+        <title>Making Decisions: RFC processes are a poor fit for most organizations</title>
+        <author>
+            <name>Jacob Kaplan-Moss</name>
+        </author>
+        <updated>2023-12-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jacob-kaplanmoss-making-decisions-rfc-processes-are-a-poor-fit-for-most-organizations/</id>
     <content type="html">
         
     </content>
@@ -4571,30 +4619,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Meta in Myanmar</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-09-30T17:13:24+00:00</published>
-    <updated>2023-09-30T17:13:24+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-meta-in-myanmar/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-meta-in-myanmar/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/meta-in-myanmar/</id>
-        <link href="https://robinrendle.com/notes/meta-in-myanmar/"/>
-        <title>Meta in Myanmar</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-09-30T17:13:24+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-meta-in-myanmar/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>BFS zero-to-hero, part 1: intro &amp;amp; maze</title>
         <author>
             <name>andersource</name>
@@ -6126,30 +6150,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-failed-attempt-at-free-multilingual-tts-by-abusing-ipa/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Hire for Floors, not Ceilings</title>
-        <author>
-            <name>Jacob Kaplan-Moss</name>
-        </author>
-    <published>2023-08-16T00:00:00+00:00</published>
-    <updated>2023-08-16T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jacob-kaplanmoss-hire-for-floors-not-ceilings/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jacob-kaplanmoss-hire-for-floors-not-ceilings/" type="text/html"/>
-      <source>
-        <id>https://jacobian.org/2023/aug/16/floors-not-ceilings/</id>
-        <link href="https://jacobian.org/2023/aug/16/floors-not-ceilings/"/>
-        <title>Hire for Floors, not Ceilings</title>
-        <author>
-            <name>Jacob Kaplan-Moss</name>
-        </author>
-        <updated>2023-08-16T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jacob-kaplanmoss-hire-for-floors-not-ceilings/</id>
     <content type="html">
         
     </content>
