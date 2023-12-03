@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-02T19:47:11+00:00</updated>
+  <updated>2023-12-03T16:25:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Compass points in Czech</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2023-12-03T16:25:00+00:00</published>
+    <updated>2023-12-03T16:25:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-compass-points-in-czech/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-compass-points-in-czech/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/lang/etym/czech-compass-points.html</id>
+        <link href="https://blog.plover.com/lang/etym/czech-compass-points.html"/>
+        <title>Compass points in Czech</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2023-12-03T16:25:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-compass-points-in-czech/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Let’s learn how modern JavaScript frameworks work by building one</title>
         <author>
@@ -3602,30 +3626,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-feminized-feed/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Portuguese food words in Asia</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2023-10-21T14:06:00+00:00</published>
-    <updated>2023-10-21T14:06:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-portuguese-food-words-in-asia/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-portuguese-food-words-in-asia/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/lang/etym/portuguese.html</id>
-        <link href="https://blog.plover.com/lang/etym/portuguese.html"/>
-        <title>Portuguese food words in Asia</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2023-10-21T14:06:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-portuguese-food-words-in-asia/</id>
     <content type="html">
         
     </content>
