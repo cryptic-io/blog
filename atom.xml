@@ -4,8 +4,36 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-04T20:23:40+00:00</updated>
+  <updated>2023-12-05T05:01:12+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>
+      NPS, the good parts
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+    <published>2023-12-05T05:01:12+00:00</published>
+    <updated>2023-12-05T05:01:12+00:00</updated>
+    <link href="https://news.cryptic.io/apenwarr-nps-the-good-parts/"/>
+    <link rel="alternate" href="https://news.cryptic.io/apenwarr-nps-the-good-parts/" type="text/html"/>
+      <source>
+        <id>https://apenwarr.ca/log/20231204</id>
+        <link href="https://apenwarr.ca/log/20231204"/>
+        <title>
+      NPS, the good parts
+    </title>
+        <author>
+            <name>apenwarr</name>
+        </author>
+        <updated>2023-12-05T05:01:12+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/apenwarr-nps-the-good-parts/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>When would you ever want bubblesort?</title>
         <author>
@@ -15746,34 +15774,6 @@
       </source>
 
     <id>https://news.cryptic.io/apenwarr-10-years-of-whatever-this-has-been/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>
-      SimSWE 4: Wants, needs, and chasm-crossing
-    </title>
-        <author>
-            <name>apenwarr</name>
-        </author>
-    <published>2021-11-17T22:38:25+00:00</published>
-    <updated>2021-11-17T22:38:25+00:00</updated>
-    <link href="https://news.cryptic.io/apenwarr-simswe-4-wants-needs-and-chasmcrossing/"/>
-    <link rel="alternate" href="https://news.cryptic.io/apenwarr-simswe-4-wants-needs-and-chasmcrossing/" type="text/html"/>
-      <source>
-        <id>https://apenwarr.ca/log/20211024</id>
-        <link href="https://apenwarr.ca/log/20211024"/>
-        <title>
-      SimSWE 4: Wants, needs, and chasm-crossing
-    </title>
-        <author>
-            <name>apenwarr</name>
-        </author>
-        <updated>2021-11-17T22:38:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/apenwarr-simswe-4-wants-needs-and-chasmcrossing/</id>
     <content type="html">
         
     </content>
