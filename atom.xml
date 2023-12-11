@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-10T00:00:00+00:00</updated>
+  <updated>2023-12-11T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The simplicity of the modulo operator: how I scaled an inefficient solution on a legacy system</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2023-12-11T04:00:00+00:00</published>
+    <updated>2023-12-11T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-simplicity-of-the-modulo-operator-how-i-scaled-an-inefficient-solution-on-a-legacy-system/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-simplicity-of-the-modulo-operator-how-i-scaled-an-inefficient-solution-on-a-legacy-system/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2023/12/11/modulo/</id>
+        <link href="https://ounapuu.ee/posts/2023/12/11/modulo/"/>
+        <title>The simplicity of the modulo operator: how I scaled an inefficient solution on a legacy system</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2023-12-11T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-simplicity-of-the-modulo-operator-how-i-scaled-an-inefficient-solution-on-a-legacy-system/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Non-Send Futures When?</title>
         <author>
@@ -7866,30 +7890,6 @@
       </source>
 
     <id>https://news.cryptic.io/iliana-etaoin-hey-i-was-using-that/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How I blew up my backup server (Valve pls fix)</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2023-06-10T09:00:00+00:00</published>
-    <updated>2023-06-10T09:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-i-blew-up-my-backup-server-valve-pls-fix/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-i-blew-up-my-backup-server-valve-pls-fix/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2023/06/10/how-i-blew-up-my-backup-server/</id>
-        <link href="https://ounapuu.ee/posts/2023/06/10/how-i-blew-up-my-backup-server/"/>
-        <title>How I blew up my backup server (Valve pls fix)</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2023-06-10T09:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-i-blew-up-my-backup-server-valve-pls-fix/</id>
     <content type="html">
         
     </content>
