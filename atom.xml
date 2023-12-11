@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-11T04:00:00+00:00</updated>
+  <updated>2023-12-11T16:52:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>I have added comments to this website</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2023-12-11T16:52:00+00:00</published>
+    <updated>2023-12-11T16:52:00+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-i-have-added-comments-to-this-website/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-i-have-added-comments-to-this-website/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/comments-alert</id>
+        <link href="https://johnwhiles.com/posts/comments-alert"/>
+        <title>I have added comments to this website</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2023-12-11T16:52:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-i-have-added-comments-to-this-website/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The simplicity of the modulo operator: how I scaled an inefficient solution on a legacy system</title>
         <author>
@@ -10026,30 +10050,6 @@
       </source>
 
     <id>https://news.cryptic.io/chris-kiehl-how-to-lose-950-very-quickly-on-airbnb/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>John Reviews: Rosalía‘s coca cola</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-    <published>2023-03-04T18:00:00+00:00</published>
-    <updated>2023-03-04T18:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/john-whiles-john-reviews-rosalas-coca-cola/"/>
-    <link rel="alternate" href="https://news.cryptic.io/john-whiles-john-reviews-rosalas-coca-cola/" type="text/html"/>
-      <source>
-        <id>https://johnwhiles.com/posts/rosalia-coke</id>
-        <link href="https://johnwhiles.com/posts/rosalia-coke"/>
-        <title>John Reviews: Rosalía‘s coca cola</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-        <updated>2023-03-04T18:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/john-whiles-john-reviews-rosalas-coca-cola/</id>
     <content type="html">
         
     </content>
