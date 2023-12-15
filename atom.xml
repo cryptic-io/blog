@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-15T12:00:00+00:00</updated>
+  <updated>2023-12-15T17:25:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Recent addenda to articles 202311:</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2023-12-15T17:25:00+00:00</published>
+    <updated>2023-12-15T17:25:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-recent-addenda-to-articles-202311/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-recent-addenda-to-articles-202311/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/addenda/202311.html</id>
+        <link href="https://blog.plover.com/addenda/202311.html"/>
+        <title>Recent addenda to articles 202311:</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2023-12-15T17:25:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-recent-addenda-to-articles-202311/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>P&amp;B: Jamie Thingelstad</title>
         <author>
@@ -3966,30 +3990,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-cut-the-intro/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Cats in Romance languages</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2023-10-22T15:33:00+00:00</published>
-    <updated>2023-10-22T15:33:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-cats-in-romance-languages/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-cats-in-romance-languages/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/lang/etym/cats.html</id>
-        <link href="https://blog.plover.com/lang/etym/cats.html"/>
-        <title>Cats in Romance languages</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2023-10-22T15:33:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-cats-in-romance-languages/</id>
     <content type="html">
         
     </content>
