@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-16T13:50:00+00:00</updated>
+  <updated>2023-12-16T20:00:01+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Leaving Microsoft</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2023-12-16T20:00:01+00:00</published>
+    <updated>2023-12-16T20:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-leaving-microsoft/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-leaving-microsoft/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/leavingmicrosoft.html</id>
+        <link href="https://austinhenley.com/blog/leavingmicrosoft.html"/>
+        <title>Leaving Microsoft</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2023-12-16T20:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-leaving-microsoft/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>My Git pre-commit hook contained a footgun</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2023-12-16T16:49:00+00:00</published>
+    <updated>2023-12-16T16:49:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-my-git-precommit-hook-contained-a-footgun/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-my-git-precommit-hook-contained-a-footgun/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/prog/git/hook-disaster.html</id>
+        <link href="https://blog.plover.com/prog/git/hook-disaster.html"/>
+        <title>My Git pre-commit hook contained a footgun</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2023-12-16T16:49:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-my-git-precommit-hook-contained-a-footgun/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Pirating social media</title>
         <author>
@@ -3942,30 +3990,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-advice-to-a-novice-programmer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Help wanted: blog redesign</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2023-10-23T14:37:00+00:00</published>
-    <updated>2023-10-23T14:37:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-help-wanted-blog-redesign/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-help-wanted-blog-redesign/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/meta/flexbox.html</id>
-        <link href="https://blog.plover.com/meta/flexbox.html"/>
-        <title>Help wanted: blog redesign</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2023-10-23T14:37:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-help-wanted-blog-redesign/</id>
     <content type="html">
         
     </content>
@@ -8922,30 +8946,6 @@
       </source>
 
     <id>https://news.cryptic.io/wesley-aptekarcassels-if-you-think-bluesky-is-decentralized-youve-been-conned/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The future of programming: Research at CHI 2023</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-    <published>2023-04-27T18:00:01+00:00</published>
-    <updated>2023-04-27T18:00:01+00:00</updated>
-    <link href="https://news.cryptic.io/austin-z-henley-the-future-of-programming-research-at-chi-2023/"/>
-    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-the-future-of-programming-research-at-chi-2023/" type="text/html"/>
-      <source>
-        <id>https://austinhenley.com/blog/futureofprogramming2023.html</id>
-        <link href="https://austinhenley.com/blog/futureofprogramming2023.html"/>
-        <title>The future of programming: Research at CHI 2023</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-        <updated>2023-04-27T18:00:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/austin-z-henley-the-future-of-programming-research-at-chi-2023/</id>
     <content type="html">
         
     </content>
