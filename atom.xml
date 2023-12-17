@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-17T04:00:00+00:00</updated>
+  <updated>2023-12-17T20:52:58+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Rebuilding emoji-picker-element on a custom framework</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2023-12-17T20:52:58+00:00</published>
+    <updated>2023-12-17T20:52:58+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-rebuilding-emojipickerelement-on-a-custom-framework/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-rebuilding-emojipickerelement-on-a-custom-framework/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2023/12/17/rebuilding-emoji-picker-element-on-a-custom-framework/</id>
+        <link href="https://nolanlawson.com/2023/12/17/rebuilding-emoji-picker-element-on-a-custom-framework/"/>
+        <title>Rebuilding emoji-picker-element on a custom framework</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2023-12-17T20:52:58+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-rebuilding-emojipickerelement-on-a-custom-framework/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Update on GGML RKNPU2 backend and RKNPU2 1.6.0</title>
         <author>
@@ -12306,30 +12330,6 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-a-beginners-guide-to-chrome-tracing/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Style performance and concurrent rendering</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-    <published>2022-10-22T18:54:25+00:00</published>
-    <updated>2022-10-22T18:54:25+00:00</updated>
-    <link href="https://news.cryptic.io/nolan-lawson-style-performance-and-concurrent-rendering/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-style-performance-and-concurrent-rendering/" type="text/html"/>
-      <source>
-        <id>https://nolanlawson.com/2022/10/22/style-performance-and-concurrent-rendering/</id>
-        <link href="https://nolanlawson.com/2022/10/22/style-performance-and-concurrent-rendering/"/>
-        <title>Style performance and concurrent rendering</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-        <updated>2022-10-22T18:54:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nolan-lawson-style-performance-and-concurrent-rendering/</id>
     <content type="html">
         
     </content>
