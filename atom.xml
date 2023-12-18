@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-18T20:10:25+00:00</updated>
+  <updated>2023-12-18T22:39:06+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Smashing the stack for pain and misery</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-12-18T22:39:06+00:00</published>
+    <updated>2023-12-18T22:39:06+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/12/18/boom/</id>
+        <link href="https://rachelbythebay.com/w/2023/12/18/boom/"/>
+        <title>Smashing the stack for pain and misery</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-12-18T22:39:06+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>My SimpliSafe doorbell lit its own fire this winter</title>
         <author>
@@ -4638,30 +4662,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-going-offscript/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I screwed something up in that last post about Hue</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T19:55:44+00:00</published>
-    <updated>2023-10-12T19:55:44+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/03/js/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/03/js/"/>
-        <title>I screwed something up in that last post about Hue</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T19:55:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-i-screwed-something-up-in-that-last-post-about-hue/</id>
     <content type="html">
         
     </content>
