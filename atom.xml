@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-18T04:00:00+00:00</updated>
+  <updated>2023-12-18T20:10:25+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>My SimpliSafe doorbell lit its own fire this winter</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2023-12-18T20:10:25+00:00</published>
+    <updated>2023-12-18T20:10:25+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-my-simplisafe-doorbell-lit-its-own-fire-this-winter/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-my-simplisafe-doorbell-lit-its-own-fire-this-winter/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2023/my-simplisafe-doorbell-lit-its-own-fire-winter</id>
+        <link href="https://www.jeffgeerling.com/blog/2023/my-simplisafe-doorbell-lit-its-own-fire-winter"/>
+        <title>My SimpliSafe doorbell lit its own fire this winter</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2023-12-18T20:10:25+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-my-simplisafe-doorbell-lit-its-own-fire-this-winter/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Using dynamic input shapes on RKNN&#x2F;RK3588</title>
         <author>
@@ -3318,30 +3342,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-data-oriented-blogging/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Smart home automation shouldn&#x27;t be stupid</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2023-11-06T18:21:13+00:00</published>
-    <updated>2023-11-06T18:21:13+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-smart-home-automation-shouldnt-be-stupid/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-smart-home-automation-shouldnt-be-stupid/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2023/smart-home-automation-shouldnt-be-stupid</id>
-        <link href="https://www.jeffgeerling.com/blog/2023/smart-home-automation-shouldnt-be-stupid"/>
-        <title>Smart home automation shouldn&#x27;t be stupid</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2023-11-06T18:21:13+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-smart-home-automation-shouldnt-be-stupid/</id>
     <content type="html">
         
     </content>
