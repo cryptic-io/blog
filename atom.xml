@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-19T12:00:00+00:00</updated>
+  <updated>2023-12-19T15:00:42+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Keeping one Game Gear out of the landfill</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2023-12-19T15:00:42+00:00</published>
+    <updated>2023-12-19T15:00:42+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-keeping-one-game-gear-out-of-the-landfill/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-keeping-one-game-gear-out-of-the-landfill/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2023/keeping-one-game-gear-out-landfill</id>
+        <link href="https://www.jeffgeerling.com/blog/2023/keeping-one-game-gear-out-landfill"/>
+        <title>Keeping one Game Gear out of the landfill</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2023-12-19T15:00:42+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-keeping-one-game-gear-out-of-the-landfill/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>My cat water fountain comes with a spicy USB power adapter</title>
         <author>
@@ -2526,30 +2550,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-how-to-customize-the-dtb-device-tree-overlay-on-the-raspberry-pi/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Mighty &#x27;MOX: 50kW AM Tower site tour</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2023-11-16T16:16:35+00:00</published>
-    <updated>2023-11-16T16:16:35+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-the-mighty-mox-50kw-am-tower-site-tour/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-the-mighty-mox-50kw-am-tower-site-tour/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2023/mighty-mox-50kw-am-tower-site-tour</id>
-        <link href="https://www.jeffgeerling.com/blog/2023/mighty-mox-50kw-am-tower-site-tour"/>
-        <title>The Mighty &#x27;MOX: 50kW AM Tower site tour</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2023-11-16T16:16:35+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-the-mighty-mox-50kw-am-tower-site-tour/</id>
     <content type="html">
         
     </content>
