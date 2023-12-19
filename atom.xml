@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-19T15:00:42+00:00</updated>
+  <updated>2023-12-19T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Getting an Unread Badge Count For the Docked Gmail Web App in macOS</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2023-12-19T19:00:00+00:00</published>
+    <updated>2023-12-19T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-getting-an-unread-badge-count-for-the-docked-gmail-web-app-in-macos/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-getting-an-unread-badge-count-for-the-docked-gmail-web-app-in-macos/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2023/unread-badge-macos-safari-web-app/</id>
+        <link href="https://blog.jim-nielsen.com/2023/unread-badge-macos-safari-web-app/"/>
+        <title>Getting an Unread Badge Count For the Docked Gmail Web App in macOS</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2023-12-19T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-getting-an-unread-badge-count-for-the-docked-gmail-web-app-in-macos/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Keeping one Game Gear out of the landfill</title>
         <author>
@@ -3558,30 +3582,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-machine-learning-of-guis-at-scale/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Advice on Blogging</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-10-31T19:00:00+00:00</published>
-    <updated>2023-10-31T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-advice-on-blogging/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-advice-on-blogging/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/advice-on-blogging/</id>
-        <link href="https://blog.jim-nielsen.com/2023/advice-on-blogging/"/>
-        <title>Advice on Blogging</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-10-31T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-advice-on-blogging/</id>
     <content type="html">
         
     </content>
