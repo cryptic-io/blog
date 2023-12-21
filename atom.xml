@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-21T00:00:00+00:00</updated>
+  <updated>2023-12-21T14:21:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Loneliness of the Mid Level Vimmer</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2023-12-21T14:21:00+00:00</published>
+    <updated>2023-12-21T14:21:00+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-the-loneliness-of-the-mid-level-vimmer/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-the-loneliness-of-the-mid-level-vimmer/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/vimming-pains</id>
+        <link href="https://johnwhiles.com/posts/vimming-pains"/>
+        <title>The Loneliness of the Mid Level Vimmer</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2023-12-21T14:21:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-the-loneliness-of-the-mid-level-vimmer/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Retry Loop</title>
         <author>
@@ -10074,30 +10098,6 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-de-bermuda-e-chinelo/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I wish Chat GPT was more like chatting</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-    <published>2023-03-13T18:34:00+00:00</published>
-    <updated>2023-03-13T18:34:00+00:00</updated>
-    <link href="https://news.cryptic.io/john-whiles-i-wish-chat-gpt-was-more-like-chatting/"/>
-    <link rel="alternate" href="https://news.cryptic.io/john-whiles-i-wish-chat-gpt-was-more-like-chatting/" type="text/html"/>
-      <source>
-        <id>https://johnwhiles.com/posts/chatty</id>
-        <link href="https://johnwhiles.com/posts/chatty"/>
-        <title>I wish Chat GPT was more like chatting</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-        <updated>2023-03-13T18:34:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/john-whiles-i-wish-chat-gpt-was-more-like-chatting/</id>
     <content type="html">
         
     </content>
