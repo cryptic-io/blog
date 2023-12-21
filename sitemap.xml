@@ -84,10 +84,6 @@
         <lastmod>2023-02-26T20:29:21Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/alex-kladov-comparative-analysis/</loc>
-        <lastmod>2023-09-13T00:00:00Z</lastmod>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/alex-kladov-data-oriented-blogging/</loc>
         <lastmod>2023-11-07T00:00:00Z</lastmod>
     </url>
@@ -106,6 +102,10 @@
     <url>
         <loc>https://news.cryptic.io/alex-kladov-push-ifs-up-and-fors-down/</loc>
         <lastmod>2023-11-15T00:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/alex-kladov-retry-loop/</loc>
+        <lastmod>2023-12-21T00:00:00Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/alex-kladov-unified-versus-split-diff/</loc>
@@ -2034,46 +2034,6 @@
     <url>
         <loc>https://news.cryptic.io/mechatronicsguy-the-druid-wildcase-a-totally-unnecessary-addon-for-dnd/</loc>
         <lastmod>2023-06-28T06:16:09Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/mediocregopher-code-coverage-aint-everything/</loc>
-        <lastmod>2023-09-26T10:05:17Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/mediocregopher-dane-will-set-us-free/</loc>
-        <lastmod>2023-08-24T16:13:52Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/mediocregopher-domiply-your-friendly-neighborhood-gateway/</loc>
-        <lastmod>2023-05-23T10:40:19Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/mediocregopher-ginger-2023-update/</loc>
-        <lastmod>2023-11-02T18:38:54Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/mediocregopher-how-to-errors-good/</loc>
-        <lastmod>2023-07-31T16:10:42Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/mediocregopher-open-offer-i-will-host-your-domain/</loc>
-        <lastmod>2023-08-09T13:56:44Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/mediocregopher-resp-as-a-general-purpose-serialization-protocol/</loc>
-        <lastmod>2023-05-29T15:52:52Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/mediocregopher-saying-llms-lack-understanding/</loc>
-        <lastmod>2023-03-25T18:59:12Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/mediocregopher-statically-crosscompiling-rust-projects-using-nix/</loc>
-        <lastmod>2023-11-27T15:51:08Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/mediocregopher-story-time-the-hackiest-feature-of-them-all/</loc>
-        <lastmod>2023-09-13T10:58:49Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/mendhak-a-simple-cli-lookup-tool/</loc>
