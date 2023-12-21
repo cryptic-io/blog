@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-20T00:00:00+00:00</updated>
+  <updated>2023-12-20T23:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The undisputed best songs of 2023</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2023-12-20T23:00:00+00:00</published>
+    <updated>2023-12-20T23:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-the-undisputed-best-songs-of-2023/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-the-undisputed-best-songs-of-2023/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/songs-of-2023</id>
+        <link href="https://johnwhiles.com/posts/songs-of-2023"/>
+        <title>The undisputed best songs of 2023</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2023-12-20T23:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-the-undisputed-best-songs-of-2023/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Managing Technical Debt</title>
         <author>
@@ -9882,30 +9906,6 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-the-audacity-uncorrupting-an-audacity-project/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Check out uBlock origins element picker</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-    <published>2023-03-12T23:00:00+00:00</published>
-    <updated>2023-03-12T23:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/john-whiles-check-out-ublock-origins-element-picker/"/>
-    <link rel="alternate" href="https://news.cryptic.io/john-whiles-check-out-ublock-origins-element-picker/" type="text/html"/>
-      <source>
-        <id>https://johnwhiles.com/posts/block-stuff</id>
-        <link href="https://johnwhiles.com/posts/block-stuff"/>
-        <title>Check out uBlock origins element picker</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-        <updated>2023-03-12T23:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/john-whiles-check-out-ublock-origins-element-picker/</id>
     <content type="html">
         
     </content>
