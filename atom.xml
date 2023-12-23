@@ -391,25 +391,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Smashing the stack for pain and misery</title>
+    <title>Towards a folk computer</title>
         <author>
-            <name>rachelbythebay</name>
+            <name>CRISTÓBAL SCIUTTO</name>
         </author>
-    <published>2023-12-18T22:39:06+00:00</published>
-    <updated>2023-12-18T22:39:06+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/" type="text/html"/>
+    <published>2023-12-19T05:00:00+00:00</published>
+    <updated>2023-12-19T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/cristbal-sciutto-towards-a-folk-computer/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-towards-a-folk-computer/" type="text/html"/>
       <source>
-        <id>https://rachelbythebay.com/w/2023/12/18/boom/</id>
-        <link href="https://rachelbythebay.com/w/2023/12/18/boom/"/>
-        <title>Smashing the stack for pain and misery</title>
+        <id>https://folk.computer/notes/tableshots</id>
+        <link href="https://folk.computer/notes/tableshots"/>
+        <title>Towards a folk computer</title>
         <author>
-            <name>rachelbythebay</name>
+            <name>CRISTÓBAL SCIUTTO</name>
         </author>
-        <updated>2023-12-18T22:39:06+00:00</updated>
+        <updated>2023-12-19T05:00:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/</id>
+    <id>https://news.cryptic.io/cristbal-sciutto-towards-a-folk-computer/</id>
     <content type="html">
         
     </content>
@@ -1207,30 +1207,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Patching around a C++ crash with a little bit of Lua</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-12-07T19:24:57+00:00</published>
-    <updated>2023-12-07T19:24:57+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/12/07/header/</id>
-        <link href="https://rachelbythebay.com/w/2023/12/07/header/"/>
-        <title>Patching around a C++ crash with a little bit of Lua</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-12-07T19:24:57+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Raspberry Pi 5 and RP1 X-ray scans</title>
         <author>
             <name>Jeff Geerling</name>
@@ -1835,30 +1811,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>clang now makes binaries an original Pi B+ can&#x27;t run</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-12-01T03:21:46+00:00</published>
-    <updated>2023-12-01T03:21:46+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/30/armv6/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/30/armv6/"/>
-        <title>clang now makes binaries an original Pi B+ can&#x27;t run</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-12-01T03:21:46+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Making Decisions: RFC processes are a poor fit for most organizations</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -2070,30 +2022,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-stop-using-aigenerated-images/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>That time Verisign typo-squatted all of .com and .net</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-28T02:57:50+00:00</published>
-    <updated>2023-11-28T02:57:50+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/27/sitefinder/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/27/sitefinder/"/>
-        <title>That time Verisign typo-squatted all of .com and .net</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-28T02:57:50+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/</id>
     <content type="html">
         
     </content>
@@ -2771,30 +2699,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>My rants about TP-Link Omada networking products</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-18T01:45:27+00:00</published>
-    <updated>2023-11-18T01:45:27+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/17/omada/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/17/omada/"/>
-        <title>My rants about TP-Link Omada networking products</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-18T01:45:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>A PCIe Coral TPU FINALLY works on Raspberry Pi 5</title>
         <author>
             <name>Jeff Geerling</name>
@@ -3227,6 +3131,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Amanecieron ahí</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+    <published>2023-11-11T05:00:00+00:00</published>
+    <updated>2023-11-11T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/cristbal-sciutto-amanecieron-ah/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-amanecieron-ah/" type="text/html"/>
+      <source>
+        <id>https://cristobal.space/writing/cf3.html</id>
+        <link href="https://cristobal.space/writing/cf3.html"/>
+        <title>Amanecieron ahí</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+        <updated>2023-11-11T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cristbal-sciutto-amanecieron-ah/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How to use lists in Talon</title>
         <author>
             <name>Xe Iaso</name>
@@ -3534,54 +3462,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-wolvic-store-experiment/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-07T21:47:28+00:00</published>
-    <updated>2023-11-07T21:47:28+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/07/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/07/wpa3/"/>
-        <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-07T21:47:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Still no love for WPA3 on the Raspberry Pi 5</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-07T21:44:38+00:00</published>
-    <updated>2023-11-07T21:44:38+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/06/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/06/wpa3/"/>
-        <title>Still no love for WPA3 on the Raspberry Pi 5</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-07T21:44:38+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/</id>
     <content type="html">
         
     </content>
@@ -4787,30 +4667,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>getaddrinfo() on glibc calls getenv(), oh boy</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-17T00:00:07+00:00</published>
-    <updated>2023-10-17T00:00:07+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/16/env/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/16/env/"/>
-        <title>getaddrinfo() on glibc calls getenv(), oh boy</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-17T00:00:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>BFS zero-to-hero, part 2: snake</title>
         <author>
             <name>andersource</name>
@@ -4859,30 +4715,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Administrivia: new page&#x2F;feed generator is now live</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-13T03:29:40+00:00</published>
-    <updated>2023-10-13T03:29:40+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/12/html/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/12/html/"/>
-        <title>Administrivia: new page&#x2F;feed generator is now live</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-13T03:29:40+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-administrivia-new-pagefeed-generator-is-now-live/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Going off-script</title>
         <author>
             <name>Drew DeVault</name>
@@ -4902,30 +4734,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-going-offscript/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>ASCII protocol buffers as config files</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-12T19:51:03+00:00</published>
-    <updated>2023-10-12T19:51:03+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/05/config/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/05/config/"/>
-        <title>ASCII protocol buffers as config files</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-12T19:51:03+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-ascii-protocol-buffers-as-config-files/</id>
     <content type="html">
         
     </content>
@@ -5362,6 +5170,30 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-footerdesign/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>DIY audio archives</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+    <published>2023-10-04T05:00:00+00:00</published>
+    <updated>2023-10-04T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/cristbal-sciutto-diy-audio-archives/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-diy-audio-archives/" type="text/html"/>
+      <source>
+        <id>https://cristobal.nfshost.com/entitled-opinions</id>
+        <link href="https://cristobal.nfshost.com/entitled-opinions"/>
+        <title>DIY audio archives</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+        <updated>2023-10-04T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cristbal-sciutto-diy-audio-archives/</id>
     <content type="html">
         
     </content>
@@ -6682,6 +6514,30 @@
       </source>
 
     <id>https://news.cryptic.io/nathalie-lawhead-real-talk-games-about-trauma-art-caught-between-everything-is-horrible-everything-is-survivable-and-this-is-too-hard-to-talk-about/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Post-industrial bricolage</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+    <published>2023-08-14T05:00:00+00:00</published>
+    <updated>2023-08-14T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/cristbal-sciutto-postindustrial-bricolage/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-postindustrial-bricolage/" type="text/html"/>
+      <source>
+        <id>https://cristobal.space/writing/carts</id>
+        <link href="https://cristobal.space/writing/carts"/>
+        <title>Post-industrial bricolage</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+        <updated>2023-08-14T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cristbal-sciutto-postindustrial-bricolage/</id>
     <content type="html">
         
     </content>
@@ -9575,6 +9431,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Worry-free broadcasts</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+    <published>2023-04-09T05:00:00+00:00</published>
+    <updated>2023-04-09T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/cristbal-sciutto-worryfree-broadcasts/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-worryfree-broadcasts/" type="text/html"/>
+      <source>
+        <id>https://cristobal.space/writing/tickle</id>
+        <link href="https://cristobal.space/writing/tickle"/>
+        <title>Worry-free broadcasts</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+        <updated>2023-04-09T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cristbal-sciutto-worryfree-broadcasts/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>A new startup lifecycle</title>
         <author>
             <name>nutcroft</name>
@@ -9618,6 +9498,30 @@
       </source>
 
     <id>https://news.cryptic.io/iliana-etaoin-disabling-the-title-changed-light-on-firefox-pinned-tabs/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>On translating vernacular</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+    <published>2023-04-05T05:00:00+00:00</published>
+    <updated>2023-04-05T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/cristbal-sciutto-on-translating-vernacular/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-on-translating-vernacular/" type="text/html"/>
+      <source>
+        <id>https://cristobal.space/writing/bipbip-en</id>
+        <link href="https://cristobal.space/writing/bipbip-en"/>
+        <title>On translating vernacular</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+        <updated>2023-04-05T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cristbal-sciutto-on-translating-vernacular/</id>
     <content type="html">
         
     </content>
@@ -9930,6 +9834,30 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-my-kobo-customizations/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>De bermuda e chinelo</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+    <published>2023-03-17T05:00:00+00:00</published>
+    <updated>2023-03-17T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/cristbal-sciutto-de-bermuda-e-chinelo/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-de-bermuda-e-chinelo/" type="text/html"/>
+      <source>
+        <id>https://cristobal.space/writing/bipbip</id>
+        <link href="https://cristobal.space/writing/bipbip"/>
+        <title>De bermuda e chinelo</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+        <updated>2023-03-17T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cristbal-sciutto-de-bermuda-e-chinelo/</id>
     <content type="html">
         
     </content>
@@ -11327,6 +11255,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Gardens, games, and engravings</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+    <published>2023-01-02T05:00:00+00:00</published>
+    <updated>2023-01-02T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/cristbal-sciutto-gardens-games-and-engravings/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-gardens-games-and-engravings/" type="text/html"/>
+      <source>
+        <id>https://cristobal.space/writing/2022</id>
+        <link href="https://cristobal.space/writing/2022"/>
+        <title>Gardens, games, and engravings</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+        <updated>2023-01-02T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cristbal-sciutto-gardens-games-and-engravings/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
         <author>
             <name>Tie</name>
@@ -11442,6 +11394,54 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-2022-book-review/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Among the shadow librarians </title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+    <published>2022-12-30T05:00:00+00:00</published>
+    <updated>2022-12-30T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/cristbal-sciutto-among-the-shadow-librarians/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-among-the-shadow-librarians/" type="text/html"/>
+      <source>
+        <id>https://cristobal.space/writing/ubu</id>
+        <link href="https://cristobal.space/writing/ubu"/>
+        <title>Among the shadow librarians </title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+        <updated>2022-12-30T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cristbal-sciutto-among-the-shadow-librarians/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Aguafuerte Rosarina</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+    <published>2022-12-17T05:00:00+00:00</published>
+    <updated>2022-12-17T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/cristbal-sciutto-aguafuerte-rosarina/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-aguafuerte-rosarina/" type="text/html"/>
+      <source>
+        <id>https://cristobal.space/writing/rosario</id>
+        <link href="https://cristobal.space/writing/rosario"/>
+        <title>Aguafuerte Rosarina</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+        <updated>2022-12-17T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cristbal-sciutto-aguafuerte-rosarina/</id>
     <content type="html">
         
     </content>
