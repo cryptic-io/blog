@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-22T16:08:09+00:00</updated>
+  <updated>2023-12-23T15:22:41+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Bug story: Sorting by timestamp</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+    <published>2023-12-23T15:22:41+00:00</published>
+    <updated>2023-12-23T15:22:41+00:00</updated>
+    <link href="https://news.cryptic.io/adam-pritchard-bug-story-sorting-by-timestamp/"/>
+    <link rel="alternate" href="https://news.cryptic.io/adam-pritchard-bug-story-sorting-by-timestamp/" type="text/html"/>
+      <source>
+        <id>https://adam-p.ca/blog/2023/12/sort-by-timestamp/</id>
+        <link href="https://adam-p.ca/blog/2023/12/sort-by-timestamp/"/>
+        <title>Bug story: Sorting by timestamp</title>
+        <author>
+            <name>Adam Pritchard</name>
+        </author>
+        <updated>2023-12-23T15:22:41+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/adam-pritchard-bug-story-sorting-by-timestamp/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Micropelago in 2023</title>
         <author>
@@ -1346,30 +1370,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-one-a-month/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Two notes on harmony</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-    <published>2023-12-06T00:00:00+00:00</published>
-    <updated>2023-12-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/patrick-tanguay-two-notes-on-harmony/"/>
-    <link rel="alternate" href="https://news.cryptic.io/patrick-tanguay-two-notes-on-harmony/" type="text/html"/>
-      <source>
-        <id>https://sentiers.media/notes/two-notes-harmony/</id>
-        <link href="https://sentiers.media/notes/two-notes-harmony/"/>
-        <title>Two notes on harmony</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-        <updated>2023-12-06T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/patrick-tanguay-two-notes-on-harmony/</id>
     <content type="html">
         
     </content>
@@ -4547,30 +4547,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Cities for someone cities for everyone</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-    <published>2023-10-19T00:00:00+00:00</published>
-    <updated>2023-10-19T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/patrick-tanguay-cities-for-someone-cities-for-everyone/"/>
-    <link rel="alternate" href="https://news.cryptic.io/patrick-tanguay-cities-for-someone-cities-for-everyone/" type="text/html"/>
-      <source>
-        <id>https://sentiers.media/notes/cities-others-everyone/</id>
-        <link href="https://sentiers.media/notes/cities-others-everyone/"/>
-        <title>Cities for someone cities for everyone</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-        <updated>2023-10-19T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/patrick-tanguay-cities-for-someone-cities-for-everyone/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>F-Droid Client 1.19 alpha and KDE Connect</title>
         <author>
             <name>Various</name>
@@ -5698,30 +5674,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-hyprland-is-a-toxic-community/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Interesting</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-    <published>2023-09-15T00:00:00+00:00</published>
-    <updated>2023-09-15T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/patrick-tanguay-interesting/"/>
-    <link rel="alternate" href="https://news.cryptic.io/patrick-tanguay-interesting/" type="text/html"/>
-      <source>
-        <id>https://sentiers.media/interesting/</id>
-        <link href="https://sentiers.media/interesting/"/>
-        <title>Interesting</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-        <updated>2023-09-15T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/patrick-tanguay-interesting/</id>
     <content type="html">
         
     </content>
@@ -7631,30 +7583,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Your own transdisciplinarity</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-    <published>2023-07-06T00:00:00+00:00</published>
-    <updated>2023-07-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/patrick-tanguay-your-own-transdisciplinarity/"/>
-    <link rel="alternate" href="https://news.cryptic.io/patrick-tanguay-your-own-transdisciplinarity/" type="text/html"/>
-      <source>
-        <id>https://sentiers.media/own-transdisciplinarity/</id>
-        <link href="https://sentiers.media/own-transdisciplinarity/"/>
-        <title>Your own transdisciplinarity</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-        <updated>2023-07-06T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/patrick-tanguay-your-own-transdisciplinarity/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Summer Playlist</title>
         <author>
             <name>manuel</name>
@@ -8130,30 +8058,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-the-apple-vision-pro-and-the-future-of-workspaces/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Biomimicry &amp; Materials</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-    <published>2023-06-15T00:00:00+00:00</published>
-    <updated>2023-06-15T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/patrick-tanguay-biomimicry-materials/"/>
-    <link rel="alternate" href="https://news.cryptic.io/patrick-tanguay-biomimicry-materials/" type="text/html"/>
-      <source>
-        <id>https://sentiers.media/biomimicry-materials/</id>
-        <link href="https://sentiers.media/biomimicry-materials/"/>
-        <title>Biomimicry &amp; Materials</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-        <updated>2023-06-15T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/patrick-tanguay-biomimicry-materials/</id>
     <content type="html">
         
     </content>
@@ -10655,30 +10559,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Unease, writing, and thinking</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-    <published>2023-02-05T00:00:00+00:00</published>
-    <updated>2023-02-05T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/patrick-tanguay-unease-writing-and-thinking/"/>
-    <link rel="alternate" href="https://news.cryptic.io/patrick-tanguay-unease-writing-and-thinking/" type="text/html"/>
-      <source>
-        <id>https://sentiers.media/unease-writing-and-thinking/</id>
-        <link href="https://sentiers.media/unease-writing-and-thinking/"/>
-        <title>Unease, writing, and thinking</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-        <updated>2023-02-05T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/patrick-tanguay-unease-writing-and-thinking/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How to find your blind spots</title>
         <author>
             <name>Charlie Andrews</name>
@@ -11034,30 +10914,6 @@
       </source>
 
     <id>https://news.cryptic.io/degrowther-quiet-lately/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Ambiance &amp; Attention</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-    <published>2023-01-11T00:00:00+00:00</published>
-    <updated>2023-01-11T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/patrick-tanguay-ambiance-attention/"/>
-    <link rel="alternate" href="https://news.cryptic.io/patrick-tanguay-ambiance-attention/" type="text/html"/>
-      <source>
-        <id>https://sentiers.media/ambiance-attention/</id>
-        <link href="https://sentiers.media/ambiance-attention/"/>
-        <title>Ambiance &amp; Attention</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-        <updated>2023-01-11T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/patrick-tanguay-ambiance-attention/</id>
     <content type="html">
         
     </content>
@@ -13703,30 +13559,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Using Twitter at a distance</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-    <published>2022-05-18T00:00:00+00:00</published>
-    <updated>2022-05-18T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/patrick-tanguay-using-twitter-at-a-distance/"/>
-    <link rel="alternate" href="https://news.cryptic.io/patrick-tanguay-using-twitter-at-a-distance/" type="text/html"/>
-      <source>
-        <id>https://sentiers.media/using-twitter-distance/</id>
-        <link href="https://sentiers.media/using-twitter-distance/"/>
-        <title>Using Twitter at a distance</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-        <updated>2022-05-18T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/patrick-tanguay-using-twitter-at-a-distance/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Resonant</title>
         <author>
             <name>Linus Lee</name>
@@ -13823,30 +13655,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Ceci n’est pas un humble brag</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-    <published>2022-05-11T00:00:00+00:00</published>
-    <updated>2022-05-11T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/patrick-tanguay-ceci-nest-pas-un-humble-brag/"/>
-    <link rel="alternate" href="https://news.cryptic.io/patrick-tanguay-ceci-nest-pas-un-humble-brag/" type="text/html"/>
-      <source>
-        <id>https://sentiers.media/not-humblebrag/</id>
-        <link href="https://sentiers.media/not-humblebrag/"/>
-        <title>Ceci n’est pas un humble brag</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-        <updated>2022-05-11T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/patrick-tanguay-ceci-nest-pas-un-humble-brag/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Display box for a KP1-4 High Voltage Variable Cap</title>
         <author>
             <name>mechatronicsguy</name>
@@ -13914,30 +13722,6 @@
       </source>
 
     <id>https://news.cryptic.io/linus-lee-thoughts-at-the-boundary-between-machine-and-mind/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Some scanning principles</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-    <published>2022-05-02T00:00:00+00:00</published>
-    <updated>2022-05-02T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/patrick-tanguay-some-scanning-principles/"/>
-    <link rel="alternate" href="https://news.cryptic.io/patrick-tanguay-some-scanning-principles/" type="text/html"/>
-      <source>
-        <id>https://sentiers.media/scanning-principles/</id>
-        <link href="https://sentiers.media/scanning-principles/"/>
-        <title>Some scanning principles</title>
-        <author>
-            <name>Patrick Tanguay</name>
-        </author>
-        <updated>2022-05-02T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/patrick-tanguay-some-scanning-principles/</id>
     <content type="html">
         
     </content>
@@ -15458,30 +15242,6 @@
       </source>
 
     <id>https://news.cryptic.io/apenwarr-100-years-of-whatever-this-will-be/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Ethics of Driving Speed in Travel Time Estimation</title>
-        <author>
-            <name>Adam Pritchard</name>
-        </author>
-    <published>2021-11-28T00:00:00+00:00</published>
-    <updated>2021-11-28T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/adam-pritchard-the-ethics-of-driving-speed-in-travel-time-estimation/"/>
-    <link rel="alternate" href="https://news.cryptic.io/adam-pritchard-the-ethics-of-driving-speed-in-travel-time-estimation/" type="text/html"/>
-      <source>
-        <id>https://adam-p.ca/blog/2021/11/ethics-travel-time/</id>
-        <link href="https://adam-p.ca/blog/2021/11/ethics-travel-time/"/>
-        <title>The Ethics of Driving Speed in Travel Time Estimation</title>
-        <author>
-            <name>Adam Pritchard</name>
-        </author>
-        <updated>2021-11-28T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/adam-pritchard-the-ethics-of-driving-speed-in-travel-time-estimation/</id>
     <content type="html">
         
     </content>
