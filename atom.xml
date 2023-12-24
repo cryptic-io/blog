@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-23T18:32:30+00:00</updated>
+  <updated>2023-12-24T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Accelerating Piper text-to-speech on the RK3588 NPU</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2023-12-24T04:00:00+00:00</published>
+    <updated>2023-12-24T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-accelerating-piper-texttospeech-on-the-rk3588-npu/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-accelerating-piper-texttospeech-on-the-rk3588-npu/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2023/12-24-accelerating-piper-text-to-speech-on-the-rk3588-npu.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2023/12-24-accelerating-piper-text-to-speech-on-the-rk3588-npu.gmi"/>
+        <title>Accelerating Piper text-to-speech on the RK3588 NPU</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2023-12-24T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-accelerating-piper-texttospeech-on-the-rk3588-npu/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Jusant</title>
         <author>
@@ -5914,30 +5938,6 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-chestertons-invisible-fences/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Hardware accelerated playback on PineTab 2 (RK3566)</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-09-17T04:00:00+00:00</published>
-    <updated>2023-09-17T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-hardware-accelerated-playback-on-pinetab-2-rk3566/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-hardware-accelerated-playback-on-pinetab-2-rk3566/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/09-17-hardware-accelerated-playback-on-pinetab2.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/09-17-hardware-accelerated-playback-on-pinetab2.gmi"/>
-        <title>Hardware accelerated playback on PineTab 2 (RK3566)</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-09-17T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-hardware-accelerated-playback-on-pinetab-2-rk3566/</id>
     <content type="html">
         
     </content>
