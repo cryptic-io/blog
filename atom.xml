@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>CI Dream</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2023-12-24T00:00:00+00:00</published>
+    <updated>2023-12-24T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-ci-dream/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-ci-dream/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2023/12/24/ci-dream.html</id>
+        <link href="https://matklad.github.io/2023/12/24/ci-dream.html"/>
+        <title>CI Dream</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2023-12-24T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-ci-dream/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Jusant</title>
         <author>
             <name>Robin Rendle</name>
@@ -5074,30 +5098,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-the-cascade/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>What is an Invariant?</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2023-10-06T00:00:00+00:00</published>
-    <updated>2023-10-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-what-is-an-invariant/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-what-is-an-invariant/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2023/10/06/what-is-an-invariant.html</id>
-        <link href="https://matklad.github.io/2023/10/06/what-is-an-invariant.html"/>
-        <title>What is an Invariant?</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2023-10-06T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-what-is-an-invariant/</id>
     <content type="html">
         
     </content>
