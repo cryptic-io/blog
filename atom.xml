@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-24T04:00:00+00:00</updated>
+  <updated>2023-12-25T16:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Quality First and Other Advice</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2023-12-25T16:00:00+00:00</published>
+    <updated>2023-12-25T16:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-quality-first-and-other-advice/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-quality-first-and-other-advice/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2023/quality/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2023/quality/"/>
+        <title>Quality First and Other Advice</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2023-12-25T16:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-quality-first-and-other-advice/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Hydrothermal Vents</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2023-12-25T00:00:00+00:00</published>
+    <updated>2023-12-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-hydrothermal-vents/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-hydrothermal-vents/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2872/</id>
+        <link href="https://xkcd.com/2872/"/>
+        <title>Hydrothermal Vents</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2023-12-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-hydrothermal-vents/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Accelerating Piper text-to-speech on the RK3588 NPU</title>
         <author>
@@ -818,30 +866,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-jamie-thingelstad/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Label the States</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-12-15T00:00:00+00:00</published>
-    <updated>2023-12-15T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-label-the-states/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-label-the-states/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2868/</id>
-        <link href="https://xkcd.com/2868/"/>
-        <title>Label the States</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-12-15T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-label-the-states/</id>
     <content type="html">
         
     </content>
@@ -9162,30 +9186,6 @@
       </source>
 
     <id>https://news.cryptic.io/andra-bajt-graphql-sqlite/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Remembering My Grandfather</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-    <published>2023-05-06T11:00:00+00:00</published>
-    <updated>2023-05-06T11:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-remembering-my-grandfather/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-remembering-my-grandfather/" type="text/html"/>
-      <source>
-        <id>http://bastian.rieck.me/blog/posts/2023/grandfather/</id>
-        <link href="http://bastian.rieck.me/blog/posts/2023/grandfather/"/>
-        <title>Remembering My Grandfather</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-        <updated>2023-05-06T11:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bastian-rieck-remembering-my-grandfather/</id>
     <content type="html">
         
     </content>
