@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-28T19:00:00+00:00</updated>
+  <updated>2023-12-29T12:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>P&amp;B: Derek Sivers</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2023-12-29T12:00:00+00:00</published>
+    <updated>2023-12-29T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-derek-sivers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-derek-sivers/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/5nrZfIQ0pCnYzbsO</id>
+        <link href="https://manuelmoreale.com/@/page/5nrZfIQ0pCnYzbsO"/>
+        <title>P&amp;B: Derek Sivers</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2023-12-29T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-derek-sivers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Blogging and Composting</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-blogging-and-composting/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Encrypted SMS and malware scanning</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2023-12-28T00:00:00+00:00</published>
+    <updated>2023-12-28T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-encrypted-sms-and-malware-scanning/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-encrypted-sms-and-malware-scanning/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2023/12/28/twif.html</id>
+        <link href="https://f-droid.org/en/2023/12/28/twif.html"/>
+        <title>Encrypted SMS and malware scanning</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2023-12-28T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-encrypted-sms-and-malware-scanning/</id>
     <content type="html">
         
     </content>
@@ -1878,30 +1926,6 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-lets-learn-how-modern-javascript-frameworks-work-by-building-one/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>More new mindsets, fewer new technologies</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2023-12-02T18:05:00+00:00</published>
-    <updated>2023-12-02T18:05:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-more-new-mindsets-fewer-new-technologies/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-more-new-mindsets-fewer-new-technologies/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/9AhFsuW7ArG5GH14</id>
-        <link href="https://manuelmoreale.com/@/page/9AhFsuW7ArG5GH14"/>
-        <title>More new mindsets, fewer new technologies</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2023-12-02T18:05:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-more-new-mindsets-fewer-new-technologies/</id>
     <content type="html">
         
     </content>
@@ -4926,30 +4950,6 @@
       </source>
 
     <id>https://news.cryptic.io/patrick-tanguay-cities-for-someone-cities-for-everyone/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>F-Droid Client 1.19 alpha and KDE Connect</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-10-19T00:00:00+00:00</published>
-    <updated>2023-10-19T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/various-fdroid-client-119-alpha-and-kde-connect/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-fdroid-client-119-alpha-and-kde-connect/" type="text/html"/>
-      <source>
-        <id>https://f-droid.org/en/2023/10/19/twif-client-alpha-kde-removal-by-google.html</id>
-        <link href="https://f-droid.org/en/2023/10/19/twif-client-alpha-kde-removal-by-google.html"/>
-        <title>F-Droid Client 1.19 alpha and KDE Connect</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-10-19T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-fdroid-client-119-alpha-and-kde-connect/</id>
     <content type="html">
         
     </content>
