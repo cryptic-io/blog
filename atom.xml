@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-30T09:35:00+00:00</updated>
+  <updated>2023-12-30T15:24:05+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Digital Tidying: Finding and Fixing Dead Links</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2023-12-30T15:24:05+00:00</published>
+    <updated>2023-12-30T15:24:05+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-digital-tidying-finding-and-fixing-dead-links/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-digital-tidying-finding-and-fixing-dead-links/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/deadlinks</id>
+        <link href="https://mediocregopher.com/posts/deadlinks"/>
+        <title>Digital Tidying: Finding and Fixing Dead Links</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2023-12-30T15:24:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-digital-tidying-finding-and-fixing-dead-links/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Analytics inquiry</title>
         <author>
@@ -8922,30 +8946,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-the-tiny-corp-raised-51m/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Domiply: Your Friendly Neighborhood Gateway</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2023-05-23T10:40:19+00:00</published>
-    <updated>2023-05-23T10:40:19+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-domiply-your-friendly-neighborhood-gateway/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-domiply-your-friendly-neighborhood-gateway/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/posts/domiply</id>
-        <link href="https://mediocregopher.com/posts/domiply"/>
-        <title>Domiply: Your Friendly Neighborhood Gateway</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2023-05-23T10:40:19+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-domiply-your-friendly-neighborhood-gateway/</id>
     <content type="html">
         
     </content>
