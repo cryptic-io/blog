@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-30T17:03:24+00:00</updated>
+  <updated>2023-12-31T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>For the greater good, let&#x27;s do it the hard way</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2023-12-31T04:00:00+00:00</published>
+    <updated>2023-12-31T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-for-the-greater-good-lets-do-it-the-hard-way/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-for-the-greater-good-lets-do-it-the-hard-way/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2023/12-31-for-the-greater-good-lets-do-it-the-hard-way.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2023/12-31-for-the-greater-good-lets-do-it-the-hard-way.gmi"/>
+        <title>For the greater good, let&#x27;s do it the hard way</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2023-12-31T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-for-the-greater-good-lets-do-it-the-hard-way/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Shadow DOM and the problem of encapsulation</title>
         <author>
@@ -5698,30 +5722,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-code-coverage-aint-everything/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Using llama-cpp-python server with LangChain</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-09-25T04:00:00+00:00</published>
-    <updated>2023-09-25T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-using-llamacpppython-server-with-langchain/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-using-llamacpppython-server-with-langchain/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/09-25-using-llama-cpp-python-server-with-langchain.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/09-25-using-llama-cpp-python-server-with-langchain.gmi"/>
-        <title>Using llama-cpp-python server with LangChain</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-09-25T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-using-llamacpppython-server-with-langchain/</id>
     <content type="html">
         
     </content>
