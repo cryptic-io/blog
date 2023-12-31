@@ -55,6 +55,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>A year in review: 2023</title>
+        <author>
+            <name>Max Böck</name>
+        </author>
+    <published>2023-12-31T00:00:00+00:00</published>
+    <updated>2023-12-31T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/max-bck-a-year-in-review-2023/"/>
+    <link rel="alternate" href="https://news.cryptic.io/max-bck-a-year-in-review-2023/" type="text/html"/>
+      <source>
+        <id>https://mxb.dev/blog/year-in-review-2023/</id>
+        <link href="https://mxb.dev/blog/year-in-review-2023/"/>
+        <title>A year in review: 2023</title>
+        <author>
+            <name>Max Böck</name>
+        </author>
+        <updated>2023-12-31T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/max-bck-a-year-in-review-2023/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Shadow DOM and the problem of encapsulation</title>
         <author>
             <name>Nolan Lawson</name>
@@ -16470,30 +16494,6 @@
       </source>
 
     <id>https://news.cryptic.io/maggie-appleton-organic-local-artisan-data-storage/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Making Persistent Build Folders in Netlify</title>
-        <author>
-            <name>Max Böck</name>
-        </author>
-    <published>2021-01-05T00:00:00+00:00</published>
-    <updated>2021-01-05T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/max-bck-making-persistent-build-folders-in-netlify/"/>
-    <link rel="alternate" href="https://news.cryptic.io/max-bck-making-persistent-build-folders-in-netlify/" type="text/html"/>
-      <source>
-        <id>https://mxb.dev/blog/persistent-build-folders-netlify/</id>
-        <link href="https://mxb.dev/blog/persistent-build-folders-netlify/"/>
-        <title>Making Persistent Build Folders in Netlify</title>
-        <author>
-            <name>Max Böck</name>
-        </author>
-        <updated>2021-01-05T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/max-bck-making-persistent-build-folders-in-netlify/</id>
     <content type="html">
         
     </content>
