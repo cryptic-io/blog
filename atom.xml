@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2023-12-31T04:00:00+00:00</updated>
+  <updated>2023-12-31T20:28:04+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>2023 book review</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2023-12-31T20:28:04+00:00</published>
+    <updated>2023-12-31T20:28:04+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-2023-book-review/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-2023-book-review/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2023/12/31/2023-book-review/</id>
+        <link href="https://nolanlawson.com/2023/12/31/2023-book-review/"/>
+        <title>2023 book review</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2023-12-31T20:28:04+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-2023-book-review/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>For the greater good, let&#x27;s do it the hard way</title>
         <author>
@@ -74,6 +98,30 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-a-year-in-review-2023/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Hitched</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-12-30T19:07:05+00:00</published>
+    <updated>2023-12-30T19:07:05+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-hitched/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-hitched/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/hitched/</id>
+        <link href="https://robinrendle.com/notes/hitched/"/>
+        <title>Hitched</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-12-30T19:07:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-hitched/</id>
     <content type="html">
         
     </content>
@@ -338,6 +386,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-encrypted-sms-and-malware-scanning/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>22 panels</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2023-12-27T18:17:26+00:00</published>
+    <updated>2023-12-27T18:17:26+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-22-panels/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-22-panels/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/22-panels/</id>
+        <link href="https://robinrendle.com/notes/22-panels/"/>
+        <title>22 panels</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2023-12-27T18:17:26+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-22-panels/</id>
     <content type="html">
         
     </content>
@@ -5075,30 +5147,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Design systems, color spaces, and CSS</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-10-15T03:31:33+00:00</published>
-    <updated>2023-10-15T03:31:33+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-design-systems-color-spaces-and-css/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-design-systems-color-spaces-and-css/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/design-systems-color-spaces-and-css/</id>
-        <link href="https://robinrendle.com/notes/design-systems-color-spaces-and-css/"/>
-        <title>Design systems, color spaces, and CSS</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-10-15T03:31:33+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-design-systems-color-spaces-and-css/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Going off-script</title>
         <author>
             <name>Drew DeVault</name>
@@ -5338,30 +5386,6 @@
       </source>
 
     <id>https://news.cryptic.io/apenwarr-interesting/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Cascade</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-10-06T20:36:26+00:00</published>
-    <updated>2023-10-06T20:36:26+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-cascade/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-cascade/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-cascade/</id>
-        <link href="https://robinrendle.com/notes/the-cascade/"/>
-        <title>The Cascade</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-10-06T20:36:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-cascade/</id>
     <content type="html">
         
     </content>
@@ -11874,30 +11898,6 @@
       </source>
 
     <id>https://news.cryptic.io/andersource-the-exhaustive-todo-list/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Thoughts on Mastodon</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-    <published>2022-11-22T16:06:04+00:00</published>
-    <updated>2022-11-22T16:06:04+00:00</updated>
-    <link href="https://news.cryptic.io/nolan-lawson-thoughts-on-mastodon/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-thoughts-on-mastodon/" type="text/html"/>
-      <source>
-        <id>https://nolanlawson.com/2022/11/22/thoughts-on-mastodon/</id>
-        <link href="https://nolanlawson.com/2022/11/22/thoughts-on-mastodon/"/>
-        <title>Thoughts on Mastodon</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-        <updated>2022-11-22T16:06:04+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nolan-lawson-thoughts-on-mastodon/</id>
     <content type="html">
         
     </content>
