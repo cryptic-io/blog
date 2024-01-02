@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-02T10:10:00+00:00</updated>
+  <updated>2024-01-02T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A Subtle Nicety of Fault Tolerance in HTML &amp; CSS</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-01-02T19:00:00+00:00</published>
+    <updated>2024-01-02T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-a-subtle-nicety-of-fault-tolerance-in-html-css/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-a-subtle-nicety-of-fault-tolerance-in-html-css/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/fault-tolerance-html-css/</id>
+        <link href="https://blog.jim-nielsen.com/2024/fault-tolerance-html-css/"/>
+        <title>A Subtle Nicety of Fault Tolerance in HTML &amp; CSS</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-01-02T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-a-subtle-nicety-of-fault-tolerance-in-html-css/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Create more. Consume less.</title>
         <author>
@@ -482,6 +506,30 @@
       </source>
 
     <id>https://news.cryptic.io/allen-pike-splitting-services-and-product/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>How bad are search results? Let&#x27;s compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2023-12-30T00:00:00+00:00</published>
+    <updated>2023-12-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-how-bad-are-search-results-lets-compare-google-bing-marginalia-kagi-mwmbl-and-chatgpt/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-how-bad-are-search-results-lets-compare-google-bing-marginalia-kagi-mwmbl-and-chatgpt/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/seo-spam/</id>
+        <link href="https://danluu.com/seo-spam/"/>
+        <title>How bad are search results? Let&#x27;s compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2023-12-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-how-bad-are-search-results-lets-compare-google-bing-marginalia-kagi-mwmbl-and-chatgpt/</id>
     <content type="html">
         
     </content>
@@ -4230,30 +4278,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-data-oriented-blogging/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>As Good as HTML</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-11-05T19:00:00+00:00</published>
-    <updated>2023-11-05T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-as-good-as-html/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-as-good-as-html/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/as-good-as-html/</id>
-        <link href="https://blog.jim-nielsen.com/2023/as-good-as-html/"/>
-        <title>As Good as HTML</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-11-05T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-as-good-as-html/</id>
     <content type="html">
         
     </content>
@@ -15454,30 +15478,6 @@
       </source>
 
     <id>https://news.cryptic.io/roy-van-rijn-log4shell-leak4j/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Some thoughts on writing</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2021-12-13T00:00:00+00:00</published>
-    <updated>2021-12-13T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-some-thoughts-on-writing/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-some-thoughts-on-writing/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/writing-non-advice/</id>
-        <link href="https://danluu.com/writing-non-advice/"/>
-        <title>Some thoughts on writing</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2021-12-13T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-some-thoughts-on-writing/</id>
     <content type="html">
         
     </content>
