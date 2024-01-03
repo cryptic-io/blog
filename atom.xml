@@ -103,6 +103,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Range Safety</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-01-03T00:00:00+00:00</published>
+    <updated>2024-01-03T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-range-safety/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-range-safety/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2876/</id>
+        <link href="https://xkcd.com/2876/"/>
+        <title>Range Safety</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-01-03T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-range-safety/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>A Subtle Nicety of Fault Tolerance in HTML &amp; CSS</title>
         <author>
             <name>Jim Nielsen</name>
@@ -986,30 +1010,6 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-quality-first-and-other-advice/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Hydrothermal Vents</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2023-12-25T00:00:00+00:00</published>
-    <updated>2023-12-25T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-hydrothermal-vents/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-hydrothermal-vents/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2872/</id>
-        <link href="https://xkcd.com/2872/"/>
-        <title>Hydrothermal Vents</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2023-12-25T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-hydrothermal-vents/</id>
     <content type="html">
         
     </content>
