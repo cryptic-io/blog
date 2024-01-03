@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-03T08:10:00+00:00</updated>
+  <updated>2024-01-03T15:33:22.984+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>On goal-setting</title>
+        <author>
+            <name>herman</name>
+        </author>
+    <published>2024-01-03T15:33:22.984+00:00</published>
+    <updated>2024-01-03T15:33:22.984+00:00</updated>
+    <link href="https://news.cryptic.io/herman-on-goalsetting/"/>
+    <link rel="alternate" href="https://news.cryptic.io/herman-on-goalsetting/" type="text/html"/>
+      <source>
+        <id>https://herman.bearblog.dev/on-goal-setting/</id>
+        <link href="https://herman.bearblog.dev/on-goal-setting/"/>
+        <title>On goal-setting</title>
+        <author>
+            <name>herman</name>
+        </author>
+        <updated>2024-01-03T15:33:22.984+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/herman-on-goalsetting/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Answers to my analytics inquiry</title>
         <author>
@@ -218,30 +242,6 @@
       </source>
 
     <id>https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Resolutions are dumb</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-01-01T20:22:51+00:00</published>
-    <updated>2024-01-01T20:22:51+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-resolutions-are-dumb/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-resolutions-are-dumb/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/resolutions-are-dumb/</id>
-        <link href="https://robinrendle.com/notes/resolutions-are-dumb/"/>
-        <title>Resolutions are dumb</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-01-01T20:22:51+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-resolutions-are-dumb/</id>
     <content type="html">
         
     </content>
@@ -535,30 +535,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Hitched</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-12-30T19:07:05+00:00</published>
-    <updated>2023-12-30T19:07:05+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-hitched/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-hitched/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/hitched/</id>
-        <link href="https://robinrendle.com/notes/hitched/"/>
-        <title>Hitched</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-12-30T19:07:05+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-hitched/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Shadow DOM and the problem of encapsulation</title>
         <author>
             <name>Nolan Lawson</name>
@@ -650,6 +626,30 @@
       </source>
 
     <id>https://news.cryptic.io/allen-pike-splitting-services-and-product/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>How bad are search results? Let&#x27;s compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2023-12-30T00:00:00+00:00</published>
+    <updated>2023-12-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-how-bad-are-search-results-lets-compare-google-bing-marginalia-kagi-mwmbl-and-chatgpt/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-how-bad-are-search-results-lets-compare-google-bing-marginalia-kagi-mwmbl-and-chatgpt/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/seo-spam/</id>
+        <link href="https://danluu.com/seo-spam/"/>
+        <title>How bad are search results? Let&#x27;s compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2023-12-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-how-bad-are-search-results-lets-compare-google-bing-marginalia-kagi-mwmbl-and-chatgpt/</id>
     <content type="html">
         
     </content>
@@ -818,30 +818,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-encrypted-sms-and-malware-scanning/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>22 panels</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-12-27T18:17:26+00:00</published>
-    <updated>2023-12-27T18:17:26+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-22-panels/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-22-panels/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/22-panels/</id>
-        <link href="https://robinrendle.com/notes/22-panels/"/>
-        <title>22 panels</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-12-27T18:17:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-22-panels/</id>
     <content type="html">
         
     </content>
@@ -1058,30 +1034,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-ci-dream/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Jusant</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-12-23T18:32:30+00:00</published>
-    <updated>2023-12-23T18:32:30+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-jusant/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-jusant/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/jusant/</id>
-        <link href="https://robinrendle.com/notes/jusant/"/>
-        <title>Jusant</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-12-23T18:32:30+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-jusant/</id>
     <content type="html">
         
     </content>
@@ -2287,30 +2239,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>I am a poem I am not software</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-12-06T15:51:40+00:00</published>
-    <updated>2023-12-06T15:51:40+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-i-am-a-poem-i-am-not-software/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-i-am-a-poem-i-am-not-software/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/i-am-a-poem-i-am-not-software/</id>
-        <link href="https://robinrendle.com/notes/i-am-a-poem-i-am-not-software/"/>
-        <title>I am a poem I am not software</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-12-06T15:51:40+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-i-am-a-poem-i-am-not-software/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Two notes on harmony</title>
         <author>
             <name>Patrick Tanguay</name>
@@ -2598,30 +2526,6 @@
       </source>
 
     <id>https://news.cryptic.io/degrowther-i-am-a-person-in-my-neighborhood/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Figure it out</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-12-01T17:23:56+00:00</published>
-    <updated>2023-12-01T17:23:56+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-figure-it-out/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-figure-it-out/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/figure-it-out/</id>
-        <link href="https://robinrendle.com/notes/figure-it-out/"/>
-        <title>Figure it out</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-12-01T17:23:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-figure-it-out/</id>
     <content type="html">
         
     </content>
@@ -2915,30 +2819,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Stop Using AI-Generated Images</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-11-28T15:47:43+00:00</published>
-    <updated>2023-11-28T15:47:43+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-stop-using-aigenerated-images/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-stop-using-aigenerated-images/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/stop-using-ai-generated-images/</id>
-        <link href="https://robinrendle.com/notes/stop-using-ai-generated-images/"/>
-        <title>Stop Using AI-Generated Images</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-11-28T15:47:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-stop-using-aigenerated-images/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>That time Verisign typo-squatted all of .com and .net</title>
         <author>
             <name>rachelbythebay</name>
@@ -3155,30 +3035,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>People and Blogs</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-11-24T19:32:45+00:00</published>
-    <updated>2023-11-24T19:32:45+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-people-and-blogs/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-people-and-blogs/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/people-and-blogs/</id>
-        <link href="https://robinrendle.com/notes/people-and-blogs/"/>
-        <title>People and Blogs</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-11-24T19:32:45+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-people-and-blogs/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Math SE report 2023-09: Sense and reference, Wason tasks, what is a sequence?</title>
         <author>
             <name>Mark Dominus</name>
@@ -3198,30 +3054,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-math-se-report-202309-sense-and-reference-wason-tasks-what-is-a-sequence/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Nuform Type</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-11-23T05:40:26+00:00</published>
-    <updated>2023-11-23T05:40:26+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-nuform-type/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-nuform-type/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/nuform-type/</id>
-        <link href="https://robinrendle.com/notes/nuform-type/"/>
-        <title>Nuform Type</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-11-23T05:40:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-nuform-type/</id>
     <content type="html">
         
     </content>
@@ -3942,30 +3774,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-what-i-talk-about-when-i-talk-about-balenciagas-trainers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Help is just help</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-11-14T07:39:10+00:00</published>
-    <updated>2023-11-14T07:39:10+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-help-is-just-help/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-help-is-just-help/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/help-is-just-help/</id>
-        <link href="https://robinrendle.com/notes/help-is-just-help/"/>
-        <title>Help is just help</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-11-14T07:39:10+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-help-is-just-help/</id>
     <content type="html">
         
     </content>
@@ -9306,30 +9114,6 @@
       </source>
 
     <id>https://news.cryptic.io/kate-wagner-dome-sweet-dome/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The chatbot creator</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2023-05-15T10:37:07.549+00:00</published>
-    <updated>2023-05-15T10:37:07.549+00:00</updated>
-    <link href="https://news.cryptic.io/herman-the-chatbot-creator/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-the-chatbot-creator/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/the-chatbot-creator/</id>
-        <link href="https://herman.bearblog.dev/the-chatbot-creator/"/>
-        <title>The chatbot creator</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2023-05-15T10:37:07.549+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-the-chatbot-creator/</id>
     <content type="html">
         
     </content>
@@ -15694,30 +15478,6 @@
       </source>
 
     <id>https://news.cryptic.io/roy-van-rijn-log4shell-leak4j/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Some thoughts on writing</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2021-12-13T00:00:00+00:00</published>
-    <updated>2021-12-13T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-some-thoughts-on-writing/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-some-thoughts-on-writing/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/writing-non-advice/</id>
-        <link href="https://danluu.com/writing-non-advice/"/>
-        <title>Some thoughts on writing</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2021-12-13T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-some-thoughts-on-writing/</id>
     <content type="html">
         
     </content>
