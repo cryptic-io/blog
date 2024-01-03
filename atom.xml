@@ -79,6 +79,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>What&#x27;s Good?</title>
+        <author>
+            <name>Brian Kardell</name>
+        </author>
+    <published>2024-01-03T05:00:00+00:00</published>
+    <updated>2024-01-03T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/brian-kardell-whats-good/"/>
+    <link rel="alternate" href="https://news.cryptic.io/brian-kardell-whats-good/" type="text/html"/>
+      <source>
+        <id>https://bkardell.com/blog/WhatsGood.html</id>
+        <link href="https://bkardell.com/blog/WhatsGood.html"/>
+        <title>What&#x27;s Good?</title>
+        <author>
+            <name>Brian Kardell</name>
+        </author>
+        <updated>2024-01-03T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/brian-kardell-whats-good/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>My journey setting up my Framework 13 AMD, Arch Linux and OpenBSD</title>
         <author>
             <name>Martin Chang</name>
@@ -9498,30 +9522,6 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-writing/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Wolvic Behind-the-Scenes</title>
-        <author>
-            <name>Brian Kardell</name>
-        </author>
-    <published>2023-05-03T04:00:00+00:00</published>
-    <updated>2023-05-03T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/brian-kardell-wolvic-behindthescenes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/brian-kardell-wolvic-behindthescenes/" type="text/html"/>
-      <source>
-        <id>https://bkardell.com/blog/WolvicBTS.html</id>
-        <link href="https://bkardell.com/blog/WolvicBTS.html"/>
-        <title>Wolvic Behind-the-Scenes</title>
-        <author>
-            <name>Brian Kardell</name>
-        </author>
-        <updated>2023-05-03T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/brian-kardell-wolvic-behindthescenes/</id>
     <content type="html">
         
     </content>
