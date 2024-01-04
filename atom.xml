@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-04T06:23:05+00:00</updated>
+  <updated>2024-01-04T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Cold-blooded Software</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-01-04T19:00:00+00:00</published>
+    <updated>2024-01-04T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-coldblooded-software/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-coldblooded-software/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/cold-blooded-software/</id>
+        <link href="https://blog.jim-nielsen.com/2024/cold-blooded-software/"/>
+        <title>Cold-blooded Software</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-01-04T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-coldblooded-software/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Fixing Returnal hanging at a black screen</title>
         <author>
@@ -4230,30 +4254,6 @@
       </source>
 
     <id>https://news.cryptic.io/chris-kiehl-a-utensil-for-mixing-and-spreading/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>HTML Web Components</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2023-11-13T19:00:00+00:00</published>
-    <updated>2023-11-13T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-html-web-components/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-html-web-components/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2023/html-web-components/</id>
-        <link href="https://blog.jim-nielsen.com/2023/html-web-components/"/>
-        <title>HTML Web Components</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2023-11-13T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-html-web-components/</id>
     <content type="html">
         
     </content>
