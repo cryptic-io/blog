@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-03T17:32:18+00:00</updated>
+  <updated>2024-01-04T01:23:59+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>What’s Too Good to Be True?</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2024-01-04T01:23:59+00:00</published>
+    <updated>2024-01-04T01:23:59+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-whats-too-good-to-be-true/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-whats-too-good-to-be-true/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/whats-too-good-to-be-true</id>
+        <link href="https://matthiasott.com/notes/whats-too-good-to-be-true"/>
+        <title>What’s Too Good to Be True?</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2024-01-04T01:23:59+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-whats-too-good-to-be-true/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Minivans are better than trucks</title>
         <author>
@@ -103,6 +127,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Fields of transmission</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+    <published>2024-01-03T05:00:00+00:00</published>
+    <updated>2024-01-03T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/cristbal-sciutto-fields-of-transmission/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-fields-of-transmission/" type="text/html"/>
+      <source>
+        <id>https://cristobal.space/writing/2023.html</id>
+        <link href="https://cristobal.space/writing/2023.html"/>
+        <title>Fields of transmission</title>
+        <author>
+            <name>CRISTÓBAL SCIUTTO</name>
+        </author>
+        <updated>2024-01-03T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cristbal-sciutto-fields-of-transmission/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>My journey setting up my Framework 13 AMD, Arch Linux and OpenBSD</title>
         <author>
             <name>Martin Chang</name>
@@ -146,6 +194,30 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-the-best-comment-section-on-the-internet/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Of Rats and Ratchets</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2024-01-03T00:00:00+00:00</published>
+    <updated>2024-01-03T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-of-rats-and-ratchets/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-of-rats-and-ratchets/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2024/01/03/of-rats-and-ratchets.html</id>
+        <link href="https://matklad.github.io/2024/01/03/of-rats-and-ratchets.html"/>
+        <title>Of Rats and Ratchets</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2024-01-03T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-of-rats-and-ratchets/</id>
     <content type="html">
         
     </content>
@@ -698,30 +770,6 @@
       </source>
 
     <id>https://news.cryptic.io/allen-pike-splitting-services-and-product/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How bad are search results? Let&#x27;s compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2023-12-30T00:00:00+00:00</published>
-    <updated>2023-12-30T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-how-bad-are-search-results-lets-compare-google-bing-marginalia-kagi-mwmbl-and-chatgpt/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-how-bad-are-search-results-lets-compare-google-bing-marginalia-kagi-mwmbl-and-chatgpt/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/seo-spam/</id>
-        <link href="https://danluu.com/seo-spam/"/>
-        <title>How bad are search results? Let&#x27;s compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2023-12-30T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-how-bad-are-search-results-lets-compare-google-bing-marginalia-kagi-mwmbl-and-chatgpt/</id>
     <content type="html">
         
     </content>
@@ -5291,30 +5339,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Unless Explicitly Specified Otherwise, Open Source Software With Users Carries Moral Obligations</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2023-10-18T00:00:00+00:00</published>
-    <updated>2023-10-18T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-unless-explicitly-specified-otherwise-open-source-software-with-users-carries-moral-obligations/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-unless-explicitly-specified-otherwise-open-source-software-with-users-carries-moral-obligations/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2023/10/18/obligations.html</id>
-        <link href="https://matklad.github.io/2023/10/18/obligations.html"/>
-        <title>Unless Explicitly Specified Otherwise, Open Source Software With Users Carries Moral Obligations</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2023-10-18T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-unless-explicitly-specified-otherwise-open-source-software-with-users-carries-moral-obligations/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>First Impressions of IPFire&#x27;s Firewall Software</title>
         <author>
             <name>Cheapskate</name>
@@ -6984,8 +7008,8 @@
     <link href="https://news.cryptic.io/cristbal-sciutto-postindustrial-bricolage/"/>
     <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-postindustrial-bricolage/" type="text/html"/>
       <source>
-        <id>https://cristobal.space/writing/carts</id>
-        <link href="https://cristobal.space/writing/carts"/>
+        <id>https://cristobal.space/writing/carts.html</id>
+        <link href="https://cristobal.space/writing/carts.html"/>
         <title>Post-industrial bricolage</title>
         <author>
             <name>CRISTÓBAL SCIUTTO</name>
@@ -8423,30 +8447,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The New CSS</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-06-18T21:29:00+00:00</published>
-    <updated>2023-06-18T21:29:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-the-new-css/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-the-new-css/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/the-new-css</id>
-        <link href="https://matthiasott.com/notes/the-new-css"/>
-        <title>The New CSS</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-06-18T21:29:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-the-new-css/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Why Write?</title>
         <author>
             <name>Bastian Rieck</name>
@@ -9704,8 +9704,8 @@
     <link href="https://news.cryptic.io/cristbal-sciutto-worryfree-broadcasts/"/>
     <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-worryfree-broadcasts/" type="text/html"/>
       <source>
-        <id>https://cristobal.space/writing/tickle</id>
-        <link href="https://cristobal.space/writing/tickle"/>
+        <id>https://cristobal.space/writing/tickle.html</id>
+        <link href="https://cristobal.space/writing/tickle.html"/>
         <title>Worry-free broadcasts</title>
         <author>
             <name>CRISTÓBAL SCIUTTO</name>
@@ -9776,8 +9776,8 @@
     <link href="https://news.cryptic.io/cristbal-sciutto-on-translating-vernacular/"/>
     <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-on-translating-vernacular/" type="text/html"/>
       <source>
-        <id>https://cristobal.space/writing/bipbip-en</id>
-        <link href="https://cristobal.space/writing/bipbip-en"/>
+        <id>https://cristobal.space/writing/bipbip-en.html</id>
+        <link href="https://cristobal.space/writing/bipbip-en.html"/>
         <title>On translating vernacular</title>
         <author>
             <name>CRISTÓBAL SCIUTTO</name>
@@ -10112,8 +10112,8 @@
     <link href="https://news.cryptic.io/cristbal-sciutto-de-bermuda-e-chinelo/"/>
     <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-de-bermuda-e-chinelo/" type="text/html"/>
       <source>
-        <id>https://cristobal.space/writing/bipbip</id>
-        <link href="https://cristobal.space/writing/bipbip"/>
+        <id>https://cristobal.space/writing/bipbip.html</id>
+        <link href="https://cristobal.space/writing/bipbip.html"/>
         <title>De bermuda e chinelo</title>
         <author>
             <name>CRISTÓBAL SCIUTTO</name>
@@ -11456,8 +11456,8 @@
     <link href="https://news.cryptic.io/cristbal-sciutto-gardens-games-and-engravings/"/>
     <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-gardens-games-and-engravings/" type="text/html"/>
       <source>
-        <id>https://cristobal.space/writing/2022</id>
-        <link href="https://cristobal.space/writing/2022"/>
+        <id>https://cristobal.space/writing/2022.html</id>
+        <link href="https://cristobal.space/writing/2022.html"/>
         <title>Gardens, games, and engravings</title>
         <author>
             <name>CRISTÓBAL SCIUTTO</name>
@@ -11600,8 +11600,8 @@
     <link href="https://news.cryptic.io/cristbal-sciutto-among-the-shadow-librarians/"/>
     <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-among-the-shadow-librarians/" type="text/html"/>
       <source>
-        <id>https://cristobal.space/writing/ubu</id>
-        <link href="https://cristobal.space/writing/ubu"/>
+        <id>https://cristobal.space/writing/ubu.html</id>
+        <link href="https://cristobal.space/writing/ubu.html"/>
         <title>Among the shadow librarians </title>
         <author>
             <name>CRISTÓBAL SCIUTTO</name>
@@ -11610,30 +11610,6 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-among-the-shadow-librarians/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Aguafuerte Rosarina</title>
-        <author>
-            <name>CRISTÓBAL SCIUTTO</name>
-        </author>
-    <published>2022-12-17T05:00:00+00:00</published>
-    <updated>2022-12-17T05:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/cristbal-sciutto-aguafuerte-rosarina/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cristbal-sciutto-aguafuerte-rosarina/" type="text/html"/>
-      <source>
-        <id>https://cristobal.space/writing/rosario</id>
-        <link href="https://cristobal.space/writing/rosario"/>
-        <title>Aguafuerte Rosarina</title>
-        <author>
-            <name>CRISTÓBAL SCIUTTO</name>
-        </author>
-        <updated>2022-12-17T05:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cristbal-sciutto-aguafuerte-rosarina/</id>
     <content type="html">
         
     </content>
@@ -15478,6 +15454,30 @@
       </source>
 
     <id>https://news.cryptic.io/roy-van-rijn-log4shell-leak4j/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Some thoughts on writing</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2021-12-13T00:00:00+00:00</published>
+    <updated>2021-12-13T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-some-thoughts-on-writing/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-some-thoughts-on-writing/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/writing-non-advice/</id>
+        <link href="https://danluu.com/writing-non-advice/"/>
+        <title>Some thoughts on writing</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2021-12-13T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-some-thoughts-on-writing/</id>
     <content type="html">
         
     </content>
