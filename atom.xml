@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-05T04:39:00+00:00</updated>
+  <updated>2024-01-05T12:04:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Johncom now supports webmentions</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2024-01-05T12:04:00+00:00</published>
+    <updated>2024-01-05T12:04:00+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-johncom-now-supports-webmentions/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-johncom-now-supports-webmentions/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/webmentions</id>
+        <link href="https://johnwhiles.com/posts/webmentions"/>
+        <title>Johncom now supports webmentions</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2024-01-05T12:04:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-johncom-now-supports-webmentions/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>P&amp;B: Arun Venkatesan</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-01-05T12:00:00+00:00</published>
+    <updated>2024-01-05T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-arun-venkatesan/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-arun-venkatesan/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/DvVxOEcwE8gGVRnJ</id>
+        <link href="https://manuelmoreale.com/@/page/DvVxOEcwE8gGVRnJ"/>
+        <title>P&amp;B: Arun Venkatesan</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-01-05T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-arun-venkatesan/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Now Blocking 56,037,235 IP Addresses, and Counting...</title>
         <author>
@@ -2095,30 +2143,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>P&amp;B: Jamie Thingelstad</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2023-12-15T12:00:00+00:00</published>
-    <updated>2023-12-15T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-jamie-thingelstad/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-jamie-thingelstad/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/uQEsietctTePuEGw</id>
-        <link href="https://manuelmoreale.com/@/page/uQEsietctTePuEGw"/>
-        <title>P&amp;B: Jamie Thingelstad</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2023-12-15T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-jamie-thingelstad/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Finally deciding to buy a new laptop</title>
         <author>
             <name>Martin Chang</name>
@@ -3635,6 +3659,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Upgrading to FreeBSD 14 - how to fix a broken BIOS bootcode</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2023-11-22T00:00:00+00:00</published>
+    <updated>2023-11-22T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-upgrading-to-freebsd-14-how-to-fix-a-broken-bios-bootcode/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-upgrading-to-freebsd-14-how-to-fix-a-broken-bios-bootcode/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/tutorials/upgrading-to-freebsd-14-how-to-fix-a-broken-bios-bootcode.html</id>
+        <link href="https://unixsheikh.com/tutorials/upgrading-to-freebsd-14-how-to-fix-a-broken-bios-bootcode.html"/>
+        <title>Upgrading to FreeBSD 14 - how to fix a broken BIOS bootcode</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2023-11-22T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-upgrading-to-freebsd-14-how-to-fix-a-broken-bios-bootcode/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Climate Optimism</title>
         <author>
             <name>matthiasott</name>
@@ -4475,6 +4523,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Are Passkeys really the beginning of the end of passwords? I certainly hope not!</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2023-11-09T00:00:00+00:00</published>
+    <updated>2023-11-09T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/articles/are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not.html</id>
+        <link href="https://unixsheikh.com/articles/are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not.html"/>
+        <title>Are Passkeys really the beginning of the end of passwords? I certainly hope not!</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2023-11-09T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Let us compete on trustworthiness and an Arcticons special release</title>
         <author>
             <name>Various</name>
@@ -4710,6 +4782,30 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-disrupt-the-government/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The proper design process in web development</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2023-11-04T00:00:00+00:00</published>
+    <updated>2023-11-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-the-proper-design-process-in-web-development/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-the-proper-design-process-in-web-development/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/articles/the-proper-design-process-in-web-development.html</id>
+        <link href="https://unixsheikh.com/articles/the-proper-design-process-in-web-development.html"/>
+        <title>The proper design process in web development</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2023-11-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-the-proper-design-process-in-web-development/</id>
     <content type="html">
         
     </content>
@@ -4998,6 +5094,30 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-no-borders/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The main differences between OpenBSD, FreeBSD, NetBSD and DragonFly BSD</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2023-10-30T00:00:00+00:00</published>
+    <updated>2023-10-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-the-main-differences-between-openbsd-freebsd-netbsd-and-dragonfly-bsd/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-the-main-differences-between-openbsd-freebsd-netbsd-and-dragonfly-bsd/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/articles/the-main-differences-between-openbsd-freebsd-netbsd-and-dragonflybsd.html</id>
+        <link href="https://unixsheikh.com/articles/the-main-differences-between-openbsd-freebsd-netbsd-and-dragonflybsd.html"/>
+        <title>The main differences between OpenBSD, FreeBSD, NetBSD and DragonFly BSD</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2023-10-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-the-main-differences-between-openbsd-freebsd-netbsd-and-dragonfly-bsd/</id>
     <content type="html">
         
     </content>
@@ -5310,6 +5430,30 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-my-new-newsletter-own-your-web/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>We have used too many levels of abstractions and now the future looks bleak</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2023-10-21T00:00:00+00:00</published>
+    <updated>2023-10-21T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html</id>
+        <link href="https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html"/>
+        <title>We have used too many levels of abstractions and now the future looks bleak</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2023-10-21T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak/</id>
     <content type="html">
         
     </content>
@@ -6303,6 +6447,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Bethesda&#x27;s Starfield is a disgrace to game development and a slap in the face to gamers</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2023-09-12T00:00:00+00:00</published>
+    <updated>2023-09-12T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-bethesdas-starfield-is-a-disgrace-to-game-development-and-a-slap-in-the-face-to-gamers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-bethesdas-starfield-is-a-disgrace-to-game-development-and-a-slap-in-the-face-to-gamers/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/articles/bethesdas-starfield-is-a-disgrace-to-game-development-and-a-slap-in-the-face-to-gamers.html</id>
+        <link href="https://unixsheikh.com/articles/bethesdas-starfield-is-a-disgrace-to-game-development-and-a-slap-in-the-face-to-gamers.html"/>
+        <title>Bethesda&#x27;s Starfield is a disgrace to game development and a slap in the face to gamers</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2023-09-12T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-bethesdas-starfield-is-a-disgrace-to-game-development-and-a-slap-in-the-face-to-gamers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>My Favorite Mac Apps in 2023</title>
         <author>
             <name>matthiasott</name>
@@ -6442,6 +6610,30 @@
       </source>
 
     <id>https://news.cryptic.io/clayton-craft-upgrading-steam-deck-storage-the-lazy-way/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Tips on how to structure your home directory</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2023-09-04T00:00:00+00:00</published>
+    <updated>2023-09-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-tips-on-how-to-structure-your-home-directory/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-tips-on-how-to-structure-your-home-directory/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/tutorials/tips-on-how-to-structure-your-home-directory.html</id>
+        <link href="https://unixsheikh.com/tutorials/tips-on-how-to-structure-your-home-directory.html"/>
+        <title>Tips on how to structure your home directory</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2023-09-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-tips-on-how-to-structure-your-home-directory/</id>
     <content type="html">
         
     </content>
@@ -8831,6 +9023,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>One of the most basic requirements for success is also one of the most difficult to get right</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2023-05-25T00:00:00+00:00</published>
+    <updated>2023-05-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-one-of-the-most-basic-requirements-for-success-is-also-one-of-the-most-difficult-to-get-right/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-one-of-the-most-basic-requirements-for-success-is-also-one-of-the-most-difficult-to-get-right/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/articles/one-of-the-most-basic-requirements-for-success-is-also-one-of-the-most-difficult-to-get-right.html</id>
+        <link href="https://unixsheikh.com/articles/one-of-the-most-basic-requirements-for-success-is-also-one-of-the-most-difficult-to-get-right.html"/>
+        <title>One of the most basic requirements for success is also one of the most difficult to get right</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2023-05-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-one-of-the-most-basic-requirements-for-success-is-also-one-of-the-most-difficult-to-get-right/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>the tiny corp raised $5.1M</title>
         <author>
             <name>geohot</name>
@@ -9522,30 +9738,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-building-a-static-graphviz-for-macos/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Golden Age of Consumer Software</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-    <published>2023-04-11T19:23:00+00:00</published>
-    <updated>2023-04-11T19:23:00+00:00</updated>
-    <link href="https://news.cryptic.io/john-whiles-golden-age-of-consumer-software/"/>
-    <link rel="alternate" href="https://news.cryptic.io/john-whiles-golden-age-of-consumer-software/" type="text/html"/>
-      <source>
-        <id>https://johnwhiles.com/posts/golden-age</id>
-        <link href="https://johnwhiles.com/posts/golden-age"/>
-        <title>Golden Age of Consumer Software</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-        <updated>2023-04-11T19:23:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/john-whiles-golden-age-of-consumer-software/</id>
     <content type="html">
         
     </content>
@@ -10871,6 +11063,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Two simple ways to version control your MariaDB schema changes</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2023-01-21T00:00:00+00:00</published>
+    <updated>2023-01-21T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-two-simple-ways-to-version-control-your-mariadb-schema-changes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-two-simple-ways-to-version-control-your-mariadb-schema-changes/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/tutorials/two-simple-ways-to-version-control-your-mariadb-schema-changes.html</id>
+        <link href="https://unixsheikh.com/tutorials/two-simple-ways-to-version-control-your-mariadb-schema-changes.html"/>
+        <title>Two simple ways to version control your MariaDB schema changes</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2023-01-21T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-two-simple-ways-to-version-control-your-mariadb-schema-changes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Digital Bricolage &amp; Web Foraging</title>
         <author>
             <name>Tom Critchlow</name>
@@ -11922,6 +12138,30 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-the-indieweb-for-everyone/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>When you use open source software you are not entitled to anything!</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2022-11-10T00:00:00+00:00</published>
+    <updated>2022-11-10T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-when-you-use-open-source-software-you-are-not-entitled-to-anything/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-when-you-use-open-source-software-you-are-not-entitled-to-anything/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/articles/when-you-use-open-source-software-you-are-not-entitled-to-anything.html</id>
+        <link href="https://unixsheikh.com/articles/when-you-use-open-source-software-you-are-not-entitled-to-anything.html"/>
+        <title>When you use open source software you are not entitled to anything!</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2022-11-10T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-when-you-use-open-source-software-you-are-not-entitled-to-anything/</id>
     <content type="html">
         
     </content>
