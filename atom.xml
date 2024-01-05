@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-05T00:00:00+00:00</updated>
+  <updated>2024-01-05T04:39:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Now Blocking 56,037,235 IP Addresses, and Counting...</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2024-01-05T04:39:00+00:00</published>
+    <updated>2024-01-05T04:39:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-now-blocking-56037235-ip-addresses-and-counting/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-now-blocking-56037235-ip-addresses-and-counting/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/now-blocking.html</id>
+        <link href="https://cheapskatesguide.org/articles/now-blocking.html"/>
+        <title>Now Blocking 56,037,235 IP Addresses, and Counting...</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2024-01-05T04:39:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-now-blocking-56037235-ip-addresses-and-counting/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>2023 year in review</title>
         <author>
@@ -559,30 +583,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>C++ time_point wackiness across platforms</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-01-01T21:58:38+00:00</published>
-    <updated>2024-01-01T21:58:38+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/01/01/chrono/</id>
-        <link href="https://rachelbythebay.com/w/2024/01/01/chrono/"/>
-        <title>C++ time_point wackiness across platforms</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-01-01T21:58:38+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Resolutions are dumb</title>
         <author>
             <name>Robin Rendle</name>
@@ -1015,6 +1015,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>How bad are search results? Let&#x27;s compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2023-12-30T00:00:00+00:00</published>
+    <updated>2023-12-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-how-bad-are-search-results-lets-compare-google-bing-marginalia-kagi-mwmbl-and-chatgpt/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-how-bad-are-search-results-lets-compare-google-bing-marginalia-kagi-mwmbl-and-chatgpt/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/seo-spam/</id>
+        <link href="https://danluu.com/seo-spam/"/>
+        <title>How bad are search results? Let&#x27;s compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2023-12-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-how-bad-are-search-results-lets-compare-google-bing-marginalia-kagi-mwmbl-and-chatgpt/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>BlueSuburbia out now on Steam Early Access!</title>
         <author>
             <name>Nathalie Lawhead</name>
@@ -1303,30 +1327,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A year-end wrapup of responses to reader feedback</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-12-26T01:13:29+00:00</published>
-    <updated>2023-12-26T01:13:29+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/12/25/feedback/</id>
-        <link href="https://rachelbythebay.com/w/2023/12/25/feedback/"/>
-        <title>A year-end wrapup of responses to reader feedback</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-12-26T01:13:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Why Prusa is floundering, and how you can avoid their fate</title>
         <author>
             <name>Drew DeVault</name>
@@ -1490,6 +1490,30 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-micropelago-in-2023/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Slow Migration Away from Big Social Media May Be the Beginning of Something Much Better.</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2023-12-22T12:39:00+00:00</published>
+    <updated>2023-12-22T12:39:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-the-slow-migration-away-from-big-social-media-may-be-the-beginning-of-something-much-better/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-slow-migration-away-from-big-social-media-may-be-the-beginning-of-something-much-better/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/migration-from-big-social-media.html</id>
+        <link href="https://cheapskatesguide.org/articles/migration-from-big-social-media.html"/>
+        <title>The Slow Migration Away from Big Social Media May Be the Beginning of Something Much Better.</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2023-12-22T12:39:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-the-slow-migration-away-from-big-social-media-may-be-the-beginning-of-something-much-better/</id>
     <content type="html">
         
     </content>
@@ -1826,30 +1850,6 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-towards-a-folk-computer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Smashing the stack for pain and misery</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-12-18T22:39:06+00:00</published>
-    <updated>2023-12-18T22:39:06+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/12/18/boom/</id>
-        <link href="https://rachelbythebay.com/w/2023/12/18/boom/"/>
-        <title>Smashing the stack for pain and misery</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-12-18T22:39:06+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/</id>
     <content type="html">
         
     </content>
@@ -2311,30 +2311,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Slow Migration Away from Big Social Media May Be the Beginning of Something Much Better.</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-12-12T12:39:00+00:00</published>
-    <updated>2023-12-12T12:39:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-the-slow-migration-away-from-big-social-media-may-be-the-beginning-of-something-much-better/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-slow-migration-away-from-big-social-media-may-be-the-beginning-of-something-much-better/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/migration-from-big-social-media.html</id>
-        <link href="https://cheapskatesguide.org/articles/migration-from-big-social-media.html"/>
-        <title>The Slow Migration Away from Big Social Media May Be the Beginning of Something Much Better.</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-12-12T12:39:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-the-slow-migration-away-from-big-social-media-may-be-the-beginning-of-something-much-better/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>walk and talk</title>
         <author>
             <name>Derek Sivers</name>
@@ -2546,30 +2522,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-feeling-of-powerlessness-of-mine-towards-climate-change/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Patching around a C++ crash with a little bit of Lua</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-12-07T19:24:57+00:00</published>
-    <updated>2023-12-07T19:24:57+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/12/07/header/</id>
-        <link href="https://rachelbythebay.com/w/2023/12/07/header/"/>
-        <title>Patching around a C++ crash with a little bit of Lua</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-12-07T19:24:57+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/</id>
     <content type="html">
         
     </content>
@@ -3083,30 +3035,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>clang now makes binaries an original Pi B+ can&#x27;t run</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-12-01T03:21:46+00:00</published>
-    <updated>2023-12-01T03:21:46+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/30/armv6/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/30/armv6/"/>
-        <title>clang now makes binaries an original Pi B+ can&#x27;t run</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-12-01T03:21:46+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Making Decisions: RFC processes are a poor fit for most organizations</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -3294,30 +3222,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-stop-using-aigenerated-images/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>That time Verisign typo-squatted all of .com and .net</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-28T02:57:50+00:00</published>
-    <updated>2023-11-28T02:57:50+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/27/sitefinder/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/27/sitefinder/"/>
-        <title>That time Verisign typo-squatted all of .com and .net</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-28T02:57:50+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/</id>
     <content type="html">
         
     </content>
@@ -3731,30 +3635,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Upgrading to FreeBSD 14 - how to fix a broken BIOS bootcode</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2023-11-22T00:00:00+00:00</published>
-    <updated>2023-11-22T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-upgrading-to-freebsd-14-how-to-fix-a-broken-bios-bootcode/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-upgrading-to-freebsd-14-how-to-fix-a-broken-bios-bootcode/" type="text/html"/>
-      <source>
-        <id>https://unixsheikh.com/tutorials/upgrading-to-freebsd-14-how-to-fix-a-broken-bios-bootcode.html</id>
-        <link href="https://unixsheikh.com/tutorials/upgrading-to-freebsd-14-how-to-fix-a-broken-bios-bootcode.html"/>
-        <title>Upgrading to FreeBSD 14 - how to fix a broken BIOS bootcode</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2023-11-22T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-upgrading-to-freebsd-14-how-to-fix-a-broken-bios-bootcode/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Climate Optimism</title>
         <author>
             <name>matthiasott</name>
@@ -3990,30 +3870,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-imitation-learning/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>My rants about TP-Link Omada networking products</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-18T01:45:27+00:00</published>
-    <updated>2023-11-18T01:45:27+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/17/omada/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/17/omada/"/>
-        <title>My rants about TP-Link Omada networking products</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-18T01:45:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/</id>
     <content type="html">
         
     </content>
@@ -4619,30 +4475,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Are Passkeys really the beginning of the end of passwords? I certainly hope not!</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2023-11-09T00:00:00+00:00</published>
-    <updated>2023-11-09T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not/" type="text/html"/>
-      <source>
-        <id>https://unixsheikh.com/articles/are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not.html</id>
-        <link href="https://unixsheikh.com/articles/are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not.html"/>
-        <title>Are Passkeys really the beginning of the end of passwords? I certainly hope not!</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2023-11-09T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Let us compete on trustworthiness and an Arcticons special release</title>
         <author>
             <name>Various</name>
@@ -4734,54 +4566,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-wolvic-store-experiment/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-07T21:47:28+00:00</published>
-    <updated>2023-11-07T21:47:28+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/07/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/07/wpa3/"/>
-        <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-07T21:47:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Still no love for WPA3 on the Raspberry Pi 5</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-07T21:44:38+00:00</published>
-    <updated>2023-11-07T21:44:38+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/06/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/06/wpa3/"/>
-        <title>Still no love for WPA3 on the Raspberry Pi 5</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-07T21:44:38+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/</id>
     <content type="html">
         
     </content>
@@ -4926,30 +4710,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-disrupt-the-government/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The proper design process in web development</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2023-11-04T00:00:00+00:00</published>
-    <updated>2023-11-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-the-proper-design-process-in-web-development/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-the-proper-design-process-in-web-development/" type="text/html"/>
-      <source>
-        <id>https://unixsheikh.com/articles/the-proper-design-process-in-web-development.html</id>
-        <link href="https://unixsheikh.com/articles/the-proper-design-process-in-web-development.html"/>
-        <title>The proper design process in web development</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2023-11-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-the-proper-design-process-in-web-development/</id>
     <content type="html">
         
     </content>
@@ -5238,30 +4998,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-no-borders/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The main differences between OpenBSD, FreeBSD, NetBSD and DragonFly BSD</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2023-10-30T00:00:00+00:00</published>
-    <updated>2023-10-30T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-the-main-differences-between-openbsd-freebsd-netbsd-and-dragonfly-bsd/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-the-main-differences-between-openbsd-freebsd-netbsd-and-dragonfly-bsd/" type="text/html"/>
-      <source>
-        <id>https://unixsheikh.com/articles/the-main-differences-between-openbsd-freebsd-netbsd-and-dragonflybsd.html</id>
-        <link href="https://unixsheikh.com/articles/the-main-differences-between-openbsd-freebsd-netbsd-and-dragonflybsd.html"/>
-        <title>The main differences between OpenBSD, FreeBSD, NetBSD and DragonFly BSD</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2023-10-30T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-the-main-differences-between-openbsd-freebsd-netbsd-and-dragonfly-bsd/</id>
     <content type="html">
         
     </content>
@@ -5579,30 +5315,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>We have used too many levels of abstractions and now the future looks bleak</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2023-10-21T00:00:00+00:00</published>
-    <updated>2023-10-21T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak/" type="text/html"/>
-      <source>
-        <id>https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html</id>
-        <link href="https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html"/>
-        <title>We have used too many levels of abstractions and now the future looks bleak</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2023-10-21T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>recover lost text by coredumping firefox</title>
         <author>
             <name>Jes Olson</name>
@@ -5670,54 +5382,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-teaching-tax-in-school/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>First Impressions of IPFire&#x27;s Firewall Software</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-10-17T13:47:00+00:00</published>
-    <updated>2023-10-17T13:47:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-first-impressions-of-ipfires-firewall-software/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-first-impressions-of-ipfires-firewall-software/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/ipfire.html</id>
-        <link href="https://cheapskatesguide.org/articles/ipfire.html"/>
-        <title>First Impressions of IPFire&#x27;s Firewall Software</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-10-17T13:47:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-first-impressions-of-ipfires-firewall-software/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>getaddrinfo() on glibc calls getenv(), oh boy</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-17T00:00:07+00:00</published>
-    <updated>2023-10-17T00:00:07+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/16/env/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/16/env/"/>
-        <title>getaddrinfo() on glibc calls getenv(), oh boy</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-17T00:00:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/</id>
     <content type="html">
         
     </content>
@@ -6639,30 +6303,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Bethesda&#x27;s Starfield is a disgrace to game development and a slap in the face to gamers</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2023-09-12T00:00:00+00:00</published>
-    <updated>2023-09-12T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-bethesdas-starfield-is-a-disgrace-to-game-development-and-a-slap-in-the-face-to-gamers/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-bethesdas-starfield-is-a-disgrace-to-game-development-and-a-slap-in-the-face-to-gamers/" type="text/html"/>
-      <source>
-        <id>https://unixsheikh.com/articles/bethesdas-starfield-is-a-disgrace-to-game-development-and-a-slap-in-the-face-to-gamers.html</id>
-        <link href="https://unixsheikh.com/articles/bethesdas-starfield-is-a-disgrace-to-game-development-and-a-slap-in-the-face-to-gamers.html"/>
-        <title>Bethesda&#x27;s Starfield is a disgrace to game development and a slap in the face to gamers</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2023-09-12T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-bethesdas-starfield-is-a-disgrace-to-game-development-and-a-slap-in-the-face-to-gamers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>My Favorite Mac Apps in 2023</title>
         <author>
             <name>matthiasott</name>
@@ -6802,30 +6442,6 @@
       </source>
 
     <id>https://news.cryptic.io/clayton-craft-upgrading-steam-deck-storage-the-lazy-way/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Tips on how to structure your home directory</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2023-09-04T00:00:00+00:00</published>
-    <updated>2023-09-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-tips-on-how-to-structure-your-home-directory/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-tips-on-how-to-structure-your-home-directory/" type="text/html"/>
-      <source>
-        <id>https://unixsheikh.com/tutorials/tips-on-how-to-structure-your-home-directory.html</id>
-        <link href="https://unixsheikh.com/tutorials/tips-on-how-to-structure-your-home-directory.html"/>
-        <title>Tips on how to structure your home directory</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2023-09-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-tips-on-how-to-structure-your-home-directory/</id>
     <content type="html">
         
     </content>
@@ -9215,30 +8831,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>One of the most basic requirements for success is also one of the most difficult to get right</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2023-05-25T00:00:00+00:00</published>
-    <updated>2023-05-25T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-one-of-the-most-basic-requirements-for-success-is-also-one-of-the-most-difficult-to-get-right/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-one-of-the-most-basic-requirements-for-success-is-also-one-of-the-most-difficult-to-get-right/" type="text/html"/>
-      <source>
-        <id>https://unixsheikh.com/articles/one-of-the-most-basic-requirements-for-success-is-also-one-of-the-most-difficult-to-get-right.html</id>
-        <link href="https://unixsheikh.com/articles/one-of-the-most-basic-requirements-for-success-is-also-one-of-the-most-difficult-to-get-right.html"/>
-        <title>One of the most basic requirements for success is also one of the most difficult to get right</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2023-05-25T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-one-of-the-most-basic-requirements-for-success-is-also-one-of-the-most-difficult-to-get-right/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>the tiny corp raised $5.1M</title>
         <author>
             <name>geohot</name>
@@ -11279,30 +10871,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Two simple ways to version control your MariaDB schema changes</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2023-01-21T00:00:00+00:00</published>
-    <updated>2023-01-21T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-two-simple-ways-to-version-control-your-mariadb-schema-changes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-two-simple-ways-to-version-control-your-mariadb-schema-changes/" type="text/html"/>
-      <source>
-        <id>https://unixsheikh.com/tutorials/two-simple-ways-to-version-control-your-mariadb-schema-changes.html</id>
-        <link href="https://unixsheikh.com/tutorials/two-simple-ways-to-version-control-your-mariadb-schema-changes.html"/>
-        <title>Two simple ways to version control your MariaDB schema changes</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2023-01-21T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-two-simple-ways-to-version-control-your-mariadb-schema-changes/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Digital Bricolage &amp; Web Foraging</title>
         <author>
             <name>Tom Critchlow</name>
@@ -12354,30 +11922,6 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-the-indieweb-for-everyone/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>When you use open source software you are not entitled to anything!</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2022-11-10T00:00:00+00:00</published>
-    <updated>2022-11-10T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-when-you-use-open-source-software-you-are-not-entitled-to-anything/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-when-you-use-open-source-software-you-are-not-entitled-to-anything/" type="text/html"/>
-      <source>
-        <id>https://unixsheikh.com/articles/when-you-use-open-source-software-you-are-not-entitled-to-anything.html</id>
-        <link href="https://unixsheikh.com/articles/when-you-use-open-source-software-you-are-not-entitled-to-anything.html"/>
-        <title>When you use open source software you are not entitled to anything!</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2022-11-10T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-when-you-use-open-source-software-you-are-not-entitled-to-anything/</id>
     <content type="html">
         
     </content>
@@ -15694,30 +15238,6 @@
       </source>
 
     <id>https://news.cryptic.io/roy-van-rijn-log4shell-leak4j/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Some thoughts on writing</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2021-12-13T00:00:00+00:00</published>
-    <updated>2021-12-13T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-some-thoughts-on-writing/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-some-thoughts-on-writing/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/writing-non-advice/</id>
-        <link href="https://danluu.com/writing-non-advice/"/>
-        <title>Some thoughts on writing</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2021-12-13T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-some-thoughts-on-writing/</id>
     <content type="html">
         
     </content>
