@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-07T00:00:00+00:00</updated>
+  <updated>2024-01-07T14:34:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Tour De-Noise</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2024-01-07T14:34:00+00:00</published>
+    <updated>2024-01-07T14:34:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-tour-denoise/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-tour-denoise/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/tour-de-noise</id>
+        <link href="https://matthiasott.com/notes/tour-de-noise"/>
+        <title>Tour De-Noise</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2024-01-07T14:34:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-tour-denoise/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>First month of nothin&#x27; but postmarketOS</title>
         <author>
@@ -7594,30 +7618,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-igalia-midseason-power-rankings/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Good Riddance, GPTBot</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-08-09T21:14:00+00:00</published>
-    <updated>2023-08-09T21:14:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-good-riddance-gptbot/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-good-riddance-gptbot/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/good-riddance-gptbot</id>
-        <link href="https://matthiasott.com/notes/good-riddance-gptbot"/>
-        <title>Good Riddance, GPTBot</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-08-09T21:14:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-good-riddance-gptbot/</id>
     <content type="html">
         
     </content>
