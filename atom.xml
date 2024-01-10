@@ -271,30 +271,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>First month of nothin&#x27; but postmarketOS</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2024-01-07T00:00:00+00:00</published>
-    <updated>2024-01-07T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-first-month-of-nothin-but-postmarketos/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-first-month-of-nothin-but-postmarketos/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/one-month-pmos/</id>
-        <link href="https://blog.craftyguy.net/one-month-pmos/"/>
-        <title>First month of nothin&#x27; but postmarketOS</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2024-01-07T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-first-month-of-nothin-but-postmarketos/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>A moment with a great book</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -1015,30 +991,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>C++ time_point wackiness across platforms</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-01-01T21:58:38+00:00</published>
-    <updated>2024-01-01T21:58:38+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/01/01/chrono/</id>
-        <link href="https://rachelbythebay.com/w/2024/01/01/chrono/"/>
-        <title>C++ time_point wackiness across platforms</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-01-01T21:58:38+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Resolutions are dumb</title>
         <author>
             <name>Robin Rendle</name>
@@ -1735,30 +1687,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A year-end wrapup of responses to reader feedback</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-12-26T01:13:29+00:00</published>
-    <updated>2023-12-26T01:13:29+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/12/25/feedback/</id>
-        <link href="https://rachelbythebay.com/w/2023/12/25/feedback/"/>
-        <title>A year-end wrapup of responses to reader feedback</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-12-26T01:13:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Why Prusa is floundering, and how you can avoid their fate</title>
         <author>
             <name>Drew DeVault</name>
@@ -2282,30 +2210,6 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-towards-a-folk-computer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Smashing the stack for pain and misery</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-12-18T22:39:06+00:00</published>
-    <updated>2023-12-18T22:39:06+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/12/18/boom/</id>
-        <link href="https://rachelbythebay.com/w/2023/12/18/boom/"/>
-        <title>Smashing the stack for pain and misery</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-12-18T22:39:06+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/</id>
     <content type="html">
         
     </content>
@@ -2935,30 +2839,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Patching around a C++ crash with a little bit of Lua</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-12-07T19:24:57+00:00</published>
-    <updated>2023-12-07T19:24:57+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/12/07/header/</id>
-        <link href="https://rachelbythebay.com/w/2023/12/07/header/"/>
-        <title>Patching around a C++ crash with a little bit of Lua</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-12-07T19:24:57+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Raspberry Pi 5 and RP1 X-ray scans</title>
         <author>
             <name>Jeff Geerling</name>
@@ -3467,30 +3347,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>clang now makes binaries an original Pi B+ can&#x27;t run</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-12-01T03:21:46+00:00</published>
-    <updated>2023-12-01T03:21:46+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/30/armv6/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/30/armv6/"/>
-        <title>clang now makes binaries an original Pi B+ can&#x27;t run</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-12-01T03:21:46+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Making Decisions: RFC processes are a poor fit for most organizations</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -3678,30 +3534,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-stop-using-aigenerated-images/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>That time Verisign typo-squatted all of .com and .net</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-28T02:57:50+00:00</published>
-    <updated>2023-11-28T02:57:50+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/27/sitefinder/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/27/sitefinder/"/>
-        <title>That time Verisign typo-squatted all of .com and .net</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-28T02:57:50+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/</id>
     <content type="html">
         
     </content>
@@ -4350,30 +4182,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-imitation-learning/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>My rants about TP-Link Omada networking products</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-18T01:45:27+00:00</published>
-    <updated>2023-11-18T01:45:27+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/17/omada/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/17/omada/"/>
-        <title>My rants about TP-Link Omada networking products</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-18T01:45:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/</id>
     <content type="html">
         
     </content>
@@ -5046,54 +4854,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-wolvic-store-experiment/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-07T21:47:28+00:00</published>
-    <updated>2023-11-07T21:47:28+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/07/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/07/wpa3/"/>
-        <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-07T21:47:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Still no love for WPA3 on the Raspberry Pi 5</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-07T21:44:38+00:00</published>
-    <updated>2023-11-07T21:44:38+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/06/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/06/wpa3/"/>
-        <title>Still no love for WPA3 on the Raspberry Pi 5</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-07T21:44:38+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/</id>
     <content type="html">
         
     </content>
@@ -5958,30 +5718,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-teaching-tax-in-school/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>getaddrinfo() on glibc calls getenv(), oh boy</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-17T00:00:07+00:00</published>
-    <updated>2023-10-17T00:00:07+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/16/env/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/16/env/"/>
-        <title>getaddrinfo() on glibc calls getenv(), oh boy</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-17T00:00:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/</id>
     <content type="html">
         
     </content>
@@ -6994,30 +6730,6 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-ikeapowered-homelab-on-a-wall/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Upgrading Steam Deck storage the lazy way</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2023-09-04T00:00:00+00:00</published>
-    <updated>2023-09-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-upgrading-steam-deck-storage-the-lazy-way/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-upgrading-steam-deck-storage-the-lazy-way/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/steamdeck-nvme-upgrade/</id>
-        <link href="https://blog.craftyguy.net/steamdeck-nvme-upgrade/"/>
-        <title>Upgrading Steam Deck storage the lazy way</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2023-09-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-upgrading-steam-deck-storage-the-lazy-way/</id>
     <content type="html">
         
     </content>
@@ -10079,30 +9791,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Wait, I can manage DNS config without losing hair??</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2023-04-11T00:00:00+00:00</published>
-    <updated>2023-04-11T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-wait-i-can-manage-dns-config-without-losing-hair/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-wait-i-can-manage-dns-config-without-losing-hair/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/luadns/</id>
-        <link href="https://blog.craftyguy.net/luadns/"/>
-        <title>Wait, I can manage DNS config without losing hair??</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2023-04-11T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-wait-i-can-manage-dns-config-without-losing-hair/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Worry-free broadcasts</title>
         <author>
             <name>CRISTÓBAL SCIUTTO</name>
@@ -10583,30 +10271,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Presence detection, without compromising privacy</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2023-03-12T00:00:00+00:00</published>
-    <updated>2023-03-12T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-presence-detection-without-compromising-privacy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-presence-detection-without-compromising-privacy/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/ha-presence-privacy/</id>
-        <link href="https://blog.craftyguy.net/ha-presence-privacy/"/>
-        <title>Presence detection, without compromising privacy</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2023-03-12T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-presence-detection-without-compromising-privacy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Lightning Prisms</title>
         <author>
             <name>Gigi</name>
@@ -11063,30 +10727,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>On meetings...</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2023-02-15T00:00:00+00:00</published>
-    <updated>2023-02-15T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-on-meetings/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-on-meetings/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/on-meetings/</id>
-        <link href="https://blog.craftyguy.net/on-meetings/"/>
-        <title>On meetings...</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2023-02-15T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-on-meetings/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How employees can get burned in acquisitions</title>
         <author>
             <name>Charlie Andrews</name>
@@ -11130,30 +10770,6 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-writing-riffs-relationships/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>FOSDEM 2023!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2023-02-09T00:00:00+00:00</published>
-    <updated>2023-02-09T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-fosdem-2023/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-fosdem-2023/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/fosdem23/</id>
-        <link href="https://blog.craftyguy.net/fosdem23/"/>
-        <title>FOSDEM 2023!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2023-02-09T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-fosdem-2023/</id>
     <content type="html">
         
     </content>
@@ -12671,30 +12287,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>8 cubic feet</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2022-09-29T00:00:00+00:00</published>
-    <updated>2022-09-29T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-8-cubic-feet/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-8-cubic-feet/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/8-cu-ft/</id>
-        <link href="https://blog.craftyguy.net/8-cu-ft/"/>
-        <title>8 cubic feet</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2022-09-29T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-8-cubic-feet/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The appeal of small computers</title>
         <author>
             <name>Andre Alves Garzia</name>
@@ -13506,30 +13098,6 @@
       </source>
 
     <id>https://news.cryptic.io/roy-van-rijn-solving-the-daily-calendar-puzzle/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Deleting stuff is fun and helpful!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2022-07-06T00:00:00+00:00</published>
-    <updated>2022-07-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-deleting-stuff-is-fun-and-helpful/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-deleting-stuff-is-fun-and-helpful/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/delete-stuff/</id>
-        <link href="https://blog.craftyguy.net/delete-stuff/"/>
-        <title>Deleting stuff is fun and helpful!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2022-07-06T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-deleting-stuff-is-fun-and-helpful/</id>
     <content type="html">
         
     </content>
@@ -14399,30 +13967,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>-h --help -help help --? -? ????</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2022-04-10T00:00:00+00:00</published>
-    <updated>2022-04-10T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-h-help-help-help/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-h-help-help-help/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/cmdline-help/</id>
-        <link href="https://blog.craftyguy.net/cmdline-help/"/>
-        <title>-h --help -help help --? -? ????</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2022-04-10T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-h-help-help-help/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>We need platform regulation</title>
         <author>
             <name>Douglas Vaghetti</name>
@@ -14562,30 +14106,6 @@
       </source>
 
     <id>https://news.cryptic.io/adam-pritchard-forwarded-header-sabotage/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Never miss completion of a long-running command again!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-    <published>2022-03-28T00:00:00+00:00</published>
-    <updated>2022-03-28T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/clayton-craft-never-miss-completion-of-a-longrunning-command-again/"/>
-    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-never-miss-completion-of-a-longrunning-command-again/" type="text/html"/>
-      <source>
-        <id>https://blog.craftyguy.net/alert-done/</id>
-        <link href="https://blog.craftyguy.net/alert-done/"/>
-        <title>Never miss completion of a long-running command again!</title>
-        <author>
-            <name>Clayton Craft</name>
-        </author>
-        <updated>2022-03-28T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/clayton-craft-never-miss-completion-of-a-longrunning-command-again/</id>
     <content type="html">
         
     </content>
