@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-09T19:00:00+00:00</updated>
+  <updated>2024-01-10T00:28:42+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>All Things Being Equalized</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2024-01-10T00:28:42+00:00</published>
+    <updated>2024-01-10T00:28:42+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-all-things-being-equalized/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-all-things-being-equalized/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/all-things-being-equalized</id>
+        <link href="https://matthiasott.com/notes/all-things-being-equalized"/>
+        <title>All Things Being Equalized</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2024-01-10T00:28:42+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-all-things-being-equalized/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>It’s Humans All the Way Down</title>
         <author>
@@ -6946,30 +6970,6 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-out-of-the-box/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>WOFF Has Left the Building</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-09-07T08:16:00+00:00</published>
-    <updated>2023-09-07T08:16:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-woff-has-left-the-building/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-woff-has-left-the-building/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/woff-has-left-the-building</id>
-        <link href="https://matthiasott.com/notes/woff-has-left-the-building"/>
-        <title>WOFF Has Left the Building</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-09-07T08:16:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-woff-has-left-the-building/</id>
     <content type="html">
         
     </content>
