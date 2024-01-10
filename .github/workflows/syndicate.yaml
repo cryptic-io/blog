@@ -47,11 +47,13 @@ jobs:
       #  nix build produces a symlink to the result in nix-store
       #  but web3.storage action expects this to not be a symlink. Since it runs in a separate docker container.
       #  Not sure if it's possible to mount the nix path as a volume in the docker container.
-      - run: mkdir result-for-web3
-      - run: cp -r result/* result-for-web3
-      - name: Push to web3.storage
-        uses: web3-storage/add-to-web3@v1
-        id: web3
-        with:
-          web3_token: ${{ secrets.WEB3_STORAGE_TOKEN }}
-          path_to_add: ./result-for-web3
+      #
+      # 2024-01-10: Error: This API feature has been sunset, and is no longer available. To continue uploading, use the new web3.storage API: https://web3.storage/docs.
+      #- run: mkdir result-for-web3
+      #- run: cp -r result/* result-for-web3
+      #- name: Push to web3.storage
+      #  uses: web3-storage/add-to-web3@v1
+      #  id: web3
+      #  with:
+      #    web3_token: ${{ secrets.WEB3_STORAGE_TOKEN }}
+      #    path_to_add: ./result-for-web3
