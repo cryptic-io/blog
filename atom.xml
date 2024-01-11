@@ -151,6 +151,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Like This One</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-01-10T00:00:00+00:00</published>
+    <updated>2024-01-10T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-like-this-one/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-like-this-one/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2879/</id>
+        <link href="https://xkcd.com/2879/"/>
+        <title>Like This One</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-01-10T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-like-this-one/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Narrative Aircover &amp; Compound Narrative</title>
         <author>
             <name>Tom Critchlow</name>
@@ -1322,30 +1346,6 @@
       </source>
 
     <id>https://news.cryptic.io/nutcroft-on-the-essence-of-decisions-and-hope/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>2024</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-01-01T00:00:00+00:00</published>
-    <updated>2024-01-01T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-2024/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-2024/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2875/</id>
-        <link href="https://xkcd.com/2875/"/>
-        <title>2024</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-01-01T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-2024/</id>
     <content type="html">
         
     </content>
