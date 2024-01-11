@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-10T19:00:00+00:00</updated>
+  <updated>2024-01-11T06:00:40+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>2023 in Numbers</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2024-01-11T06:00:40+00:00</published>
+    <updated>2024-01-11T06:00:40+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-2023-in-numbers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-2023-in-numbers/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/posts/2024/numbers/</id>
+        <link href="http://bastian.rieck.me/blog/posts/2024/numbers/"/>
+        <title>2023 in Numbers</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2024-01-11T06:00:40+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-2023-in-numbers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Idioms as Code</title>
         <author>
@@ -8850,30 +8874,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-resp-as-a-general-purpose-serialization-protocol/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to Write a Scientific Paper</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-    <published>2023-05-27T16:00:00+00:00</published>
-    <updated>2023-05-27T16:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-how-to-write-a-scientific-paper/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-how-to-write-a-scientific-paper/" type="text/html"/>
-      <source>
-        <id>http://bastian.rieck.me/blog/posts/2023/writing/</id>
-        <link href="http://bastian.rieck.me/blog/posts/2023/writing/"/>
-        <title>How to Write a Scientific Paper</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-        <updated>2023-05-27T16:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bastian-rieck-how-to-write-a-scientific-paper/</id>
     <content type="html">
         
     </content>
