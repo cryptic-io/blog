@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-12T19:00:00+00:00</updated>
+  <updated>2024-01-13T18:45:33+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Web component gotcha: constructor vs connectedCallback</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2024-01-13T18:45:33+00:00</published>
+    <updated>2024-01-13T18:45:33+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-web-component-gotcha-constructor-vs-connectedcallback/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-web-component-gotcha-constructor-vs-connectedcallback/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2024/01/13/web-component-gotcha-constructor-vs-connectedcallback/</id>
+        <link href="https://nolanlawson.com/2024/01/13/web-component-gotcha-constructor-vs-connectedcallback/"/>
+        <title>Web component gotcha: constructor vs connectedCallback</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2024-01-13T18:45:33+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-web-component-gotcha-constructor-vs-connectedcallback/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>“The macOS App Icon Book” IRL</title>
         <author>
@@ -11778,30 +11802,6 @@
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-the-goblin-den/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Shadow DOM and accessibility: the trouble with ARIA</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-    <published>2022-11-28T15:32:42+00:00</published>
-    <updated>2022-11-28T15:32:42+00:00</updated>
-    <link href="https://news.cryptic.io/nolan-lawson-shadow-dom-and-accessibility-the-trouble-with-aria/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-shadow-dom-and-accessibility-the-trouble-with-aria/" type="text/html"/>
-      <source>
-        <id>https://nolanlawson.com/2022/11/28/shadow-dom-and-accessibility-the-trouble-with-aria/</id>
-        <link href="https://nolanlawson.com/2022/11/28/shadow-dom-and-accessibility-the-trouble-with-aria/"/>
-        <title>Shadow DOM and accessibility: the trouble with ARIA</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-        <updated>2022-11-28T15:32:42+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nolan-lawson-shadow-dom-and-accessibility-the-trouble-with-aria/</id>
     <content type="html">
         
     </content>
