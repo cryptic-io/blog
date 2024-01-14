@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-13T18:45:33+00:00</updated>
+  <updated>2024-01-14T18:00:57+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Raspberry Pi 5 shortages shouldn&#x27;t last long</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-01-14T18:00:57+00:00</published>
+    <updated>2024-01-14T18:00:57+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-raspberry-pi-5-shortages-shouldnt-last-long/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-raspberry-pi-5-shortages-shouldnt-last-long/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/raspberry-pi-5-shortages-shouldnt-last-long</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/raspberry-pi-5-shortages-shouldnt-last-long"/>
+        <title>Raspberry Pi 5 shortages shouldn&#x27;t last long</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-01-14T18:00:57+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-raspberry-pi-5-shortages-shouldnt-last-long/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Web component gotcha: constructor vs connectedCallback</title>
         <author>
@@ -4278,30 +4302,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-htgwa-how-to-completely-erase-a-hard-drive-in-linux/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>So you want to make a Raspberry Pi killer...</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2023-11-22T15:02:59+00:00</published>
-    <updated>2023-11-22T15:02:59+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-so-you-want-to-make-a-raspberry-pi-killer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-so-you-want-to-make-a-raspberry-pi-killer/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2023/so-you-want-make-raspberry-pi-killer</id>
-        <link href="https://www.jeffgeerling.com/blog/2023/so-you-want-make-raspberry-pi-killer"/>
-        <title>So you want to make a Raspberry Pi killer...</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2023-11-22T15:02:59+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-so-you-want-to-make-a-raspberry-pi-killer/</id>
     <content type="html">
         
     </content>
