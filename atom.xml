@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-16T22:39:11+00:00</updated>
+  <updated>2024-01-17T02:16:28+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Formatting disks and clearing RAID config on Power systems with iprutils</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2024-01-17T02:16:28+00:00</published>
+    <updated>2024-01-17T02:16:28+00:00</updated>
+    <link href="https://news.cryptic.io/various-formatting-disks-and-clearing-raid-config-on-power-systems-with-iprutils/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-formatting-disks-and-clearing-raid-config-on-power-systems-with-iprutils/" type="text/html"/>
+      <source>
+        <id>https://sporks.space/2024/01/17/formatting-disks-and-clearing-raid-config-on-power-systems-with-iprutils/</id>
+        <link href="https://sporks.space/2024/01/17/formatting-disks-and-clearing-raid-config-on-power-systems-with-iprutils/"/>
+        <title>Formatting disks and clearing RAID config on Power systems with iprutils</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2024-01-17T02:16:28+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-formatting-disks-and-clearing-raid-config-on-power-systems-with-iprutils/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Netbooting Alpine Linux on a PowerVM system</title>
         <author>
@@ -10434,30 +10458,6 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-de-bermuda-e-chinelo/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Fixing files marked as stuck as partially transferred in Finder</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-03-13T06:21:18+00:00</published>
-    <updated>2023-03-13T06:21:18+00:00</updated>
-    <link href="https://news.cryptic.io/various-fixing-files-marked-as-stuck-as-partially-transferred-in-finder/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-fixing-files-marked-as-stuck-as-partially-transferred-in-finder/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2023/03/13/fixing-files-marked-as-stuck-as-partially-transferred-in-finder/</id>
-        <link href="https://sporks.space/2023/03/13/fixing-files-marked-as-stuck-as-partially-transferred-in-finder/"/>
-        <title>Fixing files marked as stuck as partially transferred in Finder</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-03-13T06:21:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-fixing-files-marked-as-stuck-as-partially-transferred-in-finder/</id>
     <content type="html">
         
     </content>
