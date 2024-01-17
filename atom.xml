@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-17T07:26:31.146+00:00</updated>
+  <updated>2024-01-17T16:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Unusual basis types in programming languages</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-01-17T16:00:00+00:00</published>
+    <updated>2024-01-17T16:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-unusual-basis-types-in-programming-languages/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-unusual-basis-types-in-programming-languages/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/unusual-basis-types-in-programming-languages/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/unusual-basis-types-in-programming-languages/"/>
+        <title>Unusual basis types in programming languages</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-01-17T16:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-unusual-basis-types-in-programming-languages/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>How I learn (making games for the Playdate)</title>
         <author>
@@ -170,30 +194,6 @@
       </source>
 
     <id>https://news.cryptic.io/randall-munroe-bug-thread/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Today I learned that bash has hashmaps</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-01-15T00:00:00+00:00</published>
-    <updated>2024-01-15T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-today-i-learned-that-bash-has-hashmaps/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-today-i-learned-that-bash-has-hashmaps/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/notes/2024/bash-hashmap/</id>
-        <link href="https://xeiaso.net/notes/2024/bash-hashmap/"/>
-        <title>Today I learned that bash has hashmaps</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-01-15T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-today-i-learned-that-bash-has-hashmaps/</id>
     <content type="html">
         
     </content>
@@ -367,30 +367,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Review of Wicked Cushions</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-01-13T00:00:00+00:00</published>
-    <updated>2024-01-13T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-review-of-wicked-cushions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-review-of-wicked-cushions/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/2024/wicked-cushions/</id>
-        <link href="https://xeiaso.net/blog/2024/wicked-cushions/"/>
-        <title>Review of Wicked Cushions</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-01-13T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-review-of-wicked-cushions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>“The macOS App Icon Book” IRL</title>
         <author>
             <name>Jim Nielsen</name>
@@ -554,30 +530,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-build-your-phone-app-on-your-phone/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to reboot a Linux system into the BIOS</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-01-11T00:00:00+00:00</published>
-    <updated>2024-01-11T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-how-to-reboot-a-linux-system-into-the-bios/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-how-to-reboot-a-linux-system-into-the-bios/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/notes/2024/systemd-reboot-bios/</id>
-        <link href="https://xeiaso.net/notes/2024/systemd-reboot-bios/"/>
-        <title>How to reboot a Linux system into the BIOS</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-01-11T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-how-to-reboot-a-linux-system-into-the-bios/</id>
     <content type="html">
         
     </content>
@@ -1183,30 +1135,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>How to delete a ZFS zvol when it claims to be busy but you&#x27;re sure it isn&#x27;t</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-01-05T00:00:00+00:00</published>
-    <updated>2024-01-05T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-how-to-delete-a-zfs-zvol-when-it-claims-to-be-busy-but-youre-sure-it-isnt/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-how-to-delete-a-zfs-zvol-when-it-claims-to-be-busy-but-youre-sure-it-isnt/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/notes/2024/delete-zfs-zvol-sometimes/</id>
-        <link href="https://xeiaso.net/notes/2024/delete-zfs-zvol-sometimes/"/>
-        <title>How to delete a ZFS zvol when it claims to be busy but you&#x27;re sure it isn&#x27;t</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-01-05T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-how-to-delete-a-zfs-zvol-when-it-claims-to-be-busy-but-youre-sure-it-isnt/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Cold-blooded Software</title>
         <author>
             <name>Jim Nielsen</name>
@@ -1370,30 +1298,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-new-year-new-gallery-app-and-newpipe-news/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I&#x27;m speaking at NixCon North America 2024!</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-01-04T00:00:00+00:00</published>
-    <updated>2024-01-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-im-speaking-at-nixcon-north-america-2024/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-im-speaking-at-nixcon-north-america-2024/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/2024/nixcon-na/</id>
-        <link href="https://xeiaso.net/blog/2024/nixcon-na/"/>
-        <title>I&#x27;m speaking at NixCon North America 2024!</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-01-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-im-speaking-at-nixcon-north-america-2024/</id>
     <content type="html">
         
     </content>
@@ -1994,30 +1898,6 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-a-year-in-review-2023/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>New Year&#x27;s Resolutions</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2023-12-31T00:00:00+00:00</published>
-    <updated>2023-12-31T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-new-years-resolutions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-new-years-resolutions/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/videos/2023/new-years-resolutions/</id>
-        <link href="https://xeiaso.net/videos/2023/new-years-resolutions/"/>
-        <title>New Year&#x27;s Resolutions</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2023-12-31T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-new-years-resolutions/</id>
     <content type="html">
         
     </content>
@@ -3607,30 +3487,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Legend of Zelda: Tears of the Kingdom is 10&#x2F;10</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2023-12-07T00:00:00+00:00</published>
-    <updated>2023-12-07T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-the-legend-of-zelda-tears-of-the-kingdom-is-1010/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-the-legend-of-zelda-tears-of-the-kingdom-is-1010/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/videos/2023/totk-review/</id>
-        <link href="https://xeiaso.net/videos/2023/totk-review/"/>
-        <title>The Legend of Zelda: Tears of the Kingdom is 10&#x2F;10</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2023-12-07T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-the-legend-of-zelda-tears-of-the-kingdom-is-1010/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>I am a poem I am not software</title>
         <author>
             <name>Robin Rendle</name>
@@ -3750,30 +3606,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-when-would-you-ever-want-bubblesort/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>AI generated YouTube videos</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2023-12-04T00:00:00+00:00</published>
-    <updated>2023-12-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-ai-generated-youtube-videos/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-ai-generated-youtube-videos/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/ai-generated-youtube/</id>
-        <link href="https://xeiaso.net/blog/ai-generated-youtube/"/>
-        <title>AI generated YouTube videos</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2023-12-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-ai-generated-youtube-videos/</id>
     <content type="html">
         
     </content>
@@ -4259,30 +4091,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The birth &amp; death of search engine optimization</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2023-11-28T00:00:00+00:00</published>
-    <updated>2023-11-28T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-the-birth-death-of-search-engine-optimization/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-the-birth-death-of-search-engine-optimization/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/birth-death-seo/</id>
-        <link href="https://xeiaso.net/blog/birth-death-seo/"/>
-        <title>The birth &amp; death of search engine optimization</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2023-11-28T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-the-birth-death-of-search-engine-optimization/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Statically Cross-Compiling Rust Projects Using Nix</title>
         <author>
             <name>mediocregopher</name>
@@ -4326,30 +4134,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-a-qmail-example-of-dealing-with-unavoidable-race-conditions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Optmizing Automuse with GPT-4 Turbo-128k</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2023-11-27T00:00:00+00:00</published>
-    <updated>2023-11-27T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-optmizing-automuse-with-gpt4-turbo128k/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-optmizing-automuse-with-gpt4-turbo128k/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/videos/2023/ai-hackathon/</id>
-        <link href="https://xeiaso.net/videos/2023/ai-hackathon/"/>
-        <title>Optmizing Automuse with GPT-4 Turbo-128k</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2023-11-27T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-optmizing-automuse-with-gpt4-turbo128k/</id>
     <content type="html">
         
     </content>
@@ -6462,30 +6246,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-towards-better-vulnerability-disclosure/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Some thoughts on good spec properties</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-10-10T16:27:09+00:00</published>
-    <updated>2023-10-10T16:27:09+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-some-thoughts-on-good-spec-properties/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-some-thoughts-on-good-spec-properties/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/some-thoughts-on-good-spec-properties/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/some-thoughts-on-good-spec-properties/"/>
-        <title>Some thoughts on good spec properties</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-10-10T16:27:09+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-some-thoughts-on-good-spec-properties/</id>
     <content type="html">
         
     </content>
