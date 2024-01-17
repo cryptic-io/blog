@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-17T02:16:28+00:00</updated>
+  <updated>2024-01-17T07:26:31.146+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>How I learn (making games for the Playdate)</title>
+        <author>
+            <name>herman</name>
+        </author>
+    <published>2024-01-17T07:26:31.146+00:00</published>
+    <updated>2024-01-17T07:26:31.146+00:00</updated>
+    <link href="https://news.cryptic.io/herman-how-i-learn-making-games-for-the-playdate/"/>
+    <link rel="alternate" href="https://news.cryptic.io/herman-how-i-learn-making-games-for-the-playdate/" type="text/html"/>
+      <source>
+        <id>https://herman.bearblog.dev/how-i-learn/</id>
+        <link href="https://herman.bearblog.dev/how-i-learn/"/>
+        <title>How I learn (making games for the Playdate)</title>
+        <author>
+            <name>herman</name>
+        </author>
+        <updated>2024-01-17T07:26:31.146+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/herman-how-i-learn-making-games-for-the-playdate/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Formatting disks and clearing RAID config on Power systems with iprutils</title>
         <author>
@@ -8586,30 +8610,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-making-c-memorysafe-without-borrow-checking-reference-counting-or-tracing-garbage-collection/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A case for socks with toes</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2023-06-21T09:07:03.347+00:00</published>
-    <updated>2023-06-21T09:07:03.347+00:00</updated>
-    <link href="https://news.cryptic.io/herman-a-case-for-socks-with-toes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-a-case-for-socks-with-toes/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/a-case-for-toe-socks/</id>
-        <link href="https://herman.bearblog.dev/a-case-for-toe-socks/"/>
-        <title>A case for socks with toes</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2023-06-21T09:07:03.347+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-a-case-for-socks-with-toes/</id>
     <content type="html">
         
     </content>
