@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-18T17:05:00+00:00</updated>
+  <updated>2024-01-19T05:13:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Saving Linux</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2024-01-19T05:13:00+00:00</published>
+    <updated>2024-01-19T05:13:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-saving-linux/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-saving-linux/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/saving-linux.html</id>
+        <link href="https://cheapskatesguide.org/articles/saving-linux.html"/>
+        <title>Saving Linux</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2024-01-19T05:13:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-saving-linux/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Indieweb Carnival</title>
         <author>
@@ -5526,30 +5550,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-some-thoughts-on-software-expertise/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Building My Own Firewall&#x2F;Router, Part 1</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-11-07T13:11:00+00:00</published>
-    <updated>2023-11-07T13:11:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-building-my-own-firewallrouter-part-1/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-building-my-own-firewallrouter-part-1/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/building-my-own-firewall.html</id>
-        <link href="https://cheapskatesguide.org/articles/building-my-own-firewall.html"/>
-        <title>Building My Own Firewall&#x2F;Router, Part 1</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-11-07T13:11:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-building-my-own-firewallrouter-part-1/</id>
     <content type="html">
         
     </content>
