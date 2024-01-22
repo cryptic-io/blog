@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Log Alignment</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-01-22T00:00:00+00:00</published>
+    <updated>2024-01-22T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-log-alignment/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-log-alignment/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2884/</id>
+        <link href="https://xkcd.com/2884/"/>
+        <title>Log Alignment</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-01-22T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-log-alignment/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Battle testing PHP fopen, SQLite, PostgreSQL and MariaDB on FFS2, UFS, ext4, XFS and ZFS</title>
         <author>
             <name>unixsheikh</name>
@@ -938,30 +962,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-write-less/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Sheet Bend</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-01-12T00:00:00+00:00</published>
-    <updated>2024-01-12T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-sheet-bend/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-sheet-bend/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2880/</id>
-        <link href="https://xkcd.com/2880/"/>
-        <title>Sheet Bend</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-01-12T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-sheet-bend/</id>
     <content type="html">
         
     </content>
