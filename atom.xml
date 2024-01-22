@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-21T20:09:08+00:00</updated>
+  <updated>2024-01-22T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Battle testing PHP fopen, SQLite, PostgreSQL and MariaDB on FFS2, UFS, ext4, XFS and ZFS</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2024-01-22T00:00:00+00:00</published>
+    <updated>2024-01-22T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-battle-testing-php-fopen-sqlite-postgresql-and-mariadb-on-ffs2-ufs-ext4-xfs-and-zfs/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-battle-testing-php-fopen-sqlite-postgresql-and-mariadb-on-ffs2-ufs-ext4-xfs-and-zfs/" type="text/html"/>
+      <source>
+        <id>https://unixsheikh.com/articles/battle-testing-php-fopen-sqlite-postgresql-and-mariadb-on-ffs-ufs-ext-xfs-and-zfs.html</id>
+        <link href="https://unixsheikh.com/articles/battle-testing-php-fopen-sqlite-postgresql-and-mariadb-on-ffs-ufs-ext-xfs-and-zfs.html"/>
+        <title>Battle testing PHP fopen, SQLite, PostgreSQL and MariaDB on FFS2, UFS, ext4, XFS and ZFS</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2024-01-22T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-battle-testing-php-fopen-sqlite-postgresql-and-mariadb-on-ffs2-ufs-ext4-xfs-and-zfs/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>If it doesn’t ship, then it doesn’t count</title>
         <author>
@@ -12258,30 +12282,6 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-the-indieweb-for-everyone/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>When you use open source software you are not entitled to anything!</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2022-11-10T00:00:00+00:00</published>
-    <updated>2022-11-10T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-when-you-use-open-source-software-you-are-not-entitled-to-anything/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-when-you-use-open-source-software-you-are-not-entitled-to-anything/" type="text/html"/>
-      <source>
-        <id>https://unixsheikh.com/articles/when-you-use-open-source-software-you-are-not-entitled-to-anything.html</id>
-        <link href="https://unixsheikh.com/articles/when-you-use-open-source-software-you-are-not-entitled-to-anything.html"/>
-        <title>When you use open source software you are not entitled to anything!</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2022-11-10T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-when-you-use-open-source-software-you-are-not-entitled-to-anything/</id>
     <content type="html">
         
     </content>
