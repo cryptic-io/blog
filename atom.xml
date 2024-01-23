@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-22T11:30:00+00:00</updated>
+  <updated>2024-01-23T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Don’t Give Advice, Be Useful</title>
+        <author>
+            <name>Tom Critchlow</name>
+        </author>
+    <published>2024-01-23T00:00:00+00:00</published>
+    <updated>2024-01-23T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tom-critchlow-dont-give-advice-be-useful/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tom-critchlow-dont-give-advice-be-useful/" type="text/html"/>
+      <source>
+        <id>https://tomcritchlow.com/2024/01/23/advice/</id>
+        <link href="https://tomcritchlow.com/2024/01/23/advice/"/>
+        <title>Don’t Give Advice, Be Useful</title>
+        <author>
+            <name>Tom Critchlow</name>
+        </author>
+        <updated>2024-01-23T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tom-critchlow-dont-give-advice-be-useful/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Private conversations in public</title>
         <author>
@@ -11442,30 +11466,6 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-7-reasons-why-i-dont-write/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Magic of Small Databases</title>
-        <author>
-            <name>Tom Critchlow</name>
-        </author>
-    <published>2023-01-27T00:00:00+00:00</published>
-    <updated>2023-01-27T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tom-critchlow-the-magic-of-small-databases/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tom-critchlow-the-magic-of-small-databases/" type="text/html"/>
-      <source>
-        <id>https://tomcritchlow.com/2023/01/27/small-databases/</id>
-        <link href="https://tomcritchlow.com/2023/01/27/small-databases/"/>
-        <title>The Magic of Small Databases</title>
-        <author>
-            <name>Tom Critchlow</name>
-        </author>
-        <updated>2023-01-27T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tom-critchlow-the-magic-of-small-databases/</id>
     <content type="html">
         
     </content>
