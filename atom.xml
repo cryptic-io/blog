@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-23T00:00:00+00:00</updated>
+  <updated>2024-01-23T15:00:38+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>When did Raspberry Pi get so expensive?</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-01-23T15:00:38+00:00</published>
+    <updated>2024-01-23T15:00:38+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-when-did-raspberry-pi-get-so-expensive/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-when-did-raspberry-pi-get-so-expensive/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/when-did-raspberry-pi-get-so-expensive</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/when-did-raspberry-pi-get-so-expensive"/>
+        <title>When did Raspberry Pi get so expensive?</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-01-23T15:00:38+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-when-did-raspberry-pi-get-so-expensive/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Don’t Give Advice, Be Useful</title>
         <author>
@@ -4782,30 +4806,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-green-and-brown-sauce/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>HTGWA: How to completely erase a hard drive in Linux</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2023-11-22T19:27:39+00:00</published>
-    <updated>2023-11-22T19:27:39+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-htgwa-how-to-completely-erase-a-hard-drive-in-linux/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-htgwa-how-to-completely-erase-a-hard-drive-in-linux/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2023/htgwa-how-completely-erase-hard-drive-linux</id>
-        <link href="https://www.jeffgeerling.com/blog/2023/htgwa-how-completely-erase-hard-drive-linux"/>
-        <title>HTGWA: How to completely erase a hard drive in Linux</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2023-11-22T19:27:39+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-htgwa-how-to-completely-erase-a-hard-drive-in-linux/</id>
     <content type="html">
         
     </content>
