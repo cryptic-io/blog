@@ -2143,30 +2143,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>C++ time_point wackiness across platforms</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-01-01T21:58:38+00:00</published>
-    <updated>2024-01-01T21:58:38+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/01/01/chrono/</id>
-        <link href="https://rachelbythebay.com/w/2024/01/01/chrono/"/>
-        <title>C++ time_point wackiness across platforms</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-01-01T21:58:38+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Resolutions are dumb</title>
         <author>
             <name>Robin Rendle</name>
@@ -2695,30 +2671,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A year-end wrapup of responses to reader feedback</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-12-26T01:13:29+00:00</published>
-    <updated>2023-12-26T01:13:29+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/12/25/feedback/</id>
-        <link href="https://rachelbythebay.com/w/2023/12/25/feedback/"/>
-        <title>A year-end wrapup of responses to reader feedback</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-12-26T01:13:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Why Prusa is floundering, and how you can avoid their fate</title>
         <author>
             <name>Drew DeVault</name>
@@ -3194,30 +3146,6 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-towards-a-folk-computer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Smashing the stack for pain and misery</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-12-18T22:39:06+00:00</published>
-    <updated>2023-12-18T22:39:06+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/12/18/boom/</id>
-        <link href="https://rachelbythebay.com/w/2023/12/18/boom/"/>
-        <title>Smashing the stack for pain and misery</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-12-18T22:39:06+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/</id>
     <content type="html">
         
     </content>
@@ -3823,30 +3751,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Patching around a C++ crash with a little bit of Lua</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-12-07T19:24:57+00:00</published>
-    <updated>2023-12-07T19:24:57+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/12/07/header/</id>
-        <link href="https://rachelbythebay.com/w/2023/12/07/header/"/>
-        <title>Patching around a C++ crash with a little bit of Lua</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-12-07T19:24:57+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Raspberry Pi 5 and RP1 X-ray scans</title>
         <author>
             <name>Jeff Geerling</name>
@@ -4307,30 +4211,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>clang now makes binaries an original Pi B+ can&#x27;t run</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-12-01T03:21:46+00:00</published>
-    <updated>2023-12-01T03:21:46+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/30/armv6/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/30/armv6/"/>
-        <title>clang now makes binaries an original Pi B+ can&#x27;t run</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-12-01T03:21:46+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Making Decisions: RFC processes are a poor fit for most organizations</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -4494,30 +4374,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-stop-using-aigenerated-images/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>That time Verisign typo-squatted all of .com and .net</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-28T02:57:50+00:00</published>
-    <updated>2023-11-28T02:57:50+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/27/sitefinder/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/27/sitefinder/"/>
-        <title>That time Verisign typo-squatted all of .com and .net</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-28T02:57:50+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/</id>
     <content type="html">
         
     </content>
@@ -5075,30 +4931,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>My rants about TP-Link Omada networking products</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-18T01:45:27+00:00</published>
-    <updated>2023-11-18T01:45:27+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/17/omada/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/17/omada/"/>
-        <title>My rants about TP-Link Omada networking products</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-18T01:45:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Let&#x27;s Play a Game</title>
         <author>
             <name>Brian Kardell</name>
@@ -5574,54 +5406,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-wolvic-store-experiment/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-07T21:47:28+00:00</published>
-    <updated>2023-11-07T21:47:28+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/07/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/07/wpa3/"/>
-        <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-07T21:47:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Still no love for WPA3 on the Raspberry Pi 5</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-07T21:44:38+00:00</published>
-    <updated>2023-11-07T21:44:38+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/06/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/06/wpa3/"/>
-        <title>Still no love for WPA3 on the Raspberry Pi 5</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-07T21:44:38+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-still-no-love-for-wpa3-on-the-raspberry-pi-5/</id>
     <content type="html">
         
     </content>
@@ -6414,30 +6198,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-teaching-tax-in-school/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>getaddrinfo() on glibc calls getenv(), oh boy</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-17T00:00:07+00:00</published>
-    <updated>2023-10-17T00:00:07+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/16/env/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/16/env/"/>
-        <title>getaddrinfo() on glibc calls getenv(), oh boy</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-17T00:00:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/</id>
     <content type="html">
         
     </content>
