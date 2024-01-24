@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-23T19:00:00+00:00</updated>
+  <updated>2024-01-24T09:43:34+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-01-24T09:43:34+00:00</published>
+    <updated>2024-01-24T09:43:34+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/07/wpa3/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/07/wpa3/"/>
+        <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-01-24T09:43:34+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>WPA3 on Raspberry Pi 3B+, 4B and 5B with iwd!</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-01-24T09:42:13+00:00</published>
+    <updated>2024-01-24T09:42:13+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-wpa3-on-raspberry-pi-3b-4b-and-5b-with-iwd/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-wpa3-on-raspberry-pi-3b-4b-and-5b-with-iwd/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/01/24/wpa3/</id>
+        <link href="https://rachelbythebay.com/w/2024/01/24/wpa3/"/>
+        <title>WPA3 on Raspberry Pi 3B+, 4B and 5B with iwd!</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-01-24T09:42:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-wpa3-on-raspberry-pi-3b-4b-and-5b-with-iwd/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Origin of Online Handles</title>
         <author>
@@ -5603,30 +5651,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-07T21:47:28+00:00</published>
-    <updated>2023-11-07T21:47:28+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/07/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/07/wpa3/"/>
-        <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-07T21:47:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Still no love for WPA3 on the Raspberry Pi 5</title>
         <author>
             <name>rachelbythebay</name>
@@ -6438,30 +6462,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-teaching-tax-in-school/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>getaddrinfo() on glibc calls getenv(), oh boy</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-10-17T00:00:07+00:00</published>
-    <updated>2023-10-17T00:00:07+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/10/16/env/</id>
-        <link href="https://rachelbythebay.com/w/2023/10/16/env/"/>
-        <title>getaddrinfo() on glibc calls getenv(), oh boy</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-10-17T00:00:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-getaddrinfo-on-glibc-calls-getenv-oh-boy/</id>
     <content type="html">
         
     </content>
