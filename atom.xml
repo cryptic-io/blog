@@ -103,54 +103,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>WPA3 on Raspberry Pi 3B+, 4B and 5B with iwd (or not...)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-01-24T23:02:29+00:00</published>
-    <updated>2024-01-24T23:02:29+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-wpa3-on-raspberry-pi-3b-4b-and-5b-with-iwd-or-not/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-wpa3-on-raspberry-pi-3b-4b-and-5b-with-iwd-or-not/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/01/24/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2024/01/24/wpa3/"/>
-        <title>WPA3 on Raspberry Pi 3B+, 4B and 5B with iwd (or not...)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-01-24T23:02:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-wpa3-on-raspberry-pi-3b-4b-and-5b-with-iwd-or-not/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Hold on there: WPA3 connections fail after 11 hours</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-01-24T23:02:17+00:00</published>
-    <updated>2024-01-24T23:02:17+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-hold-on-there-wpa3-connections-fail-after-11-hours/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-hold-on-there-wpa3-connections-fail-after-11-hours/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/01/24/fail/</id>
-        <link href="https://rachelbythebay.com/w/2024/01/24/fail/"/>
-        <title>Hold on there: WPA3 connections fail after 11 hours</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-01-24T23:02:17+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-hold-on-there-wpa3-connections-fail-after-11-hours/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Mounting an ext4 linux USB drive on macOS in 2024</title>
         <author>
             <name>Jeff Geerling</name>
@@ -194,30 +146,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-github-search-for-research-and-learning/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-01-24T09:43:34+00:00</published>
-    <updated>2024-01-24T09:43:34+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/07/wpa3/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/07/wpa3/"/>
-        <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-01-24T09:43:34+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/</id>
     <content type="html">
         
     </content>
@@ -1111,6 +1039,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>My theme for 2024: SaaS marketing experiments</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+    <published>2024-01-14T00:00:00+00:00</published>
+    <updated>2024-01-14T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/justin-jackson-my-theme-for-2024-saas-marketing-experiments/"/>
+    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-my-theme-for-2024-saas-marketing-experiments/" type="text/html"/>
+      <source>
+        <id>https://justinjackson.ca/2024-theme</id>
+        <link href="https://justinjackson.ca/2024-theme"/>
+        <title>My theme for 2024: SaaS marketing experiments</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+        <updated>2024-01-14T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/justin-jackson-my-theme-for-2024-saas-marketing-experiments/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Web component gotcha: constructor vs connectedCallback</title>
         <author>
             <name>Nolan Lawson</name>
@@ -1879,6 +1831,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>2023 year in review</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+    <published>2024-01-05T00:00:00+00:00</published>
+    <updated>2024-01-05T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/justin-jackson-2023-year-in-review/"/>
+    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-2023-year-in-review/" type="text/html"/>
+      <source>
+        <id>https://justinjackson.ca/2023-review</id>
+        <link href="https://justinjackson.ca/2023-review"/>
+        <title>2023 year in review</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+        <updated>2024-01-05T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/justin-jackson-2023-year-in-review/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How to delete a ZFS zvol when it claims to be busy but you&#x27;re sure it isn&#x27;t</title>
         <author>
             <name>Xe Iaso</name>
@@ -2330,30 +2306,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-rethinking-the-usiblity-correct-horse-battery-staple/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>C++ time_point wackiness across platforms</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-01-01T21:58:38+00:00</published>
-    <updated>2024-01-01T21:58:38+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/01/01/chrono/</id>
-        <link href="https://rachelbythebay.com/w/2024/01/01/chrono/"/>
-        <title>C++ time_point wackiness across platforms</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-01-01T21:58:38+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/</id>
     <content type="html">
         
     </content>
@@ -2911,30 +2863,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A year-end wrapup of responses to reader feedback</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-12-26T01:13:29+00:00</published>
-    <updated>2023-12-26T01:13:29+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/12/25/feedback/</id>
-        <link href="https://rachelbythebay.com/w/2023/12/25/feedback/"/>
-        <title>A year-end wrapup of responses to reader feedback</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-12-26T01:13:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Why Prusa is floundering, and how you can avoid their fate</title>
         <author>
             <name>Drew DeVault</name>
@@ -3415,30 +3343,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Smashing the stack for pain and misery</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-12-18T22:39:06+00:00</published>
-    <updated>2023-12-18T22:39:06+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/12/18/boom/</id>
-        <link href="https://rachelbythebay.com/w/2023/12/18/boom/"/>
-        <title>Smashing the stack for pain and misery</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-12-18T22:39:06+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>My SimpliSafe doorbell lit its own fire this winter</title>
         <author>
             <name>Jeff Geerling</name>
@@ -3602,6 +3506,30 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-my-git-precommit-hook-contained-a-footgun/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Ten SaaS marketing principles for 2024</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+    <published>2023-12-16T00:00:00+00:00</published>
+    <updated>2023-12-16T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/justin-jackson-ten-saas-marketing-principles-for-2024/"/>
+    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-ten-saas-marketing-principles-for-2024/" type="text/html"/>
+      <source>
+        <id>https://justinjackson.ca/best-saas-marketing-strategies</id>
+        <link href="https://justinjackson.ca/best-saas-marketing-strategies"/>
+        <title>Ten SaaS marketing principles for 2024</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+        <updated>2023-12-16T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/justin-jackson-ten-saas-marketing-principles-for-2024/</id>
     <content type="html">
         
     </content>
@@ -4010,30 +3938,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-feeling-of-powerlessness-of-mine-towards-climate-change/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Patching around a C++ crash with a little bit of Lua</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-12-07T19:24:57+00:00</published>
-    <updated>2023-12-07T19:24:57+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/12/07/header/</id>
-        <link href="https://rachelbythebay.com/w/2023/12/07/header/"/>
-        <title>Patching around a C++ crash with a little bit of Lua</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-12-07T19:24:57+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/</id>
     <content type="html">
         
     </content>
@@ -4475,30 +4379,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>clang now makes binaries an original Pi B+ can&#x27;t run</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-12-01T03:21:46+00:00</published>
-    <updated>2023-12-01T03:21:46+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/30/armv6/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/30/armv6/"/>
-        <title>clang now makes binaries an original Pi B+ can&#x27;t run</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-12-01T03:21:46+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Making Decisions: RFC processes are a poor fit for most organizations</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -4638,30 +4518,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-stop-using-aigenerated-images/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>That time Verisign typo-squatted all of .com and .net</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-28T02:57:50+00:00</published>
-    <updated>2023-11-28T02:57:50+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/27/sitefinder/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/27/sitefinder/"/>
-        <title>That time Verisign typo-squatted all of .com and .net</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-28T02:57:50+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/</id>
     <content type="html">
         
     </content>
@@ -5051,6 +4907,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Advice for Sending Cold Emails and DMs</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+    <published>2023-11-21T00:00:00+00:00</published>
+    <updated>2023-11-21T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/justin-jackson-advice-for-sending-cold-emails-and-dms/"/>
+    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-advice-for-sending-cold-emails-and-dms/" type="text/html"/>
+      <source>
+        <id>https://justinjackson.ca/cold-email</id>
+        <link href="https://justinjackson.ca/cold-email"/>
+        <title>Advice for Sending Cold Emails and DMs</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+        <updated>2023-11-21T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/justin-jackson-advice-for-sending-cold-emails-and-dms/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Performance Is Contextual</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -5166,30 +5046,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-imitation-learning/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>My rants about TP-Link Omada networking products</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-11-18T01:45:27+00:00</published>
-    <updated>2023-11-18T01:45:27+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/11/17/omada/</id>
-        <link href="https://rachelbythebay.com/w/2023/11/17/omada/"/>
-        <title>My rants about TP-Link Omada networking products</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-11-18T01:45:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/</id>
     <content type="html">
         
     </content>
@@ -5387,6 +5243,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Prosumer SaaS is underrated</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+    <published>2023-11-13T00:00:00+00:00</published>
+    <updated>2023-11-13T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/justin-jackson-prosumer-saas-is-underrated/"/>
+    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-prosumer-saas-is-underrated/" type="text/html"/>
+      <source>
+        <id>https://justinjackson.ca/prosumers</id>
+        <link href="https://justinjackson.ca/prosumers"/>
+        <title>Prosumer SaaS is underrated</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+        <updated>2023-11-13T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/justin-jackson-prosumer-saas-is-underrated/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>On Doing Maintenance &#x2F; Cataloguing the Work</title>
         <author>
             <name>John Whiles</name>
@@ -5478,6 +5358,30 @@
       </source>
 
     <id>https://news.cryptic.io/chris-kiehl-we-have-earlywood-at-home/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Ideas that create opportunities</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+    <published>2023-11-10T00:00:00+00:00</published>
+    <updated>2023-11-10T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/justin-jackson-ideas-that-create-opportunities/"/>
+    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-ideas-that-create-opportunities/" type="text/html"/>
+      <source>
+        <id>https://justinjackson.ca/actions</id>
+        <link href="https://justinjackson.ca/actions"/>
+        <title>Ideas that create opportunities</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+        <updated>2023-11-10T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/justin-jackson-ideas-that-create-opportunities/</id>
     <content type="html">
         
     </content>
@@ -6903,6 +6807,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Flipping tables and hiring kids</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+    <published>2023-09-22T00:00:00+00:00</published>
+    <updated>2023-09-22T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/justin-jackson-flipping-tables-and-hiring-kids/"/>
+    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-flipping-tables-and-hiring-kids/" type="text/html"/>
+      <source>
+        <id>https://justinjackson.ca/flipping-tables</id>
+        <link href="https://justinjackson.ca/flipping-tables"/>
+        <title>Flipping tables and hiring kids</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+        <updated>2023-09-22T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/justin-jackson-flipping-tables-and-hiring-kids/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The Frustration Loop</title>
         <author>
             <name>herman</name>
@@ -7311,6 +7239,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>How I would build a new startup if I had to do it all over</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+    <published>2023-09-03T00:00:00+00:00</published>
+    <updated>2023-09-03T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/justin-jackson-how-i-would-build-a-new-startup-if-i-had-to-do-it-all-over/"/>
+    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-how-i-would-build-a-new-startup-if-i-had-to-do-it-all-over/" type="text/html"/>
+      <source>
+        <id>https://justinjackson.ca/build-new-startup</id>
+        <link href="https://justinjackson.ca/build-new-startup"/>
+        <title>How I would build a new startup if I had to do it all over</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+        <updated>2023-09-03T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/justin-jackson-how-i-would-build-a-new-startup-if-i-had-to-do-it-all-over/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Review: Beepy, the pocket-sized, linux-powered cyberdeck</title>
         <author>
             <name>Tyler Cipriani</name>
@@ -7695,6 +7647,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Silverwood Theme Park Review, Travel Tips, and Photos</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+    <published>2023-08-16T00:00:00+00:00</published>
+    <updated>2023-08-16T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/justin-jackson-silverwood-theme-park-review-travel-tips-and-photos/"/>
+    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-silverwood-theme-park-review-travel-tips-and-photos/" type="text/html"/>
+      <source>
+        <id>https://justinjackson.ca/silverwood-theme-park</id>
+        <link href="https://justinjackson.ca/silverwood-theme-park"/>
+        <title>Silverwood Theme Park Review, Travel Tips, and Photos</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+        <updated>2023-08-16T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/justin-jackson-silverwood-theme-park-review-travel-tips-and-photos/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Real Talk: Games About Trauma (art caught between “everything is horrible”, “everything is survivable”, and “this is too hard to talk about”)</title>
         <author>
             <name>Nathalie Lawhead</name>
@@ -8074,6 +8050,30 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-lazygit-turns-5-musings-on-git-tuis-and-open-source/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>What happened to Paul Jarvis?</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+    <published>2023-08-04T00:00:00+00:00</published>
+    <updated>2023-08-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/justin-jackson-what-happened-to-paul-jarvis/"/>
+    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-what-happened-to-paul-jarvis/" type="text/html"/>
+      <source>
+        <id>https://justinjackson.ca/paul-jarvis</id>
+        <link href="https://justinjackson.ca/paul-jarvis"/>
+        <title>What happened to Paul Jarvis?</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+        <updated>2023-08-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/justin-jackson-what-happened-to-paul-jarvis/</id>
     <content type="html">
         
     </content>
@@ -13343,30 +13343,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Side Projects</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-    <published>2022-07-03T07:53:00+00:00</published>
-    <updated>2022-07-03T07:53:00+00:00</updated>
-    <link href="https://news.cryptic.io/arun-prasad-side-projects/"/>
-    <link rel="alternate" href="https://news.cryptic.io/arun-prasad-side-projects/" type="text/html"/>
-      <source>
-        <id>https://arunkprasad.com/log/side-projects/</id>
-        <link href="https://arunkprasad.com/log/side-projects/"/>
-        <title>Side Projects</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-        <updated>2022-07-03T07:53:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/arun-prasad-side-projects/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Hypermedia driven micro frontends</title>
         <author>
             <name>Andraž Bajt</name>
@@ -13511,30 +13487,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Top-Down and Bottom-Up Religion</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-    <published>2022-05-31T07:53:00+00:00</published>
-    <updated>2022-05-31T07:53:00+00:00</updated>
-    <link href="https://news.cryptic.io/arun-prasad-topdown-and-bottomup-religion/"/>
-    <link rel="alternate" href="https://news.cryptic.io/arun-prasad-topdown-and-bottomup-religion/" type="text/html"/>
-      <source>
-        <id>https://arunkprasad.com/log/top-down-and-bottom-up-religion/</id>
-        <link href="https://arunkprasad.com/log/top-down-and-bottom-up-religion/"/>
-        <title>Top-Down and Bottom-Up Religion</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-        <updated>2022-05-31T07:53:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/arun-prasad-topdown-and-bottomup-religion/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Addressing the most common misconceptions about Account-bound tokens</title>
         <author>
             <name>Tim Daubenschütz</name>
@@ -13655,30 +13607,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Weekly</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-    <published>2022-05-22T07:53:00+00:00</published>
-    <updated>2022-05-22T07:53:00+00:00</updated>
-    <link href="https://news.cryptic.io/arun-prasad-weekly/"/>
-    <link rel="alternate" href="https://news.cryptic.io/arun-prasad-weekly/" type="text/html"/>
-      <source>
-        <id>https://arunkprasad.com/log/weekly/</id>
-        <link href="https://arunkprasad.com/log/weekly/"/>
-        <title>Weekly</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-        <updated>2022-05-22T07:53:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/arun-prasad-weekly/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Hyperlink maximalism</title>
         <author>
             <name>Linus Lee</name>
@@ -13698,54 +13626,6 @@
       </source>
 
     <id>https://news.cryptic.io/linus-lee-hyperlink-maximalism/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Hot</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-    <published>2022-05-21T07:53:00+00:00</published>
-    <updated>2022-05-21T07:53:00+00:00</updated>
-    <link href="https://news.cryptic.io/arun-prasad-hot/"/>
-    <link rel="alternate" href="https://news.cryptic.io/arun-prasad-hot/" type="text/html"/>
-      <source>
-        <id>https://arunkprasad.com/log/hot/</id>
-        <link href="https://arunkprasad.com/log/hot/"/>
-        <title>Hot</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-        <updated>2022-05-21T07:53:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/arun-prasad-hot/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Jang Bbijju</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-    <published>2022-05-20T07:53:00+00:00</published>
-    <updated>2022-05-20T07:53:00+00:00</updated>
-    <link href="https://news.cryptic.io/arun-prasad-jang-bbijju/"/>
-    <link rel="alternate" href="https://news.cryptic.io/arun-prasad-jang-bbijju/" type="text/html"/>
-      <source>
-        <id>https://arunkprasad.com/log/jang-bbijju/</id>
-        <link href="https://arunkprasad.com/log/jang-bbijju/"/>
-        <title>Jang Bbijju</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-        <updated>2022-05-20T07:53:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/arun-prasad-jang-bbijju/</id>
     <content type="html">
         
     </content>
@@ -13775,30 +13655,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>[links] Heroes</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-    <published>2022-05-19T07:53:00+00:00</published>
-    <updated>2022-05-19T07:53:00+00:00</updated>
-    <link href="https://news.cryptic.io/arun-prasad-links-heroes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/arun-prasad-links-heroes/" type="text/html"/>
-      <source>
-        <id>https://arunkprasad.com/log/links-heroes/</id>
-        <link href="https://arunkprasad.com/log/links-heroes/"/>
-        <title>[links] Heroes</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-        <updated>2022-05-19T07:53:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/arun-prasad-links-heroes/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Do flat tyres make your speedo lie?</title>
         <author>
             <name>mechatronicsguy</name>
@@ -13818,30 +13674,6 @@
       </source>
 
     <id>https://news.cryptic.io/mechatronicsguy-do-flat-tyres-make-your-speedo-lie/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Demographics of SF Chinatown</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-    <published>2022-05-18T07:53:00+00:00</published>
-    <updated>2022-05-18T07:53:00+00:00</updated>
-    <link href="https://news.cryptic.io/arun-prasad-demographics-of-sf-chinatown/"/>
-    <link rel="alternate" href="https://news.cryptic.io/arun-prasad-demographics-of-sf-chinatown/" type="text/html"/>
-      <source>
-        <id>https://arunkprasad.com/log/demographics-of-sf-chinatown/</id>
-        <link href="https://arunkprasad.com/log/demographics-of-sf-chinatown/"/>
-        <title>Demographics of SF Chinatown</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-        <updated>2022-05-18T07:53:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/arun-prasad-demographics-of-sf-chinatown/</id>
     <content type="html">
         
     </content>
@@ -13890,78 +13722,6 @@
       </source>
 
     <id>https://news.cryptic.io/linus-lee-resonant/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Fortune Cookies</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-    <published>2022-05-17T07:53:00+00:00</published>
-    <updated>2022-05-17T07:53:00+00:00</updated>
-    <link href="https://news.cryptic.io/arun-prasad-fortune-cookies/"/>
-    <link rel="alternate" href="https://news.cryptic.io/arun-prasad-fortune-cookies/" type="text/html"/>
-      <source>
-        <id>https://arunkprasad.com/log/fortune-cookies/</id>
-        <link href="https://arunkprasad.com/log/fortune-cookies/"/>
-        <title>Fortune Cookies</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-        <updated>2022-05-17T07:53:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/arun-prasad-fortune-cookies/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Fast Notes on API Design</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-    <published>2022-05-16T07:53:00+00:00</published>
-    <updated>2022-05-16T07:53:00+00:00</updated>
-    <link href="https://news.cryptic.io/arun-prasad-fast-notes-on-api-design/"/>
-    <link rel="alternate" href="https://news.cryptic.io/arun-prasad-fast-notes-on-api-design/" type="text/html"/>
-      <source>
-        <id>https://arunkprasad.com/log/fast-notes-on-api-design/</id>
-        <link href="https://arunkprasad.com/log/fast-notes-on-api-design/"/>
-        <title>Fast Notes on API Design</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-        <updated>2022-05-16T07:53:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/arun-prasad-fast-notes-on-api-design/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Pasta Beyond Pasta</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-    <published>2022-05-15T07:53:00+00:00</published>
-    <updated>2022-05-15T07:53:00+00:00</updated>
-    <link href="https://news.cryptic.io/arun-prasad-pasta-beyond-pasta/"/>
-    <link rel="alternate" href="https://news.cryptic.io/arun-prasad-pasta-beyond-pasta/" type="text/html"/>
-      <source>
-        <id>https://arunkprasad.com/log/pasta-beyond-pasta/</id>
-        <link href="https://arunkprasad.com/log/pasta-beyond-pasta/"/>
-        <title>Pasta Beyond Pasta</title>
-        <author>
-            <name>Arun Prasad</name>
-        </author>
-        <updated>2022-05-15T07:53:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/arun-prasad-pasta-beyond-pasta/</id>
     <content type="html">
         
     </content>
