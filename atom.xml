@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-27T06:43:06+00:00</updated>
+  <updated>2024-01-27T13:55:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A People and Blogs PSA</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-01-27T13:55:00+00:00</published>
+    <updated>2024-01-27T13:55:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-people-and-blogs-psa/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-people-and-blogs-psa/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/6scRerLor1mQQyIr</id>
+        <link href="https://manuelmoreale.com/@/page/6scRerLor1mQQyIr"/>
+        <title>A People and Blogs PSA</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-01-27T13:55:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-people-and-blogs-psa/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A unified theory of fucks</title>
         <author>
@@ -223,6 +247,54 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>WPA3 on Raspberry Pi 3B+, 4B and 5B with iwd (or not...)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-01-24T23:02:29+00:00</published>
+    <updated>2024-01-24T23:02:29+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-wpa3-on-raspberry-pi-3b-4b-and-5b-with-iwd-or-not/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-wpa3-on-raspberry-pi-3b-4b-and-5b-with-iwd-or-not/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/01/24/wpa3/</id>
+        <link href="https://rachelbythebay.com/w/2024/01/24/wpa3/"/>
+        <title>WPA3 on Raspberry Pi 3B+, 4B and 5B with iwd (or not...)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-01-24T23:02:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-wpa3-on-raspberry-pi-3b-4b-and-5b-with-iwd-or-not/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Hold on there: WPA3 connections fail after 11 hours</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-01-24T23:02:17+00:00</published>
+    <updated>2024-01-24T23:02:17+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-hold-on-there-wpa3-connections-fail-after-11-hours/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-hold-on-there-wpa3-connections-fail-after-11-hours/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/01/24/fail/</id>
+        <link href="https://rachelbythebay.com/w/2024/01/24/fail/"/>
+        <title>Hold on there: WPA3 connections fail after 11 hours</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-01-24T23:02:17+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-hold-on-there-wpa3-connections-fail-after-11-hours/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Mounting an ext4 linux USB drive on macOS in 2024</title>
         <author>
             <name>Jeff Geerling</name>
@@ -266,6 +338,30 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-github-search-for-research-and-learning/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-01-24T09:43:34+00:00</published>
+    <updated>2024-01-24T09:43:34+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/07/wpa3/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/07/wpa3/"/>
+        <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-01-24T09:43:34+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/</id>
     <content type="html">
         
     </content>
@@ -1495,30 +1591,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>All Things Being Equalized</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2024-01-10T00:28:42+00:00</published>
-    <updated>2024-01-10T00:28:42+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-all-things-being-equalized/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-all-things-being-equalized/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/all-things-being-equalized</id>
-        <link href="https://matthiasott.com/notes/all-things-being-equalized"/>
-        <title>All Things Being Equalized</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2024-01-10T00:28:42+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-all-things-being-equalized/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Philanthropy Update</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -1663,30 +1735,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>42 for 42</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2024-01-08T01:33:00+00:00</published>
-    <updated>2024-01-08T01:33:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-42-for-42/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-42-for-42/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/42-for-42</id>
-        <link href="https://matthiasott.com/notes/42-for-42"/>
-        <title>42 for 42</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2024-01-08T01:33:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-42-for-42/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Sleeping through a decade of Cocoa: Retrospective from modernizing an old Mac app</title>
         <author>
             <name>Various</name>
@@ -1735,30 +1783,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Tour De-Noise</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2024-01-07T14:34:00+00:00</published>
-    <updated>2024-01-07T14:34:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-tour-denoise/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-tour-denoise/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/tour-de-noise</id>
-        <link href="https://matthiasott.com/notes/tour-de-noise"/>
-        <title>Tour De-Noise</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2024-01-07T14:34:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-tour-denoise/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Tech Heroin</title>
         <author>
             <name>geohot</name>
@@ -1802,30 +1826,6 @@
       </source>
 
     <id>https://news.cryptic.io/clayton-craft-first-month-of-nothin-but-postmarketos/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A moment with a great book</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-01-06T10:05:00+00:00</published>
-    <updated>2024-01-06T10:05:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-with-a-great-book/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-with-a-great-book/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/Eimz88BnmqIpyoI1</id>
-        <link href="https://manuelmoreale.com/@/page/Eimz88BnmqIpyoI1"/>
-        <title>A moment with a great book</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-01-06T10:05:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-with-a-great-book/</id>
     <content type="html">
         
     </content>
@@ -1994,30 +1994,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-fixing-returnal-hanging-at-a-black-screen/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>What’s Too Good to Be True?</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2024-01-04T01:23:59+00:00</published>
-    <updated>2024-01-04T01:23:59+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-whats-too-good-to-be-true/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-whats-too-good-to-be-true/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/whats-too-good-to-be-true</id>
-        <link href="https://matthiasott.com/notes/whats-too-good-to-be-true"/>
-        <title>What’s Too Good to Be True?</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2024-01-04T01:23:59+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-whats-too-good-to-be-true/</id>
     <content type="html">
         
     </content>
@@ -2287,30 +2263,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Best Comment Section on the Internet</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2024-01-03T01:23:48+00:00</published>
-    <updated>2024-01-03T01:23:48+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-the-best-comment-section-on-the-internet/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-the-best-comment-section-on-the-internet/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/best-comment-section-on-the-internet</id>
-        <link href="https://matthiasott.com/notes/best-comment-section-on-the-internet"/>
-        <title>The Best Comment Section on the Internet</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2024-01-03T01:23:48+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-the-best-comment-section-on-the-internet/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Of Rats and Ratchets</title>
         <author>
             <name>Alex Kladov</name>
@@ -2383,6 +2335,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>C++ time_point wackiness across platforms</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-01-01T21:58:38+00:00</published>
+    <updated>2024-01-01T21:58:38+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/01/01/chrono/</id>
+        <link href="https://rachelbythebay.com/w/2024/01/01/chrono/"/>
+        <title>C++ time_point wackiness across platforms</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-01-01T21:58:38+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Resolutions are dumb</title>
         <author>
             <name>Robin Rendle</name>
@@ -2426,30 +2402,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-happy-new-year/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>2024: The Year of the Personal Website</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2024-01-01T09:16:00+00:00</published>
-    <updated>2024-01-01T09:16:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-2024-the-year-of-the-personal-website/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-2024-the-year-of-the-personal-website/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/2024-the-year-of-the-personal-website</id>
-        <link href="https://matthiasott.com/notes/2024-the-year-of-the-personal-website"/>
-        <title>2024: The Year of the Personal Website</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2024-01-01T09:16:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-2024-the-year-of-the-personal-website/</id>
     <content type="html">
         
     </content>
@@ -2935,6 +2887,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>A year-end wrapup of responses to reader feedback</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-12-26T01:13:29+00:00</published>
+    <updated>2023-12-26T01:13:29+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/12/25/feedback/</id>
+        <link href="https://rachelbythebay.com/w/2023/12/25/feedback/"/>
+        <title>A year-end wrapup of responses to reader feedback</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-12-26T01:13:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Why Prusa is floundering, and how you can avoid their fate</title>
         <author>
             <name>Drew DeVault</name>
@@ -3410,6 +3386,30 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-towards-a-folk-computer/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Smashing the stack for pain and misery</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-12-18T22:39:06+00:00</published>
+    <updated>2023-12-18T22:39:06+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/12/18/boom/</id>
+        <link href="https://rachelbythebay.com/w/2023/12/18/boom/"/>
+        <title>Smashing the stack for pain and misery</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-12-18T22:39:06+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/</id>
     <content type="html">
         
     </content>
@@ -4015,6 +4015,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Patching around a C++ crash with a little bit of Lua</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-12-07T19:24:57+00:00</published>
+    <updated>2023-12-07T19:24:57+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/12/07/header/</id>
+        <link href="https://rachelbythebay.com/w/2023/12/07/header/"/>
+        <title>Patching around a C++ crash with a little bit of Lua</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-12-07T19:24:57+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Raspberry Pi 5 and RP1 X-ray scans</title>
         <author>
             <name>Jeff Geerling</name>
@@ -4403,6 +4427,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>clang now makes binaries an original Pi B+ can&#x27;t run</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-12-01T03:21:46+00:00</published>
+    <updated>2023-12-01T03:21:46+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/30/armv6/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/30/armv6/"/>
+        <title>clang now makes binaries an original Pi B+ can&#x27;t run</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-12-01T03:21:46+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Making Decisions: RFC processes are a poor fit for most organizations</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -4542,6 +4590,30 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-stop-using-aigenerated-images/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>That time Verisign typo-squatted all of .com and .net</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-11-28T02:57:50+00:00</published>
+    <updated>2023-11-28T02:57:50+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/27/sitefinder/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/27/sitefinder/"/>
+        <title>That time Verisign typo-squatted all of .com and .net</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-11-28T02:57:50+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/</id>
     <content type="html">
         
     </content>
@@ -4835,30 +4907,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Climate Optimism</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-11-21T23:23:29+00:00</published>
-    <updated>2023-11-21T23:23:29+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-climate-optimism/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-climate-optimism/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/climate-optimism</id>
-        <link href="https://matthiasott.com/notes/climate-optimism"/>
-        <title>Climate Optimism</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-11-21T23:23:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-climate-optimism/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>attribution armored code</title>
         <author>
             <name>Joey Hess</name>
@@ -5046,6 +5094,30 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-imitation-learning/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>My rants about TP-Link Omada networking products</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-11-18T01:45:27+00:00</published>
+    <updated>2023-11-18T01:45:27+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/17/omada/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/17/omada/"/>
+        <title>My rants about TP-Link Omada networking products</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-11-18T01:45:27+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/</id>
     <content type="html">
         
     </content>
@@ -5867,30 +5939,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>No Borders</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-10-30T00:33:00+00:00</published>
-    <updated>2023-10-30T00:33:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-no-borders/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-no-borders/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/no-borders</id>
-        <link href="https://matthiasott.com/notes/no-borders"/>
-        <title>No Borders</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-10-30T00:33:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-no-borders/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The main differences between OpenBSD, FreeBSD, NetBSD and DragonFly BSD</title>
         <author>
             <name>unixsheikh</name>
@@ -6150,30 +6198,6 @@
       </source>
 
     <id>https://news.cryptic.io/iliana-etaoin-building-an-x86-linux-kernel-that-works-with-both-systemdboot-and-kexec/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>My New Newsletter: Own Your Web</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-10-22T07:07:00+00:00</published>
-    <updated>2023-10-22T07:07:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-my-new-newsletter-own-your-web/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-my-new-newsletter-own-your-web/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/my-new-newsletter-own-your-web</id>
-        <link href="https://matthiasott.com/notes/my-new-newsletter-own-your-web"/>
-        <title>My New Newsletter: Own Your Web</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-10-22T07:07:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-my-new-newsletter-own-your-web/</id>
     <content type="html">
         
     </content>
@@ -7090,30 +7114,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-bethesdas-starfield-is-a-disgrace-to-game-development-and-a-slap-in-the-face-to-gamers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>My Favorite Mac Apps in 2023</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-09-11T08:25:00+00:00</published>
-    <updated>2023-09-11T08:25:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-my-favorite-mac-apps-in-2023/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-my-favorite-mac-apps-in-2023/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/my-favorite-mac-apps-in-2023</id>
-        <link href="https://matthiasott.com/notes/my-favorite-mac-apps-in-2023"/>
-        <title>My Favorite Mac Apps in 2023</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-09-11T08:25:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-my-favorite-mac-apps-in-2023/</id>
     <content type="html">
         
     </content>
