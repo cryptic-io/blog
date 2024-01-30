@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-30T00:00:00+00:00</updated>
+  <updated>2024-01-30T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>An Inbox Full O’ Receipts</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-01-30T19:00:00+00:00</published>
+    <updated>2024-01-30T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-an-inbox-full-o-receipts/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-an-inbox-full-o-receipts/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/inbox-o-receipts/</id>
+        <link href="https://blog.jim-nielsen.com/2024/inbox-o-receipts/"/>
+        <title>An Inbox Full O’ Receipts</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-01-30T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-an-inbox-full-o-receipts/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Should Open Source Developers Get Paid?</title>
         <author>
@@ -1826,30 +1850,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Notes from “An approach to computing and sustainability inspired from permaculture”  by Devine LuLinvega</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-01-07T19:00:00+00:00</published>
-    <updated>2024-01-07T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-notes-from-an-approach-to-computing-and-sustainability-inspired-from-permaculture-by-devine-lulinvega/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-notes-from-an-approach-to-computing-and-sustainability-inspired-from-permaculture-by-devine-lulinvega/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/notes-from-computing-sustainably/</id>
-        <link href="https://blog.jim-nielsen.com/2024/notes-from-computing-sustainably/"/>
-        <title>Notes from “An approach to computing and sustainability inspired from permaculture”  by Devine LuLinvega</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-01-07T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-notes-from-an-approach-to-computing-and-sustainability-inspired-from-permaculture-by-devine-lulinvega/</id>
     <content type="html">
         
     </content>
