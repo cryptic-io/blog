@@ -7,30 +7,6 @@
   <updated>2024-01-29T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
-    <title>Notes on Cruise&#x27;s pedestrian accident</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2024-01-29T00:00:00+00:00</published>
-    <updated>2024-01-29T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-notes-on-cruises-pedestrian-accident/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-notes-on-cruises-pedestrian-accident/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/cruise-report/</id>
-        <link href="https://danluu.com/cruise-report/"/>
-        <title>Notes on Cruise&#x27;s pedestrian accident</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2024-01-29T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-notes-on-cruises-pedestrian-accident/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Minnesota</title>
         <author>
             <name>Randall Munroe</name>
@@ -295,30 +271,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Why do people post on [bad platform] instead of [good platform]?</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2024-01-25T00:00:00+00:00</published>
-    <updated>2024-01-25T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-why-do-people-post-on-bad-platform-instead-of-good-platform/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-why-do-people-post-on-bad-platform-instead-of-good-platform/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/why-video/</id>
-        <link href="https://danluu.com/why-video/"/>
-        <title>Why do people post on [bad platform] instead of [good platform]?</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2024-01-25T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-why-do-people-post-on-bad-platform-instead-of-good-platform/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>What if you just bought everyone air purifiers?</title>
         <author>
             <name>dynomight</name>
@@ -391,6 +343,54 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>WPA3 on Raspberry Pi 3B+, 4B and 5B with iwd (or not...)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-01-24T23:02:29+00:00</published>
+    <updated>2024-01-24T23:02:29+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-wpa3-on-raspberry-pi-3b-4b-and-5b-with-iwd-or-not/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-wpa3-on-raspberry-pi-3b-4b-and-5b-with-iwd-or-not/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/01/24/wpa3/</id>
+        <link href="https://rachelbythebay.com/w/2024/01/24/wpa3/"/>
+        <title>WPA3 on Raspberry Pi 3B+, 4B and 5B with iwd (or not...)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-01-24T23:02:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-wpa3-on-raspberry-pi-3b-4b-and-5b-with-iwd-or-not/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Hold on there: WPA3 connections fail after 11 hours</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-01-24T23:02:17+00:00</published>
+    <updated>2024-01-24T23:02:17+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-hold-on-there-wpa3-connections-fail-after-11-hours/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-hold-on-there-wpa3-connections-fail-after-11-hours/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/01/24/fail/</id>
+        <link href="https://rachelbythebay.com/w/2024/01/24/fail/"/>
+        <title>Hold on there: WPA3 connections fail after 11 hours</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-01-24T23:02:17+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-hold-on-there-wpa3-connections-fail-after-11-hours/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Mounting an ext4 linux USB drive on macOS in 2024</title>
         <author>
             <name>Jeff Geerling</name>
@@ -434,6 +434,30 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-github-search-for-research-and-learning/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-01-24T09:43:34+00:00</published>
+    <updated>2024-01-24T09:43:34+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/07/wpa3/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/07/wpa3/"/>
+        <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-01-24T09:43:34+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/</id>
     <content type="html">
         
     </content>
@@ -2479,6 +2503,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>C++ time_point wackiness across platforms</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-01-01T21:58:38+00:00</published>
+    <updated>2024-01-01T21:58:38+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/01/01/chrono/</id>
+        <link href="https://rachelbythebay.com/w/2024/01/01/chrono/"/>
+        <title>C++ time_point wackiness across platforms</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-01-01T21:58:38+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Resolutions are dumb</title>
         <author>
             <name>Robin Rendle</name>
@@ -3031,6 +3079,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>A year-end wrapup of responses to reader feedback</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-12-26T01:13:29+00:00</published>
+    <updated>2023-12-26T01:13:29+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/12/25/feedback/</id>
+        <link href="https://rachelbythebay.com/w/2023/12/25/feedback/"/>
+        <title>A year-end wrapup of responses to reader feedback</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-12-26T01:13:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Why Prusa is floundering, and how you can avoid their fate</title>
         <author>
             <name>Drew DeVault</name>
@@ -3506,6 +3578,30 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-towards-a-folk-computer/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Smashing the stack for pain and misery</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-12-18T22:39:06+00:00</published>
+    <updated>2023-12-18T22:39:06+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/12/18/boom/</id>
+        <link href="https://rachelbythebay.com/w/2023/12/18/boom/"/>
+        <title>Smashing the stack for pain and misery</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-12-18T22:39:06+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/</id>
     <content type="html">
         
     </content>
@@ -4111,6 +4207,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Patching around a C++ crash with a little bit of Lua</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-12-07T19:24:57+00:00</published>
+    <updated>2023-12-07T19:24:57+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/12/07/header/</id>
+        <link href="https://rachelbythebay.com/w/2023/12/07/header/"/>
+        <title>Patching around a C++ crash with a little bit of Lua</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-12-07T19:24:57+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Raspberry Pi 5 and RP1 X-ray scans</title>
         <author>
             <name>Jeff Geerling</name>
@@ -4475,6 +4595,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>clang now makes binaries an original Pi B+ can&#x27;t run</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-12-01T03:21:46+00:00</published>
+    <updated>2023-12-01T03:21:46+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/30/armv6/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/30/armv6/"/>
+        <title>clang now makes binaries an original Pi B+ can&#x27;t run</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-12-01T03:21:46+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Making Decisions: RFC processes are a poor fit for most organizations</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -4614,6 +4758,30 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-stop-using-aigenerated-images/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>That time Verisign typo-squatted all of .com and .net</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-11-28T02:57:50+00:00</published>
+    <updated>2023-11-28T02:57:50+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/27/sitefinder/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/27/sitefinder/"/>
+        <title>That time Verisign typo-squatted all of .com and .net</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-11-28T02:57:50+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/</id>
     <content type="html">
         
     </content>
@@ -5118,6 +5286,30 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-imitation-learning/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>My rants about TP-Link Omada networking products</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-11-18T01:45:27+00:00</published>
+    <updated>2023-11-18T01:45:27+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/17/omada/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/17/omada/"/>
+        <title>My rants about TP-Link Omada networking products</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-11-18T01:45:27+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/</id>
     <content type="html">
         
     </content>
@@ -15167,6 +15359,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Cocktail party ideas</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2022-02-02T00:00:00+00:00</published>
+    <updated>2022-02-02T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-cocktail-party-ideas/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-cocktail-party-ideas/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/cocktail-ideas/</id>
+        <link href="https://danluu.com/cocktail-ideas/"/>
+        <title>Cocktail party ideas</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2022-02-02T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-cocktail-party-ideas/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How I fell in love with low-js</title>
         <author>
             <name>Andraž Bajt</name>
@@ -15454,6 +15670,30 @@
       </source>
 
     <id>https://news.cryptic.io/andra-bajt-trying-out-remix/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The container throttling problem</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2021-12-18T00:00:00+00:00</published>
+    <updated>2021-12-18T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-the-container-throttling-problem/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-the-container-throttling-problem/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/cgroup-throttling/</id>
+        <link href="https://danluu.com/cgroup-throttling/"/>
+        <title>The container throttling problem</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2021-12-18T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-the-container-throttling-problem/</id>
     <content type="html">
         
     </content>
