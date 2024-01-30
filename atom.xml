@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-29T00:00:00+00:00</updated>
+  <updated>2024-01-30T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Should Open Source Developers Get Paid?</title>
+        <author>
+            <name>Jesse Duffield</name>
+        </author>
+    <published>2024-01-30T00:00:00+00:00</published>
+    <updated>2024-01-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jesse-duffield-should-open-source-developers-get-paid/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jesse-duffield-should-open-source-developers-get-paid/" type="text/html"/>
+      <source>
+        <id>https://jesseduffield.com/Should-Open-Source-Developers-Get-Paid/</id>
+        <link href="https://jesseduffield.com/Should-Open-Source-Developers-Get-Paid/"/>
+        <title>Should Open Source Developers Get Paid?</title>
+        <author>
+            <name>Jesse Duffield</name>
+        </author>
+        <updated>2024-01-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jesse-duffield-should-open-source-developers-get-paid/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Minnesota</title>
         <author>
@@ -266,6 +290,30 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-halflight/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Why do people post on [bad platform] instead of [good platform]?</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2024-01-25T00:00:00+00:00</published>
+    <updated>2024-01-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-why-do-people-post-on-bad-platform-instead-of-good-platform/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-why-do-people-post-on-bad-platform-instead-of-good-platform/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/why-video/</id>
+        <link href="https://danluu.com/why-video/"/>
+        <title>Why do people post on [bad platform] instead of [good platform]?</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2024-01-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-why-do-people-post-on-bad-platform-instead-of-good-platform/</id>
     <content type="html">
         
     </content>
@@ -11999,30 +12047,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Read This Post ‘Unless’ You’re Not A Ruby Developer</title>
-        <author>
-            <name>Jesse Duffield</name>
-        </author>
-    <published>2022-12-10T00:00:00+00:00</published>
-    <updated>2022-12-10T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jesse-duffield-read-this-post-unless-youre-not-a-ruby-developer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jesse-duffield-read-this-post-unless-youre-not-a-ruby-developer/" type="text/html"/>
-      <source>
-        <id>https://jesseduffield.com/Unless/</id>
-        <link href="https://jesseduffield.com/Unless/"/>
-        <title>Read This Post ‘Unless’ You’re Not A Ruby Developer</title>
-        <author>
-            <name>Jesse Duffield</name>
-        </author>
-        <updated>2022-12-10T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jesse-duffield-read-this-post-unless-youre-not-a-ruby-developer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The city watch rejects survive their first dungeon</title>
         <author>
             <name>Andre Alves Garzia</name>
@@ -15430,30 +15454,6 @@
       </source>
 
     <id>https://news.cryptic.io/andra-bajt-trying-out-remix/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The container throttling problem</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2021-12-18T00:00:00+00:00</published>
-    <updated>2021-12-18T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-the-container-throttling-problem/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-the-container-throttling-problem/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/cgroup-throttling/</id>
-        <link href="https://danluu.com/cgroup-throttling/"/>
-        <title>The container throttling problem</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2021-12-18T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-the-container-throttling-problem/</id>
     <content type="html">
         
     </content>
