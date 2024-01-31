@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-01-30T19:00:00+00:00</updated>
+  <updated>2024-01-31T03:37:17+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Raspberry Pi IPO: Selling out?</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-01-31T03:37:17+00:00</published>
+    <updated>2024-01-31T03:37:17+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-raspberry-pi-ipo-selling-out/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-raspberry-pi-ipo-selling-out/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/raspberry-pi-ipo-selling-out</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/raspberry-pi-ipo-selling-out"/>
+        <title>Raspberry Pi IPO: Selling out?</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-01-31T03:37:17+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-raspberry-pi-ipo-selling-out/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>An Inbox Full O’ Receipts</title>
         <author>
@@ -386,6 +410,30 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-halflight/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Why do people post on [bad platform] instead of [good platform]?</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2024-01-25T00:00:00+00:00</published>
+    <updated>2024-01-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-why-do-people-post-on-bad-platform-instead-of-good-platform/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-why-do-people-post-on-bad-platform-instead-of-good-platform/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/why-video/</id>
+        <link href="https://danluu.com/why-video/"/>
+        <title>Why do people post on [bad platform] instead of [good platform]?</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2024-01-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-why-do-people-post-on-bad-platform-instead-of-good-platform/</id>
     <content type="html">
         
     </content>
@@ -4322,30 +4370,6 @@
       </source>
 
     <id>https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Raspberry Pi 5 and RP1 X-ray scans</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2023-12-07T15:02:23+00:00</published>
-    <updated>2023-12-07T15:02:23+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-raspberry-pi-5-and-rp1-xray-scans/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-raspberry-pi-5-and-rp1-xray-scans/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2023/raspberry-pi-5-and-rp1-x-ray-scans</id>
-        <link href="https://www.jeffgeerling.com/blog/2023/raspberry-pi-5-and-rp1-x-ray-scans"/>
-        <title>Raspberry Pi 5 and RP1 X-ray scans</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2023-12-07T15:02:23+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-raspberry-pi-5-and-rp1-xray-scans/</id>
     <content type="html">
         
     </content>
@@ -15670,30 +15694,6 @@
       </source>
 
     <id>https://news.cryptic.io/andra-bajt-trying-out-remix/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The container throttling problem</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2021-12-18T00:00:00+00:00</published>
-    <updated>2021-12-18T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-the-container-throttling-problem/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-the-container-throttling-problem/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/cgroup-throttling/</id>
-        <link href="https://danluu.com/cgroup-throttling/"/>
-        <title>The container throttling problem</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2021-12-18T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-the-container-throttling-problem/</id>
     <content type="html">
         
     </content>
