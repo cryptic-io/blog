@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-01T19:00:00+00:00</updated>
+  <updated>2024-02-02T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>More reflection on the climate and myself</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-02-02T04:00:00+00:00</published>
+    <updated>2024-02-02T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-more-reflection-on-the-climate-and-myself/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-more-reflection-on-the-climate-and-myself/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/02-02-more-reflection-on-the-climate-and-myself.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/02-02-more-reflection-on-the-climate-and-myself.gmi"/>
+        <title>More reflection on the climate and myself</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-02-02T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-more-reflection-on-the-climate-and-myself/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Treating the Symptoms</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-treating-the-symptoms/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>On digital relationships</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-02-01T18:05:00+00:00</published>
+    <updated>2024-02-01T18:05:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-on-digital-relationships/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-on-digital-relationships/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/uuEcmMa0leGviF3E</id>
+        <link href="https://manuelmoreale.com/@/page/uuEcmMa0leGviF3E"/>
+        <title>On digital relationships</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-02-01T18:05:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-on-digital-relationships/</id>
     <content type="html">
         
     </content>
@@ -338,30 +386,6 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-should-open-source-developers-get-paid/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Notes on Cruise&#x27;s pedestrian accident</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2024-01-29T00:00:00+00:00</published>
-    <updated>2024-01-29T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-notes-on-cruises-pedestrian-accident/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-notes-on-cruises-pedestrian-accident/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/cruise-report/</id>
-        <link href="https://danluu.com/cruise-report/"/>
-        <title>Notes on Cruise&#x27;s pedestrian accident</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2024-01-29T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-notes-on-cruises-pedestrian-accident/</id>
     <content type="html">
         
     </content>
@@ -1634,30 +1658,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-dinner-conversation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>On enjoying the process</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-01-14T18:55:00+00:00</published>
-    <updated>2024-01-14T18:55:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-on-enjoying-the-process/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-on-enjoying-the-process/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/2QT4GBm1LwjmoflN</id>
-        <link href="https://manuelmoreale.com/@/page/2QT4GBm1LwjmoflN"/>
-        <title>On enjoying the process</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-01-14T18:55:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-on-enjoying-the-process/</id>
     <content type="html">
         
     </content>
@@ -4418,30 +4418,6 @@
       </source>
 
     <id>https://news.cryptic.io/cheapskate-building-my-own-firewallrouter-part-3-my-firewall-fabricating-failure/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Feeling of powerlessness of mine towards climate change</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2023-12-08T04:00:00+00:00</published>
-    <updated>2023-12-08T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-feeling-of-powerlessness-of-mine-towards-climate-change/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-feeling-of-powerlessness-of-mine-towards-climate-change/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2023/12-08-feeling-of-powerlessness-of-mine-towards-climate-change.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2023/12-08-feeling-of-powerlessness-of-mine-towards-climate-change.gmi"/>
-        <title>Feeling of powerlessness of mine towards climate change</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2023-12-08T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-feeling-of-powerlessness-of-mine-towards-climate-change/</id>
     <content type="html">
         
     </content>
@@ -15402,6 +15378,30 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-a-decade-of-major-cache-incidents-at-twitter/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Cocktail party ideas</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2022-02-02T00:00:00+00:00</published>
+    <updated>2022-02-02T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-cocktail-party-ideas/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-cocktail-party-ideas/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/cocktail-ideas/</id>
+        <link href="https://danluu.com/cocktail-ideas/"/>
+        <title>Cocktail party ideas</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2022-02-02T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-cocktail-party-ideas/</id>
     <content type="html">
         
     </content>
