@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-02T04:00:00+00:00</updated>
+  <updated>2024-02-02T12:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>P&amp;B : Winnie Lim</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-02-02T12:00:00+00:00</published>
+    <updated>2024-02-02T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-winnie-lim/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-winnie-lim/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/648qH50FDFGNVN8K</id>
+        <link href="https://manuelmoreale.com/@/page/648qH50FDFGNVN8K"/>
+        <title>P&amp;B : Winnie Lim</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-02-02T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-winnie-lim/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Users of Open-Protocol Networks Must Defend Them Against Corporate Capture.</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2024-02-02T04:06:00+00:00</published>
+    <updated>2024-02-02T04:06:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-users-of-openprotocol-networks-must-defend-them-against-corporate-capture/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-users-of-openprotocol-networks-must-defend-them-against-corporate-capture/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/capture-of-open-protocols.html</id>
+        <link href="https://cheapskatesguide.org/articles/capture-of-open-protocols.html"/>
+        <title>Users of Open-Protocol Networks Must Defend Them Against Corporate Capture.</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2024-02-02T04:06:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-users-of-openprotocol-networks-must-defend-them-against-corporate-capture/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>More reflection on the climate and myself</title>
         <author>
@@ -895,6 +943,54 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>WPA3 on Raspberry Pi 3B+, 4B and 5B with iwd (or not...)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-01-24T23:02:29+00:00</published>
+    <updated>2024-01-24T23:02:29+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-wpa3-on-raspberry-pi-3b-4b-and-5b-with-iwd-or-not/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-wpa3-on-raspberry-pi-3b-4b-and-5b-with-iwd-or-not/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/01/24/wpa3/</id>
+        <link href="https://rachelbythebay.com/w/2024/01/24/wpa3/"/>
+        <title>WPA3 on Raspberry Pi 3B+, 4B and 5B with iwd (or not...)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-01-24T23:02:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-wpa3-on-raspberry-pi-3b-4b-and-5b-with-iwd-or-not/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Hold on there: WPA3 connections fail after 11 hours</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-01-24T23:02:17+00:00</published>
+    <updated>2024-01-24T23:02:17+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-hold-on-there-wpa3-connections-fail-after-11-hours/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-hold-on-there-wpa3-connections-fail-after-11-hours/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/01/24/fail/</id>
+        <link href="https://rachelbythebay.com/w/2024/01/24/fail/"/>
+        <title>Hold on there: WPA3 connections fail after 11 hours</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-01-24T23:02:17+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-hold-on-there-wpa3-connections-fail-after-11-hours/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Mounting an ext4 linux USB drive on macOS in 2024</title>
         <author>
             <name>Jeff Geerling</name>
@@ -938,6 +1034,30 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-github-search-for-research-and-learning/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-01-24T09:43:34+00:00</published>
+    <updated>2024-01-24T09:43:34+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/07/wpa3/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/07/wpa3/"/>
+        <title>Asahi Linux folks are doing us a solid with WPA3 fixes</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-01-24T09:43:34+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-asahi-linux-folks-are-doing-us-a-solid-with-wpa3-fixes/</id>
     <content type="html">
         
     </content>
@@ -1514,30 +1634,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-netbooting-alpine-linux-on-a-powervm-system/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>If a human does it</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-01-16T20:35:00+00:00</published>
-    <updated>2024-01-16T20:35:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-if-a-human-does-it/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-if-a-human-does-it/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/Varus2rDlaigFrwE</id>
-        <link href="https://manuelmoreale.com/@/page/Varus2rDlaigFrwE"/>
-        <title>If a human does it</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-01-16T20:35:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-if-a-human-does-it/</id>
     <content type="html">
         
     </content>
@@ -2839,6 +2935,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>C++ time_point wackiness across platforms</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-01-01T21:58:38+00:00</published>
+    <updated>2024-01-01T21:58:38+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/01/01/chrono/</id>
+        <link href="https://rachelbythebay.com/w/2024/01/01/chrono/"/>
+        <title>C++ time_point wackiness across platforms</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-01-01T21:58:38+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-c-timepoint-wackiness-across-platforms/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Resolutions are dumb</title>
         <author>
             <name>Robin Rendle</name>
@@ -3367,6 +3487,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>A year-end wrapup of responses to reader feedback</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-12-26T01:13:29+00:00</published>
+    <updated>2023-12-26T01:13:29+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/12/25/feedback/</id>
+        <link href="https://rachelbythebay.com/w/2023/12/25/feedback/"/>
+        <title>A year-end wrapup of responses to reader feedback</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-12-26T01:13:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-a-yearend-wrapup-of-responses-to-reader-feedback/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Why Prusa is floundering, and how you can avoid their fate</title>
         <author>
             <name>Drew DeVault</name>
@@ -3842,6 +3986,30 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-towards-a-folk-computer/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Smashing the stack for pain and misery</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-12-18T22:39:06+00:00</published>
+    <updated>2023-12-18T22:39:06+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/12/18/boom/</id>
+        <link href="https://rachelbythebay.com/w/2023/12/18/boom/"/>
+        <title>Smashing the stack for pain and misery</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-12-18T22:39:06+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-smashing-the-stack-for-pain-and-misery/</id>
     <content type="html">
         
     </content>
@@ -4375,6 +4543,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Patching around a C++ crash with a little bit of Lua</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-12-07T19:24:57+00:00</published>
+    <updated>2023-12-07T19:24:57+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/12/07/header/</id>
+        <link href="https://rachelbythebay.com/w/2023/12/07/header/"/>
+        <title>Patching around a C++ crash with a little bit of Lua</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-12-07T19:24:57+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Simple tools need complex maintenance</title>
         <author>
             <name>Various</name>
@@ -4715,6 +4907,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>clang now makes binaries an original Pi B+ can&#x27;t run</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-12-01T03:21:46+00:00</published>
+    <updated>2023-12-01T03:21:46+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/30/armv6/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/30/armv6/"/>
+        <title>clang now makes binaries an original Pi B+ can&#x27;t run</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-12-01T03:21:46+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-clang-now-makes-binaries-an-original-pi-b-cant-run/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Making Decisions: RFC processes are a poor fit for most organizations</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -4854,6 +5070,30 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-stop-using-aigenerated-images/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>That time Verisign typo-squatted all of .com and .net</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-11-28T02:57:50+00:00</published>
+    <updated>2023-11-28T02:57:50+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/27/sitefinder/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/27/sitefinder/"/>
+        <title>That time Verisign typo-squatted all of .com and .net</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-11-28T02:57:50+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-that-time-verisign-typosquatted-all-of-com-and-net/</id>
     <content type="html">
         
     </content>
@@ -5046,30 +5286,6 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-underrated-reasons-to-be-thankful-iii/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Building My Own Firewall&#x2F;Router, Part 2</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-11-22T11:03:00+00:00</published>
-    <updated>2023-11-22T11:03:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-building-my-own-firewallrouter-part-2/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-building-my-own-firewallrouter-part-2/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/building-my-own-firewall-pt2.html</id>
-        <link href="https://cheapskatesguide.org/articles/building-my-own-firewall-pt2.html"/>
-        <title>Building My Own Firewall&#x2F;Router, Part 2</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-11-22T11:03:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-building-my-own-firewallrouter-part-2/</id>
     <content type="html">
         
     </content>
@@ -5310,6 +5526,30 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-imitation-learning/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>My rants about TP-Link Omada networking products</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2023-11-18T01:45:27+00:00</published>
+    <updated>2023-11-18T01:45:27+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2023/11/17/omada/</id>
+        <link href="https://rachelbythebay.com/w/2023/11/17/omada/"/>
+        <title>My rants about TP-Link Omada networking products</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2023-11-18T01:45:27+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-my-rants-about-tplink-omada-networking-products/</id>
     <content type="html">
         
     </content>
