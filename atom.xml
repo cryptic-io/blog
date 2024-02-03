@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-03T00:00:00+00:00</updated>
+  <updated>2024-02-03T07:29:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>How to make Cloudflare properly cache a Remix site</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2024-02-03T07:29:00+00:00</published>
+    <updated>2024-02-03T07:29:00+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-how-to-make-cloudflare-properly-cache-a-remix-site/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-how-to-make-cloudflare-properly-cache-a-remix-site/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/cloudflare-remix-cache</id>
+        <link href="https://johnwhiles.com/posts/cloudflare-remix-cache"/>
+        <title>How to make Cloudflare properly cache a Remix site</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2024-02-03T07:29:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-how-to-make-cloudflare-properly-cache-a-remix-site/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Send your users this welcome email</title>
         <author>
@@ -6942,30 +6966,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-restoring-images-without-the-futility-of-disk-utility/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I made a bunch of &#x27;retro&#x27; App Icons for MacOS</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-    <published>2023-10-07T17:24:00+00:00</published>
-    <updated>2023-10-07T17:24:00+00:00</updated>
-    <link href="https://news.cryptic.io/john-whiles-i-made-a-bunch-of-retro-app-icons-for-macos/"/>
-    <link rel="alternate" href="https://news.cryptic.io/john-whiles-i-made-a-bunch-of-retro-app-icons-for-macos/" type="text/html"/>
-      <source>
-        <id>https://johnwhiles.com/posts/my-icons</id>
-        <link href="https://johnwhiles.com/posts/my-icons"/>
-        <title>I made a bunch of &#x27;retro&#x27; App Icons for MacOS</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-        <updated>2023-10-07T17:24:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/john-whiles-i-made-a-bunch-of-retro-app-icons-for-macos/</id>
     <content type="html">
         
     </content>
