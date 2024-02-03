@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-02T13:05:00+00:00</updated>
+  <updated>2024-02-03T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Send your users this welcome email</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+    <published>2024-02-03T00:00:00+00:00</published>
+    <updated>2024-02-03T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/justin-jackson-send-your-users-this-welcome-email/"/>
+    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-send-your-users-this-welcome-email/" type="text/html"/>
+      <source>
+        <id>https://justinjackson.ca/welcome-email</id>
+        <link href="https://justinjackson.ca/welcome-email"/>
+        <title>Send your users this welcome email</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+        <updated>2024-02-03T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/justin-jackson-send-your-users-this-welcome-email/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Please add an RSS feed to your website</title>
         <author>
@@ -8530,30 +8554,6 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-lazygit-turns-5-musings-on-git-tuis-and-open-source/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>What happened to Paul Jarvis?</title>
-        <author>
-            <name>Justin Jackson</name>
-        </author>
-    <published>2023-08-04T00:00:00+00:00</published>
-    <updated>2023-08-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/justin-jackson-what-happened-to-paul-jarvis/"/>
-    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-what-happened-to-paul-jarvis/" type="text/html"/>
-      <source>
-        <id>https://justinjackson.ca/paul-jarvis</id>
-        <link href="https://justinjackson.ca/paul-jarvis"/>
-        <title>What happened to Paul Jarvis?</title>
-        <author>
-            <name>Justin Jackson</name>
-        </author>
-        <updated>2023-08-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/justin-jackson-what-happened-to-paul-jarvis/</id>
     <content type="html">
         
     </content>
