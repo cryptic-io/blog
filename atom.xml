@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-03T07:29:00+00:00</updated>
+  <updated>2024-02-03T10:55:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Mimo Diaries: Streams and Menus</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-02-03T10:55:00+00:00</published>
+    <updated>2024-02-03T10:55:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-the-mimo-diaries-streams-and-menus/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-the-mimo-diaries-streams-and-menus/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/apQFTE1HcbMUfZ2J</id>
+        <link href="https://manuelmoreale.com/@/page/apQFTE1HcbMUfZ2J"/>
+        <title>The Mimo Diaries: Streams and Menus</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-02-03T10:55:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-the-mimo-diaries-streams-and-menus/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>How to make Cloudflare properly cache a Remix site</title>
         <author>
@@ -1514,30 +1538,6 @@
       </source>
 
     <id>https://news.cryptic.io/cheapskate-saving-linux/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Indieweb Carnival</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-01-18T17:05:00+00:00</published>
-    <updated>2024-01-18T17:05:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-indieweb-carnival/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-indieweb-carnival/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/Nipm7DPDPjIegNim</id>
-        <link href="https://manuelmoreale.com/@/page/Nipm7DPDPjIegNim"/>
-        <title>Indieweb Carnival</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-01-18T17:05:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-indieweb-carnival/</id>
     <content type="html">
         
     </content>
