@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-05T06:45:00+00:00</updated>
+  <updated>2024-02-05T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Using Quadratic to Discover Newsletter Links</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-02-05T19:00:00+00:00</published>
+    <updated>2024-02-05T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-using-quadratic-to-discover-newsletter-links/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-using-quadratic-to-discover-newsletter-links/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/discovering-newsletter-links-with-quadratic/</id>
+        <link href="https://blog.jim-nielsen.com/2024/discovering-newsletter-links-with-quadratic/"/>
+        <title>Using Quadratic to Discover Newsletter Links</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-02-05T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-using-quadratic-to-discover-newsletter-links/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Routines</title>
         <author>
@@ -2306,30 +2330,6 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-how-to-reboot-a-linux-system-into-the-bios/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Idioms as Code</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-01-10T19:00:00+00:00</published>
-    <updated>2024-01-10T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-idioms-as-code/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-idioms-as-code/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/idioms-as-code/</id>
-        <link href="https://blog.jim-nielsen.com/2024/idioms-as-code/"/>
-        <title>Idioms as Code</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-01-10T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-idioms-as-code/</id>
     <content type="html">
         
     </content>
