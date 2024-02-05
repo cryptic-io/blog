@@ -79,6 +79,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Relationship Advice</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-02-05T00:00:00+00:00</published>
+    <updated>2024-02-05T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-relationship-advice/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-relationship-advice/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2890/</id>
+        <link href="https://xkcd.com/2890/"/>
+        <title>Relationship Advice</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-02-05T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-relationship-advice/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The pain points of building a copilot</title>
         <author>
             <name>Austin Z. Henley</name>
@@ -1082,30 +1106,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-slides-for-porting-piper-to-rk3588-at-local-meetup/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Fast Radio Bursts</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-01-26T00:00:00+00:00</published>
-    <updated>2024-01-26T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-fast-radio-bursts/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-fast-radio-bursts/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2886/</id>
-        <link href="https://xkcd.com/2886/"/>
-        <title>Fast Radio Bursts</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-01-26T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-fast-radio-bursts/</id>
     <content type="html">
         
     </content>
