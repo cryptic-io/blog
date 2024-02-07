@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-06T15:10:00+00:00</updated>
+  <updated>2024-02-07T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A Golden Era of Blogging</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-02-07T19:00:00+00:00</published>
+    <updated>2024-02-07T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-a-golden-era-of-blogging/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-a-golden-era-of-blogging/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/golden-era-blogging/</id>
+        <link href="https://blog.jim-nielsen.com/2024/golden-era-blogging/"/>
+        <title>A Golden Era of Blogging</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-02-07T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-a-golden-era-of-blogging/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Jehovah&#x27;s Witnesses do not number the days of the week</title>
         <author>
@@ -2258,30 +2282,6 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-review-of-wicked-cushions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>“The macOS App Icon Book” IRL</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-01-12T19:00:00+00:00</published>
-    <updated>2024-01-12T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-the-macos-app-icon-book-irl/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-the-macos-app-icon-book-irl/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/macos-icon-book-irl/</id>
-        <link href="https://blog.jim-nielsen.com/2024/macos-icon-book-irl/"/>
-        <title>“The macOS App Icon Book” IRL</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-01-12T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-the-macos-app-icon-book-irl/</id>
     <content type="html">
         
     </content>
