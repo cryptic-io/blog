@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-09T12:00:00+00:00</updated>
+  <updated>2024-02-10T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Window: Live, Constant Time Grep</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2024-02-10T00:00:00+00:00</published>
+    <updated>2024-02-10T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-window-live-constant-time-grep/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-window-live-constant-time-grep/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2024/02/10/window-live-constant-time-grep.html</id>
+        <link href="https://matklad.github.io/2024/02/10/window-live-constant-time-grep.html"/>
+        <title>Window: Live, Constant Time Grep</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2024-02-10T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-window-live-constant-time-grep/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>P&amp;B: Phil Gyford</title>
         <author>
@@ -6294,30 +6318,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-some-thoughts-on-software-expertise/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Data Oriented Blogging</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2023-11-07T00:00:00+00:00</published>
-    <updated>2023-11-07T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-data-oriented-blogging/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-data-oriented-blogging/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2023/11/07/dta-oriented-blogging.html</id>
-        <link href="https://matklad.github.io/2023/11/07/dta-oriented-blogging.html"/>
-        <title>Data Oriented Blogging</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2023-11-07T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-data-oriented-blogging/</id>
     <content type="html">
         
     </content>
