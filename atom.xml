@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-11T04:00:00+00:00</updated>
+  <updated>2024-02-11T14:01:13+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Building an efficient server-grade Arm NAS</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-02-11T14:01:13+00:00</published>
+    <updated>2024-02-11T14:01:13+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-building-an-efficient-servergrade-arm-nas/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-building-an-efficient-servergrade-arm-nas/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/building-efficient-server-grade-arm-nas</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/building-efficient-server-grade-arm-nas"/>
+        <title>Building an efficient server-grade Arm NAS</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-02-11T14:01:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-building-an-efficient-servergrade-arm-nas/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>RE: Dialectics and “Artificial Intelligence”</title>
         <author>
@@ -2642,30 +2666,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-why-all-is-true-prod-is-1-etc/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>MNT Reform - a hackable laptop, not for everyone</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-01-09T16:00:42+00:00</published>
-    <updated>2024-01-09T16:00:42+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-mnt-reform-a-hackable-laptop-not-for-everyone/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-mnt-reform-a-hackable-laptop-not-for-everyone/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/mnt-reform-hackable-laptop-not-everyone</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/mnt-reform-hackable-laptop-not-everyone"/>
-        <title>MNT Reform - a hackable laptop, not for everyone</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-01-09T16:00:42+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-mnt-reform-a-hackable-laptop-not-for-everyone/</id>
     <content type="html">
         
     </content>
