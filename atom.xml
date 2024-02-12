@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-11T17:01:27+00:00</updated>
+  <updated>2024-02-12T08:20:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Housekeeping</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-02-12T08:20:00+00:00</published>
+    <updated>2024-02-12T08:20:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-housekeeping/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-housekeeping/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/kGfl10NwD3Q2ITkN</id>
+        <link href="https://manuelmoreale.com/@/page/kGfl10NwD3Q2ITkN"/>
+        <title>Housekeeping</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-02-12T08:20:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-housekeeping/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A *New* Program for Graphic Design</title>
         <author>
@@ -338,30 +362,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-rant-on-arc-search/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why it&#x27;s impossible to agree on what&#x27;s allowed</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2024-02-07T00:00:00+00:00</published>
-    <updated>2024-02-07T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-why-its-impossible-to-agree-on-whats-allowed/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-why-its-impossible-to-agree-on-whats-allowed/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/impossible-agree/</id>
-        <link href="https://danluu.com/impossible-agree/"/>
-        <title>Why it&#x27;s impossible to agree on what&#x27;s allowed</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2024-02-07T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-why-its-impossible-to-agree-on-whats-allowed/</id>
     <content type="html">
         
     </content>
@@ -1466,30 +1466,6 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-the-userscript-that-kept-me-fed/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A People and Blogs PSA</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-01-27T13:55:00+00:00</published>
-    <updated>2024-01-27T13:55:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-people-and-blogs-psa/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-people-and-blogs-psa/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/6scRerLor1mQQyIr</id>
-        <link href="https://manuelmoreale.com/@/page/6scRerLor1mQQyIr"/>
-        <title>A People and Blogs PSA</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-01-27T13:55:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-people-and-blogs-psa/</id>
     <content type="html">
         
     </content>
@@ -14922,6 +14898,30 @@
       </source>
 
     <id>https://news.cryptic.io/maggie-appleton-metaphors-we-web-by/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A decade of major cache incidents at Twitter</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2022-02-02T00:00:00+00:00</published>
+    <updated>2022-02-02T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-a-decade-of-major-cache-incidents-at-twitter/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-a-decade-of-major-cache-incidents-at-twitter/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/cache-incidents/</id>
+        <link href="https://danluu.com/cache-incidents/"/>
+        <title>A decade of major cache incidents at Twitter</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2022-02-02T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-a-decade-of-major-cache-incidents-at-twitter/</id>
     <content type="html">
         
     </content>
