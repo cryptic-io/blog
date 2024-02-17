@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-17T04:00:00+00:00</updated>
+  <updated>2024-02-17T15:13:16+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Photographing the 2024 Total Solar Eclipse</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-02-17T15:13:16+00:00</published>
+    <updated>2024-02-17T15:13:16+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-photographing-the-2024-total-solar-eclipse/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-photographing-the-2024-total-solar-eclipse/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/photographing-2024-total-solar-eclipse</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/photographing-2024-total-solar-eclipse"/>
+        <title>Photographing the 2024 Total Solar Eclipse</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-02-17T15:13:16+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-photographing-the-2024-total-solar-eclipse/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Tenstorrent first thoughts</title>
         <author>
@@ -2834,30 +2858,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-be-loud-about-the-things-you-love/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Raspberry Pi 5 shortages shouldn&#x27;t last long</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-01-14T18:00:57+00:00</published>
-    <updated>2024-01-14T18:00:57+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-raspberry-pi-5-shortages-shouldnt-last-long/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-raspberry-pi-5-shortages-shouldnt-last-long/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/raspberry-pi-5-shortages-shouldnt-last-long</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/raspberry-pi-5-shortages-shouldnt-last-long"/>
-        <title>Raspberry Pi 5 shortages shouldn&#x27;t last long</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-01-14T18:00:57+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-raspberry-pi-5-shortages-shouldnt-last-long/</id>
     <content type="html">
         
     </content>
