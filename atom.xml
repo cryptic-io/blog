@@ -445,6 +445,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Social Photos</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2024-02-15T20:00:00+00:00</published>
+    <updated>2024-02-15T20:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-social-photos/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-social-photos/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2024/02/15/Social-Photos</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2024/02/15/Social-Photos"/>
+        <title>Social Photos</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2024-02-15T20:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-social-photos/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Zero to Unmaintainable in 1.2 Commands</title>
         <author>
             <name>Jim Nielsen</name>
@@ -5820,30 +5844,6 @@
       </source>
 
     <id>https://news.cryptic.io/allen-pike-you-should-have-a-research-question/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Late Light</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2023-11-28T20:00:00+00:00</published>
-    <updated>2023-11-28T20:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-late-light/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-late-light/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2023/11/28/Late-Light</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2023/11/28/Late-Light"/>
-        <title>Late Light</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2023-11-28T20:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-late-light/</id>
     <content type="html">
         
     </content>
