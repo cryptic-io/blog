@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-20T17:00:00+00:00</updated>
+  <updated>2024-02-20T23:16:24+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Planning vs Model Checking</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-02-20T23:16:24+00:00</published>
+    <updated>2024-02-20T23:16:24+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-planning-vs-model-checking/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-planning-vs-model-checking/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/planning-vs-model-checking/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/planning-vs-model-checking/"/>
+        <title>Planning vs Model Checking</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-02-20T23:16:24+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-planning-vs-model-checking/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Tools for Decreasing Your Productivity</title>
         <author>
@@ -6684,30 +6708,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-wolvic-store-experiment/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Some thoughts on software expertise</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2023-11-07T16:54:26+00:00</published>
-    <updated>2023-11-07T16:54:26+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-some-thoughts-on-software-expertise/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-some-thoughts-on-software-expertise/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/some-thoughts-on-software-expertise/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/some-thoughts-on-software-expertise/"/>
-        <title>Some thoughts on software expertise</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2023-11-07T16:54:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-some-thoughts-on-software-expertise/</id>
     <content type="html">
         
     </content>
