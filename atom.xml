@@ -4,8 +4,104 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-20T23:16:24+00:00</updated>
+  <updated>2024-02-21T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Two Quick Tips When Building With React Router</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-02-21T19:00:00+00:00</published>
+    <updated>2024-02-21T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-two-quick-tips-when-building-with-react-router/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-two-quick-tips-when-building-with-react-router/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/two-tips-building-with-react-router/</id>
+        <link href="https://blog.jim-nielsen.com/2024/two-tips-building-with-react-router/"/>
+        <title>Two Quick Tips When Building With React Router</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-02-21T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-two-quick-tips-when-building-with-react-router/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Water cooling is overkill for Pi 5</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-02-21T16:16:42+00:00</published>
+    <updated>2024-02-21T16:16:42+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-water-cooling-is-overkill-for-pi-5/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-water-cooling-is-overkill-for-pi-5/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/water-cooling-overkill-pi-5</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/water-cooling-overkill-pi-5"/>
+        <title>Water cooling is overkill for Pi 5</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-02-21T16:16:42+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-water-cooling-is-overkill-for-pi-5/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Mini Manifesto</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-02-21T16:12:46+00:00</published>
+    <updated>2024-02-21T16:12:46+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-mini-manifesto/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-mini-manifesto/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/mini-manifesto/</id>
+        <link href="https://robinrendle.com/notes/mini-manifesto/"/>
+        <title>Mini Manifesto</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-02-21T16:12:46+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-mini-manifesto/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Light Leap Years</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-02-21T00:00:00+00:00</published>
+    <updated>2024-02-21T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-light-leap-years/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-light-leap-years/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2897/</id>
+        <link href="https://xkcd.com/2897/"/>
+        <title>Light Leap Years</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-02-21T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-light-leap-years/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Planning vs Model Checking</title>
         <author>
@@ -973,30 +1069,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Sphere Tastiness</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-02-12T00:00:00+00:00</published>
-    <updated>2024-02-12T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-sphere-tastiness/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-sphere-tastiness/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2893/</id>
-        <link href="https://xkcd.com/2893/"/>
-        <title>Sphere Tastiness</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-02-12T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-sphere-tastiness/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Come join me on the DevRel team at Fly.io!</title>
         <author>
             <name>Xe Iaso</name>
@@ -1861,30 +1933,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Backrooms, Liminal Spaces, And The Subliminal Menace Of Loneliness in Indie Horror Games</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-    <published>2024-02-02T01:36:51+00:00</published>
-    <updated>2024-02-02T01:36:51+00:00</updated>
-    <link href="https://news.cryptic.io/nathalie-lawhead-backrooms-liminal-spaces-and-the-subliminal-menace-of-loneliness-in-indie-horror-games/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-backrooms-liminal-spaces-and-the-subliminal-menace-of-loneliness-in-indie-horror-games/" type="text/html"/>
-      <source>
-        <id>http://www.nathalielawhead.com/candybox/backrooms-liminal-spaces-and-the-subliminal-menace-of-loneliness-in-indie-horror-games</id>
-        <link href="http://www.nathalielawhead.com/candybox/backrooms-liminal-spaces-and-the-subliminal-menace-of-loneliness-in-indie-horror-games"/>
-        <title>Backrooms, Liminal Spaces, And The Subliminal Menace Of Loneliness in Indie Horror Games</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-        <updated>2024-02-02T01:36:51+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nathalie-lawhead-backrooms-liminal-spaces-and-the-subliminal-menace-of-loneliness-in-indie-horror-games/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>we&amp;rsquo;ve found it folks: mcmansion heaven</title>
         <author>
             <name>Kate Wagner</name>
@@ -2485,30 +2533,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Mounting an ext4 linux USB drive on macOS in 2024</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-01-24T16:28:22+00:00</published>
-    <updated>2024-01-24T16:28:22+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-mounting-an-ext4-linux-usb-drive-on-macos-in-2024/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-mounting-an-ext4-linux-usb-drive-on-macos-in-2024/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/mounting-ext4-linux-usb-drive-on-macos-2024</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/mounting-ext4-linux-usb-drive-on-macos-2024"/>
-        <title>Mounting an ext4 linux USB drive on macOS in 2024</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-01-24T16:28:22+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-mounting-an-ext4-linux-usb-drive-on-macos-in-2024/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>GitHub Search for research and learning</title>
         <author>
             <name>Hillel Wayne</name>
@@ -2672,30 +2696,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-if-it-doesnt-ship-then-it-doesnt-count/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Immeasurable Impact</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-01-21T19:00:00+00:00</published>
-    <updated>2024-01-21T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-immeasurable-impact/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-immeasurable-impact/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/immeasurable-impact/</id>
-        <link href="https://blog.jim-nielsen.com/2024/immeasurable-impact/"/>
-        <title>Immeasurable Impact</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-01-21T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-immeasurable-impact/</id>
     <content type="html">
         
     </content>
@@ -4333,30 +4333,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>BlueSuburbia out now on Steam Early Access!</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-    <published>2023-12-29T23:34:19+00:00</published>
-    <updated>2023-12-29T23:34:19+00:00</updated>
-    <link href="https://news.cryptic.io/nathalie-lawhead-bluesuburbia-out-now-on-steam-early-access/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-bluesuburbia-out-now-on-steam-early-access/" type="text/html"/>
-      <source>
-        <id>http://www.nathalielawhead.com/candybox/bluesuburbia-out-now-on-steam-early-access</id>
-        <link href="http://www.nathalielawhead.com/candybox/bluesuburbia-out-now-on-steam-early-access"/>
-        <title>BlueSuburbia out now on Steam Early Access!</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-        <updated>2023-12-29T23:34:19+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nathalie-lawhead-bluesuburbia-out-now-on-steam-early-access/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How I forked SteamOS for my living room PC</title>
         <author>
             <name>iliana etaoin</name>
@@ -5508,30 +5484,6 @@
       </source>
 
     <id>https://news.cryptic.io/degrowther-i-am-a-person-in-my-neighborhood/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Figure it out</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-12-01T17:23:56+00:00</published>
-    <updated>2023-12-01T17:23:56+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-figure-it-out/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-figure-it-out/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/figure-it-out/</id>
-        <link href="https://robinrendle.com/notes/figure-it-out/"/>
-        <title>Figure it out</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-12-01T17:23:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-figure-it-out/</id>
     <content type="html">
         
     </content>
@@ -6857,30 +6809,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>How To Download and Run the Flash Version of BlueSuburbia</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-    <published>2023-10-25T22:32:39+00:00</published>
-    <updated>2023-10-25T22:32:39+00:00</updated>
-    <link href="https://news.cryptic.io/nathalie-lawhead-how-to-download-and-run-the-flash-version-of-bluesuburbia/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-how-to-download-and-run-the-flash-version-of-bluesuburbia/" type="text/html"/>
-      <source>
-        <id>http://www.nathalielawhead.com/candybox/how-to-download-and-run-the-flash-version-of-bluesuburbia</id>
-        <link href="http://www.nathalielawhead.com/candybox/how-to-download-and-run-the-flash-version-of-bluesuburbia"/>
-        <title>How To Download and Run the Flash Version of BlueSuburbia</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-        <updated>2023-10-25T22:32:39+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nathalie-lawhead-how-to-download-and-run-the-flash-version-of-bluesuburbia/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The optimization treadmill: why I keep changing my computing setup all the time</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -7164,30 +7092,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-going-offscript/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>BlueSuburbia is an IndieCade 2023 Nominee!</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-    <published>2023-10-12T18:50:27+00:00</published>
-    <updated>2023-10-12T18:50:27+00:00</updated>
-    <link href="https://news.cryptic.io/nathalie-lawhead-bluesuburbia-is-an-indiecade-2023-nominee/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-bluesuburbia-is-an-indiecade-2023-nominee/" type="text/html"/>
-      <source>
-        <id>http://www.nathalielawhead.com/candybox/bluesuburbia-is-an-indiecade-2023-nominee</id>
-        <link href="http://www.nathalielawhead.com/candybox/bluesuburbia-is-an-indiecade-2023-nominee"/>
-        <title>BlueSuburbia is an IndieCade 2023 Nominee!</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-        <updated>2023-10-12T18:50:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nathalie-lawhead-bluesuburbia-is-an-indiecade-2023-nominee/</id>
     <content type="html">
         
     </content>
@@ -7797,30 +7701,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Generous Space of Alternative Game Engines (A Curation)</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-    <published>2023-09-14T01:23:18+00:00</published>
-    <updated>2023-09-14T01:23:18+00:00</updated>
-    <link href="https://news.cryptic.io/nathalie-lawhead-the-generous-space-of-alternative-game-engines-a-curation/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-the-generous-space-of-alternative-game-engines-a-curation/" type="text/html"/>
-      <source>
-        <id>http://www.nathalielawhead.com/candybox/the-generous-space-of-alternative-game-engines-a-curation</id>
-        <link href="http://www.nathalielawhead.com/candybox/the-generous-space-of-alternative-game-engines-a-curation"/>
-        <title>The Generous Space of Alternative Game Engines (A Curation)</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-        <updated>2023-09-14T01:23:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nathalie-lawhead-the-generous-space-of-alternative-game-engines-a-curation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Story Time: The Hackiest Feature of Them All</title>
         <author>
             <name>mediocregopher</name>
@@ -8344,30 +8224,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-pdoom/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Real Talk: Games About Trauma (art caught between “everything is horrible”, “everything is survivable”, and “this is too hard to talk about”)</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-    <published>2023-08-14T23:55:57+00:00</published>
-    <updated>2023-08-14T23:55:57+00:00</updated>
-    <link href="https://news.cryptic.io/nathalie-lawhead-real-talk-games-about-trauma-art-caught-between-everything-is-horrible-everything-is-survivable-and-this-is-too-hard-to-talk-about/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-real-talk-games-about-trauma-art-caught-between-everything-is-horrible-everything-is-survivable-and-this-is-too-hard-to-talk-about/" type="text/html"/>
-      <source>
-        <id>http://www.nathalielawhead.com/candybox/real-talk-games-about-trauma-art-caught-between-everything-is-horrible-everything-is-survivable-and-this-is-too-hard-to-talk-about</id>
-        <link href="http://www.nathalielawhead.com/candybox/real-talk-games-about-trauma-art-caught-between-everything-is-horrible-everything-is-survivable-and-this-is-too-hard-to-talk-about"/>
-        <title>Real Talk: Games About Trauma (art caught between “everything is horrible”, “everything is survivable”, and “this is too hard to talk about”)</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-        <updated>2023-08-14T23:55:57+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nathalie-lawhead-real-talk-games-about-trauma-art-caught-between-everything-is-horrible-everything-is-survivable-and-this-is-too-hard-to-talk-about/</id>
     <content type="html">
         
     </content>
@@ -9245,30 +9101,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>You scream into the void but the rate limit has been exceeded. Nobody can hear you scream.</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-    <published>2023-07-07T00:56:37+00:00</published>
-    <updated>2023-07-07T00:56:37+00:00</updated>
-    <link href="https://news.cryptic.io/nathalie-lawhead-you-scream-into-the-void-but-the-rate-limit-has-been-exceeded-nobody-can-hear-you-scream/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-you-scream-into-the-void-but-the-rate-limit-has-been-exceeded-nobody-can-hear-you-scream/" type="text/html"/>
-      <source>
-        <id>http://www.nathalielawhead.com/candybox/you-scream-into-the-void-but-the-rate-limit-has-been-exceeded-nobody-can-hear-you-scream</id>
-        <link href="http://www.nathalielawhead.com/candybox/you-scream-into-the-void-but-the-rate-limit-has-been-exceeded-nobody-can-hear-you-scream"/>
-        <title>You scream into the void but the rate limit has been exceeded. Nobody can hear you scream.</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-        <updated>2023-07-07T00:56:37+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nathalie-lawhead-you-scream-into-the-void-but-the-rate-limit-has-been-exceeded-nobody-can-hear-you-scream/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Your own transdisciplinarity</title>
         <author>
             <name>Patrick Tanguay</name>
@@ -9936,30 +9768,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-one-of-the-most-basic-requirements-for-success-is-also-one-of-the-most-difficult-to-get-right/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>BlueSuburbia demo is out! (more about the project, vision, and things coming…)</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-    <published>2023-05-18T23:31:53+00:00</published>
-    <updated>2023-05-18T23:31:53+00:00</updated>
-    <link href="https://news.cryptic.io/nathalie-lawhead-bluesuburbia-demo-is-out-more-about-the-project-vision-and-things-coming/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-bluesuburbia-demo-is-out-more-about-the-project-vision-and-things-coming/" type="text/html"/>
-      <source>
-        <id>http://www.nathalielawhead.com/candybox/bluesuburbia-demo-is-out-more-about-the-project-vision-and-things-coming</id>
-        <link href="http://www.nathalielawhead.com/candybox/bluesuburbia-demo-is-out-more-about-the-project-vision-and-things-coming"/>
-        <title>BlueSuburbia demo is out! (more about the project, vision, and things coming…)</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-        <updated>2023-05-18T23:31:53+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nathalie-lawhead-bluesuburbia-demo-is-out-more-about-the-project-vision-and-things-coming/</id>
     <content type="html">
         
     </content>
@@ -10973,30 +10781,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Indie Games and the promise of better spaces</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-    <published>2023-03-09T06:21:15+00:00</published>
-    <updated>2023-03-09T06:21:15+00:00</updated>
-    <link href="https://news.cryptic.io/nathalie-lawhead-indie-games-and-the-promise-of-better-spaces/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-indie-games-and-the-promise-of-better-spaces/" type="text/html"/>
-      <source>
-        <id>http://www.nathalielawhead.com/candybox/indie-games-and-the-promise-of-better-spaces</id>
-        <link href="http://www.nathalielawhead.com/candybox/indie-games-and-the-promise-of-better-spaces"/>
-        <title>Indie Games and the promise of better spaces</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-        <updated>2023-03-09T06:21:15+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nathalie-lawhead-indie-games-and-the-promise-of-better-spaces/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Curve into the target</title>
         <author>
             <name>Derek Sivers</name>
@@ -11184,30 +10968,6 @@
       </source>
 
     <id>https://news.cryptic.io/charlie-andrews-adding-a-sense-of-urgency-to-negotiations/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Documenting what it’s like to be treated humanely by a journalist</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-    <published>2023-02-22T01:41:34+00:00</published>
-    <updated>2023-02-22T01:41:34+00:00</updated>
-    <link href="https://news.cryptic.io/nathalie-lawhead-documenting-what-its-like-to-be-treated-humanely-by-a-journalist/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-documenting-what-its-like-to-be-treated-humanely-by-a-journalist/" type="text/html"/>
-      <source>
-        <id>http://www.nathalielawhead.com/candybox/documenting-what-its-like-to-be-treated-humanely-by-a-journalist</id>
-        <link href="http://www.nathalielawhead.com/candybox/documenting-what-its-like-to-be-treated-humanely-by-a-journalist"/>
-        <title>Documenting what it’s like to be treated humanely by a journalist</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-        <updated>2023-02-22T01:41:34+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nathalie-lawhead-documenting-what-its-like-to-be-treated-humanely-by-a-journalist/</id>
     <content type="html">
         
     </content>
