@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-21T19:00:00+00:00</updated>
+  <updated>2024-02-21T22:49:53+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A vintage network attack called smurf</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-02-21T22:49:53+00:00</published>
+    <updated>2024-02-21T22:49:53+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-a-vintage-network-attack-called-smurf/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-vintage-network-attack-called-smurf/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/02/21/bcast/</id>
+        <link href="https://rachelbythebay.com/w/2024/02/21/bcast/"/>
+        <title>A vintage network attack called smurf</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-02-21T22:49:53+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-a-vintage-network-attack-called-smurf/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Two Quick Tips When Building With React Router</title>
         <author>
@@ -320,30 +344,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-in-the-name-of-sustainablity-i-bought-a-power-meter/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Diseconomies of scale in fraud, spam, support, and moderation</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2024-02-18T00:00:00+00:00</published>
-    <updated>2024-02-18T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-diseconomies-of-scale-in-fraud-spam-support-and-moderation/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-diseconomies-of-scale-in-fraud-spam-support-and-moderation/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/diseconomies-scale/</id>
-        <link href="https://danluu.com/diseconomies-scale/"/>
-        <title>Diseconomies of scale in fraud, spam, support, and moderation</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2024-02-18T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-diseconomies-of-scale-in-fraud-spam-support-and-moderation/</id>
     <content type="html">
         
     </content>
@@ -5552,30 +5552,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-nonsend-futures-when/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Patching around a C++ crash with a little bit of Lua</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2023-12-07T19:24:57+00:00</published>
-    <updated>2023-12-07T19:24:57+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2023/12/07/header/</id>
-        <link href="https://rachelbythebay.com/w/2023/12/07/header/"/>
-        <title>Patching around a C++ crash with a little bit of Lua</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2023-12-07T19:24:57+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-patching-around-a-c-crash-with-a-little-bit-of-lua/</id>
     <content type="html">
         
     </content>
@@ -15192,6 +15168,30 @@
       </source>
 
     <id>https://news.cryptic.io/wesley-aptekarcassels-minify-and-gzip/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Misidentifying talent</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2022-02-21T00:00:00+00:00</published>
+    <updated>2022-02-21T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-misidentifying-talent/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-misidentifying-talent/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/talent/</id>
+        <link href="https://danluu.com/talent/"/>
+        <title>Misidentifying talent</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2022-02-21T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-misidentifying-talent/</id>
     <content type="html">
         
     </content>
