@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-21T22:49:53+00:00</updated>
+  <updated>2024-02-22T06:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>My very first career day</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2024-02-22T06:00:00+00:00</published>
+    <updated>2024-02-22T06:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-my-very-first-career-day/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-my-very-first-career-day/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2024/02/22/career-day/</id>
+        <link href="https://ounapuu.ee/posts/2024/02/22/career-day/"/>
+        <title>My very first career day</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2024-02-22T06:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-my-very-first-career-day/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A vintage network attack called smurf</title>
         <author>
@@ -8152,30 +8176,6 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-out-of-the-box/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The IKEA-powered homelab on a wall</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2023-09-07T03:00:00+00:00</published>
-    <updated>2023-09-07T03:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-ikeapowered-homelab-on-a-wall/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-ikeapowered-homelab-on-a-wall/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2023/09/07/ikea-powered-homelab/</id>
-        <link href="https://ounapuu.ee/posts/2023/09/07/ikea-powered-homelab/"/>
-        <title>The IKEA-powered homelab on a wall</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2023-09-07T03:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-ikeapowered-homelab-on-a-wall/</id>
     <content type="html">
         
     </content>
