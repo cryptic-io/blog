@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-23T12:00:00+00:00</updated>
+  <updated>2024-02-23T14:20:16+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>In Defense of Boilerplate</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2024-02-23T14:20:16+00:00</published>
+    <updated>2024-02-23T14:20:16+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-in-defense-of-boilerplate/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-in-defense-of-boilerplate/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/boilerplate</id>
+        <link href="https://mediocregopher.com/posts/boilerplate"/>
+        <title>In Defense of Boilerplate</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2024-02-23T14:20:16+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-in-defense-of-boilerplate/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>P&amp;B: Herman Martinus</title>
         <author>
@@ -8896,30 +8920,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-stopping-at-90/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to Errors Good</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2023-07-31T16:10:42+00:00</published>
-    <updated>2023-07-31T16:10:42+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-how-to-errors-good/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-how-to-errors-good/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/posts/errors</id>
-        <link href="https://mediocregopher.com/posts/errors"/>
-        <title>How to Errors Good</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2023-07-31T16:10:42+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-how-to-errors-good/</id>
     <content type="html">
         
     </content>
