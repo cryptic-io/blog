@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-25T04:54:46+00:00</updated>
+  <updated>2024-02-25T18:10:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>I have a new* website</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-02-25T18:10:00+00:00</published>
+    <updated>2024-02-25T18:10:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-i-have-a-new-website/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-i-have-a-new-website/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/o0nUfTu4za34SM9D</id>
+        <link href="https://manuelmoreale.com/@/page/o0nUfTu4za34SM9D"/>
+        <title>I have a new* website</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-02-25T18:10:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-i-have-a-new-website/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>1 &lt;&lt; n vs. 1U &lt;&lt; n and a cell phone autofocus problem</title>
         <author>
@@ -1712,30 +1736,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-a-golden-era-of-blogging/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A rant on ARC Search</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-02-07T17:50:00+00:00</published>
-    <updated>2024-02-07T17:50:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-rant-on-arc-search/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-rant-on-arc-search/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/cdXJ5HNGVkqYrnRN</id>
-        <link href="https://manuelmoreale.com/@/page/cdXJ5HNGVkqYrnRN"/>
-        <title>A rant on ARC Search</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-02-07T17:50:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-rant-on-arc-search/</id>
     <content type="html">
         
     </content>
