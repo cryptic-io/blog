@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-26T00:00:00+00:00</updated>
+  <updated>2024-02-26T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Subversive Hyperlink</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-02-26T19:00:00+00:00</published>
+    <updated>2024-02-26T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-the-subversive-hyperlink/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-the-subversive-hyperlink/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/the-subversive-hyperlink/</id>
+        <link href="https://blog.jim-nielsen.com/2024/the-subversive-hyperlink/"/>
+        <title>The Subversive Hyperlink</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-02-26T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-the-subversive-hyperlink/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Esperanto, Toki Pona, Swahili, Indonesian</title>
         <author>
@@ -2816,30 +2840,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-github-search-for-research-and-learning/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Origin of Online Handles</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-01-23T19:00:00+00:00</published>
-    <updated>2024-01-23T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-the-origin-of-online-handles/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-the-origin-of-online-handles/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/origin-of-online-handles/</id>
-        <link href="https://blog.jim-nielsen.com/2024/origin-of-online-handles/"/>
-        <title>The Origin of Online Handles</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-01-23T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-the-origin-of-online-handles/</id>
     <content type="html">
         
     </content>
