@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-27T00:00:00+00:00</updated>
+  <updated>2024-02-27T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>More Files Please</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-02-27T19:00:00+00:00</published>
+    <updated>2024-02-27T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-more-files-please/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-more-files-please/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/more-files-plz/</id>
+        <link href="https://blog.jim-nielsen.com/2024/more-files-plz/"/>
+        <title>More Files Please</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-02-27T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-more-files-please/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>How I backup</title>
         <author>
@@ -2768,30 +2792,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-resizing-macos-app-windows-for-169-screen-capture/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Online Handles: A Round-Up</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-01-28T19:00:00+00:00</published>
-    <updated>2024-01-28T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-online-handles-a-roundup/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-online-handles-a-roundup/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/online-handles-round-up/</id>
-        <link href="https://blog.jim-nielsen.com/2024/online-handles-round-up/"/>
-        <title>Online Handles: A Round-Up</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-01-28T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-online-handles-a-roundup/</id>
     <content type="html">
         
     </content>
