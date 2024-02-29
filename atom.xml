@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-28T12:58:09.793+00:00</updated>
+  <updated>2024-02-29T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Using axis lines for good or evil</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+    <published>2024-02-29T00:00:00+00:00</published>
+    <updated>2024-02-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dynomight-using-axis-lines-for-good-or-evil/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dynomight-using-axis-lines-for-good-or-evil/" type="text/html"/>
+      <source>
+        <id>https://dynomight.net/axes/</id>
+        <link href="https://dynomight.net/axes/"/>
+        <title>Using axis lines for good or evil</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+        <updated>2024-02-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dynomight-using-axis-lines-for-good-or-evil/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Why Pictures</title>
         <author>
@@ -7092,30 +7116,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-ginger-2023-update/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Are language models good at making predictions?</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-    <published>2023-11-02T00:00:00+00:00</published>
-    <updated>2023-11-02T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dynomight-are-language-models-good-at-making-predictions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dynomight-are-language-models-good-at-making-predictions/" type="text/html"/>
-      <source>
-        <id>https://dynomight.net/predictions/</id>
-        <link href="https://dynomight.net/predictions/"/>
-        <title>Are language models good at making predictions?</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-        <updated>2023-11-02T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dynomight-are-language-models-good-at-making-predictions/</id>
     <content type="html">
         
     </content>
