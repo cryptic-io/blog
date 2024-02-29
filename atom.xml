@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-29T16:53:20+00:00</updated>
+  <updated>2024-03-01T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>XeDN on Tigris</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2024-03-01T00:00:00+00:00</published>
+    <updated>2024-03-01T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-xedn-on-tigris/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-xedn-on-tigris/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/2024/xedn-tigris/</id>
+        <link href="https://xeiaso.net/blog/2024/xedn-tigris/"/>
+        <title>XeDN on Tigris</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2024-03-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-xedn-on-tigris/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Learning about ZFS and efficiency on my new Arm64 NAS</title>
         <author>
@@ -3032,30 +3056,6 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-dont-give-advice-be-useful/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A message from Techaro&#x27;s founder, Edwin Allison</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-01-23T00:00:00+00:00</published>
-    <updated>2024-01-23T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-a-message-from-techaros-founder-edwin-allison/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-a-message-from-techaros-founder-edwin-allison/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/shitposts/2024/techaro-layoffs/</id>
-        <link href="https://xeiaso.net/shitposts/2024/techaro-layoffs/"/>
-        <title>A message from Techaro&#x27;s founder, Edwin Allison</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-01-23T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-a-message-from-techaros-founder-edwin-allison/</id>
     <content type="html">
         
     </content>
