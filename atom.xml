@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-02-29T00:00:00+00:00</updated>
+  <updated>2024-02-29T16:53:20+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Learning about ZFS and efficiency on my new Arm64 NAS</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-02-29T16:53:20+00:00</published>
+    <updated>2024-02-29T16:53:20+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-learning-about-zfs-and-efficiency-on-my-new-arm64-nas/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-learning-about-zfs-and-efficiency-on-my-new-arm64-nas/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/learning-about-zfs-and-efficiency-on-my-new-arm64-nas</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/learning-about-zfs-and-efficiency-on-my-new-arm64-nas"/>
+        <title>Learning about ZFS and efficiency on my new Arm64 NAS</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-02-29T16:53:20+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-learning-about-zfs-and-efficiency-on-my-new-arm64-nas/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Chris Coyier smells like donkeys</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-02-29T16:50:00+00:00</published>
+    <updated>2024-02-29T16:50:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-chris-coyier-smells-like-donkeys/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-chris-coyier-smells-like-donkeys/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/iL7EoBTncVl6IzX3</id>
+        <link href="https://manuelmoreale.com/@/page/iL7EoBTncVl6IzX3"/>
+        <title>Chris Coyier smells like donkeys</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-02-29T16:50:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-chris-coyier-smells-like-donkeys/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Using axis lines for good or evil</title>
         <author>
@@ -1549,30 +1597,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Housekeeping</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-02-12T08:20:00+00:00</published>
-    <updated>2024-02-12T08:20:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-housekeeping/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-housekeeping/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/kGfl10NwD3Q2ITkN</id>
-        <link href="https://manuelmoreale.com/@/page/kGfl10NwD3Q2ITkN"/>
-        <title>Housekeeping</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-02-12T08:20:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-housekeeping/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>FOSDEM 2024: my experience, some notes and tech tips</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -2744,30 +2768,6 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-notes-on-cruises-pedestrian-accident/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Resizing macOS app windows for 16:9 screen capture</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-01-28T19:18:02+00:00</published>
-    <updated>2024-01-28T19:18:02+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-resizing-macos-app-windows-for-169-screen-capture/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-resizing-macos-app-windows-for-169-screen-capture/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/resizing-macos-app-windows-169-screen-capture</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/resizing-macos-app-windows-169-screen-capture"/>
-        <title>Resizing macOS app windows for 16:9 screen capture</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-01-28T19:18:02+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-resizing-macos-app-windows-for-169-screen-capture/</id>
     <content type="html">
         
     </content>
