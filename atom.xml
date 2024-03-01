@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-01T04:00:00+00:00</updated>
+  <updated>2024-03-01T04:16:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Many Used Computers are Dirt Cheap Again</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2024-03-01T04:16:00+00:00</published>
+    <updated>2024-03-01T04:16:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-many-used-computers-are-dirt-cheap-again/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-many-used-computers-are-dirt-cheap-again/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/computers-are-cheap-again.html</id>
+        <link href="https://cheapskatesguide.org/articles/computers-are-cheap-again.html"/>
+        <title>Many Used Computers are Dirt Cheap Again</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2024-03-01T04:16:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-many-used-computers-are-dirt-cheap-again/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Optimizing SoCs for Large Language Models on the edge</title>
         <author>
@@ -5048,30 +5072,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-micropelago-in-2023/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Slow Migration Away from Big Social Media May Be the Beginning of Something Much Better.</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2023-12-22T12:39:00+00:00</published>
-    <updated>2023-12-22T12:39:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-the-slow-migration-away-from-big-social-media-may-be-the-beginning-of-something-much-better/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-slow-migration-away-from-big-social-media-may-be-the-beginning-of-something-much-better/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/migration-from-big-social-media.html</id>
-        <link href="https://cheapskatesguide.org/articles/migration-from-big-social-media.html"/>
-        <title>The Slow Migration Away from Big Social Media May Be the Beginning of Something Much Better.</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2023-12-22T12:39:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-the-slow-migration-away-from-big-social-media-may-be-the-beginning-of-something-much-better/</id>
     <content type="html">
         
     </content>
