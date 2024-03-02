@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-02T04:00:00+00:00</updated>
+  <updated>2024-03-03T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Learning the joy of buying outfits</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-03-03T04:00:00+00:00</published>
+    <updated>2024-03-03T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-learning-the-joy-of-buying-outfits/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-learning-the-joy-of-buying-outfits/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/03-03-learning-the-joy-of-buying-outfits.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/03-03-learning-the-joy-of-buying-outfits.gmi"/>
+        <title>Learning the joy of buying outfits</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-03-03T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-learning-the-joy-of-buying-outfits/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>CORS on the Drogon web framework</title>
         <author>
@@ -4400,30 +4424,6 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-fields-of-transmission/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>My journey setting up my Framework 13 AMD, Arch Linux and OpenBSD</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-01-03T04:00:00+00:00</published>
-    <updated>2024-01-03T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-my-journey-setting-up-my-framework-13-amd-arch-linux-and-openbsd/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-my-journey-setting-up-my-framework-13-amd-arch-linux-and-openbsd/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/01-03-my-journey-setting-up-my-framework-13-archlinux-and-openbsd.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/01-03-my-journey-setting-up-my-framework-13-archlinux-and-openbsd.gmi"/>
-        <title>My journey setting up my Framework 13 AMD, Arch Linux and OpenBSD</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-01-03T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-my-journey-setting-up-my-framework-13-amd-arch-linux-and-openbsd/</id>
     <content type="html">
         
     </content>
