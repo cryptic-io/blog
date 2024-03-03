@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-03T09:45:00+00:00</updated>
+  <updated>2024-03-03T23:02:22+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Bugs I’ve filed on browsers</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2024-03-03T23:02:22+00:00</published>
+    <updated>2024-03-03T23:02:22+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-bugs-ive-filed-on-browsers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-bugs-ive-filed-on-browsers/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2024/03/03/bugs-ive-filed-on-browsers/</id>
+        <link href="https://nolanlawson.com/2024/03/03/bugs-ive-filed-on-browsers/"/>
+        <title>Bugs I’ve filed on browsers</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2024-03-03T23:02:22+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-bugs-ive-filed-on-browsers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>IndieWeb Carnival: Roundup</title>
         <author>
@@ -12096,30 +12120,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-how-is-it-that-people-can-be-annoying-without-doing-anything/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>2022 book review</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-    <published>2022-12-30T17:59:11+00:00</published>
-    <updated>2022-12-30T17:59:11+00:00</updated>
-    <link href="https://news.cryptic.io/nolan-lawson-2022-book-review/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-2022-book-review/" type="text/html"/>
-      <source>
-        <id>https://nolanlawson.com/2022/12/30/2022-book-review/</id>
-        <link href="https://nolanlawson.com/2022/12/30/2022-book-review/"/>
-        <title>2022 book review</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-        <updated>2022-12-30T17:59:11+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nolan-lawson-2022-book-review/</id>
     <content type="html">
         
     </content>
