@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-05T19:00:00+00:00</updated>
+  <updated>2024-03-06T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>This page contains QOI images</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-03-06T04:00:00+00:00</published>
+    <updated>2024-03-06T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-this-page-contains-qoi-images/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-this-page-contains-qoi-images/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/03-06-this-page-contains-qoi-images.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/03-06-this-page-contains-qoi-images.gmi"/>
+        <title>This page contains QOI images</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-03-06T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-this-page-contains-qoi-images/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>My Guest Appearance on ShopTalk Show #605</title>
         <author>
@@ -3200,30 +3224,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-a-unified-theory-of-fucks/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Slides for porting Piper to RK3588 at local meetup</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-01-26T04:00:00+00:00</published>
-    <updated>2024-01-26T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-slides-for-porting-piper-to-rk3588-at-local-meetup/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-slides-for-porting-piper-to-rk3588-at-local-meetup/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/01-26-slides-for-porting-piper-to-rk3588-at-local-meetup.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/01-26-slides-for-porting-piper-to-rk3588-at-local-meetup.gmi"/>
-        <title>Slides for porting Piper to RK3588 at local meetup</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-01-26T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-slides-for-porting-piper-to-rk3588-at-local-meetup/</id>
     <content type="html">
         
     </content>
