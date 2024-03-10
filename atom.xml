@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-10T16:48:14+00:00</updated>
+  <updated>2024-03-10T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Play My Music</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2024-03-10T19:00:00+00:00</published>
+    <updated>2024-03-10T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-play-my-music/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-play-my-music/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2024/03/10/Play-My-Music</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2024/03/10/Play-My-Music"/>
+        <title>Play My Music</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2024-03-10T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-play-my-music/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Be kind, be cool</title>
         <author>
@@ -50,6 +74,30 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-why-cant-programmers-agree-on-anything/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The De-Google Project</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2024-03-09T20:00:00+00:00</published>
+    <updated>2024-03-09T20:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-the-degoogle-project/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-the-degoogle-project/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2024/03/09/DeGoogling</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2024/03/09/DeGoogling"/>
+        <title>The De-Google Project</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2024-03-09T20:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-the-degoogle-project/</id>
     <content type="html">
         
     </content>
@@ -5749,30 +5797,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Planes, Cameras, Capitals</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2023-12-20T20:00:00+00:00</published>
-    <updated>2023-12-20T20:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-planes-cameras-capitals/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-planes-cameras-capitals/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2023/12/20/Travel-Notes</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2023/12/20/Travel-Notes"/>
-        <title>Planes, Cameras, Capitals</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2023-12-20T20:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-planes-cameras-capitals/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Managing Technical Debt</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -6128,30 +6152,6 @@
       </source>
 
     <id>https://news.cryptic.io/derek-sivers-walk-and-talk/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Recent Music Books</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2023-12-11T20:00:00+00:00</published>
-    <updated>2023-12-11T20:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-recent-music-books/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-recent-music-books/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2023/12/11/Recent-Music-Books</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2023/12/11/Recent-Music-Books"/>
-        <title>Recent Music Books</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2023-12-11T20:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-recent-music-books/</id>
     <content type="html">
         
     </content>
