@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-09T11:50:00+00:00</updated>
+  <updated>2024-03-10T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Why Can’t Programmers Agree on Anything?</title>
+        <author>
+            <name>Jesse Duffield</name>
+        </author>
+    <published>2024-03-10T00:00:00+00:00</published>
+    <updated>2024-03-10T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jesse-duffield-why-cant-programmers-agree-on-anything/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jesse-duffield-why-cant-programmers-agree-on-anything/" type="text/html"/>
+      <source>
+        <id>https://jesseduffield.com/Programmer-Disagreement/</id>
+        <link href="https://jesseduffield.com/Programmer-Disagreement/"/>
+        <title>Why Can’t Programmers Agree on Anything?</title>
+        <author>
+            <name>Jesse Duffield</name>
+        </author>
+        <updated>2024-03-10T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jesse-duffield-why-cant-programmers-agree-on-anything/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Digital walled gardens</title>
         <author>
@@ -11928,30 +11952,6 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-among-the-shadow-librarians/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Don’t Read This Follow-up Post ‘Unless’ You ARE A Non-Ruby Developer</title>
-        <author>
-            <name>Jesse Duffield</name>
-        </author>
-    <published>2022-12-15T00:00:00+00:00</published>
-    <updated>2022-12-15T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jesse-duffield-dont-read-this-followup-post-unless-you-are-a-nonruby-developer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jesse-duffield-dont-read-this-followup-post-unless-you-are-a-nonruby-developer/" type="text/html"/>
-      <source>
-        <id>https://jesseduffield.com/Unless-Responses/</id>
-        <link href="https://jesseduffield.com/Unless-Responses/"/>
-        <title>Don’t Read This Follow-up Post ‘Unless’ You ARE A Non-Ruby Developer</title>
-        <author>
-            <name>Jesse Duffield</name>
-        </author>
-        <updated>2022-12-15T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jesse-duffield-dont-read-this-followup-post-unless-you-are-a-nonruby-developer/</id>
     <content type="html">
         
     </content>
