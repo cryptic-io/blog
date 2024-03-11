@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-10T19:00:00+00:00</updated>
+  <updated>2024-03-11T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>AI gives the news you need</title>
+        <author>
+            <name>Derek Sivers</name>
+        </author>
+    <published>2024-03-11T00:00:00+00:00</published>
+    <updated>2024-03-11T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/derek-sivers-ai-gives-the-news-you-need/"/>
+    <link rel="alternate" href="https://news.cryptic.io/derek-sivers-ai-gives-the-news-you-need/" type="text/html"/>
+      <source>
+        <id>https://sive.rs/ainews</id>
+        <link href="https://sive.rs/ainews"/>
+        <title>AI gives the news you need</title>
+        <author>
+            <name>Derek Sivers</name>
+        </author>
+        <updated>2024-03-11T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/derek-sivers-ai-gives-the-news-you-need/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Play My Music</title>
         <author>
@@ -10440,30 +10464,6 @@
       </source>
 
     <id>https://news.cryptic.io/derek-sivers-why-i-let-go-of-my-us-citizenship/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>the Michael Browne suits</title>
-        <author>
-            <name>Derek Sivers</name>
-        </author>
-    <published>2023-04-15T00:00:00+00:00</published>
-    <updated>2023-04-15T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/derek-sivers-the-michael-browne-suits/"/>
-    <link rel="alternate" href="https://news.cryptic.io/derek-sivers-the-michael-browne-suits/" type="text/html"/>
-      <source>
-        <id>https://sive.rs/suits</id>
-        <link href="https://sive.rs/suits"/>
-        <title>the Michael Browne suits</title>
-        <author>
-            <name>Derek Sivers</name>
-        </author>
-        <updated>2023-04-15T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/derek-sivers-the-michael-browne-suits/</id>
     <content type="html">
         
     </content>
