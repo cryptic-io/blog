@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-12T00:00:00+00:00</updated>
+  <updated>2024-03-12T04:57:08+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Fixing nginx Error: Undefined constant PDO::MYSQL_ATTR_USE_BUFFERED_QUERY</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-03-12T04:57:08+00:00</published>
+    <updated>2024-03-12T04:57:08+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-fixing-nginx-error-undefined-constant-pdomysqlattrusebufferedquery/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-fixing-nginx-error-undefined-constant-pdomysqlattrusebufferedquery/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/fixing-nginx-error-undefined-constant-pdomysqlattrusebufferedquery</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/fixing-nginx-error-undefined-constant-pdomysqlattrusebufferedquery"/>
+        <title>Fixing nginx Error: Undefined constant PDO::MYSQL_ATTR_USE_BUFFERED_QUERY</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-03-12T04:57:08+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-fixing-nginx-error-undefined-constant-pdomysqlattrusebufferedquery/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>It shows what you need to believe</title>
         <author>
@@ -3464,30 +3488,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-more-reflection-on-the-climate-and-myself/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Highly-condensed time-lapse footage with Frigate</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-02-02T03:10:42+00:00</published>
-    <updated>2024-02-02T03:10:42+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-highlycondensed-timelapse-footage-with-frigate/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-highlycondensed-timelapse-footage-with-frigate/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/highly-condensed-time-lapse-footage-frigate</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/highly-condensed-time-lapse-footage-frigate"/>
-        <title>Highly-condensed time-lapse footage with Frigate</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-02-02T03:10:42+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-highlycondensed-timelapse-footage-with-frigate/</id>
     <content type="html">
         
     </content>
