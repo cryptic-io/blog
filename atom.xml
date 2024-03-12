@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-12T07:25:00+00:00</updated>
+  <updated>2024-03-12T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Following Links</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-03-12T19:00:00+00:00</published>
+    <updated>2024-03-12T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-following-links/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-following-links/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/following-links/</id>
+        <link href="https://blog.jim-nielsen.com/2024/following-links/"/>
+        <title>Following Links</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-03-12T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-following-links/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Housekeeping</title>
         <author>
@@ -2696,30 +2720,6 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-oops-i-published-my-drafts/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Case For Design Engineers, Pt. II</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-02-12T19:00:00+00:00</published>
-    <updated>2024-02-12T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-the-case-for-design-engineers-pt-ii/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-the-case-for-design-engineers-pt-ii/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/the-case-for-design-engineers-pt-ii/</id>
-        <link href="https://blog.jim-nielsen.com/2024/the-case-for-design-engineers-pt-ii/"/>
-        <title>The Case For Design Engineers, Pt. II</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-02-12T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-the-case-for-design-engineers-pt-ii/</id>
     <content type="html">
         
     </content>
