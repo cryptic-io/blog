@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-13T14:54:15+00:00</updated>
+  <updated>2024-03-14T14:00:37+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Die shots and transistor-level debugging on Raspberry Pi 5</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-03-14T14:00:37+00:00</published>
+    <updated>2024-03-14T14:00:37+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-die-shots-and-transistorlevel-debugging-on-raspberry-pi-5/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-die-shots-and-transistorlevel-debugging-on-raspberry-pi-5/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/die-shots-and-transistor-level-debugging-on-raspberry-pi-5</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/die-shots-and-transistor-level-debugging-on-raspberry-pi-5"/>
+        <title>Die shots and transistor-level debugging on Raspberry Pi 5</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-03-14T14:00:37+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-die-shots-and-transistorlevel-debugging-on-raspberry-pi-5/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Everything is espionage: Things I learned researching Assange</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+    <published>2024-03-14T00:00:00+00:00</published>
+    <updated>2024-03-14T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dynomight-everything-is-espionage-things-i-learned-researching-assange/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dynomight-everything-is-espionage-things-i-learned-researching-assange/" type="text/html"/>
+      <source>
+        <id>https://dynomight.net/espionage/</id>
+        <link href="https://dynomight.net/espionage/"/>
+        <title>Everything is espionage: Things I learned researching Assange</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+        <updated>2024-03-14T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dynomight-everything-is-espionage-things-i-learned-researching-assange/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>An important consideration about Pi 5 overclocking</title>
         <author>
@@ -2912,30 +2960,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-jehovahs-witnesses-do-not-number-the-days-of-the-week/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Waveshare&#x27;s PoE HAT is the first for Raspberry Pi 5</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-02-06T15:00:27+00:00</published>
-    <updated>2024-02-06T15:00:27+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-waveshares-poe-hat-is-the-first-for-raspberry-pi-5/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-waveshares-poe-hat-is-the-first-for-raspberry-pi-5/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/waveshares-poe-hat-first-raspberry-pi-5</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/waveshares-poe-hat-first-raspberry-pi-5"/>
-        <title>Waveshare&#x27;s PoE HAT is the first for Raspberry Pi 5</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-02-06T15:00:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-waveshares-poe-hat-is-the-first-for-raspberry-pi-5/</id>
     <content type="html">
         
     </content>
@@ -6756,30 +6780,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-can-i-be-on-your-podcast/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>What’s so great about tunnel man?</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-    <published>2023-11-09T00:00:00+00:00</published>
-    <updated>2023-11-09T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dynomight-whats-so-great-about-tunnel-man/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dynomight-whats-so-great-about-tunnel-man/" type="text/html"/>
-      <source>
-        <id>https://dynomight.net/tunnel-man/</id>
-        <link href="https://dynomight.net/tunnel-man/"/>
-        <title>What’s so great about tunnel man?</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-        <updated>2023-11-09T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dynomight-whats-so-great-about-tunnel-man/</id>
     <content type="html">
         
     </content>
