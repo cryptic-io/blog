@@ -103,6 +103,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Earth</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-03-13T00:00:00+00:00</published>
+    <updated>2024-03-13T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-earth/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-earth/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2906/</id>
+        <link href="https://xkcd.com/2906/"/>
+        <title>Earth</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-03-13T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-earth/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Following Links</title>
         <author>
             <name>Jim Nielsen</name>
@@ -1010,30 +1034,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-even-without-an-alien-invasion-february-22-on-talos-i-would-have-been-a-shitshow/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Ice Core</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-03-04T00:00:00+00:00</published>
-    <updated>2024-03-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-ice-core/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-ice-core/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2902/</id>
-        <link href="https://xkcd.com/2902/"/>
-        <title>Ice Core</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-03-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-ice-core/</id>
     <content type="html">
         
     </content>
