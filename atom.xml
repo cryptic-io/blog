@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-15T12:00:00+00:00</updated>
+  <updated>2024-03-15T19:24:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Nix is a better Docker image builder than Docker&#x27;s image builder</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2024-03-15T19:24:00+00:00</published>
+    <updated>2024-03-15T19:24:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-nix-is-a-better-docker-image-builder-than-dockers-image-builder/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-nix-is-a-better-docker-image-builder-than-dockers-image-builder/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/talks/2024/nix-docker-build/</id>
+        <link href="https://xeiaso.net/talks/2024/nix-docker-build/"/>
+        <title>Nix is a better Docker image builder than Docker&#x27;s image builder</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2024-03-15T19:24:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-nix-is-a-better-docker-image-builder-than-dockers-image-builder/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>P&amp;B: Sara Joy</title>
         <author>
@@ -3872,30 +3896,6 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-notes-on-search-and-ai/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Xe Iaso on usesthis.com</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-01-31T00:00:00+00:00</published>
-    <updated>2024-01-31T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-xe-iaso-on-usesthiscom/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-xe-iaso-on-usesthiscom/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/2024/usesthis/</id>
-        <link href="https://xeiaso.net/blog/2024/usesthis/"/>
-        <title>Xe Iaso on usesthis.com</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-01-31T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-xe-iaso-on-usesthiscom/</id>
     <content type="html">
         
     </content>
