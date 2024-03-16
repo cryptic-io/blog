@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-16T00:21:41+00:00</updated>
+  <updated>2024-03-16T22:05:21+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Ambivalent about code linters</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+    <published>2024-03-16T22:05:21+00:00</published>
+    <updated>2024-03-16T22:05:21+00:00</updated>
+    <link href="https://news.cryptic.io/degrowther-ambivalent-about-code-linters/"/>
+    <link rel="alternate" href="https://news.cryptic.io/degrowther-ambivalent-about-code-linters/" type="text/html"/>
+      <source>
+        <id>https://degrowther.smol.pub/20240316_linters</id>
+        <link href="https://degrowther.smol.pub/20240316_linters"/>
+        <title>Ambivalent about code linters</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+        <updated>2024-03-16T22:05:21+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/degrowther-ambivalent-about-code-linters/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Making Own Your Web More Sustainable</title>
         <author>
@@ -12408,30 +12432,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-ellis-practice-being-a-beginner/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Twitter and autonomy</title>
-        <author>
-            <name>degrowther</name>
-        </author>
-    <published>2022-11-01T22:15:53+00:00</published>
-    <updated>2022-11-01T22:15:53+00:00</updated>
-    <link href="https://news.cryptic.io/degrowther-twitter-and-autonomy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/degrowther-twitter-and-autonomy/" type="text/html"/>
-      <source>
-        <id>https://degrowther.smol.pub/20221101_twitter_autonomy</id>
-        <link href="https://degrowther.smol.pub/20221101_twitter_autonomy"/>
-        <title>Twitter and autonomy</title>
-        <author>
-            <name>degrowther</name>
-        </author>
-        <updated>2022-11-01T22:15:53+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/degrowther-twitter-and-autonomy/</id>
     <content type="html">
         
     </content>
