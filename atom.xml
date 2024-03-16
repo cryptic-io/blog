@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-15T21:34:28+00:00</updated>
+  <updated>2024-03-16T00:21:41+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Making Own Your Web More Sustainable</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2024-03-16T00:21:41+00:00</published>
+    <updated>2024-03-16T00:21:41+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-making-own-your-web-more-sustainable/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-making-own-your-web-more-sustainable/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/making-own-your-web-more-sustainable</id>
+        <link href="https://matthiasott.com/notes/making-own-your-web-more-sustainable"/>
+        <title>Making Own Your Web More Sustainable</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2024-03-16T00:21:41+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-making-own-your-web-more-sustainable/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Python question: argv in main()?</title>
         <author>
@@ -6876,30 +6900,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-upgrading-to-freebsd-14-how-to-fix-a-broken-bios-bootcode/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Climate Optimism</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2023-11-21T23:23:29+00:00</published>
-    <updated>2023-11-21T23:23:29+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-climate-optimism/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-climate-optimism/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/climate-optimism</id>
-        <link href="https://matthiasott.com/notes/climate-optimism"/>
-        <title>Climate Optimism</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2023-11-21T23:23:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-climate-optimism/</id>
     <content type="html">
         
     </content>
