@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-19T19:00:00+00:00</updated>
+  <updated>2024-03-19T22:28:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Fixing the Logitech Spotlight</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2024-03-19T22:28:00+00:00</published>
+    <updated>2024-03-19T22:28:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-fixing-the-logitech-spotlight/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-fixing-the-logitech-spotlight/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/fixing-the-logitech-spotlight</id>
+        <link href="https://matthiasott.com/notes/fixing-the-logitech-spotlight"/>
+        <title>Fixing the Logitech Spotlight</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2024-03-19T22:28:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-fixing-the-logitech-spotlight/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Making Films and Making Websites</title>
         <author>
@@ -5576,30 +5600,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-resolutions-are-dumb/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>2024: The Year of the Personal Website</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-    <published>2024-01-01T09:16:00+00:00</published>
-    <updated>2024-01-01T09:16:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-2024-the-year-of-the-personal-website/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-2024-the-year-of-the-personal-website/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/2024-the-year-of-the-personal-website</id>
-        <link href="https://matthiasott.com/notes/2024-the-year-of-the-personal-website"/>
-        <title>2024: The Year of the Personal Website</title>
-        <author>
-            <name>matthiasott</name>
-        </author>
-        <updated>2024-01-01T09:16:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthiasott-2024-the-year-of-the-personal-website/</id>
     <content type="html">
         
     </content>
