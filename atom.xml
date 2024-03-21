@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-21T00:00:00+00:00</updated>
+  <updated>2024-03-21T15:55:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Why I don’t write dev posts</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-03-21T15:55:00+00:00</published>
+    <updated>2024-03-21T15:55:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-why-i-dont-write-dev-posts/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-why-i-dont-write-dev-posts/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/yZjUFyBIFce9NOxR</id>
+        <link href="https://manuelmoreale.com/@/page/yZjUFyBIFce9NOxR"/>
+        <title>Why I don’t write dev posts</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-03-21T15:55:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-why-i-dont-write-dev-posts/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Zig defer Patterns</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2024-03-21T00:00:00+00:00</published>
+    <updated>2024-03-21T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-zig-defer-patterns/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-zig-defer-patterns/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2024/03/21/defer-patterns.html</id>
+        <link href="https://matklad.github.io/2024/03/21/defer-patterns.html"/>
+        <title>Zig defer Patterns</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2024-03-21T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-zig-defer-patterns/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Things that don’t work</title>
         <author>
@@ -386,30 +434,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-making-own-your-web-more-sustainable/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How web bloat impacts users with slow devices</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2024-03-16T00:00:00+00:00</published>
-    <updated>2024-03-16T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/slow-device/</id>
-        <link href="https://danluu.com/slow-device/"/>
-        <title>How web bloat impacts users with slow devices</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2024-03-16T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/</id>
     <content type="html">
         
     </content>
@@ -1658,30 +1682,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-ai-is-like-a-lossy-jpeg/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>IndieWeb Carnival: Accessibility in the Small Web</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-03-04T16:45:00+00:00</published>
-    <updated>2024-03-04T16:45:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-indieweb-carnival-accessibility-in-the-small-web/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-indieweb-carnival-accessibility-in-the-small-web/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/U4IAIzpTujWFPV2r</id>
-        <link href="https://manuelmoreale.com/@/page/U4IAIzpTujWFPV2r"/>
-        <title>IndieWeb Carnival: Accessibility in the Small Web</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-03-04T16:45:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-indieweb-carnival-accessibility-in-the-small-web/</id>
     <content type="html">
         
     </content>
@@ -7236,30 +7236,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-lets-play-a-game/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>IronBeetle</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2023-11-16T00:00:00+00:00</published>
-    <updated>2023-11-16T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-ironbeetle/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-ironbeetle/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2023/11/16/IronBeetle.html</id>
-        <link href="https://matklad.github.io/2023/11/16/IronBeetle.html"/>
-        <title>IronBeetle</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2023-11-16T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-ironbeetle/</id>
     <content type="html">
         
     </content>
@@ -14448,6 +14424,30 @@
       </source>
 
     <id>https://news.cryptic.io/wesley-aptekarcassels-subdomains-as-identity/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>In defense of simple architectures</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2022-04-06T00:00:00+00:00</published>
+    <updated>2022-04-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/simple-architectures/</id>
+        <link href="https://danluu.com/simple-architectures/"/>
+        <title>In defense of simple architectures</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2022-04-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/</id>
     <content type="html">
         
     </content>
