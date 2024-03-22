@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-22T12:00:00+00:00</updated>
+  <updated>2024-03-22T14:00:13+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Build log: Power Mac G4 MDD</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-03-22T14:00:13+00:00</published>
+    <updated>2024-03-22T14:00:13+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-build-log-power-mac-g4-mdd/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-build-log-power-mac-g4-mdd/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/build-log-power-mac-g4-mdd</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/build-log-power-mac-g4-mdd"/>
+        <title>Build log: Power Mac G4 MDD</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-03-22T14:00:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-build-log-power-mac-g4-mdd/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Build log: Macintosh PowerBook 3400c</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-03-22T14:00:06+00:00</published>
+    <updated>2024-03-22T14:00:06+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-build-log-macintosh-powerbook-3400c/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-build-log-macintosh-powerbook-3400c/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/build-log-macintosh-powerbook-3400c</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/build-log-macintosh-powerbook-3400c"/>
+        <title>Build log: Macintosh PowerBook 3400c</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-03-22T14:00:06+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-build-log-macintosh-powerbook-3400c/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>P&amp;B: Taylor Troesh</title>
         <author>
@@ -530,6 +578,30 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-making-own-your-web-more-sustainable/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>How web bloat impacts users with slow devices</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2024-03-16T00:00:00+00:00</published>
+    <updated>2024-03-16T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/slow-device/</id>
+        <link href="https://danluu.com/slow-device/"/>
+        <title>How web bloat impacts users with slow devices</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2024-03-16T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/</id>
     <content type="html">
         
     </content>
@@ -2767,30 +2839,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>My TODO list is a .txt file on the desktop</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-02-20T03:42:13+00:00</published>
-    <updated>2024-02-20T03:42:13+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-my-todo-list-is-a-txt-file-on-the-desktop/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-my-todo-list-is-a-txt-file-on-the-desktop/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/my-todo-list-txt-file-on-desktop</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/my-todo-list-txt-file-on-desktop"/>
-        <title>My TODO list is a .txt file on the desktop</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-02-20T03:42:13+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-my-todo-list-is-a-txt-file-on-the-desktop/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>UI=f(org): UI is a Function of Your Organization</title>
         <author>
             <name>Jim Nielsen</name>
@@ -2936,30 +2984,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-serving-a-website-from-a-git-repo-without-cloning-it/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Photographing the 2024 Total Solar Eclipse</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-02-17T15:13:16+00:00</published>
-    <updated>2024-02-17T15:13:16+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-photographing-the-2024-total-solar-eclipse/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-photographing-the-2024-total-solar-eclipse/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/photographing-2024-total-solar-eclipse</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/photographing-2024-total-solar-eclipse"/>
-        <title>Photographing the 2024 Total Solar Eclipse</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-02-17T15:13:16+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-photographing-the-2024-total-solar-eclipse/</id>
     <content type="html">
         
     </content>
@@ -14424,30 +14448,6 @@
       </source>
 
     <id>https://news.cryptic.io/wesley-aptekarcassels-subdomains-as-identity/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>In defense of simple architectures</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2022-04-06T00:00:00+00:00</published>
-    <updated>2022-04-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/simple-architectures/</id>
-        <link href="https://danluu.com/simple-architectures/"/>
-        <title>In defense of simple architectures</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2022-04-06T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/</id>
     <content type="html">
         
     </content>
