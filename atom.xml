@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-22T14:00:13+00:00</updated>
+  <updated>2024-03-23T03:22:16+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Murderbot Diaries</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-03-23T03:22:16+00:00</published>
+    <updated>2024-03-23T03:22:16+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-the-murderbot-diaries/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-murderbot-diaries/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/murderbot-diaries/</id>
+        <link href="https://robinrendle.com/notes/murderbot-diaries/"/>
+        <title>The Murderbot Diaries</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-03-23T03:22:16+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-the-murderbot-diaries/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Build log: Power Mac G4 MDD</title>
         <author>
@@ -6104,30 +6128,6 @@
       </source>
 
     <id>https://news.cryptic.io/degrowther-new-years-resolutions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>22 panels</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2023-12-27T18:17:26+00:00</published>
-    <updated>2023-12-27T18:17:26+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-22-panels/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-22-panels/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/22-panels/</id>
-        <link href="https://robinrendle.com/notes/22-panels/"/>
-        <title>22 panels</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2023-12-27T18:17:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-22-panels/</id>
     <content type="html">
         
     </content>
