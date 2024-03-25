@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-25T00:24:24+00:00</updated>
+  <updated>2024-03-25T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Allure of Local-First Sync Engines</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-03-25T19:00:00+00:00</published>
+    <updated>2024-03-25T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-the-allure-of-localfirst-sync-engines/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-the-allure-of-localfirst-sync-engines/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/allure-of-sync-engines/</id>
+        <link href="https://blog.jim-nielsen.com/2024/allure-of-sync-engines/"/>
+        <title>The Allure of Local-First Sync Engines</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-03-25T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-the-allure-of-localfirst-sync-engines/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>:has roundup</title>
         <author>
@@ -770,6 +794,30 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-making-own-your-web-more-sustainable/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>How web bloat impacts users with slow devices</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2024-03-16T00:00:00+00:00</published>
+    <updated>2024-03-16T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/slow-device/</id>
+        <link href="https://danluu.com/slow-device/"/>
+        <title>How web bloat impacts users with slow devices</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2024-03-16T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/</id>
     <content type="html">
         
     </content>
@@ -2882,30 +2930,6 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-tools-for-decreasing-your-productivity/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>UI=f(org): UI is a Function of Your Organization</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-02-19T19:00:00+00:00</published>
-    <updated>2024-02-19T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-uiforg-ui-is-a-function-of-your-organization/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-uiforg-ui-is-a-function-of-your-organization/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/ui-fn-org/</id>
-        <link href="https://blog.jim-nielsen.com/2024/ui-fn-org/"/>
-        <title>UI=f(org): UI is a Function of Your Organization</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-02-19T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-uiforg-ui-is-a-function-of-your-organization/</id>
     <content type="html">
         
     </content>
@@ -14184,30 +14208,6 @@
       </source>
 
     <id>https://news.cryptic.io/wesley-aptekarcassels-subdomains-as-identity/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>In defense of simple architectures</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2022-04-06T00:00:00+00:00</published>
-    <updated>2022-04-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/simple-architectures/</id>
-        <link href="https://danluu.com/simple-architectures/"/>
-        <title>In defense of simple architectures</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2022-04-06T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/</id>
     <content type="html">
         
     </content>
