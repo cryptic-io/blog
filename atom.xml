@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-25T19:00:00+00:00</updated>
+  <updated>2024-03-27T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>LinkedIn is not a social or professional network, it&#x27;s a learning network</title>
+        <author>
+            <name>Tom Critchlow</name>
+        </author>
+    <published>2024-03-27T00:00:00+00:00</published>
+    <updated>2024-03-27T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tom-critchlow-linkedin-is-not-a-social-or-professional-network-its-a-learning-network/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tom-critchlow-linkedin-is-not-a-social-or-professional-network-its-a-learning-network/" type="text/html"/>
+      <source>
+        <id>https://tomcritchlow.com/2024/03/27/linkedin-learning/</id>
+        <link href="https://tomcritchlow.com/2024/03/27/linkedin-learning/"/>
+        <title>LinkedIn is not a social or professional network, it&#x27;s a learning network</title>
+        <author>
+            <name>Tom Critchlow</name>
+        </author>
+        <updated>2024-03-27T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tom-critchlow-linkedin-is-not-a-social-or-professional-network-its-a-learning-network/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Allure of Local-First Sync Engines</title>
         <author>
@@ -866,30 +890,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-making-own-your-web-more-sustainable/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How web bloat impacts users with slow devices</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2024-03-16T00:00:00+00:00</published>
-    <updated>2024-03-16T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/slow-device/</id>
-        <link href="https://danluu.com/slow-device/"/>
-        <title>How web bloat impacts users with slow devices</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2024-03-16T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/</id>
     <content type="html">
         
     </content>
@@ -5168,30 +5168,6 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-my-diverse-hiring-playbook/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>9 Years on the Road</title>
-        <author>
-            <name>Tom Critchlow</name>
-        </author>
-    <published>2024-01-04T00:00:00+00:00</published>
-    <updated>2024-01-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tom-critchlow-9-years-on-the-road/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tom-critchlow-9-years-on-the-road/" type="text/html"/>
-      <source>
-        <id>https://tomcritchlow.com/2024/01/04/9-years/</id>
-        <link href="https://tomcritchlow.com/2024/01/04/9-years/"/>
-        <title>9 Years on the Road</title>
-        <author>
-            <name>Tom Critchlow</name>
-        </author>
-        <updated>2024-01-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tom-critchlow-9-years-on-the-road/</id>
     <content type="html">
         
     </content>
@@ -13944,6 +13920,30 @@
       </source>
 
     <id>https://news.cryptic.io/wesley-aptekarcassels-subdomains-as-identity/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>In defense of simple architectures</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2022-04-06T00:00:00+00:00</published>
+    <updated>2022-04-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/simple-architectures/</id>
+        <link href="https://danluu.com/simple-architectures/"/>
+        <title>In defense of simple architectures</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2022-04-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/</id>
     <content type="html">
         
     </content>
