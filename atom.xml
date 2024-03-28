@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-28T00:00:00+00:00</updated>
+  <updated>2024-03-28T02:50:45+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Talking Hot Dog gives new meaning to &#x27;Ham radio&#x27;</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-03-28T02:50:45+00:00</published>
+    <updated>2024-03-28T02:50:45+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-talking-hot-dog-gives-new-meaning-to-ham-radio/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-talking-hot-dog-gives-new-meaning-to-ham-radio/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/talking-hot-dog-gives-new-meaning-ham-radio</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/talking-hot-dog-gives-new-meaning-ham-radio"/>
+        <title>Talking Hot Dog gives new meaning to &#x27;Ham radio&#x27;</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-03-28T02:50:45+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-talking-hot-dog-gives-new-meaning-to-ham-radio/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Ben Kihnel</title>
         <author>
@@ -1034,30 +1058,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-making-own-your-web-more-sustainable/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How web bloat impacts users with slow devices</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2024-03-16T00:00:00+00:00</published>
-    <updated>2024-03-16T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/slow-device/</id>
-        <link href="https://danluu.com/slow-device/"/>
-        <title>How web bloat impacts users with slow devices</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2024-03-16T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/</id>
     <content type="html">
         
     </content>
@@ -3098,30 +3098,6 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-there-are-probably-no-silver-bullets/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Water cooling is overkill for Pi 5</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-02-21T16:16:42+00:00</published>
-    <updated>2024-02-21T16:16:42+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-water-cooling-is-overkill-for-pi-5/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-water-cooling-is-overkill-for-pi-5/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/water-cooling-overkill-pi-5</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/water-cooling-overkill-pi-5"/>
-        <title>Water cooling is overkill for Pi 5</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-02-21T16:16:42+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-water-cooling-is-overkill-for-pi-5/</id>
     <content type="html">
         
     </content>
@@ -14424,6 +14400,30 @@
       </source>
 
     <id>https://news.cryptic.io/wesley-aptekarcassels-subdomains-as-identity/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>In defense of simple architectures</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2022-04-06T00:00:00+00:00</published>
+    <updated>2022-04-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/simple-architectures/</id>
+        <link href="https://danluu.com/simple-architectures/"/>
+        <title>In defense of simple architectures</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2022-04-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/</id>
     <content type="html">
         
     </content>
