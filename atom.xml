@@ -127,6 +127,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>liblzma and xz version 5.6.0 and 5.6.1 are vulnerable to arbitrary code execution compromise</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2024-03-29T00:00:00+00:00</published>
+    <updated>2024-03-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-liblzma-and-xz-version-560-and-561-are-vulnerable-to-arbitrary-code-execution-compromise/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-liblzma-and-xz-version-560-and-561-are-vulnerable-to-arbitrary-code-execution-compromise/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/notes/2024/xz-vuln/</id>
+        <link href="https://xeiaso.net/notes/2024/xz-vuln/"/>
+        <title>liblzma and xz version 5.6.0 and 5.6.1 are vulnerable to arbitrary code execution compromise</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2024-03-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-liblzma-and-xz-version-560-and-561-are-vulnerable-to-arbitrary-code-execution-compromise/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>the vulture in the coal mine</title>
         <author>
             <name>Joey Hess</name>
@@ -3920,30 +3944,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-re-dialectics-and-artificial-intelligence/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I wish Go had a retry block</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-02-11T00:00:00+00:00</published>
-    <updated>2024-02-11T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-i-wish-go-had-a-retry-block/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-i-wish-go-had-a-retry-block/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/2024/retry-block/</id>
-        <link href="https://xeiaso.net/blog/2024/retry-block/"/>
-        <title>I wish Go had a retry block</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-02-11T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-i-wish-go-had-a-retry-block/</id>
     <content type="html">
         
     </content>
