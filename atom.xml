@@ -1279,6 +1279,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>How web bloat impacts users with slow devices</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2024-03-16T00:00:00+00:00</published>
+    <updated>2024-03-16T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/slow-device/</id>
+        <link href="https://danluu.com/slow-device/"/>
+        <title>How web bloat impacts users with slow devices</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2024-03-16T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Python question: argv in main()?</title>
         <author>
             <name>degrowther</name>
@@ -6301,30 +6325,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Why Prusa is floundering, and how you can avoid their fate</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-    <published>2023-12-26T00:00:00+00:00</published>
-    <updated>2023-12-26T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/drew-devault-why-prusa-is-floundering-and-how-you-can-avoid-their-fate/"/>
-    <link rel="alternate" href="https://news.cryptic.io/drew-devault-why-prusa-is-floundering-and-how-you-can-avoid-their-fate/" type="text/html"/>
-      <source>
-        <id>https://drewdevault.com/2023/12/26/2023-12-26-Prusa-is-floundering.html</id>
-        <link href="https://drewdevault.com/2023/12/26/2023-12-26-Prusa-is-floundering.html"/>
-        <title>Why Prusa is floundering, and how you can avoid their fate</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-        <updated>2023-12-26T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/drew-devault-why-prusa-is-floundering-and-how-you-can-avoid-their-fate/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Quality First and Other Advice</title>
         <author>
             <name>Bastian Rieck</name>
@@ -7169,30 +7169,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Richard Stallman&#x27;s political discourse on sex</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-    <published>2023-11-25T00:00:00+00:00</published>
-    <updated>2023-11-25T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/drew-devault-richard-stallmans-political-discourse-on-sex/"/>
-    <link rel="alternate" href="https://news.cryptic.io/drew-devault-richard-stallmans-political-discourse-on-sex/" type="text/html"/>
-      <source>
-        <id>https://drewdevault.com/2023/11/25/2023-11-26-RMS-on-sex.html</id>
-        <link href="https://drewdevault.com/2023/11/25/2023-11-26-RMS-on-sex.html"/>
-        <title>Richard Stallman&#x27;s political discourse on sex</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-        <updated>2023-11-25T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/drew-devault-richard-stallmans-political-discourse-on-sex/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Upgrading to FreeBSD 14 - how to fix a broken BIOS bootcode</title>
         <author>
             <name>unixsheikh</name>
@@ -7553,30 +7529,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Can I be on your podcast?</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-    <published>2023-11-09T00:00:00+00:00</published>
-    <updated>2023-11-09T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/drew-devault-can-i-be-on-your-podcast/"/>
-    <link rel="alternate" href="https://news.cryptic.io/drew-devault-can-i-be-on-your-podcast/" type="text/html"/>
-      <source>
-        <id>https://drewdevault.com/2023/11/09/Can-I-be-on-your-podcast.html</id>
-        <link href="https://drewdevault.com/2023/11/09/Can-I-be-on-your-podcast.html"/>
-        <title>Can I be on your podcast?</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-        <updated>2023-11-09T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/drew-devault-can-i-be-on-your-podcast/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Are Passkeys really the beginning of the end of passwords? I certainly hope not!</title>
         <author>
             <name>unixsheikh</name>
@@ -7836,30 +7788,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-machine-learning-of-guis-at-scale/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>On &quot;real name&quot; policies</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-    <published>2023-10-31T00:00:00+00:00</published>
-    <updated>2023-10-31T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/drew-devault-on-real-name-policies/"/>
-    <link rel="alternate" href="https://news.cryptic.io/drew-devault-on-real-name-policies/" type="text/html"/>
-      <source>
-        <id>https://drewdevault.com/2023/10/31/On-real-names.html</id>
-        <link href="https://drewdevault.com/2023/10/31/On-real-names.html"/>
-        <title>On &quot;real name&quot; policies</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-        <updated>2023-10-31T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/drew-devault-on-real-name-policies/</id>
     <content type="html">
         
     </content>
@@ -8177,30 +8105,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Going off-script</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-    <published>2023-10-13T00:00:00+00:00</published>
-    <updated>2023-10-13T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/drew-devault-going-offscript/"/>
-    <link rel="alternate" href="https://news.cryptic.io/drew-devault-going-offscript/" type="text/html"/>
-      <source>
-        <id>https://drewdevault.com/2023/10/13/Going-off-script.html</id>
-        <link href="https://drewdevault.com/2023/10/13/Going-off-script.html"/>
-        <title>Going off-script</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-        <updated>2023-10-13T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/drew-devault-going-offscript/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>BlueSuburbia is an IndieCade 2023 Nominee!</title>
         <author>
             <name>Nathalie Lawhead</name>
@@ -8469,30 +8373,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The forbidden topics</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-    <published>2023-09-29T00:00:00+00:00</published>
-    <updated>2023-09-29T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/drew-devault-the-forbidden-topics/"/>
-    <link rel="alternate" href="https://news.cryptic.io/drew-devault-the-forbidden-topics/" type="text/html"/>
-      <source>
-        <id>https://drewdevault.com/2023/09/29/The-forbidden-topics.html</id>
-        <link href="https://drewdevault.com/2023/09/29/The-forbidden-topics.html"/>
-        <title>The forbidden topics</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-        <updated>2023-09-29T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/drew-devault-the-forbidden-topics/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Code Coverage Ain&#x27;t Everything</title>
         <author>
             <name>mediocregopher</name>
@@ -8632,30 +8512,6 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-chestertons-invisible-fences/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Hyprland is a toxic community</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-    <published>2023-09-17T00:00:00+00:00</published>
-    <updated>2023-09-17T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/drew-devault-hyprland-is-a-toxic-community/"/>
-    <link rel="alternate" href="https://news.cryptic.io/drew-devault-hyprland-is-a-toxic-community/" type="text/html"/>
-      <source>
-        <id>https://drewdevault.com/2023/09/17/Hyprland-toxicity.html</id>
-        <link href="https://drewdevault.com/2023/09/17/Hyprland-toxicity.html"/>
-        <title>Hyprland is a toxic community</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-        <updated>2023-09-17T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/drew-devault-hyprland-is-a-toxic-community/</id>
     <content type="html">
         
     </content>
@@ -8896,30 +8752,6 @@
       </source>
 
     <id>https://news.cryptic.io/mechatronicsguy-lasercut-dnd-condition-rings/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>AI crap</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-    <published>2023-08-29T00:00:00+00:00</published>
-    <updated>2023-08-29T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/drew-devault-ai-crap/"/>
-    <link rel="alternate" href="https://news.cryptic.io/drew-devault-ai-crap/" type="text/html"/>
-      <source>
-        <id>https://drewdevault.com/2023/08/29/2023-08-29-AI-crap.html</id>
-        <link href="https://drewdevault.com/2023/08/29/2023-08-29-AI-crap.html"/>
-        <title>AI crap</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-        <updated>2023-08-29T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/drew-devault-ai-crap/</id>
     <content type="html">
         
     </content>
@@ -9285,30 +9117,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Hello from Ares!</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-    <published>2023-08-09T00:00:00+00:00</published>
-    <updated>2023-08-09T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/drew-devault-hello-from-ares/"/>
-    <link rel="alternate" href="https://news.cryptic.io/drew-devault-hello-from-ares/" type="text/html"/>
-      <source>
-        <id>https://drewdevault.com/2023/08/09/2023-08-09-Hello-from-Ares.html</id>
-        <link href="https://drewdevault.com/2023/08/09/2023-08-09-Hello-from-Ares.html"/>
-        <title>Hello from Ares!</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-        <updated>2023-08-09T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/drew-devault-hello-from-ares/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>My creative software design process</title>
         <author>
             <name>manuel</name>
@@ -9472,30 +9280,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-stopping-at-90/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The rc shell and its excellent handling of whitespace</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-    <published>2023-07-31T00:00:00+00:00</published>
-    <updated>2023-07-31T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/drew-devault-the-rc-shell-and-its-excellent-handling-of-whitespace/"/>
-    <link rel="alternate" href="https://news.cryptic.io/drew-devault-the-rc-shell-and-its-excellent-handling-of-whitespace/" type="text/html"/>
-      <source>
-        <id>https://drewdevault.com/2023/07/31/The-rc-shell-and-whitespace.html</id>
-        <link href="https://drewdevault.com/2023/07/31/The-rc-shell-and-whitespace.html"/>
-        <title>The rc shell and its excellent handling of whitespace</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-        <updated>2023-07-31T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/drew-devault-the-rc-shell-and-its-excellent-handling-of-whitespace/</id>
     <content type="html">
         
     </content>
@@ -14232,30 +14016,6 @@
       </source>
 
     <id>https://news.cryptic.io/wesley-aptekarcassels-subdomains-as-identity/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>In defense of simple architectures</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2022-04-06T00:00:00+00:00</published>
-    <updated>2022-04-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/simple-architectures/</id>
-        <link href="https://danluu.com/simple-architectures/"/>
-        <title>In defense of simple architectures</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2022-04-06T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/</id>
     <content type="html">
         
     </content>
