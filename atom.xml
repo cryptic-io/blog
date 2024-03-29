@@ -127,6 +127,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Periodic Table Regions</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-03-29T00:00:00+00:00</published>
+    <updated>2024-03-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-periodic-table-regions/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-periodic-table-regions/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2913/</id>
+        <link href="https://xkcd.com/2913/"/>
+        <title>Periodic Table Regions</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-03-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-periodic-table-regions/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>liblzma and xz version 5.6.0 and 5.6.1 are vulnerable to arbitrary code execution compromise</title>
         <author>
             <name>Xe Iaso</name>
@@ -991,30 +1015,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Moon Landing Mission Profiles</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-03-20T00:00:00+00:00</published>
-    <updated>2024-03-20T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-moon-landing-mission-profiles/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-moon-landing-mission-profiles/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2909/</id>
-        <link href="https://xkcd.com/2909/"/>
-        <title>Moon Landing Mission Profiles</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-03-20T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-moon-landing-mission-profiles/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>A Lil&#x27; Website Refresh</title>
         <author>
             <name>Tom Critchlow</name>
@@ -1274,30 +1274,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-making-own-your-web-more-sustainable/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How web bloat impacts users with slow devices</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2024-03-16T00:00:00+00:00</published>
-    <updated>2024-03-16T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/slow-device/</id>
-        <link href="https://danluu.com/slow-device/"/>
-        <title>How web bloat impacts users with slow devices</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2024-03-16T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/</id>
     <content type="html">
         
     </content>
@@ -14256,6 +14232,30 @@
       </source>
 
     <id>https://news.cryptic.io/wesley-aptekarcassels-subdomains-as-identity/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>In defense of simple architectures</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2022-04-06T00:00:00+00:00</published>
+    <updated>2022-04-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/simple-architectures/</id>
+        <link href="https://danluu.com/simple-architectures/"/>
+        <title>In defense of simple architectures</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2022-04-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-in-defense-of-simple-architectures/</id>
     <content type="html">
         
     </content>
