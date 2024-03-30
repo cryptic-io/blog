@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-30T02:11:12+00:00</updated>
+  <updated>2024-03-30T16:02:19+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Good Taste</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-03-30T16:02:19+00:00</published>
+    <updated>2024-03-30T16:02:19+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-good-taste/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-good-taste/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/good-taste/</id>
+        <link href="https://robinrendle.com/notes/good-taste/"/>
+        <title>Good Taste</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-03-30T16:02:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-good-taste/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Fixing the “Not a heap block” error with networking with PCPro</title>
         <author>
@@ -4112,30 +4136,6 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-come-join-me-on-the-devrel-team-at-flyio/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A *New* Program for Graphic Design</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-02-11T17:01:27+00:00</published>
-    <updated>2024-02-11T17:01:27+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-a-new-program-for-graphic-design/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-a-new-program-for-graphic-design/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-new-program-for-graphic-design/</id>
-        <link href="https://robinrendle.com/notes/the-new-program-for-graphic-design/"/>
-        <title>A *New* Program for Graphic Design</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-02-11T17:01:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-a-new-program-for-graphic-design/</id>
     <content type="html">
         
     </content>
