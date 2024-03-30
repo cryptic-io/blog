@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-03-29T14:00:34+00:00</updated>
+  <updated>2024-03-30T02:11:12+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Fixing the “Not a heap block” error with networking with PCPro</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2024-03-30T02:11:12+00:00</published>
+    <updated>2024-03-30T02:11:12+00:00</updated>
+    <link href="https://news.cryptic.io/various-fixing-the-not-a-heap-block-error-with-networking-with-pcpro/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-fixing-the-not-a-heap-block-error-with-networking-with-pcpro/" type="text/html"/>
+      <source>
+        <id>https://sporks.space/2024/03/30/fixing-the-not-a-heap-block-error-with-networking-with-pcpro/</id>
+        <link href="https://sporks.space/2024/03/30/fixing-the-not-a-heap-block-error-with-networking-with-pcpro/"/>
+        <title>Fixing the “Not a heap block” error with networking with PCPro</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2024-03-30T02:11:12+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-fixing-the-not-a-heap-block-error-with-networking-with-pcpro/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Sipeed&#x27;s new handheld RISC-V Cyberdeck</title>
         <author>
@@ -10920,30 +10944,6 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-bitcoins-are-not-mined-they-are-issued-over-time/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Building a static GraphViz for macOS</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-04-11T21:24:02+00:00</published>
-    <updated>2023-04-11T21:24:02+00:00</updated>
-    <link href="https://news.cryptic.io/various-building-a-static-graphviz-for-macos/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-building-a-static-graphviz-for-macos/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2023/04/11/building-a-static-graphviz-for-macos/</id>
-        <link href="https://sporks.space/2023/04/11/building-a-static-graphviz-for-macos/"/>
-        <title>Building a static GraphViz for macOS</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-04-11T21:24:02+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-building-a-static-graphviz-for-macos/</id>
     <content type="html">
         
     </content>
