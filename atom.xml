@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-04-01T06:35:00+00:00</updated>
+  <updated>2024-04-01T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Expose Platform APIs Over Wrapping Them</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-04-01T19:00:00+00:00</published>
+    <updated>2024-04-01T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-expose-platform-apis-over-wrapping-them/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-expose-platform-apis-over-wrapping-them/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/expose-platform-apis-over-wrapping-them/</id>
+        <link href="https://blog.jim-nielsen.com/2024/expose-platform-apis-over-wrapping-them/"/>
+        <title>Expose Platform APIs Over Wrapping Them</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-04-01T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-expose-platform-apis-over-wrapping-them/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Indoor Kid</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-04-01T15:09:28+00:00</published>
+    <updated>2024-04-01T15:09:28+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-indoor-kid/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-indoor-kid/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/indoor-kid/</id>
+        <link href="https://robinrendle.com/notes/indoor-kid/"/>
+        <title>Indoor Kid</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-04-01T15:09:28+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-indoor-kid/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Pay per scroll</title>
         <author>
@@ -3247,30 +3295,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Subversive Hyperlink</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-02-26T19:00:00+00:00</published>
-    <updated>2024-02-26T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-the-subversive-hyperlink/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-the-subversive-hyperlink/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/the-subversive-hyperlink/</id>
-        <link href="https://blog.jim-nielsen.com/2024/the-subversive-hyperlink/"/>
-        <title>The Subversive Hyperlink</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-02-26T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-the-subversive-hyperlink/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The World’s Computer</title>
         <author>
             <name>geohot</name>
@@ -3458,30 +3482,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-in-defense-of-boilerplate/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Elevator Test</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-02-22T17:13:21+00:00</published>
-    <updated>2024-02-22T17:13:21+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-elevator-test/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-elevator-test/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/elevator-test/</id>
-        <link href="https://robinrendle.com/notes/elevator-test/"/>
-        <title>The Elevator Test</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-02-22T17:13:21+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-elevator-test/</id>
     <content type="html">
         
     </content>
