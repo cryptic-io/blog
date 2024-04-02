@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-04-01T19:00:00+00:00</updated>
+  <updated>2024-04-02T03:38:45+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>E-essays</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-04-02T03:38:45+00:00</published>
+    <updated>2024-04-02T03:38:45+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-eessays/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-eessays/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/e-essays/</id>
+        <link href="https://robinrendle.com/notes/e-essays/"/>
+        <title>E-essays</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-04-02T03:38:45+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-eessays/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Expose Platform APIs Over Wrapping Them</title>
         <author>
@@ -2258,30 +2282,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-play-my-music/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Be kind, be cool</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-03-10T16:48:14+00:00</published>
-    <updated>2024-03-10T16:48:14+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-be-kind-be-cool/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-be-kind-be-cool/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/be-kind-be-cool/</id>
-        <link href="https://robinrendle.com/notes/be-kind-be-cool/"/>
-        <title>Be kind, be cool</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-03-10T16:48:14+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-be-kind-be-cool/</id>
     <content type="html">
         
     </content>
