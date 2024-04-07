@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-04-07T00:00:00+00:00</updated>
+  <updated>2024-04-07T20:30:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Python Turtle Bingo</title>
+        <author>
+            <name>andersource</name>
+        </author>
+    <published>2024-04-07T20:30:00+00:00</published>
+    <updated>2024-04-07T20:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/andersource-python-turtle-bingo/"/>
+    <link rel="alternate" href="https://news.cryptic.io/andersource-python-turtle-bingo/" type="text/html"/>
+      <source>
+        <id>andersource.github.io/2024/04/07/python-turtle-bingo.html</id>
+        <link href="andersource.github.io/2024/04/07/python-turtle-bingo.html"/>
+        <title>Python Turtle Bingo</title>
+        <author>
+            <name>andersource</name>
+        </author>
+        <updated>2024-04-07T20:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/andersource-python-turtle-bingo/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Sharing the best of my photos as wallpapers</title>
         <author>
@@ -15300,30 +15324,6 @@
       </source>
 
     <id>https://news.cryptic.io/andra-bajt-trying-out-prometheus/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Image color replacement with numerical optimization</title>
-        <author>
-            <name>andersource</name>
-        </author>
-    <published>2021-06-12T20:30:00+00:00</published>
-    <updated>2021-06-12T20:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/andersource-image-color-replacement-with-numerical-optimization/"/>
-    <link rel="alternate" href="https://news.cryptic.io/andersource-image-color-replacement-with-numerical-optimization/" type="text/html"/>
-      <source>
-        <id>andersource.github.io/2021/06/12/image-color-replacement.html</id>
-        <link href="andersource.github.io/2021/06/12/image-color-replacement.html"/>
-        <title>Image color replacement with numerical optimization</title>
-        <author>
-            <name>andersource</name>
-        </author>
-        <updated>2021-06-12T20:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/andersource-image-color-replacement-with-numerical-optimization/</id>
     <content type="html">
         
     </content>
