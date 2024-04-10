@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-04-09T00:00:00+00:00</updated>
+  <updated>2024-04-09T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>You Are What You Read, Even If You Don’t Always Remember It</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-04-09T19:00:00+00:00</published>
+    <updated>2024-04-09T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-you-are-what-you-read-even-if-you-dont-always-remember-it/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-you-are-what-you-read-even-if-you-dont-always-remember-it/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/you-are-what-you-read/</id>
+        <link href="https://blog.jim-nielsen.com/2024/you-are-what-you-read/"/>
+        <title>You Are What You Read, Even If You Don’t Always Remember It</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-04-09T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-you-are-what-you-read-even-if-you-dont-always-remember-it/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>FDO&#x27;s conduct enforcement actions regarding Vaxry</title>
         <author>
@@ -3362,30 +3386,6 @@
       </source>
 
     <id>https://news.cryptic.io/rachelbythebay-todays-only-half-of-the-leap-year-fun/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Notes from “Why Can’t We Make Simple Software?” By Peter van Hardenberg</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-02-29T19:00:00+00:00</published>
-    <updated>2024-02-29T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-notes-from-why-cant-we-make-simple-software-by-peter-van-hardenberg/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-notes-from-why-cant-we-make-simple-software-by-peter-van-hardenberg/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/notes-on-making-software-by-peter-van-hardenberg/</id>
-        <link href="https://blog.jim-nielsen.com/2024/notes-on-making-software-by-peter-van-hardenberg/"/>
-        <title>Notes from “Why Can’t We Make Simple Software?” By Peter van Hardenberg</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-02-29T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-notes-from-why-cant-we-make-simple-software-by-peter-van-hardenberg/</id>
     <content type="html">
         
     </content>
