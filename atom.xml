@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-04-11T06:00:00+00:00</updated>
+  <updated>2024-04-11T15:41:01+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Good and useful writing</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-04-11T15:41:01+00:00</published>
+    <updated>2024-04-11T15:41:01+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-good-and-useful-writing/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-good-and-useful-writing/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/good-and-useful-writing-/</id>
+        <link href="https://robinrendle.com/notes/good-and-useful-writing-/"/>
+        <title>Good and useful writing</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-04-11T15:41:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-good-and-useful-writing/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>It&#x27;s Still Theft</title>
         <author>
@@ -1706,30 +1730,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-is-there-a-sane-way-to-use-the-internet/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Murderbot Diaries</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-03-23T03:22:16+00:00</published>
-    <updated>2024-03-23T03:22:16+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-murderbot-diaries/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-murderbot-diaries/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/murderbot-diaries/</id>
-        <link href="https://robinrendle.com/notes/murderbot-diaries/"/>
-        <title>The Murderbot Diaries</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-03-23T03:22:16+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-murderbot-diaries/</id>
     <content type="html">
         
     </content>
