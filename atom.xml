@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-04-15T21:14:00+00:00</updated>
+  <updated>2024-04-16T00:44:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Try it and see</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2024-04-16T00:44:00+00:00</published>
+    <updated>2024-04-16T00:44:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-try-it-and-see/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-try-it-and-see/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/misc/try-it-and-see.html</id>
+        <link href="https://blog.plover.com/misc/try-it-and-see.html"/>
+        <title>Try it and see</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2024-04-16T00:44:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-try-it-and-see/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>BFS zero-to-hero, part 5: the 15-puzzle</title>
         <author>
@@ -5090,30 +5114,6 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-tracking-engineering-time/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Jehovah&#x27;s Witnesses do not number the days of the week</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2024-02-06T15:10:00+00:00</published>
-    <updated>2024-02-06T15:10:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-jehovahs-witnesses-do-not-number-the-days-of-the-week/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-jehovahs-witnesses-do-not-number-the-days-of-the-week/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/calendar/quaker-day-names.html</id>
-        <link href="https://blog.plover.com/calendar/quaker-day-names.html"/>
-        <title>Jehovah&#x27;s Witnesses do not number the days of the week</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2024-02-06T15:10:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-jehovahs-witnesses-do-not-number-the-days-of-the-week/</id>
     <content type="html">
         
     </content>
