@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-04-16T20:28:49+00:00</updated>
+  <updated>2024-04-17T14:11:49+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Solo-Devs and Risk-Takers (An Artistic Exploration of Experimental Tools)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+    <published>2024-04-17T14:11:49+00:00</published>
+    <updated>2024-04-17T14:11:49+00:00</updated>
+    <link href="https://news.cryptic.io/nathalie-lawhead-solodevs-and-risktakers-an-artistic-exploration-of-experimental-tools/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-solodevs-and-risktakers-an-artistic-exploration-of-experimental-tools/" type="text/html"/>
+      <source>
+        <id>http://www.nathalielawhead.com/candybox/solo-devs-and-risk-takers-an-artistic-exploration-of-experimental-tools</id>
+        <link href="http://www.nathalielawhead.com/candybox/solo-devs-and-risk-takers-an-artistic-exploration-of-experimental-tools"/>
+        <title>Solo-Devs and Risk-Takers (An Artistic Exploration of Experimental Tools)</title>
+        <author>
+            <name>Nathalie Lawhead</name>
+        </author>
+        <updated>2024-04-17T14:11:49+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nathalie-lawhead-solodevs-and-risktakers-an-artistic-exploration-of-experimental-tools/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>AM phasor has no setting for &#x27;stun&#x27;</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-04-17T14:01:59+00:00</published>
+    <updated>2024-04-17T14:01:59+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-am-phasor-has-no-setting-for-stun/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-am-phasor-has-no-setting-for-stun/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/am-phasor-has-no-setting-stun</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/am-phasor-has-no-setting-stun"/>
+        <title>AM phasor has no setting for &#x27;stun&#x27;</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-04-17T14:01:59+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-am-phasor-has-no-setting-for-stun/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>What makes concurrency so hard?</title>
         <author>
@@ -2810,30 +2858,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-calculated-releases-scheduled/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>An important consideration about Pi 5 overclocking</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-03-13T14:54:15+00:00</published>
-    <updated>2024-03-13T14:54:15+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-an-important-consideration-about-pi-5-overclocking/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-an-important-consideration-about-pi-5-overclocking/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/important-consideration-about-pi-5-overclocking</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/important-consideration-about-pi-5-overclocking"/>
-        <title>An important consideration about Pi 5 overclocking</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-03-13T14:54:15+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-an-important-consideration-about-pi-5-overclocking/</id>
     <content type="html">
         
     </content>
@@ -11346,30 +11370,6 @@
       </source>
 
     <id>https://news.cryptic.io/jes-olson-write-posix-shell/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Indie Games and the promise of better spaces</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-    <published>2023-03-09T06:21:15+00:00</published>
-    <updated>2023-03-09T06:21:15+00:00</updated>
-    <link href="https://news.cryptic.io/nathalie-lawhead-indie-games-and-the-promise-of-better-spaces/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nathalie-lawhead-indie-games-and-the-promise-of-better-spaces/" type="text/html"/>
-      <source>
-        <id>http://www.nathalielawhead.com/candybox/indie-games-and-the-promise-of-better-spaces</id>
-        <link href="http://www.nathalielawhead.com/candybox/indie-games-and-the-promise-of-better-spaces"/>
-        <title>Indie Games and the promise of better spaces</title>
-        <author>
-            <name>Nathalie Lawhead</name>
-        </author>
-        <updated>2023-03-09T06:21:15+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nathalie-lawhead-indie-games-and-the-promise-of-better-spaces/</id>
     <content type="html">
         
     </content>
