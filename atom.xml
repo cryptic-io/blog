@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-04-19T14:12:53+00:00</updated>
+  <updated>2024-04-21T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>I somehow managed to lock myself out of my Authy secrets</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2024-04-21T00:00:00+00:00</published>
+    <updated>2024-04-21T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-i-somehow-managed-to-lock-myself-out-of-my-authy-secrets/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-i-somehow-managed-to-lock-myself-out-of-my-authy-secrets/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/notes/2024/authy-fuckup/</id>
+        <link href="https://xeiaso.net/notes/2024/authy-fuckup/"/>
+        <title>I somehow managed to lock myself out of my Authy secrets</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2024-04-21T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-i-somehow-managed-to-lock-myself-out-of-my-authy-secrets/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Building a Pi Frigate NVR with Axzez&#x27;s Interceptor 1U Case</title>
         <author>
@@ -3842,30 +3866,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-learning-the-joy-of-buying-outfits/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to unbreak Dolphin on SteamOS after the QT6 update</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-03-03T00:00:00+00:00</published>
-    <updated>2024-03-03T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-how-to-unbreak-dolphin-on-steamos-after-the-qt6-update/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-how-to-unbreak-dolphin-on-steamos-after-the-qt6-update/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/notes/2024/unbreak-dolphin-steamos/</id>
-        <link href="https://xeiaso.net/notes/2024/unbreak-dolphin-steamos/"/>
-        <title>How to unbreak Dolphin on SteamOS after the QT6 update</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-03-03T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-how-to-unbreak-dolphin-on-steamos-after-the-qt6-update/</id>
     <content type="html">
         
     </content>
