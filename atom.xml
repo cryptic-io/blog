@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-04-21T00:00:00+00:00</updated>
+  <updated>2024-04-22T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Mirror Effects</title>
+        <author>
+            <name>Brian Kardell</name>
+        </author>
+    <published>2024-04-22T04:00:00+00:00</published>
+    <updated>2024-04-22T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/brian-kardell-mirror-effects/"/>
+    <link rel="alternate" href="https://news.cryptic.io/brian-kardell-mirror-effects/" type="text/html"/>
+      <source>
+        <id>https://bkardell.com/blog/mirror-effects.html</id>
+        <link href="https://bkardell.com/blog/mirror-effects.html"/>
+        <title>Mirror Effects</title>
+        <author>
+            <name>Brian Kardell</name>
+        </author>
+        <updated>2024-04-22T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/brian-kardell-mirror-effects/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>I somehow managed to lock myself out of my Authy secrets</title>
         <author>
@@ -7926,30 +7950,6 @@
       </source>
 
     <id>https://news.cryptic.io/tie-the-us-healthinsurance-industry-is-now-so-thoroughly-enshittified-that-the-time-has-come-to-flush-it/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Wolvic Store Experiment</title>
-        <author>
-            <name>Brian Kardell</name>
-        </author>
-    <published>2023-11-08T05:00:00+00:00</published>
-    <updated>2023-11-08T05:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/brian-kardell-wolvic-store-experiment/"/>
-    <link rel="alternate" href="https://news.cryptic.io/brian-kardell-wolvic-store-experiment/" type="text/html"/>
-      <source>
-        <id>https://bkardell.com/blog/WolvicSwag.html</id>
-        <link href="https://bkardell.com/blog/WolvicSwag.html"/>
-        <title>Wolvic Store Experiment</title>
-        <author>
-            <name>Brian Kardell</name>
-        </author>
-        <updated>2023-11-08T05:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/brian-kardell-wolvic-store-experiment/</id>
     <content type="html">
         
     </content>
