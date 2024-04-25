@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-04-25T03:03:09+00:00</updated>
+  <updated>2024-04-25T09:40:37+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Sleepless in San Francisco</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-04-25T09:40:37+00:00</published>
+    <updated>2024-04-25T09:40:37+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-sleepless-in-san-francisco/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-sleepless-in-san-francisco/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/sleepless-in-san-francisco/</id>
+        <link href="https://robinrendle.com/notes/sleepless-in-san-francisco/"/>
+        <title>Sleepless in San Francisco</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-04-25T09:40:37+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-sleepless-in-san-francisco/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Designing The Cascade</title>
         <author>
@@ -2666,30 +2690,6 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-enhancing-kobo-with-texttoimage-generation-and-simple-explanations/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>One endless meeting</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-03-23T15:29:48+00:00</published>
-    <updated>2024-03-23T15:29:48+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-one-endless-meeting/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-one-endless-meeting/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/one-endless-meeting/</id>
-        <link href="https://robinrendle.com/notes/one-endless-meeting/"/>
-        <title>One endless meeting</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-03-23T15:29:48+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-one-endless-meeting/</id>
     <content type="html">
         
     </content>
