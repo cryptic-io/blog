@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-04-25T09:40:37+00:00</updated>
+  <updated>2024-04-25T15:45:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Too little, and too much, self-promotion</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-04-25T15:45:00+00:00</published>
+    <updated>2024-04-25T15:45:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-too-little-and-too-much-selfpromotion/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-too-little-and-too-much-selfpromotion/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/ShBJdZxPWoH3qe85</id>
+        <link href="https://manuelmoreale.com/@/page/ShBJdZxPWoH3qe85"/>
+        <title>Too little, and too much, self-promotion</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-04-25T15:45:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-too-little-and-too-much-selfpromotion/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Sleepless in San Francisco</title>
         <author>
@@ -74,6 +98,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-the-big-surification-of-macos-icons/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Mobile Typing Pain</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2024-04-24T19:00:00+00:00</published>
+    <updated>2024-04-24T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-mobile-typing-pain/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-mobile-typing-pain/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2024/04/24/Mobile-Text-Entry-Sucks</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2024/04/24/Mobile-Text-Entry-Sucks"/>
+        <title>Mobile Typing Pain</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2024-04-24T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-mobile-typing-pain/</id>
     <content type="html">
         
     </content>
@@ -2138,30 +2186,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-sipeeds-new-handheld-riscv-cyberdeck/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>P&amp;B: Adrianna Tan</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-03-29T12:00:00+00:00</published>
-    <updated>2024-03-29T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-adrianna-tan/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-adrianna-tan/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/7794dP074K6PLYpJ</id>
-        <link href="https://manuelmoreale.com/@/page/7794dP074K6PLYpJ"/>
-        <title>P&amp;B: Adrianna Tan</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-03-29T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-adrianna-tan/</id>
     <content type="html">
         
     </content>
@@ -5450,30 +5474,6 @@
       </source>
 
     <id>https://news.cryptic.io/justin-jackson-send-your-users-this-welcome-email/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Vision 1993</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2024-02-02T20:00:00+00:00</published>
-    <updated>2024-02-02T20:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-vision-1993/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-vision-1993/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2024/02/02/Vision-1993</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2024/02/02/Vision-1993"/>
-        <title>Vision 1993</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2024-02-02T20:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-vision-1993/</id>
     <content type="html">
         
     </content>
