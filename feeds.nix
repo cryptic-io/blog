@@ -464,4 +464,9 @@
     author = "Rodrigo Ghedin";
     url = "https://notes.ghed.in/feed.xml";
   }
+  {
+    name = "Where's Your Ed At";
+    author = "Ed Zitron";
+    url = "https://www.wheresyoured.at/rss";
+  }
 ]
