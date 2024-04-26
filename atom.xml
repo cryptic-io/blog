@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-04-25T16:38:43+00:00</updated>
+  <updated>2024-04-26T04:38:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A Free PHP Webpage View Counter that Ignores Self-Identified Robots</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2024-04-26T04:38:00+00:00</published>
+    <updated>2024-04-26T04:38:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-a-free-php-webpage-view-counter-that-ignores-selfidentified-robots/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-a-free-php-webpage-view-counter-that-ignores-selfidentified-robots/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/webpage-view-counter.html</id>
+        <link href="https://cheapskatesguide.org/articles/webpage-view-counter.html"/>
+        <title>A Free PHP Webpage View Counter that Ignores Self-Identified Robots</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2024-04-26T04:38:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-a-free-php-webpage-view-counter-that-ignores-selfidentified-robots/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Corporate Open Source is Dead</title>
         <author>
@@ -4850,30 +4874,6 @@
       </source>
 
     <id>https://news.cryptic.io/wesley-aptekarcassels-endtoend-testing-emails/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A Review of Damn Small Linux 2024: A Distribution for Near-Vintage Computers</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2024-02-16T03:31:00+00:00</published>
-    <updated>2024-02-16T03:31:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-a-review-of-damn-small-linux-2024-a-distribution-for-nearvintage-computers/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-a-review-of-damn-small-linux-2024-a-distribution-for-nearvintage-computers/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/dsl-2024.html</id>
-        <link href="https://cheapskatesguide.org/articles/dsl-2024.html"/>
-        <title>A Review of Damn Small Linux 2024: A Distribution for Near-Vintage Computers</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2024-02-16T03:31:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-a-review-of-damn-small-linux-2024-a-distribution-for-nearvintage-computers/</id>
     <content type="html">
         
     </content>
