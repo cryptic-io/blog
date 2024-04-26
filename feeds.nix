@@ -429,4 +429,39 @@
     author = "graydon2";
     url = "https://graydon2.dreamwidth.org/data/rss";
   }
+  {
+    name = "roguelazer's website";
+    author = "James Brown";
+    url = "https://www.roguelazer.com//atom.xml";
+  }
+  {
+    name = "Laforge";
+    author = "Brandon Pollack";
+    url = "https://laforge.brpollack.xyz/rss.xml";
+  }
+  {
+    name = "Fond/Sound";
+    author = "Diego Olivas";
+    url = "https://www.fondsound.com/feed/";
+  }
+  {
+    name = "Lucidity";
+    author = "Lucic";
+    url = "https://ludic.mataroa.blog/rss/";
+  }
+  {
+    name = "TheFrenchGhosty's Blog";
+    author = "TheFrenchGhosty";
+    url = "https://blog.thefrenchghosty.me/posts/index.xml";
+  }
+  {
+    name = "Filippo Valsorda";
+    author = "Filippo Valsorda";
+    url = "https://words.filippo.io/rss/";
+  }
+  {
+    name = "Notes (by Rodrigo Ghedin)";
+    author = "Rodrigo Ghedin";
+    url = "https://notes.ghed.in/feed.xml";
+  }
 ]
