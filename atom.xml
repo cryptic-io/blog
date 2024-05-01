@@ -31,6 +31,78 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>4-way NVMe RAID comes to Raspberry Pi 5</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-05-01T15:59:58+00:00</published>
+    <updated>2024-05-01T15:59:58+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-4way-nvme-raid-comes-to-raspberry-pi-5/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-4way-nvme-raid-comes-to-raspberry-pi-5/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/4-way-nvme-raid-comes-raspberry-pi-5</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/4-way-nvme-raid-comes-raspberry-pi-5"/>
+        <title>4-way NVMe RAID comes to Raspberry Pi 5</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-05-01T15:59:58+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-4way-nvme-raid-comes-to-raspberry-pi-5/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>&quot;Integration tests&quot; are just vibes</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-05-01T15:52:06+00:00</published>
+    <updated>2024-05-01T15:52:06+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-integration-tests-are-just-vibes/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-integration-tests-are-just-vibes/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/integration-tests-are-just-vibes/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/integration-tests-are-just-vibes/"/>
+        <title>&quot;Integration tests&quot; are just vibes</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-05-01T15:52:06+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-integration-tests-are-just-vibes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Fumble Around! A New Gemspace Discovery Service</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2024-05-01T15:45:51+00:00</published>
+    <updated>2024-05-01T15:45:51+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-fumble-around-a-new-gemspace-discovery-service/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-fumble-around-a-new-gemspace-discovery-service/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/fumble-around</id>
+        <link href="https://mediocregopher.com/posts/fumble-around"/>
+        <title>Fumble Around! A New Gemspace Discovery Service</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2024-05-01T15:45:51+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-fumble-around-a-new-gemspace-discovery-service/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>My Remote Desk, 2024</title>
         <author>
             <name>Tyler Cipriani</name>
@@ -3415,30 +3487,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Talking Hot Dog gives new meaning to &#x27;Ham radio&#x27;</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-03-28T02:50:45+00:00</published>
-    <updated>2024-03-28T02:50:45+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-talking-hot-dog-gives-new-meaning-to-ham-radio/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-talking-hot-dog-gives-new-meaning-to-ham-radio/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/talking-hot-dog-gives-new-meaning-ham-radio</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/talking-hot-dog-gives-new-meaning-ham-radio"/>
-        <title>Talking Hot Dog gives new meaning to &#x27;Ham radio&#x27;</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-03-28T02:50:45+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-talking-hot-dog-gives-new-meaning-to-ham-radio/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Ben Kihnel</title>
         <author>
             <name>Derek Sivers</name>
@@ -6410,30 +6458,6 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-notes-on-my-remarkable-tablet/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Strings do too many things</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-02-08T15:30:00+00:00</published>
-    <updated>2024-02-08T15:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-strings-do-too-many-things/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-strings-do-too-many-things/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/strings-do-too-many-things/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/strings-do-too-many-things/"/>
-        <title>Strings do too many things</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-02-08T15:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-strings-do-too-many-things/</id>
     <content type="html">
         
     </content>
@@ -11002,30 +11026,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-there-is-no-hard-takeoff/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Open Offer: I Will Host Your Domain</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2023-08-09T13:56:44+00:00</published>
-    <updated>2023-08-09T13:56:44+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-open-offer-i-will-host-your-domain/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-open-offer-i-will-host-your-domain/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/posts/domani</id>
-        <link href="https://mediocregopher.com/posts/domani"/>
-        <title>Open Offer: I Will Host Your Domain</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2023-08-09T13:56:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-open-offer-i-will-host-your-domain/</id>
     <content type="html">
         
     </content>
