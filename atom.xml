@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-05-01T19:00:00+00:00</updated>
+  <updated>2024-05-01T21:09:29+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Reader feedback on autoconf and bugginess in general</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-05-01T21:09:29+00:00</published>
+    <updated>2024-05-01T21:09:29+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-reader-feedback-on-autoconf-and-bugginess-in-general/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-reader-feedback-on-autoconf-and-bugginess-in-general/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/05/01/feedback/</id>
+        <link href="https://rachelbythebay.com/w/2024/05/01/feedback/"/>
+        <title>Reader feedback on autoconf and bugginess in general</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-05-01T21:09:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-reader-feedback-on-autoconf-and-bugginess-in-general/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Bulletproof Method to Solving Problems</title>
         <author>
@@ -194,6 +218,30 @@
       </source>
 
     <id>https://news.cryptic.io/diego-olivas-mix-84-starland/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Port-scanning the fleet and trying to put out fires</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-04-30T07:51:22+00:00</published>
+    <updated>2024-04-30T07:51:22+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-portscanning-the-fleet-and-trying-to-put-out-fires/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-portscanning-the-fleet-and-trying-to-put-out-fires/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/03/21/scan/</id>
+        <link href="https://rachelbythebay.com/w/2024/03/21/scan/"/>
+        <title>Port-scanning the fleet and trying to put out fires</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-04-30T07:51:22+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-portscanning-the-fleet-and-trying-to-put-out-fires/</id>
     <content type="html">
         
     </content>
@@ -3679,30 +3727,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Port-scanning the fleet and trying to put out fires</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-03-27T05:32:16+00:00</published>
-    <updated>2024-03-27T05:32:16+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-portscanning-the-fleet-and-trying-to-put-out-fires/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-portscanning-the-fleet-and-trying-to-put-out-fires/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/03/21/scan/</id>
-        <link href="https://rachelbythebay.com/w/2024/03/21/scan/"/>
-        <title>Port-scanning the fleet and trying to put out fires</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-03-27T05:32:16+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-portscanning-the-fleet-and-trying-to-put-out-fires/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>LinkedIn is not a social or professional network, it&#x27;s a learning network</title>
         <author>
             <name>Tom Critchlow</name>
@@ -6650,30 +6674,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-window-live-constant-time-grep/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Figure out who&#x27;s leaving the company: dump, diff, repeat</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-02-09T02:56:04+00:00</published>
-    <updated>2024-02-09T02:56:04+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-figure-out-whos-leaving-the-company-dump-diff-repeat/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-figure-out-whos-leaving-the-company-dump-diff-repeat/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/02/08/ldap/</id>
-        <link href="https://rachelbythebay.com/w/2024/02/08/ldap/"/>
-        <title>Figure out who&#x27;s leaving the company: dump, diff, repeat</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-02-09T02:56:04+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-figure-out-whos-leaving-the-company-dump-diff-repeat/</id>
     <content type="html">
         
     </content>
