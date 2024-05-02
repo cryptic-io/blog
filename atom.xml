@@ -55,6 +55,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Dude, Where&#x27;s My Archive?</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2024-05-02T00:00:00+00:00</published>
+    <updated>2024-05-02T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-dude-wheres-my-archive/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-dude-wheres-my-archive/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2024/05/02/twif.html</id>
+        <link href="https://f-droid.org/en/2024/05/02/twif.html"/>
+        <title>Dude, Where&#x27;s My Archive?</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2024-05-02T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-dude-wheres-my-archive/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Reader feedback on autoconf and bugginess in general</title>
         <author>
             <name>rachelbythebay</name>
@@ -5114,30 +5138,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-privacy-design-of-fdroidorg-webservers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Cycles come and go</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-03-07T00:00:00+00:00</published>
-    <updated>2024-03-07T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/various-cycles-come-and-go/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-cycles-come-and-go/" type="text/html"/>
-      <source>
-        <id>https://f-droid.org/en/2024/03/07/twif.html</id>
-        <link href="https://f-droid.org/en/2024/03/07/twif.html"/>
-        <title>Cycles come and go</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-03-07T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-cycles-come-and-go/</id>
     <content type="html">
         
     </content>
