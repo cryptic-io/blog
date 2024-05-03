@@ -469,4 +469,9 @@
     author = "Ed Zitron";
     url = "https://www.wheresyoured.at/rss";
   }
+  {
+    name = "Stereogum - Album of the Week";
+    author = "Stereogum";
+    url = "https://www.stereogum.com/category/reviews/album-of-the-week/feed/";
+  }
 ]
