@@ -55,6 +55,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Software Testing Day</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-05-03T00:00:00+00:00</published>
+    <updated>2024-05-03T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-software-testing-day/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-software-testing-day/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2928/</id>
+        <link href="https://xkcd.com/2928/"/>
+        <title>Software Testing Day</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-05-03T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-software-testing-day/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Building a social network from scratch on a whiteboard</title>
         <author>
             <name>Xe Iaso</name>
@@ -1202,30 +1226,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-borrow-checking-rc-gc-and-the-eleven-other-memory-safety-approaches/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Pendulum Types</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-04-24T00:00:00+00:00</published>
-    <updated>2024-04-24T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-pendulum-types/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-pendulum-types/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2924/</id>
-        <link href="https://xkcd.com/2924/"/>
-        <title>Pendulum Types</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-04-24T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-pendulum-types/</id>
     <content type="html">
         
     </content>
