@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-05-10T11:00:00+00:00</updated>
+  <updated>2024-05-11T17:15:09+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Who Needs a Whole-Ass Git Forge, Anyway?</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2024-05-11T17:15:09+00:00</published>
+    <updated>2024-05-11T17:15:09+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-who-needs-a-wholeass-git-forge-anyway/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-who-needs-a-wholeass-git-forge-anyway/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/git-forgeless</id>
+        <link href="https://mediocregopher.com/posts/git-forgeless"/>
+        <title>Who Needs a Whole-Ass Git Forge, Anyway?</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2024-05-11T17:15:09+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-who-needs-a-wholeass-git-forge-anyway/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>P&amp;B: Riccardo Mori</title>
         <author>
@@ -11242,30 +11266,6 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-catching-errors-thrown-from-connectedcallback/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>DANE Will Set Us Free</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2023-08-24T16:13:52+00:00</published>
-    <updated>2023-08-24T16:13:52+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-dane-will-set-us-free/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-dane-will-set-us-free/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/posts/dane</id>
-        <link href="https://mediocregopher.com/posts/dane"/>
-        <title>DANE Will Set Us Free</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2023-08-24T16:13:52+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-dane-will-set-us-free/</id>
     <content type="html">
         
     </content>
