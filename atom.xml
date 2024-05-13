@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-05-13T19:00:00+00:00</updated>
+  <updated>2024-05-13T20:55:45+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Quick NVMe performance testing with fio</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-05-13T20:55:45+00:00</published>
+    <updated>2024-05-13T20:55:45+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-quick-nvme-performance-testing-with-fio/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-quick-nvme-performance-testing-with-fio/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/quick-nvme-performance-testing-fio</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/quick-nvme-performance-testing-fio"/>
+        <title>Quick NVMe performance testing with fio</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-05-13T20:55:45+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-quick-nvme-performance-testing-with-fio/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Gist That Keeps On Giving</title>
         <author>
@@ -2930,30 +2954,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-topfew-release-10/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Photographing the 2024 Total Solar Eclipse (results)</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-04-12T14:08:12+00:00</published>
-    <updated>2024-04-12T14:08:12+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-photographing-the-2024-total-solar-eclipse-results/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-photographing-the-2024-total-solar-eclipse-results/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/photographing-2024-total-solar-eclipse-results</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/photographing-2024-total-solar-eclipse-results"/>
-        <title>Photographing the 2024 Total Solar Eclipse (results)</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-04-12T14:08:12+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-photographing-the-2024-total-solar-eclipse-results/</id>
     <content type="html">
         
     </content>
