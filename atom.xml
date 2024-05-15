@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-05-15T02:46:16+00:00</updated>
+  <updated>2024-05-15T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Asynchronously read STDIN in Drogon&#x2F;Trantor</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-05-15T04:00:00+00:00</published>
+    <updated>2024-05-15T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-asynchronously-read-stdin-in-drogontrantor/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-asynchronously-read-stdin-in-drogontrantor/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/05-15-asynchronously-readi-stdin-in-drogon-trantor.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/05-15-asynchronously-readi-stdin-in-drogon-trantor.gmi"/>
+        <title>Asynchronously read STDIN in Drogon&#x2F;Trantor</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-05-15T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-asynchronously-read-stdin-in-drogontrantor/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>microSD cards&#x27; SBC days are numbered</title>
         <author>
@@ -7154,30 +7178,6 @@
       </source>
 
     <id>https://news.cryptic.io/rachelbythebay-ldap-differ-feedback-and-the-666-i-missed/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Benchmarking RK3588 NPU matrix multiplication performance EP3</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-02-14T04:00:00+00:00</published>
-    <updated>2024-02-14T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-benchmarking-rk3588-npu-matrix-multiplication-performance-ep3/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-benchmarking-rk3588-npu-matrix-multiplication-performance-ep3/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/02-14-benchmarking-rk3588-npu-matrix-multiplcation-performance-ep2.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/02-14-benchmarking-rk3588-npu-matrix-multiplcation-performance-ep2.gmi"/>
-        <title>Benchmarking RK3588 NPU matrix multiplication performance EP3</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-02-14T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-benchmarking-rk3588-npu-matrix-multiplication-performance-ep3/</id>
     <content type="html">
         
     </content>
