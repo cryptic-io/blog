@@ -103,6 +103,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Bloom Filter</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-05-17T00:00:00+00:00</published>
+    <updated>2024-05-17T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-bloom-filter/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-bloom-filter/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2934/</id>
+        <link href="https://xkcd.com/2934/"/>
+        <title>Bloom Filter</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-05-17T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-bloom-filter/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>What I look for in empirical software papers</title>
         <author>
             <name>Hillel Wayne</name>
@@ -986,30 +1010,6 @@
       </source>
 
     <id>https://news.cryptic.io/diego-olivas-jimi-chen-discovering-arts-behind-the-mountains-1994/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Google Solar Cycle</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-05-08T00:00:00+00:00</published>
-    <updated>2024-05-08T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-google-solar-cycle/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-google-solar-cycle/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2930/</id>
-        <link href="https://xkcd.com/2930/"/>
-        <title>Google Solar Cycle</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-05-08T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-google-solar-cycle/</id>
     <content type="html">
         
     </content>
