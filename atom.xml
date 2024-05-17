@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-05-17T13:30:00+00:00</updated>
+  <updated>2024-05-17T17:21:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Horst Wessel and John Birch</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2024-05-17T17:21:00+00:00</published>
+    <updated>2024-05-17T17:21:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-horst-wessel-and-john-birch/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-horst-wessel-and-john-birch/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/politics/horst-wessel.html</id>
+        <link href="https://blog.plover.com/politics/horst-wessel.html"/>
+        <title>Horst Wessel and John Birch</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2024-05-17T17:21:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-horst-wessel-and-john-birch/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Kyoji Ohno (大野恭史): Kutsurogi (サイコジェネシス・シリーズ くつろぎ) (1990)</title>
         <author>
@@ -3098,30 +3122,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-stuff-that-is-and-isnt-backwards-in-australia/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>3-coloring the vertices of an icosahedron</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2024-04-13T18:27:00+00:00</published>
-    <updated>2024-04-13T18:27:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-3coloring-the-vertices-of-an-icosahedron/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-3coloring-the-vertices-of-an-icosahedron/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/math/colored-icosahedron.html</id>
-        <link href="https://blog.plover.com/math/colored-icosahedron.html"/>
-        <title>3-coloring the vertices of an icosahedron</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2024-04-13T18:27:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-3coloring-the-vertices-of-an-icosahedron/</id>
     <content type="html">
         
     </content>
