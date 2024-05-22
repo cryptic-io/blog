@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-05-21T19:20:00+00:00</updated>
+  <updated>2024-05-22T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Exponential Growth</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-05-22T00:00:00+00:00</published>
+    <updated>2024-05-22T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-exponential-growth/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-exponential-growth/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2936/</id>
+        <link href="https://xkcd.com/2936/"/>
+        <title>Exponential Growth</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-05-22T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-exponential-growth/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>My blogging workflow</title>
         <author>
@@ -1154,30 +1178,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-import-unsupported-camera-raw-files-into-apple-photos/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Driving PSA</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-05-13T00:00:00+00:00</published>
-    <updated>2024-05-13T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-driving-psa/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-driving-psa/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2932/</id>
-        <link href="https://xkcd.com/2932/"/>
-        <title>Driving PSA</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-05-13T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-driving-psa/</id>
     <content type="html">
         
     </content>
