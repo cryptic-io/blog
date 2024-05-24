@@ -964,10 +964,6 @@
         <lastmod>2022-04-10T14:54:27Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/drew-devault-ai-crap/</loc>
-        <lastmod>2023-08-29T00:00:00Z</lastmod>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/drew-devault-can-i-be-on-your-podcast/</loc>
         <lastmod>2023-11-09T00:00:00Z</lastmod>
     </url>
@@ -1002,6 +998,10 @@
     <url>
         <loc>https://news.cryptic.io/drew-devault-why-prusa-is-floundering-and-how-you-can-avoid-their-fate/</loc>
         <lastmod>2023-12-26T00:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/drew-devault-writing-a-unix-clone-in-about-a-month/</loc>
+        <lastmod>2024-05-24T00:00:00Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/dynomight-dynomight-internet-survey/</loc>
@@ -1092,6 +1092,10 @@
         <lastmod>2023-06-15T05:00:00Z</lastmod>
     </url>
     <url>
+        <loc>https://news.cryptic.io/evan-ovadia-exploring-seamless-rust-interop-for-newer-languages-part-1/</loc>
+        <lastmod>2024-05-24T06:00:00Z</lastmod>
+    </url>
+    <url>
         <loc>https://news.cryptic.io/evan-ovadia-generational-references-expanded/</loc>
         <lastmod>2023-07-10T05:00:00Z</lastmod>
     </url>
@@ -1118,10 +1122,6 @@
     <url>
         <loc>https://news.cryptic.io/evan-ovadia-vales-first-prototype-for-immutable-region-borrowing/</loc>
         <lastmod>2023-07-11T05:00:00Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/evan-ovadia-what-vale-taught-me-about-linear-types-borrowing-and-memory-safety/</loc>
-        <lastmod>2023-06-01T16:04:00Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/filippo-valsorda-a-cryptographic-near-miss/</loc>
@@ -1532,16 +1532,16 @@
         <lastmod>2024-05-09T16:51:18Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/jeff-geerling-building-a-pi-frigate-nvr-with-axzezs-interceptor-1u-case/</loc>
-        <lastmod>2024-04-19T14:12:53Z</lastmod>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/jeff-geerling-corporate-open-source-is-dead/</loc>
         <lastmod>2024-04-25T16:38:43Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/jeff-geerling-import-unsupported-camera-raw-files-into-apple-photos/</loc>
         <lastmod>2024-05-13T02:59:58Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/jeff-geerling-lattepanda-mu-crams-x86-pc-into-som-form-factor/</loc>
+        <lastmod>2024-05-24T14:00:46Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/jeff-geerling-microsd-cards-sbc-days-are-numbered/</loc>
@@ -1656,10 +1656,6 @@
         <lastmod>2024-05-06T19:00:00Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/jim-nielsen-faster-connectivity-faster-websites/</loc>
-        <lastmod>2024-04-15T19:00:00Z</lastmod>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/jim-nielsen-futuristic-progressive-enhancement/</loc>
         <lastmod>2024-05-20T19:00:00Z</lastmod>
     </url>
@@ -1682,6 +1678,10 @@
     <url>
         <loc>https://news.cryptic.io/jim-nielsen-the-gist-that-keeps-on-giving/</loc>
         <lastmod>2024-05-13T19:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/jim-nielsen-thinking-big-and-small/</loc>
+        <lastmod>2024-05-24T19:00:00Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/joey-hess-announcing-zephyrcopilot/</loc>
@@ -2368,46 +2368,6 @@
         <lastmod>2024-01-15T00:00:00Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-backrooms-liminal-spaces-and-the-subliminal-menace-of-loneliness-in-indie-horror-games/</loc>
-        <lastmod>2024-02-02T01:36:51Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-bluesuburbia-is-an-indiecade-2023-nominee/</loc>
-        <lastmod>2023-10-12T18:50:27Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-bluesuburbia-out-now-on-steam-early-access/</loc>
-        <lastmod>2023-12-29T23:34:19Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-goodbye-america/</loc>
-        <lastmod>2024-04-11T16:53:24Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-how-to-download-and-run-the-flash-version-of-bluesuburbia/</loc>
-        <lastmod>2023-10-25T22:32:39Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-real-talk-games-about-trauma-art-caught-between-everything-is-horrible-everything-is-survivable-and-this-is-too-hard-to-talk-about/</loc>
-        <lastmod>2023-08-14T23:55:57Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-solodevs-and-risktakers-an-artistic-exploration-of-experimental-tools/</loc>
-        <lastmod>2024-04-17T14:11:49Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-the-generous-space-of-alternative-game-engines-a-curation/</loc>
-        <lastmod>2023-09-14T01:23:18Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-the-story-of-my-first-a-maze-and-why-i-wish-we-had-an-event-dedicated-to-solodevs/</loc>
-        <lastmod>2024-05-20T12:36:51Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-you-scream-into-the-void-but-the-rate-limit-has-been-exceeded-nobody-can-hear-you-scream/</loc>
-        <lastmod>2023-07-07T00:56:37Z</lastmod>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/nick-1964/</loc>
         <lastmod>2012-06-14T18:25:27Z</lastmod>
     </url>
@@ -2583,9 +2543,6 @@
     </url>
     <url>
         <loc>https://news.cryptic.io/page/26/</loc>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/page/27/</loc>
     </url>
     <url>
         <loc>https://news.cryptic.io/page/3/</loc>
