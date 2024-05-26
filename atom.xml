@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-05-26T08:00:00+00:00</updated>
+  <updated>2024-05-26T19:44:21+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Against Landlords</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-05-26T19:44:21+00:00</published>
+    <updated>2024-05-26T19:44:21+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-against-landlords/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-against-landlords/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/against-landlords/</id>
+        <link href="https://robinrendle.com/notes/against-landlords/"/>
+        <title>Against Landlords</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-05-26T19:44:21+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-against-landlords/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>What I Use</title>
         <author>
@@ -31,7 +55,7 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Old dogs, new CSS tricks</title>
+    <title>Old Dogs, new CSS Tricks</title>
         <author>
             <name>Max Böck</name>
         </author>
@@ -42,7 +66,7 @@
       <source>
         <id>https://mxb.dev/blog/old-dogs-new-css-tricks/</id>
         <link href="https://mxb.dev/blog/old-dogs-new-css-tricks/"/>
-        <title>Old dogs, new CSS tricks</title>
+        <title>Old Dogs, new CSS Tricks</title>
         <author>
             <name>Max Böck</name>
         </author>
@@ -5114,30 +5138,6 @@
       </source>
 
     <id>https://news.cryptic.io/cheapskate-a-review-of-the-dell-xps-13-l321x-laptop/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Other Side</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-03-29T01:13:27+00:00</published>
-    <updated>2024-03-29T01:13:27+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-other-side/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-other-side/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-other-side/</id>
-        <link href="https://robinrendle.com/notes/the-other-side/"/>
-        <title>The Other Side</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-03-29T01:13:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-other-side/</id>
     <content type="html">
         
     </content>
