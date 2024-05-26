@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-05-25T19:26:00+00:00</updated>
+  <updated>2024-05-26T08:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>What I Use</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2024-05-26T08:00:00+00:00</published>
+    <updated>2024-05-26T08:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-what-i-use/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-what-i-use/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/2024/use/</id>
+        <link href="http://bastian.rieck.me/blog/2024/use/"/>
+        <title>What I Use</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2024-05-26T08:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-what-i-use/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>2024 GPG Key Update</title>
         <author>
@@ -9942,30 +9966,6 @@
       </source>
 
     <id>https://news.cryptic.io/james-brown-changing-servers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Remembering Frank H. Lutz</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-    <published>2023-11-26T16:00:00+00:00</published>
-    <updated>2023-11-26T16:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-remembering-frank-h-lutz/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-remembering-frank-h-lutz/" type="text/html"/>
-      <source>
-        <id>http://bastian.rieck.me/blog/2023/frank_lutz/</id>
-        <link href="http://bastian.rieck.me/blog/2023/frank_lutz/"/>
-        <title>Remembering Frank H. Lutz</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-        <updated>2023-11-26T16:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bastian-rieck-remembering-frank-h-lutz/</id>
     <content type="html">
         
     </content>
