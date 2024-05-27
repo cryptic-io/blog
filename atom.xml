@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Local Group</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-05-27T00:00:00+00:00</published>
+    <updated>2024-05-27T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-local-group/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-local-group/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2938/</id>
+        <link href="https://xkcd.com/2938/"/>
+        <title>Local Group</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-05-27T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-local-group/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Against Landlords</title>
         <author>
             <name>Robin Rendle</name>
@@ -1202,30 +1226,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-om-malik/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Bloom Filter</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-05-17T00:00:00+00:00</published>
-    <updated>2024-05-17T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-bloom-filter/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-bloom-filter/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2934/</id>
-        <link href="https://xkcd.com/2934/"/>
-        <title>Bloom Filter</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-05-17T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-bloom-filter/</id>
     <content type="html">
         
     </content>
