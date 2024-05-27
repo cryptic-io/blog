@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-05-26T19:44:21+00:00</updated>
+  <updated>2024-05-27T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Librem 5 is.. not that bad?</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-05-27T04:00:00+00:00</published>
+    <updated>2024-05-27T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-the-librem-5-is-not-that-bad/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-the-librem-5-is-not-that-bad/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/05-27-the-librem-5-is-not-that-bad.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/05-27-the-librem-5-is-not-that-bad.gmi"/>
+        <title>The Librem 5 is.. not that bad?</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-05-27T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-the-librem-5-is-not-that-bad/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Against Landlords</title>
         <author>
@@ -7250,30 +7274,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-serving-a-website-from-a-git-repo-without-cloning-it/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Tenstorrent first thoughts</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-02-17T04:00:00+00:00</published>
-    <updated>2024-02-17T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-tenstorrent-first-thoughts/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-tenstorrent-first-thoughts/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/02-17-tenstorrent-first-thoughts.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/02-17-tenstorrent-first-thoughts.gmi"/>
-        <title>Tenstorrent first thoughts</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-02-17T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-tenstorrent-first-thoughts/</id>
     <content type="html">
         
     </content>
