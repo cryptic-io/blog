@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-05-27T04:00:00+00:00</updated>
+  <updated>2024-05-28T01:34:43+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>In the beginning… was the command line</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+    <published>2024-05-28T01:34:43+00:00</published>
+    <updated>2024-05-28T01:34:43+00:00</updated>
+    <link href="https://news.cryptic.io/linus-lee-in-the-beginning-was-the-command-line/"/>
+    <link rel="alternate" href="https://news.cryptic.io/linus-lee-in-the-beginning-was-the-command-line/" type="text/html"/>
+      <source>
+        <id>https://thesephist.com/posts/stephenson-command-line/</id>
+        <link href="https://thesephist.com/posts/stephenson-command-line/"/>
+        <title>In the beginning… was the command line</title>
+        <author>
+            <name>Linus Lee</name>
+        </author>
+        <updated>2024-05-28T01:34:43+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/linus-lee-in-the-beginning-was-the-command-line/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Librem 5 is.. not that bad?</title>
         <author>
@@ -16362,30 +16386,6 @@
       </source>
 
     <id>https://news.cryptic.io/dkbdkbfyi-dkb-interview-with-brave-search/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Thoughts at the boundary between machine and mind</title>
-        <author>
-            <name>Linus Lee</name>
-        </author>
-    <published>2022-05-05T20:38:53+00:00</published>
-    <updated>2022-05-05T20:38:53+00:00</updated>
-    <link href="https://news.cryptic.io/linus-lee-thoughts-at-the-boundary-between-machine-and-mind/"/>
-    <link rel="alternate" href="https://news.cryptic.io/linus-lee-thoughts-at-the-boundary-between-machine-and-mind/" type="text/html"/>
-      <source>
-        <id>https://thesephist.com/posts/representation/</id>
-        <link href="https://thesephist.com/posts/representation/"/>
-        <title>Thoughts at the boundary between machine and mind</title>
-        <author>
-            <name>Linus Lee</name>
-        </author>
-        <updated>2022-05-05T20:38:53+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/linus-lee-thoughts-at-the-boundary-between-machine-and-mind/</id>
     <content type="html">
         
     </content>
