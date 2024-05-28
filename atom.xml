@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-05-28T01:34:43+00:00</updated>
+  <updated>2024-05-28T05:16:12+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>So many feed readers, so many bizarre behaviors</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-05-28T05:16:12+00:00</published>
+    <updated>2024-05-28T05:16:12+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-so-many-feed-readers-so-many-bizarre-behaviors/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-so-many-feed-readers-so-many-bizarre-behaviors/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/05/27/feed/</id>
+        <link href="https://rachelbythebay.com/w/2024/05/27/feed/"/>
+        <title>So many feed readers, so many bizarre behaviors</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-05-28T05:16:12+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-so-many-feed-readers-so-many-bizarre-behaviors/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>In the beginning… was the command line</title>
         <author>
@@ -1303,6 +1327,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>SSD death, tricky read-only filesystems, and systemd magic?</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-05-16T06:59:33+00:00</published>
+    <updated>2024-05-16T06:59:33+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-ssd-death-tricky-readonly-filesystems-and-systemd-magic/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-ssd-death-tricky-readonly-filesystems-and-systemd-magic/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/05/15/ro/</id>
+        <link href="https://rachelbythebay.com/w/2024/05/15/ro/"/>
+        <title>SSD death, tricky read-only filesystems, and systemd magic?</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-05-16T06:59:33+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-ssd-death-tricky-readonly-filesystems-and-systemd-magic/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Managing apps in a decentralized way</title>
         <author>
             <name>Various</name>
@@ -2479,6 +2527,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Reader feedback on autoconf and bugginess in general</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-05-01T21:09:29+00:00</published>
+    <updated>2024-05-01T21:09:29+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-reader-feedback-on-autoconf-and-bugginess-in-general/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-reader-feedback-on-autoconf-and-bugginess-in-general/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/05/01/feedback/</id>
+        <link href="https://rachelbythebay.com/w/2024/05/01/feedback/"/>
+        <title>Reader feedback on autoconf and bugginess in general</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-05-01T21:09:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-reader-feedback-on-autoconf-and-bugginess-in-general/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Bulletproof Method to Solving Problems</title>
         <author>
             <name>Jim Nielsen</name>
@@ -2671,6 +2743,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Port-scanning the fleet and trying to put out fires</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-04-30T07:51:22+00:00</published>
+    <updated>2024-04-30T07:51:22+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-portscanning-the-fleet-and-trying-to-put-out-fires/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-portscanning-the-fleet-and-trying-to-put-out-fires/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/03/21/scan/</id>
+        <link href="https://rachelbythebay.com/w/2024/03/21/scan/"/>
+        <title>Port-scanning the fleet and trying to put out fires</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-04-30T07:51:22+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-portscanning-the-fleet-and-trying-to-put-out-fires/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Sell First, or Build First?</title>
         <author>
             <name>Allen Pike</name>
@@ -2690,6 +2786,30 @@
       </source>
 
     <id>https://news.cryptic.io/allen-pike-sell-first-or-build-first/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Hitting every branch on the way down</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-04-30T04:00:43+00:00</published>
+    <updated>2024-04-30T04:00:43+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-hitting-every-branch-on-the-way-down/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-hitting-every-branch-on-the-way-down/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/04/29/pb/</id>
+        <link href="https://rachelbythebay.com/w/2024/04/29/pb/"/>
+        <title>Hitting every branch on the way down</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-04-30T04:00:43+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-hitting-every-branch-on-the-way-down/</id>
     <content type="html">
         
     </content>
@@ -4303,6 +4423,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Going in circles without a real-time clock</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-04-10T20:45:07+00:00</published>
+    <updated>2024-04-10T20:45:07+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-going-in-circles-without-a-realtime-clock/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-going-in-circles-without-a-realtime-clock/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/04/10/rtc/</id>
+        <link href="https://rachelbythebay.com/w/2024/04/10/rtc/"/>
+        <title>Going in circles without a real-time clock</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-04-10T20:45:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-going-in-circles-without-a-realtime-clock/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Some notes on for loops</title>
         <author>
             <name>Hillel Wayne</name>
@@ -4658,6 +4802,30 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-the-blessing-of-the-strings/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>autoconf makes me think we stopped evolving too soon</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-04-03T00:31:15+00:00</published>
+    <updated>2024-04-03T00:31:15+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-autoconf-makes-me-think-we-stopped-evolving-too-soon/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-autoconf-makes-me-think-we-stopped-evolving-too-soon/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/04/02/autoconf/</id>
+        <link href="https://rachelbythebay.com/w/2024/04/02/autoconf/"/>
+        <title>autoconf makes me think we stopped evolving too soon</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-04-03T00:31:15+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-autoconf-makes-me-think-we-stopped-evolving-too-soon/</id>
     <content type="html">
         
     </content>
@@ -6343,6 +6511,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Sometimes the dam breaks even after plenty of warnings</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-03-05T18:31:40+00:00</published>
+    <updated>2024-03-05T18:31:40+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-sometimes-the-dam-breaks-even-after-plenty-of-warnings/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-sometimes-the-dam-breaks-even-after-plenty-of-warnings/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/03/05/outage/</id>
+        <link href="https://rachelbythebay.com/w/2024/03/05/outage/"/>
+        <title>Sometimes the dam breaks even after plenty of warnings</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-03-05T18:31:40+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-sometimes-the-dam-breaks-even-after-plenty-of-warnings/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Plants: the planting and eating thereof</title>
         <author>
             <name>degrowther</name>
@@ -6559,6 +6751,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Today&#x27;s only half of the leap year fun</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-02-29T20:37:37+00:00</published>
+    <updated>2024-02-29T20:37:37+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-todays-only-half-of-the-leap-year-fun/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-todays-only-half-of-the-leap-year-fun/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/02/29/tib/</id>
+        <link href="https://rachelbythebay.com/w/2024/02/29/tib/"/>
+        <title>Today&#x27;s only half of the leap year fun</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-02-29T20:37:37+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-todays-only-half-of-the-leap-year-fun/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Using axis lines for good or evil</title>
         <author>
             <name>dynomight</name>
@@ -6746,6 +6962,30 @@
       </source>
 
     <id>https://news.cryptic.io/tyler-cipriani-eternal-shell-history/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>1 &lt;&lt; n vs. 1U &lt;&lt; n and a cell phone autofocus problem</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-02-25T04:54:46+00:00</published>
+    <updated>2024-02-25T04:54:46+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-1-n-vs-1u-n-and-a-cell-phone-autofocus-problem/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-1-n-vs-1u-n-and-a-cell-phone-autofocus-problem/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/02/24/signext/</id>
+        <link href="https://rachelbythebay.com/w/2024/02/24/signext/"/>
+        <title>1 &lt;&lt; n vs. 1U &lt;&lt; n and a cell phone autofocus problem</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-02-25T04:54:46+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-1-n-vs-1u-n-and-a-cell-phone-autofocus-problem/</id>
     <content type="html">
         
     </content>
