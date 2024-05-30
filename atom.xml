@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-05-30T14:15:13+00:00</updated>
+  <updated>2024-05-30T20:42:13+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Testing object detection (yolo, mobilenet, etc.) with picamera2 on Pi 5</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-05-30T20:42:13+00:00</published>
+    <updated>2024-05-30T20:42:13+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-testing-object-detection-yolo-mobilenet-etc-with-picamera2-on-pi-5/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-testing-object-detection-yolo-mobilenet-etc-with-picamera2-on-pi-5/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/testing-object-detection-yolo-mobilenet-etc-picamera2-on-pi-5</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/testing-object-detection-yolo-mobilenet-etc-picamera2-on-pi-5"/>
+        <title>Testing object detection (yolo, mobilenet, etc.) with picamera2 on Pi 5</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-05-30T20:42:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-testing-object-detection-yolo-mobilenet-etc-with-picamera2-on-pi-5/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Yow Okazaki (岡崎葉): Damage (ダメージ) (1995)</title>
         <author>
@@ -3410,30 +3434,6 @@
       </source>
 
     <id>https://news.cryptic.io/ed-zitron-in-response-to-google/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Corporate Open Source is Dead</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-04-25T16:38:43+00:00</published>
-    <updated>2024-04-25T16:38:43+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-corporate-open-source-is-dead/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-corporate-open-source-is-dead/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/corporate-open-source-dead</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/corporate-open-source-dead"/>
-        <title>Corporate Open Source is Dead</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-04-25T16:38:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-corporate-open-source-is-dead/</id>
     <content type="html">
         
     </content>
