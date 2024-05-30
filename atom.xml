@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-05-30T06:45:00+00:00</updated>
+  <updated>2024-05-30T12:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Spraying Digital Graffiti</title>
+        <author>
+            <name>andersource</name>
+        </author>
+    <published>2024-05-30T12:00:00+00:00</published>
+    <updated>2024-05-30T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/andersource-spraying-digital-graffiti/"/>
+    <link rel="alternate" href="https://news.cryptic.io/andersource-spraying-digital-graffiti/" type="text/html"/>
+      <source>
+        <id>andersource.github.io/2024/05/30/spraying-digital-graffiti.html</id>
+        <link href="andersource.github.io/2024/05/30/spraying-digital-graffiti.html"/>
+        <title>Spraying Digital Graffiti</title>
+        <author>
+            <name>andersource</name>
+        </author>
+        <updated>2024-05-30T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/andersource-spraying-digital-graffiti/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>AI and the English language</title>
         <author>
@@ -16218,30 +16242,6 @@
       </source>
 
     <id>https://news.cryptic.io/andersource-lasers-in-space/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I can’t let go of “The Dunning-Kruger Effect is Autocorrelation”</title>
-        <author>
-            <name>andersource</name>
-        </author>
-    <published>2022-04-19T00:20:00+00:00</published>
-    <updated>2022-04-19T00:20:00+00:00</updated>
-    <link href="https://news.cryptic.io/andersource-i-cant-let-go-of-the-dunningkruger-effect-is-autocorrelation/"/>
-    <link rel="alternate" href="https://news.cryptic.io/andersource-i-cant-let-go-of-the-dunningkruger-effect-is-autocorrelation/" type="text/html"/>
-      <source>
-        <id>andersource.github.io/2022/04/19/dk-autocorrelation.html</id>
-        <link href="andersource.github.io/2022/04/19/dk-autocorrelation.html"/>
-        <title>I can’t let go of “The Dunning-Kruger Effect is Autocorrelation”</title>
-        <author>
-            <name>andersource</name>
-        </author>
-        <updated>2022-04-19T00:20:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/andersource-i-cant-let-go-of-the-dunningkruger-effect-is-autocorrelation/</id>
     <content type="html">
         
     </content>
