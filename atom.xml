@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-05-29T16:25:00+00:00</updated>
+  <updated>2024-05-30T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Host and The Gene</title>
+        <author>
+            <name>Jesse Duffield</name>
+        </author>
+    <published>2024-05-30T00:00:00+00:00</published>
+    <updated>2024-05-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jesse-duffield-the-host-and-the-gene/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jesse-duffield-the-host-and-the-gene/" type="text/html"/>
+      <source>
+        <id>https://jesseduffield.com/The-Host-and-The-Gene/</id>
+        <link href="https://jesseduffield.com/The-Host-and-The-Gene/"/>
+        <title>The Host and The Gene</title>
+        <author>
+            <name>Jesse Duffield</name>
+        </author>
+        <updated>2024-05-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jesse-duffield-the-host-and-the-gene/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Bearblog is fun</title>
         <author>
@@ -13770,30 +13794,6 @@
       </source>
 
     <id>https://news.cryptic.io/charlie-andrews-adding-a-sense-of-urgency-to-negotiations/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>More Lazygit Integration Testing (Dev Blog)</title>
-        <author>
-            <name>Jesse Duffield</name>
-        </author>
-    <published>2023-02-19T00:00:00+00:00</published>
-    <updated>2023-02-19T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jesse-duffield-more-lazygit-integration-testing-dev-blog/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jesse-duffield-more-lazygit-integration-testing-dev-blog/" type="text/html"/>
-      <source>
-        <id>https://jesseduffield.com/More-Lazygit-Integration-Testing/</id>
-        <link href="https://jesseduffield.com/More-Lazygit-Integration-Testing/"/>
-        <title>More Lazygit Integration Testing (Dev Blog)</title>
-        <author>
-            <name>Jesse Duffield</name>
-        </author>
-        <updated>2023-02-19T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jesse-duffield-more-lazygit-integration-testing-dev-blog/</id>
     <content type="html">
         
     </content>
