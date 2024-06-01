@@ -55,6 +55,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Updating to Eleventy v3</title>
+        <author>
+            <name>Max Böck</name>
+        </author>
+    <published>2024-06-01T00:00:00+00:00</published>
+    <updated>2024-06-01T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/max-bck-updating-to-eleventy-v3/"/>
+    <link rel="alternate" href="https://news.cryptic.io/max-bck-updating-to-eleventy-v3/" type="text/html"/>
+      <source>
+        <id>https://mxb.dev/blog/eleventy-v3-update/</id>
+        <link href="https://mxb.dev/blog/eleventy-v3-update/"/>
+        <title>Updating to Eleventy v3</title>
+        <author>
+            <name>Max Böck</name>
+        </author>
+        <updated>2024-06-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/max-bck-updating-to-eleventy-v3/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Hexadecimal Sucks</title>
         <author>
             <name>Tyler Cipriani</name>
@@ -17934,30 +17958,6 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-mediumstyle-share-highlights-in-eleventy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Space Jam</title>
-        <author>
-            <name>Max Böck</name>
-        </author>
-    <published>2021-04-04T00:00:00+00:00</published>
-    <updated>2021-04-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/max-bck-space-jam/"/>
-    <link rel="alternate" href="https://news.cryptic.io/max-bck-space-jam/" type="text/html"/>
-      <source>
-        <id>https://mxb.dev/blog/space-jam/</id>
-        <link href="https://mxb.dev/blog/space-jam/"/>
-        <title>Space Jam</title>
-        <author>
-            <name>Max Böck</name>
-        </author>
-        <updated>2021-04-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/max-bck-space-jam/</id>
     <content type="html">
         
     </content>
