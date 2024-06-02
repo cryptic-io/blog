@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-06-02T03:00:00+00:00</updated>
+  <updated>2024-06-02T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Thoughts and logs after messing with Tenstorrent Grayskull</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-06-02T04:00:00+00:00</published>
+    <updated>2024-06-02T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-thoughts-and-logs-after-messing-with-tenstorrent-grayskull/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-thoughts-and-logs-after-messing-with-tenstorrent-grayskull/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/06-02-thoughts-and-logs-after-messing-with-tenstorrent-grayskull.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/06-02-thoughts-and-logs-after-messing-with-tenstorrent-grayskull.gmi"/>
+        <title>Thoughts and logs after messing with Tenstorrent Grayskull</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-06-02T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-thoughts-and-logs-after-messing-with-tenstorrent-grayskull/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Steam Deck: I like it</title>
         <author>
@@ -7130,30 +7154,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-satirical-ways-to-measure-academics/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>In the name of sustainablity, I bought a power meter</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-02-18T04:00:00+00:00</published>
-    <updated>2024-02-18T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-in-the-name-of-sustainablity-i-bought-a-power-meter/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-in-the-name-of-sustainablity-i-bought-a-power-meter/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/02-18-in-the-name-of-sustainablity-i-bought-a-power-meter.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/02-18-in-the-name-of-sustainablity-i-bought-a-power-meter.gmi"/>
-        <title>In the name of sustainablity, I bought a power meter</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-02-18T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-in-the-name-of-sustainablity-i-bought-a-power-meter/</id>
     <content type="html">
         
     </content>
