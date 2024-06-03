@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-06-02T04:00:00+00:00</updated>
+  <updated>2024-06-02T23:25:26+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Saying a lot while saying nothing at all about Ansible AWX</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-06-02T23:25:26+00:00</published>
+    <updated>2024-06-02T23:25:26+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-saying-a-lot-while-saying-nothing-at-all-about-ansible-awx/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-saying-a-lot-while-saying-nothing-at-all-about-ansible-awx/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/saying-lot-while-saying-nothing-all-about-ansible-awx</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/saying-lot-while-saying-nothing-all-about-ansible-awx"/>
+        <title>Saying a lot while saying nothing at all about Ansible AWX</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-06-02T23:25:26+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-saying-a-lot-while-saying-nothing-at-all-about-ansible-awx/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Thoughts and logs after messing with Tenstorrent Grayskull</title>
         <author>
@@ -3122,30 +3146,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-bulletproof-method-to-solving-problems/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>4-way NVMe RAID comes to Raspberry Pi 5</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-05-01T15:59:58+00:00</published>
-    <updated>2024-05-01T15:59:58+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-4way-nvme-raid-comes-to-raspberry-pi-5/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-4way-nvme-raid-comes-to-raspberry-pi-5/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/4-way-nvme-raid-comes-raspberry-pi-5</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/4-way-nvme-raid-comes-raspberry-pi-5"/>
-        <title>4-way NVMe RAID comes to Raspberry Pi 5</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-05-01T15:59:58+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-4way-nvme-raid-comes-to-raspberry-pi-5/</id>
     <content type="html">
         
     </content>
