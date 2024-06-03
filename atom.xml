@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-06-03T19:00:00+00:00</updated>
+  <updated>2024-06-04T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>My stance on (GitHub) Copilot</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-06-04T04:00:00+00:00</published>
+    <updated>2024-06-04T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-my-stance-on-github-copilot/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-my-stance-on-github-copilot/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/06-04-my-stance-on-github-copilot.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/06-04-my-stance-on-github-copilot.gmi"/>
+        <title>My stance on (GitHub) Copilot</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-06-04T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-my-stance-on-github-copilot/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>“Just” One Line</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-just-one-line/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>They might not make it</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-06-03T16:10:00+00:00</published>
+    <updated>2024-06-03T16:10:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-they-might-not-make-it/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-they-might-not-make-it/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/RwtFLl3wOh8h4fmv</id>
+        <link href="https://manuelmoreale.com/@/page/RwtFLl3wOh8h4fmv"/>
+        <title>They might not make it</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-06-03T16:10:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-they-might-not-make-it/</id>
     <content type="html">
         
     </content>
@@ -1802,30 +1850,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-codeaid-a-classroom-deployment-of-an-llmbased-programming-assistant/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A moment with a choice</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-05-19T16:40:00+00:00</published>
-    <updated>2024-05-19T16:40:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-with-a-choice/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-with-a-choice/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/TiNxHcmUC12R2VMH</id>
-        <link href="https://manuelmoreale.com/@/page/TiNxHcmUC12R2VMH"/>
-        <title>A moment with a choice</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-05-19T16:40:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-with-a-choice/</id>
     <content type="html">
         
     </content>
@@ -6650,30 +6674,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-learning-the-joy-of-buying-outfits/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>CORS on the Drogon web framework</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-03-02T04:00:00+00:00</published>
-    <updated>2024-03-02T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-cors-on-the-drogon-web-framework/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-cors-on-the-drogon-web-framework/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/03-02-cors-on-the-drogon-web-framework.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/03-02-cors-on-the-drogon-web-framework.gmi"/>
-        <title>CORS on the Drogon web framework</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-03-02T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-cors-on-the-drogon-web-framework/</id>
     <content type="html">
         
     </content>
