@@ -6943,6 +6943,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Bugs I’ve filed on browsers</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2024-03-03T23:02:22+00:00</published>
+    <updated>2024-03-03T23:02:22+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-bugs-ive-filed-on-browsers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-bugs-ive-filed-on-browsers/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2024/03/03/bugs-ive-filed-on-browsers/</id>
+        <link href="https://nolanlawson.com/2024/03/03/bugs-ive-filed-on-browsers/"/>
+        <title>Bugs I’ve filed on browsers</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2024-03-03T23:02:22+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-bugs-ive-filed-on-browsers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Learning the joy of buying outfits</title>
         <author>
             <name>Martin Chang</name>
@@ -8671,6 +8695,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Web component gotcha: constructor vs connectedCallback</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2024-01-13T18:45:33+00:00</published>
+    <updated>2024-01-13T18:45:33+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-web-component-gotcha-constructor-vs-connectedcallback/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-web-component-gotcha-constructor-vs-connectedcallback/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2024/01/13/web-component-gotcha-constructor-vs-connectedcallback/</id>
+        <link href="https://nolanlawson.com/2024/01/13/web-component-gotcha-constructor-vs-connectedcallback/"/>
+        <title>Web component gotcha: constructor vs connectedCallback</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2024-01-13T18:45:33+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-web-component-gotcha-constructor-vs-connectedcallback/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Motivating X3DH</title>
         <author>
             <name>Wesley Aptekar-Cassels</name>
@@ -9367,6 +9415,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>2023 book review</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2023-12-31T20:28:04+00:00</published>
+    <updated>2023-12-31T20:28:04+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-2023-book-review/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-2023-book-review/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2023/12/31/2023-book-review/</id>
+        <link href="https://nolanlawson.com/2023/12/31/2023-book-review/"/>
+        <title>2023 book review</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2023-12-31T20:28:04+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-2023-book-review/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Git Things</title>
         <author>
             <name>Alex Kladov</name>
@@ -9434,6 +9506,30 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-a-year-in-review-2023/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Shadow DOM and the problem of encapsulation</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2023-12-30T17:03:24+00:00</published>
+    <updated>2023-12-30T17:03:24+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-shadow-dom-and-the-problem-of-encapsulation/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-shadow-dom-and-the-problem-of-encapsulation/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2023/12/30/shadow-dom-and-the-problem-of-encapsulation/</id>
+        <link href="https://nolanlawson.com/2023/12/30/shadow-dom-and-the-problem-of-encapsulation/"/>
+        <title>Shadow DOM and the problem of encapsulation</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2023-12-30T17:03:24+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-shadow-dom-and-the-problem-of-encapsulation/</id>
     <content type="html">
         
     </content>
@@ -9775,6 +9871,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Rebuilding emoji-picker-element on a custom framework</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2023-12-17T20:52:58+00:00</published>
+    <updated>2023-12-17T20:52:58+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-rebuilding-emojipickerelement-on-a-custom-framework/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-rebuilding-emojipickerelement-on-a-custom-framework/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2023/12/17/rebuilding-emoji-picker-element-on-a-custom-framework/</id>
+        <link href="https://nolanlawson.com/2023/12/17/rebuilding-emoji-picker-element-on-a-custom-framework/"/>
+        <title>Rebuilding emoji-picker-element on a custom framework</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2023-12-17T20:52:58+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-rebuilding-emojipickerelement-on-a-custom-framework/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Installing Photoshop CS2 on Windows 11</title>
         <author>
             <name>Various</name>
@@ -9966,6 +10086,30 @@
       </source>
 
     <id>https://news.cryptic.io/apenwarr-nps-the-good-parts/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Let’s learn how modern JavaScript frameworks work by building one</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2023-12-02T19:47:11+00:00</published>
+    <updated>2023-12-02T19:47:11+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-lets-learn-how-modern-javascript-frameworks-work-by-building-one/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-lets-learn-how-modern-javascript-frameworks-work-by-building-one/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/</id>
+        <link href="https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/"/>
+        <title>Let’s learn how modern JavaScript frameworks work by building one</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2023-12-02T19:47:11+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-lets-learn-how-modern-javascript-frameworks-work-by-building-one/</id>
     <content type="html">
         
     </content>
@@ -11554,6 +11698,54 @@
       </source>
 
     <id>https://news.cryptic.io/degrowther-the-state-will-not-save-us-from-climate-catastrophe/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Catching errors thrown from connectedCallback</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2023-08-25T14:30:47+00:00</published>
+    <updated>2023-08-25T14:30:47+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-catching-errors-thrown-from-connectedcallback/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-catching-errors-thrown-from-connectedcallback/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2023/08/25/catching-errors-thrown-from-connectedcallback/</id>
+        <link href="https://nolanlawson.com/2023/08/25/catching-errors-thrown-from-connectedcallback/"/>
+        <title>Catching errors thrown from connectedCallback</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2023-08-25T14:30:47+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-catching-errors-thrown-from-connectedcallback/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Use web components for what they’re good at</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2023-08-23T14:27:07+00:00</published>
+    <updated>2023-08-23T14:27:07+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-use-web-components-for-what-theyre-good-at/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-use-web-components-for-what-theyre-good-at/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/</id>
+        <link href="https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/"/>
+        <title>Use web components for what they’re good at</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2023-08-23T14:27:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-use-web-components-for-what-theyre-good-at/</id>
     <content type="html">
         
     </content>
@@ -14063,6 +14255,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>My talk on CSS runtime performance</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2023-01-17T14:55:41+00:00</published>
+    <updated>2023-01-17T14:55:41+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-my-talk-on-css-runtime-performance/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-my-talk-on-css-runtime-performance/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/</id>
+        <link href="https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/"/>
+        <title>My talk on CSS runtime performance</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2023-01-17T14:55:41+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-my-talk-on-css-runtime-performance/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Lasercut DnD Scenery</title>
         <author>
             <name>mechatronicsguy</name>
@@ -14130,6 +14346,30 @@
       </source>
 
     <id>https://news.cryptic.io/linus-lee-backpropagating-through-reasoning/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Retiring Pinafore</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2023-01-09T16:11:26+00:00</published>
+    <updated>2023-01-09T16:11:26+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-retiring-pinafore/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-retiring-pinafore/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2023/01/09/retiring-pinafore/</id>
+        <link href="https://nolanlawson.com/2023/01/09/retiring-pinafore/"/>
+        <title>Retiring Pinafore</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2023-01-09T16:11:26+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-retiring-pinafore/</id>
     <content type="html">
         
     </content>
