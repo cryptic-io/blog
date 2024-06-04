@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-06-04T12:00:00+00:00</updated>
+  <updated>2024-06-04T15:38:46+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Album Of The Week: Peggy Gou I Hear You</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+    <published>2024-06-04T15:38:46+00:00</published>
+    <updated>2024-06-04T15:38:46+00:00</updated>
+    <link href="https://news.cryptic.io/stereogum-album-of-the-week-peggy-gou-i-hear-you/"/>
+    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-peggy-gou-i-hear-you/" type="text/html"/>
+      <source>
+        <id>https://www.stereogum.com/2265771/album-of-the-week-peggy-gou-i-hear-you/reviews/album-of-the-week/</id>
+        <link href="https://www.stereogum.com/2265771/album-of-the-week-peggy-gou-i-hear-you/reviews/album-of-the-week/"/>
+        <title>Album Of The Week: Peggy Gou I Hear You</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+        <updated>2024-06-04T15:38:46+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/stereogum-album-of-the-week-peggy-gou-i-hear-you/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Adding Google Web search to Firefox</title>
         <author>
@@ -367,30 +391,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>I&#x27;m in SF this week!</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-06-02T00:00:00+00:00</published>
-    <updated>2024-06-02T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-im-in-sf-this-week/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-im-in-sf-this-week/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/notes/2024/im-in-sf-this-week/</id>
-        <link href="https://xeiaso.net/notes/2024/im-in-sf-this-week/"/>
-        <title>I&#x27;m in SF this week!</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-06-02T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-im-in-sf-this-week/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Parable of the Sofa</title>
         <author>
             <name>Tim Bray</name>
@@ -482,30 +482,6 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-upgrading-to-eleventy-v3/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Absurd crimes with shadow bucket migration</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-06-01T00:00:00+00:00</published>
-    <updated>2024-06-01T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-absurd-crimes-with-shadow-bucket-migration/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-absurd-crimes-with-shadow-bucket-migration/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/2024/azurda/</id>
-        <link href="https://xeiaso.net/blog/2024/azurda/"/>
-        <title>Absurd crimes with shadow bucket migration</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-06-01T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-absurd-crimes-with-shadow-bucket-migration/</id>
     <content type="html">
         
     </content>
@@ -1255,30 +1231,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>iTerm2 Update: AI stuff is gonna be in a plugin</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-05-25T00:00:00+00:00</published>
-    <updated>2024-05-25T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-iterm2-update-ai-stuff-is-gonna-be-in-a-plugin/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-iterm2-update-ai-stuff-is-gonna-be-in-a-plugin/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/notes/2024/iterm2-update/</id>
-        <link href="https://xeiaso.net/notes/2024/iterm2-update/"/>
-        <title>iTerm2 Update: AI stuff is gonna be in a plugin</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-05-25T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-iterm2-update-ai-stuff-is-gonna-be-in-a-plugin/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Thinking Big and Small</title>
         <author>
             <name>Jim Nielsen</name>
@@ -1543,30 +1495,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>I&#x27;m speaking at DevRelCon!</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-05-24T00:00:00+00:00</published>
-    <updated>2024-05-24T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-im-speaking-at-devrelcon/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-im-speaking-at-devrelcon/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/notes/2024/devrelcon/</id>
-        <link href="https://xeiaso.net/notes/2024/devrelcon/"/>
-        <title>I&#x27;m speaking at DevRelCon!</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-05-24T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-im-speaking-at-devrelcon/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>HARIYO (ハリヨ): Hariyo Remixe’s (1994)</title>
         <author>
             <name>Diego Olivas</name>
@@ -1802,54 +1730,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-improving-the-wpt-dashboard/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>iTerm2 and AI hype overload</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-05-21T00:00:00+00:00</published>
-    <updated>2024-05-21T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-iterm2-and-ai-hype-overload/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-iterm2-and-ai-hype-overload/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/notes/2024/ai-hype/</id>
-        <link href="https://xeiaso.net/notes/2024/ai-hype/"/>
-        <title>iTerm2 and AI hype overload</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-05-21T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-iterm2-and-ai-hype-overload/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-05-21T00:00:00+00:00</published>
-    <updated>2024-05-21T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-no-way-to-prevent-this-say-users-of-only-language-where-this-regularly-happens/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-no-way-to-prevent-this-say-users-of-only-language-where-this-regularly-happens/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-4323/</id>
-        <link href="https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-4323/"/>
-        <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-05-21T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-no-way-to-prevent-this-say-users-of-only-language-where-this-regularly-happens/</id>
     <content type="html">
         
     </content>
@@ -2354,30 +2234,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-microsd-cards-sbc-days-are-numbered/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Rebuilding my homelab: Suffering as a service</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-05-15T00:00:00+00:00</published>
-    <updated>2024-05-15T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-rebuilding-my-homelab-suffering-as-a-service/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-rebuilding-my-homelab-suffering-as-a-service/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/2024/homelab-v2/</id>
-        <link href="https://xeiaso.net/blog/2024/homelab-v2/"/>
-        <title>Rebuilding my homelab: Suffering as a service</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-05-15T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-rebuilding-my-homelab-suffering-as-a-service/</id>
     <content type="html">
         
     </content>
@@ -3175,30 +3031,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Pikmin 3: No Fruit, No Problem - 0 Fruit in 2h24m</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-05-04T00:00:00+00:00</published>
-    <updated>2024-05-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-pikmin-3-no-fruit-no-problem-0-fruit-in-2h24m/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-pikmin-3-no-fruit-no-problem-0-fruit-in-2h24m/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/2024/pikmin-3-0-fruit/</id>
-        <link href="https://xeiaso.net/blog/2024/pikmin-3-0-fruit/"/>
-        <title>Pikmin 3: No Fruit, No Problem - 0 Fruit in 2h24m</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-05-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-pikmin-3-no-fruit-no-problem-0-fruit-in-2h24m/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>I mostly use Signal to talk to people and I…</title>
         <author>
             <name>Rodrigo Ghedin</name>
@@ -3218,30 +3050,6 @@
       </source>
 
     <id>https://news.cryptic.io/rodrigo-ghedin-i-mostly-use-signal-to-talk-to-people-and-i/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Building a social network from scratch on a whiteboard</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-05-03T00:00:00+00:00</published>
-    <updated>2024-05-03T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-building-a-social-network-from-scratch-on-a-whiteboard/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-building-a-social-network-from-scratch-on-a-whiteboard/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/talks/2024/shashin/</id>
-        <link href="https://xeiaso.net/talks/2024/shashin/"/>
-        <title>Building a social network from scratch on a whiteboard</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-05-03T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-building-a-social-network-from-scratch-on-a-whiteboard/</id>
     <content type="html">
         
     </content>
@@ -5935,30 +5743,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Album Of The Week: Chastity Belt Live Laugh Love</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-03-26T15:12:12+00:00</published>
-    <updated>2024-03-26T15:12:12+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-chastity-belt-live-laugh-love/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-chastity-belt-live-laugh-love/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2256904/chastity-belt-live-laugh-love/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2256904/chastity-belt-live-laugh-love/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Chastity Belt Live Laugh Love</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-03-26T15:12:12+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-chastity-belt-live-laugh-love/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Why do regexes use `$` and `^` as line anchors?</title>
         <author>
             <name>Hillel Wayne</name>
@@ -6002,30 +5786,6 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-speaking-freely/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Grug Brained Writer</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-03-24T19:50:59+00:00</published>
-    <updated>2024-03-24T19:50:59+00:00</updated>
-    <link href="https://news.cryptic.io/various-the-grug-brained-writer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-the-grug-brained-writer/" type="text/html"/>
-      <source>
-        <id>https://www.autodidacts.io/grug/</id>
-        <link href="https://www.autodidacts.io/grug/"/>
-        <title>The Grug Brained Writer</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-03-24T19:50:59+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-the-grug-brained-writer/</id>
     <content type="html">
         
     </content>
@@ -7898,30 +7658,6 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-notes-on-my-remarkable-tablet/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I cured my mysterious, debilitating seasonal rash with an ultra-low-carb Ketogenic diet (n=1) 🔒</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-02-08T06:48:28+00:00</published>
-    <updated>2024-02-08T06:48:28+00:00</updated>
-    <link href="https://news.cryptic.io/various-i-cured-my-mysterious-debilitating-seasonal-rash-with-an-ultralowcarb-ketogenic-diet-n1/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-i-cured-my-mysterious-debilitating-seasonal-rash-with-an-ultralowcarb-ketogenic-diet-n1/" type="text/html"/>
-      <source>
-        <id>https://www.autodidacts.io/cure-seasonal-heat-rash-eczema-psoriasis-dermatitis-with-low-carb-ketogenic-diet/</id>
-        <link href="https://www.autodidacts.io/cure-seasonal-heat-rash-eczema-psoriasis-dermatitis-with-low-carb-ketogenic-diet/"/>
-        <title>I cured my mysterious, debilitating seasonal rash with an ultra-low-carb Ketogenic diet (n=1) 🔒</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-02-08T06:48:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-i-cured-my-mysterious-debilitating-seasonal-rash-with-an-ultralowcarb-ketogenic-diet-n1/</id>
     <content type="html">
         
     </content>
@@ -10883,30 +10619,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Things I don’t know how to do</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-10-24T23:39:40+00:00</published>
-    <updated>2023-10-24T23:39:40+00:00</updated>
-    <link href="https://news.cryptic.io/various-things-i-dont-know-how-to-do/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-things-i-dont-know-how-to-do/" type="text/html"/>
-      <source>
-        <id>https://www.autodidacts.io/intractable/</id>
-        <link href="https://www.autodidacts.io/intractable/"/>
-        <title>Things I don’t know how to do</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-10-24T23:39:40+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-things-i-dont-know-how-to-do/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Why We Don’t Generate Elliptic Curves Every Day</title>
         <author>
             <name>Filippo Valsorda</name>
@@ -10950,30 +10662,6 @@
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-sharing-contacts-using-qr-code-without-requiring-a-network-connection/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>80&#x2F;20 Spanish</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-10-22T22:27:22+00:00</published>
-    <updated>2023-10-22T22:27:22+00:00</updated>
-    <link href="https://news.cryptic.io/various-8020-spanish/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-8020-spanish/" type="text/html"/>
-      <source>
-        <id>https://www.autodidacts.io/80-20-spanish-learning-tips/</id>
-        <link href="https://www.autodidacts.io/80-20-spanish-learning-tips/"/>
-        <title>80&#x2F;20 Spanish</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-10-22T22:27:22+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-8020-spanish/</id>
     <content type="html">
         
     </content>
@@ -13607,30 +13295,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Art of Resisting Promotion</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-03-25T01:53:45+00:00</published>
-    <updated>2023-03-25T01:53:45+00:00</updated>
-    <link href="https://news.cryptic.io/various-the-art-of-resisting-promotion/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-the-art-of-resisting-promotion/" type="text/html"/>
-      <source>
-        <id>https://www.autodidacts.io/resisting-promotion/</id>
-        <link href="https://www.autodidacts.io/resisting-promotion/"/>
-        <title>The Art of Resisting Promotion</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-03-25T01:53:45+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-the-art-of-resisting-promotion/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Planning Go 1.21 Cryptography Work</title>
         <author>
             <name>Filippo Valsorda</name>
@@ -13794,30 +13458,6 @@
       </source>
 
     <id>https://news.cryptic.io/clayton-craft-presence-detection-without-compromising-privacy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to Make Your Smartphone Boring</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-03-10T08:43:50+00:00</published>
-    <updated>2023-03-10T08:43:50+00:00</updated>
-    <link href="https://news.cryptic.io/various-how-to-make-your-smartphone-boring/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-how-to-make-your-smartphone-boring/" type="text/html"/>
-      <source>
-        <id>https://www.autodidacts.io/how-to-make-your-smartphone-boring/</id>
-        <link href="https://www.autodidacts.io/how-to-make-your-smartphone-boring/"/>
-        <title>How to Make Your Smartphone Boring</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-03-10T08:43:50+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-how-to-make-your-smartphone-boring/</id>
     <content type="html">
         
     </content>
@@ -14375,30 +14015,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Swearing is Dumb</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-01-08T08:46:27+00:00</published>
-    <updated>2023-01-08T08:46:27+00:00</updated>
-    <link href="https://news.cryptic.io/various-swearing-is-dumb/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-swearing-is-dumb/" type="text/html"/>
-      <source>
-        <id>https://www.autodidacts.io/swearing-is-dumb/</id>
-        <link href="https://www.autodidacts.io/swearing-is-dumb/"/>
-        <title>Swearing is Dumb</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-01-08T08:46:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-swearing-is-dumb/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Introduction to Java Notebooks</title>
         <author>
             <name>Roy van Rijn</name>
@@ -14442,54 +14058,6 @@
       </source>
 
     <id>https://news.cryptic.io/maggie-appleton-the-expanding-dark-forest-and-generative-ai/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why It’s Worth Doing Things Properly</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-01-02T08:33:03+00:00</published>
-    <updated>2023-01-02T08:33:03+00:00</updated>
-    <link href="https://news.cryptic.io/various-why-its-worth-doing-things-properly/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-why-its-worth-doing-things-properly/" type="text/html"/>
-      <source>
-        <id>https://www.autodidacts.io/why-its-worth-doing-things-properly/</id>
-        <link href="https://www.autodidacts.io/why-its-worth-doing-things-properly/"/>
-        <title>Why It’s Worth Doing Things Properly</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-01-02T08:33:03+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-why-its-worth-doing-things-properly/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Gratitude</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2023-01-02T07:59:00+00:00</published>
-    <updated>2023-01-02T07:59:00+00:00</updated>
-    <link href="https://news.cryptic.io/various-gratitude/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-gratitude/" type="text/html"/>
-      <source>
-        <id>https://www.autodidacts.io/gratitude/</id>
-        <link href="https://www.autodidacts.io/gratitude/"/>
-        <title>Gratitude</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2023-01-02T07:59:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-gratitude/</id>
     <content type="html">
         
     </content>
@@ -14586,30 +14154,6 @@
       </source>
 
     <id>https://news.cryptic.io/chris-kiehl-2022/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How is it that people can be annoying without doing anything?</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2022-12-30T19:18:22+00:00</published>
-    <updated>2022-12-30T19:18:22+00:00</updated>
-    <link href="https://news.cryptic.io/various-how-is-it-that-people-can-be-annoying-without-doing-anything/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-how-is-it-that-people-can-be-annoying-without-doing-anything/" type="text/html"/>
-      <source>
-        <id>https://www.autodidacts.io/incompatible-states/</id>
-        <link href="https://www.autodidacts.io/incompatible-states/"/>
-        <title>How is it that people can be annoying without doing anything?</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2022-12-30T19:18:22+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-how-is-it-that-people-can-be-annoying-without-doing-anything/</id>
     <content type="html">
         
     </content>
