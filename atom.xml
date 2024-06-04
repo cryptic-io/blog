@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-06-04T15:38:46+00:00</updated>
+  <updated>2024-06-04T18:31:41+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Mediocre Feed: My New Feed Reader</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2024-06-04T18:31:41+00:00</published>
+    <updated>2024-06-04T18:31:41+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-mediocre-feed-my-new-feed-reader/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-mediocre-feed-my-new-feed-reader/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/mediocre-feed</id>
+        <link href="https://mediocregopher.com/posts/mediocre-feed"/>
+        <title>Mediocre Feed: My New Feed Reader</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2024-06-04T18:31:41+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-mediocre-feed-my-new-feed-reader/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Album Of The Week: Peggy Gou I Hear You</title>
         <author>
@@ -11506,30 +11530,6 @@
       </source>
 
     <id>https://news.cryptic.io/nathalie-lawhead-the-generous-space-of-alternative-game-engines-a-curation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Story Time: The Hackiest Feature of Them All</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2023-09-13T10:58:49+00:00</published>
-    <updated>2023-09-13T10:58:49+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-story-time-the-hackiest-feature-of-them-all/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-story-time-the-hackiest-feature-of-them-all/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/posts/mobile-broadcasts</id>
-        <link href="https://mediocregopher.com/posts/mobile-broadcasts"/>
-        <title>Story Time: The Hackiest Feature of Them All</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2023-09-13T10:58:49+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-story-time-the-hackiest-feature-of-them-all/</id>
     <content type="html">
         
     </content>
