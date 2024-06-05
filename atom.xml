@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-06-05T03:00:00+00:00</updated>
+  <updated>2024-06-05T15:14:09+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>I&#x27;ve been thinking about tradeoffs all wrong</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-06-05T15:14:09+00:00</published>
+    <updated>2024-06-05T15:14:09+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-ive-been-thinking-about-tradeoffs-all-wrong/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-ive-been-thinking-about-tradeoffs-all-wrong/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/ive-been-thinking-about-tradeoffs-all-wrong/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/ive-been-thinking-about-tradeoffs-all-wrong/"/>
+        <title>I&#x27;ve been thinking about tradeoffs all wrong</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-06-05T15:14:09+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-ive-been-thinking-about-tradeoffs-all-wrong/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>They make USB-C cables with displays now!</title>
         <author>
@@ -6554,30 +6578,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-links-worth-sharing/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>What Mob Programming is Bad At</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-03-14T14:45:00+00:00</published>
-    <updated>2024-03-14T14:45:00+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-what-mob-programming-is-bad-at/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-what-mob-programming-is-bad-at/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/what-mob-programming-is-bad-at/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/what-mob-programming-is-bad-at/"/>
-        <title>What Mob Programming is Bad At</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-03-14T14:45:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-what-mob-programming-is-bad-at/</id>
     <content type="html">
         
     </content>
