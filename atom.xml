@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-06-07T15:50:22+00:00</updated>
+  <updated>2024-06-07T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Night Time Sky</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-06-07T19:00:00+00:00</published>
+    <updated>2024-06-07T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-the-night-time-sky/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-the-night-time-sky/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/night-time-sky/</id>
+        <link href="https://blog.jim-nielsen.com/2024/night-time-sky/"/>
+        <title>The Night Time Sky</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-06-07T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-the-night-time-sky/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Newer versions of Ansible don&#x27;t work with RHEL 8</title>
         <author>
@@ -4034,30 +4058,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-mistakes-that-data-science-students-make/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Motorcycles, Cars, Websites, and Seams</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-04-28T19:00:00+00:00</published>
-    <updated>2024-04-28T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-motorcycles-cars-websites-and-seams/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-motorcycles-cars-websites-and-seams/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/cars-motorcycles-websites-seams/</id>
-        <link href="https://blog.jim-nielsen.com/2024/cars-motorcycles-websites-seams/"/>
-        <title>Motorcycles, Cars, Websites, and Seams</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-04-28T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-motorcycles-cars-websites-and-seams/</id>
     <content type="html">
         
     </content>
