@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-06-08T19:08:23+00:00</updated>
+  <updated>2024-06-09T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Compare nlohmann&#x2F;json to Glaze</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-06-09T04:00:00+00:00</published>
+    <updated>2024-06-09T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-compare-nlohmannjson-to-glaze/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-compare-nlohmannjson-to-glaze/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/06-09-compare-nlohmann-json-to-glaze.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/06-09-compare-nlohmann-json-to-glaze.gmi"/>
+        <title>Compare nlohmann&#x2F;json to Glaze</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-06-09T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-compare-nlohmannjson-to-glaze/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A Simple Script to Initialize nix-Based Projects</title>
         <author>
@@ -7106,30 +7130,6 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-bugs-ive-filed-on-browsers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Learning the joy of buying outfits</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-03-03T04:00:00+00:00</published>
-    <updated>2024-03-03T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-learning-the-joy-of-buying-outfits/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-learning-the-joy-of-buying-outfits/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/03-03-learning-the-joy-of-buying-outfits.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/03-03-learning-the-joy-of-buying-outfits.gmi"/>
-        <title>Learning the joy of buying outfits</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-03-03T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-learning-the-joy-of-buying-outfits/</id>
     <content type="html">
         
     </content>
