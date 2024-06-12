@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-06-11T16:41:05+00:00</updated>
+  <updated>2024-06-12T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>I Interviewed ‘Uncle’ Bob Martin</title>
+        <author>
+            <name>Jesse Duffield</name>
+        </author>
+    <published>2024-06-12T00:00:00+00:00</published>
+    <updated>2024-06-12T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jesse-duffield-i-interviewed-uncle-bob-martin/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jesse-duffield-i-interviewed-uncle-bob-martin/" type="text/html"/>
+      <source>
+        <id>https://jesseduffield.com/Bob-Martin-Interview/</id>
+        <link href="https://jesseduffield.com/Bob-Martin-Interview/"/>
+        <title>I Interviewed ‘Uncle’ Bob Martin</title>
+        <author>
+            <name>Jesse Duffield</name>
+        </author>
+        <updated>2024-06-12T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jesse-duffield-i-interviewed-uncle-bob-martin/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Silicon Valley&#x27;s False Prophet</title>
         <author>
@@ -13578,30 +13602,6 @@
       </source>
 
     <id>https://news.cryptic.io/cristbal-sciutto-de-bermuda-e-chinelo/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Audacity (Uncorrupting an Audacity Project)</title>
-        <author>
-            <name>Jesse Duffield</name>
-        </author>
-    <published>2023-03-13T00:00:00+00:00</published>
-    <updated>2023-03-13T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jesse-duffield-the-audacity-uncorrupting-an-audacity-project/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jesse-duffield-the-audacity-uncorrupting-an-audacity-project/" type="text/html"/>
-      <source>
-        <id>https://jesseduffield.com/The-Audacity/</id>
-        <link href="https://jesseduffield.com/The-Audacity/"/>
-        <title>The Audacity (Uncorrupting an Audacity Project)</title>
-        <author>
-            <name>Jesse Duffield</name>
-        </author>
-        <updated>2023-03-13T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jesse-duffield-the-audacity-uncorrupting-an-audacity-project/</id>
     <content type="html">
         
     </content>
