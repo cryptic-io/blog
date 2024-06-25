@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-06-24T19:00:00+00:00</updated>
+  <updated>2024-06-25T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Writing MIME, RSS, and existential suffering</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2024-06-25T00:00:00+00:00</published>
+    <updated>2024-06-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-writing-mime-rss-and-existential-suffering/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-writing-mime-rss-and-existential-suffering/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/vods/2024/mime-rss/</id>
+        <link href="https://xeiaso.net/vods/2024/mime-rss/"/>
+        <title>Writing MIME, RSS, and existential suffering</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2024-06-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-writing-mime-rss-and-existential-suffering/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A Local-first Codebase Opens the Door to More Collaborators</title>
         <author>
@@ -3170,30 +3194,6 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-old-dogs-new-css-tricks/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-05-26T00:00:00+00:00</published>
-    <updated>2024-05-26T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-no-way-to-prevent-this-say-users-of-only-language-where-this-regularly-happens/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-no-way-to-prevent-this-say-users-of-only-language-where-this-regularly-happens/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2023-52656/</id>
-        <link href="https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2023-52656/"/>
-        <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-05-26T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-no-way-to-prevent-this-say-users-of-only-language-where-this-regularly-happens/</id>
     <content type="html">
         
     </content>
