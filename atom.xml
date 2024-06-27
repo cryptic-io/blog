@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-06-27T12:32:23+00:00</updated>
+  <updated>2024-06-27T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Cool URIs Don’t Change — But Humans Do</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-06-27T19:00:00+00:00</published>
+    <updated>2024-06-27T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-cool-uris-dont-change-but-humans-do/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-cool-uris-dont-change-but-humans-do/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/cool-uris-and-humans/</id>
+        <link href="https://blog.jim-nielsen.com/2024/cool-uris-and-humans/"/>
+        <title>Cool URIs Don’t Change — But Humans Do</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-06-27T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-cool-uris-dont-change-but-humans-do/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Mix: 85. Sign Libra (Guest Mix)</title>
         <author>
@@ -3242,30 +3266,6 @@
       </source>
 
     <id>https://news.cryptic.io/james-brown-2024-gpg-key-update/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Thinking Big and Small</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-05-24T19:00:00+00:00</published>
-    <updated>2024-05-24T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-thinking-big-and-small/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-thinking-big-and-small/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/thinking-big-and-small/</id>
-        <link href="https://blog.jim-nielsen.com/2024/thinking-big-and-small/"/>
-        <title>Thinking Big and Small</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-05-24T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-thinking-big-and-small/</id>
     <content type="html">
         
     </content>
