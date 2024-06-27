@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-06-27T06:40:00+00:00</updated>
+  <updated>2024-06-27T12:32:23+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Mix: 85. Sign Libra (Guest Mix)</title>
+        <author>
+            <name>Diego Olivas</name>
+        </author>
+    <published>2024-06-27T12:32:23+00:00</published>
+    <updated>2024-06-27T12:32:23+00:00</updated>
+    <link href="https://news.cryptic.io/diego-olivas-mix-85-sign-libra-guest-mix/"/>
+    <link rel="alternate" href="https://news.cryptic.io/diego-olivas-mix-85-sign-libra-guest-mix/" type="text/html"/>
+      <source>
+        <id>https://www.fondsound.com/mix-85-sign-libra-guest-mix/</id>
+        <link href="https://www.fondsound.com/mix-85-sign-libra-guest-mix/"/>
+        <title>Mix: 85. Sign Libra (Guest Mix)</title>
+        <author>
+            <name>Diego Olivas</name>
+        </author>
+        <updated>2024-06-27T12:32:23+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/diego-olivas-mix-85-sign-libra-guest-mix/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Ads hypocrisy</title>
         <author>
@@ -199,30 +223,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Feed reader score project participants: I made a mistake</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-06-25T05:04:36+00:00</published>
-    <updated>2024-06-25T05:04:36+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feed-reader-score-project-participants-i-made-a-mistake/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feed-reader-score-project-participants-i-made-a-mistake/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/06/24/fs/</id>
-        <link href="https://rachelbythebay.com/w/2024/06/24/fs/"/>
-        <title>Feed reader score project participants: I made a mistake</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-06-25T05:04:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feed-reader-score-project-participants-i-made-a-mistake/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The key bit of the code that was biting me in net&#x2F;http</title>
         <author>
             <name>Xe Iaso</name>
@@ -290,30 +290,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-a-localfirst-codebase-opens-the-door-to-more-collaborators/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Leaking URLs to the clown</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-06-24T18:18:01+00:00</published>
-    <updated>2024-06-24T18:18:01+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-leaking-urls-to-the-clown/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-leaking-urls-to-the-clown/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/06/24/feed/</id>
-        <link href="https://rachelbythebay.com/w/2024/06/24/feed/"/>
-        <title>Leaking URLs to the clown</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-06-24T18:18:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-leaking-urls-to-the-clown/</id>
     <content type="html">
         
     </content>
@@ -1471,30 +1447,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Plain text journaling</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2024-06-14T07:55:00+00:00</published>
-    <updated>2024-06-14T07:55:00+00:00</updated>
-    <link href="https://news.cryptic.io/herman-plain-text-journaling/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-plain-text-journaling/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/plain-text-journaling/</id>
-        <link href="https://herman.bearblog.dev/plain-text-journaling/"/>
-        <title>Plain text journaling</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2024-06-14T07:55:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-plain-text-journaling/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Supercronching videos for embedding in websites with ffmpeg</title>
         <author>
             <name>Xe Iaso</name>
@@ -1562,30 +1514,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-giving-away-480-raspberry-pis-was-harder-than-i-expected/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Can you run in a tight loop and still be well-behaved?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-06-13T14:21:34+00:00</published>
-    <updated>2024-06-13T14:21:34+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-can-you-run-in-a-tight-loop-and-still-be-wellbehaved/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-can-you-run-in-a-tight-loop-and-still-be-wellbehaved/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/06/12/timing/</id>
-        <link href="https://rachelbythebay.com/w/2024/06/12/timing/"/>
-        <title>Can you run in a tight loop and still be well-behaved?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-06-13T14:21:34+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-can-you-run-in-a-tight-loop-and-still-be-wellbehaved/</id>
     <content type="html">
         
     </content>
@@ -1706,30 +1634,6 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-my-interview-with-uncle-bob-martin/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Some early results for feed reader behavior monitoring</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-06-11T23:19:26+00:00</published>
-    <updated>2024-06-11T23:19:26+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-some-early-results-for-feed-reader-behavior-monitoring/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-some-early-results-for-feed-reader-behavior-monitoring/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/06/11/fsr/</id>
-        <link href="https://rachelbythebay.com/w/2024/06/11/fsr/"/>
-        <title>Some early results for feed reader behavior monitoring</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-06-11T23:19:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-some-early-results-for-feed-reader-behavior-monitoring/</id>
     <content type="html">
         
     </content>
@@ -2551,30 +2455,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Reader feedback: feed reader scores and &quot;like&quot; buttons</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-06-03T09:13:25+00:00</published>
-    <updated>2024-06-03T09:13:25+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-reader-feedback-feed-reader-scores-and-like-buttons/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-reader-feedback-feed-reader-scores-and-like-buttons/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/06/03/feedback/</id>
-        <link href="https://rachelbythebay.com/w/2024/06/03/feedback/"/>
-        <title>Reader feedback: feed reader scores and &quot;like&quot; buttons</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-06-03T09:13:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-reader-feedback-feed-reader-scores-and-like-buttons/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Updating Core Data object ID URIs on store migrations</title>
         <author>
             <name>Various</name>
@@ -2887,30 +2767,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The feed reader score service is now online</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-05-31T02:24:19+00:00</published>
-    <updated>2024-05-31T02:24:19+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-the-feed-reader-score-service-is-now-online/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-feed-reader-score-service-is-now-online/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/05/30/fs/</id>
-        <link href="https://rachelbythebay.com/w/2024/05/30/fs/"/>
-        <title>The feed reader score service is now online</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-05-31T02:24:19+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-the-feed-reader-score-service-is-now-online/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Testing object detection (yolo, mobilenet, etc.) with picamera2 on Pi 5</title>
         <author>
             <name>Jeff Geerling</name>
@@ -3055,30 +2911,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>I&#x27;m going to give this &quot;reader score&quot; thing a spin</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-05-29T07:16:32+00:00</published>
-    <updated>2024-05-29T07:16:32+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-im-going-to-give-this-reader-score-thing-a-spin/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-im-going-to-give-this-reader-score-thing-a-spin/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/05/29/score/</id>
-        <link href="https://rachelbythebay.com/w/2024/05/29/score/"/>
-        <title>I&#x27;m going to give this &quot;reader score&quot; thing a spin</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-05-29T07:16:32+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-im-going-to-give-this-reader-score-thing-a-spin/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The Complex Problem Of Lying For Jobs</title>
         <author>
             <name>Lucic</name>
@@ -3146,30 +2978,6 @@
       </source>
 
     <id>https://news.cryptic.io/stereogum-album-of-the-week-the-maras-submarine/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>So many feed readers, so many bizarre behaviors</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-05-28T05:16:12+00:00</published>
-    <updated>2024-05-28T05:16:12+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-so-many-feed-readers-so-many-bizarre-behaviors/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-so-many-feed-readers-so-many-bizarre-behaviors/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/05/27/feed/</id>
-        <link href="https://rachelbythebay.com/w/2024/05/27/feed/"/>
-        <title>So many feed readers, so many bizarre behaviors</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-05-28T05:16:12+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-so-many-feed-readers-so-many-bizarre-behaviors/</id>
     <content type="html">
         
     </content>
@@ -4111,30 +3919,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>SSD death, tricky read-only filesystems, and systemd magic?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-05-16T06:59:33+00:00</published>
-    <updated>2024-05-16T06:59:33+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-ssd-death-tricky-readonly-filesystems-and-systemd-magic/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-ssd-death-tricky-readonly-filesystems-and-systemd-magic/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/05/15/ro/</id>
-        <link href="https://rachelbythebay.com/w/2024/05/15/ro/"/>
-        <title>SSD death, tricky read-only filesystems, and systemd magic?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-05-16T06:59:33+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-ssd-death-tricky-readonly-filesystems-and-systemd-magic/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Managing apps in a decentralized way</title>
         <author>
             <name>Various</name>
@@ -4999,30 +4783,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Reader feedback on autoconf and bugginess in general</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-05-01T21:09:29+00:00</published>
-    <updated>2024-05-01T21:09:29+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-reader-feedback-on-autoconf-and-bugginess-in-general/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-reader-feedback-on-autoconf-and-bugginess-in-general/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/05/01/feedback/</id>
-        <link href="https://rachelbythebay.com/w/2024/05/01/feedback/"/>
-        <title>Reader feedback on autoconf and bugginess in general</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-05-01T21:09:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-reader-feedback-on-autoconf-and-bugginess-in-general/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>&quot;Integration tests&quot; are just vibes</title>
         <author>
             <name>Hillel Wayne</name>
@@ -5762,54 +5522,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-mirror-effects/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How the internet became shit</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2024-04-19T14:01:32.424+00:00</published>
-    <updated>2024-04-19T14:01:32.424+00:00</updated>
-    <link href="https://news.cryptic.io/herman-how-the-internet-became-shit/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-how-the-internet-became-shit/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/how-the-internet-became-shit/</id>
-        <link href="https://herman.bearblog.dev/how-the-internet-became-shit/"/>
-        <title>How the internet became shit</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2024-04-19T14:01:32.424+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-how-the-internet-became-shit/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Yukihiro Fukutomi (福富幸宏): POST ( ポスト)</title>
-        <author>
-            <name>Diego Olivas</name>
-        </author>
-    <published>2024-04-19T13:30:00+00:00</published>
-    <updated>2024-04-19T13:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/diego-olivas-yukihiro-fukutomi-post/"/>
-    <link rel="alternate" href="https://news.cryptic.io/diego-olivas-yukihiro-fukutomi-post/" type="text/html"/>
-      <source>
-        <id>https://www.fondsound.com/yukihiro-fukutomi-%e7%a6%8f%e5%af%8c%e5%b9%b8%e5%ae%8f-post-%e3%83%9d%e3%82%b9%e3%83%88/</id>
-        <link href="https://www.fondsound.com/yukihiro-fukutomi-%e7%a6%8f%e5%af%8c%e5%b9%b8%e5%ae%8f-post-%e3%83%9d%e3%82%b9%e3%83%88/"/>
-        <title>Yukihiro Fukutomi (福富幸宏): POST ( ポスト)</title>
-        <author>
-            <name>Diego Olivas</name>
-        </author>
-        <updated>2024-04-19T13:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/diego-olivas-yukihiro-fukutomi-post/</id>
     <content type="html">
         
     </content>
@@ -7375,30 +7087,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Semantic AJAX-HTML</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2024-03-13T08:28:00+00:00</published>
-    <updated>2024-03-13T08:28:00+00:00</updated>
-    <link href="https://news.cryptic.io/herman-semantic-ajaxhtml/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-semantic-ajaxhtml/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/semantic-ajax-html/</id>
-        <link href="https://herman.bearblog.dev/semantic-ajax-html/"/>
-        <title>Semantic AJAX-HTML</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2024-03-13T08:28:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-semantic-ajaxhtml/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How We Fund the Web Ecosystem</title>
         <author>
             <name>Brian Kardell</name>
@@ -7778,30 +7466,6 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-using-axis-lines-for-good-or-evil/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why Pictures</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2024-02-28T12:58:09.793+00:00</published>
-    <updated>2024-02-28T12:58:09.793+00:00</updated>
-    <link href="https://news.cryptic.io/herman-why-pictures/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-why-pictures/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/why-pictures/</id>
-        <link href="https://herman.bearblog.dev/why-pictures/"/>
-        <title>Why Pictures</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2024-02-28T12:58:09.793+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-why-pictures/</id>
     <content type="html">
         
     </content>
@@ -8335,30 +7999,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The future of self-driving</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2024-02-15T06:46:39.889+00:00</published>
-    <updated>2024-02-15T06:46:39.889+00:00</updated>
-    <link href="https://news.cryptic.io/herman-the-future-of-selfdriving/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-the-future-of-selfdriving/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/the-future-of-self-driving/</id>
-        <link href="https://herman.bearblog.dev/the-future-of-self-driving/"/>
-        <title>The future of self-driving</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2024-02-15T06:46:39.889+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-the-future-of-selfdriving/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Taste games</title>
         <author>
             <name>dynomight</name>
@@ -8815,30 +8455,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>AI tutoring; what works?</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2024-02-01T06:30:50.451+00:00</published>
-    <updated>2024-02-01T06:30:50.451+00:00</updated>
-    <link href="https://news.cryptic.io/herman-ai-tutoring-what-works/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-ai-tutoring-what-works/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/ai-tutoring-what-works/</id>
-        <link href="https://herman.bearblog.dev/ai-tutoring-what-works/"/>
-        <title>AI tutoring; what works?</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2024-02-01T06:30:50.451+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-ai-tutoring-what-works/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Notes on Search and AI</title>
         <author>
             <name>Tom Critchlow</name>
@@ -9199,30 +8815,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>How I learn (making games for the Playdate)</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2024-01-17T07:26:31.146+00:00</published>
-    <updated>2024-01-17T07:26:31.146+00:00</updated>
-    <link href="https://news.cryptic.io/herman-how-i-learn-making-games-for-the-playdate/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-how-i-learn-making-games-for-the-playdate/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/how-i-learn/</id>
-        <link href="https://herman.bearblog.dev/how-i-learn/"/>
-        <title>How I learn (making games for the Playdate)</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2024-01-17T07:26:31.146+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-how-i-learn-making-games-for-the-playdate/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Formatting disks and clearing RAID config on Power systems with iprutils</title>
         <author>
             <name>Various</name>
@@ -9434,30 +9026,6 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-2023-in-numbers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The two kinds of writing</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2024-01-10T07:40:55.307+00:00</published>
-    <updated>2024-01-10T07:40:55.307+00:00</updated>
-    <link href="https://news.cryptic.io/herman-the-two-kinds-of-writing/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-the-two-kinds-of-writing/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/the-two-kinds-of-writing/</id>
-        <link href="https://herman.bearblog.dev/the-two-kinds-of-writing/"/>
-        <title>The two kinds of writing</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2024-01-10T07:40:55.307+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-the-two-kinds-of-writing/</id>
     <content type="html">
         
     </content>
@@ -9770,30 +9338,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-whats-too-good-to-be-true/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>On goal-setting</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2024-01-03T15:33:22.984+00:00</published>
-    <updated>2024-01-03T15:33:22.984+00:00</updated>
-    <link href="https://news.cryptic.io/herman-on-goalsetting/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-on-goalsetting/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/on-goal-setting/</id>
-        <link href="https://herman.bearblog.dev/on-goal-setting/"/>
-        <title>On goal-setting</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2024-01-03T15:33:22.984+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-on-goalsetting/</id>
     <content type="html">
         
     </content>
@@ -11171,30 +10715,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Testing Smarter, Not Harder: Using LLMs for Better Unit Tests</title>
-        <author>
-            <name>manuel</name>
-        </author>
-    <published>2023-11-05T02:13:43.669+00:00</published>
-    <updated>2023-11-05T02:13:43.669+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-testing-smarter-not-harder-using-llms-for-better-unit-tests/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-testing-smarter-not-harder-using-llms-for-better-unit-tests/" type="text/html"/>
-      <source>
-        <id>https://the.scapegoat.dev/testing-smarter-not-harder-using-llms-for-better-unit-tests/</id>
-        <link href="https://the.scapegoat.dev/testing-smarter-not-harder-using-llms-for-better-unit-tests/"/>
-        <title>Testing Smarter, Not Harder: Using LLMs for Better Unit Tests</title>
-        <author>
-            <name>manuel</name>
-        </author>
-        <updated>2023-11-05T02:13:43.669+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-testing-smarter-not-harder-using-llms-for-better-unit-tests/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Disrupt the Government</title>
         <author>
             <name>geohot</name>
@@ -11286,30 +10806,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-ginger-2023-update/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How Bear does analytics with CSS</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2023-11-01T07:36:52.167+00:00</published>
-    <updated>2023-11-01T07:36:52.167+00:00</updated>
-    <link href="https://news.cryptic.io/herman-how-bear-does-analytics-with-css/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-how-bear-does-analytics-with-css/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/how-bear-does-analytics-with-css/</id>
-        <link href="https://herman.bearblog.dev/how-bear-does-analytics-with-css/"/>
-        <title>How Bear does analytics with CSS</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2023-11-01T07:36:52.167+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-how-bear-does-analytics-with-css/</id>
     <content type="html">
         
     </content>
@@ -12375,54 +11871,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>LLM Tools for the distracted developer</title>
-        <author>
-            <name>manuel</name>
-        </author>
-    <published>2023-08-13T03:54:03.686+00:00</published>
-    <updated>2023-08-13T03:54:03.686+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-llm-tools-for-the-distracted-developer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-llm-tools-for-the-distracted-developer/" type="text/html"/>
-      <source>
-        <id>https://the.scapegoat.dev/ai-tools-for-the-distracted-developer/</id>
-        <link href="https://the.scapegoat.dev/ai-tools-for-the-distracted-developer/"/>
-        <title>LLM Tools for the distracted developer</title>
-        <author>
-            <name>manuel</name>
-        </author>
-        <updated>2023-08-13T03:54:03.686+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-llm-tools-for-the-distracted-developer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Interpreting tarot cards with pinocchio and GPT</title>
-        <author>
-            <name>manuel</name>
-        </author>
-    <published>2023-08-10T14:13:27.400+00:00</published>
-    <updated>2023-08-10T14:13:27.400+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-interpreting-tarot-cards-with-pinocchio-and-gpt/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-interpreting-tarot-cards-with-pinocchio-and-gpt/" type="text/html"/>
-      <source>
-        <id>https://the.scapegoat.dev/interpreting-tarot-cards-with-pinocchio-and-gpt/</id>
-        <link href="https://the.scapegoat.dev/interpreting-tarot-cards-with-pinocchio-and-gpt/"/>
-        <title>Interpreting tarot cards with pinocchio and GPT</title>
-        <author>
-            <name>manuel</name>
-        </author>
-        <updated>2023-08-10T14:13:27.400+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-interpreting-tarot-cards-with-pinocchio-and-gpt/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>There is no hard takeoff</title>
         <author>
             <name>geohot</name>
@@ -12442,30 +11890,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-there-is-no-hard-takeoff/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>My creative software design process</title>
-        <author>
-            <name>manuel</name>
-        </author>
-    <published>2023-08-08T16:49:14.339+00:00</published>
-    <updated>2023-08-08T16:49:14.339+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-my-creative-software-design-process/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-my-creative-software-design-process/" type="text/html"/>
-      <source>
-        <id>https://the.scapegoat.dev/my-creative-software-design-process/</id>
-        <link href="https://the.scapegoat.dev/my-creative-software-design-process/"/>
-        <title>My creative software design process</title>
-        <author>
-            <name>manuel</name>
-        </author>
-        <updated>2023-08-08T16:49:14.339+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-my-creative-software-design-process/</id>
     <content type="html">
         
     </content>
@@ -12711,30 +12135,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Go time&#x27;s &quot;Neurodiverse Gophers&quot; episode - a critique</title>
-        <author>
-            <name>manuel</name>
-        </author>
-    <published>2023-07-16T17:53:26.281+00:00</published>
-    <updated>2023-07-16T17:53:26.281+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-go-times-neurodiverse-gophers-episode-a-critique/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-go-times-neurodiverse-gophers-episode-a-critique/" type="text/html"/>
-      <source>
-        <id>https://the.scapegoat.dev/go-times-neurodiverse-gophers-episode-a-critique/</id>
-        <link href="https://the.scapegoat.dev/go-times-neurodiverse-gophers-episode-a-critique/"/>
-        <title>Go time&#x27;s &quot;Neurodiverse Gophers&quot; episode - a critique</title>
-        <author>
-            <name>manuel</name>
-        </author>
-        <updated>2023-07-16T17:53:26.281+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-go-times-neurodiverse-gophers-episode-a-critique/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Catching mistakes earlier</title>
         <author>
             <name>Charlie Andrews</name>
@@ -12778,30 +12178,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-ellis-bruteforcing-the-nyt-digits-game/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>My life with IBS</title>
-        <author>
-            <name>manuel</name>
-        </author>
-    <published>2023-07-11T13:15:07.895+00:00</published>
-    <updated>2023-07-11T13:15:07.895+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-my-life-with-ibs/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-my-life-with-ibs/" type="text/html"/>
-      <source>
-        <id>https://the.scapegoat.dev/my-life-with-ibs/</id>
-        <link href="https://the.scapegoat.dev/my-life-with-ibs/"/>
-        <title>My life with IBS</title>
-        <author>
-            <name>manuel</name>
-        </author>
-        <updated>2023-07-11T13:15:07.895+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-my-life-with-ibs/</id>
     <content type="html">
         
     </content>
@@ -12983,30 +12359,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Summer Playlist</title>
-        <author>
-            <name>manuel</name>
-        </author>
-    <published>2023-07-05T13:40:51.326+00:00</published>
-    <updated>2023-07-05T13:40:51.326+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-summer-playlist/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-summer-playlist/" type="text/html"/>
-      <source>
-        <id>https://the.scapegoat.dev/summer-playlist/</id>
-        <link href="https://the.scapegoat.dev/summer-playlist/"/>
-        <title>Summer Playlist</title>
-        <author>
-            <name>manuel</name>
-        </author>
-        <updated>2023-07-05T13:40:51.326+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-summer-playlist/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Ethics, morality and good or: the story of my life</title>
         <author>
             <name>TheFrenchGhosty</name>
@@ -13103,54 +12455,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>YAGNI philosophy is reactionary</title>
-        <author>
-            <name>manuel</name>
-        </author>
-    <published>2023-06-26T14:29:50.835+00:00</published>
-    <updated>2023-06-26T14:29:50.835+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-yagni-philosophy-is-reactionary/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-yagni-philosophy-is-reactionary/" type="text/html"/>
-      <source>
-        <id>https://the.scapegoat.dev/yagni-philosophy-is-reactionary/</id>
-        <link href="https://the.scapegoat.dev/yagni-philosophy-is-reactionary/"/>
-        <title>YAGNI philosophy is reactionary</title>
-        <author>
-            <name>manuel</name>
-        </author>
-        <updated>2023-06-26T14:29:50.835+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-yagni-philosophy-is-reactionary/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Critiques of technology&#x27;s impact on culture didn&#x27;t age well</title>
-        <author>
-            <name>manuel</name>
-        </author>
-    <published>2023-06-24T13:55:10.446+00:00</published>
-    <updated>2023-06-24T13:55:10.446+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-critiques-of-technologys-impact-on-culture-didnt-age-well/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-critiques-of-technologys-impact-on-culture-didnt-age-well/" type="text/html"/>
-      <source>
-        <id>https://the.scapegoat.dev/critiques-of-technologys-impact-on-culture-didnt-age-well/</id>
-        <link href="https://the.scapegoat.dev/critiques-of-technologys-impact-on-culture-didnt-age-well/"/>
-        <title>Critiques of technology&#x27;s impact on culture didn&#x27;t age well</title>
-        <author>
-            <name>manuel</name>
-        </author>
-        <updated>2023-06-24T13:55:10.446+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-critiques-of-technologys-impact-on-culture-didnt-age-well/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Making C++ Memory-Safe Without Borrow Checking, Reference Counting, or Tracing Garbage Collection</title>
         <author>
             <name>Evan Ovadia</name>
@@ -13170,30 +12474,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-making-c-memorysafe-without-borrow-checking-reference-counting-or-tracing-garbage-collection/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Learn software the weird way</title>
-        <author>
-            <name>manuel</name>
-        </author>
-    <published>2023-06-19T14:04:45.330+00:00</published>
-    <updated>2023-06-19T14:04:45.330+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-learn-software-the-weird-way/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-learn-software-the-weird-way/" type="text/html"/>
-      <source>
-        <id>https://the.scapegoat.dev/learn-software-the-weird-way/</id>
-        <link href="https://the.scapegoat.dev/learn-software-the-weird-way/"/>
-        <title>Learn software the weird way</title>
-        <author>
-            <name>manuel</name>
-        </author>
-        <updated>2023-06-19T14:04:45.330+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-learn-software-the-weird-way/</id>
     <content type="html">
         
     </content>
