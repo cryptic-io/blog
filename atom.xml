@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-06-28T11:00:00+00:00</updated>
+  <updated>2024-06-28T21:04:30+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Testing new Raspberry Pi 5 Cases - $7 to $79</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-06-28T21:04:30+00:00</published>
+    <updated>2024-06-28T21:04:30+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-testing-new-raspberry-pi-5-cases-7-to-79/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-testing-new-raspberry-pi-5-cases-7-to-79/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/testing-new-raspberry-pi-5-cases-7-79</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/testing-new-raspberry-pi-5-cases-7-79"/>
+        <title>Testing new Raspberry Pi 5 Cases - $7 to $79</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-06-28T21:04:30+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-testing-new-raspberry-pi-5-cases-7-to-79/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A high-level view of all of this feed reader stuff</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-28T20:58:58+00:00</published>
+    <updated>2024-06-28T20:58:58+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-a-highlevel-view-of-all-of-this-feed-reader-stuff/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-highlevel-view-of-all-of-this-feed-reader-stuff/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/28/fsr/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/28/fsr/"/>
+        <title>A high-level view of all of this feed reader stuff</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-28T20:58:58+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-a-highlevel-view-of-all-of-this-feed-reader-stuff/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>P&amp;B: Alison Wilder</title>
         <author>
@@ -26,6 +74,30 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-alison-wilder/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Steam Deck ships with WireGuard</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2024-06-28T00:00:00+00:00</published>
+    <updated>2024-06-28T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-the-steam-deck-ships-with-wireguard/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-the-steam-deck-ships-with-wireguard/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/notes/2024/steam-deck-wireguard/</id>
+        <link href="https://xeiaso.net/notes/2024/steam-deck-wireguard/"/>
+        <title>The Steam Deck ships with WireGuard</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2024-06-28T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-the-steam-deck-ships-with-wireguard/</id>
     <content type="html">
         
     </content>
@@ -343,6 +415,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Feed reader score project participants: I made a mistake</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-25T05:04:36+00:00</published>
+    <updated>2024-06-25T05:04:36+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-feed-reader-score-project-participants-i-made-a-mistake/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feed-reader-score-project-participants-i-made-a-mistake/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/24/fs/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/24/fs/"/>
+        <title>Feed reader score project participants: I made a mistake</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-25T05:04:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-feed-reader-score-project-participants-i-made-a-mistake/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The key bit of the code that was biting me in net&#x2F;http</title>
         <author>
             <name>Xe Iaso</name>
@@ -410,6 +506,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-a-localfirst-codebase-opens-the-door-to-more-collaborators/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Leaking URLs to the clown</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-24T18:18:01+00:00</published>
+    <updated>2024-06-24T18:18:01+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-leaking-urls-to-the-clown/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-leaking-urls-to-the-clown/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/24/feed/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/24/feed/"/>
+        <title>Leaking URLs to the clown</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-24T18:18:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-leaking-urls-to-the-clown/</id>
     <content type="html">
         
     </content>
@@ -1663,6 +1783,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Can you run in a tight loop and still be well-behaved?</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-13T14:21:34+00:00</published>
+    <updated>2024-06-13T14:21:34+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-can-you-run-in-a-tight-loop-and-still-be-wellbehaved/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-can-you-run-in-a-tight-loop-and-still-be-wellbehaved/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/12/timing/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/12/timing/"/>
+        <title>Can you run in a tight loop and still be well-behaved?</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-13T14:21:34+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-can-you-run-in-a-tight-loop-and-still-be-wellbehaved/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Various Artists: Ten Plants (1998)</title>
         <author>
             <name>Diego Olivas</name>
@@ -1778,6 +1922,30 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-my-interview-with-uncle-bob-martin/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Some early results for feed reader behavior monitoring</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-11T23:19:26+00:00</published>
+    <updated>2024-06-11T23:19:26+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-some-early-results-for-feed-reader-behavior-monitoring/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-some-early-results-for-feed-reader-behavior-monitoring/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/11/fsr/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/11/fsr/"/>
+        <title>Some early results for feed reader behavior monitoring</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-11T23:19:26+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-some-early-results-for-feed-reader-behavior-monitoring/</id>
     <content type="html">
         
     </content>
@@ -2018,30 +2186,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-compare-nlohmannjson-to-glaze/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Overengineering this blog&#x27;s preview site with Kubernetes</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-06-09T00:00:00+00:00</published>
-    <updated>2024-06-09T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-overengineering-this-blogs-preview-site-with-kubernetes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-overengineering-this-blogs-preview-site-with-kubernetes/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/2024/overengineering-preview-site/</id>
-        <link href="https://xeiaso.net/blog/2024/overengineering-preview-site/"/>
-        <title>Overengineering this blog&#x27;s preview site with Kubernetes</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-06-09T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-overengineering-this-blogs-preview-site-with-kubernetes/</id>
     <content type="html">
         
     </content>
@@ -2551,6 +2695,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Reader feedback: feed reader scores and &quot;like&quot; buttons</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-03T09:13:25+00:00</published>
+    <updated>2024-06-03T09:13:25+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-reader-feedback-feed-reader-scores-and-like-buttons/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-reader-feedback-feed-reader-scores-and-like-buttons/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/03/feedback/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/03/feedback/"/>
+        <title>Reader feedback: feed reader scores and &quot;like&quot; buttons</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-03T09:13:25+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-reader-feedback-feed-reader-scores-and-like-buttons/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Updating Core Data object ID URIs on store migrations</title>
         <author>
             <name>Various</name>
@@ -2839,6 +3007,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The feed reader score service is now online</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-05-31T02:24:19+00:00</published>
+    <updated>2024-05-31T02:24:19+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-the-feed-reader-score-service-is-now-online/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-feed-reader-score-service-is-now-online/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/05/30/fs/</id>
+        <link href="https://rachelbythebay.com/w/2024/05/30/fs/"/>
+        <title>The feed reader score service is now online</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-05-31T02:24:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-the-feed-reader-score-service-is-now-online/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Testing object detection (yolo, mobilenet, etc.) with picamera2 on Pi 5</title>
         <author>
             <name>Jeff Geerling</name>
@@ -2983,6 +3175,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>I&#x27;m going to give this &quot;reader score&quot; thing a spin</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-05-29T07:16:32+00:00</published>
+    <updated>2024-05-29T07:16:32+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-im-going-to-give-this-reader-score-thing-a-spin/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-im-going-to-give-this-reader-score-thing-a-spin/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/05/29/score/</id>
+        <link href="https://rachelbythebay.com/w/2024/05/29/score/"/>
+        <title>I&#x27;m going to give this &quot;reader score&quot; thing a spin</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-05-29T07:16:32+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-im-going-to-give-this-reader-score-thing-a-spin/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The Complex Problem Of Lying For Jobs</title>
         <author>
             <name>Lucic</name>
@@ -3050,6 +3266,30 @@
       </source>
 
     <id>https://news.cryptic.io/stereogum-album-of-the-week-the-maras-submarine/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>So many feed readers, so many bizarre behaviors</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-05-28T05:16:12+00:00</published>
+    <updated>2024-05-28T05:16:12+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-so-many-feed-readers-so-many-bizarre-behaviors/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-so-many-feed-readers-so-many-bizarre-behaviors/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/05/27/feed/</id>
+        <link href="https://rachelbythebay.com/w/2024/05/27/feed/"/>
+        <title>So many feed readers, so many bizarre behaviors</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-05-28T05:16:12+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-so-many-feed-readers-so-many-bizarre-behaviors/</id>
     <content type="html">
         
     </content>
@@ -3847,30 +4087,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Cicadas are Here</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-05-17T19:03:35+00:00</published>
-    <updated>2024-05-17T19:03:35+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-the-cicadas-are-here/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-the-cicadas-are-here/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/cicadas-are-here</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/cicadas-are-here"/>
-        <title>The Cicadas are Here</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-05-17T19:03:35+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-the-cicadas-are-here/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The Colors of Racism</title>
         <author>
             <name>Tim Bray</name>
@@ -3962,6 +4178,30 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-what-i-look-for-in-empirical-software-papers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>SSD death, tricky read-only filesystems, and systemd magic?</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-05-16T06:59:33+00:00</published>
+    <updated>2024-05-16T06:59:33+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-ssd-death-tricky-readonly-filesystems-and-systemd-magic/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-ssd-death-tricky-readonly-filesystems-and-systemd-magic/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/05/15/ro/</id>
+        <link href="https://rachelbythebay.com/w/2024/05/15/ro/"/>
+        <title>SSD death, tricky read-only filesystems, and systemd magic?</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-05-16T06:59:33+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-ssd-death-tricky-readonly-filesystems-and-systemd-magic/</id>
     <content type="html">
         
     </content>
