@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-06-28T21:04:30+00:00</updated>
+  <updated>2024-06-28T21:55:55+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>How to waste bandwidth, battery power, and annoy sysadmins</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-28T21:55:55+00:00</published>
+    <updated>2024-06-28T21:55:55+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-how-to-waste-bandwidth-battery-power-and-annoy-sysadmins/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-how-to-waste-bandwidth-battery-power-and-annoy-sysadmins/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/28/fxios/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/28/fxios/"/>
+        <title>How to waste bandwidth, battery power, and annoy sysadmins</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-28T21:55:55+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-how-to-waste-bandwidth-battery-power-and-annoy-sysadmins/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Testing new Raspberry Pi 5 Cases - $7 to $79</title>
         <author>
@@ -74,6 +98,30 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-alison-wilder/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Routine Maintenance</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-06-28T00:00:00+00:00</published>
+    <updated>2024-06-28T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-routine-maintenance/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-routine-maintenance/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2952/</id>
+        <link href="https://xkcd.com/2952/"/>
+        <title>Routine Maintenance</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-06-28T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-routine-maintenance/</id>
     <content type="html">
         
     </content>
@@ -1202,30 +1250,6 @@
       </source>
 
     <id>https://news.cryptic.io/lucic-i-will-fucking-piledrive-you-if-you-mention-ai-again/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Electric vs Gas</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-06-19T00:00:00+00:00</published>
-    <updated>2024-06-19T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-electric-vs-gas/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-electric-vs-gas/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2948/</id>
-        <link href="https://xkcd.com/2948/"/>
-        <title>Electric vs Gas</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-06-19T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-electric-vs-gas/</id>
     <content type="html">
         
     </content>
@@ -4178,30 +4202,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-what-i-look-for-in-empirical-software-papers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>SSD death, tricky read-only filesystems, and systemd magic?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-05-16T06:59:33+00:00</published>
-    <updated>2024-05-16T06:59:33+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-ssd-death-tricky-readonly-filesystems-and-systemd-magic/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-ssd-death-tricky-readonly-filesystems-and-systemd-magic/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/05/15/ro/</id>
-        <link href="https://rachelbythebay.com/w/2024/05/15/ro/"/>
-        <title>SSD death, tricky read-only filesystems, and systemd magic?</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-05-16T06:59:33+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-ssd-death-tricky-readonly-filesystems-and-systemd-magic/</id>
     <content type="html">
         
     </content>
