@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-06-27T19:00:00+00:00</updated>
+  <updated>2024-06-28T11:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>P&amp;B: Alison Wilder</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-06-28T11:00:00+00:00</published>
+    <updated>2024-06-28T11:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-alison-wilder/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-alison-wilder/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/6gM21s63wmAbvbPb</id>
+        <link href="https://manuelmoreale.com/@/page/6gM21s63wmAbvbPb"/>
+        <title>P&amp;B: Alison Wilder</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-06-28T11:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-alison-wilder/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Cool URIs Don’t Change — But Humans Do</title>
         <author>
@@ -2114,30 +2138,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-newer-versions-of-ansible-dont-work-with-rhel-8/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>P&amp;B: JF Martin</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-06-07T11:00:00+00:00</published>
-    <updated>2024-06-07T11:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-jf-martin/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-jf-martin/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/I0hDG48jZInrUlAw</id>
-        <link href="https://manuelmoreale.com/@/page/I0hDG48jZInrUlAw"/>
-        <title>P&amp;B: JF Martin</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-06-07T11:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-jf-martin/</id>
     <content type="html">
         
     </content>
