@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-06-29T05:55:00+00:00</updated>
+  <updated>2024-06-29T11:52:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Bear</title>
+        <author>
+            <name>Rodrigo Ghedin</name>
+        </author>
+    <published>2024-06-29T11:52:00+00:00</published>
+    <updated>2024-06-29T11:52:00+00:00</updated>
+    <link href="https://news.cryptic.io/rodrigo-ghedin-the-bear/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rodrigo-ghedin-the-bear/" type="text/html"/>
+      <source>
+        <id>https://notes.ghed.in/posts/2024/the-bear/</id>
+        <link href="https://notes.ghed.in/posts/2024/the-bear/"/>
+        <title>The Bear</title>
+        <author>
+            <name>Rodrigo Ghedin</name>
+        </author>
+        <updated>2024-06-29T11:52:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rodrigo-ghedin-the-bear/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Everything is freeware</title>
         <author>
@@ -5018,30 +5042,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-hawat-hawat-hawat-a-million-deaths-are-not-enough-for-hawat/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to be less pessimistic?</title>
-        <author>
-            <name>Rodrigo Ghedin</name>
-        </author>
-    <published>2024-04-29T22:06:00+00:00</published>
-    <updated>2024-04-29T22:06:00+00:00</updated>
-    <link href="https://news.cryptic.io/rodrigo-ghedin-how-to-be-less-pessimistic/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rodrigo-ghedin-how-to-be-less-pessimistic/" type="text/html"/>
-      <source>
-        <id>https://notes.ghed.in/posts/2024/how-to-be-less-pessimistic/</id>
-        <link href="https://notes.ghed.in/posts/2024/how-to-be-less-pessimistic/"/>
-        <title>How to be less pessimistic?</title>
-        <author>
-            <name>Rodrigo Ghedin</name>
-        </author>
-        <updated>2024-04-29T22:06:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rodrigo-ghedin-how-to-be-less-pessimistic/</id>
     <content type="html">
         
     </content>
