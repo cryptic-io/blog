@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-06-29T11:52:00+00:00</updated>
+  <updated>2024-06-29T15:34:43+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Instability</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-06-29T15:34:43+00:00</published>
+    <updated>2024-06-29T15:34:43+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-instability/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-instability/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/instability/</id>
+        <link href="https://robinrendle.com/notes/instability/"/>
+        <title>Instability</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-06-29T15:34:43+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-instability/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Bear</title>
         <author>
@@ -6266,30 +6290,6 @@
       </source>
 
     <id>https://news.cryptic.io/kate-wagner-ode-to-a-faux-grecian-urn/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>E-essays</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-04-02T03:38:45+00:00</published>
-    <updated>2024-04-02T03:38:45+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-eessays/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-eessays/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/e-essays/</id>
-        <link href="https://robinrendle.com/notes/e-essays/"/>
-        <title>E-essays</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-04-02T03:38:45+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-eessays/</id>
     <content type="html">
         
     </content>
