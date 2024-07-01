@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-01T05:45:00+00:00</updated>
+  <updated>2024-07-01T07:53:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Cities need more trees</title>
+        <author>
+            <name>herman</name>
+        </author>
+    <published>2024-07-01T07:53:00+00:00</published>
+    <updated>2024-07-01T07:53:00+00:00</updated>
+    <link href="https://news.cryptic.io/herman-cities-need-more-trees/"/>
+    <link rel="alternate" href="https://news.cryptic.io/herman-cities-need-more-trees/" type="text/html"/>
+      <source>
+        <id>https://herman.bearblog.dev/cities-need-more-trees/</id>
+        <link href="https://herman.bearblog.dev/cities-need-more-trees/"/>
+        <title>Cities need more trees</title>
+        <author>
+            <name>herman</name>
+        </author>
+        <updated>2024-07-01T07:53:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/herman-cities-need-more-trees/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>On being humble and accepting success</title>
         <author>
@@ -11022,30 +11046,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-ginger-2023-update/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How Bear does analytics with CSS</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2023-11-01T07:36:52.167+00:00</published>
-    <updated>2023-11-01T07:36:52.167+00:00</updated>
-    <link href="https://news.cryptic.io/herman-how-bear-does-analytics-with-css/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-how-bear-does-analytics-with-css/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/how-bear-does-analytics-with-css/</id>
-        <link href="https://herman.bearblog.dev/how-bear-does-analytics-with-css/"/>
-        <title>How Bear does analytics with CSS</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2023-11-01T07:36:52.167+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-how-bear-does-analytics-with-css/</id>
     <content type="html">
         
     </content>
