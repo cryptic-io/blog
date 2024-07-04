@@ -487,6 +487,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Setting up Gitea on Kubernetes from scratch</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2024-06-30T00:00:00+00:00</published>
+    <updated>2024-06-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-setting-up-gitea-on-kubernetes-from-scratch/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-setting-up-gitea-on-kubernetes-from-scratch/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/vods/2024/gitea-k8s/</id>
+        <link href="https://xeiaso.net/vods/2024/gitea-k8s/"/>
+        <title>Setting up Gitea on Kubernetes from scratch</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2024-06-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-setting-up-gitea-on-kubernetes-from-scratch/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Instability</title>
         <author>
             <name>Robin Rendle</name>
@@ -1970,30 +1994,6 @@
       </source>
 
     <id>https://news.cryptic.io/jes-olson-stop-using-fandom/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Function calling in large language models</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-06-16T00:00:00+00:00</published>
-    <updated>2024-06-16T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-function-calling-in-large-language-models/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-function-calling-in-large-language-models/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/talks/2024/llm-function-calling/</id>
-        <link href="https://xeiaso.net/talks/2024/llm-function-calling/"/>
-        <title>Function calling in large language models</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-06-16T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-function-calling-in-large-language-models/</id>
     <content type="html">
         
     </content>
