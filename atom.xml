@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-05T04:50:00+00:00</updated>
+  <updated>2024-07-05T11:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>P&amp;B: Anton Podviaznikov</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-07-05T11:00:00+00:00</published>
+    <updated>2024-07-05T11:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-anton-podviaznikov/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-anton-podviaznikov/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/81wcn2v2huSA8pkD</id>
+        <link href="https://manuelmoreale.com/@/page/81wcn2v2huSA8pkD"/>
+        <title>P&amp;B: Anton Podviaznikov</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-07-05T11:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-anton-podviaznikov/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A moment of morning light</title>
         <author>
@@ -26,30 +50,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-of-morning-light/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Predicted Performance of a Raspberry Pi 3 Web Server Running a Text-Only Social Media Network</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2024-07-05T04:15:00+00:00</published>
-    <updated>2024-07-05T04:15:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-predicted-performance-of-a-raspberry-pi-3-web-server-running-a-textonly-social-media-network/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-predicted-performance-of-a-raspberry-pi-3-web-server-running-a-textonly-social-media-network/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/raspberry-pi-social.html</id>
-        <link href="https://cheapskatesguide.org/articles/raspberry-pi-social.html"/>
-        <title>Predicted Performance of a Raspberry Pi 3 Web Server Running a Text-Only Social Media Network</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2024-07-05T04:15:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-predicted-performance-of-a-raspberry-pi-3-web-server-running-a-textonly-social-media-network/</id>
     <content type="html">
         
     </content>
@@ -1567,54 +1567,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>P&amp;B: Jennifer Devastatia del Gato</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-06-21T11:00:00+00:00</published>
-    <updated>2024-06-21T11:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-jennifer-devastatia-del-gato/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-jennifer-devastatia-del-gato/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/qxZ43WH6hGmgEYCD</id>
-        <link href="https://manuelmoreale.com/@/page/qxZ43WH6hGmgEYCD"/>
-        <title>P&amp;B: Jennifer Devastatia del Gato</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-06-21T11:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-jennifer-devastatia-del-gato/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A Brief Review of BunsenLabs Linux</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2024-06-21T05:06:00+00:00</published>
-    <updated>2024-06-21T05:06:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-a-brief-review-of-bunsenlabs-linux/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-a-brief-review-of-bunsenlabs-linux/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/bunsenlabs-linux.html</id>
-        <link href="https://cheapskatesguide.org/articles/bunsenlabs-linux.html"/>
-        <title>A Brief Review of BunsenLabs Linux</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2024-06-21T05:06:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-a-brief-review-of-bunsenlabs-linux/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Custom Elements Don’t Require a Hyphen as a Separator</title>
         <author>
             <name>Jim Nielsen</name>
@@ -2527,6 +2479,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>A Simple Script to Initialize nix-Based Projects</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2024-06-08T19:08:23+00:00</published>
+    <updated>2024-06-08T19:08:23+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-a-simple-script-to-initialize-nixbased-projects/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-a-simple-script-to-initialize-nixbased-projects/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/init-project</id>
+        <link href="https://mediocregopher.com/posts/init-project"/>
+        <title>A Simple Script to Initialize nix-Based Projects</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2024-06-08T19:08:23+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-a-simple-script-to-initialize-nixbased-projects/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Thinking About The Berlin Computerspiele Museum (Computer Games Museum)</title>
         <author>
             <name>Nathalie Lawhead</name>
@@ -2594,30 +2570,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-newer-versions-of-ansible-dont-work-with-rhel-8/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>My Websites are now Effectively Closed to Facebook (Meta) Users.</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2024-06-07T03:06:00+00:00</published>
-    <updated>2024-06-07T03:06:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-my-websites-are-now-effectively-closed-to-facebook-meta-users/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-my-websites-are-now-effectively-closed-to-facebook-meta-users/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/facebook-scraping.html</id>
-        <link href="https://cheapskatesguide.org/articles/facebook-scraping.html"/>
-        <title>My Websites are now Effectively Closed to Facebook (Meta) Users.</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2024-06-07T03:06:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-my-websites-are-now-effectively-closed-to-facebook-meta-users/</id>
     <content type="html">
         
     </content>
@@ -2810,6 +2762,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-novels-as-prototypes-of-the-future/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Mediocre Feed: My New Feed Reader</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2024-06-04T18:31:41+00:00</published>
+    <updated>2024-06-04T18:31:41+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-mediocre-feed-my-new-feed-reader/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-mediocre-feed-my-new-feed-reader/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/mediocre-feed</id>
+        <link href="https://mediocregopher.com/posts/mediocre-feed"/>
+        <title>Mediocre Feed: My New Feed Reader</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2024-06-04T18:31:41+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-mediocre-feed-my-new-feed-reader/</id>
     <content type="html">
         
     </content>
@@ -3698,30 +3674,6 @@
       </source>
 
     <id>https://news.cryptic.io/rodrigo-ghedin-buttondown-newsletter-software-for-people-like-you-and-me/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to Play Music on a Raspberry Pi Computer</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2024-05-24T06:38:00+00:00</published>
-    <updated>2024-05-24T06:38:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-how-to-play-music-on-a-raspberry-pi-computer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-how-to-play-music-on-a-raspberry-pi-computer/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/sound-on-the-raspberry-pi.html</id>
-        <link href="https://cheapskatesguide.org/articles/sound-on-the-raspberry-pi.html"/>
-        <title>How to Play Music on a Raspberry Pi Computer</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2024-05-24T06:38:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-how-to-play-music-on-a-raspberry-pi-computer/</id>
     <content type="html">
         
     </content>
@@ -4663,25 +4615,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>What I have Learned from Two Years of Running a Small Social Media Website</title>
+    <title>Who Needs a Whole-Ass Git Forge, Anyway?</title>
         <author>
-            <name>Cheapskate</name>
+            <name>mediocregopher</name>
         </author>
-    <published>2024-05-10T06:38:00+00:00</published>
-    <updated>2024-05-10T06:38:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-what-i-have-learned-from-two-years-of-running-a-small-social-media-website/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-what-i-have-learned-from-two-years-of-running-a-small-social-media-website/" type="text/html"/>
+    <published>2024-05-11T17:15:09+00:00</published>
+    <updated>2024-05-11T17:15:09+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-who-needs-a-wholeass-git-forge-anyway/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-who-needs-a-wholeass-git-forge-anyway/" type="text/html"/>
       <source>
-        <id>https://cheapskatesguide.org/articles/running-a-small-social.html</id>
-        <link href="https://cheapskatesguide.org/articles/running-a-small-social.html"/>
-        <title>What I have Learned from Two Years of Running a Small Social Media Website</title>
+        <id>https://mediocregopher.com/posts/git-forgeless</id>
+        <link href="https://mediocregopher.com/posts/git-forgeless"/>
+        <title>Who Needs a Whole-Ass Git Forge, Anyway?</title>
         <author>
-            <name>Cheapskate</name>
+            <name>mediocregopher</name>
         </author>
-        <updated>2024-05-10T06:38:00+00:00</updated>
+        <updated>2024-05-11T17:15:09+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/cheapskate-what-i-have-learned-from-two-years-of-running-a-small-social-media-website/</id>
+    <id>https://news.cryptic.io/mediocregopher-who-needs-a-wholeass-git-forge-anyway/</id>
     <content type="html">
         
     </content>
@@ -5138,6 +5090,30 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-integration-tests-are-just-vibes/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Fumble Around! A New Gemspace Discovery Service</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2024-05-01T15:45:51+00:00</published>
+    <updated>2024-05-01T15:45:51+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-fumble-around-a-new-gemspace-discovery-service/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-fumble-around-a-new-gemspace-discovery-service/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/fumble-around</id>
+        <link href="https://mediocregopher.com/posts/fumble-around"/>
+        <title>Fumble Around! A New Gemspace Discovery Service</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2024-05-01T15:45:51+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-fumble-around-a-new-gemspace-discovery-service/</id>
     <content type="html">
         
     </content>
@@ -7135,30 +7111,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Blocking Advertisements on YouTube Feels so Good!</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2024-03-13T13:55:00+00:00</published>
-    <updated>2024-03-13T13:55:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-blocking-advertisements-on-youtube-feels-so-good/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-blocking-advertisements-on-youtube-feels-so-good/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/blocking-ads-on-youtube.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/blocking-ads-on-youtube.html"/>
-        <title>Blocking Advertisements on YouTube Feels so Good!</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2024-03-13T13:55:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-blocking-advertisements-on-youtube-feels-so-good/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Semantic AJAX-HTML</title>
         <author>
             <name>herman</name>
@@ -7783,6 +7735,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>In Defense of Boilerplate</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2024-02-23T14:20:16+00:00</published>
+    <updated>2024-02-23T14:20:16+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-in-defense-of-boilerplate/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-in-defense-of-boilerplate/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/boilerplate</id>
+        <link href="https://mediocregopher.com/posts/boilerplate"/>
+        <title>In Defense of Boilerplate</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2024-02-23T14:20:16+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-in-defense-of-boilerplate/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>There Are Probably No Silver Bullets</title>
         <author>
             <name>Bastian Rieck</name>
@@ -7946,6 +7922,30 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-diseconomies-of-scale-in-fraud-spam-support-and-moderation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Serving a Website From a Git Repo Without Cloning It</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2024-02-17T21:15:43+00:00</published>
+    <updated>2024-02-17T21:15:43+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-serving-a-website-from-a-git-repo-without-cloning-it/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-serving-a-website-from-a-git-repo-without-cloning-it/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/git-proxy</id>
+        <link href="https://mediocregopher.com/posts/git-proxy"/>
+        <title>Serving a Website From a Git Repo Without Cloning It</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2024-02-17T21:15:43+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-serving-a-website-from-a-git-repo-without-cloning-it/</id>
     <content type="html">
         
     </content>
@@ -9775,6 +9775,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Digital Tidying: Finding and Fixing Dead Links</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2023-12-30T15:24:05+00:00</published>
+    <updated>2023-12-30T15:24:05+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-digital-tidying-finding-and-fixing-dead-links/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-digital-tidying-finding-and-fixing-dead-links/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/deadlinks</id>
+        <link href="https://mediocregopher.com/posts/deadlinks"/>
+        <title>Digital Tidying: Finding and Fixing Dead Links</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2023-12-30T15:24:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-digital-tidying-finding-and-fixing-dead-links/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How bad are search results? Let&#x27;s compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT</title>
         <author>
             <name>Dan Luu</name>
@@ -9962,6 +9986,30 @@
       </source>
 
     <id>https://news.cryptic.io/adam-pritchard-bug-story-sorting-by-timestamp/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Micropelago in 2023</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2023-12-22T16:08:09+00:00</published>
+    <updated>2023-12-22T16:08:09+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-micropelago-in-2023/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-micropelago-in-2023/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/micropelago-2023</id>
+        <link href="https://mediocregopher.com/posts/micropelago-2023"/>
+        <title>Micropelago in 2023</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2023-12-22T16:08:09+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-micropelago-in-2023/</id>
     <content type="html">
         
     </content>
@@ -10302,6 +10350,30 @@
       </source>
 
     <id>https://news.cryptic.io/degrowther-i-am-a-person-in-my-neighborhood/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Statically Cross-Compiling Rust Projects Using Nix</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2023-11-27T15:51:08+00:00</published>
+    <updated>2023-11-27T15:51:08+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-statically-crosscompiling-rust-projects-using-nix/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-statically-crosscompiling-rust-projects-using-nix/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/x-compiling-rust-with-nix</id>
+        <link href="https://mediocregopher.com/posts/x-compiling-rust-with-nix"/>
+        <title>Statically Cross-Compiling Rust Projects Using Nix</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2023-11-27T15:51:08+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-statically-crosscompiling-rust-projects-using-nix/</id>
     <content type="html">
         
     </content>
@@ -10691,30 +10763,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The US Health-Insurance Industry is Now so Thoroughly Enshittified that the Time has Come to Flush It</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2023-11-08T10:36:00+00:00</published>
-    <updated>2023-11-08T10:36:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-the-us-healthinsurance-industry-is-now-so-thoroughly-enshittified-that-the-time-has-come-to-flush-it/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-the-us-healthinsurance-industry-is-now-so-thoroughly-enshittified-that-the-time-has-come-to-flush-it/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/beware-help.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/beware-help.html"/>
-        <title>The US Health-Insurance Industry is Now so Thoroughly Enshittified that the Time has Come to Flush It</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2023-11-08T10:36:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-the-us-healthinsurance-industry-is-now-so-thoroughly-enshittified-that-the-time-has-come-to-flush-it/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Enough Polynomials and Linear Algebra to Implement Kyber</title>
         <author>
             <name>Filippo Valsorda</name>
@@ -10830,6 +10878,30 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-llm-output-is-malicious-user-input/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Ginger 2023 Update</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2023-11-02T18:38:54+00:00</published>
+    <updated>2023-11-02T18:38:54+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-ginger-2023-update/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-ginger-2023-update/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/ginger-2023</id>
+        <link href="https://mediocregopher.com/posts/ginger-2023"/>
+        <title>Ginger 2023 Update</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2023-11-02T18:38:54+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-ginger-2023-update/</id>
     <content type="html">
         
     </content>
@@ -12839,30 +12911,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>On the Poor Writing Found on Most Personal Websites, and the Few Shining Exceptions</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2023-05-30T11:00:00+00:00</published>
-    <updated>2023-05-30T11:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/personal-websites-and-writing.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/personal-websites-and-writing.html"/>
-        <title>On the Poor Writing Found on Most Personal Websites, and the Few Shining Exceptions</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2023-05-30T11:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>One of the most basic requirements for success is also one of the most difficult to get right</title>
         <author>
             <name>unixsheikh</name>
@@ -14207,30 +14255,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2023-01-01T12:00:00+00:00</published>
-    <updated>2023-01-01T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/beware-help.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/beware-help.html"/>
-        <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2023-01-01T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Procedural boiderflies</title>
         <author>
             <name>andersource</name>
@@ -14610,30 +14634,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-when-you-use-open-source-software-you-are-not-entitled-to-anything/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Idyllic Life</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-11-05T12:04:00+00:00</published>
-    <updated>2022-11-05T12:04:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-idyllic-life/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-idyllic-life/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/idyllic-life.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/idyllic-life.html"/>
-        <title>Idyllic Life</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-11-05T12:04:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-idyllic-life/</id>
     <content type="html">
         
     </content>
