@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-05T17:20:38+00:00</updated>
+  <updated>2024-07-05T18:22:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A triviality about numbers that look like abbc</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2024-07-05T18:22:00+00:00</published>
+    <updated>2024-07-05T18:22:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-a-triviality-about-numbers-that-look-like-abbc/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-a-triviality-about-numbers-that-look-like-abbc/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/math/multiple-of-37.html</id>
+        <link href="https://blog.plover.com/math/multiple-of-37.html"/>
+        <title>A triviality about numbers that look like abbc</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2024-07-05T18:22:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-a-triviality-about-numbers-that-look-like-abbc/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Serving Gemtext Files From Caddy</title>
         <author>
@@ -6002,30 +6026,6 @@
       </source>
 
     <id>https://news.cryptic.io/douglas-vaghetti-is-it-ethical-to-have-children-if-you-believe-their-lives-will-suck/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Talking Dog &gt; Stochastic Parrot</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2024-04-22T17:00:00+00:00</published>
-    <updated>2024-04-22T17:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-talking-dog-stochastic-parrot/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-talking-dog-stochastic-parrot/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/tech/gpt/chat-gpt-is-a-talking-dog.html</id>
-        <link href="https://blog.plover.com/tech/gpt/chat-gpt-is-a-talking-dog.html"/>
-        <title>Talking Dog &gt; Stochastic Parrot</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2024-04-22T17:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-talking-dog-stochastic-parrot/</id>
     <content type="html">
         
     </content>
