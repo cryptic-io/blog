@@ -127,6 +127,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Properly Testing Concurrent Data Structures</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2024-07-05T00:00:00+00:00</published>
+    <updated>2024-07-05T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-properly-testing-concurrent-data-structures/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-properly-testing-concurrent-data-structures/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html</id>
+        <link href="https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html"/>
+        <title>Properly Testing Concurrent Data Structures</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2024-07-05T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-properly-testing-concurrent-data-structures/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Pole Vault</title>
         <author>
             <name>Randall Munroe</name>
@@ -10346,30 +10370,6 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-quality-first-and-other-advice/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>CI Dream</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2023-12-24T00:00:00+00:00</published>
-    <updated>2023-12-24T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-ci-dream/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-ci-dream/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2023/12/24/ci-dream.html</id>
-        <link href="https://matklad.github.io/2023/12/24/ci-dream.html"/>
-        <title>CI Dream</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2023-12-24T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-ci-dream/</id>
     <content type="html">
         
     </content>
