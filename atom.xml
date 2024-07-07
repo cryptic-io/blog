@@ -4,32 +4,8 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-07T04:00:00+00:00</updated>
+  <updated>2024-07-07T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
-  <entry xml:lang="en">
-    <title>A gentle guide on getting your Tenstorrent card running on Arch Linux (with the Metalium stack)</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-07-07T04:00:00+00:00</published>
-    <updated>2024-07-07T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/07-07-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/07-07-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack.gmi"/>
-        <title>A gentle guide on getting your Tenstorrent card running on Arch Linux (with the Metalium stack)</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-07-07T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
   <entry xml:lang="en">
     <title>Life without the front page</title>
         <author>
@@ -775,6 +751,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>What happened to my &#x2F;edu page, and why it came back</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-30T00:31:17+00:00</published>
+    <updated>2024-06-30T00:31:17+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-what-happened-to-my-edu-page-and-why-it-came-back/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-what-happened-to-my-edu-page-and-why-it-came-back/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/29/edu/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/29/edu/"/>
+        <title>What happened to my &#x2F;edu page, and why it came back</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-30T00:31:17+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-what-happened-to-my-edu-page-and-why-it-came-back/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Setting up Gitea on Kubernetes from scratch</title>
         <author>
             <name>Xe Iaso</name>
@@ -871,25 +871,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Feeding the Baby</title>
+    <title>How to waste bandwidth, battery power, and annoy sysadmins</title>
         <author>
-            <name>Allen Pike</name>
+            <name>rachelbythebay</name>
         </author>
-    <published>2024-06-29T05:45:30+00:00</published>
-    <updated>2024-06-29T05:45:30+00:00</updated>
-    <link href="https://news.cryptic.io/allen-pike-feeding-the-baby/"/>
-    <link rel="alternate" href="https://news.cryptic.io/allen-pike-feeding-the-baby/" type="text/html"/>
+    <published>2024-06-28T21:55:55+00:00</published>
+    <updated>2024-06-28T21:55:55+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-how-to-waste-bandwidth-battery-power-and-annoy-sysadmins/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-how-to-waste-bandwidth-battery-power-and-annoy-sysadmins/" type="text/html"/>
       <source>
-        <id>https://www.allenpike.com/2024/feeding-the-baby-2</id>
-        <link href="https://www.allenpike.com/2024/feeding-the-baby-2"/>
-        <title>Feeding the Baby</title>
+        <id>https://rachelbythebay.com/w/2024/06/28/fxios/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/28/fxios/"/>
+        <title>How to waste bandwidth, battery power, and annoy sysadmins</title>
         <author>
-            <name>Allen Pike</name>
+            <name>rachelbythebay</name>
         </author>
-        <updated>2024-06-29T05:45:30+00:00</updated>
+        <updated>2024-06-28T21:55:55+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/allen-pike-feeding-the-baby/</id>
+    <id>https://news.cryptic.io/rachelbythebay-how-to-waste-bandwidth-battery-power-and-annoy-sysadmins/</id>
     <content type="html">
         
     </content>
@@ -914,6 +914,30 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-testing-new-raspberry-pi-5-cases-7-to-79/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A high-level view of all of this feed reader stuff</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-28T20:58:58+00:00</published>
+    <updated>2024-06-28T20:58:58+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-a-highlevel-view-of-all-of-this-feed-reader-stuff/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-highlevel-view-of-all-of-this-feed-reader-stuff/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/28/fsr/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/28/fsr/"/>
+        <title>A high-level view of all of this feed reader stuff</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-28T20:58:58+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-a-highlevel-view-of-all-of-this-feed-reader-stuff/</id>
     <content type="html">
         
     </content>
@@ -1303,6 +1327,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Feed reader score project participants: I made a mistake</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-25T05:04:36+00:00</published>
+    <updated>2024-06-25T05:04:36+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-feed-reader-score-project-participants-i-made-a-mistake/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feed-reader-score-project-participants-i-made-a-mistake/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/24/fs/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/24/fs/"/>
+        <title>Feed reader score project participants: I made a mistake</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-25T05:04:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-feed-reader-score-project-participants-i-made-a-mistake/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The key bit of the code that was biting me in net&#x2F;http</title>
         <author>
             <name>Xe Iaso</name>
@@ -1370,6 +1418,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-a-localfirst-codebase-opens-the-door-to-more-collaborators/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Leaking URLs to the clown</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-24T18:18:01+00:00</published>
+    <updated>2024-06-24T18:18:01+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-leaking-urls-to-the-clown/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-leaking-urls-to-the-clown/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/24/feed/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/24/feed/"/>
+        <title>Leaking URLs to the clown</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-24T18:18:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-leaking-urls-to-the-clown/</id>
     <content type="html">
         
     </content>
@@ -1975,30 +2047,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Slides for April talk at NSYSU for AI inference</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-06-18T04:00:00+00:00</published>
-    <updated>2024-06-18T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-slides-for-april-talk-at-nsysu-for-ai-inference/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-slides-for-april-talk-at-nsysu-for-ai-inference/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/06-18-slides-for-april-talk-at-nsysu-for-ai-inference.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/06-18-slides-for-april-talk-at-nsysu-for-ai-inference.gmi"/>
-        <title>Slides for April talk at NSYSU for AI inference</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-06-18T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-slides-for-april-talk-at-nsysu-for-ai-inference/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Notes From “You Are Not A Gadget”</title>
         <author>
             <name>Jim Nielsen</name>
@@ -2383,6 +2431,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Can you run in a tight loop and still be well-behaved?</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-13T14:21:34+00:00</published>
+    <updated>2024-06-13T14:21:34+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-can-you-run-in-a-tight-loop-and-still-be-wellbehaved/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-can-you-run-in-a-tight-loop-and-still-be-wellbehaved/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/12/timing/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/12/timing/"/>
+        <title>Can you run in a tight loop and still be well-behaved?</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-13T14:21:34+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-can-you-run-in-a-tight-loop-and-still-be-wellbehaved/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Various Artists: Ten Plants (1998)</title>
         <author>
             <name>Diego Olivas</name>
@@ -2474,6 +2546,30 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-my-interview-with-uncle-bob-martin/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Some early results for feed reader behavior monitoring</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-11T23:19:26+00:00</published>
+    <updated>2024-06-11T23:19:26+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-some-early-results-for-feed-reader-behavior-monitoring/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-some-early-results-for-feed-reader-behavior-monitoring/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/11/fsr/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/11/fsr/"/>
+        <title>Some early results for feed reader behavior monitoring</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-11T23:19:26+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-some-early-results-for-feed-reader-behavior-monitoring/</id>
     <content type="html">
         
     </content>
@@ -2666,30 +2762,6 @@
       </source>
 
     <id>https://news.cryptic.io/linus-lee-some-applied-research-problems-in-machine-learning/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Compare nlohmann&#x2F;json to Glaze</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-06-09T04:00:00+00:00</published>
-    <updated>2024-06-09T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-compare-nlohmannjson-to-glaze/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-compare-nlohmannjson-to-glaze/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/06-09-compare-nlohmann-json-to-glaze.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/06-09-compare-nlohmann-json-to-glaze.gmi"/>
-        <title>Compare nlohmann&#x2F;json to Glaze</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-06-09T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-compare-nlohmannjson-to-glaze/</id>
     <content type="html">
         
     </content>
@@ -3103,30 +3175,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>My stance on (GitHub) Copilot</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-06-04T04:00:00+00:00</published>
-    <updated>2024-06-04T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-my-stance-on-github-copilot/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-my-stance-on-github-copilot/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/06-04-my-stance-on-github-copilot.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/06-04-my-stance-on-github-copilot.gmi"/>
-        <title>My stance on (GitHub) Copilot</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-06-04T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-my-stance-on-github-copilot/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Regular, Recursive, Restricted</title>
         <author>
             <name>Alex Kladov</name>
@@ -3199,6 +3247,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Reader feedback: feed reader scores and &quot;like&quot; buttons</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-03T09:13:25+00:00</published>
+    <updated>2024-06-03T09:13:25+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-reader-feedback-feed-reader-scores-and-like-buttons/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-reader-feedback-feed-reader-scores-and-like-buttons/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/03/feedback/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/03/feedback/"/>
+        <title>Reader feedback: feed reader scores and &quot;like&quot; buttons</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-03T09:13:25+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-reader-feedback-feed-reader-scores-and-like-buttons/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Updating Core Data object ID URIs on store migrations</title>
         <author>
             <name>Various</name>
@@ -3218,30 +3290,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-updating-core-data-object-id-uris-on-store-migrations/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Pledging OpenGL applications on OpenBSD</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-06-03T04:00:00+00:00</published>
-    <updated>2024-06-03T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-pledging-opengl-applications-on-openbsd/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-pledging-opengl-applications-on-openbsd/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/06-03-pledging-opengl-applications-on-openbsd.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/06-03-pledging-opengl-applications-on-openbsd.gmi"/>
-        <title>Pledging OpenGL applications on OpenBSD</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-06-03T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-pledging-opengl-applications-on-openbsd/</id>
     <content type="html">
         
     </content>
@@ -3290,30 +3338,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-saying-a-lot-while-saying-nothing-at-all-about-ansible-awx/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Thoughts and logs after messing with Tenstorrent Grayskull</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-06-02T04:00:00+00:00</published>
-    <updated>2024-06-02T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-thoughts-and-logs-after-messing-with-tenstorrent-grayskull/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-thoughts-and-logs-after-messing-with-tenstorrent-grayskull/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/06-02-thoughts-and-logs-after-messing-with-tenstorrent-grayskull.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/06-02-thoughts-and-logs-after-messing-with-tenstorrent-grayskull.gmi"/>
-        <title>Thoughts and logs after messing with Tenstorrent Grayskull</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-06-02T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-thoughts-and-logs-after-messing-with-tenstorrent-grayskull/</id>
     <content type="html">
         
     </content>
@@ -3463,25 +3487,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>LLMs Aren’t Just “Trained On the Internet” Anymore</title>
+    <title>The feed reader score service is now online</title>
         <author>
-            <name>Allen Pike</name>
+            <name>rachelbythebay</name>
         </author>
-    <published>2024-05-31T05:45:30+00:00</published>
-    <updated>2024-05-31T05:45:30+00:00</updated>
-    <link href="https://news.cryptic.io/allen-pike-llms-arent-just-trained-on-the-internet-anymore/"/>
-    <link rel="alternate" href="https://news.cryptic.io/allen-pike-llms-arent-just-trained-on-the-internet-anymore/" type="text/html"/>
+    <published>2024-05-31T02:24:19+00:00</published>
+    <updated>2024-05-31T02:24:19+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-the-feed-reader-score-service-is-now-online/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-feed-reader-score-service-is-now-online/" type="text/html"/>
       <source>
-        <id>https://www.allenpike.com/2024/llms-trained-on-internet</id>
-        <link href="https://www.allenpike.com/2024/llms-trained-on-internet"/>
-        <title>LLMs Aren’t Just “Trained On the Internet” Anymore</title>
+        <id>https://rachelbythebay.com/w/2024/05/30/fs/</id>
+        <link href="https://rachelbythebay.com/w/2024/05/30/fs/"/>
+        <title>The feed reader score service is now online</title>
         <author>
-            <name>Allen Pike</name>
+            <name>rachelbythebay</name>
         </author>
-        <updated>2024-05-31T05:45:30+00:00</updated>
+        <updated>2024-05-31T02:24:19+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/allen-pike-llms-arent-just-trained-on-the-internet-anymore/</id>
+    <id>https://news.cryptic.io/rachelbythebay-the-feed-reader-score-service-is-now-online/</id>
     <content type="html">
         
     </content>
@@ -3607,6 +3631,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>I&#x27;m going to give this &quot;reader score&quot; thing a spin</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-05-29T07:16:32+00:00</published>
+    <updated>2024-05-29T07:16:32+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-im-going-to-give-this-reader-score-thing-a-spin/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-im-going-to-give-this-reader-score-thing-a-spin/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/05/29/score/</id>
+        <link href="https://rachelbythebay.com/w/2024/05/29/score/"/>
+        <title>I&#x27;m going to give this &quot;reader score&quot; thing a spin</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-05-29T07:16:32+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-im-going-to-give-this-reader-score-thing-a-spin/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The Complex Problem Of Lying For Jobs</title>
         <author>
             <name>Lucic</name>
@@ -3698,30 +3746,6 @@
       </source>
 
     <id>https://news.cryptic.io/linus-lee-in-the-beginning-was-the-command-line/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Librem 5 is.. not that bad?</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-05-27T04:00:00+00:00</published>
-    <updated>2024-05-27T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-the-librem-5-is-not-that-bad/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-the-librem-5-is-not-that-bad/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/05-27-the-librem-5-is-not-that-bad.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/05-27-the-librem-5-is-not-that-bad.gmi"/>
-        <title>The Librem 5 is.. not that bad?</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-05-27T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-the-librem-5-is-not-that-bad/</id>
     <content type="html">
         
     </content>
@@ -4615,30 +4639,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Asynchronously read STDIN in Drogon&#x2F;Trantor</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-05-15T04:00:00+00:00</published>
-    <updated>2024-05-15T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-asynchronously-read-stdin-in-drogontrantor/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-asynchronously-read-stdin-in-drogontrantor/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/05-15-asynchronously-readi-stdin-in-drogon-trantor.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/05-15-asynchronously-readi-stdin-in-drogon-trantor.gmi"/>
-        <title>Asynchronously read STDIN in Drogon&#x2F;Trantor</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-05-15T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-asynchronously-read-stdin-in-drogontrantor/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Bebop</title>
         <author>
             <name>Rodrigo Ghedin</name>
@@ -5138,30 +5138,6 @@
       </source>
 
     <id>https://news.cryptic.io/justin-jackson-how-to-make-a-podcast-and-submit-it-to-spotify-and-apple-podcasts-in-2024/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Building Slack</title>
-        <author>
-            <name>Allen Pike</name>
-        </author>
-    <published>2024-05-06T21:11:05+00:00</published>
-    <updated>2024-05-06T21:11:05+00:00</updated>
-    <link href="https://news.cryptic.io/allen-pike-building-slack/"/>
-    <link rel="alternate" href="https://news.cryptic.io/allen-pike-building-slack/" type="text/html"/>
-      <source>
-        <id>https://www.allenpike.com/2024/building-slack</id>
-        <link href="https://www.allenpike.com/2024/building-slack"/>
-        <title>Building Slack</title>
-        <author>
-            <name>Allen Pike</name>
-        </author>
-        <updated>2024-05-06T21:11:05+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/allen-pike-building-slack/</id>
     <content type="html">
         
     </content>
@@ -6631,30 +6607,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>My Vodka teir list</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-03-31T04:00:00+00:00</published>
-    <updated>2024-03-31T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-my-vodka-teir-list/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-my-vodka-teir-list/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/03-31-my-vodka-teir-list.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/03-31-my-vodka-teir-list.gmi"/>
-        <title>My Vodka teir list</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-03-31T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-my-vodka-teir-list/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Fixing the “Not a heap block” error with networking with PCPro</title>
         <author>
             <name>Various</name>
@@ -7106,30 +7058,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-fixing-the-logitech-spotlight/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Just me or GTC 2024 feels like cyberpunk dystopia</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-03-19T04:00:00+00:00</published>
-    <updated>2024-03-19T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-just-me-or-gtc-2024-feels-like-cyberpunk-dystopia/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-just-me-or-gtc-2024-feels-like-cyberpunk-dystopia/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/03-19-just-me-or-gtc-2024-feels-like-the-beginning-of-cyberpunk-dystopia.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/03-19-just-me-or-gtc-2024-feels-like-the-beginning-of-cyberpunk-dystopia.gmi"/>
-        <title>Just me or GTC 2024 feels like cyberpunk dystopia</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-03-19T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-just-me-or-gtc-2024-feels-like-cyberpunk-dystopia/</id>
     <content type="html">
         
     </content>
