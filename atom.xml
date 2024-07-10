@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>A Crossword Puzzle</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-07-10T00:00:00+00:00</published>
+    <updated>2024-07-10T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-a-crossword-puzzle/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-a-crossword-puzzle/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2957/</id>
+        <link href="https://xkcd.com/2957/"/>
+        <title>A Crossword Puzzle</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-07-10T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-a-crossword-puzzle/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Optimizing a bignum library for fun</title>
         <author>
             <name>Austin Z. Henley</name>
@@ -1111,30 +1135,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Alien Theories</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-07-01T00:00:00+00:00</published>
-    <updated>2024-07-01T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-alien-theories/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-alien-theories/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2953/</id>
-        <link href="https://xkcd.com/2953/"/>
-        <title>Alien Theories</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-07-01T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-alien-theories/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The Mimo Diaries: Feedback and Directory</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -1480,8 +1480,8 @@
     <link href="https://news.cryptic.io/xe-iaso-no-way-to-prevent-this-say-users-of-only-language-where-this-regularly-happens/"/>
     <link rel="alternate" href="https://news.cryptic.io/xe-iaso-no-way-to-prevent-this-say-users-of-only-language-where-this-regularly-happens/" type="text/html"/>
       <source>
-        <id>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-5535/</id>
-        <link href="https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-5535/"/>
+        <id>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-28820/</id>
+        <link href="https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-28820/"/>
         <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
         <author>
             <name>Xe Iaso</name>
