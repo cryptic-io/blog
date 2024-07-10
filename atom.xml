@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-09T18:15:00+00:00</updated>
+  <updated>2024-07-09T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Q Numbers</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2024-07-09T19:00:00+00:00</published>
+    <updated>2024-07-09T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-q-numbers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-q-numbers/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2024/07/09/Q-Numbers</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2024/07/09/Q-Numbers"/>
+        <title>Q Numbers</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2024-07-09T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-q-numbers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A moment walking towards the sunset</title>
         <author>
@@ -6170,30 +6194,6 @@
       </source>
 
     <id>https://news.cryptic.io/lucic-most-tech-jobs-are-jokes-and-i-am-not-laughing/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Mobile Typing Pain</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2024-04-24T19:00:00+00:00</published>
-    <updated>2024-04-24T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-mobile-typing-pain/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-mobile-typing-pain/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2024/04/24/Mobile-Text-Entry-Sucks</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2024/04/24/Mobile-Text-Entry-Sucks"/>
-        <title>Mobile Typing Pain</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2024-04-24T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-mobile-typing-pain/</id>
     <content type="html">
         
     </content>
