@@ -4,15 +4,39 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-10T19:00:01+00:00</updated>
+  <updated>2024-07-10T20:00:01+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Rejoining academia</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2024-07-10T20:00:01+00:00</published>
+    <updated>2024-07-10T20:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-rejoining-academia/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-rejoining-academia/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/rejoiningacademia.html</id>
+        <link href="https://austinhenley.com/blog/rejoiningacademia.html"/>
+        <title>Rejoining academia</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2024-07-10T20:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-rejoining-academia/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Optimizing a bignum library for fun</title>
         <author>
             <name>Austin Z. Henley</name>
         </author>
-    <published>2024-07-10T19:00:01+00:00</published>
-    <updated>2024-07-10T19:00:01+00:00</updated>
+    <published>2024-07-09T19:00:01+00:00</published>
+    <updated>2024-07-09T19:00:01+00:00</updated>
     <link href="https://news.cryptic.io/austin-z-henley-optimizing-a-bignum-library-for-fun/"/>
     <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-optimizing-a-bignum-library-for-fun/" type="text/html"/>
       <source>
@@ -22,7 +46,7 @@
         <author>
             <name>Austin Z. Henley</name>
         </author>
-        <updated>2024-07-10T19:00:01+00:00</updated>
+        <updated>2024-07-09T19:00:01+00:00</updated>
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-optimizing-a-bignum-library-for-fun/</id>
@@ -8690,30 +8714,6 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-tracking-engineering-time/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The pain points of building a copilot</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-    <published>2024-02-04T21:00:01+00:00</published>
-    <updated>2024-02-04T21:00:01+00:00</updated>
-    <link href="https://news.cryptic.io/austin-z-henley-the-pain-points-of-building-a-copilot/"/>
-    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-the-pain-points-of-building-a-copilot/" type="text/html"/>
-      <source>
-        <id>https://austinhenley.com/blog/copilotpainpoints.html</id>
-        <link href="https://austinhenley.com/blog/copilotpainpoints.html"/>
-        <title>The pain points of building a copilot</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-        <updated>2024-02-04T21:00:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/austin-z-henley-the-pain-points-of-building-a-copilot/</id>
     <content type="html">
         
     </content>
