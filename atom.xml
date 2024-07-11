@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-11T01:08:00+00:00</updated>
+  <updated>2024-07-11T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Creating Some Noise on Behalf of Silence</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-07-11T19:00:00+00:00</published>
+    <updated>2024-07-11T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-creating-some-noise-on-behalf-of-silence/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-creating-some-noise-on-behalf-of-silence/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/the-value-of-silence/</id>
+        <link href="https://blog.jim-nielsen.com/2024/the-value-of-silence/"/>
+        <title>Creating Some Noise on Behalf of Silence</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-07-11T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-creating-some-noise-on-behalf-of-silence/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Fixing electron apps and Steam not working on Wayland (Arch Linux, RDNA3, AMDGPU, broken Vulkan)</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-07-11T04:00:00+00:00</published>
+    <updated>2024-07-11T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-fixing-electron-apps-and-steam-not-working-on-wayland-arch-linux-rdna3-amdgpu-broken-vulkan/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-fixing-electron-apps-and-steam-not-working-on-wayland-arch-linux-rdna3-amdgpu-broken-vulkan/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/07-11-fixing-electron-apps-and-steam-not-working-on-wayland.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/07-11-fixing-electron-apps-and-steam-not-working-on-wayland.gmi"/>
+        <title>Fixing electron apps and Steam not working on Wayland (Arch Linux, RDNA3, AMDGPU, broken Vulkan)</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-07-11T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-fixing-electron-apps-and-steam-not-working-on-wayland-arch-linux-rdna3-amdgpu-broken-vulkan/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>If AI chatbots are the future, I hate it</title>
         <author>
@@ -3338,30 +3386,6 @@
       </source>
 
     <id>https://news.cryptic.io/justin-jackson-pro-skater-chad-muska-went-broke-now-hes-a-bootstrapper/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Novels as Prototypes of the Future</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-06-04T19:00:00+00:00</published>
-    <updated>2024-06-04T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-novels-as-prototypes-of-the-future/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-novels-as-prototypes-of-the-future/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/novels-as-prototypes/</id>
-        <link href="https://blog.jim-nielsen.com/2024/novels-as-prototypes/"/>
-        <title>Novels as Prototypes of the Future</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-06-04T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-novels-as-prototypes-of-the-future/</id>
     <content type="html">
         
     </content>
@@ -7274,30 +7298,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-fixing-the-logitech-spotlight/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Just me or GTC 2024 feels like cyberpunk dystopia</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-03-19T04:00:00+00:00</published>
-    <updated>2024-03-19T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-just-me-or-gtc-2024-feels-like-cyberpunk-dystopia/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-just-me-or-gtc-2024-feels-like-cyberpunk-dystopia/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/03-19-just-me-or-gtc-2024-feels-like-the-beginning-of-cyberpunk-dystopia.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/03-19-just-me-or-gtc-2024-feels-like-the-beginning-of-cyberpunk-dystopia.gmi"/>
-        <title>Just me or GTC 2024 feels like cyberpunk dystopia</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-03-19T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-just-me-or-gtc-2024-feels-like-cyberpunk-dystopia/</id>
     <content type="html">
         
     </content>
