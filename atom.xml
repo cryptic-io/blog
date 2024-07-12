@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-12T11:00:00+00:00</updated>
+  <updated>2024-07-12T14:01:15+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>NUMA Emulation speeds up Pi 5 (and other improvements)</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-07-12T14:01:15+00:00</published>
+    <updated>2024-07-12T14:01:15+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-numa-emulation-speeds-up-pi-5-and-other-improvements/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-numa-emulation-speeds-up-pi-5-and-other-improvements/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/numa-emulation-speeds-pi-5-and-other-improvements</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/numa-emulation-speeds-pi-5-and-other-improvements"/>
+        <title>NUMA Emulation speeds up Pi 5 (and other improvements)</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-07-12T14:01:15+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-numa-emulation-speeds-up-pi-5-and-other-improvements/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>P&amp;B: Andrew Stephens</title>
         <author>
@@ -3842,30 +3866,6 @@
       </source>
 
     <id>https://news.cryptic.io/tyler-cipriani-hexadecimal-sucks/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Can the Raspberry Pi 5 handle 4K?</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-05-31T13:59:25+00:00</published>
-    <updated>2024-05-31T13:59:25+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-can-the-raspberry-pi-5-handle-4k/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-can-the-raspberry-pi-5-handle-4k/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/can-raspberry-pi-5-handle-4k</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/can-raspberry-pi-5-handle-4k"/>
-        <title>Can the Raspberry Pi 5 handle 4K?</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-05-31T13:59:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-can-the-raspberry-pi-5-handle-4k/</id>
     <content type="html">
         
     </content>
