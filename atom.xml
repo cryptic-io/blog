@@ -55,6 +55,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Fixing electron apps and Steam not working on Wayland (Arch Linux, RDNA3, AMDGPU, broken Vulkan)</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-07-11T04:00:00+00:00</published>
+    <updated>2024-07-11T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-fixing-electron-apps-and-steam-not-working-on-wayland-arch-linux-rdna3-amdgpu-broken-vulkan/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-fixing-electron-apps-and-steam-not-working-on-wayland-arch-linux-rdna3-amdgpu-broken-vulkan/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/07-11-fixing-electron-apps-and-steam-not-working-on-wayland.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/07-11-fixing-electron-apps-and-steam-not-working-on-wayland.gmi"/>
+        <title>Fixing electron apps and Steam not working on Wayland (Arch Linux, RDNA3, AMDGPU, broken Vulkan)</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-07-11T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-fixing-electron-apps-and-steam-not-working-on-wayland-arch-linux-rdna3-amdgpu-broken-vulkan/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>If AI chatbots are the future, I hate it</title>
         <author>
             <name>Jeff Geerling</name>
@@ -343,30 +367,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Logic for Programmers now in early access!</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-07-08T17:33:18+00:00</published>
-    <updated>2024-07-08T17:33:18+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-logic-for-programmers-now-in-early-access/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-logic-for-programmers-now-in-early-access/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/logic-for-programmers-now-in-early-access/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/logic-for-programmers-now-in-early-access/"/>
-        <title>Logic for Programmers now in early access!</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-07-08T17:33:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-logic-for-programmers-now-in-early-access/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Pop Culture</title>
         <author>
             <name>Ed Zitron</name>
@@ -530,6 +530,30 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-my-fears-about-ai-are-not-what-you-think/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A gentle guide on getting your Tenstorrent card running on Arch Linux (with the Metalium stack)</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-07-07T04:00:00+00:00</published>
+    <updated>2024-07-07T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/07-07-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/07-07-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack.gmi"/>
+        <title>A gentle guide on getting your Tenstorrent card running on Arch Linux (with the Metalium stack)</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-07-07T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack/</id>
     <content type="html">
         
     </content>
@@ -1010,30 +1034,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-installing-ansible-on-a-riscv-computer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Solving a math problem with planner programming</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-07-02T15:46:13+00:00</published>
-    <updated>2024-07-02T15:46:13+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-solving-a-math-problem-with-planner-programming/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-solving-a-math-problem-with-planner-programming/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/solving-a-math-problem-with-planner-programming/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/solving-a-math-problem-with-planner-programming/"/>
-        <title>Solving a math problem with planner programming</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-07-02T15:46:13+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-solving-a-math-problem-with-planner-programming/</id>
     <content type="html">
         
     </content>
@@ -1711,30 +1711,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A brief introduction to interval arithmetic</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-06-25T16:08:25+00:00</published>
-    <updated>2024-06-25T16:08:25+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-a-brief-introduction-to-interval-arithmetic/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-a-brief-introduction-to-interval-arithmetic/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/"/>
-        <title>A brief introduction to interval arithmetic</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-06-25T16:08:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-a-brief-introduction-to-interval-arithmetic/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Album Of The Week: Queen Of Jeans All Again</title>
         <author>
             <name>Stereogum</name>
@@ -2095,30 +2071,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Logic for Programmers Update</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-06-21T18:02:31+00:00</published>
-    <updated>2024-06-21T18:02:31+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-logic-for-programmers-update/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-logic-for-programmers-update/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/logic-for-programmers-update/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/logic-for-programmers-update/"/>
-        <title>Logic for Programmers Update</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-06-21T18:02:31+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-logic-for-programmers-update/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Job Hoppin’</title>
         <author>
             <name>Robin Rendle</name>
@@ -2383,6 +2335,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Slides for April talk at NSYSU for AI inference</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-06-18T04:00:00+00:00</published>
+    <updated>2024-06-18T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-slides-for-april-talk-at-nsysu-for-ai-inference/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-slides-for-april-talk-at-nsysu-for-ai-inference/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/06-18-slides-for-april-talk-at-nsysu-for-ai-inference.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/06-18-slides-for-april-talk-at-nsysu-for-ai-inference.gmi"/>
+        <title>Slides for April talk at NSYSU for AI inference</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-06-18T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-slides-for-april-talk-at-nsysu-for-ai-inference/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Notes From “You Are Not A Gadget”</title>
         <author>
             <name>Jim Nielsen</name>
@@ -2450,30 +2426,6 @@
       </source>
 
     <id>https://news.cryptic.io/ed-zitron-let-tim-cook/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>New blog post: Composing TLA+ Specifications </title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-06-17T15:06:08+00:00</published>
-    <updated>2024-06-17T15:06:08+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-new-blog-post-composing-tla-specifications/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-new-blog-post-composing-tla-specifications/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/new-blog-post-composing-tla-specifications/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/new-blog-post-composing-tla-specifications/"/>
-        <title>New blog post: Composing TLA+ Specifications </title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-06-17T15:06:08+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-new-blog-post-composing-tla-specifications/</id>
     <content type="html">
         
     </content>
@@ -2935,30 +2887,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Nondeterminism in Formal Specification</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-06-11T14:30:00+00:00</published>
-    <updated>2024-06-11T14:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-nondeterminism-in-formal-specification/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-nondeterminism-in-formal-specification/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/nondeterminism-in-formal-specification/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/nondeterminism-in-formal-specification/"/>
-        <title>Nondeterminism in Formal Specification</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-06-11T14:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-nondeterminism-in-formal-specification/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Paying More for Media</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -3050,6 +2978,30 @@
       </source>
 
     <id>https://news.cryptic.io/linus-lee-some-applied-research-problems-in-machine-learning/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Compare nlohmann&#x2F;json to Glaze</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-06-09T04:00:00+00:00</published>
+    <updated>2024-06-09T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-compare-nlohmannjson-to-glaze/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-compare-nlohmannjson-to-glaze/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/06-09-compare-nlohmann-json-to-glaze.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/06-09-compare-nlohmann-json-to-glaze.gmi"/>
+        <title>Compare nlohmann&#x2F;json to Glaze</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-06-09T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-compare-nlohmannjson-to-glaze/</id>
     <content type="html">
         
     </content>
@@ -3247,30 +3199,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>I&#x27;ve been thinking about tradeoffs all wrong</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-06-05T15:14:09+00:00</published>
-    <updated>2024-06-05T15:14:09+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-ive-been-thinking-about-tradeoffs-all-wrong/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-ive-been-thinking-about-tradeoffs-all-wrong/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/ive-been-thinking-about-tradeoffs-all-wrong/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/ive-been-thinking-about-tradeoffs-all-wrong/"/>
-        <title>I&#x27;ve been thinking about tradeoffs all wrong</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-06-05T15:14:09+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-ive-been-thinking-about-tradeoffs-all-wrong/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>They make USB-C cables with displays now!</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -3439,6 +3367,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>My stance on (GitHub) Copilot</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-06-04T04:00:00+00:00</published>
+    <updated>2024-06-04T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-my-stance-on-github-copilot/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-my-stance-on-github-copilot/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/06-04-my-stance-on-github-copilot.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/06-04-my-stance-on-github-copilot.gmi"/>
+        <title>My stance on (GitHub) Copilot</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-06-04T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-my-stance-on-github-copilot/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Regular, Recursive, Restricted</title>
         <author>
             <name>Alex Kladov</name>
@@ -3511,6 +3463,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Pledging OpenGL applications on OpenBSD</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-06-03T04:00:00+00:00</published>
+    <updated>2024-06-03T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-pledging-opengl-applications-on-openbsd/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-pledging-opengl-applications-on-openbsd/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/06-03-pledging-opengl-applications-on-openbsd.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/06-03-pledging-opengl-applications-on-openbsd.gmi"/>
+        <title>Pledging OpenGL applications on OpenBSD</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-06-03T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-pledging-opengl-applications-on-openbsd/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Why Can’t Programmers Agree on Anything?</title>
         <author>
             <name>Jesse Duffield</name>
@@ -3554,6 +3530,30 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-saying-a-lot-while-saying-nothing-at-all-about-ansible-awx/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Thoughts and logs after messing with Tenstorrent Grayskull</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-06-02T04:00:00+00:00</published>
+    <updated>2024-06-02T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-thoughts-and-logs-after-messing-with-tenstorrent-grayskull/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-thoughts-and-logs-after-messing-with-tenstorrent-grayskull/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/06-02-thoughts-and-logs-after-messing-with-tenstorrent-grayskull.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/06-02-thoughts-and-logs-after-messing-with-tenstorrent-grayskull.gmi"/>
+        <title>Thoughts and logs after messing with Tenstorrent Grayskull</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-06-02T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-thoughts-and-logs-after-messing-with-tenstorrent-grayskull/</id>
     <content type="html">
         
     </content>
@@ -3914,6 +3914,30 @@
       </source>
 
     <id>https://news.cryptic.io/linus-lee-in-the-beginning-was-the-command-line/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Librem 5 is.. not that bad?</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-05-27T04:00:00+00:00</published>
+    <updated>2024-05-27T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-the-librem-5-is-not-that-bad/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-the-librem-5-is-not-that-bad/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/05-27-the-librem-5-is-not-that-bad.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/05-27-the-librem-5-is-not-that-bad.gmi"/>
+        <title>The Librem 5 is.. not that bad?</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-05-27T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-the-librem-5-is-not-that-bad/</id>
     <content type="html">
         
     </content>
@@ -4351,30 +4375,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>NoCode Will Not Bring Computing to the Masses</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-05-21T17:54:19+00:00</published>
-    <updated>2024-05-21T17:54:19+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-nocode-will-not-bring-computing-to-the-masses/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-nocode-will-not-bring-computing-to-the-masses/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/nocode-will-not-bring-computing-to-the-masses/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/nocode-will-not-bring-computing-to-the-masses/"/>
-        <title>NoCode Will Not Bring Computing to the Masses</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-05-21T17:54:19+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-nocode-will-not-bring-computing-to-the-masses/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Sam Altman Is Full Of Shit</title>
         <author>
             <name>Ed Zitron</name>
@@ -4711,30 +4711,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>What I look for in empirical software papers</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-05-16T16:58:58+00:00</published>
-    <updated>2024-05-16T16:58:58+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-what-i-look-for-in-empirical-software-papers/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-what-i-look-for-in-empirical-software-papers/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/what-i-look-for-in-empirical-software-papers/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/what-i-look-for-in-empirical-software-papers/"/>
-        <title>What I look for in empirical software papers</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-05-16T16:58:58+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-what-i-look-for-in-empirical-software-papers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Repository Overhaul in new Client 1.20</title>
         <author>
             <name>Various</name>
@@ -4778,6 +4754,30 @@
       </source>
 
     <id>https://news.cryptic.io/rodrigo-ghedin-taming-read-later-apps/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Asynchronously read STDIN in Drogon&#x2F;Trantor</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-05-15T04:00:00+00:00</published>
+    <updated>2024-05-15T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-asynchronously-read-stdin-in-drogontrantor/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-asynchronously-read-stdin-in-drogontrantor/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/05-15-asynchronously-readi-stdin-in-drogon-trantor.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/05-15-asynchronously-readi-stdin-in-drogon-trantor.gmi"/>
+        <title>Asynchronously read STDIN in Drogon&#x2F;Trantor</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-05-15T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-asynchronously-read-stdin-in-drogontrantor/</id>
     <content type="html">
         
     </content>
@@ -5210,30 +5210,6 @@
       </source>
 
     <id>https://news.cryptic.io/stereogum-album-of-the-week-how-to-dress-well-i-am-toward-you/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Paradigms succeed when you can strip them for parts</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-05-07T16:48:56+00:00</published>
-    <updated>2024-05-07T16:48:56+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-paradigms-succeed-when-you-can-strip-them-for-parts/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-paradigms-succeed-when-you-can-strip-them-for-parts/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/paradigms-succeed-when-you-can-scavenge-from/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/paradigms-succeed-when-you-can-scavenge-from/"/>
-        <title>Paradigms succeed when you can strip them for parts</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-05-07T16:48:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-paradigms-succeed-when-you-can-strip-them-for-parts/</id>
     <content type="html">
         
     </content>
@@ -6602,6 +6578,30 @@
       </source>
 
     <id>https://news.cryptic.io/tyler-cipriani-my-eclipse-photography-plan/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>My Vodka teir list</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-03-31T04:00:00+00:00</published>
+    <updated>2024-03-31T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-my-vodka-teir-list/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-my-vodka-teir-list/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/03-31-my-vodka-teir-list.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/03-31-my-vodka-teir-list.gmi"/>
+        <title>My Vodka teir list</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-03-31T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-my-vodka-teir-list/</id>
     <content type="html">
         
     </content>
