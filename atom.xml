@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-12T14:01:15+00:00</updated>
+  <updated>2024-07-12T14:35:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Loki the comedian</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2024-07-12T14:35:00+00:00</published>
+    <updated>2024-07-12T14:35:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-loki-the-comedian/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-loki-the-comedian/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/misc/goat-scrote.html</id>
+        <link href="https://blog.plover.com/misc/goat-scrote.html"/>
+        <title>Loki the comedian</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2024-07-12T14:35:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-loki-the-comedian/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>NUMA Emulation speeds up Pi 5 (and other improvements)</title>
         <author>
@@ -6098,30 +6122,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-well-i-guess-i-believe-everything-now/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>R.I.P. Oddbins</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2024-04-23T06:15:00+00:00</published>
-    <updated>2024-04-23T06:15:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-rip-oddbins/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-rip-oddbins/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/food/oddbins.html</id>
-        <link href="https://blog.plover.com/food/oddbins.html"/>
-        <title>R.I.P. Oddbins</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2024-04-23T06:15:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-rip-oddbins/</id>
     <content type="html">
         
     </content>
