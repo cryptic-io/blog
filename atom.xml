@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-14T16:15:00+00:00</updated>
+  <updated>2024-07-14T21:00:01+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Can ChatGPT do data science?</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2024-07-14T21:00:01+00:00</published>
+    <updated>2024-07-14T21:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-can-chatgpt-do-data-science/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-can-chatgpt-do-data-science/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/chatgptdatascience.html</id>
+        <link href="https://austinhenley.com/blog/chatgptdatascience.html"/>
+        <title>Can ChatGPT do data science?</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2024-07-14T21:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-can-chatgpt-do-data-science/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>One hundred</title>
         <author>
@@ -8306,30 +8330,6 @@
       </source>
 
     <id>https://news.cryptic.io/james-brown-apple-vision-pro-demo-thoughts/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Satirical ways to measure academics</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-    <published>2024-02-19T18:00:01+00:00</published>
-    <updated>2024-02-19T18:00:01+00:00</updated>
-    <link href="https://news.cryptic.io/austin-z-henley-satirical-ways-to-measure-academics/"/>
-    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-satirical-ways-to-measure-academics/" type="text/html"/>
-      <source>
-        <id>https://austinhenley.com/blog/measuringacademics.html</id>
-        <link href="https://austinhenley.com/blog/measuringacademics.html"/>
-        <title>Satirical ways to measure academics</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-        <updated>2024-02-19T18:00:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/austin-z-henley-satirical-ways-to-measure-academics/</id>
     <content type="html">
         
     </content>
