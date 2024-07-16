@@ -55,6 +55,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Beam of Light</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-07-15T00:00:00+00:00</published>
+    <updated>2024-07-15T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-beam-of-light/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-beam-of-light/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2959/</id>
+        <link href="https://xkcd.com/2959/"/>
+        <title>Beam of Light</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-07-15T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-beam-of-light/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Can ChatGPT do data science?</title>
         <author>
             <name>Austin Z. Henley</name>
@@ -1159,30 +1183,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Pole Vault</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-07-05T00:00:00+00:00</published>
-    <updated>2024-07-05T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-pole-vault/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-pole-vault/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2955/</id>
-        <link href="https://xkcd.com/2955/"/>
-        <title>Pole Vault</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-07-05T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-pole-vault/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>I remain bearish on the eventual invention of “general AI”</title>
         <author>
             <name>degrowther</name>
@@ -1888,8 +1888,8 @@
     <link href="https://news.cryptic.io/xe-iaso-no-way-to-prevent-this-say-users-of-only-language-where-this-regularly-happens/"/>
     <link rel="alternate" href="https://news.cryptic.io/xe-iaso-no-way-to-prevent-this-say-users-of-only-language-where-this-regularly-happens/" type="text/html"/>
       <source>
-        <id>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-5535/</id>
-        <link href="https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-5535/"/>
+        <id>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-28820/</id>
+        <link href="https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-28820/"/>
         <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
         <author>
             <name>Xe Iaso</name>
