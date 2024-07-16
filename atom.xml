@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-15T20:20:10+00:00</updated>
+  <updated>2024-07-16T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>So you want to compete with or replace open source</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2024-07-16T00:00:00+00:00</published>
+    <updated>2024-07-16T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-so-you-want-to-compete-with-or-replace-open-source/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-so-you-want-to-compete-with-or-replace-open-source/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2024/07/16/2024-07-16-So-you-want-to-compete-with-FOSS.html</id>
+        <link href="https://drewdevault.com/2024/07/16/2024-07-16-So-you-want-to-compete-with-FOSS.html"/>
+        <title>So you want to compete with or replace open source</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2024-07-16T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-so-you-want-to-compete-with-or-replace-open-source/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Shunning trolls</title>
         <author>
@@ -11866,30 +11890,6 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-using-a-local-llm-to-automate-an-android-device/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Hyprland is a toxic community</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-    <published>2023-09-17T00:00:00+00:00</published>
-    <updated>2023-09-17T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/drew-devault-hyprland-is-a-toxic-community/"/>
-    <link rel="alternate" href="https://news.cryptic.io/drew-devault-hyprland-is-a-toxic-community/" type="text/html"/>
-      <source>
-        <id>https://drewdevault.com/2023/09/17/Hyprland-toxicity.html</id>
-        <link href="https://drewdevault.com/2023/09/17/Hyprland-toxicity.html"/>
-        <title>Hyprland is a toxic community</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-        <updated>2023-09-17T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/drew-devault-hyprland-is-a-toxic-community/</id>
     <content type="html">
         
     </content>
