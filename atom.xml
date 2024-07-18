@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-18T16:17:59+00:00</updated>
+  <updated>2024-07-18T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Amazing Athletes of the 21st Century</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-07-18T19:00:00+00:00</published>
+    <updated>2024-07-18T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-amazing-athletes-of-the-21st-century/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-amazing-athletes-of-the-21st-century/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/amazing-athletes/</id>
+        <link href="https://blog.jim-nielsen.com/2024/amazing-athletes/"/>
+        <title>Amazing Athletes of the 21st Century</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-07-18T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-amazing-athletes-of-the-21st-century/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Blue (ブルー): Blue (ブルー・碧い海のイマージュ) (199?)</title>
         <author>
@@ -50,6 +74,30 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-should-you-give-up-social-media/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>927: Thoughts on a Global Design System</title>
+        <author>
+            <name>Brian Kardell</name>
+        </author>
+    <published>2024-07-18T04:00:00+00:00</published>
+    <updated>2024-07-18T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/brian-kardell-927-thoughts-on-a-global-design-system/"/>
+    <link rel="alternate" href="https://news.cryptic.io/brian-kardell-927-thoughts-on-a-global-design-system/" type="text/html"/>
+      <source>
+        <id>https://bkardell.com/blog/927.html</id>
+        <link href="https://bkardell.com/blog/927.html"/>
+        <title>927: Thoughts on a Global Design System</title>
+        <author>
+            <name>Brian Kardell</name>
+        </author>
+        <updated>2024-07-18T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/brian-kardell-927-thoughts-on-a-global-design-system/</id>
     <content type="html">
         
     </content>
@@ -2858,30 +2906,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-slides-for-april-talk-at-nsysu-for-ai-inference/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Notes From “You Are Not A Gadget”</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-06-17T19:00:00+00:00</published>
-    <updated>2024-06-17T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-notes-from-you-are-not-a-gadget/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-notes-from-you-are-not-a-gadget/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/notes-from-you-are-not-a-gadget/</id>
-        <link href="https://blog.jim-nielsen.com/2024/notes-from-you-are-not-a-gadget/"/>
-        <title>Notes From “You Are Not A Gadget”</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-06-17T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-notes-from-you-are-not-a-gadget/</id>
     <content type="html">
         
     </content>
@@ -9938,30 +9962,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-on-goalsetting/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>What&#x27;s Good?</title>
-        <author>
-            <name>Brian Kardell</name>
-        </author>
-    <published>2024-01-03T05:00:00+00:00</published>
-    <updated>2024-01-03T05:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/brian-kardell-whats-good/"/>
-    <link rel="alternate" href="https://news.cryptic.io/brian-kardell-whats-good/" type="text/html"/>
-      <source>
-        <id>https://bkardell.com/blog/WhatsGood.html</id>
-        <link href="https://bkardell.com/blog/WhatsGood.html"/>
-        <title>What&#x27;s Good?</title>
-        <author>
-            <name>Brian Kardell</name>
-        </author>
-        <updated>2024-01-03T05:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/brian-kardell-whats-good/</id>
     <content type="html">
         
     </content>
