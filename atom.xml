@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-21T18:00:01+00:00</updated>
+  <updated>2024-07-22T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Your Greatest Strength Is Also Your Greatest Weakness</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-07-22T19:00:00+00:00</published>
+    <updated>2024-07-22T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-your-greatest-strength-is-also-your-greatest-weakness/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-your-greatest-strength-is-also-your-greatest-weakness/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/greatest-strength-is-greatest-weakness/</id>
+        <link href="https://blog.jim-nielsen.com/2024/greatest-strength-is-greatest-weakness/"/>
+        <title>Your Greatest Strength Is Also Your Greatest Weakness</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-07-22T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-your-greatest-strength-is-also-your-greatest-weakness/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The blog posts I haven&#x27;t written (yet)</title>
         <author>
@@ -3003,30 +3027,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-additional-repos-shaping-the-ui/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Organic Intelligence</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-06-19T19:00:00+00:00</published>
-    <updated>2024-06-19T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-organic-intelligence/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-organic-intelligence/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/organic-intelligence/</id>
-        <link href="https://blog.jim-nielsen.com/2024/organic-intelligence/"/>
-        <title>Organic Intelligence</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-06-19T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-organic-intelligence/</id>
     <content type="html">
         
     </content>
