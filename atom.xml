@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-22T19:00:00+00:00</updated>
+  <updated>2024-07-22T20:32:40+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The state of Docker on popular RISC-V platforms</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-07-22T20:32:40+00:00</published>
+    <updated>2024-07-22T20:32:40+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-the-state-of-docker-on-popular-riscv-platforms/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-the-state-of-docker-on-popular-riscv-platforms/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/state-docker-on-popular-risc-v-platforms</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/state-docker-on-popular-risc-v-platforms"/>
+        <title>The state of Docker on popular RISC-V platforms</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-07-22T20:32:40+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-the-state-of-docker-on-popular-riscv-platforms/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Your Greatest Strength Is Also Your Greatest Weakness</title>
         <author>
@@ -458,6 +482,30 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-927-thoughts-on-a-global-design-system/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Unintentionally troubleshooting a new way to filter traffic</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-07-18T00:10:05+00:00</published>
+    <updated>2024-07-18T00:10:05+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-unintentionally-troubleshooting-a-new-way-to-filter-traffic/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-unintentionally-troubleshooting-a-new-way-to-filter-traffic/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/07/17/bpf/</id>
+        <link href="https://rachelbythebay.com/w/2024/07/17/bpf/"/>
+        <title>Unintentionally troubleshooting a new way to filter traffic</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-07-18T00:10:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-unintentionally-troubleshooting-a-new-way-to-filter-traffic/</id>
     <content type="html">
         
     </content>
@@ -2192,6 +2240,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>What happened to my &#x2F;edu page, and why it came back</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-30T00:31:17+00:00</published>
+    <updated>2024-06-30T00:31:17+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-what-happened-to-my-edu-page-and-why-it-came-back/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-what-happened-to-my-edu-page-and-why-it-came-back/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/29/edu/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/29/edu/"/>
+        <title>What happened to my &#x2F;edu page, and why it came back</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-30T00:31:17+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-what-happened-to-my-edu-page-and-why-it-came-back/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Setting up Gitea on Kubernetes from scratch</title>
         <author>
             <name>Xe Iaso</name>
@@ -2288,6 +2360,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>How to waste bandwidth, battery power, and annoy sysadmins</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-28T21:55:55+00:00</published>
+    <updated>2024-06-28T21:55:55+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-how-to-waste-bandwidth-battery-power-and-annoy-sysadmins/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-how-to-waste-bandwidth-battery-power-and-annoy-sysadmins/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/28/fxios/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/28/fxios/"/>
+        <title>How to waste bandwidth, battery power, and annoy sysadmins</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-28T21:55:55+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-how-to-waste-bandwidth-battery-power-and-annoy-sysadmins/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Testing new Raspberry Pi 5 Cases - $7 to $79</title>
         <author>
             <name>Jeff Geerling</name>
@@ -2307,6 +2403,30 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-testing-new-raspberry-pi-5-cases-7-to-79/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A high-level view of all of this feed reader stuff</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-28T20:58:58+00:00</published>
+    <updated>2024-06-28T20:58:58+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-a-highlevel-view-of-all-of-this-feed-reader-stuff/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-highlevel-view-of-all-of-this-feed-reader-stuff/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/28/fsr/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/28/fsr/"/>
+        <title>A high-level view of all of this feed reader stuff</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-28T20:58:58+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-a-highlevel-view-of-all-of-this-feed-reader-stuff/</id>
     <content type="html">
         
     </content>
@@ -2600,6 +2720,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Feed reader score project participants: I made a mistake</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-25T05:04:36+00:00</published>
+    <updated>2024-06-25T05:04:36+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-feed-reader-score-project-participants-i-made-a-mistake/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feed-reader-score-project-participants-i-made-a-mistake/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/24/fs/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/24/fs/"/>
+        <title>Feed reader score project participants: I made a mistake</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-25T05:04:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-feed-reader-score-project-participants-i-made-a-mistake/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>A Local-first Codebase Opens the Door to More Collaborators</title>
         <author>
             <name>Jim Nielsen</name>
@@ -2619,6 +2763,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-a-localfirst-codebase-opens-the-door-to-more-collaborators/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Leaking URLs to the clown</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-24T18:18:01+00:00</published>
+    <updated>2024-06-24T18:18:01+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-leaking-urls-to-the-clown/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-leaking-urls-to-the-clown/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/24/feed/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/24/feed/"/>
+        <title>Leaking URLs to the clown</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-24T18:18:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-leaking-urls-to-the-clown/</id>
     <content type="html">
         
     </content>
@@ -3272,6 +3440,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Stop Using Fandom</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+    <published>2024-06-16T00:00:00+00:00</published>
+    <updated>2024-06-16T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jes-olson-stop-using-fandom/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jes-olson-stop-using-fandom/" type="text/html"/>
+      <source>
+        <id>https://j3s.sh/thought/stop-using-fandom.html</id>
+        <link href="https://j3s.sh/thought/stop-using-fandom.html"/>
+        <title>Stop Using Fandom</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+        <updated>2024-06-16T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jes-olson-stop-using-fandom/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Sex Edit War!</title>
         <author>
             <name>Tim Bray</name>
@@ -3464,6 +3656,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Can you run in a tight loop and still be well-behaved?</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-13T14:21:34+00:00</published>
+    <updated>2024-06-13T14:21:34+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-can-you-run-in-a-tight-loop-and-still-be-wellbehaved/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-can-you-run-in-a-tight-loop-and-still-be-wellbehaved/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/12/timing/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/12/timing/"/>
+        <title>Can you run in a tight loop and still be well-behaved?</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-13T14:21:34+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-can-you-run-in-a-tight-loop-and-still-be-wellbehaved/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Various Artists: Ten Plants (1998)</title>
         <author>
             <name>Diego Olivas</name>
@@ -3555,6 +3771,30 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-my-interview-with-uncle-bob-martin/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Some early results for feed reader behavior monitoring</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-11T23:19:26+00:00</published>
+    <updated>2024-06-11T23:19:26+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-some-early-results-for-feed-reader-behavior-monitoring/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-some-early-results-for-feed-reader-behavior-monitoring/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/11/fsr/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/11/fsr/"/>
+        <title>Some early results for feed reader behavior monitoring</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-11T23:19:26+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-some-early-results-for-feed-reader-behavior-monitoring/</id>
     <content type="html">
         
     </content>
@@ -4088,30 +4328,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Testing Raspberry Pi&#x27;s AI Kit - 13 TOPS for $70</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-06-04T07:06:56+00:00</published>
-    <updated>2024-06-04T07:06:56+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-testing-raspberry-pis-ai-kit-13-tops-for-70/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-testing-raspberry-pis-ai-kit-13-tops-for-70/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/testing-raspberry-pis-ai-kit-13-tops-70</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/testing-raspberry-pis-ai-kit-13-tops-70"/>
-        <title>Testing Raspberry Pi&#x27;s AI Kit - 13 TOPS for $70</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-06-04T07:06:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-testing-raspberry-pis-ai-kit-13-tops-for-70/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>My stance on (GitHub) Copilot</title>
         <author>
             <name>Martin Chang</name>
@@ -4179,6 +4395,30 @@
       </source>
 
     <id>https://news.cryptic.io/ed-zitron-the-rotcom-bubble/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Reader feedback: feed reader scores and &quot;like&quot; buttons</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-03T09:13:25+00:00</published>
+    <updated>2024-06-03T09:13:25+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-reader-feedback-feed-reader-scores-and-like-buttons/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-reader-feedback-feed-reader-scores-and-like-buttons/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/03/feedback/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/03/feedback/"/>
+        <title>Reader feedback: feed reader scores and &quot;like&quot; buttons</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-03T09:13:25+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-reader-feedback-feed-reader-scores-and-like-buttons/</id>
     <content type="html">
         
     </content>
@@ -4419,6 +4659,30 @@
       </source>
 
     <id>https://news.cryptic.io/allen-pike-llms-arent-just-trained-on-the-internet-anymore/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The feed reader score service is now online</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-05-31T02:24:19+00:00</published>
+    <updated>2024-05-31T02:24:19+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-the-feed-reader-score-service-is-now-online/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-the-feed-reader-score-service-is-now-online/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/05/30/fs/</id>
+        <link href="https://rachelbythebay.com/w/2024/05/30/fs/"/>
+        <title>The feed reader score service is now online</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-05-31T02:24:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-the-feed-reader-score-service-is-now-online/</id>
     <content type="html">
         
     </content>
@@ -6771,6 +7035,30 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-fdos-conduct-enforcement-actions-regarding-vaxry/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>my deployment platform is a shell script</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+    <published>2024-04-09T00:00:00+00:00</published>
+    <updated>2024-04-09T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jes-olson-my-deployment-platform-is-a-shell-script/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jes-olson-my-deployment-platform-is-a-shell-script/" type="text/html"/>
+      <source>
+        <id>https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html</id>
+        <link href="https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html"/>
+        <title>my deployment platform is a shell script</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+        <updated>2024-04-09T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jes-olson-my-deployment-platform-is-a-shell-script/</id>
     <content type="html">
         
     </content>
@@ -11532,6 +11820,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>recover lost text by coredumping firefox</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+    <published>2023-10-20T00:00:00+00:00</published>
+    <updated>2023-10-20T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jes-olson-recover-lost-text-by-coredumping-firefox/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jes-olson-recover-lost-text-by-coredumping-firefox/" type="text/html"/>
+      <source>
+        <id>https://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html</id>
+        <link href="https://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html"/>
+        <title>recover lost text by coredumping firefox</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+        <updated>2023-10-20T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jes-olson-recover-lost-text-by-coredumping-firefox/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>BFS zero-to-hero, part 2: snake</title>
         <author>
             <name>andersource</name>
@@ -11675,6 +11987,30 @@
       </source>
 
     <id>https://news.cryptic.io/apenwarr-interesting/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>shell tip: print json with printf</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+    <published>2023-10-06T00:00:00+00:00</published>
+    <updated>2023-10-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jes-olson-shell-tip-print-json-with-printf/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jes-olson-shell-tip-print-json-with-printf/" type="text/html"/>
+      <source>
+        <id>https://j3s.sh/thought/shell-tip-print-json-with-printf.html</id>
+        <link href="https://j3s.sh/thought/shell-tip-print-json-with-printf.html"/>
+        <title>shell tip: print json with printf</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+        <updated>2023-10-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jes-olson-shell-tip-print-json-with-printf/</id>
     <content type="html">
         
     </content>
@@ -13632,6 +13968,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>vore: a new rss feed reader</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+    <published>2023-03-20T00:00:00+00:00</published>
+    <updated>2023-03-20T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jes-olson-vore-a-new-rss-feed-reader/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jes-olson-vore-a-new-rss-feed-reader/" type="text/html"/>
+      <source>
+        <id>https://j3s.sh/thought/vore-a-new-rss-feed-reader.html</id>
+        <link href="https://j3s.sh/thought/vore-a-new-rss-feed-reader.html"/>
+        <title>vore: a new rss feed reader</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+        <updated>2023-03-20T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jes-olson-vore-a-new-rss-feed-reader/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The undocumented Android change that led to aCropalypse was reported during the beta</title>
         <author>
             <name>iliana etaoin</name>
@@ -13723,6 +14083,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-how-to-make-your-smartphone-boring/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>write posix shell</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+    <published>2023-03-10T00:00:00+00:00</published>
+    <updated>2023-03-10T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jes-olson-write-posix-shell/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jes-olson-write-posix-shell/" type="text/html"/>
+      <source>
+        <id>https://j3s.sh/thought/write-posix-shell.html</id>
+        <link href="https://j3s.sh/thought/write-posix-shell.html"/>
+        <title>write posix shell</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+        <updated>2023-03-10T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jes-olson-write-posix-shell/</id>
     <content type="html">
         
     </content>
@@ -14664,6 +15048,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>.io domains considered harmful</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+    <published>2022-11-14T00:00:00+00:00</published>
+    <updated>2022-11-14T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jes-olson-io-domains-considered-harmful/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jes-olson-io-domains-considered-harmful/" type="text/html"/>
+      <source>
+        <id>https://j3s.sh/thought/.io-domains-considered-harmful.html</id>
+        <link href="https://j3s.sh/thought/.io-domains-considered-harmful.html"/>
+        <title>.io domains considered harmful</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+        <updated>2022-11-14T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jes-olson-io-domains-considered-harmful/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Storage Space PSA for Mastodon Admins</title>
         <author>
             <name>Wesley Aptekar-Cassels</name>
@@ -15072,6 +15480,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>drones run linux: the free software movement isn&#x27;t enough</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+    <published>2022-09-16T00:00:00+00:00</published>
+    <updated>2022-09-16T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jes-olson-drones-run-linux-the-free-software-movement-isnt-enough/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jes-olson-drones-run-linux-the-free-software-movement-isnt-enough/" type="text/html"/>
+      <source>
+        <id>https://j3s.sh/thought/drones-run-linux-free-software-isnt-enough.html</id>
+        <link href="https://j3s.sh/thought/drones-run-linux-free-software-isnt-enough.html"/>
+        <title>drones run linux: the free software movement isn&#x27;t enough</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+        <updated>2022-09-16T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jes-olson-drones-run-linux-the-free-software-movement-isnt-enough/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Book Review: Fundamentals of Software Architecture</title>
         <author>
             <name>Chris Kiehl</name>
@@ -15259,6 +15691,30 @@
       </source>
 
     <id>https://news.cryptic.io/mechatronicsguy-roadside-picnic-a-nitpick-on-how-to-shoot-the-earth/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>the constantly collapsing horizon</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+    <published>2022-07-31T00:00:00+00:00</published>
+    <updated>2022-07-31T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jes-olson-the-constantly-collapsing-horizon/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jes-olson-the-constantly-collapsing-horizon/" type="text/html"/>
+      <source>
+        <id>https://j3s.sh/thought/the-constantly-collapsing-horizon.html</id>
+        <link href="https://j3s.sh/thought/the-constantly-collapsing-horizon.html"/>
+        <title>the constantly collapsing horizon</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+        <updated>2022-07-31T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jes-olson-the-constantly-collapsing-horizon/</id>
     <content type="html">
         
     </content>
@@ -16123,6 +16579,30 @@
       </source>
 
     <id>https://news.cryptic.io/wesley-aptekarcassels-subdomains-as-identity/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>my website is one binary</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+    <published>2022-04-06T00:00:00+00:00</published>
+    <updated>2022-04-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jes-olson-my-website-is-one-binary/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jes-olson-my-website-is-one-binary/" type="text/html"/>
+      <source>
+        <id>https://j3s.sh/thought/my-website-is-one-binary.html</id>
+        <link href="https://j3s.sh/thought/my-website-is-one-binary.html"/>
+        <title>my website is one binary</title>
+        <author>
+            <name>Jes Olson</name>
+        </author>
+        <updated>2022-04-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jes-olson-my-website-is-one-binary/</id>
     <content type="html">
         
     </content>
