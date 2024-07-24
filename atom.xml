@@ -1672,8 +1672,8 @@
     <link href="https://news.cryptic.io/nutcroft-an-ontology-of-political-decisions/"/>
     <link rel="alternate" href="https://news.cryptic.io/nutcroft-an-ontology-of-political-decisions/" type="text/html"/>
       <source>
-        <id>https://nutcroft.mataroa.blog/blog/an-ontology-of-political-decisions/</id>
-        <link href="https://nutcroft.mataroa.blog/blog/an-ontology-of-political-decisions/"/>
+        <id>https://nutcroft.com/blog/an-ontology-of-political-decisions/</id>
+        <link href="https://nutcroft.com/blog/an-ontology-of-political-decisions/"/>
         <title>An ontology of political decisions</title>
         <author>
             <name>nutcroft</name>
@@ -2071,6 +2071,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Highlighting Blogging on Mastodon</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2024-07-02T22:27:00+00:00</published>
+    <updated>2024-07-02T22:27:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-highlighting-blogging-on-mastodon/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-highlighting-blogging-on-mastodon/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/highlighting-blogging-on-mastodon</id>
+        <link href="https://matthiasott.com/notes/highlighting-blogging-on-mastodon"/>
+        <title>Highlighting Blogging on Mastodon</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2024-07-02T22:27:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-highlighting-blogging-on-mastodon/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Installing Ansible on a RISC-V computer</title>
         <author>
             <name>Jeff Geerling</name>
@@ -2272,8 +2296,8 @@
     <link href="https://news.cryptic.io/nutcroft-introducing-shoshin-college/"/>
     <link rel="alternate" href="https://news.cryptic.io/nutcroft-introducing-shoshin-college/" type="text/html"/>
       <source>
-        <id>https://nutcroft.mataroa.blog/blog/introducing-shoshin-college/</id>
-        <link href="https://nutcroft.mataroa.blog/blog/introducing-shoshin-college/"/>
+        <id>https://nutcroft.com/blog/introducing-shoshin-college/</id>
+        <link href="https://nutcroft.com/blog/introducing-shoshin-college/"/>
         <title>Introducing Shoshin College</title>
         <author>
             <name>nutcroft</name>
@@ -6521,8 +6545,8 @@
     <link href="https://news.cryptic.io/nutcroft-letter-to-an-engineer-on-conversations-of-debate-and-exploration/"/>
     <link rel="alternate" href="https://news.cryptic.io/nutcroft-letter-to-an-engineer-on-conversations-of-debate-and-exploration/" type="text/html"/>
       <source>
-        <id>https://nutcroft.mataroa.blog/blog/letter-to-an-engineer-on-conversations-of-debate-and-exploration/</id>
-        <link href="https://nutcroft.mataroa.blog/blog/letter-to-an-engineer-on-conversations-of-debate-and-exploration/"/>
+        <id>https://nutcroft.com/blog/letter-to-an-engineer-on-conversations-of-debate-and-exploration/</id>
+        <link href="https://nutcroft.com/blog/letter-to-an-engineer-on-conversations-of-debate-and-exploration/"/>
         <title>Letter to an engineer: on conversations of debate and exploration</title>
         <author>
             <name>nutcroft</name>
@@ -7121,8 +7145,8 @@
     <link href="https://news.cryptic.io/nutcroft-for-the-joy-of-making-it/"/>
     <link rel="alternate" href="https://news.cryptic.io/nutcroft-for-the-joy-of-making-it/" type="text/html"/>
       <source>
-        <id>https://nutcroft.mataroa.blog/blog/for-the-joy-of-making-it/</id>
-        <link href="https://nutcroft.mataroa.blog/blog/for-the-joy-of-making-it/"/>
+        <id>https://nutcroft.com/blog/for-the-joy-of-making-it/</id>
+        <link href="https://nutcroft.com/blog/for-the-joy-of-making-it/"/>
         <title>For the joy of making it</title>
         <author>
             <name>nutcroft</name>
@@ -7520,6 +7544,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Fixing the Logitech Spotlight</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2024-03-19T22:28:00+00:00</published>
+    <updated>2024-03-19T22:28:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-fixing-the-logitech-spotlight/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-fixing-the-logitech-spotlight/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/fixing-the-logitech-spotlight</id>
+        <link href="https://matthiasott.com/notes/fixing-the-logitech-spotlight"/>
+        <title>Fixing the Logitech Spotlight</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2024-03-19T22:28:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-fixing-the-logitech-spotlight/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>policy on adding AI generated content to my software projects</title>
         <author>
             <name>Joey Hess</name>
@@ -7568,6 +7616,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Making Own Your Web More Sustainable</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2024-03-16T00:21:41+00:00</published>
+    <updated>2024-03-16T00:21:41+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-making-own-your-web-more-sustainable/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-making-own-your-web-more-sustainable/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/making-own-your-web-more-sustainable</id>
+        <link href="https://matthiasott.com/notes/making-own-your-web-more-sustainable"/>
+        <title>Making Own Your Web More Sustainable</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2024-03-16T00:21:41+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-making-own-your-web-more-sustainable/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How web bloat impacts users with slow devices</title>
         <author>
             <name>Dan Luu</name>
@@ -7611,6 +7683,54 @@
       </source>
 
     <id>https://news.cryptic.io/degrowther-python-question-argv-in-main/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Welcome to the IndieWeb</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2024-03-14T16:36:43+00:00</published>
+    <updated>2024-03-14T16:36:43+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-welcome-to-the-indieweb/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-welcome-to-the-indieweb/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/welcome-to-the-indieweb</id>
+        <link href="https://matthiasott.com/notes/welcome-to-the-indieweb"/>
+        <title>Welcome to the IndieWeb</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2024-03-14T16:36:43+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-welcome-to-the-indieweb/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Links Worth Sharing</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2024-03-14T16:33:00+00:00</published>
+    <updated>2024-03-14T16:33:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-links-worth-sharing/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-links-worth-sharing/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/links-worth-sharing</id>
+        <link href="https://matthiasott.com/notes/links-worth-sharing"/>
+        <title>Links Worth Sharing</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2024-03-14T16:33:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-links-worth-sharing/</id>
     <content type="html">
         
     </content>
@@ -8600,6 +8720,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>We ❤️ RSS</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2024-02-14T15:45:00+00:00</published>
+    <updated>2024-02-14T15:45:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-we-rss/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-we-rss/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/we-love-rss</id>
+        <link href="https://matthiasott.com/notes/we-love-rss"/>
+        <title>We ❤️ RSS</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2024-02-14T15:45:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-we-rss/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>PINs for Cryptography with Hardware Secure Elements</title>
         <author>
             <name>Filippo Valsorda</name>
@@ -9401,8 +9545,8 @@
     <link href="https://news.cryptic.io/nutcroft-when-hope-and-gloom-unite/"/>
     <link rel="alternate" href="https://news.cryptic.io/nutcroft-when-hope-and-gloom-unite/" type="text/html"/>
       <source>
-        <id>https://nutcroft.mataroa.blog/blog/when-hope-and-gloom-unite/</id>
-        <link href="https://nutcroft.mataroa.blog/blog/when-hope-and-gloom-unite/"/>
+        <id>https://nutcroft.com/blog/when-hope-and-gloom-unite/</id>
+        <link href="https://nutcroft.com/blog/when-hope-and-gloom-unite/"/>
         <title>When hope and gloom unite</title>
         <author>
             <name>nutcroft</name>
@@ -9608,6 +9752,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>All Things Being Equalized</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2024-01-10T00:28:42+00:00</published>
+    <updated>2024-01-10T00:28:42+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-all-things-being-equalized/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-all-things-being-equalized/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/all-things-being-equalized</id>
+        <link href="https://matthiasott.com/notes/all-things-being-equalized"/>
+        <title>All Things Being Equalized</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2024-01-10T00:28:42+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-all-things-being-equalized/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Automatically hyperlinking the selected text when pasting a URL</title>
         <author>
             <name>mendhak</name>
@@ -9632,6 +9800,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>42 for 42</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2024-01-08T01:33:00+00:00</published>
+    <updated>2024-01-08T01:33:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-42-for-42/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-42-for-42/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/42-for-42</id>
+        <link href="https://matthiasott.com/notes/42-for-42"/>
+        <title>42 for 42</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2024-01-08T01:33:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-42-for-42/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Sleeping through a decade of Cocoa: Retrospective from modernizing an old Mac app</title>
         <author>
             <name>Various</name>
@@ -9651,6 +9843,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Tour De-Noise</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2024-01-07T14:34:00+00:00</published>
+    <updated>2024-01-07T14:34:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-tour-denoise/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-tour-denoise/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/tour-de-noise</id>
+        <link href="https://matthiasott.com/notes/tour-de-noise"/>
+        <title>Tour De-Noise</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2024-01-07T14:34:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-tour-denoise/</id>
     <content type="html">
         
     </content>
@@ -9713,8 +9929,8 @@
     <link href="https://news.cryptic.io/nutcroft-manifesting-democracy/"/>
     <link rel="alternate" href="https://news.cryptic.io/nutcroft-manifesting-democracy/" type="text/html"/>
       <source>
-        <id>https://nutcroft.mataroa.blog/blog/manifesting-democracy/</id>
-        <link href="https://nutcroft.mataroa.blog/blog/manifesting-democracy/"/>
+        <id>https://nutcroft.com/blog/manifesting-democracy/</id>
+        <link href="https://nutcroft.com/blog/manifesting-democracy/"/>
         <title>Manifesting democracy</title>
         <author>
             <name>nutcroft</name>
@@ -9771,6 +9987,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-fixing-returnal-hanging-at-a-black-screen/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>What’s Too Good to Be True?</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+    <published>2024-01-04T01:23:59+00:00</published>
+    <updated>2024-01-04T01:23:59+00:00</updated>
+    <link href="https://news.cryptic.io/matthiasott-whats-too-good-to-be-true/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthiasott-whats-too-good-to-be-true/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/whats-too-good-to-be-true</id>
+        <link href="https://matthiasott.com/notes/whats-too-good-to-be-true"/>
+        <title>What’s Too Good to Be True?</title>
+        <author>
+            <name>matthiasott</name>
+        </author>
+        <updated>2024-01-04T01:23:59+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthiasott-whats-too-good-to-be-true/</id>
     <content type="html">
         
     </content>
@@ -9929,8 +10169,8 @@
     <link href="https://news.cryptic.io/nutcroft-on-the-essence-of-decisions-and-hope/"/>
     <link rel="alternate" href="https://news.cryptic.io/nutcroft-on-the-essence-of-decisions-and-hope/" type="text/html"/>
       <source>
-        <id>https://nutcroft.mataroa.blog/blog/on-the-essence-of-decisions-and-hope/</id>
-        <link href="https://nutcroft.mataroa.blog/blog/on-the-essence-of-decisions-and-hope/"/>
+        <id>https://nutcroft.com/blog/on-the-essence-of-decisions-and-hope/</id>
+        <link href="https://nutcroft.com/blog/on-the-essence-of-decisions-and-hope/"/>
         <title>On the essence of decisions and hope</title>
         <author>
             <name>nutcroft</name>
@@ -10457,8 +10697,8 @@
     <link href="https://news.cryptic.io/nutcroft-applied-anthropology/"/>
     <link rel="alternate" href="https://news.cryptic.io/nutcroft-applied-anthropology/" type="text/html"/>
       <source>
-        <id>https://nutcroft.mataroa.blog/blog/applied-anthropology/</id>
-        <link href="https://nutcroft.mataroa.blog/blog/applied-anthropology/"/>
+        <id>https://nutcroft.com/blog/applied-anthropology/</id>
+        <link href="https://nutcroft.com/blog/applied-anthropology/"/>
         <title>Applied anthropology</title>
         <author>
             <name>nutcroft</name>
@@ -12313,8 +12553,8 @@
     <link href="https://news.cryptic.io/nutcroft-laniakea-books-public-domain-books-for-everyone/"/>
     <link rel="alternate" href="https://news.cryptic.io/nutcroft-laniakea-books-public-domain-books-for-everyone/" type="text/html"/>
       <source>
-        <id>https://nutcroft.mataroa.blog/blog/laniakea-books-public-domain-books-for-everyone/</id>
-        <link href="https://nutcroft.mataroa.blog/blog/laniakea-books-public-domain-books-for-everyone/"/>
+        <id>https://nutcroft.com/blog/laniakea-books-public-domain-books-for-everyone/</id>
+        <link href="https://nutcroft.com/blog/laniakea-books-public-domain-books-for-everyone/"/>
         <title>Laniakea Books: Public domain books for everyone</title>
         <author>
             <name>nutcroft</name>
@@ -12705,8 +12945,8 @@
     <link href="https://news.cryptic.io/nutcroft-a-birthday-invitation/"/>
     <link rel="alternate" href="https://news.cryptic.io/nutcroft-a-birthday-invitation/" type="text/html"/>
       <source>
-        <id>https://nutcroft.mataroa.blog/blog/a-birthday-invitation/</id>
-        <link href="https://nutcroft.mataroa.blog/blog/a-birthday-invitation/"/>
+        <id>https://nutcroft.com/blog/a-birthday-invitation/</id>
+        <link href="https://nutcroft.com/blog/a-birthday-invitation/"/>
         <title>A birthday invitation</title>
         <author>
             <name>nutcroft</name>
