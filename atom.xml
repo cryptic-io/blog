@@ -55,6 +55,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>How I Use Git Worktrees</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2024-07-25T00:00:00+00:00</published>
+    <updated>2024-07-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-how-i-use-git-worktrees/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-how-i-use-git-worktrees/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2024/07/25/git-worktrees.html</id>
+        <link href="https://matklad.github.io/2024/07/25/git-worktrees.html"/>
+        <title>How I Use Git Worktrees</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2024-07-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-how-i-use-git-worktrees/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Is there a homeless crisis?</title>
         <author>
             <name>dynomight</name>
@@ -10227,30 +10251,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-git-things/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>O(1) Build File</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2023-12-31T00:00:00+00:00</published>
-    <updated>2023-12-31T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-o1-build-file/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-o1-build-file/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2023/12/31/O(1)-build-file.html</id>
-        <link href="https://matklad.github.io/2023/12/31/O(1)-build-file.html"/>
-        <title>O(1) Build File</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2023-12-31T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-o1-build-file/</id>
     <content type="html">
         
     </content>
