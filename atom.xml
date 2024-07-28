@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-27T17:02:33+00:00</updated>
+  <updated>2024-07-28T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>My most useful network troubleshooting commands and tools</title>
+        <author>
+            <name>mendhak</name>
+        </author>
+    <published>2024-07-28T00:00:00+00:00</published>
+    <updated>2024-07-28T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/mendhak-my-most-useful-network-troubleshooting-commands-and-tools/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mendhak-my-most-useful-network-troubleshooting-commands-and-tools/" type="text/html"/>
+      <source>
+        <id>https://code.mendhak.com/networking-cheat-sheet/</id>
+        <link href="https://code.mendhak.com/networking-cheat-sheet/"/>
+        <title>My most useful network troubleshooting commands and tools</title>
+        <author>
+            <name>mendhak</name>
+        </author>
+        <updated>2024-07-28T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mendhak-my-most-useful-network-troubleshooting-commands-and-tools/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The story is a codebase</title>
         <author>
@@ -11963,30 +11987,6 @@
       </source>
 
     <id>https://news.cryptic.io/james-brown-vaccinated-again/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Using a local LLM to Automate an Android device</title>
-        <author>
-            <name>mendhak</name>
-        </author>
-    <published>2023-09-19T00:00:00+00:00</published>
-    <updated>2023-09-19T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mendhak-using-a-local-llm-to-automate-an-android-device/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mendhak-using-a-local-llm-to-automate-an-android-device/" type="text/html"/>
-      <source>
-        <id>https://code.mendhak.com/automate-android-with-local-llm/</id>
-        <link href="https://code.mendhak.com/automate-android-with-local-llm/"/>
-        <title>Using a local LLM to Automate an Android device</title>
-        <author>
-            <name>mendhak</name>
-        </author>
-        <updated>2023-09-19T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mendhak-using-a-local-llm-to-automate-an-android-device/</id>
     <content type="html">
         
     </content>
