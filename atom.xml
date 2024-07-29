@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-28T15:21:53+00:00</updated>
+  <updated>2024-07-29T13:35:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Thoughts on politics and communities</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-07-29T13:35:00+00:00</published>
+    <updated>2024-07-29T13:35:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-thoughts-on-politics-and-communities/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-thoughts-on-politics-and-communities/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/jaNItxY78PjwUEcx</id>
+        <link href="https://manuelmoreale.com/@/page/jaNItxY78PjwUEcx"/>
+        <title>Thoughts on politics and communities</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-07-29T13:35:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-thoughts-on-politics-and-communities/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Is it okay to make connectedCallback async?</title>
         <author>
@@ -1543,6 +1567,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Fixing electron apps and Steam not working on Wayland (Arch Linux, RDNA3, AMDGPU, broken Vulkan)</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-07-11T04:00:00+00:00</published>
+    <updated>2024-07-11T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-fixing-electron-apps-and-steam-not-working-on-wayland-arch-linux-rdna3-amdgpu-broken-vulkan/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-fixing-electron-apps-and-steam-not-working-on-wayland-arch-linux-rdna3-amdgpu-broken-vulkan/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/07-11-fixing-electron-apps-and-steam-not-working-on-wayland.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/07-11-fixing-electron-apps-and-steam-not-working-on-wayland.gmi"/>
+        <title>Fixing electron apps and Steam not working on Wayland (Arch Linux, RDNA3, AMDGPU, broken Vulkan)</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-07-11T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-fixing-electron-apps-and-steam-not-working-on-wayland-arch-linux-rdna3-amdgpu-broken-vulkan/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>If AI chatbots are the future, I hate it</title>
         <author>
             <name>Jeff Geerling</name>
@@ -1730,30 +1778,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-q-numbers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A moment walking towards the sunset</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-07-09T18:15:00+00:00</published>
-    <updated>2024-07-09T18:15:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-walking-towards-the-sunset/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-walking-towards-the-sunset/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/VsoqxkIPE2bjwU1t</id>
-        <link href="https://manuelmoreale.com/@/page/VsoqxkIPE2bjwU1t"/>
-        <title>A moment walking towards the sunset</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-07-09T18:15:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-walking-towards-the-sunset/</id>
     <content type="html">
         
     </content>
@@ -1970,6 +1994,30 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-my-fears-about-ai-are-not-what-you-think/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A gentle guide on getting your Tenstorrent card running on Arch Linux (with the Metalium stack)</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-07-07T04:00:00+00:00</published>
+    <updated>2024-07-07T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/07-07-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/07-07-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack.gmi"/>
+        <title>A gentle guide on getting your Tenstorrent card running on Arch Linux (with the Metalium stack)</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-07-07T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack/</id>
     <content type="html">
         
     </content>
@@ -3560,6 +3608,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Slides for April talk at NSYSU for AI inference</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-06-18T04:00:00+00:00</published>
+    <updated>2024-06-18T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-slides-for-april-talk-at-nsysu-for-ai-inference/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-slides-for-april-talk-at-nsysu-for-ai-inference/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/06-18-slides-for-april-talk-at-nsysu-for-ai-inference.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/06-18-slides-for-april-talk-at-nsysu-for-ai-inference.gmi"/>
+        <title>Slides for April talk at NSYSU for AI inference</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-06-18T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-slides-for-april-talk-at-nsysu-for-ai-inference/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Epsilon Love</title>
         <author>
             <name>Tim Bray</name>
@@ -4232,6 +4304,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Compare nlohmann&#x2F;json to Glaze</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-06-09T04:00:00+00:00</published>
+    <updated>2024-06-09T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-compare-nlohmannjson-to-glaze/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-compare-nlohmannjson-to-glaze/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/06-09-compare-nlohmann-json-to-glaze.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/06-09-compare-nlohmann-json-to-glaze.gmi"/>
+        <title>Compare nlohmann&#x2F;json to Glaze</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-06-09T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-compare-nlohmannjson-to-glaze/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>A Simple Script to Initialize nix-Based Projects</title>
         <author>
             <name>mediocregopher</name>
@@ -4544,6 +4640,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>My stance on (GitHub) Copilot</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-06-04T04:00:00+00:00</published>
+    <updated>2024-06-04T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-my-stance-on-github-copilot/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-my-stance-on-github-copilot/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/06-04-my-stance-on-github-copilot.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/06-04-my-stance-on-github-copilot.gmi"/>
+        <title>My stance on (GitHub) Copilot</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-06-04T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-my-stance-on-github-copilot/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Regular, Recursive, Restricted</title>
         <author>
             <name>Alex Kladov</name>
@@ -4640,6 +4760,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Pledging OpenGL applications on OpenBSD</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-06-03T04:00:00+00:00</published>
+    <updated>2024-06-03T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-pledging-opengl-applications-on-openbsd/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-pledging-opengl-applications-on-openbsd/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/06-03-pledging-opengl-applications-on-openbsd.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/06-03-pledging-opengl-applications-on-openbsd.gmi"/>
+        <title>Pledging OpenGL applications on OpenBSD</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-06-03T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-pledging-opengl-applications-on-openbsd/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Why Can’t Programmers Agree on Anything?</title>
         <author>
             <name>Jesse Duffield</name>
@@ -4659,6 +4803,30 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-why-cant-programmers-agree-on-anything/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Thoughts and logs after messing with Tenstorrent Grayskull</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-06-02T04:00:00+00:00</published>
+    <updated>2024-06-02T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-thoughts-and-logs-after-messing-with-tenstorrent-grayskull/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-thoughts-and-logs-after-messing-with-tenstorrent-grayskull/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/06-02-thoughts-and-logs-after-messing-with-tenstorrent-grayskull.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/06-02-thoughts-and-logs-after-messing-with-tenstorrent-grayskull.gmi"/>
+        <title>Thoughts and logs after messing with Tenstorrent Grayskull</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-06-02T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-thoughts-and-logs-after-messing-with-tenstorrent-grayskull/</id>
     <content type="html">
         
     </content>
@@ -5019,6 +5187,30 @@
       </source>
 
     <id>https://news.cryptic.io/linus-lee-in-the-beginning-was-the-command-line/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Librem 5 is.. not that bad?</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-05-27T04:00:00+00:00</published>
+    <updated>2024-05-27T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-the-librem-5-is-not-that-bad/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-the-librem-5-is-not-that-bad/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/05-27-the-librem-5-is-not-that-bad.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/05-27-the-librem-5-is-not-that-bad.gmi"/>
+        <title>The Librem 5 is.. not that bad?</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-05-27T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-the-librem-5-is-not-that-bad/</id>
     <content type="html">
         
     </content>
@@ -5715,6 +5907,30 @@
       </source>
 
     <id>https://news.cryptic.io/rodrigo-ghedin-taming-read-later-apps/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Asynchronously read STDIN in Drogon&#x2F;Trantor</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-05-15T04:00:00+00:00</published>
+    <updated>2024-05-15T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-asynchronously-read-stdin-in-drogontrantor/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-asynchronously-read-stdin-in-drogontrantor/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/05-15-asynchronously-readi-stdin-in-drogon-trantor.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/05-15-asynchronously-readi-stdin-in-drogon-trantor.gmi"/>
+        <title>Asynchronously read STDIN in Drogon&#x2F;Trantor</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-05-15T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-asynchronously-read-stdin-in-drogontrantor/</id>
     <content type="html">
         
     </content>
@@ -7227,6 +7443,30 @@
       </source>
 
     <id>https://news.cryptic.io/tyler-cipriani-my-eclipse-photography-plan/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>My Vodka teir list</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-03-31T04:00:00+00:00</published>
+    <updated>2024-03-31T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-my-vodka-teir-list/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-my-vodka-teir-list/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/03-31-my-vodka-teir-list.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/03-31-my-vodka-teir-list.gmi"/>
+        <title>My Vodka teir list</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-03-31T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-my-vodka-teir-list/</id>
     <content type="html">
         
     </content>
