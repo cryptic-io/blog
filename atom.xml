@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-29T16:03:21+00:00</updated>
+  <updated>2024-07-30T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Understanding the Gemini request and response (COSCUP 2024 draft)</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-07-30T04:00:00+00:00</published>
+    <updated>2024-07-30T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-understanding-the-gemini-request-and-response-coscup-2024-draft/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-understanding-the-gemini-request-and-response-coscup-2024-draft/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/07-30-understanding-the-gemini-request-and-response-coscup-2024-draft.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/07-30-understanding-the-gemini-request-and-response-coscup-2024-draft.gmi"/>
+        <title>Understanding the Gemini request and response (COSCUP 2024 draft)</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-07-30T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-understanding-the-gemini-request-and-response-coscup-2024-draft/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>How Does OpenAI Survive?</title>
         <author>
@@ -50,6 +74,30 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-thoughts-on-politics-and-communities/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Union of Finite Automata</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2024-07-28T19:00:00+00:00</published>
+    <updated>2024-07-28T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-union-of-finite-automata/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-union-of-finite-automata/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2024/07/28/Union-of-Finite-Automata</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2024/07/28/Union-of-Finite-Automata"/>
+        <title>Union of Finite Automata</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2024-07-28T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-union-of-finite-automata/</id>
     <content type="html">
         
     </content>
@@ -5576,30 +5624,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Colors of Racism</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2024-05-17T19:00:00+00:00</published>
-    <updated>2024-05-17T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-the-colors-of-racism/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-the-colors-of-racism/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2024/05/17/Colors-of-Racism</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2024/05/17/Colors-of-Racism"/>
-        <title>The Colors of Racism</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2024-05-17T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-the-colors-of-racism/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Horst Wessel and John Birch</title>
         <author>
             <name>Mark Dominus</name>
@@ -7227,30 +7251,6 @@
       </source>
 
     <id>https://news.cryptic.io/tyler-cipriani-my-eclipse-photography-plan/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>My Vodka teir list</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-03-31T04:00:00+00:00</published>
-    <updated>2024-03-31T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-my-vodka-teir-list/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-my-vodka-teir-list/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/03-31-my-vodka-teir-list.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/03-31-my-vodka-teir-list.gmi"/>
-        <title>My Vodka teir list</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-03-31T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-my-vodka-teir-list/</id>
     <content type="html">
         
     </content>
