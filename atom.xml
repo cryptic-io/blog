@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-30T14:40:50+00:00</updated>
+  <updated>2024-07-30T17:47:08+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Album Of The Week: Navy Blue Memoirs In Armour</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+    <published>2024-07-30T17:47:08+00:00</published>
+    <updated>2024-07-30T17:47:08+00:00</updated>
+    <link href="https://news.cryptic.io/stereogum-album-of-the-week-navy-blue-memoirs-in-armour/"/>
+    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-navy-blue-memoirs-in-armour/" type="text/html"/>
+      <source>
+        <id>https://www.stereogum.com/2273199/album-of-the-week-navy-blue-memoirs-in-armour/reviews/album-of-the-week/</id>
+        <link href="https://www.stereogum.com/2273199/album-of-the-week-navy-blue-memoirs-in-armour/reviews/album-of-the-week/"/>
+        <title>Album Of The Week: Navy Blue Memoirs In Armour</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+        <updated>2024-07-30T17:47:08+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/stereogum-album-of-the-week-navy-blue-memoirs-in-armour/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Fixing curl install failures with Ansible on Red Hat-derivative OSes</title>
         <author>
@@ -5403,30 +5427,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-nocode-will-not-bring-computing-to-the-masses/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Album Of The Week: DIIV Frog In Boiling Water</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-05-21T15:40:03+00:00</published>
-    <updated>2024-05-21T15:40:03+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-diiv-frog-in-boiling-water/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-diiv-frog-in-boiling-water/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2264006/diiv-frog-in-boiling-water-review/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2264006/diiv-frog-in-boiling-water-review/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: DIIV Frog In Boiling Water</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-05-21T15:40:03+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-diiv-frog-in-boiling-water/</id>
     <content type="html">
         
     </content>
