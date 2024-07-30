@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-30T14:02:57+00:00</updated>
+  <updated>2024-07-30T14:40:50+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Fixing curl install failures with Ansible on Red Hat-derivative OSes</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-07-30T14:40:50+00:00</published>
+    <updated>2024-07-30T14:40:50+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-fixing-curl-install-failures-with-ansible-on-red-hatderivative-oses/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-fixing-curl-install-failures-with-ansible-on-red-hatderivative-oses/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/fixing-curl-install-failures-ansible-on-red-hat-derivative-oses</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/fixing-curl-install-failures-ansible-on-red-hat-derivative-oses"/>
+        <title>Fixing curl install failures with Ansible on Red Hat-derivative OSes</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-07-30T14:40:50+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-fixing-curl-install-failures-with-ansible-on-red-hatderivative-oses/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Hacking Pi firmware to get the fastest overclock</title>
         <author>
@@ -2720,30 +2744,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Setting up Gitea on Kubernetes from scratch</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-06-30T00:00:00+00:00</published>
-    <updated>2024-06-30T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-setting-up-gitea-on-kubernetes-from-scratch/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-setting-up-gitea-on-kubernetes-from-scratch/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/vods/2024/gitea-k8s/</id>
-        <link href="https://xeiaso.net/vods/2024/gitea-k8s/"/>
-        <title>Setting up Gitea on Kubernetes from scratch</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-06-30T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-setting-up-gitea-on-kubernetes-from-scratch/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Instability</title>
         <author>
             <name>Robin Rendle</name>
@@ -4059,30 +4059,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-making-a-bignum-library-for-fun/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Giving away 480 Raspberry Pis was harder than I expected</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-06-13T20:27:26+00:00</published>
-    <updated>2024-06-13T20:27:26+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-giving-away-480-raspberry-pis-was-harder-than-i-expected/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-giving-away-480-raspberry-pis-was-harder-than-i-expected/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/giving-away-480-raspberry-pis-was-harder-i-expected</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/giving-away-480-raspberry-pis-was-harder-i-expected"/>
-        <title>Giving away 480 Raspberry Pis was harder than I expected</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-06-13T20:27:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-giving-away-480-raspberry-pis-was-harder-than-i-expected/</id>
     <content type="html">
         
     </content>
