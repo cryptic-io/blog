@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-07-31T00:00:00+00:00</updated>
+  <updated>2024-07-31T15:34:39+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Why I prefer rST to markdown</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-07-31T15:34:39+00:00</published>
+    <updated>2024-07-31T15:34:39+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-why-i-prefer-rst-to-markdown/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-why-i-prefer-rst-to-markdown/" type="text/html"/>
+      <source>
+        <id>https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/</id>
+        <link href="https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/"/>
+        <title>Why I prefer rST to markdown</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-07-31T15:34:39+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-why-i-prefer-rst-to-markdown/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>This game would be perfect if it wasn&#x27;t gacha</title>
         <author>
@@ -5426,30 +5450,6 @@
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-feed-and-blogrolls-discovery/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>NoCode Will Not Bring Computing to the Masses</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-05-21T17:54:19+00:00</published>
-    <updated>2024-05-21T17:54:19+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-nocode-will-not-bring-computing-to-the-masses/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-nocode-will-not-bring-computing-to-the-masses/" type="text/html"/>
-      <source>
-        <id>https://buttondown.email/hillelwayne/archive/nocode-will-not-bring-computing-to-the-masses/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/nocode-will-not-bring-computing-to-the-masses/"/>
-        <title>NoCode Will Not Bring Computing to the Masses</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-05-21T17:54:19+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-nocode-will-not-bring-computing-to-the-masses/</id>
     <content type="html">
         
     </content>
