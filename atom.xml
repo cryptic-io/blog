@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-01T13:30:00+00:00</updated>
+  <updated>2024-08-01T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A Whole New World</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2024-08-01T19:00:00+00:00</published>
+    <updated>2024-08-01T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-a-whole-new-world/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-a-whole-new-world/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/posts/a-whole-new-world.gmi</id>
+        <link href="https://mediocregopher.com/posts/a-whole-new-world.gmi"/>
+        <title>A Whole New World</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2024-08-01T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-a-whole-new-world/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Yoko Kanno (菅野よう子): 大航海時代 II (Uncharted Waters: New Horizons) (1993)</title>
         <author>
@@ -10442,30 +10466,6 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-shadow-dom-and-the-problem-of-encapsulation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Digital Tidying: Finding and Fixing Dead Links</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2023-12-30T15:24:05+00:00</published>
-    <updated>2023-12-30T15:24:05+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-digital-tidying-finding-and-fixing-dead-links/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-digital-tidying-finding-and-fixing-dead-links/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/posts/deadlinks.gmi</id>
-        <link href="https://mediocregopher.com/posts/deadlinks.gmi"/>
-        <title>Digital Tidying: Finding and Fixing Dead Links</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2023-12-30T15:24:05+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-digital-tidying-finding-and-fixing-dead-links/</id>
     <content type="html">
         
     </content>
