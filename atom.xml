@@ -79,6 +79,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Matter</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-08-02T00:00:00+00:00</published>
+    <updated>2024-08-02T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-matter/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-matter/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2967/</id>
+        <link href="https://xkcd.com/2967/"/>
+        <title>Matter</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-08-02T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-matter/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>A Whole New World</title>
         <author>
             <name>mediocregopher</name>
@@ -938,30 +962,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-getting-started-with-meshtastic/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>House Inputs and Outputs</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-07-24T00:00:00+00:00</published>
-    <updated>2024-07-24T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-house-inputs-and-outputs/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-house-inputs-and-outputs/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2963/</id>
-        <link href="https://xkcd.com/2963/"/>
-        <title>House Inputs and Outputs</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-07-24T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-house-inputs-and-outputs/</id>
     <content type="html">
         
     </content>
