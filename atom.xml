@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-01T19:00:00+00:00</updated>
+  <updated>2024-08-02T11:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>P&amp;B: Anne Sturdivant</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-08-02T11:00:00+00:00</published>
+    <updated>2024-08-02T11:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-anne-sturdivant/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-anne-sturdivant/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/e4QPxx0pYG6qeLZo</id>
+        <link href="https://manuelmoreale.com/@/page/e4QPxx0pYG6qeLZo"/>
+        <title>P&amp;B: Anne Sturdivant</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-08-02T11:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-anne-sturdivant/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A Review of the PyRadio Internet Radio Application</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2024-08-02T05:34:00+00:00</published>
+    <updated>2024-08-02T05:34:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-a-review-of-the-pyradio-internet-radio-application/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-a-review-of-the-pyradio-internet-radio-application/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/pyradio.html</id>
+        <link href="https://cheapskatesguide.org/articles/pyradio.html"/>
+        <title>A Review of the PyRadio Internet Radio Application</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2024-08-02T05:34:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-a-review-of-the-pyradio-internet-radio-application/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A Whole New World</title>
         <author>
@@ -1826,30 +1874,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-numa-emulation-speeds-up-pi-5-and-other-improvements/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>P&amp;B: Andrew Stephens</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-07-12T11:00:00+00:00</published>
-    <updated>2024-07-12T11:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-andrew-stephens/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-andrew-stephens/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/YhgpWjBBSRTLdjr5</id>
-        <link href="https://manuelmoreale.com/@/page/YhgpWjBBSRTLdjr5"/>
-        <title>P&amp;B: Andrew Stephens</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-07-12T11:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-andrew-stephens/</id>
     <content type="html">
         
     </content>
@@ -5378,30 +5402,6 @@
       </source>
 
     <id>https://news.cryptic.io/rodrigo-ghedin-buttondown-newsletter-software-for-people-like-you-and-me/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to Play Music on a Raspberry Pi Computer</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2024-05-24T06:38:00+00:00</published>
-    <updated>2024-05-24T06:38:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-how-to-play-music-on-a-raspberry-pi-computer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-how-to-play-music-on-a-raspberry-pi-computer/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/sound-on-the-raspberry-pi.html</id>
-        <link href="https://cheapskatesguide.org/articles/sound-on-the-raspberry-pi.html"/>
-        <title>How to Play Music on a Raspberry Pi Computer</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2024-05-24T06:38:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-how-to-play-music-on-a-raspberry-pi-computer/</id>
     <content type="html">
         
     </content>
