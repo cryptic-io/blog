@@ -88,10 +88,6 @@
         <lastmod>2024-03-22T00:00:00Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/alex-kladov-git-things/</loc>
-        <lastmod>2023-12-31T00:00:00Z</lastmod>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/alex-kladov-how-i-use-git-worktrees/</loc>
         <lastmod>2024-07-25T00:00:00Z</lastmod>
     </url>
@@ -102,6 +98,10 @@
     <url>
         <loc>https://news.cryptic.io/alex-kladov-of-rats-and-ratchets/</loc>
         <lastmod>2024-01-03T00:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/alex-kladov-primitive-recursive-functions-for-a-working-programmer/</loc>
+        <lastmod>2024-08-01T00:00:00Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/alex-kladov-properly-testing-concurrent-data-structures/</loc>
@@ -1568,46 +1568,6 @@
         <lastmod>2024-07-19T14:04:14Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/jes-olson-drones-run-linux-the-free-software-movement-isnt-enough/</loc>
-        <lastmod>2022-09-16T00:00:00Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/jes-olson-io-domains-considered-harmful/</loc>
-        <lastmod>2022-11-14T00:00:00Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/jes-olson-my-deployment-platform-is-a-shell-script/</loc>
-        <lastmod>2024-04-09T00:00:00Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/jes-olson-my-website-is-one-binary/</loc>
-        <lastmod>2022-04-06T00:00:00Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/jes-olson-recover-lost-text-by-coredumping-firefox/</loc>
-        <lastmod>2023-10-20T00:00:00Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/jes-olson-shell-tip-print-json-with-printf/</loc>
-        <lastmod>2023-10-06T00:00:00Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/jes-olson-stop-using-fandom/</loc>
-        <lastmod>2024-06-16T00:00:00Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/jes-olson-the-constantly-collapsing-horizon/</loc>
-        <lastmod>2022-07-31T00:00:00Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/jes-olson-vore-a-new-rss-feed-reader/</loc>
-        <lastmod>2023-03-20T00:00:00Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/jes-olson-write-posix-shell/</loc>
-        <lastmod>2023-03-10T00:00:00Z</lastmod>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/jesse-duffield-cant-be-fcked-underrated-cause-of-tech-debt/</loc>
         <lastmod>2023-10-12T00:00:00Z</lastmod>
     </url>
@@ -2372,6 +2332,46 @@
         <lastmod>2024-01-15T00:00:00Z</lastmod>
     </url>
     <url>
+        <loc>https://news.cryptic.io/nathalie-lawhead-backrooms-liminal-spaces-and-the-subliminal-menace-of-loneliness-in-indie-horror-games/</loc>
+        <lastmod>2024-02-02T01:36:51Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/nathalie-lawhead-bluesuburbia-is-an-indiecade-2023-nominee/</loc>
+        <lastmod>2023-10-12T18:50:27Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/nathalie-lawhead-bluesuburbia-out-now-on-steam-early-access/</loc>
+        <lastmod>2023-12-29T23:34:19Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/nathalie-lawhead-goodbye-america/</loc>
+        <lastmod>2024-04-11T16:53:24Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/nathalie-lawhead-how-to-download-and-run-the-flash-version-of-bluesuburbia/</loc>
+        <lastmod>2023-10-25T22:32:39Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/nathalie-lawhead-real-talk-games-about-trauma-art-caught-between-everything-is-horrible-everything-is-survivable-and-this-is-too-hard-to-talk-about/</loc>
+        <lastmod>2023-08-14T23:55:57Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/nathalie-lawhead-solodevs-and-risktakers-an-artistic-exploration-of-experimental-tools/</loc>
+        <lastmod>2024-04-17T14:11:49Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/nathalie-lawhead-the-generous-space-of-alternative-game-engines-a-curation/</loc>
+        <lastmod>2023-09-14T01:23:18Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/nathalie-lawhead-the-story-of-my-first-a-maze-and-why-i-wish-we-had-an-event-dedicated-to-solodevs/</loc>
+        <lastmod>2024-05-20T12:36:51Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/nathalie-lawhead-thinking-about-the-berlin-computerspiele-museum-computer-games-museum/</loc>
+        <lastmod>2024-06-08T13:04:34Z</lastmod>
+    </url>
+    <url>
         <loc>https://news.cryptic.io/nick-1964/</loc>
         <lastmod>2012-06-14T18:25:27Z</lastmod>
     </url>
@@ -2549,6 +2549,9 @@
         <loc>https://news.cryptic.io/page/26/</loc>
     </url>
     <url>
+        <loc>https://news.cryptic.io/page/27/</loc>
+    </url>
+    <url>
         <loc>https://news.cryptic.io/page/3/</loc>
     </url>
     <url>
@@ -2568,6 +2571,46 @@
     </url>
     <url>
         <loc>https://news.cryptic.io/page/9/</loc>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-a-highlevel-view-of-all-of-this-feed-reader-stuff/</loc>
+        <lastmod>2024-06-28T20:58:58Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-can-you-run-in-a-tight-loop-and-still-be-wellbehaved/</loc>
+        <lastmod>2024-06-13T14:21:34Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-feed-reader-score-project-participants-i-made-a-mistake/</loc>
+        <lastmod>2024-06-25T05:04:36Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-how-to-waste-bandwidth-battery-power-and-annoy-sysadmins/</loc>
+        <lastmod>2024-06-28T21:55:55Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-leaking-urls-to-the-clown/</loc>
+        <lastmod>2024-06-24T18:18:01Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-reader-feedback-feed-reader-scores-and-like-buttons/</loc>
+        <lastmod>2024-06-03T09:13:25Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-some-early-results-for-feed-reader-behavior-monitoring/</loc>
+        <lastmod>2024-06-11T23:19:26Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-two-months-of-feed-reader-behavior-analysis/</loc>
+        <lastmod>2024-08-03T01:05:41Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-unintentionally-troubleshooting-a-new-way-to-filter-traffic/</loc>
+        <lastmod>2024-07-18T00:10:05Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-what-happened-to-my-edu-page-and-why-it-came-back/</loc>
+        <lastmod>2024-06-30T00:31:17Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/randall-munroe-chili-tornado-quake/</loc>
