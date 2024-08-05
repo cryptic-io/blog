@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-05T19:00:00+00:00</updated>
+  <updated>2024-08-05T19:08:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Examples of left and right inverses</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2024-08-05T19:08:00+00:00</published>
+    <updated>2024-08-05T19:08:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-examples-of-left-and-right-inverses/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-examples-of-left-and-right-inverses/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/math/inverses.html</id>
+        <link href="https://blog.plover.com/math/inverses.html"/>
+        <title>Examples of left and right inverses</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2024-08-05T19:08:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-examples-of-left-and-right-inverses/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Just Build Websites</title>
         <author>
@@ -6938,30 +6962,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-borrow-checking-rc-gc-and-the-eleven-other-memory-safety-approaches/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Well, I guess I believe everything now!</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2024-04-23T13:42:00+00:00</published>
-    <updated>2024-04-23T13:42:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-well-i-guess-i-believe-everything-now/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-well-i-guess-i-believe-everything-now/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/math/logic/k2.html</id>
-        <link href="https://blog.plover.com/math/logic/k2.html"/>
-        <title>Well, I guess I believe everything now!</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2024-04-23T13:42:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-well-i-guess-i-believe-everything-now/</id>
     <content type="html">
         
     </content>
