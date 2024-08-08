@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-07T17:00:00+00:00</updated>
+  <updated>2024-08-08T01:13:13+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Struggle and process</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-08-08T01:13:13+00:00</published>
+    <updated>2024-08-08T01:13:13+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-struggle-and-process/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-struggle-and-process/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/struggle-and-process/</id>
+        <link href="https://robinrendle.com/notes/struggle-and-process/"/>
+        <title>Struggle and process</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-08-08T01:13:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-struggle-and-process/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Digital nudges</title>
         <author>
@@ -3554,30 +3578,6 @@
       </source>
 
     <id>https://news.cryptic.io/nutcroft-introducing-shoshin-college/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Instability</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-06-29T15:34:43+00:00</published>
-    <updated>2024-06-29T15:34:43+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-instability/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-instability/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/instability/</id>
-        <link href="https://robinrendle.com/notes/instability/"/>
-        <title>Instability</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-06-29T15:34:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-instability/</id>
     <content type="html">
         
     </content>
