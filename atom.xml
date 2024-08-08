@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-08T15:04:29+00:00</updated>
+  <updated>2024-08-08T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>My Failed Personal Site Redesign</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-08-08T19:00:00+00:00</published>
+    <updated>2024-08-08T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-my-failed-personal-site-redesign/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-my-failed-personal-site-redesign/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/my-failed-peronsal-site-redesign/</id>
+        <link href="https://blog.jim-nielsen.com/2024/my-failed-peronsal-site-redesign/"/>
+        <title>My Failed Personal Site Redesign</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-08-08T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-my-failed-personal-site-redesign/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Raspberry Pi Pico 2 - RP2350 adds more PIO, RISC-V cores</title>
         <author>
@@ -50,6 +74,30 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-struggle-and-process/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>It’s probably just money: Why hosts do well at the Olympics</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+    <published>2024-08-08T00:00:00+00:00</published>
+    <updated>2024-08-08T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dynomight-its-probably-just-money-why-hosts-do-well-at-the-olympics/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dynomight-its-probably-just-money-why-hosts-do-well-at-the-olympics/" type="text/html"/>
+      <source>
+        <id>https://dynomight.net/olympics/</id>
+        <link href="https://dynomight.net/olympics/"/>
+        <title>It’s probably just money: Why hosts do well at the Olympics</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+        <updated>2024-08-08T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dynomight-its-probably-just-money-why-hosts-do-well-at-the-olympics/</id>
     <content type="html">
         
     </content>
@@ -3578,30 +3626,6 @@
       </source>
 
     <id>https://news.cryptic.io/lucic-on-burnout-mental-health-and-not-being-okay/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Digital Trees</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-07-01T19:00:00+00:00</published>
-    <updated>2024-07-01T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-digital-trees/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-digital-trees/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/digital-trees/</id>
-        <link href="https://blog.jim-nielsen.com/2024/digital-trees/"/>
-        <title>Digital Trees</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-07-01T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-digital-trees/</id>
     <content type="html">
         
     </content>
@@ -7802,30 +7826,6 @@
       </source>
 
     <id>https://news.cryptic.io/derek-sivers-ben-kihnel/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Fahren-height</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-    <published>2024-03-28T00:00:00+00:00</published>
-    <updated>2024-03-28T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dynomight-fahrenheight/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dynomight-fahrenheight/" type="text/html"/>
-      <source>
-        <id>https://dynomight.net/fahren-height/</id>
-        <link href="https://dynomight.net/fahren-height/"/>
-        <title>Fahren-height</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-        <updated>2024-03-28T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dynomight-fahrenheight/</id>
     <content type="html">
         
     </content>
