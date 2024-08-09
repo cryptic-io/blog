@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-09T12:00:00+00:00</updated>
+  <updated>2024-08-09T16:06:30+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Closed in England</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-08-09T16:06:30+00:00</published>
+    <updated>2024-08-09T16:06:30+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-closed-in-england/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-closed-in-england/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/closed-in-england/</id>
+        <link href="https://robinrendle.com/notes/closed-in-england/"/>
+        <title>Closed in England</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-08-09T16:06:30+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-closed-in-england/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Come As You Are</title>
         <author>
@@ -3626,30 +3650,6 @@
       </source>
 
     <id>https://news.cryptic.io/stereogum-album-of-the-week-bacchae-next-time/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Piranesi</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-07-02T02:21:09+00:00</published>
-    <updated>2024-07-02T02:21:09+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-piranesi/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-piranesi/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/piranesi/</id>
-        <link href="https://robinrendle.com/notes/piranesi/"/>
-        <title>Piranesi</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-07-02T02:21:09+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-piranesi/</id>
     <content type="html">
         
     </content>
