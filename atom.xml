@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-11T15:40:00+00:00</updated>
+  <updated>2024-08-11T17:45:45+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>How I Created 175 Fonts Using Rust</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-08-11T17:45:45+00:00</published>
+    <updated>2024-08-11T17:45:45+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-how-i-created-175-fonts-using-rust/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-how-i-created-175-fonts-using-rust/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/how-i-created-175-fonts-using-rust/</id>
+        <link href="https://robinrendle.com/notes/how-i-created-175-fonts-using-rust/"/>
+        <title>How I Created 175 Fonts Using Rust</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-08-11T17:45:45+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-how-i-created-175-fonts-using-rust/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Guess who’s back</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-08-11T17:28:35+00:00</published>
+    <updated>2024-08-11T17:28:35+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-guess-whos-back/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-guess-whos-back/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/guess-whos-back/</id>
+        <link href="https://robinrendle.com/notes/guess-whos-back/"/>
+        <title>Guess who’s back</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-08-11T17:28:35+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-guess-whos-back/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Fifty shades of people and their blogs</title>
         <author>
@@ -1711,30 +1759,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The computer is a feeling</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-07-25T03:05:58+00:00</published>
-    <updated>2024-07-25T03:05:58+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-computer-is-a-feeling/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-computer-is-a-feeling/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-computer-is-a-feeling/</id>
-        <link href="https://robinrendle.com/notes/the-computer-is-a-feeling/"/>
-        <title>The computer is a feeling</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-07-25T03:05:58+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-computer-is-a-feeling/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How I Use Git Worktrees</title>
         <author>
             <name>Alex Kladov</name>
@@ -2642,30 +2666,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-can-chatgpt-do-data-science/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Stop calling yourself an IC</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-07-13T17:10:40+00:00</published>
-    <updated>2024-07-13T17:10:40+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-stop-calling-yourself-an-ic/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-stop-calling-yourself-an-ic/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/stop-calling-yourself-an-IC/</id>
-        <link href="https://robinrendle.com/notes/stop-calling-yourself-an-IC/"/>
-        <title>Stop calling yourself an IC</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-07-13T17:10:40+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-stop-calling-yourself-an-ic/</id>
     <content type="html">
         
     </content>
