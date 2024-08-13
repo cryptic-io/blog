@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-13T08:05:00+00:00</updated>
+  <updated>2024-08-13T16:14:10+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Ideas are vulnerable</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-08-13T16:14:10+00:00</published>
+    <updated>2024-08-13T16:14:10+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-ideas-are-vulnerable/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-ideas-are-vulnerable/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/ideas-are-vulnerable/</id>
+        <link href="https://robinrendle.com/notes/ideas-are-vulnerable/"/>
+        <title>Ideas are vulnerable</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-08-13T16:14:10+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-ideas-are-vulnerable/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>IndieWeb Carnival: Rituals</title>
         <author>
@@ -1826,30 +1850,6 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-xecast-episode-1-origins-and-techaro/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The story is a codebase</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-07-27T17:02:33+00:00</published>
-    <updated>2024-07-27T17:02:33+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-story-is-a-codebase/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-story-is-a-codebase/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-story-is-a-codebase/</id>
-        <link href="https://robinrendle.com/notes/the-story-is-a-codebase/"/>
-        <title>The story is a codebase</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-07-27T17:02:33+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-story-is-a-codebase/</id>
     <content type="html">
         
     </content>
