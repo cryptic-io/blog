@@ -127,6 +127,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>What does a reverse shell actually look like?</title>
+        <author>
+            <name>mendhak</name>
+        </author>
+    <published>2024-08-14T00:00:00+00:00</published>
+    <updated>2024-08-14T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/mendhak-what-does-a-reverse-shell-actually-look-like/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mendhak-what-does-a-reverse-shell-actually-look-like/" type="text/html"/>
+      <source>
+        <id>https://code.mendhak.com/simple-reverse-shell-in-linux-bash/</id>
+        <link href="https://code.mendhak.com/simple-reverse-shell-in-linux-bash/"/>
+        <title>What does a reverse shell actually look like?</title>
+        <author>
+            <name>mendhak</name>
+        </author>
+        <updated>2024-08-14T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mendhak-what-does-a-reverse-shell-actually-look-like/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Basic Infrastructure</title>
         <author>
             <name>Tim Bray</name>
@@ -11430,30 +11454,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-the-proper-design-process-in-web-development/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>LLM output is malicious user input</title>
-        <author>
-            <name>mendhak</name>
-        </author>
-    <published>2023-11-03T00:00:00+00:00</published>
-    <updated>2023-11-03T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mendhak-llm-output-is-malicious-user-input/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mendhak-llm-output-is-malicious-user-input/" type="text/html"/>
-      <source>
-        <id>https://code.mendhak.com/llm-output-is-malicious/</id>
-        <link href="https://code.mendhak.com/llm-output-is-malicious/"/>
-        <title>LLM output is malicious user input</title>
-        <author>
-            <name>mendhak</name>
-        </author>
-        <updated>2023-11-03T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mendhak-llm-output-is-malicious-user-input/</id>
     <content type="html">
         
     </content>
