@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-15T13:30:00+00:00</updated>
+  <updated>2024-08-16T03:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>How I ended up working as a software developer</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2024-08-16T03:00:00+00:00</published>
+    <updated>2024-08-16T03:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-i-ended-up-working-as-a-software-developer/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-i-ended-up-working-as-a-software-developer/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2024/08/16/career/</id>
+        <link href="https://ounapuu.ee/posts/2024/08/16/career/"/>
+        <title>How I ended up working as a software developer</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2024-08-16T03:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-i-ended-up-working-as-a-software-developer/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Carole Serrat (キャロル・セラ): OSE (オズ) (1993)</title>
         <author>
@@ -74,6 +98,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-foss-contributors-first-step-translation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Decoding an old SkyScan wireless weather sensor</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-08-14T22:19:17+00:00</published>
+    <updated>2024-08-14T22:19:17+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-decoding-an-old-skyscan-wireless-weather-sensor/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-decoding-an-old-skyscan-wireless-weather-sensor/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/08/14/skyscan/</id>
+        <link href="https://rachelbythebay.com/w/2024/08/14/skyscan/"/>
+        <title>Decoding an old SkyScan wireless weather sensor</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-08-14T22:19:17+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-decoding-an-old-skyscan-wireless-weather-sensor/</id>
     <content type="html">
         
     </content>
@@ -391,6 +439,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>An update on another feed reader from its author</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-08-12T07:44:13+00:00</published>
+    <updated>2024-08-12T07:44:13+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-an-update-on-another-feed-reader-from-its-author/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-an-update-on-another-feed-reader-from-its-author/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/08/12/unread/</id>
+        <link href="https://rachelbythebay.com/w/2024/08/12/unread/"/>
+        <title>An update on another feed reader from its author</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-08-12T07:44:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-an-update-on-another-feed-reader-from-its-author/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Dangerous Misinformation</title>
         <author>
             <name>geohot</name>
@@ -578,6 +650,30 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-fifty-shades-of-people-and-their-blogs/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Feedback on github, mangling code, and a feed reader</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-08-11T06:04:32+00:00</published>
+    <updated>2024-08-11T06:04:32+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-feedback-on-github-mangling-code-and-a-feed-reader/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-on-github-mangling-code-and-a-feed-reader/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/08/10/feedback/</id>
+        <link href="https://rachelbythebay.com/w/2024/08/10/feedback/"/>
+        <title>Feedback on github, mangling code, and a feed reader</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-08-11T06:04:32+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-feedback-on-github-mangling-code-and-a-feed-reader/</id>
     <content type="html">
         
     </content>
@@ -1327,6 +1423,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Feedback on feed stuff and those pesky blue screens</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-08-03T22:23:13+00:00</published>
+    <updated>2024-08-03T22:23:13+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-feedback-on-feed-stuff-and-those-pesky-blue-screens/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-on-feed-stuff-and-those-pesky-blue-screens/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/08/03/feedback/</id>
+        <link href="https://rachelbythebay.com/w/2024/08/03/feedback/"/>
+        <title>Feedback on feed stuff and those pesky blue screens</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-08-03T22:23:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-feedback-on-feed-stuff-and-those-pesky-blue-screens/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>When in doubt, use Roslindale</title>
         <author>
             <name>Robin Rendle</name>
@@ -1399,6 +1519,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Two months of feed reader behavior analysis</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-08-03T01:05:41+00:00</published>
+    <updated>2024-08-03T01:05:41+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-two-months-of-feed-reader-behavior-analysis/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-two-months-of-feed-reader-behavior-analysis/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/08/02/fs/</id>
+        <link href="https://rachelbythebay.com/w/2024/08/02/fs/"/>
+        <title>Two months of feed reader behavior analysis</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-08-03T01:05:41+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-two-months-of-feed-reader-behavior-analysis/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Deploying on Netlify with Apple’s Shortcuts</title>
         <author>
             <name>Jim Nielsen</name>
@@ -1466,6 +1610,30 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-online-dating/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A Review of the PyRadio Internet Radio Application</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2024-08-02T05:34:00+00:00</published>
+    <updated>2024-08-02T05:34:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-a-review-of-the-pyradio-internet-radio-application/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-a-review-of-the-pyradio-internet-radio-application/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/pyradio.html</id>
+        <link href="https://cheapskatesguide.org/articles/pyradio.html"/>
+        <title>A Review of the PyRadio Internet Radio Application</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2024-08-02T05:34:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-a-review-of-the-pyradio-internet-radio-application/</id>
     <content type="html">
         
     </content>
@@ -2623,6 +2791,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Everyone wants to control the Internet.</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2024-07-19T05:03:00+00:00</published>
+    <updated>2024-07-19T05:03:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-everyone-wants-to-control-the-internet/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-everyone-wants-to-control-the-internet/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/control-of-the-internet.html</id>
+        <link href="https://cheapskatesguide.org/articles/control-of-the-internet.html"/>
+        <title>Everyone wants to control the Internet.</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2024-07-19T05:03:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-everyone-wants-to-control-the-internet/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>I am a professional conference speaker</title>
         <author>
             <name>Xe Iaso</name>
@@ -2738,6 +2930,30 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-927-thoughts-on-a-global-design-system/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Unintentionally troubleshooting a new way to filter traffic</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-07-18T00:10:05+00:00</published>
+    <updated>2024-07-18T00:10:05+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-unintentionally-troubleshooting-a-new-way-to-filter-traffic/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-unintentionally-troubleshooting-a-new-way-to-filter-traffic/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/07/17/bpf/</id>
+        <link href="https://rachelbythebay.com/w/2024/07/17/bpf/"/>
+        <title>Unintentionally troubleshooting a new way to filter traffic</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-07-18T00:10:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-unintentionally-troubleshooting-a-new-way-to-filter-traffic/</id>
     <content type="html">
         
     </content>
@@ -3655,6 +3871,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Predicted Performance of a Raspberry Pi 3 Web Server Running a Text-Only Social Media Network</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2024-07-05T04:15:00+00:00</published>
+    <updated>2024-07-05T04:15:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-predicted-performance-of-a-raspberry-pi-3-web-server-running-a-textonly-social-media-network/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-predicted-performance-of-a-raspberry-pi-3-web-server-running-a-textonly-social-media-network/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/raspberry-pi-social.html</id>
+        <link href="https://cheapskatesguide.org/articles/raspberry-pi-social.html"/>
+        <title>Predicted Performance of a Raspberry Pi 3 Web Server Running a Text-Only Social Media Network</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2024-07-05T04:15:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-predicted-performance-of-a-raspberry-pi-3-web-server-running-a-textonly-social-media-network/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Properly Testing Concurrent Data Structures</title>
         <author>
             <name>Alex Kladov</name>
@@ -3991,6 +4231,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>What happened to my &#x2F;edu page, and why it came back</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-30T00:31:17+00:00</published>
+    <updated>2024-06-30T00:31:17+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-what-happened-to-my-edu-page-and-why-it-came-back/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-what-happened-to-my-edu-page-and-why-it-came-back/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/29/edu/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/29/edu/"/>
+        <title>What happened to my &#x2F;edu page, and why it came back</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-30T00:31:17+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-what-happened-to-my-edu-page-and-why-it-came-back/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The Bear</title>
         <author>
             <name>Rodrigo Ghedin</name>
@@ -4034,6 +4298,54 @@
       </source>
 
     <id>https://news.cryptic.io/allen-pike-feeding-the-baby/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>How to waste bandwidth, battery power, and annoy sysadmins</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-28T21:55:55+00:00</published>
+    <updated>2024-06-28T21:55:55+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-how-to-waste-bandwidth-battery-power-and-annoy-sysadmins/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-how-to-waste-bandwidth-battery-power-and-annoy-sysadmins/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/28/fxios/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/28/fxios/"/>
+        <title>How to waste bandwidth, battery power, and annoy sysadmins</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-28T21:55:55+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-how-to-waste-bandwidth-battery-power-and-annoy-sysadmins/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A high-level view of all of this feed reader stuff</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-28T20:58:58+00:00</published>
+    <updated>2024-06-28T20:58:58+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-a-highlevel-view-of-all-of-this-feed-reader-stuff/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-highlevel-view-of-all-of-this-feed-reader-stuff/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/28/fsr/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/28/fsr/"/>
+        <title>A high-level view of all of this feed reader stuff</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-28T20:58:58+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-a-highlevel-view-of-all-of-this-feed-reader-stuff/</id>
     <content type="html">
         
     </content>
@@ -4250,6 +4562,30 @@
       </source>
 
     <id>https://news.cryptic.io/stereogum-album-of-the-week-queen-of-jeans-all-again/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Feed reader score project participants: I made a mistake</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-06-25T05:04:36+00:00</published>
+    <updated>2024-06-25T05:04:36+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-feed-reader-score-project-participants-i-made-a-mistake/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feed-reader-score-project-participants-i-made-a-mistake/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/06/24/fs/</id>
+        <link href="https://rachelbythebay.com/w/2024/06/24/fs/"/>
+        <title>Feed reader score project participants: I made a mistake</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-06-25T05:04:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-feed-reader-score-project-participants-i-made-a-mistake/</id>
     <content type="html">
         
     </content>
@@ -4538,6 +4874,30 @@
       </source>
 
     <id>https://news.cryptic.io/degrowther-mundane-life-update/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A Brief Review of BunsenLabs Linux</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2024-06-21T05:06:00+00:00</published>
+    <updated>2024-06-21T05:06:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-a-brief-review-of-bunsenlabs-linux/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-a-brief-review-of-bunsenlabs-linux/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/bunsenlabs-linux.html</id>
+        <link href="https://cheapskatesguide.org/articles/bunsenlabs-linux.html"/>
+        <title>A Brief Review of BunsenLabs Linux</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2024-06-21T05:06:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-a-brief-review-of-bunsenlabs-linux/</id>
     <content type="html">
         
     </content>
@@ -5186,6 +5546,30 @@
       </source>
 
     <id>https://news.cryptic.io/nathalie-lawhead-thinking-about-the-berlin-computerspiele-museum-computer-games-museum/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>My Websites are now Effectively Closed to Facebook (Meta) Users.</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2024-06-07T03:06:00+00:00</published>
+    <updated>2024-06-07T03:06:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-my-websites-are-now-effectively-closed-to-facebook-meta-users/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-my-websites-are-now-effectively-closed-to-facebook-meta-users/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/facebook-scraping.html</id>
+        <link href="https://cheapskatesguide.org/articles/facebook-scraping.html"/>
+        <title>My Websites are now Effectively Closed to Facebook (Meta) Users.</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2024-06-07T03:06:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-my-websites-are-now-effectively-closed-to-facebook-meta-users/</id>
     <content type="html">
         
     </content>
@@ -6410,30 +6794,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-exploring-50-user-interfaces-for-ai-code-suggestions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The hidden media play&#x2F;pause&#x2F;stop keys on the Lenovo ThinkPad L390 Yoga</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2024-05-07T03:00:00+00:00</published>
-    <updated>2024-05-07T03:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-hidden-media-playpausestop-keys-on-the-lenovo-thinkpad-l390-yoga/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-hidden-media-playpausestop-keys-on-the-lenovo-thinkpad-l390-yoga/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2024/05/07/thinkpad-l390-hidden-media-keys/</id>
-        <link href="https://ounapuu.ee/posts/2024/05/07/thinkpad-l390-hidden-media-keys/"/>
-        <title>The hidden media play&#x2F;pause&#x2F;stop keys on the Lenovo ThinkPad L390 Yoga</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2024-05-07T03:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-hidden-media-playpausestop-keys-on-the-lenovo-thinkpad-l390-yoga/</id>
     <content type="html">
         
     </content>
