@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-21T00:00:00+00:00</updated>
+  <updated>2024-08-21T14:47:42+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Let’s All Agree to Use Seeds as ML-KEM Keys</title>
+        <author>
+            <name>Filippo Valsorda</name>
+        </author>
+    <published>2024-08-21T14:47:42+00:00</published>
+    <updated>2024-08-21T14:47:42+00:00</updated>
+    <link href="https://news.cryptic.io/filippo-valsorda-lets-all-agree-to-use-seeds-as-mlkem-keys/"/>
+    <link rel="alternate" href="https://news.cryptic.io/filippo-valsorda-lets-all-agree-to-use-seeds-as-mlkem-keys/" type="text/html"/>
+      <source>
+        <id>https://words.filippo.io/dispatches/ml-kem-seeds/</id>
+        <link href="https://words.filippo.io/dispatches/ml-kem-seeds/"/>
+        <title>Let’s All Agree to Use Seeds as ML-KEM Keys</title>
+        <author>
+            <name>Filippo Valsorda</name>
+        </author>
+        <updated>2024-08-21T14:47:42+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/filippo-valsorda-lets-all-agree-to-use-seeds-as-mlkem-keys/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Quitting My Job For The Way Of Pain</title>
         <author>
@@ -194,30 +218,6 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-pop-quiz-what-is-wrong-with-this-tar-command/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A common bug in a bunch of feed readers</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-08-18T23:16:27+00:00</published>
-    <updated>2024-08-18T23:16:27+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-a-common-bug-in-a-bunch-of-feed-readers/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-common-bug-in-a-bunch-of-feed-readers/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/08/17/hash/</id>
-        <link href="https://rachelbythebay.com/w/2024/08/17/hash/"/>
-        <title>A common bug in a bunch of feed readers</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-08-18T23:16:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-a-common-bug-in-a-bunch-of-feed-readers/</id>
     <content type="html">
         
     </content>
@@ -463,30 +463,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Decoding an old SkyScan wireless weather sensor</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-08-14T22:19:17+00:00</published>
-    <updated>2024-08-14T22:19:17+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-decoding-an-old-skyscan-wireless-weather-sensor/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-decoding-an-old-skyscan-wireless-weather-sensor/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/08/14/skyscan/</id>
-        <link href="https://rachelbythebay.com/w/2024/08/14/skyscan/"/>
-        <title>Decoding an old SkyScan wireless weather sensor</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-08-14T22:19:17+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-decoding-an-old-skyscan-wireless-weather-sensor/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Iterative Building and Decision Making</title>
         <author>
             <name>Jim Nielsen</name>
@@ -554,6 +530,30 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-changelog-random-acts-of-art/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Poor Richard&#x27;s Almanack</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2024-08-14T04:05:00+00:00</published>
+    <updated>2024-08-14T04:05:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-poor-richards-almanack/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-poor-richards-almanack/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/calendar/poor-richards-almanack.html</id>
+        <link href="https://blog.plover.com/calendar/poor-richards-almanack.html"/>
+        <title>Poor Richard&#x27;s Almanack</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2024-08-14T04:05:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-poor-richards-almanack/</id>
     <content type="html">
         
     </content>
@@ -775,30 +775,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>An update on another feed reader from its author</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-08-12T07:44:13+00:00</published>
-    <updated>2024-08-12T07:44:13+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-an-update-on-another-feed-reader-from-its-author/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-an-update-on-another-feed-reader-from-its-author/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/08/12/unread/</id>
-        <link href="https://rachelbythebay.com/w/2024/08/12/unread/"/>
-        <title>An update on another feed reader from its author</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-08-12T07:44:13+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-an-update-on-another-feed-reader-from-its-author/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Dangerous Misinformation</title>
         <author>
             <name>geohot</name>
@@ -986,30 +962,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-fifty-shades-of-people-and-their-blogs/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Feedback on github, mangling code, and a feed reader</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-08-11T06:04:32+00:00</published>
-    <updated>2024-08-11T06:04:32+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feedback-on-github-mangling-code-and-a-feed-reader/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-on-github-mangling-code-and-a-feed-reader/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/08/10/feedback/</id>
-        <link href="https://rachelbythebay.com/w/2024/08/10/feedback/"/>
-        <title>Feedback on github, mangling code, and a feed reader</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-08-11T06:04:32+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feedback-on-github-mangling-code-and-a-feed-reader/</id>
     <content type="html">
         
     </content>
@@ -1351,6 +1303,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Stuff I wanted to say to the historic district people but didn&#x27;t</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2024-08-07T13:11:00+00:00</published>
+    <updated>2024-08-07T13:11:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-stuff-i-wanted-to-say-to-the-historic-district-people-but-didnt/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-stuff-i-wanted-to-say-to-the-historic-district-people-but-didnt/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/politics/housing-2.html</id>
+        <link href="https://blog.plover.com/politics/housing-2.html"/>
+        <title>Stuff I wanted to say to the historic district people but didn&#x27;t</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2024-08-07T13:11:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-stuff-i-wanted-to-say-to-the-historic-district-people-but-didnt/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Running my ThinkPad T430 with an eGPU in 2024</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -1394,6 +1370,30 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-deno-deemphasizes-http-imports/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Look at what they tried to take from us</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2024-08-06T17:18:00+00:00</published>
+    <updated>2024-08-06T17:18:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-look-at-what-they-tried-to-take-from-us/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-look-at-what-they-tried-to-take-from-us/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/music/revolver.html</id>
+        <link href="https://blog.plover.com/music/revolver.html"/>
+        <title>Look at what they tried to take from us</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2024-08-06T17:18:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-look-at-what-they-tried-to-take-from-us/</id>
     <content type="html">
         
     </content>
@@ -1490,6 +1490,30 @@
       </source>
 
     <id>https://news.cryptic.io/lucic-kneel-before-the-emperor-of-mecatol-rex/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Everyday examples of morphisms with one-sided inverses</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2024-08-05T19:08:00+00:00</published>
+    <updated>2024-08-05T19:08:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-everyday-examples-of-morphisms-with-onesided-inverses/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-everyday-examples-of-morphisms-with-onesided-inverses/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/math/inverses.html</id>
+        <link href="https://blog.plover.com/math/inverses.html"/>
+        <title>Everyday examples of morphisms with one-sided inverses</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2024-08-05T19:08:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-everyday-examples-of-morphisms-with-onesided-inverses/</id>
     <content type="html">
         
     </content>
@@ -1639,30 +1663,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Feedback on feed stuff and those pesky blue screens</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-08-03T22:23:13+00:00</published>
-    <updated>2024-08-03T22:23:13+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feedback-on-feed-stuff-and-those-pesky-blue-screens/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-on-feed-stuff-and-those-pesky-blue-screens/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/08/03/feedback/</id>
-        <link href="https://rachelbythebay.com/w/2024/08/03/feedback/"/>
-        <title>Feedback on feed stuff and those pesky blue screens</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-08-03T22:23:13+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feedback-on-feed-stuff-and-those-pesky-blue-screens/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>When in doubt, use Roslindale</title>
         <author>
             <name>Robin Rendle</name>
@@ -1730,30 +1730,6 @@
       </source>
 
     <id>https://news.cryptic.io/linus-lee-what-makes-a-good-human-interface/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Two months of feed reader behavior analysis</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-08-03T01:05:41+00:00</published>
-    <updated>2024-08-03T01:05:41+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-two-months-of-feed-reader-behavior-analysis/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-two-months-of-feed-reader-behavior-analysis/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/08/02/fs/</id>
-        <link href="https://rachelbythebay.com/w/2024/08/02/fs/"/>
-        <title>Two months of feed reader behavior analysis</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-08-03T01:05:41+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-two-months-of-feed-reader-behavior-analysis/</id>
     <content type="html">
         
     </content>
@@ -3103,30 +3079,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Unintentionally troubleshooting a new way to filter traffic</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-07-18T00:10:05+00:00</published>
-    <updated>2024-07-18T00:10:05+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-unintentionally-troubleshooting-a-new-way-to-filter-traffic/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-unintentionally-troubleshooting-a-new-way-to-filter-traffic/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/07/17/bpf/</id>
-        <link href="https://rachelbythebay.com/w/2024/07/17/bpf/"/>
-        <title>Unintentionally troubleshooting a new way to filter traffic</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-07-18T00:10:05+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-unintentionally-troubleshooting-a-new-way-to-filter-traffic/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Big cleanup and smaller repo</title>
         <author>
             <name>Various</name>
@@ -3386,6 +3338,30 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-2009-ranger/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Loki the comedian</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2024-07-12T14:35:00+00:00</published>
+    <updated>2024-07-12T14:35:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-loki-the-comedian/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-loki-the-comedian/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/misc/goat-scrote.html</id>
+        <link href="https://blog.plover.com/misc/goat-scrote.html"/>
+        <title>Loki the comedian</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2024-07-12T14:35:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-loki-the-comedian/</id>
     <content type="html">
         
     </content>
@@ -3895,6 +3871,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>A triviality about numbers that look like abbc</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2024-07-05T18:22:00+00:00</published>
+    <updated>2024-07-05T18:22:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-a-triviality-about-numbers-that-look-like-abbc/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-a-triviality-about-numbers-that-look-like-abbc/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/math/multiple-of-37.html</id>
+        <link href="https://blog.plover.com/math/multiple-of-37.html"/>
+        <title>A triviality about numbers that look like abbc</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2024-07-05T18:22:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-a-triviality-about-numbers-that-look-like-abbc/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Serving Gemtext Files From Caddy</title>
         <author>
             <name>mediocregopher</name>
@@ -4058,6 +4058,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-soon-to-be-modern/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>My reply to the people who want to designate my neighborhood a &quot;historic district&quot;</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2024-07-03T20:41:00+00:00</published>
+    <updated>2024-07-03T20:41:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-my-reply-to-the-people-who-want-to-designate-my-neighborhood-a-historic-district/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-my-reply-to-the-people-who-want-to-designate-my-neighborhood-a-historic-district/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/politics/housing.html</id>
+        <link href="https://blog.plover.com/politics/housing.html"/>
+        <title>My reply to the people who want to designate my neighborhood a &quot;historic district&quot;</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2024-07-03T20:41:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-my-reply-to-the-people-who-want-to-designate-my-neighborhood-a-historic-district/</id>
     <content type="html">
         
     </content>
@@ -4255,30 +4279,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>What happened to my &#x2F;edu page, and why it came back</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-06-30T00:31:17+00:00</published>
-    <updated>2024-06-30T00:31:17+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-what-happened-to-my-edu-page-and-why-it-came-back/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-what-happened-to-my-edu-page-and-why-it-came-back/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/06/29/edu/</id>
-        <link href="https://rachelbythebay.com/w/2024/06/29/edu/"/>
-        <title>What happened to my &#x2F;edu page, and why it came back</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-06-30T00:31:17+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-what-happened-to-my-edu-page-and-why-it-came-back/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The Bear</title>
         <author>
             <name>Rodrigo Ghedin</name>
@@ -4322,54 +4322,6 @@
       </source>
 
     <id>https://news.cryptic.io/allen-pike-feeding-the-baby/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to waste bandwidth, battery power, and annoy sysadmins</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-06-28T21:55:55+00:00</published>
-    <updated>2024-06-28T21:55:55+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-how-to-waste-bandwidth-battery-power-and-annoy-sysadmins/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-how-to-waste-bandwidth-battery-power-and-annoy-sysadmins/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/06/28/fxios/</id>
-        <link href="https://rachelbythebay.com/w/2024/06/28/fxios/"/>
-        <title>How to waste bandwidth, battery power, and annoy sysadmins</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-06-28T21:55:55+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-how-to-waste-bandwidth-battery-power-and-annoy-sysadmins/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A high-level view of all of this feed reader stuff</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-06-28T20:58:58+00:00</published>
-    <updated>2024-06-28T20:58:58+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-a-highlevel-view-of-all-of-this-feed-reader-stuff/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-highlevel-view-of-all-of-this-feed-reader-stuff/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/06/28/fsr/</id>
-        <link href="https://rachelbythebay.com/w/2024/06/28/fsr/"/>
-        <title>A high-level view of all of this feed reader stuff</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-06-28T20:58:58+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-a-highlevel-view-of-all-of-this-feed-reader-stuff/</id>
     <content type="html">
         
     </content>
@@ -4658,6 +4610,30 @@
       </source>
 
     <id>https://news.cryptic.io/james-brown-zola-0190-rss-is-back/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A potpourri of cool-looking scripts</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2024-06-23T11:40:00+00:00</published>
+    <updated>2024-06-23T11:40:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-a-potpourri-of-coollooking-scripts/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-a-potpourri-of-coollooking-scripts/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/lang/script-potpourri.html</id>
+        <link href="https://blog.plover.com/lang/script-potpourri.html"/>
+        <title>A potpourri of cool-looking scripts</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2024-06-23T11:40:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-a-potpourri-of-coollooking-scripts/</id>
     <content type="html">
         
     </content>
@@ -6343,6 +6319,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Horst Wessel and John Birch</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2024-05-17T17:21:00+00:00</published>
+    <updated>2024-05-17T17:21:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-horst-wessel-and-john-birch/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-horst-wessel-and-john-birch/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/politics/horst-wessel.html</id>
+        <link href="https://blog.plover.com/politics/horst-wessel.html"/>
+        <title>Horst Wessel and John Birch</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2024-05-17T17:21:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-horst-wessel-and-john-birch/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Taming “read later” apps</title>
         <author>
             <name>Rodrigo Ghedin</name>
@@ -6458,6 +6458,30 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-layerwise-inferencing-batching-small-vram-doesnt-limit-llm-throughput-anymore/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>ChatGPT opines on cruciferous vegetables, Decameron, and Scheherazade</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2024-05-13T23:58:00+00:00</published>
+    <updated>2024-05-13T23:58:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-chatgpt-opines-on-cruciferous-vegetables-decameron-and-scheherazade/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-chatgpt-opines-on-cruciferous-vegetables-decameron-and-scheherazade/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/tech/gpt/blue-rubies.html</id>
+        <link href="https://blog.plover.com/tech/gpt/blue-rubies.html"/>
+        <title>ChatGPT opines on cruciferous vegetables, Decameron, and Scheherazade</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2024-05-13T23:58:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-chatgpt-opines-on-cruciferous-vegetables-decameron-and-scheherazade/</id>
     <content type="html">
         
     </content>
@@ -12666,30 +12690,6 @@
       </source>
 
     <id>https://news.cryptic.io/charlie-andrews-venture-money-aint-free/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I want XAES-256-GCM&#x2F;11</title>
-        <author>
-            <name>Filippo Valsorda</name>
-        </author>
-    <published>2023-07-06T17:48:57+00:00</published>
-    <updated>2023-07-06T17:48:57+00:00</updated>
-    <link href="https://news.cryptic.io/filippo-valsorda-i-want-xaes256gcm11/"/>
-    <link rel="alternate" href="https://news.cryptic.io/filippo-valsorda-i-want-xaes256gcm11/" type="text/html"/>
-      <source>
-        <id>https://words.filippo.io/dispatches/xaes-256-gcm-11/</id>
-        <link href="https://words.filippo.io/dispatches/xaes-256-gcm-11/"/>
-        <title>I want XAES-256-GCM&#x2F;11</title>
-        <author>
-            <name>Filippo Valsorda</name>
-        </author>
-        <updated>2023-07-06T17:48:57+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/filippo-valsorda-i-want-xaes256gcm11/</id>
     <content type="html">
         
     </content>
