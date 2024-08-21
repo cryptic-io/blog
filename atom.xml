@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-21T14:47:42+00:00</updated>
+  <updated>2024-08-21T16:05:27+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>An idea for teaching formal methods better</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-08-21T16:05:27+00:00</published>
+    <updated>2024-08-21T16:05:27+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-an-idea-for-teaching-formal-methods-better/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-an-idea-for-teaching-formal-methods-better/" type="text/html"/>
+      <source>
+        <id>https://buttondown.com/hillelwayne/archive/an-idea-for-teaching-formal-methods-better/</id>
+        <link href="https://buttondown.com/hillelwayne/archive/an-idea-for-teaching-formal-methods-better/"/>
+        <title>An idea for teaching formal methods better</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-08-21T16:05:27+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-an-idea-for-teaching-formal-methods-better/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>I DON&#x27;T KNOW</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2024-08-21T15:45:00+00:00</published>
+    <updated>2024-08-21T15:45:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-i-dont-know/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-i-dont-know/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/brain/i-dont-know.html</id>
+        <link href="https://blog.plover.com/brain/i-dont-know.html"/>
+        <title>I DON&#x27;T KNOW</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2024-08-21T15:45:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-i-dont-know/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Let’s All Agree to Use Seeds as ML-KEM Keys</title>
         <author>
@@ -5311,30 +5359,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Nondeterminism in Formal Specification</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-06-11T14:30:00+00:00</published>
-    <updated>2024-06-11T14:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-nondeterminism-in-formal-specification/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-nondeterminism-in-formal-specification/" type="text/html"/>
-      <source>
-        <id>https://buttondown.com/hillelwayne/archive/nondeterminism-in-formal-specification/</id>
-        <link href="https://buttondown.com/hillelwayne/archive/nondeterminism-in-formal-specification/"/>
-        <title>Nondeterminism in Formal Specification</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-06-11T14:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-nondeterminism-in-formal-specification/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Paying More for Media</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -6458,30 +6482,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-layerwise-inferencing-batching-small-vram-doesnt-limit-llm-throughput-anymore/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>ChatGPT opines on cruciferous vegetables, Decameron, and Scheherazade</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2024-05-13T23:58:00+00:00</published>
-    <updated>2024-05-13T23:58:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-chatgpt-opines-on-cruciferous-vegetables-decameron-and-scheherazade/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-chatgpt-opines-on-cruciferous-vegetables-decameron-and-scheherazade/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/tech/gpt/blue-rubies.html</id>
-        <link href="https://blog.plover.com/tech/gpt/blue-rubies.html"/>
-        <title>ChatGPT opines on cruciferous vegetables, Decameron, and Scheherazade</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2024-05-13T23:58:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-chatgpt-opines-on-cruciferous-vegetables-decameron-and-scheherazade/</id>
     <content type="html">
         
     </content>
