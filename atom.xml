@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-21T16:05:27+00:00</updated>
+  <updated>2024-08-22T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>How to install Signal Desktop on FreeBSD using the Linux Binary Compatibility</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+    <published>2024-08-22T00:00:00+00:00</published>
+    <updated>2024-08-22T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/unixsheikh-how-to-install-signal-desktop-on-freebsd-using-the-linux-binary-compatibility/"/>
+    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-how-to-install-signal-desktop-on-freebsd-using-the-linux-binary-compatibility/" type="text/html"/>
+      <source>
+        <id>https://unixdigest.com/tutorials/how-to-install-signal-desktop-on-freebsd-using-the-linux-binary-compatibility.html</id>
+        <link href="https://unixdigest.com/tutorials/how-to-install-signal-desktop-on-freebsd-using-the-linux-binary-compatibility.html"/>
+        <title>How to install Signal Desktop on FreeBSD using the Linux Binary Compatibility</title>
+        <author>
+            <name>unixsheikh</name>
+        </author>
+        <updated>2024-08-22T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/unixsheikh-how-to-install-signal-desktop-on-freebsd-using-the-linux-binary-compatibility/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>An idea for teaching formal methods better</title>
         <author>
@@ -14394,30 +14418,6 @@
       </source>
 
     <id>https://news.cryptic.io/molly-white-annotated-sam-bankmanfrieds-ftx-premortem-overview/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Two simple ways to version control your MariaDB schema changes</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2023-01-21T00:00:00+00:00</published>
-    <updated>2023-01-21T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-two-simple-ways-to-version-control-your-mariadb-schema-changes/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-two-simple-ways-to-version-control-your-mariadb-schema-changes/" type="text/html"/>
-      <source>
-        <id>https://unixdigest.com/tutorials/two-simple-ways-to-version-control-your-mariadb-schema-changes.html</id>
-        <link href="https://unixdigest.com/tutorials/two-simple-ways-to-version-control-your-mariadb-schema-changes.html"/>
-        <title>Two simple ways to version control your MariaDB schema changes</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2023-01-21T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-two-simple-ways-to-version-control-your-mariadb-schema-changes/</id>
     <content type="html">
         
     </content>
