@@ -7,6 +7,30 @@
   <updated>2024-08-22T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
+    <title>Interview with DHH (creator of rails)</title>
+        <author>
+            <name>Jesse Duffield</name>
+        </author>
+    <published>2024-08-22T00:00:00+00:00</published>
+    <updated>2024-08-22T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jesse-duffield-interview-with-dhh-creator-of-rails/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jesse-duffield-interview-with-dhh-creator-of-rails/" type="text/html"/>
+      <source>
+        <id>https://jesseduffield.com/DHH-interview/</id>
+        <link href="https://jesseduffield.com/DHH-interview/"/>
+        <title>Interview with DHH (creator of rails)</title>
+        <author>
+            <name>Jesse Duffield</name>
+        </author>
+        <updated>2024-08-22T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jesse-duffield-interview-with-dhh-creator-of-rails/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How to install Signal Desktop on FreeBSD using the Linux Binary Compatibility</title>
         <author>
             <name>unixsheikh</name>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-how-to-install-signal-desktop-on-freebsd-using-the-linux-binary-compatibility/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Netlify Public Folder, Part V: Now With an Image CDN</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-08-21T19:00:00+00:00</published>
+    <updated>2024-08-21T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-netlify-public-folder-part-v-now-with-an-image-cdn/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-netlify-public-folder-part-v-now-with-an-image-cdn/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/netlify-public-folder-part-v/</id>
+        <link href="https://blog.jim-nielsen.com/2024/netlify-public-folder-part-v/"/>
+        <title>Netlify Public Folder, Part V: Now With an Image CDN</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-08-21T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-netlify-public-folder-part-v-now-with-an-image-cdn/</id>
     <content type="html">
         
     </content>
@@ -3170,30 +3218,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-big-cleanup-and-smaller-repo/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I Don’t Like The Term “IC” Either</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-07-17T19:00:00+00:00</published>
-    <updated>2024-07-17T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-i-dont-like-the-term-ic-either/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-i-dont-like-the-term-ic-either/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/me-no-like-the-term-ic/</id>
-        <link href="https://blog.jim-nielsen.com/2024/me-no-like-the-term-ic/"/>
-        <title>I Don’t Like The Term “IC” Either</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-07-17T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-i-dont-like-the-term-ic-either/</id>
     <content type="html">
         
     </content>
@@ -12178,30 +12202,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-bethesdas-starfield-is-a-disgrace-to-game-development-and-a-slap-in-the-face-to-gamers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Out Of The Box</title>
-        <author>
-            <name>Jesse Duffield</name>
-        </author>
-    <published>2023-09-09T00:00:00+00:00</published>
-    <updated>2023-09-09T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jesse-duffield-out-of-the-box/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jesse-duffield-out-of-the-box/" type="text/html"/>
-      <source>
-        <id>https://jesseduffield.com/Out-Of-The-Box/</id>
-        <link href="https://jesseduffield.com/Out-Of-The-Box/"/>
-        <title>Out Of The Box</title>
-        <author>
-            <name>Jesse Duffield</name>
-        </author>
-        <updated>2023-09-09T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jesse-duffield-out-of-the-box/</id>
     <content type="html">
         
     </content>
