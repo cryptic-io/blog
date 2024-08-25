@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-24T21:00:01+00:00</updated>
+  <updated>2024-08-25T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Xecast Episode 3: The curse of the artist</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2024-08-25T00:00:00+00:00</published>
+    <updated>2024-08-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-xecast-episode-3-the-curse-of-the-artist/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-xecast-episode-3-the-curse-of-the-artist/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/xecast/003/</id>
+        <link href="https://xeiaso.net/xecast/003/"/>
+        <title>Xecast Episode 3: The curse of the artist</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2024-08-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-xecast-episode-3-the-curse-of-the-artist/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Evaluating your AI models in the wild</title>
         <author>
@@ -2575,6 +2599,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2024-07-30T00:00:00+00:00</published>
+    <updated>2024-07-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-no-way-to-prevent-this-say-users-of-only-language-where-this-regularly-happens/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-no-way-to-prevent-this-say-users-of-only-language-where-this-regularly-happens/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-5535/</id>
+        <link href="https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-5535/"/>
+        <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2024-07-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-no-way-to-prevent-this-say-users-of-only-language-where-this-regularly-happens/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How Does OpenAI Survive?</title>
         <author>
             <name>Ed Zitron</name>
@@ -3266,30 +3314,6 @@
       </source>
 
     <id>https://news.cryptic.io/cheapskate-everyone-wants-to-control-the-internet/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-07-19T00:00:00+00:00</published>
-    <updated>2024-07-19T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-no-way-to-prevent-this-say-users-of-only-language-where-this-regularly-happens/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-no-way-to-prevent-this-say-users-of-only-language-where-this-regularly-happens/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/shitposts/no-way-to-prevent-this/OVE-20240719-0001/</id>
-        <link href="https://xeiaso.net/shitposts/no-way-to-prevent-this/OVE-20240719-0001/"/>
-        <title>&quot;No way to prevent this&quot; say users of only language where this regularly happens</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-07-19T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-no-way-to-prevent-this-say-users-of-only-language-where-this-regularly-happens/</id>
     <content type="html">
         
     </content>
