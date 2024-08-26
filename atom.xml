@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-26T07:39:01+00:00</updated>
+  <updated>2024-08-26T16:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Movie Review: Alien: Romulus (No Spoilers)</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2024-08-26T16:00:00+00:00</published>
+    <updated>2024-08-26T16:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-movie-review-alien-romulus-no-spoilers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-movie-review-alien-romulus-no-spoilers/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/critiques/2024-alien-romulus.gmi</id>
+        <link href="https://mediocregopher.com/critiques/2024-alien-romulus.gmi"/>
+        <title>Movie Review: Alien: Romulus (No Spoilers)</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2024-08-26T16:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-movie-review-alien-romulus-no-spoilers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Play my new interactive liminal-space horror essay about technocapitalism and individuality!</title>
         <author>
@@ -9242,30 +9266,6 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-diseconomies-of-scale-in-fraud-spam-support-and-moderation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Serving a Website From a Git Repo Without Cloning It</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2024-02-17T21:15:43+00:00</published>
-    <updated>2024-02-17T21:15:43+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-serving-a-website-from-a-git-repo-without-cloning-it/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-serving-a-website-from-a-git-repo-without-cloning-it/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/posts/git-proxy.gmi</id>
-        <link href="https://mediocregopher.com/posts/git-proxy.gmi"/>
-        <title>Serving a Website From a Git Repo Without Cloning It</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2024-02-17T21:15:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-serving-a-website-from-a-git-repo-without-cloning-it/</id>
     <content type="html">
         
     </content>
