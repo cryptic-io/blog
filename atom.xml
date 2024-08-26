@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-25T00:00:00+00:00</updated>
+  <updated>2024-08-25T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Mozart Requiem</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2024-08-25T19:00:00+00:00</published>
+    <updated>2024-08-25T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-mozart-requiem/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-mozart-requiem/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2024/08/25/Mozart-Requiem</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2024/08/25/Mozart-Requiem"/>
+        <title>Mozart Requiem</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2024-08-25T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-mozart-requiem/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Xecast Episode 3: The curse of the artist</title>
         <author>
@@ -5210,30 +5234,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-slides-for-april-talk-at-nsysu-for-ai-inference/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Epsilon Love</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2024-06-17T19:00:00+00:00</published>
-    <updated>2024-06-17T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-epsilon-love/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-epsilon-love/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2024/06/17/Epsilon-Love</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2024/06/17/Epsilon-Love"/>
-        <title>Epsilon Love</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2024-06-17T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-epsilon-love/</id>
     <content type="html">
         
     </content>
