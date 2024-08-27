@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-27T15:55:17+00:00</updated>
+  <updated>2024-08-27T18:13:37+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>State and time are the same thing</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-08-27T18:13:37+00:00</published>
+    <updated>2024-08-27T18:13:37+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-state-and-time-are-the-same-thing/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-state-and-time-are-the-same-thing/" type="text/html"/>
+      <source>
+        <id>https://buttondown.com/hillelwayne/archive/state-and-time-are-the-same-thing/</id>
+        <link href="https://buttondown.com/hillelwayne/archive/state-and-time-are-the-same-thing/"/>
+        <title>State and time are the same thing</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-08-27T18:13:37+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-state-and-time-are-the-same-thing/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Album Of The Week: Cold Gawd I’ll Drown On This Earth</title>
         <author>
@@ -5306,30 +5330,6 @@
       </source>
 
     <id>https://news.cryptic.io/ed-zitron-let-tim-cook/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>New blog post: Composing TLA+ Specifications </title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-06-17T15:06:08+00:00</published>
-    <updated>2024-06-17T15:06:08+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-new-blog-post-composing-tla-specifications/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-new-blog-post-composing-tla-specifications/" type="text/html"/>
-      <source>
-        <id>https://buttondown.com/hillelwayne/archive/new-blog-post-composing-tla-specifications/</id>
-        <link href="https://buttondown.com/hillelwayne/archive/new-blog-post-composing-tla-specifications/"/>
-        <title>New blog post: Composing TLA+ Specifications </title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-06-17T15:06:08+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-new-blog-post-composing-tla-specifications/</id>
     <content type="html">
         
     </content>
