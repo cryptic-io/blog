@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-28T04:12:50+00:00</updated>
+  <updated>2024-08-28T07:15:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>My software stack is old</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-08-28T07:15:00+00:00</published>
+    <updated>2024-08-28T07:15:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-my-software-stack-is-old/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-my-software-stack-is-old/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/o2c7kKvNUlwGTnWL</id>
+        <link href="https://manuelmoreale.com/@/page/o2c7kKvNUlwGTnWL"/>
+        <title>My software stack is old</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-08-28T07:15:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-my-software-stack-is-old/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Matt Stoller Explains Monopolies</title>
         <author>
@@ -1874,30 +1898,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-stories-about-grants-stats-and-jcenter/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Digital nudges</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-08-07T17:00:00+00:00</published>
-    <updated>2024-08-07T17:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-digital-nudges/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-digital-nudges/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/FZdk7LxXYeqSnf6V</id>
-        <link href="https://manuelmoreale.com/@/page/FZdk7LxXYeqSnf6V"/>
-        <title>Digital nudges</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-08-07T17:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-digital-nudges/</id>
     <content type="html">
         
     </content>
