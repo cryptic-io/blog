@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-29T09:15:00+00:00</updated>
+  <updated>2024-08-29T14:17:34+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>New 2GB Pi 5 has 33% smaller die, 30% idle power savings</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-08-29T14:17:34+00:00</published>
+    <updated>2024-08-29T14:17:34+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-new-2gb-pi-5-has-33-smaller-die-30-idle-power-savings/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-new-2gb-pi-5-has-33-smaller-die-30-idle-power-savings/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/new-2gb-pi-5-has-33-smaller-die-30-idle-power-savings</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/new-2gb-pi-5-has-33-smaller-die-30-idle-power-savings"/>
+        <title>New 2GB Pi 5 has 33% smaller die, 30% idle power savings</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-08-29T14:17:34+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-new-2gb-pi-5-has-33-smaller-die-30-idle-power-savings/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Xácara (シャカラ): Breeze From Recife (レシーフェの風) (1991)</title>
+        <author>
+            <name>Diego Olivas</name>
+        </author>
+    <published>2024-08-29T13:30:00+00:00</published>
+    <updated>2024-08-29T13:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/diego-olivas-xcara-breeze-from-recife-1991/"/>
+    <link rel="alternate" href="https://news.cryptic.io/diego-olivas-xcara-breeze-from-recife-1991/" type="text/html"/>
+      <source>
+        <id>https://www.fondsound.com/xacara-%e3%82%b7%e3%83%a3%e3%82%ab%e3%83%a9-breeze-from-recife-%e3%83%ac%e3%82%b7%e3%83%bc%e3%83%95%e3%82%a7%e3%81%ae%e9%a2%a8-1991/</id>
+        <link href="https://www.fondsound.com/xacara-%e3%82%b7%e3%83%a3%e3%82%ab%e3%83%a9-breeze-from-recife-%e3%83%ac%e3%82%b7%e3%83%bc%e3%83%95%e3%82%a7%e3%81%ae%e9%a2%a8-1991/"/>
+        <title>Xácara (シャカラ): Breeze From Recife (レシーフェの風) (1991)</title>
+        <author>
+            <name>Diego Olivas</name>
+        </author>
+        <updated>2024-08-29T13:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/diego-olivas-xcara-breeze-from-recife-1991/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>On email addresses (again)</title>
         <author>
@@ -3895,30 +3943,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>NUMA Emulation speeds up Pi 5 (and other improvements)</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-07-12T14:01:15+00:00</published>
-    <updated>2024-07-12T14:01:15+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-numa-emulation-speeds-up-pi-5-and-other-improvements/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-numa-emulation-speeds-up-pi-5-and-other-improvements/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/numa-emulation-speeds-pi-5-and-other-improvements</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/numa-emulation-speeds-pi-5-and-other-improvements"/>
-        <title>NUMA Emulation speeds up Pi 5 (and other improvements)</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-07-12T14:01:15+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-numa-emulation-speeds-up-pi-5-and-other-improvements/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>All I Need to Know About Engineering Leadership I Learned From Leave No Trace</title>
         <author>
             <name>Jacob Kaplan-Moss</name>
@@ -5570,30 +5594,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-making-a-bignum-library-for-fun/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Various Artists: Ten Plants (1998)</title>
-        <author>
-            <name>Diego Olivas</name>
-        </author>
-    <published>2024-06-13T13:30:00+00:00</published>
-    <updated>2024-06-13T13:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/diego-olivas-various-artists-ten-plants-1998/"/>
-    <link rel="alternate" href="https://news.cryptic.io/diego-olivas-various-artists-ten-plants-1998/" type="text/html"/>
-      <source>
-        <id>https://www.fondsound.com/various-artists-ten-plants-1998/</id>
-        <link href="https://www.fondsound.com/various-artists-ten-plants-1998/"/>
-        <title>Various Artists: Ten Plants (1998)</title>
-        <author>
-            <name>Diego Olivas</name>
-        </author>
-        <updated>2024-06-13T13:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/diego-olivas-various-artists-ten-plants-1998/</id>
     <content type="html">
         
     </content>
