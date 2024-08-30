@@ -103,6 +103,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Rust for Linux revisited</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2024-08-30T00:00:00+00:00</published>
+    <updated>2024-08-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-rust-for-linux-revisited/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-rust-for-linux-revisited/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2024/08/30/2024-08-30-Rust-in-Linux-revisited.html</id>
+        <link href="https://drewdevault.com/2024/08/30/2024-08-30-Rust-in-Linux-revisited.html"/>
+        <title>Rust for Linux revisited</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2024-08-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-rust-for-linux-revisited/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>What is the soul of a game?</title>
         <author>
             <name>Xe Iaso</name>
@@ -12202,30 +12226,6 @@
       </source>
 
     <id>https://news.cryptic.io/andersource-bfs-zerotohero-part-1-intro-amp-maze/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The forbidden topics</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-    <published>2023-09-29T00:00:00+00:00</published>
-    <updated>2023-09-29T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/drew-devault-the-forbidden-topics/"/>
-    <link rel="alternate" href="https://news.cryptic.io/drew-devault-the-forbidden-topics/" type="text/html"/>
-      <source>
-        <id>https://drewdevault.com/2023/09/29/The-forbidden-topics.html</id>
-        <link href="https://drewdevault.com/2023/09/29/The-forbidden-topics.html"/>
-        <title>The forbidden topics</title>
-        <author>
-            <name>Drew DeVault</name>
-        </author>
-        <updated>2023-09-29T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/drew-devault-the-forbidden-topics/</id>
     <content type="html">
         
     </content>
