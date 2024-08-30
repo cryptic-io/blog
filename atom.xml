@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-30T11:00:00+00:00</updated>
+  <updated>2024-08-31T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>How to sync Mac and Linux &#x2F;home</title>
+        <author>
+            <name>Derek Sivers</name>
+        </author>
+    <published>2024-08-31T00:00:00+00:00</published>
+    <updated>2024-08-31T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/derek-sivers-how-to-sync-mac-and-linux-home/"/>
+    <link rel="alternate" href="https://news.cryptic.io/derek-sivers-how-to-sync-mac-and-linux-home/" type="text/html"/>
+      <source>
+        <id>https://sive.rs/macx</id>
+        <link href="https://sive.rs/macx"/>
+        <title>How to sync Mac and Linux &#x2F;home</title>
+        <author>
+            <name>Derek Sivers</name>
+        </author>
+        <updated>2024-08-31T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/derek-sivers-how-to-sync-mac-and-linux-home/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>P&amp;B: Marty Day</title>
         <author>
@@ -11066,30 +11090,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-installing-photoshop-cs2-on-windows-11/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>walk and talk</title>
-        <author>
-            <name>Derek Sivers</name>
-        </author>
-    <published>2023-12-12T00:00:00+00:00</published>
-    <updated>2023-12-12T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/derek-sivers-walk-and-talk/"/>
-    <link rel="alternate" href="https://news.cryptic.io/derek-sivers-walk-and-talk/" type="text/html"/>
-      <source>
-        <id>https://sive.rs/wt</id>
-        <link href="https://sive.rs/wt"/>
-        <title>walk and talk</title>
-        <author>
-            <name>Derek Sivers</name>
-        </author>
-        <updated>2023-12-12T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/derek-sivers-walk-and-talk/</id>
     <content type="html">
         
     </content>
