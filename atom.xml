@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-29T19:00:00+00:00</updated>
+  <updated>2024-08-30T04:05:06+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A message in binary</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-08-30T04:05:06+00:00</published>
+    <updated>2024-08-30T04:05:06+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-a-message-in-binary/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-a-message-in-binary/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/a-message-in-binary/</id>
+        <link href="https://robinrendle.com/notes/a-message-in-binary/"/>
+        <title>A message in binary</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-08-30T04:05:06+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-a-message-in-binary/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Humble Link</title>
         <author>
@@ -2522,30 +2546,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-a-streamlined-and-sustainable-app-deployment-approach-with-mobifree/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Chase the product, not the data</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-08-04T18:11:15+00:00</published>
-    <updated>2024-08-04T18:11:15+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-chase-the-product-not-the-data/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-chase-the-product-not-the-data/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-limits-of-data-driven/</id>
-        <link href="https://robinrendle.com/notes/the-limits-of-data-driven/"/>
-        <title>Chase the product, not the data</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-08-04T18:11:15+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-chase-the-product-not-the-data/</id>
     <content type="html">
         
     </content>
