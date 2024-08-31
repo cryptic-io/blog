@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-08-31T00:00:00+00:00</updated>
+  <updated>2024-08-31T15:04:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Twitter is a digital drug</title>
+        <author>
+            <name>Rodrigo Ghedin</name>
+        </author>
+    <published>2024-08-31T15:04:00+00:00</published>
+    <updated>2024-08-31T15:04:00+00:00</updated>
+    <link href="https://news.cryptic.io/rodrigo-ghedin-twitter-is-a-digital-drug/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rodrigo-ghedin-twitter-is-a-digital-drug/" type="text/html"/>
+      <source>
+        <id>https://notes.ghed.in/posts/2024/twitter-digital-drug/</id>
+        <link href="https://notes.ghed.in/posts/2024/twitter-digital-drug/"/>
+        <title>Twitter is a digital drug</title>
+        <author>
+            <name>Rodrigo Ghedin</name>
+        </author>
+        <updated>2024-08-31T15:04:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rodrigo-ghedin-twitter-is-a-digital-drug/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>How to sync Mac and Linux &#x2F;home</title>
         <author>
@@ -7082,30 +7106,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-known-knowns/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I mostly use Signal to talk to people and I…</title>
-        <author>
-            <name>Rodrigo Ghedin</name>
-        </author>
-    <published>2024-05-03T12:57:00+00:00</published>
-    <updated>2024-05-03T12:57:00+00:00</updated>
-    <link href="https://news.cryptic.io/rodrigo-ghedin-i-mostly-use-signal-to-talk-to-people-and-i/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rodrigo-ghedin-i-mostly-use-signal-to-talk-to-people-and-i/" type="text/html"/>
-      <source>
-        <id>https://notes.ghed.in/posts/2024/i-mostly-use-signal-to-talk/</id>
-        <link href="https://notes.ghed.in/posts/2024/i-mostly-use-signal-to-talk/"/>
-        <title>I mostly use Signal to talk to people and I…</title>
-        <author>
-            <name>Rodrigo Ghedin</name>
-        </author>
-        <updated>2024-05-03T12:57:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rodrigo-ghedin-i-mostly-use-signal-to-talk-to-people-and-i/</id>
     <content type="html">
         
     </content>
