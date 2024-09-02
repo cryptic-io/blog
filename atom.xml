@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-01T14:30:00+00:00</updated>
+  <updated>2024-09-02T03:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>How to copy media off of an iPhone the hard way (using Linux)</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2024-09-02T03:00:00+00:00</published>
+    <updated>2024-09-02T03:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-to-copy-media-off-of-an-iphone-the-hard-way-using-linux/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-to-copy-media-off-of-an-iphone-the-hard-way-using-linux/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2024/09/02/iphone-media-recovery/</id>
+        <link href="https://ounapuu.ee/posts/2024/09/02/iphone-media-recovery/"/>
+        <title>How to copy media off of an iPhone the hard way (using Linux)</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2024-09-02T03:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-to-copy-media-off-of-an-iphone-the-hard-way-using-linux/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The social web</title>
         <author>
@@ -6698,30 +6722,6 @@
       </source>
 
     <id>https://news.cryptic.io/nathalie-lawhead-the-story-of-my-first-a-maze-and-why-i-wish-we-had-an-event-dedicated-to-solodevs/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>OpenWRT, ISP modem and dynamic IP addresses: how to fix connectivity issues without rebooting your router every time</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2024-05-20T03:00:00+00:00</published>
-    <updated>2024-05-20T03:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-openwrt-isp-modem-and-dynamic-ip-addresses-how-to-fix-connectivity-issues-without-rebooting-your-router-every-time/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-openwrt-isp-modem-and-dynamic-ip-addresses-how-to-fix-connectivity-issues-without-rebooting-your-router-every-time/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2024/05/20/openwrt-connectivity-fix/</id>
-        <link href="https://ounapuu.ee/posts/2024/05/20/openwrt-connectivity-fix/"/>
-        <title>OpenWRT, ISP modem and dynamic IP addresses: how to fix connectivity issues without rebooting your router every time</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2024-05-20T03:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-openwrt-isp-modem-and-dynamic-ip-addresses-how-to-fix-connectivity-issues-without-rebooting-your-router-every-time/</id>
     <content type="html">
         
     </content>
