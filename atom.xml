@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-03T19:00:00+00:00</updated>
+  <updated>2024-09-04T17:00:19+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Thoughts on &quot;The Future of TLA+&quot;</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-09-04T17:00:19+00:00</published>
+    <updated>2024-09-04T17:00:19+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-thoughts-on-the-future-of-tla/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-thoughts-on-the-future-of-tla/" type="text/html"/>
+      <source>
+        <id>https://buttondown.com/hillelwayne/archive/what-could-be-added-to-tla/</id>
+        <link href="https://buttondown.com/hillelwayne/archive/what-could-be-added-to-tla/"/>
+        <title>Thoughts on &quot;The Future of TLA+&quot;</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-09-04T17:00:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-thoughts-on-the-future-of-tla/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Sanding UI</title>
         <author>
@@ -5474,30 +5498,6 @@
       </source>
 
     <id>https://news.cryptic.io/lucic-synergy-greg/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Logic for Programmers Update</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-06-21T18:02:31+00:00</published>
-    <updated>2024-06-21T18:02:31+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-logic-for-programmers-update/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-logic-for-programmers-update/" type="text/html"/>
-      <source>
-        <id>https://buttondown.com/hillelwayne/archive/logic-for-programmers-update/</id>
-        <link href="https://buttondown.com/hillelwayne/archive/logic-for-programmers-update/"/>
-        <title>Logic for Programmers Update</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-06-21T18:02:31+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-logic-for-programmers-update/</id>
     <content type="html">
         
     </content>
