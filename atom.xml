@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-04T17:00:19+00:00</updated>
+  <updated>2024-09-04T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Personal Websites Are As Vulnerable As Us</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-09-04T19:00:00+00:00</published>
+    <updated>2024-09-04T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-personal-websites-are-as-vulnerable-as-us/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-personal-websites-are-as-vulnerable-as-us/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/personal-website-vulnerability/</id>
+        <link href="https://blog.jim-nielsen.com/2024/personal-website-vulnerability/"/>
+        <title>Personal Websites Are As Vulnerable As Us</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-09-04T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-personal-websites-are-as-vulnerable-as-us/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Thoughts on &quot;The Future of TLA+&quot;</title>
         <author>
@@ -2642,30 +2666,6 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-running-my-thinkpad-t430-with-an-egpu-in-2024/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Deno De-emphasizes HTTP Imports</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-08-06T19:00:00+00:00</published>
-    <updated>2024-08-06T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-deno-deemphasizes-http-imports/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-deno-deemphasizes-http-imports/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/deno-de-emphasizes-http-imports/</id>
-        <link href="https://blog.jim-nielsen.com/2024/deno-de-emphasizes-http-imports/"/>
-        <title>Deno De-emphasizes HTTP Imports</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-08-06T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-deno-deemphasizes-http-imports/</id>
     <content type="html">
         
     </content>
