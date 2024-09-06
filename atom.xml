@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-05T17:55:00+00:00</updated>
+  <updated>2024-09-06T03:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>I encourage you to write a blog</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2024-09-06T03:00:00+00:00</published>
+    <updated>2024-09-06T03:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-encourage-you-to-write-a-blog/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-encourage-you-to-write-a-blog/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2024/09/06/blog/</id>
+        <link href="https://ounapuu.ee/posts/2024/09/06/blog/"/>
+        <title>I encourage you to write a blog</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2024-09-06T03:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-i-encourage-you-to-write-a-blog/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>IndieWeb Carnival: Power Underneath Despair</title>
         <author>
@@ -6674,30 +6698,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-exploring-seamless-rust-interop-for-newer-languages-part-1/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>ThinkPad T40: it can still run modern Linux, for now</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2024-05-24T03:00:00+00:00</published>
-    <updated>2024-05-24T03:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-thinkpad-t40-it-can-still-run-modern-linux-for-now/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-thinkpad-t40-it-can-still-run-modern-linux-for-now/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2024/05/24/thinkpad-t40/</id>
-        <link href="https://ounapuu.ee/posts/2024/05/24/thinkpad-t40/"/>
-        <title>ThinkPad T40: it can still run modern Linux, for now</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2024-05-24T03:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-thinkpad-t40-it-can-still-run-modern-linux-for-now/</id>
     <content type="html">
         
     </content>
