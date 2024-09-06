@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-06T03:00:00+00:00</updated>
+  <updated>2024-09-06T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A Verificationism Definition of Art</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-09-06T04:00:00+00:00</published>
+    <updated>2024-09-06T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-a-verificationism-definition-of-art/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-a-verificationism-definition-of-art/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/09-06-a-verficiationism-defination-of-art.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/09-06-a-verficiationism-defination-of-art.gmi"/>
+        <title>A Verificationism Definition of Art</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-09-06T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-a-verificationism-definition-of-art/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>I encourage you to write a blog</title>
         <author>
@@ -6938,30 +6962,6 @@
       </source>
 
     <id>https://news.cryptic.io/rodrigo-ghedin-taming-read-later-apps/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Asynchronously read STDIN in Drogon&#x2F;Trantor</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-05-15T04:00:00+00:00</published>
-    <updated>2024-05-15T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-asynchronously-read-stdin-in-drogontrantor/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-asynchronously-read-stdin-in-drogontrantor/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/05-15-asynchronously-readi-stdin-in-drogon-trantor.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/05-15-asynchronously-readi-stdin-in-drogon-trantor.gmi"/>
-        <title>Asynchronously read STDIN in Drogon&#x2F;Trantor</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-05-15T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-asynchronously-read-stdin-in-drogontrantor/</id>
     <content type="html">
         
     </content>
