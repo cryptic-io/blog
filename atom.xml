@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Going Buildless</title>
+        <author>
+            <name>Max Böck</name>
+        </author>
+    <published>2024-09-08T00:00:00+00:00</published>
+    <updated>2024-09-08T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/max-bck-going-buildless/"/>
+    <link rel="alternate" href="https://news.cryptic.io/max-bck-going-buildless/" type="text/html"/>
+      <source>
+        <id>https://mxb.dev/blog/buildless/</id>
+        <link href="https://mxb.dev/blog/buildless/"/>
+        <title>Going Buildless</title>
+        <author>
+            <name>Max Böck</name>
+        </author>
+        <updated>2024-09-08T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/max-bck-going-buildless/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>When there is nothing more left for them to take</title>
         <author>
             <name>Nathalie Lawhead</name>
@@ -17430,30 +17454,6 @@
       </source>
 
     <id>https://news.cryptic.io/marco-declarative-dev-environments/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Asset Pipelines in Eleventy</title>
-        <author>
-            <name>Max Böck</name>
-        </author>
-    <published>2021-04-26T00:00:00+00:00</published>
-    <updated>2021-04-26T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/max-bck-asset-pipelines-in-eleventy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/max-bck-asset-pipelines-in-eleventy/" type="text/html"/>
-      <source>
-        <id>https://mxb.dev/blog/eleventy-asset-pipeline/</id>
-        <link href="https://mxb.dev/blog/eleventy-asset-pipeline/"/>
-        <title>Asset Pipelines in Eleventy</title>
-        <author>
-            <name>Max Böck</name>
-        </author>
-        <updated>2021-04-26T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/max-bck-asset-pipelines-in-eleventy/</id>
     <content type="html">
         
     </content>
