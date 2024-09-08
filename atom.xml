@@ -55,6 +55,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Setting a static IP address in Ubuntu 24.04 using `netplan`</title>
+        <author>
+            <name>mendhak</name>
+        </author>
+    <published>2024-09-08T00:00:00+00:00</published>
+    <updated>2024-09-08T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/mendhak-setting-a-static-ip-address-in-ubuntu-2404-using-netplan/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mendhak-setting-a-static-ip-address-in-ubuntu-2404-using-netplan/" type="text/html"/>
+      <source>
+        <id>https://code.mendhak.com/ubuntu-2404-set-static-ip-address-using-netplan/</id>
+        <link href="https://code.mendhak.com/ubuntu-2404-set-static-ip-address-using-netplan/"/>
+        <title>Setting a static IP address in Ubuntu 24.04 using `netplan`</title>
+        <author>
+            <name>mendhak</name>
+        </author>
+        <updated>2024-09-08T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mendhak-setting-a-static-ip-address-in-ubuntu-2404-using-netplan/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>When there is nothing more left for them to take</title>
         <author>
             <name>Nathalie Lawhead</name>
@@ -11502,30 +11526,6 @@
       </source>
 
     <id>https://news.cryptic.io/joey-hess-attribution-armored-code/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Hands on introduction to LLM programming for developers</title>
-        <author>
-            <name>mendhak</name>
-        </author>
-    <published>2023-11-19T00:00:00+00:00</published>
-    <updated>2023-11-19T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mendhak-hands-on-introduction-to-llm-programming-for-developers/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mendhak-hands-on-introduction-to-llm-programming-for-developers/" type="text/html"/>
-      <source>
-        <id>https://code.mendhak.com/hands-on-llm-tutorial/</id>
-        <link href="https://code.mendhak.com/hands-on-llm-tutorial/"/>
-        <title>Hands on introduction to LLM programming for developers</title>
-        <author>
-            <name>mendhak</name>
-        </author>
-        <updated>2023-11-19T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mendhak-hands-on-introduction-to-llm-programming-for-developers/</id>
     <content type="html">
         
     </content>
