@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Monocaster</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-09-09T00:00:00+00:00</published>
+    <updated>2024-09-09T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-monocaster/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-monocaster/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2983/</id>
+        <link href="https://xkcd.com/2983/"/>
+        <title>Monocaster</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-09-09T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-monocaster/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Reflection is cooked</title>
         <author>
             <name>Xe Iaso</name>
@@ -511,30 +535,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>0 dependencies!</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2024-09-04T19:00:00+00:00</published>
-    <updated>2024-09-04T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-0-dependencies/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-0-dependencies/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2024/09/04/0dependencies</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2024/09/04/0dependencies"/>
-        <title>0 dependencies!</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2024-09-04T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-0-dependencies/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Thoughts on &quot;The Future of TLA+&quot;</title>
         <author>
             <name>Hillel Wayne</name>
@@ -727,30 +727,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Long Links</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2024-09-02T19:00:00+00:00</published>
-    <updated>2024-09-02T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-long-links/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-long-links/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2024/09/02/Long-Links</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2024/09/02/Long-Links"/>
-        <title>Long Links</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2024-09-02T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-long-links/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How to copy media off of an iPhone the hard way (using Linux)</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -919,30 +895,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Q Numbers Redux Explained</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2024-08-31T19:00:00+00:00</published>
-    <updated>2024-08-31T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-q-numbers-redux-explained/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-q-numbers-redux-explained/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2024/08/31/QNum-Redux-Explained</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2024/08/31/QNum-Redux-Explained"/>
-        <title>Q Numbers Redux Explained</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2024-08-31T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-q-numbers-redux-explained/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Twitter is a digital drug</title>
         <author>
             <name>Rodrigo Ghedin</name>
@@ -1106,30 +1058,6 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-rust-for-linux-revisited/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Sky Alarm</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-08-30T00:00:00+00:00</published>
-    <updated>2024-08-30T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-sky-alarm/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-sky-alarm/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2979/</id>
-        <link href="https://xkcd.com/2979/"/>
-        <title>Sky Alarm</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-08-30T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-sky-alarm/</id>
     <content type="html">
         
     </content>
@@ -1399,30 +1327,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Q Numbers Redux</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2024-08-28T19:00:00+00:00</published>
-    <updated>2024-08-28T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-q-numbers-redux/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-q-numbers-redux/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2024/08/28/Q-Numbers-2</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2024/08/28/Q-Numbers-2"/>
-        <title>Q Numbers Redux</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2024-08-28T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-q-numbers-redux/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>My software stack is old</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -1658,30 +1562,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-new-workflow-for-publishing-notes-content-in-dropbox-code-in-github/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Mozart Requiem</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2024-08-25T19:00:00+00:00</published>
-    <updated>2024-08-25T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-mozart-requiem/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-mozart-requiem/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2024/08/25/Mozart-Requiem</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2024/08/25/Mozart-Requiem"/>
-        <title>Mozart Requiem</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2024-08-25T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-mozart-requiem/</id>
     <content type="html">
         
     </content>
@@ -2090,30 +1970,6 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-scaling-your-gpu-apps-in-anger/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>2024 Pollscrolling</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2024-08-20T19:00:00+00:00</published>
-    <updated>2024-08-20T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-2024-pollscrolling/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-2024-pollscrolling/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2024/08/20/2024-Election-Junky</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2024/08/20/2024-Election-Junky"/>
-        <title>2024 Pollscrolling</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2024-08-20T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-2024-pollscrolling/</id>
     <content type="html">
         
     </content>
@@ -2551,30 +2407,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Basic Infrastructure</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2024-08-13T19:00:00+00:00</published>
-    <updated>2024-08-13T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-basic-infrastructure/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-basic-infrastructure/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2024/08/13/Basic-Infrastructure</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2024/08/13/Basic-Infrastructure"/>
-        <title>Basic Infrastructure</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2024-08-13T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-basic-infrastructure/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Album Of The Week: Wishy Triple Seven</title>
         <author>
             <name>Stereogum</name>
@@ -2714,30 +2546,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-the-impressionist-blogging-movement/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Countrywomen</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2024-08-11T19:00:00+00:00</published>
-    <updated>2024-08-11T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-countrywomen/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-countrywomen/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2024/08/11/Countrywomen</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2024/08/11/Countrywomen"/>
-        <title>Countrywomen</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2024-08-11T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-countrywomen/</id>
     <content type="html">
         
     </content>
@@ -3655,30 +3463,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Invisible Attackers</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2024-07-30T19:00:00+00:00</published>
-    <updated>2024-07-30T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-invisible-attackers/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-invisible-attackers/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2024/07/30/Invisible-Attackers</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2024/07/30/Invisible-Attackers"/>
-        <title>Invisible Attackers</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2024-07-30T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-invisible-attackers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Album Of The Week: Navy Blue Memoirs In Armour</title>
         <author>
             <name>Stereogum</name>
@@ -3842,30 +3626,6 @@
       </source>
 
     <id>https://news.cryptic.io/linus-lee-a-notebook-for-seeing-with-language-models/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Union of Finite Automata</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2024-07-28T19:00:00+00:00</published>
-    <updated>2024-07-28T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-union-of-finite-automata/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-union-of-finite-automata/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2024/07/28/Union-of-Finite-Automata</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2024/07/28/Union-of-Finite-Automata"/>
-        <title>Union of Finite Automata</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2024-07-28T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-union-of-finite-automata/</id>
     <content type="html">
         
     </content>
