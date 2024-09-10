@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-09T06:50:00+00:00</updated>
+  <updated>2024-09-10T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>CLI-fu for Babylon and the Cosmwasm ecosystem</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-09-10T04:00:00+00:00</published>
+    <updated>2024-09-10T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-clifu-for-babylon-and-the-cosmwasm-ecosystem/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-clifu-for-babylon-and-the-cosmwasm-ecosystem/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/09-10-cli-fu-for-the-cosmwasm-ecosystem.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/09-10-cli-fu-for-the-cosmwasm-ecosystem.gmi"/>
+        <title>CLI-fu for Babylon and the Cosmwasm ecosystem</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-09-10T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-clifu-for-babylon-and-the-cosmwasm-ecosystem/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The EU vs US iPhone debate</title>
         <author>
@@ -6506,30 +6530,6 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-why-cant-programmers-agree-on-anything/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Thoughts and logs after messing with Tenstorrent Grayskull</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-06-02T04:00:00+00:00</published>
-    <updated>2024-06-02T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-thoughts-and-logs-after-messing-with-tenstorrent-grayskull/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-thoughts-and-logs-after-messing-with-tenstorrent-grayskull/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/06-02-thoughts-and-logs-after-messing-with-tenstorrent-grayskull.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/06-02-thoughts-and-logs-after-messing-with-tenstorrent-grayskull.gmi"/>
-        <title>Thoughts and logs after messing with Tenstorrent Grayskull</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-06-02T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-thoughts-and-logs-after-messing-with-tenstorrent-grayskull/</id>
     <content type="html">
         
     </content>
