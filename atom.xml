@@ -55,6 +55,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Craters</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-09-13T00:00:00+00:00</published>
+    <updated>2024-09-13T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-craters/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-craters/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2985/</id>
+        <link href="https://xkcd.com/2985/"/>
+        <title>Craters</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-09-13T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-craters/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>I fixed the strawberry problem because OpenAI couldn&#x27;t</title>
         <author>
             <name>Xe Iaso</name>
@@ -890,30 +914,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-thoughts-on-the-future-of-tla/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Slingshots</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-09-04T00:00:00+00:00</published>
-    <updated>2024-09-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-slingshots/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-slingshots/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2981/</id>
-        <link href="https://xkcd.com/2981/"/>
-        <title>Slingshots</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-09-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-slingshots/</id>
     <content type="html">
         
     </content>
