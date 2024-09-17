@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-17T00:00:00+00:00</updated>
+  <updated>2024-09-17T16:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>New Section Added: 🫶 Donation Station - All people&#x2F;orgs I have recurring donations to</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2024-09-17T16:00:00+00:00</published>
+    <updated>2024-09-17T16:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-new-section-added-donation-station-all-peopleorgs-i-have-recurring-donations-to/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-new-section-added-donation-station-all-peopleorgs-i-have-recurring-donations-to/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/donations.gmi</id>
+        <link href="https://mediocregopher.com/donations.gmi"/>
+        <title>New Section Added: 🫶 Donation Station - All people&#x2F;orgs I have recurring donations to</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2024-09-17T16:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-new-section-added-donation-station-all-peopleorgs-i-have-recurring-donations-to/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Every Scientific Field</title>
         <author>
@@ -9746,30 +9770,6 @@
       </source>
 
     <id>https://news.cryptic.io/james-brown-one-of-my-favorite-ruby-snippets/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>In Defense of Boilerplate</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2024-02-23T14:20:16+00:00</published>
-    <updated>2024-02-23T14:20:16+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-in-defense-of-boilerplate/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-in-defense-of-boilerplate/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/posts/boilerplate.gmi</id>
-        <link href="https://mediocregopher.com/posts/boilerplate.gmi"/>
-        <title>In Defense of Boilerplate</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2024-02-23T14:20:16+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-in-defense-of-boilerplate/</id>
     <content type="html">
         
     </content>
