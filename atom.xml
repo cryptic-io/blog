@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-17T16:00:00+00:00</updated>
+  <updated>2024-09-17T16:33:40+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Goodhart&#x27;s Law in Software Engineering</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-09-17T16:33:40+00:00</published>
+    <updated>2024-09-17T16:33:40+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-goodharts-law-in-software-engineering/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-goodharts-law-in-software-engineering/" type="text/html"/>
+      <source>
+        <id>https://buttondown.com/hillelwayne/archive/goodharts-law-in-software-engineering/</id>
+        <link href="https://buttondown.com/hillelwayne/archive/goodharts-law-in-software-engineering/"/>
+        <title>Goodhart&#x27;s Law in Software Engineering</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-09-17T16:33:40+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-goodharts-law-in-software-engineering/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>New Section Added: 🫶 Donation Station - All people&#x2F;orgs I have recurring donations to</title>
         <author>
@@ -5594,30 +5618,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-highlighting-blogging-on-mastodon/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Solving a math problem with planner programming</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-07-02T15:46:13+00:00</published>
-    <updated>2024-07-02T15:46:13+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-solving-a-math-problem-with-planner-programming/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-solving-a-math-problem-with-planner-programming/" type="text/html"/>
-      <source>
-        <id>https://buttondown.com/hillelwayne/archive/solving-a-math-problem-with-planner-programming/</id>
-        <link href="https://buttondown.com/hillelwayne/archive/solving-a-math-problem-with-planner-programming/"/>
-        <title>Solving a math problem with planner programming</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-07-02T15:46:13+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-solving-a-math-problem-with-planner-programming/</id>
     <content type="html">
         
     </content>
