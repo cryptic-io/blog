@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-17T19:00:00+00:00</updated>
+  <updated>2024-09-18T14:46:43+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Improving rendering performance with CSS content-visibility</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2024-09-18T14:46:43+00:00</published>
+    <updated>2024-09-18T14:46:43+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-improving-rendering-performance-with-css-contentvisibility/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-improving-rendering-performance-with-css-contentvisibility/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2024/09/18/improving-rendering-performance-with-css-content-visibility/</id>
+        <link href="https://nolanlawson.com/2024/09/18/improving-rendering-performance-with-css-content-visibility/"/>
+        <title>Improving rendering performance with CSS content-visibility</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2024-09-18T14:46:43+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-improving-rendering-performance-with-css-contentvisibility/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Estimated Reading Time Widgets</title>
         <author>
@@ -12490,30 +12514,6 @@
       </source>
 
     <id>https://news.cryptic.io/mechatronicsguy-lasercut-dnd-condition-rings/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Catching errors thrown from connectedCallback</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-    <published>2023-08-25T14:30:47+00:00</published>
-    <updated>2023-08-25T14:30:47+00:00</updated>
-    <link href="https://news.cryptic.io/nolan-lawson-catching-errors-thrown-from-connectedcallback/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-catching-errors-thrown-from-connectedcallback/" type="text/html"/>
-      <source>
-        <id>https://nolanlawson.com/2023/08/25/catching-errors-thrown-from-connectedcallback/</id>
-        <link href="https://nolanlawson.com/2023/08/25/catching-errors-thrown-from-connectedcallback/"/>
-        <title>Catching errors thrown from connectedCallback</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-        <updated>2023-08-25T14:30:47+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nolan-lawson-catching-errors-thrown-from-connectedcallback/</id>
     <content type="html">
         
     </content>
