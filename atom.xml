@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-17T16:33:40+00:00</updated>
+  <updated>2024-09-17T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Estimated Reading Time Widgets</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-09-17T19:00:00+00:00</published>
+    <updated>2024-09-17T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-estimated-reading-time-widgets/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-estimated-reading-time-widgets/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/reading-time-estimation-widgets/</id>
+        <link href="https://blog.jim-nielsen.com/2024/reading-time-estimation-widgets/"/>
+        <title>Estimated Reading Time Widgets</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-09-17T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-estimated-reading-time-widgets/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Goodhart&#x27;s Law in Software Engineering</title>
         <author>
@@ -2906,30 +2930,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-foss-contributors-first-step-translation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Iterative Building and Decision Making</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-08-14T19:00:00+00:00</published>
-    <updated>2024-08-14T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-iterative-building-and-decision-making/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-iterative-building-and-decision-making/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/iterative-building-and-decision-making/</id>
-        <link href="https://blog.jim-nielsen.com/2024/iterative-building-and-decision-making/"/>
-        <title>Iterative Building and Decision Making</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-08-14T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-iterative-building-and-decision-making/</id>
     <content type="html">
         
     </content>
