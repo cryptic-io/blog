@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-18T14:46:43+00:00</updated>
+  <updated>2024-09-19T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Tossed Salads And Scrumbled Eggs</title>
+        <author>
+            <name>Lucic</name>
+        </author>
+    <published>2024-09-19T00:00:00+00:00</published>
+    <updated>2024-09-19T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/lucic-tossed-salads-and-scrumbled-eggs/"/>
+    <link rel="alternate" href="https://news.cryptic.io/lucic-tossed-salads-and-scrumbled-eggs/" type="text/html"/>
+      <source>
+        <id>https://ludic.mataroa.blog/blog/tossed-salads-and-scrumbled-eggs/</id>
+        <link href="https://ludic.mataroa.blog/blog/tossed-salads-and-scrumbled-eggs/"/>
+        <title>Tossed Salads And Scrumbled Eggs</title>
+        <author>
+            <name>Lucic</name>
+        </author>
+        <updated>2024-09-19T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/lucic-tossed-salads-and-scrumbled-eggs/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Improving rendering performance with CSS content-visibility</title>
         <author>
@@ -7442,30 +7466,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-brian-specific-failures/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Breaking My University&#x27;s Machine Learning Competition</title>
-        <author>
-            <name>Lucic</name>
-        </author>
-    <published>2024-05-09T00:00:00+00:00</published>
-    <updated>2024-05-09T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/lucic-breaking-my-universitys-machine-learning-competition/"/>
-    <link rel="alternate" href="https://news.cryptic.io/lucic-breaking-my-universitys-machine-learning-competition/" type="text/html"/>
-      <source>
-        <id>https://ludic.mataroa.blog/blog/breaking-my-universitys-machine-learning-competition/</id>
-        <link href="https://ludic.mataroa.blog/blog/breaking-my-universitys-machine-learning-competition/"/>
-        <title>Breaking My University&#x27;s Machine Learning Competition</title>
-        <author>
-            <name>Lucic</name>
-        </author>
-        <updated>2024-05-09T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/lucic-breaking-my-universitys-machine-learning-competition/</id>
     <content type="html">
         
     </content>
