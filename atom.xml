@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-20T14:00:42+00:00</updated>
+  <updated>2024-09-21T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Dead simple userspace WireGuard setup guide</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-09-21T04:00:00+00:00</published>
+    <updated>2024-09-21T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-dead-simple-userspace-wireguard-setup-guide/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-dead-simple-userspace-wireguard-setup-guide/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/09-21-dead-simple-usersapce-wireguard-setup-guide.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/09-21-dead-simple-usersapce-wireguard-setup-guide.gmi"/>
+        <title>Dead simple userspace WireGuard setup guide</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-09-21T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-dead-simple-userspace-wireguard-setup-guide/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Sipeed NanoKVM: A RISC-V stick-on</title>
         <author>
@@ -6722,30 +6746,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-updating-core-data-object-id-uris-on-store-migrations/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Pledging OpenGL applications on OpenBSD</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-06-03T04:00:00+00:00</published>
-    <updated>2024-06-03T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-pledging-opengl-applications-on-openbsd/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-pledging-opengl-applications-on-openbsd/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/06-03-pledging-opengl-applications-on-openbsd.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/06-03-pledging-opengl-applications-on-openbsd.gmi"/>
-        <title>Pledging OpenGL applications on OpenBSD</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-06-03T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-pledging-opengl-applications-on-openbsd/</id>
     <content type="html">
         
     </content>
