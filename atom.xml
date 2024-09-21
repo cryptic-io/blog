@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-21T04:00:00+00:00</updated>
+  <updated>2024-09-21T15:41:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Hire HTML and CSS people</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-09-21T15:41:00+00:00</published>
+    <updated>2024-09-21T15:41:00+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-hire-html-and-css-people/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-hire-html-and-css-people/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/hire-html-people/</id>
+        <link href="https://robinrendle.com/notes/hire-html-people/"/>
+        <title>Hire HTML and CSS people</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-09-21T15:41:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-hire-html-and-css-people/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Dead simple userspace WireGuard setup guide</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-dead-simple-userspace-wireguard-setup-guide/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The pipeline problem</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+    <published>2024-09-21T00:00:00+00:00</published>
+    <updated>2024-09-21T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/justin-jackson-the-pipeline-problem/"/>
+    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-the-pipeline-problem/" type="text/html"/>
+      <source>
+        <id>https://justinjackson.ca/summer-project</id>
+        <link href="https://justinjackson.ca/summer-project"/>
+        <title>The pipeline problem</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+        <updated>2024-09-21T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/justin-jackson-the-pipeline-problem/</id>
     <content type="html">
         
     </content>
@@ -3482,30 +3530,6 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-how-good-can-you-be-at-codenames-without-knowing-any-words/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>We don’t need a boss, we need a process</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-08-10T17:31:04+00:00</published>
-    <updated>2024-08-10T17:31:04+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-we-dont-need-a-boss-we-need-a-process/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-we-dont-need-a-boss-we-need-a-process/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/we-dont-need-a-boss-we-need-a-process/</id>
-        <link href="https://robinrendle.com/notes/we-dont-need-a-boss-we-need-a-process/"/>
-        <title>We don’t need a boss, we need a process</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-08-10T17:31:04+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-we-dont-need-a-boss-we-need-a-process/</id>
     <content type="html">
         
     </content>
@@ -10130,30 +10154,6 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-lethargy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Send your users this welcome email</title>
-        <author>
-            <name>Justin Jackson</name>
-        </author>
-    <published>2024-02-03T00:00:00+00:00</published>
-    <updated>2024-02-03T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/justin-jackson-send-your-users-this-welcome-email/"/>
-    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-send-your-users-this-welcome-email/" type="text/html"/>
-      <source>
-        <id>https://justinjackson.ca/welcome-email</id>
-        <link href="https://justinjackson.ca/welcome-email"/>
-        <title>Send your users this welcome email</title>
-        <author>
-            <name>Justin Jackson</name>
-        </author>
-        <updated>2024-02-03T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/justin-jackson-send-your-users-this-welcome-email/</id>
     <content type="html">
         
     </content>
