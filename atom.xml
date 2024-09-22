@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-21T15:41:00+00:00</updated>
+  <updated>2024-09-22T03:01:58+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>They stole my voice with AI</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-09-22T03:01:58+00:00</published>
+    <updated>2024-09-22T03:01:58+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-they-stole-my-voice-with-ai/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-they-stole-my-voice-with-ai/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai"/>
+        <title>They stole my voice with AI</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-09-22T03:01:58+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-they-stole-my-voice-with-ai/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Hire HTML and CSS people</title>
         <author>
@@ -4658,30 +4682,6 @@
       </source>
 
     <id>https://news.cryptic.io/ed-zitron-rot-economics-an-interview-with-mits-daron-acemoglu/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Getting Started with Meshtastic</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-07-24T15:00:45+00:00</published>
-    <updated>2024-07-24T15:00:45+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-getting-started-with-meshtastic/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-getting-started-with-meshtastic/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/getting-started-meshtastic</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/getting-started-meshtastic"/>
-        <title>Getting Started with Meshtastic</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-07-24T15:00:45+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-getting-started-with-meshtastic/</id>
     <content type="html">
         
     </content>
