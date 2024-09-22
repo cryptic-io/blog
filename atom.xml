@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-22T10:07:00+00:00</updated>
+  <updated>2024-09-23T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Enable HTTP&#x2F;2 on your Nextcloud server and crank up your PHP process count</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-09-23T04:00:00+00:00</published>
+    <updated>2024-09-23T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-enable-http2-on-your-nextcloud-server-and-crank-up-your-php-process-count/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-enable-http2-on-your-nextcloud-server-and-crank-up-your-php-process-count/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/09-23-enable-http2-on-your-nextcloud-server.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/09-23-enable-http2-on-your-nextcloud-server.gmi"/>
+        <title>Enable HTTP&#x2F;2 on your Nextcloud server and crank up your PHP process count</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-09-23T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-enable-http2-on-your-nextcloud-server-and-crank-up-your-php-process-count/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>John Recommends: B.P.R.D. Humble Bundle</title>
         <author>
@@ -6746,30 +6770,6 @@
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-adding-google-web-search-to-firefox/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>My stance on (GitHub) Copilot</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-    <published>2024-06-04T04:00:00+00:00</published>
-    <updated>2024-06-04T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/martin-chang-my-stance-on-github-copilot/"/>
-    <link rel="alternate" href="https://news.cryptic.io/martin-chang-my-stance-on-github-copilot/" type="text/html"/>
-      <source>
-        <id>https://clehaxze.tw/gemlog/2024/06-04-my-stance-on-github-copilot.gmi</id>
-        <link href="https://clehaxze.tw/gemlog/2024/06-04-my-stance-on-github-copilot.gmi"/>
-        <title>My stance on (GitHub) Copilot</title>
-        <author>
-            <name>Martin Chang</name>
-        </author>
-        <updated>2024-06-04T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/martin-chang-my-stance-on-github-copilot/</id>
     <content type="html">
         
     </content>
