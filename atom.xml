@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-25T15:00:43+00:00</updated>
+  <updated>2024-09-25T20:42:07+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The FIPS Compliance of HKDF</title>
+        <author>
+            <name>Filippo Valsorda</name>
+        </author>
+    <published>2024-09-25T20:42:07+00:00</published>
+    <updated>2024-09-25T20:42:07+00:00</updated>
+    <link href="https://news.cryptic.io/filippo-valsorda-the-fips-compliance-of-hkdf/"/>
+    <link rel="alternate" href="https://news.cryptic.io/filippo-valsorda-the-fips-compliance-of-hkdf/" type="text/html"/>
+      <source>
+        <id>https://words.filippo.io/dispatches/fips-hkdf/</id>
+        <link href="https://words.filippo.io/dispatches/fips-hkdf/"/>
+        <title>The FIPS Compliance of HKDF</title>
+        <author>
+            <name>Filippo Valsorda</name>
+        </author>
+        <updated>2024-09-25T20:42:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/filippo-valsorda-the-fips-compliance-of-hkdf/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Elecrow responded, apologized for AI voice cloning</title>
         <author>
@@ -12322,30 +12346,6 @@
       </source>
 
     <id>https://news.cryptic.io/jes-olson-shell-tip-print-json-with-printf/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Announcing the $12k NIST Elliptic Curves Seeds Bounty</title>
-        <author>
-            <name>Filippo Valsorda</name>
-        </author>
-    <published>2023-10-05T21:21:08+00:00</published>
-    <updated>2023-10-05T21:21:08+00:00</updated>
-    <link href="https://news.cryptic.io/filippo-valsorda-announcing-the-12k-nist-elliptic-curves-seeds-bounty/"/>
-    <link rel="alternate" href="https://news.cryptic.io/filippo-valsorda-announcing-the-12k-nist-elliptic-curves-seeds-bounty/" type="text/html"/>
-      <source>
-        <id>https://words.filippo.io/dispatches/seeds-bounty/</id>
-        <link href="https://words.filippo.io/dispatches/seeds-bounty/"/>
-        <title>Announcing the $12k NIST Elliptic Curves Seeds Bounty</title>
-        <author>
-            <name>Filippo Valsorda</name>
-        </author>
-        <updated>2023-10-05T21:21:08+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/filippo-valsorda-announcing-the-12k-nist-elliptic-curves-seeds-bounty/</id>
     <content type="html">
         
     </content>
