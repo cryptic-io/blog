@@ -79,6 +79,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The Watermelon Operator</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2024-09-24T00:00:00+00:00</published>
+    <updated>2024-09-24T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-the-watermelon-operator/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-the-watermelon-operator/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2024/09/24/watermelon-operator.html</id>
+        <link href="https://matklad.github.io/2024/09/24/watermelon-operator.html"/>
+        <title>The Watermelon Operator</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2024-09-24T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-the-watermelon-operator/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Features I&#x27;d like to add to this website</title>
         <author>
             <name>John Whiles</name>
@@ -8930,30 +8954,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-basic-things/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Zig defer Patterns</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2024-03-21T00:00:00+00:00</published>
-    <updated>2024-03-21T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-zig-defer-patterns/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-zig-defer-patterns/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2024/03/21/defer-patterns.html</id>
-        <link href="https://matklad.github.io/2024/03/21/defer-patterns.html"/>
-        <title>Zig defer Patterns</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2024-03-21T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-zig-defer-patterns/</id>
     <content type="html">
         
     </content>
