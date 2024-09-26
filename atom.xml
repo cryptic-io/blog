@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-26T09:00:00+00:00</updated>
+  <updated>2024-09-26T13:30:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Serge Guirao: En Chanteur (1987)</title>
+        <author>
+            <name>Diego Olivas</name>
+        </author>
+    <published>2024-09-26T13:30:00+00:00</published>
+    <updated>2024-09-26T13:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/diego-olivas-serge-guirao-en-chanteur-1987/"/>
+    <link rel="alternate" href="https://news.cryptic.io/diego-olivas-serge-guirao-en-chanteur-1987/" type="text/html"/>
+      <source>
+        <id>https://www.fondsound.com/serge-guirao-en-chanteur-1987/</id>
+        <link href="https://www.fondsound.com/serge-guirao-en-chanteur-1987/"/>
+        <title>Serge Guirao: En Chanteur (1987)</title>
+        <author>
+            <name>Diego Olivas</name>
+        </author>
+        <updated>2024-09-26T13:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/diego-olivas-serge-guirao-en-chanteur-1987/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Internet commentary</title>
         <author>
@@ -50,6 +74,30 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-qualcomm-snapdragon-dev-kit-for-windows-teardown-2024/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Statuses updated and a keyboard</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2024-09-26T00:00:00+00:00</published>
+    <updated>2024-09-26T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-statuses-updated-and-a-keyboard/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-statuses-updated-and-a-keyboard/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2024/09/26/twif.html</id>
+        <link href="https://f-droid.org/en/2024/09/26/twif.html"/>
+        <title>Statuses updated and a keyboard</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2024-09-26T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-statuses-updated-and-a-keyboard/</id>
     <content type="html">
         
     </content>
@@ -122,30 +170,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-elecrow-responded-apologized-for-ai-voice-cloning/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Thoughts on working inside a data center suite</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-09-25T08:44:34+00:00</published>
-    <updated>2024-09-25T08:44:34+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-thoughts-on-working-inside-a-data-center-suite/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-thoughts-on-working-inside-a-data-center-suite/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/09/25/suite/</id>
-        <link href="https://rachelbythebay.com/w/2024/09/25/suite/"/>
-        <title>Thoughts on working inside a data center suite</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-09-25T08:44:34+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-thoughts-on-working-inside-a-data-center-suite/</id>
     <content type="html">
         
     </content>
@@ -319,30 +343,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>More jabbering from me about non-clown hosting</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-09-23T21:38:12+00:00</published>
-    <updated>2024-09-23T21:38:12+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-more-jabbering-from-me-about-nonclown-hosting/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-more-jabbering-from-me-about-nonclown-hosting/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/09/23/colo/</id>
-        <link href="https://rachelbythebay.com/w/2024/09/23/colo/"/>
-        <title>More jabbering from me about non-clown hosting</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-09-23T21:38:12+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-more-jabbering-from-me-about-nonclown-hosting/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Features I&#x27;d like to add to this website</title>
         <author>
             <name>John Whiles</name>
@@ -362,30 +362,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-features-id-like-to-add-to-this-website/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A terrible way to jump into colocating your own stuff</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-09-23T17:20:31+00:00</published>
-    <updated>2024-09-23T17:20:31+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-a-terrible-way-to-jump-into-colocating-your-own-stuff/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-terrible-way-to-jump-into-colocating-your-own-stuff/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/09/22/colo/</id>
-        <link href="https://rachelbythebay.com/w/2024/09/22/colo/"/>
-        <title>A terrible way to jump into colocating your own stuff</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-09-23T17:20:31+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-a-terrible-way-to-jump-into-colocating-your-own-stuff/</id>
     <content type="html">
         
     </content>
@@ -1327,30 +1303,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Another feed reader score roundup</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-09-14T03:04:05+00:00</published>
-    <updated>2024-09-14T03:04:05+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-another-feed-reader-score-roundup/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-another-feed-reader-score-roundup/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/09/13/fs/</id>
-        <link href="https://rachelbythebay.com/w/2024/09/13/fs/"/>
-        <title>Another feed reader score roundup</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-09-14T03:04:05+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-another-feed-reader-score-roundup/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>P&amp;B: Naz Hamid</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -2162,30 +2114,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-thoughts-on-the-future-of-tla/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>&quot;SRE&quot; doesn&#x27;t seem to mean anything useful any more</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-09-04T06:53:36+00:00</published>
-    <updated>2024-09-04T06:53:36+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-sre-doesnt-seem-to-mean-anything-useful-any-more/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-sre-doesnt-seem-to-mean-anything-useful-any-more/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/09/03/ops/</id>
-        <link href="https://rachelbythebay.com/w/2024/09/03/ops/"/>
-        <title>&quot;SRE&quot; doesn&#x27;t seem to mean anything useful any more</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-09-04T06:53:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-sre-doesnt-seem-to-mean-anything-useful-any-more/</id>
     <content type="html">
         
     </content>
@@ -3511,30 +3439,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A common bug in a bunch of feed readers</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-08-18T23:16:27+00:00</published>
-    <updated>2024-08-18T23:16:27+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-a-common-bug-in-a-bunch-of-feed-readers/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-common-bug-in-a-bunch-of-feed-readers/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/08/17/hash/</id>
-        <link href="https://rachelbythebay.com/w/2024/08/17/hash/"/>
-        <title>A common bug in a bunch of feed readers</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-08-18T23:16:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-a-common-bug-in-a-bunch-of-feed-readers/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Radxa X4 SBC Unites Intel N100 and Raspberry Pi RP2040</title>
         <author>
             <name>Jeff Geerling</name>
@@ -3698,30 +3602,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-foss-contributors-first-step-translation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Decoding an old SkyScan wireless weather sensor</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-08-14T22:19:17+00:00</published>
-    <updated>2024-08-14T22:19:17+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-decoding-an-old-skyscan-wireless-weather-sensor/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-decoding-an-old-skyscan-wireless-weather-sensor/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/08/14/skyscan/</id>
-        <link href="https://rachelbythebay.com/w/2024/08/14/skyscan/"/>
-        <title>Decoding an old SkyScan wireless weather sensor</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-08-14T22:19:17+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-decoding-an-old-skyscan-wireless-weather-sensor/</id>
     <content type="html">
         
     </content>
@@ -3943,30 +3823,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>An update on another feed reader from its author</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-08-12T07:44:13+00:00</published>
-    <updated>2024-08-12T07:44:13+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-an-update-on-another-feed-reader-from-its-author/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-an-update-on-another-feed-reader-from-its-author/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/08/12/unread/</id>
-        <link href="https://rachelbythebay.com/w/2024/08/12/unread/"/>
-        <title>An update on another feed reader from its author</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-08-12T07:44:13+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-an-update-on-another-feed-reader-from-its-author/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Dangerous Misinformation</title>
         <author>
             <name>geohot</name>
@@ -4058,30 +3914,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-guess-whos-back/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Feedback on github, mangling code, and a feed reader</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-08-11T06:04:32+00:00</published>
-    <updated>2024-08-11T06:04:32+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feedback-on-github-mangling-code-and-a-feed-reader/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-on-github-mangling-code-and-a-feed-reader/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/08/10/feedback/</id>
-        <link href="https://rachelbythebay.com/w/2024/08/10/feedback/"/>
-        <title>Feedback on github, mangling code, and a feed reader</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-08-11T06:04:32+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feedback-on-github-mangling-code-and-a-feed-reader/</id>
     <content type="html">
         
     </content>
@@ -4562,30 +4394,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-a-streamlined-and-sustainable-app-deployment-approach-with-mobifree/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Feedback on feed stuff and those pesky blue screens</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-08-03T22:23:13+00:00</published>
-    <updated>2024-08-03T22:23:13+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feedback-on-feed-stuff-and-those-pesky-blue-screens/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-on-feed-stuff-and-those-pesky-blue-screens/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/08/03/feedback/</id>
-        <link href="https://rachelbythebay.com/w/2024/08/03/feedback/"/>
-        <title>Feedback on feed stuff and those pesky blue screens</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-08-03T22:23:13+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feedback-on-feed-stuff-and-those-pesky-blue-screens/</id>
     <content type="html">
         
     </content>
@@ -5167,30 +4975,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The anti-feature you&#x27;ve asked for</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-07-25T00:00:00+00:00</published>
-    <updated>2024-07-25T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/various-the-antifeature-youve-asked-for/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-the-antifeature-youve-asked-for/" type="text/html"/>
-      <source>
-        <id>https://f-droid.org/en/2024/07/25/twif.html</id>
-        <link href="https://f-droid.org/en/2024/07/25/twif.html"/>
-        <title>The anti-feature you&#x27;ve asked for</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-07-25T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-the-antifeature-youve-asked-for/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Rot Economics - An Interview With MIT&#x27;s Daron Acemoglu</title>
         <author>
             <name>Ed Zitron</name>
@@ -5690,30 +5474,6 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-all-i-need-to-know-about-engineering-leadership-i-learned-from-leave-no-trace/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Shinsuke Honda (本多信介): The Song Of Blue (イルカ・ドリーミング)(1997)</title>
-        <author>
-            <name>Diego Olivas</name>
-        </author>
-    <published>2024-07-11T19:16:20+00:00</published>
-    <updated>2024-07-11T19:16:20+00:00</updated>
-    <link href="https://news.cryptic.io/diego-olivas-shinsuke-honda-the-song-of-blue-1997/"/>
-    <link rel="alternate" href="https://news.cryptic.io/diego-olivas-shinsuke-honda-the-song-of-blue-1997/" type="text/html"/>
-      <source>
-        <id>https://www.fondsound.com/shinsuke-honda-%e6%9c%ac%e5%a4%9a%e4%bf%a1%e4%bb%8b-the-song-of-blue-%e3%82%a4%e3%83%ab%e3%82%ab%e3%83%bb%e3%83%89%e3%83%aa%e3%83%bc%e3%83%9f%e3%83%b3%e3%82%b01997/</id>
-        <link href="https://www.fondsound.com/shinsuke-honda-%e6%9c%ac%e5%a4%9a%e4%bf%a1%e4%bb%8b-the-song-of-blue-%e3%82%a4%e3%83%ab%e3%82%ab%e3%83%bb%e3%83%89%e3%83%aa%e3%83%bc%e3%83%9f%e3%83%b3%e3%82%b01997/"/>
-        <title>Shinsuke Honda (本多信介): The Song Of Blue (イルカ・ドリーミング)(1997)</title>
-        <author>
-            <name>Diego Olivas</name>
-        </author>
-        <updated>2024-07-11T19:16:20+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/diego-olivas-shinsuke-honda-the-song-of-blue-1997/</id>
     <content type="html">
         
     </content>
