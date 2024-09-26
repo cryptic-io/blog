@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-26T03:27:19+00:00</updated>
+  <updated>2024-09-26T09:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Internet commentary</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-09-26T09:00:00+00:00</published>
+    <updated>2024-09-26T09:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-internet-commentary/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-internet-commentary/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/BwagUtIufp2zTywI</id>
+        <link href="https://manuelmoreale.com/@/page/BwagUtIufp2zTywI"/>
+        <title>Internet commentary</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-09-26T09:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-internet-commentary/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Qualcomm Snapdragon Dev Kit for Windows Teardown (2024)</title>
         <author>
@@ -2090,30 +2114,6 @@
       </source>
 
     <id>https://news.cryptic.io/stereogum-album-of-the-week-dummy-free-energy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The internet used to be great</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-09-03T08:25:00+00:00</published>
-    <updated>2024-09-03T08:25:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-the-internet-used-to-be-great/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-the-internet-used-to-be-great/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/l4vWmRTyoGiXWhQN</id>
-        <link href="https://manuelmoreale.com/@/page/l4vWmRTyoGiXWhQN"/>
-        <title>The internet used to be great</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-09-03T08:25:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-the-internet-used-to-be-great/</id>
     <content type="html">
         
     </content>
