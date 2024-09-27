@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-27T00:00:00+00:00</updated>
+  <updated>2024-09-27T05:11:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A Brief Review of Porteus Linux</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+    <published>2024-09-27T05:11:00+00:00</published>
+    <updated>2024-09-27T05:11:00+00:00</updated>
+    <link href="https://news.cryptic.io/cheapskate-a-brief-review-of-porteus-linux/"/>
+    <link rel="alternate" href="https://news.cryptic.io/cheapskate-a-brief-review-of-porteus-linux/" type="text/html"/>
+      <source>
+        <id>https://cheapskatesguide.org/articles/porteus-linux.html</id>
+        <link href="https://cheapskatesguide.org/articles/porteus-linux.html"/>
+        <title>A Brief Review of Porteus Linux</title>
+        <author>
+            <name>Cheapskate</name>
+        </author>
+        <updated>2024-09-27T05:11:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/cheapskate-a-brief-review-of-porteus-linux/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Wealth = Have ÷ Need</title>
         <author>
@@ -5234,30 +5258,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-upcoming-changes-to-the-discovery-feed/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Everyone wants to control the Internet.</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2024-07-19T05:03:00+00:00</published>
-    <updated>2024-07-19T05:03:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-everyone-wants-to-control-the-internet/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-everyone-wants-to-control-the-internet/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/control-of-the-internet.html</id>
-        <link href="https://cheapskatesguide.org/articles/control-of-the-internet.html"/>
-        <title>Everyone wants to control the Internet.</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2024-07-19T05:03:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-everyone-wants-to-control-the-internet/</id>
     <content type="html">
         
     </content>
