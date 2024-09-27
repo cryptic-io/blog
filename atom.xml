@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-27T11:00:00+00:00</updated>
+  <updated>2024-09-27T14:36:42+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>AVerMedia Live Gamer Portable 2 Plus - Can&#x27;t record to microSD</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-09-27T14:36:42+00:00</published>
+    <updated>2024-09-27T14:36:42+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-avermedia-live-gamer-portable-2-plus-cant-record-to-microsd/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-avermedia-live-gamer-portable-2-plus-cant-record-to-microsd/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/avermedia-live-gamer-portable-2-plus-cant-record-microsd</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/avermedia-live-gamer-portable-2-plus-cant-record-microsd"/>
+        <title>AVerMedia Live Gamer Portable 2 Plus - Can&#x27;t record to microSD</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-09-27T14:36:42+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-avermedia-live-gamer-portable-2-plus-cant-record-to-microsd/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>P&amp;B: Justin Duke</title>
         <author>
@@ -4442,30 +4466,6 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-reliable-javascript-benchmarking-with-tachometer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Milk-V Jupiter is the first ITX RISC-V board I&#x27;ve tested</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-08-05T14:05:40+00:00</published>
-    <updated>2024-08-05T14:05:40+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-milkv-jupiter-is-the-first-itx-riscv-board-ive-tested/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-milkv-jupiter-is-the-first-itx-riscv-board-ive-tested/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/milk-v-jupiter-first-itx-risc-v-board-ive-tested</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/milk-v-jupiter-first-itx-risc-v-board-ive-tested"/>
-        <title>Milk-V Jupiter is the first ITX RISC-V board I&#x27;ve tested</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-08-05T14:05:40+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-milkv-jupiter-is-the-first-itx-riscv-board-ive-tested/</id>
     <content type="html">
         
     </content>
