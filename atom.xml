@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-29T00:00:00+00:00</updated>
+  <updated>2024-09-29T17:04:34+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Subliminal git commits</title>
+        <author>
+            <name>Tyler Cipriani</name>
+        </author>
+    <published>2024-09-29T17:04:34+00:00</published>
+    <updated>2024-09-29T17:04:34+00:00</updated>
+    <link href="https://news.cryptic.io/tyler-cipriani-subliminal-git-commits/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tyler-cipriani-subliminal-git-commits/" type="text/html"/>
+      <source>
+        <id>https://tylercipriani.com/blog/2024/09/29/subliminal-git-commits/</id>
+        <link href="https://tylercipriani.com/blog/2024/09/29/subliminal-git-commits/"/>
+        <title>Subliminal git commits</title>
+        <author>
+            <name>Tyler Cipriani</name>
+        </author>
+        <updated>2024-09-29T17:04:34+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tyler-cipriani-subliminal-git-commits/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Microscopes are neat</title>
         <author>
@@ -8594,30 +8618,6 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-mentorship-coaching-sponsorship-three-different-and-equally-important-tools-for-developing-talent/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>My eclipse photography plan</title>
-        <author>
-            <name>Tyler Cipriani</name>
-        </author>
-    <published>2024-03-31T20:32:54+00:00</published>
-    <updated>2024-03-31T20:32:54+00:00</updated>
-    <link href="https://news.cryptic.io/tyler-cipriani-my-eclipse-photography-plan/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tyler-cipriani-my-eclipse-photography-plan/" type="text/html"/>
-      <source>
-        <id>https://tylercipriani.com/blog/2024/03/31/eclipse/</id>
-        <link href="https://tylercipriani.com/blog/2024/03/31/eclipse/"/>
-        <title>My eclipse photography plan</title>
-        <author>
-            <name>Tyler Cipriani</name>
-        </author>
-        <updated>2024-03-31T20:32:54+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tyler-cipriani-my-eclipse-photography-plan/</id>
     <content type="html">
         
     </content>
