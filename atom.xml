@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-28T15:16:08+00:00</updated>
+  <updated>2024-09-28T23:28:46+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Web components are okay</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2024-09-28T23:28:46+00:00</published>
+    <updated>2024-09-28T23:28:46+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-web-components-are-okay/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-web-components-are-okay/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2024/09/28/web-components-are-okay/</id>
+        <link href="https://nolanlawson.com/2024/09/28/web-components-are-okay/"/>
+        <title>Web components are okay</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2024-09-28T23:28:46+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-web-components-are-okay/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Coming home</title>
         <author>
@@ -11598,30 +11622,6 @@
       </source>
 
     <id>https://news.cryptic.io/apenwarr-nps-the-good-parts/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Let’s learn how modern JavaScript frameworks work by building one</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-    <published>2023-12-02T19:47:11+00:00</published>
-    <updated>2023-12-02T19:47:11+00:00</updated>
-    <link href="https://news.cryptic.io/nolan-lawson-lets-learn-how-modern-javascript-frameworks-work-by-building-one/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-lets-learn-how-modern-javascript-frameworks-work-by-building-one/" type="text/html"/>
-      <source>
-        <id>https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/</id>
-        <link href="https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/"/>
-        <title>Let’s learn how modern JavaScript frameworks work by building one</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-        <updated>2023-12-02T19:47:11+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nolan-lawson-lets-learn-how-modern-javascript-frameworks-work-by-building-one/</id>
     <content type="html">
         
     </content>
