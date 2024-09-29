@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-28T23:28:46+00:00</updated>
+  <updated>2024-09-29T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Microscopes are neat</title>
+        <author>
+            <name>Chris Kiehl</name>
+        </author>
+    <published>2024-09-29T00:00:00+00:00</published>
+    <updated>2024-09-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-kiehl-microscopes-are-neat/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-kiehl-microscopes-are-neat/" type="text/html"/>
+      <source>
+        <id>https://chriskiehl.com/article/microscopes-are-neat</id>
+        <link href="https://chriskiehl.com/article/microscopes-are-neat"/>
+        <title>Microscopes are neat</title>
+        <author>
+            <name>Chris Kiehl</name>
+        </author>
+        <updated>2024-09-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-kiehl-microscopes-are-neat/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Web components are okay</title>
         <author>
@@ -15114,30 +15138,6 @@
       </source>
 
     <id>https://news.cryptic.io/iliana-etaoin-there-is-no-software-supply-chain/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to Influence Query Planning in Postgresql</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-    <published>2022-09-18T00:00:00+00:00</published>
-    <updated>2022-09-18T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-kiehl-how-to-influence-query-planning-in-postgresql/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-kiehl-how-to-influence-query-planning-in-postgresql/" type="text/html"/>
-      <source>
-        <id>https://chriskiehl.com/article/query-plan-management</id>
-        <link href="https://chriskiehl.com/article/query-plan-management"/>
-        <title>How to Influence Query Planning in Postgresql</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-        <updated>2022-09-18T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-kiehl-how-to-influence-query-planning-in-postgresql/</id>
     <content type="html">
         
     </content>
