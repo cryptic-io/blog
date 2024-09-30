@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-30T00:19:00+00:00</updated>
+  <updated>2024-09-30T20:52:55+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>ROOPHLOCH 2024: A minimum viable garden</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+    <published>2024-09-30T20:52:55+00:00</published>
+    <updated>2024-09-30T20:52:55+00:00</updated>
+    <link href="https://news.cryptic.io/degrowther-roophloch-2024-a-minimum-viable-garden/"/>
+    <link rel="alternate" href="https://news.cryptic.io/degrowther-roophloch-2024-a-minimum-viable-garden/" type="text/html"/>
+      <source>
+        <id>https://degrowther.smol.pub/20240930_minimum_viable_garden</id>
+        <link href="https://degrowther.smol.pub/20240930_minimum_viable_garden"/>
+        <title>ROOPHLOCH 2024: A minimum viable garden</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+        <updated>2024-09-30T20:52:55+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/degrowther-roophloch-2024-a-minimum-viable-garden/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>BFS zero-to-hero, part 6: Rush Hour</title>
         <author>
@@ -11694,30 +11718,6 @@
       </source>
 
     <id>https://news.cryptic.io/apenwarr-nps-the-good-parts/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I am a person in my neighborhood</title>
-        <author>
-            <name>degrowther</name>
-        </author>
-    <published>2023-12-01T22:39:15+00:00</published>
-    <updated>2023-12-01T22:39:15+00:00</updated>
-    <link href="https://news.cryptic.io/degrowther-i-am-a-person-in-my-neighborhood/"/>
-    <link rel="alternate" href="https://news.cryptic.io/degrowther-i-am-a-person-in-my-neighborhood/" type="text/html"/>
-      <source>
-        <id>https://degrowther.smol.pub/20231201_in_my_neighborhood</id>
-        <link href="https://degrowther.smol.pub/20231201_in_my_neighborhood"/>
-        <title>I am a person in my neighborhood</title>
-        <author>
-            <name>degrowther</name>
-        </author>
-        <updated>2023-12-01T22:39:15+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/degrowther-i-am-a-person-in-my-neighborhood/</id>
     <content type="html">
         
     </content>
