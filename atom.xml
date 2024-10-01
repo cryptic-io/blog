@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-09-30T20:52:55+00:00</updated>
+  <updated>2024-10-01T03:00:01+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Ad hoc tools for gathering prompt context</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2024-10-01T03:00:01+00:00</published>
+    <updated>2024-10-01T03:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-ad-hoc-tools-for-gathering-prompt-context/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-ad-hoc-tools-for-gathering-prompt-context/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/promptcontext.html</id>
+        <link href="https://austinhenley.com/blog/promptcontext.html"/>
+        <title>Ad hoc tools for gathering prompt context</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2024-10-01T03:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-ad-hoc-tools-for-gathering-prompt-context/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>ROOPHLOCH 2024: A minimum viable garden</title>
         <author>
@@ -8234,30 +8258,6 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-the-monoculture-of-machine-learning/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Mistakes that data science students make</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-    <published>2024-04-28T20:00:01+00:00</published>
-    <updated>2024-04-28T20:00:01+00:00</updated>
-    <link href="https://news.cryptic.io/austin-z-henley-mistakes-that-data-science-students-make/"/>
-    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-mistakes-that-data-science-students-make/" type="text/html"/>
-      <source>
-        <id>https://austinhenley.com/blog/datasciencemistakes.html</id>
-        <link href="https://austinhenley.com/blog/datasciencemistakes.html"/>
-        <title>Mistakes that data science students make</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-        <updated>2024-04-28T20:00:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/austin-z-henley-mistakes-that-data-science-students-make/</id>
     <content type="html">
         
     </content>
