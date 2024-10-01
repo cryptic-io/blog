@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-10-01T03:00:01+00:00</updated>
+  <updated>2024-10-01T11:48:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Sam Altman wrote a blog post…</title>
+        <author>
+            <name>Rodrigo Ghedin</name>
+        </author>
+    <published>2024-10-01T11:48:00+00:00</published>
+    <updated>2024-10-01T11:48:00+00:00</updated>
+    <link href="https://news.cryptic.io/rodrigo-ghedin-sam-altman-wrote-a-blog-post/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rodrigo-ghedin-sam-altman-wrote-a-blog-post/" type="text/html"/>
+      <source>
+        <id>https://notes.ghed.in/posts/2024/sam-altman-the-intelligence-age/</id>
+        <link href="https://notes.ghed.in/posts/2024/sam-altman-the-intelligence-age/"/>
+        <title>Sam Altman wrote a blog post…</title>
+        <author>
+            <name>Rodrigo Ghedin</name>
+        </author>
+        <updated>2024-10-01T11:48:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rodrigo-ghedin-sam-altman-wrote-a-blog-post/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Ad hoc tools for gathering prompt context</title>
         <author>
@@ -7946,30 +7970,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-layerwise-inferencing-batching-small-vram-doesnt-limit-llm-throughput-anymore/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Today I learned that iMessage automatically…</title>
-        <author>
-            <name>Rodrigo Ghedin</name>
-        </author>
-    <published>2024-05-13T11:41:00+00:00</published>
-    <updated>2024-05-13T11:41:00+00:00</updated>
-    <link href="https://news.cryptic.io/rodrigo-ghedin-today-i-learned-that-imessage-automatically/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rodrigo-ghedin-today-i-learned-that-imessage-automatically/" type="text/html"/>
-      <source>
-        <id>https://notes.ghed.in/posts/2024/imessage-transcribing-audio-messages/</id>
-        <link href="https://notes.ghed.in/posts/2024/imessage-transcribing-audio-messages/"/>
-        <title>Today I learned that iMessage automatically…</title>
-        <author>
-            <name>Rodrigo Ghedin</name>
-        </author>
-        <updated>2024-05-13T11:41:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rodrigo-ghedin-today-i-learned-that-imessage-automatically/</id>
     <content type="html">
         
     </content>
