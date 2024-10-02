@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-10-02T19:00:00+00:00</updated>
+  <updated>2024-10-02T21:11:05+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Infer, an AI Eng Meetup in Vancouver</title>
+        <author>
+            <name>Allen Pike</name>
+        </author>
+    <published>2024-10-02T21:11:05+00:00</published>
+    <updated>2024-10-02T21:11:05+00:00</updated>
+    <link href="https://news.cryptic.io/allen-pike-infer-an-ai-eng-meetup-in-vancouver/"/>
+    <link rel="alternate" href="https://news.cryptic.io/allen-pike-infer-an-ai-eng-meetup-in-vancouver/" type="text/html"/>
+      <source>
+        <id>https://www.allenpike.com/2024/infer-llm-ai-meetup-vancouver</id>
+        <link href="https://www.allenpike.com/2024/infer-llm-ai-meetup-vancouver"/>
+        <title>Infer, an AI Eng Meetup in Vancouver</title>
+        <author>
+            <name>Allen Pike</name>
+        </author>
+        <updated>2024-10-02T21:11:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/allen-pike-infer-an-ai-eng-meetup-in-vancouver/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Putting the “Person” in “Personal Website”</title>
         <author>
@@ -5114,30 +5138,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-why-i-prefer-rst-to-markdown/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Pushing the Frontier</title>
-        <author>
-            <name>Allen Pike</name>
-        </author>
-    <published>2024-07-31T05:45:30+00:00</published>
-    <updated>2024-07-31T05:45:30+00:00</updated>
-    <link href="https://news.cryptic.io/allen-pike-pushing-the-frontier/"/>
-    <link rel="alternate" href="https://news.cryptic.io/allen-pike-pushing-the-frontier/" type="text/html"/>
-      <source>
-        <id>https://www.allenpike.com/2024/pushing-the-frontier</id>
-        <link href="https://www.allenpike.com/2024/pushing-the-frontier"/>
-        <title>Pushing the Frontier</title>
-        <author>
-            <name>Allen Pike</name>
-        </author>
-        <updated>2024-07-31T05:45:30+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/allen-pike-pushing-the-frontier/</id>
     <content type="html">
         
     </content>
