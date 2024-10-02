@@ -4,8 +4,104 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-10-01T17:23:40+00:00</updated>
+  <updated>2024-10-02T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Putting the “Person” in “Personal Website”</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-10-02T19:00:00+00:00</published>
+    <updated>2024-10-02T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-putting-the-person-in-personal-website/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-putting-the-person-in-personal-website/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/person-in-personal-website/</id>
+        <link href="https://blog.jim-nielsen.com/2024/person-in-personal-website/"/>
+        <title>Putting the “Person” in “Personal Website”</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-10-02T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-putting-the-person-in-personal-website/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>IndieWeb Carnival: multilingualism in a global Web</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-10-02T05:20:00+00:00</published>
+    <updated>2024-10-02T05:20:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-indieweb-carnival-multilingualism-in-a-global-web/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-indieweb-carnival-multilingualism-in-a-global-web/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/F6OiPQHPBNPjEbkW</id>
+        <link href="https://manuelmoreale.com/@/page/F6OiPQHPBNPjEbkW"/>
+        <title>IndieWeb Carnival: multilingualism in a global Web</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-10-02T05:20:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-indieweb-carnival-multilingualism-in-a-global-web/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Thoughts on working inside a data center suite</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-10-01T23:29:47+00:00</published>
+    <updated>2024-10-01T23:29:47+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-thoughts-on-working-inside-a-data-center-suite/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-thoughts-on-working-inside-a-data-center-suite/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/09/25/suite/</id>
+        <link href="https://rachelbythebay.com/w/2024/09/25/suite/"/>
+        <title>Thoughts on working inside a data center suite</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-10-01T23:29:47+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-thoughts-on-working-inside-a-data-center-suite/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Let the network tell you where you are: a nerd snipe story</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-10-01T23:21:13+00:00</published>
+    <updated>2024-10-01T23:21:13+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-let-the-network-tell-you-where-you-are-a-nerd-snipe-story/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-let-the-network-tell-you-where-you-are-a-nerd-snipe-story/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/10/01/lldp/</id>
+        <link href="https://rachelbythebay.com/w/2024/10/01/lldp/"/>
+        <title>Let the network tell you where you are: a nerd snipe story</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-10-01T23:21:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-let-the-network-tell-you-where-you-are-a-nerd-snipe-story/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Album Of The Week: Drug Church Prude</title>
         <author>
@@ -122,6 +218,30 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-so-you-want-to-migrate-to-kubernetes-observations-from-a-software-developer/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Some Stats on the &quot;first&quot; 4 chapters of Data Oriented Programming in Java</title>
+        <author>
+            <name>Chris Kiehl</name>
+        </author>
+    <published>2024-10-01T00:00:00+00:00</published>
+    <updated>2024-10-01T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-kiehl-some-stats-on-the-first-4-chapters-of-data-oriented-programming-in-java/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-kiehl-some-stats-on-the-first-4-chapters-of-data-oriented-programming-in-java/" type="text/html"/>
+      <source>
+        <id>https://chriskiehl.com/article/stats-from-the-early-book-drafts</id>
+        <link href="https://chriskiehl.com/article/stats-from-the-early-book-drafts"/>
+        <title>Some Stats on the &quot;first&quot; 4 chapters of Data Oriented Programming in Java</title>
+        <author>
+            <name>Chris Kiehl</name>
+        </author>
+        <updated>2024-10-01T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-kiehl-some-stats-on-the-first-4-chapters-of-data-oriented-programming-in-java/</id>
     <content type="html">
         
     </content>
@@ -967,6 +1087,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>More jabbering from me about non-clown hosting</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-09-23T21:38:12+00:00</published>
+    <updated>2024-09-23T21:38:12+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-more-jabbering-from-me-about-nonclown-hosting/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-more-jabbering-from-me-about-nonclown-hosting/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/09/23/colo/</id>
+        <link href="https://rachelbythebay.com/w/2024/09/23/colo/"/>
+        <title>More jabbering from me about non-clown hosting</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-09-23T21:38:12+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-more-jabbering-from-me-about-nonclown-hosting/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Features I&#x27;d like to add to this website</title>
         <author>
             <name>John Whiles</name>
@@ -986,6 +1130,30 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-features-id-like-to-add-to-this-website/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A terrible way to jump into colocating your own stuff</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-09-23T17:20:31+00:00</published>
+    <updated>2024-09-23T17:20:31+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-a-terrible-way-to-jump-into-colocating-your-own-stuff/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-terrible-way-to-jump-into-colocating-your-own-stuff/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/09/22/colo/</id>
+        <link href="https://rachelbythebay.com/w/2024/09/22/colo/"/>
+        <title>A terrible way to jump into colocating your own stuff</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-09-23T17:20:31+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-a-terrible-way-to-jump-into-colocating-your-own-stuff/</id>
     <content type="html">
         
     </content>
@@ -1394,30 +1562,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-giles-turnbull/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Accessing iPhone photos and media from Nautilus on Linux</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-09-20T01:37:48+00:00</published>
-    <updated>2024-09-20T01:37:48+00:00</updated>
-    <link href="https://news.cryptic.io/various-accessing-iphone-photos-and-media-from-nautilus-on-linux/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-accessing-iphone-photos-and-media-from-nautilus-on-linux/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/09/20/accessing-iphone-photos-and-media-from-nautilus-on-linux/</id>
-        <link href="https://sporks.space/2024/09/20/accessing-iphone-photos-and-media-from-nautilus-on-linux/"/>
-        <title>Accessing iPhone photos and media from Nautilus on Linux</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-09-20T01:37:48+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-accessing-iphone-photos-and-media-from-nautilus-on-linux/</id>
     <content type="html">
         
     </content>
@@ -1879,6 +2023,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Another feed reader score roundup</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-09-14T03:04:05+00:00</published>
+    <updated>2024-09-14T03:04:05+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-another-feed-reader-score-roundup/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-another-feed-reader-score-roundup/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/09/13/fs/</id>
+        <link href="https://rachelbythebay.com/w/2024/09/13/fs/"/>
+        <title>Another feed reader score roundup</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-09-14T03:04:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-another-feed-reader-score-roundup/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>P&amp;B: Naz Hamid</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -2335,30 +2503,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>P&amp;B: Steve Ledlow</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-09-06T11:00:00+00:00</published>
-    <updated>2024-09-06T11:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-steve-ledlow/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-steve-ledlow/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/JiBMgeChXZ6yixyM</id>
-        <link href="https://manuelmoreale.com/@/page/JiBMgeChXZ6yixyM"/>
-        <title>P&amp;B: Steve Ledlow</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-09-06T11:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-steve-ledlow/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>1.3 Million Subtests</title>
         <author>
             <name>Brian Kardell</name>
@@ -2474,30 +2618,6 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-linkedin-collaborative-articles-confuse-me/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Is Linux collapsing under its own weight? On Rust for Linux</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-09-05T14:29:01+00:00</published>
-    <updated>2024-09-05T14:29:01+00:00</updated>
-    <link href="https://news.cryptic.io/various-is-linux-collapsing-under-its-own-weight-on-rust-for-linux/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-is-linux-collapsing-under-its-own-weight-on-rust-for-linux/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/09/05/is-linux-collapsing-under-its-own-weight-on-rust-for-linux/</id>
-        <link href="https://sporks.space/2024/09/05/is-linux-collapsing-under-its-own-weight-on-rust-for-linux/"/>
-        <title>Is Linux collapsing under its own weight? On Rust for Linux</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-09-05T14:29:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-is-linux-collapsing-under-its-own-weight-on-rust-for-linux/</id>
     <content type="html">
         
     </content>
@@ -2642,6 +2762,30 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-thoughts-on-the-future-of-tla/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>&quot;SRE&quot; doesn&#x27;t seem to mean anything useful any more</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-09-04T06:53:36+00:00</published>
+    <updated>2024-09-04T06:53:36+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-sre-doesnt-seem-to-mean-anything-useful-any-more/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-sre-doesnt-seem-to-mean-anything-useful-any-more/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/09/03/ops/</id>
+        <link href="https://rachelbythebay.com/w/2024/09/03/ops/"/>
+        <title>&quot;SRE&quot; doesn&#x27;t seem to mean anything useful any more</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-09-04T06:53:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-sre-doesnt-seem-to-mean-anything-useful-any-more/</id>
     <content type="html">
         
     </content>
@@ -3175,30 +3319,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Very brief thoughts on Being There</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-08-29T05:41:21+00:00</published>
-    <updated>2024-08-29T05:41:21+00:00</updated>
-    <link href="https://news.cryptic.io/various-very-brief-thoughts-on-being-there/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-very-brief-thoughts-on-being-there/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/08/29/very-brief-thoughts-on-being-there/</id>
-        <link href="https://sporks.space/2024/08/29/very-brief-thoughts-on-being-there/"/>
-        <title>Very brief thoughts on Being There</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-08-29T05:41:21+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-very-brief-thoughts-on-being-there/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Departure Mono</title>
         <author>
             <name>Robin Rendle</name>
@@ -3506,30 +3626,6 @@
       </source>
 
     <id>https://news.cryptic.io/nathalie-lawhead-play-my-new-interactive-liminalspace-horror-essay-about-technocapitalism-and-individuality/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>New Workflow for Publishing Notes: Content in Dropbox, Code in GitHub</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-08-25T19:00:00+00:00</published>
-    <updated>2024-08-25T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-new-workflow-for-publishing-notes-content-in-dropbox-code-in-github/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-new-workflow-for-publishing-notes-content-in-dropbox-code-in-github/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/notes-site-via-content-in-dropbox/</id>
-        <link href="https://blog.jim-nielsen.com/2024/notes-site-via-content-in-dropbox/"/>
-        <title>New Workflow for Publishing Notes: Content in Dropbox, Code in GitHub</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-08-25T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-new-workflow-for-publishing-notes-content-in-dropbox-code-in-github/</id>
     <content type="html">
         
     </content>
@@ -3919,6 +4015,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>A common bug in a bunch of feed readers</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-08-18T23:16:27+00:00</published>
+    <updated>2024-08-18T23:16:27+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-a-common-bug-in-a-bunch-of-feed-readers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-common-bug-in-a-bunch-of-feed-readers/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/08/17/hash/</id>
+        <link href="https://rachelbythebay.com/w/2024/08/17/hash/"/>
+        <title>A common bug in a bunch of feed readers</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-08-18T23:16:27+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-a-common-bug-in-a-bunch-of-feed-readers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Radxa X4 SBC Unites Intel N100 and Raspberry Pi RP2040</title>
         <author>
             <name>Jeff Geerling</name>
@@ -4082,6 +4202,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-foss-contributors-first-step-translation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Decoding an old SkyScan wireless weather sensor</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-08-14T22:19:17+00:00</published>
+    <updated>2024-08-14T22:19:17+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-decoding-an-old-skyscan-wireless-weather-sensor/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-decoding-an-old-skyscan-wireless-weather-sensor/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/08/14/skyscan/</id>
+        <link href="https://rachelbythebay.com/w/2024/08/14/skyscan/"/>
+        <title>Decoding an old SkyScan wireless weather sensor</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-08-14T22:19:17+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-decoding-an-old-skyscan-wireless-weather-sensor/</id>
     <content type="html">
         
     </content>
@@ -4327,6 +4471,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>An update on another feed reader from its author</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-08-12T07:44:13+00:00</published>
+    <updated>2024-08-12T07:44:13+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-an-update-on-another-feed-reader-from-its-author/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-an-update-on-another-feed-reader-from-its-author/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/08/12/unread/</id>
+        <link href="https://rachelbythebay.com/w/2024/08/12/unread/"/>
+        <title>An update on another feed reader from its author</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-08-12T07:44:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-an-update-on-another-feed-reader-from-its-author/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Dangerous Misinformation</title>
         <author>
             <name>geohot</name>
@@ -4394,6 +4562,30 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-how-i-created-175-fonts-using-rust/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Feedback on github, mangling code, and a feed reader</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-08-11T06:04:32+00:00</published>
+    <updated>2024-08-11T06:04:32+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-feedback-on-github-mangling-code-and-a-feed-reader/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-on-github-mangling-code-and-a-feed-reader/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/08/10/feedback/</id>
+        <link href="https://rachelbythebay.com/w/2024/08/10/feedback/"/>
+        <title>Feedback on github, mangling code, and a feed reader</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-08-11T06:04:32+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-feedback-on-github-mangling-code-and-a-feed-reader/</id>
     <content type="html">
         
     </content>
@@ -6679,30 +6871,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Notes on installing IBM i over an NFS share</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-06-23T01:54:20+00:00</published>
-    <updated>2024-06-23T01:54:20+00:00</updated>
-    <link href="https://news.cryptic.io/various-notes-on-installing-ibm-i-over-an-nfs-share/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-notes-on-installing-ibm-i-over-an-nfs-share/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/06/23/notes-on-installing-ibm-i-over-an-nfs-share/</id>
-        <link href="https://sporks.space/2024/06/23/notes-on-installing-ibm-i-over-an-nfs-share/"/>
-        <title>Notes on installing IBM i over an NFS share</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-06-23T01:54:20+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-notes-on-installing-ibm-i-over-an-nfs-share/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>the motel room, or: on datedness</title>
         <author>
             <name>Kate Wagner</name>
@@ -7322,30 +7490,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-regular-recursive-restricted/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Updating Core Data object ID URIs on store migrations</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-06-03T05:47:14+00:00</published>
-    <updated>2024-06-03T05:47:14+00:00</updated>
-    <link href="https://news.cryptic.io/various-updating-core-data-object-id-uris-on-store-migrations/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-updating-core-data-object-id-uris-on-store-migrations/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/06/03/updating-core-data-object-id-uris-on-store-migrations/</id>
-        <link href="https://sporks.space/2024/06/03/updating-core-data-object-id-uris-on-store-migrations/"/>
-        <title>Updating Core Data object ID URIs on store migrations</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-06-03T05:47:14+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-updating-core-data-object-id-uris-on-store-migrations/</id>
     <content type="html">
         
     </content>
@@ -7994,30 +8138,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-layerwise-inferencing-batching-small-vram-doesnt-limit-llm-throughput-anymore/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Observation on the real-time strategy genre</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-05-12T21:03:36+00:00</published>
-    <updated>2024-05-12T21:03:36+00:00</updated>
-    <link href="https://news.cryptic.io/various-observation-on-the-realtime-strategy-genre/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-observation-on-the-realtime-strategy-genre/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/05/12/observation-on-the-real-time-strategy-genre/</id>
-        <link href="https://sporks.space/2024/05/12/observation-on-the-real-time-strategy-genre/"/>
-        <title>Observation on the real-time strategy genre</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-05-12T21:03:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-observation-on-the-realtime-strategy-genre/</id>
     <content type="html">
         
     </content>
@@ -8954,30 +9074,6 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-mentorship-coaching-sponsorship-three-different-and-equally-important-tools-for-developing-talent/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Fixing the “Not a heap block” error with networking with PCPro</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-03-30T02:11:12+00:00</published>
-    <updated>2024-03-30T02:11:12+00:00</updated>
-    <link href="https://news.cryptic.io/various-fixing-the-not-a-heap-block-error-with-networking-with-pcpro/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-fixing-the-not-a-heap-block-error-with-networking-with-pcpro/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/03/30/fixing-the-not-a-heap-block-error-with-networking-with-pcpro/</id>
-        <link href="https://sporks.space/2024/03/30/fixing-the-not-a-heap-block-error-with-networking-with-pcpro/"/>
-        <title>Fixing the “Not a heap block” error with networking with PCPro</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-03-30T02:11:12+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-fixing-the-not-a-heap-block-error-with-networking-with-pcpro/</id>
     <content type="html">
         
     </content>
@@ -10855,54 +10951,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Formatting disks and clearing RAID config on Power systems with iprutils</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-01-17T02:16:28+00:00</published>
-    <updated>2024-01-17T02:16:28+00:00</updated>
-    <link href="https://news.cryptic.io/various-formatting-disks-and-clearing-raid-config-on-power-systems-with-iprutils/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-formatting-disks-and-clearing-raid-config-on-power-systems-with-iprutils/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/01/17/formatting-disks-and-clearing-raid-config-on-power-systems-with-iprutils/</id>
-        <link href="https://sporks.space/2024/01/17/formatting-disks-and-clearing-raid-config-on-power-systems-with-iprutils/"/>
-        <title>Formatting disks and clearing RAID config on Power systems with iprutils</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-01-17T02:16:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-formatting-disks-and-clearing-raid-config-on-power-systems-with-iprutils/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Netbooting Alpine Linux on a PowerVM system</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-01-16T22:39:11+00:00</published>
-    <updated>2024-01-16T22:39:11+00:00</updated>
-    <link href="https://news.cryptic.io/various-netbooting-alpine-linux-on-a-powervm-system/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-netbooting-alpine-linux-on-a-powervm-system/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/01/16/netbooting-alpine-linux-on-a-powervm-system/</id>
-        <link href="https://sporks.space/2024/01/16/netbooting-alpine-linux-on-a-powervm-system/"/>
-        <title>Netbooting Alpine Linux on a PowerVM system</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-01-16T22:39:11+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-netbooting-alpine-linux-on-a-powervm-system/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>When hope and gloom unite</title>
         <author>
             <name>nutcroft</name>
@@ -11090,30 +11138,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-42-for-42/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Sleeping through a decade of Cocoa: Retrospective from modernizing an old Mac app</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-01-07T22:12:50+00:00</published>
-    <updated>2024-01-07T22:12:50+00:00</updated>
-    <link href="https://news.cryptic.io/various-sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/01/07/sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/</id>
-        <link href="https://sporks.space/2024/01/07/sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/"/>
-        <title>Sleeping through a decade of Cocoa: Retrospective from modernizing an old Mac app</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-01-07T22:12:50+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/</id>
     <content type="html">
         
     </content>
@@ -14778,30 +14802,6 @@
       </source>
 
     <id>https://news.cryptic.io/ash-dont-believe-the-biological-intelligence-hype/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The little feet really tie it all together</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-    <published>2022-11-16T00:00:00+00:00</published>
-    <updated>2022-11-16T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-kiehl-the-little-feet-really-tie-it-all-together/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-kiehl-the-little-feet-really-tie-it-all-together/" type="text/html"/>
-      <source>
-        <id>https://chriskiehl.com/article/the-feet-really-tie-it-all-together</id>
-        <link href="https://chriskiehl.com/article/the-feet-really-tie-it-all-together"/>
-        <title>The little feet really tie it all together</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-        <updated>2022-11-16T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-kiehl-the-little-feet-really-tie-it-all-together/</id>
     <content type="html">
         
     </content>
