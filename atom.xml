@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-10-02T21:11:05+00:00</updated>
+  <updated>2024-10-03T03:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Experimenting with GitHub merge queues; could you send me a PR?</title>
+        <author>
+            <name>iliana etaoin</name>
+        </author>
+    <published>2024-10-03T03:00:00+00:00</published>
+    <updated>2024-10-03T03:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/iliana-etaoin-experimenting-with-github-merge-queues-could-you-send-me-a-pr/"/>
+    <link rel="alternate" href="https://news.cryptic.io/iliana-etaoin-experimenting-with-github-merge-queues-could-you-send-me-a-pr/" type="text/html"/>
+      <source>
+        <id>https://iliana.fyi/blog/cizzbuzz/</id>
+        <link href="https://iliana.fyi/blog/cizzbuzz/"/>
+        <title>Experimenting with GitHub merge queues; could you send me a PR?</title>
+        <author>
+            <name>iliana etaoin</name>
+        </author>
+        <updated>2024-10-03T03:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/iliana-etaoin-experimenting-with-github-merge-queues-could-you-send-me-a-pr/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Infer, an AI Eng Meetup in Vancouver</title>
         <author>
@@ -122,6 +146,30 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-indieweb-carnival-multilingualism-in-a-global-web/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Ingredients</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-10-02T00:00:00+00:00</published>
+    <updated>2024-10-02T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-ingredients/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-ingredients/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/2993/</id>
+        <link href="https://xkcd.com/2993/"/>
+        <title>Ingredients</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-10-02T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-ingredients/</id>
     <content type="html">
         
     </content>
@@ -1250,30 +1298,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-what-is-iouring/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Physics Lab Thermostat</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-09-23T00:00:00+00:00</published>
-    <updated>2024-09-23T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-physics-lab-thermostat/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-physics-lab-thermostat/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2989/</id>
-        <link href="https://xkcd.com/2989/"/>
-        <title>Physics Lab Thermostat</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-09-23T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-physics-lab-thermostat/</id>
     <content type="html">
         
     </content>
@@ -14898,30 +14922,6 @@
       </source>
 
     <id>https://news.cryptic.io/molly-white-blockchain-solutionism-lecture-transcript/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>There is no “software supply chain”</title>
-        <author>
-            <name>iliana etaoin</name>
-        </author>
-    <published>2022-09-19T19:00:00+00:00</published>
-    <updated>2022-09-19T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/iliana-etaoin-there-is-no-software-supply-chain/"/>
-    <link rel="alternate" href="https://news.cryptic.io/iliana-etaoin-there-is-no-software-supply-chain/" type="text/html"/>
-      <source>
-        <id>https://iliana.fyi/blog/software-supply-chain/</id>
-        <link href="https://iliana.fyi/blog/software-supply-chain/"/>
-        <title>There is no “software supply chain”</title>
-        <author>
-            <name>iliana etaoin</name>
-        </author>
-        <updated>2022-09-19T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/iliana-etaoin-there-is-no-software-supply-chain/</id>
     <content type="html">
         
     </content>
