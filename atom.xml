@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-10-04T11:00:00+00:00</updated>
+  <updated>2024-10-04T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>“Easier and More Convenient” They Said…</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-10-04T19:00:00+00:00</published>
+    <updated>2024-10-04T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-easier-and-more-convenient-they-said/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-easier-and-more-convenient-they-said/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/easy-and-convenient-they-say/</id>
+        <link href="https://blog.jim-nielsen.com/2024/easy-and-convenient-they-say/"/>
+        <title>“Easier and More Convenient” They Said…</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-10-04T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-easier-and-more-convenient-they-said/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>P&amp;B: Xanthe Tynehorne</title>
         <author>
@@ -3482,30 +3506,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-its-all-about-selfhosting-it/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Notes from Pen &amp; Teller’s Masterclass</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-08-28T19:00:00+00:00</published>
-    <updated>2024-08-28T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-notes-from-pen-tellers-masterclass/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-notes-from-pen-tellers-masterclass/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/notes-from-pen-and-teller/</id>
-        <link href="https://blog.jim-nielsen.com/2024/notes-from-pen-and-teller/"/>
-        <title>Notes from Pen &amp; Teller’s Masterclass</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-08-28T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-notes-from-pen-tellers-masterclass/</id>
     <content type="html">
         
     </content>
