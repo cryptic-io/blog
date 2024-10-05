@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-10-05T11:40:00+00:00</updated>
+  <updated>2024-10-05T19:18:03+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Big Apple Blues</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-10-05T19:18:03+00:00</published>
+    <updated>2024-10-05T19:18:03+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-big-apple-blues/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-big-apple-blues/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/big-apple-blues/</id>
+        <link href="https://robinrendle.com/notes/big-apple-blues/"/>
+        <title>Big Apple Blues</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-10-05T19:18:03+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-big-apple-blues/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A Ko-Fi PSA</title>
         <author>
@@ -4442,30 +4466,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-std-doesnt-have-to-abstract-os-io/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How I Created 175 Fonts Using Rust</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-08-11T17:45:45+00:00</published>
-    <updated>2024-08-11T17:45:45+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-how-i-created-175-fonts-using-rust/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-how-i-created-175-fonts-using-rust/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/how-i-created-175-fonts-using-rust/</id>
-        <link href="https://robinrendle.com/notes/how-i-created-175-fonts-using-rust/"/>
-        <title>How I Created 175 Fonts Using Rust</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-08-11T17:45:45+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-how-i-created-175-fonts-using-rust/</id>
     <content type="html">
         
     </content>
