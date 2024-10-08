@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-10-07T19:00:00+00:00</updated>
+  <updated>2024-10-08T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Two Workflow Tips</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2024-10-08T00:00:00+00:00</published>
+    <updated>2024-10-08T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-two-workflow-tips/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-two-workflow-tips/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2024/10/08/two-tips.html</id>
+        <link href="https://matklad.github.io/2024/10/08/two-tips.html"/>
+        <title>Two Workflow Tips</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2024-10-08T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-two-workflow-tips/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Ryan Dahl Talks Deno on The Changelog</title>
         <author>
@@ -7154,30 +7178,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-my-stance-on-github-copilot/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Regular, Recursive, Restricted</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2024-06-04T00:00:00+00:00</published>
-    <updated>2024-06-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-regular-recursive-restricted/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-regular-recursive-restricted/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2024/06/04/regular-recursive-restricted.html</id>
-        <link href="https://matklad.github.io/2024/06/04/regular-recursive-restricted.html"/>
-        <title>Regular, Recursive, Restricted</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2024-06-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-regular-recursive-restricted/</id>
     <content type="html">
         
     </content>
