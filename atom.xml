@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-10-08T16:18:55+00:00</updated>
+  <updated>2024-10-08T17:17:58+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Use an External GPU on Raspberry Pi 5 for 4K Gaming</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-10-08T17:17:58+00:00</published>
+    <updated>2024-10-08T17:17:58+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-use-an-external-gpu-on-raspberry-pi-5-for-4k-gaming/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-use-an-external-gpu-on-raspberry-pi-5-for-4k-gaming/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/use-external-gpu-on-raspberry-pi-5-4k-gaming</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/use-external-gpu-on-raspberry-pi-5-4k-gaming"/>
+        <title>Use an External GPU on Raspberry Pi 5 for 4K Gaming</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-10-08T17:17:58+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-use-an-external-gpu-on-raspberry-pi-5-for-4k-gaming/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>How to convince engineers that formal methods is cool</title>
         <author>
@@ -679,25 +703,49 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Album Of The Week: Drug Church Prude</title>
+    <title>Thoughts on working inside a data center suite</title>
         <author>
-            <name>Stereogum</name>
+            <name>rachelbythebay</name>
         </author>
-    <published>2024-10-01T17:23:40+00:00</published>
-    <updated>2024-10-01T17:23:40+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-drug-church-prude/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-drug-church-prude/" type="text/html"/>
+    <published>2024-10-01T23:29:47+00:00</published>
+    <updated>2024-10-01T23:29:47+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-thoughts-on-working-inside-a-data-center-suite/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-thoughts-on-working-inside-a-data-center-suite/" type="text/html"/>
       <source>
-        <id>https://www.stereogum.com/2282335/album-of-the-week-drug-church-prude/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2282335/album-of-the-week-drug-church-prude/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Drug Church Prude</title>
+        <id>https://rachelbythebay.com/w/2024/09/25/suite/</id>
+        <link href="https://rachelbythebay.com/w/2024/09/25/suite/"/>
+        <title>Thoughts on working inside a data center suite</title>
         <author>
-            <name>Stereogum</name>
+            <name>rachelbythebay</name>
         </author>
-        <updated>2024-10-01T17:23:40+00:00</updated>
+        <updated>2024-10-01T23:29:47+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-drug-church-prude/</id>
+    <id>https://news.cryptic.io/rachelbythebay-thoughts-on-working-inside-a-data-center-suite/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Let the network tell you where you are: a nerd snipe story</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-10-01T23:21:13+00:00</published>
+    <updated>2024-10-01T23:21:13+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-let-the-network-tell-you-where-you-are-a-nerd-snipe-story/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-let-the-network-tell-you-where-you-are-a-nerd-snipe-story/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/10/01/lldp/</id>
+        <link href="https://rachelbythebay.com/w/2024/10/01/lldp/"/>
+        <title>Let the network tell you where you are: a nerd snipe story</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-10-01T23:21:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-let-the-network-tell-you-where-you-are-a-nerd-snipe-story/</id>
     <content type="html">
         
     </content>
@@ -842,6 +890,30 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-ethical-applications-of-ai-to-public-sector-problems/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>ROOPHLOCH 2024: A minimum viable garden</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+    <published>2024-09-30T20:52:55+00:00</published>
+    <updated>2024-09-30T20:52:55+00:00</updated>
+    <link href="https://news.cryptic.io/degrowther-roophloch-2024-a-minimum-viable-garden/"/>
+    <link rel="alternate" href="https://news.cryptic.io/degrowther-roophloch-2024-a-minimum-viable-garden/" type="text/html"/>
+      <source>
+        <id>https://degrowther.smol.pub/20240930_minimum_viable_garden</id>
+        <link href="https://degrowther.smol.pub/20240930_minimum_viable_garden"/>
+        <title>ROOPHLOCH 2024: A minimum viable garden</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+        <updated>2024-09-30T20:52:55+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/degrowther-roophloch-2024-a-minimum-viable-garden/</id>
     <content type="html">
         
     </content>
@@ -1519,30 +1591,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Album Of The Week: Origami Angel Feeling Not Found</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-09-24T19:05:21+00:00</published>
-    <updated>2024-09-24T19:05:21+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-origami-angel-feeling-not-found/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-origami-angel-feeling-not-found/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2281505/album-of-the-week-origami-angel-feeling-not-found/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2281505/album-of-the-week-origami-angel-feeling-not-found/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Origami Angel Feeling Not Found</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-09-24T19:05:21+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-origami-angel-feeling-not-found/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>It should be easy to say “My bad, I was wrong”</title>
         <author>
             <name>hello@manuelmoreale.com (Manuel Moreale)</name>
@@ -1615,6 +1663,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>More jabbering from me about non-clown hosting</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-09-23T21:38:12+00:00</published>
+    <updated>2024-09-23T21:38:12+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-more-jabbering-from-me-about-nonclown-hosting/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-more-jabbering-from-me-about-nonclown-hosting/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/09/23/colo/</id>
+        <link href="https://rachelbythebay.com/w/2024/09/23/colo/"/>
+        <title>More jabbering from me about non-clown hosting</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-09-23T21:38:12+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-more-jabbering-from-me-about-nonclown-hosting/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Features I&#x27;d like to add to this website</title>
         <author>
             <name>John Whiles</name>
@@ -1634,6 +1706,30 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-features-id-like-to-add-to-this-website/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A terrible way to jump into colocating your own stuff</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-09-23T17:20:31+00:00</published>
+    <updated>2024-09-23T17:20:31+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-a-terrible-way-to-jump-into-colocating-your-own-stuff/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-terrible-way-to-jump-into-colocating-your-own-stuff/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/09/22/colo/</id>
+        <link href="https://rachelbythebay.com/w/2024/09/22/colo/"/>
+        <title>A terrible way to jump into colocating your own stuff</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-09-23T17:20:31+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-a-terrible-way-to-jump-into-colocating-your-own-stuff/</id>
     <content type="html">
         
     </content>
@@ -2167,30 +2263,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Album Of The Week: Regional Justice Center Freedom Sweet Freedom</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-09-17T15:01:24+00:00</published>
-    <updated>2024-09-17T15:01:24+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-regional-justice-center-freedom-sweet-freedom/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-regional-justice-center-freedom-sweet-freedom/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2280097/album-of-the-week-regional-justice-center-freedom-sweet-freedom/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2280097/album-of-the-week-regional-justice-center-freedom-sweet-freedom/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Regional Justice Center Freedom Sweet Freedom</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-09-17T15:01:24+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-regional-justice-center-freedom-sweet-freedom/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The continuing tragedy of emoji on the web</title>
         <author>
             <name>Nolan Lawson</name>
@@ -2407,6 +2479,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Another feed reader score roundup</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-09-14T03:04:05+00:00</published>
+    <updated>2024-09-14T03:04:05+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-another-feed-reader-score-roundup/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-another-feed-reader-score-roundup/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/09/13/fs/</id>
+        <link href="https://rachelbythebay.com/w/2024/09/13/fs/"/>
+        <title>Another feed reader score roundup</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-09-14T03:04:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-another-feed-reader-score-roundup/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The Small Internet has Already Succeeded</title>
         <author>
             <name>Cheapskate</name>
@@ -2546,30 +2642,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-why-not-comments/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Album Of The Week: julie my anti-aircraft friend</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-09-10T16:55:18+00:00</published>
-    <updated>2024-09-10T16:55:18+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-julie-my-antiaircraft-friend/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-julie-my-antiaircraft-friend/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2278250/album-of-the-week-julie-my-anti-aircraft-friend/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2278250/album-of-the-week-julie-my-anti-aircraft-friend/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: julie my anti-aircraft friend</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-09-10T16:55:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-julie-my-antiaircraft-friend/</id>
     <content type="html">
         
     </content>
@@ -3031,6 +3103,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>&quot;SRE&quot; doesn&#x27;t seem to mean anything useful any more</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-09-04T06:53:36+00:00</published>
+    <updated>2024-09-04T06:53:36+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-sre-doesnt-seem-to-mean-anything-useful-any-more/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-sre-doesnt-seem-to-mean-anything-useful-any-more/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/09/03/ops/</id>
+        <link href="https://rachelbythebay.com/w/2024/09/03/ops/"/>
+        <title>&quot;SRE&quot; doesn&#x27;t seem to mean anything useful any more</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-09-04T06:53:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-sre-doesnt-seem-to-mean-anything-useful-any-more/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Sanding UI</title>
         <author>
             <name>Jim Nielsen</name>
@@ -3074,30 +3170,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-what-happens-when-you-touch-a-pickle-to-an-am-radio-tower/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Album Of The Week: Dummy Free Energy</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-09-03T14:29:56+00:00</published>
-    <updated>2024-09-03T14:29:56+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-dummy-free-energy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-dummy-free-energy/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2277845/album-of-the-week-dummy-free-energy/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2277845/album-of-the-week-dummy-free-energy/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Dummy Free Energy</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-09-03T14:29:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-dummy-free-energy/</id>
     <content type="html">
         
     </content>
@@ -3727,30 +3799,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Album Of The Week: Cold Gawd I’ll Drown On This Earth</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-08-27T15:55:17+00:00</published>
-    <updated>2024-08-27T15:55:17+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-cold-gawd-ill-drown-on-this-earth/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-cold-gawd-ill-drown-on-this-earth/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2276970/album-of-the-week-cold-gawd-ill-drown-on-this-earth/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2276970/album-of-the-week-cold-gawd-ill-drown-on-this-earth/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Cold Gawd I’ll Drown On This Earth</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-08-27T15:55:17+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-cold-gawd-ill-drown-on-this-earth/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Positron - an upside-down and portable 3D printer</title>
         <author>
             <name>Jeff Geerling</name>
@@ -4183,49 +4231,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Album Of The Week: Spirit Of The Beehive You’ll Have To Lose Something</title>
+    <title>A common bug in a bunch of feed readers</title>
         <author>
-            <name>Stereogum</name>
+            <name>rachelbythebay</name>
         </author>
-    <published>2024-08-20T14:01:17+00:00</published>
-    <updated>2024-08-20T14:01:17+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-spirit-of-the-beehive-youll-have-to-lose-something/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-spirit-of-the-beehive-youll-have-to-lose-something/" type="text/html"/>
+    <published>2024-08-18T23:16:27+00:00</published>
+    <updated>2024-08-18T23:16:27+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-a-common-bug-in-a-bunch-of-feed-readers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-common-bug-in-a-bunch-of-feed-readers/" type="text/html"/>
       <source>
-        <id>https://www.stereogum.com/2276825/album-of-the-week-spirit-of-the-beehive-youll-have-to-lose-something/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2276825/album-of-the-week-spirit-of-the-beehive-youll-have-to-lose-something/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Spirit Of The Beehive You’ll Have To Lose Something</title>
+        <id>https://rachelbythebay.com/w/2024/08/17/hash/</id>
+        <link href="https://rachelbythebay.com/w/2024/08/17/hash/"/>
+        <title>A common bug in a bunch of feed readers</title>
         <author>
-            <name>Stereogum</name>
+            <name>rachelbythebay</name>
         </author>
-        <updated>2024-08-20T14:01:17+00:00</updated>
+        <updated>2024-08-18T23:16:27+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-spirit-of-the-beehive-youll-have-to-lose-something/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Radxa X4 SBC Unites Intel N100 and Raspberry Pi RP2040</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-08-17T15:22:30+00:00</published>
-    <updated>2024-08-17T15:22:30+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-radxa-x4-sbc-unites-intel-n100-and-raspberry-pi-rp2040/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-radxa-x4-sbc-unites-intel-n100-and-raspberry-pi-rp2040/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/radxa-x4-sbc-unites-intel-n100-and-raspberry-pi-rp2040</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/radxa-x4-sbc-unites-intel-n100-and-raspberry-pi-rp2040"/>
-        <title>Radxa X4 SBC Unites Intel N100 and Raspberry Pi RP2040</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-08-17T15:22:30+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-radxa-x4-sbc-unites-intel-n100-and-raspberry-pi-rp2040/</id>
+    <id>https://news.cryptic.io/rachelbythebay-a-common-bug-in-a-bunch-of-feed-readers/</id>
     <content type="html">
         
     </content>
@@ -4370,6 +4394,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-foss-contributors-first-step-translation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Decoding an old SkyScan wireless weather sensor</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-08-14T22:19:17+00:00</published>
+    <updated>2024-08-14T22:19:17+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-decoding-an-old-skyscan-wireless-weather-sensor/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-decoding-an-old-skyscan-wireless-weather-sensor/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/08/14/skyscan/</id>
+        <link href="https://rachelbythebay.com/w/2024/08/14/skyscan/"/>
+        <title>Decoding an old SkyScan wireless weather sensor</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-08-14T22:19:17+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-decoding-an-old-skyscan-wireless-weather-sensor/</id>
     <content type="html">
         
     </content>
@@ -4543,30 +4591,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Album Of The Week: Wishy Triple Seven</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-08-13T17:41:40+00:00</published>
-    <updated>2024-08-13T17:41:40+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-wishy-triple-seven/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-wishy-triple-seven/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2275814/wishy-triple-seven-review/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2275814/wishy-triple-seven-review/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Wishy Triple Seven</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-08-13T17:41:40+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-wishy-triple-seven/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Ideas are vulnerable</title>
         <author>
             <name>Robin Rendle</name>
@@ -4615,6 +4639,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>An update on another feed reader from its author</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-08-12T07:44:13+00:00</published>
+    <updated>2024-08-12T07:44:13+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-an-update-on-another-feed-reader-from-its-author/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-an-update-on-another-feed-reader-from-its-author/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/08/12/unread/</id>
+        <link href="https://rachelbythebay.com/w/2024/08/12/unread/"/>
+        <title>An update on another feed reader from its author</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-08-12T07:44:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-an-update-on-another-feed-reader-from-its-author/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Dangerous Misinformation</title>
         <author>
             <name>geohot</name>
@@ -4658,6 +4706,30 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-std-doesnt-have-to-abstract-os-io/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Feedback on github, mangling code, and a feed reader</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-08-11T06:04:32+00:00</published>
+    <updated>2024-08-11T06:04:32+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-feedback-on-github-mangling-code-and-a-feed-reader/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-on-github-mangling-code-and-a-feed-reader/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/08/10/feedback/</id>
+        <link href="https://rachelbythebay.com/w/2024/08/10/feedback/"/>
+        <title>Feedback on github, mangling code, and a feed reader</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-08-11T06:04:32+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-feedback-on-github-mangling-code-and-a-feed-reader/</id>
     <content type="html">
         
     </content>
@@ -4874,30 +4946,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-look-at-what-they-tried-to-take-from-us/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Album Of The Week: Oso Oso life till bones</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-08-06T14:27:54+00:00</published>
-    <updated>2024-08-06T14:27:54+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-oso-oso-life-till-bones/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-oso-oso-life-till-bones/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2274859/oso-oso-life-till-bones/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2274859/oso-oso-life-till-bones/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Oso Oso life till bones</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-08-06T14:27:54+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-oso-oso-life-till-bones/</id>
     <content type="html">
         
     </content>
@@ -5306,30 +5354,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-why-i-prefer-rst-to-markdown/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Album Of The Week: Navy Blue Memoirs In Armour</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-07-30T17:47:08+00:00</published>
-    <updated>2024-07-30T17:47:08+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-navy-blue-memoirs-in-armour/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-navy-blue-memoirs-in-armour/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2273199/album-of-the-week-navy-blue-memoirs-in-armour/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2273199/album-of-the-week-navy-blue-memoirs-in-armour/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Navy Blue Memoirs In Armour</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-07-30T17:47:08+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-navy-blue-memoirs-in-armour/</id>
     <content type="html">
         
     </content>
@@ -5863,6 +5887,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Shunning trolls</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+    <published>2024-07-15T20:20:10+00:00</published>
+    <updated>2024-07-15T20:20:10+00:00</updated>
+    <link href="https://news.cryptic.io/degrowther-shunning-trolls/"/>
+    <link rel="alternate" href="https://news.cryptic.io/degrowther-shunning-trolls/" type="text/html"/>
+      <source>
+        <id>https://degrowther.smol.pub/20240715_shunning_trolls</id>
+        <link href="https://degrowther.smol.pub/20240715_shunning_trolls"/>
+        <title>Shunning trolls</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+        <updated>2024-07-15T20:20:10+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/degrowther-shunning-trolls/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Can ChatGPT do data science?</title>
         <author>
             <name>Austin Z. Henley</name>
@@ -6343,6 +6391,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>I remain bearish on the eventual invention of “general AI”</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+    <published>2024-07-04T03:49:53+00:00</published>
+    <updated>2024-07-04T03:49:53+00:00</updated>
+    <link href="https://news.cryptic.io/degrowther-i-remain-bearish-on-the-eventual-invention-of-general-ai/"/>
+    <link rel="alternate" href="https://news.cryptic.io/degrowther-i-remain-bearish-on-the-eventual-invention-of-general-ai/" type="text/html"/>
+      <source>
+        <id>https://degrowther.smol.pub/20240703_general_ai</id>
+        <link href="https://degrowther.smol.pub/20240703_general_ai"/>
+        <title>I remain bearish on the eventual invention of “general AI”</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+        <updated>2024-07-04T03:49:53+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/degrowther-i-remain-bearish-on-the-eventual-invention-of-general-ai/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Let’s stop counting centuries</title>
         <author>
             <name>dynomight</name>
@@ -6770,6 +6842,30 @@
       </source>
 
     <id>https://news.cryptic.io/rodrigo-ghedin-the-last-good-vibes-social-media-platform/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Mundane life update</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+    <published>2024-06-21T11:32:54+00:00</published>
+    <updated>2024-06-21T11:32:54+00:00</updated>
+    <link href="https://news.cryptic.io/degrowther-mundane-life-update/"/>
+    <link rel="alternate" href="https://news.cryptic.io/degrowther-mundane-life-update/" type="text/html"/>
+      <source>
+        <id>https://degrowther.smol.pub/20240621_mundanity</id>
+        <link href="https://degrowther.smol.pub/20240621_mundanity"/>
+        <title>Mundane life update</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+        <updated>2024-06-21T11:32:54+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/degrowther-mundane-life-update/</id>
     <content type="html">
         
     </content>
@@ -8119,6 +8215,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>OFFLFIRSOCH 2024: foodscale.py</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+    <published>2024-04-30T21:32:17+00:00</published>
+    <updated>2024-04-30T21:32:17+00:00</updated>
+    <link href="https://news.cryptic.io/degrowther-offlfirsoch-2024-foodscalepy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/degrowther-offlfirsoch-2024-foodscalepy/" type="text/html"/>
+      <source>
+        <id>https://degrowther.smol.pub/20240430_offlfirsoch_foodscale</id>
+        <link href="https://degrowther.smol.pub/20240430_offlfirsoch_foodscale"/>
+        <title>OFFLFIRSOCH 2024: foodscale.py</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+        <updated>2024-04-30T21:32:17+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/degrowther-offlfirsoch-2024-foodscalepy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How I would redesign Copilot Workspace</title>
         <author>
             <name>Austin Z. Henley</name>
@@ -9175,6 +9295,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Ambivalent about code linters</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+    <published>2024-03-16T22:05:21+00:00</published>
+    <updated>2024-03-16T22:05:21+00:00</updated>
+    <link href="https://news.cryptic.io/degrowther-ambivalent-about-code-linters/"/>
+    <link rel="alternate" href="https://news.cryptic.io/degrowther-ambivalent-about-code-linters/" type="text/html"/>
+      <source>
+        <id>https://degrowther.smol.pub/20240316_linters</id>
+        <link href="https://degrowther.smol.pub/20240316_linters"/>
+        <title>Ambivalent about code linters</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+        <updated>2024-03-16T22:05:21+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/degrowther-ambivalent-about-code-linters/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Making Own Your Web More Sustainable</title>
         <author>
             <name>matthiasott</name>
@@ -9218,6 +9362,30 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-how-web-bloat-impacts-users-with-slow-devices/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Python question: argv in main()?</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+    <published>2024-03-15T21:34:28+00:00</published>
+    <updated>2024-03-15T21:34:28+00:00</updated>
+    <link href="https://news.cryptic.io/degrowther-python-question-argv-in-main/"/>
+    <link rel="alternate" href="https://news.cryptic.io/degrowther-python-question-argv-in-main/" type="text/html"/>
+      <source>
+        <id>https://degrowther.smol.pub/20240315_python_argv_main</id>
+        <link href="https://degrowther.smol.pub/20240315_python_argv_main"/>
+        <title>Python question: argv in main()?</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+        <updated>2024-03-15T21:34:28+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/degrowther-python-question-argv-in-main/</id>
     <content type="html">
         
     </content>
@@ -9482,6 +9650,30 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-work-is-a-place/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Plants: the planting and eating thereof</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+    <published>2024-03-04T04:59:37+00:00</published>
+    <updated>2024-03-04T04:59:37+00:00</updated>
+    <link href="https://news.cryptic.io/degrowther-plants-the-planting-and-eating-thereof/"/>
+    <link rel="alternate" href="https://news.cryptic.io/degrowther-plants-the-planting-and-eating-thereof/" type="text/html"/>
+      <source>
+        <id>https://degrowther.smol.pub/20240303_planting_and_eating_plants</id>
+        <link href="https://degrowther.smol.pub/20240303_planting_and_eating_plants"/>
+        <title>Plants: the planting and eating thereof</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+        <updated>2024-03-04T04:59:37+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/degrowther-plants-the-planting-and-eating-thereof/</id>
     <content type="html">
         
     </content>
@@ -10519,6 +10711,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Nostalgia</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+    <published>2024-01-21T00:07:12+00:00</published>
+    <updated>2024-01-21T00:07:12+00:00</updated>
+    <link href="https://news.cryptic.io/degrowther-nostalgia/"/>
+    <link rel="alternate" href="https://news.cryptic.io/degrowther-nostalgia/" type="text/html"/>
+      <source>
+        <id>https://degrowther.smol.pub/20240120_nostalgia</id>
+        <link href="https://degrowther.smol.pub/20240120_nostalgia"/>
+        <title>Nostalgia</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+        <updated>2024-01-21T00:07:12+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/degrowther-nostalgia/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How I learn (making games for the Playdate)</title>
         <author>
             <name>herman</name>
@@ -11090,6 +11306,30 @@
       </source>
 
     <id>https://news.cryptic.io/iliana-etaoin-how-i-forked-steamos-for-my-living-room-pc/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>New Year’s Resolutions</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+    <published>2023-12-29T16:07:25+00:00</published>
+    <updated>2023-12-29T16:07:25+00:00</updated>
+    <link href="https://news.cryptic.io/degrowther-new-years-resolutions/"/>
+    <link rel="alternate" href="https://news.cryptic.io/degrowther-new-years-resolutions/" type="text/html"/>
+      <source>
+        <id>https://degrowther.smol.pub/20231229_resolutions</id>
+        <link href="https://degrowther.smol.pub/20231229_resolutions"/>
+        <title>New Year’s Resolutions</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+        <updated>2023-12-29T16:07:25+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/degrowther-new-years-resolutions/</id>
     <content type="html">
         
     </content>
