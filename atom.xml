@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-10-10T14:01:22+00:00</updated>
+  <updated>2024-10-10T16:07:12+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>into the wreck</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-10-10T16:07:12+00:00</published>
+    <updated>2024-10-10T16:07:12+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-into-the-wreck/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-into-the-wreck/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/into-the-wreck/</id>
+        <link href="https://robinrendle.com/notes/into-the-wreck/"/>
+        <title>into the wreck</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-10-10T16:07:12+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-into-the-wreck/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>3rd Party PoE HATs for Pi 5 add NVMe, fit inside case</title>
         <author>
@@ -4538,30 +4562,6 @@
       </source>
 
     <id>https://news.cryptic.io/diego-olivas-carole-serrat-ose-1993/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Moonbound</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-08-15T00:30:42+00:00</published>
-    <updated>2024-08-15T00:30:42+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-moonbound/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-moonbound/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/moonbound/</id>
-        <link href="https://robinrendle.com/notes/moonbound/"/>
-        <title>Moonbound</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-08-15T00:30:42+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-moonbound/</id>
     <content type="html">
         
     </content>
