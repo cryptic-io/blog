@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-10-17T17:33:13+00:00</updated>
+  <updated>2024-10-17T20:51:45+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Making mailing lists nicer: Writing a mail extension for macOS with MailKit</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2024-10-17T20:51:45+00:00</published>
+    <updated>2024-10-17T20:51:45+00:00</updated>
+    <link href="https://news.cryptic.io/various-making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/" type="text/html"/>
+      <source>
+        <id>https://sporks.space/2024/10/17/making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/</id>
+        <link href="https://sporks.space/2024/10/17/making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/"/>
+        <title>Making mailing lists nicer: Writing a mail extension for macOS with MailKit</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2024-10-17T20:51:45+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Qualcomm cancels Snapdragon Dev Kit, refunds all orders</title>
         <author>
@@ -11570,30 +11594,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthiasott-42-for-42/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Sleeping through a decade of Cocoa: Retrospective from modernizing an old Mac app</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-01-07T22:12:50+00:00</published>
-    <updated>2024-01-07T22:12:50+00:00</updated>
-    <link href="https://news.cryptic.io/various-sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/01/07/sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/</id>
-        <link href="https://sporks.space/2024/01/07/sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/"/>
-        <title>Sleeping through a decade of Cocoa: Retrospective from modernizing an old Mac app</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-01-07T22:12:50+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/</id>
     <content type="html">
         
     </content>
