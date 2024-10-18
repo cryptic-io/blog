@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-10-18T11:00:00+00:00</updated>
+  <updated>2024-10-18T17:50:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Constraints in video games</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-10-18T17:50:00+00:00</published>
+    <updated>2024-10-18T17:50:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-constraints-in-video-games/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-constraints-in-video-games/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/DLibjEh8RpsftclF</id>
+        <link href="https://manuelmoreale.com/@/page/DLibjEh8RpsftclF"/>
+        <title>Constraints in video games</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-10-18T17:50:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-constraints-in-video-games/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>P&amp;B: Steyn Viljoen</title>
         <author>
@@ -26,6 +50,54 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-steyn-viljoen/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Why you should run for the DSF Board, and my goals for the DSF in 2025</title>
+        <author>
+            <name>Jacob Kaplan-Moss</name>
+        </author>
+    <published>2024-10-18T00:00:00+00:00</published>
+    <updated>2024-10-18T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jacob-kaplanmoss-why-you-should-run-for-the-dsf-board-and-my-goals-for-the-dsf-in-2025/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jacob-kaplanmoss-why-you-should-run-for-the-dsf-board-and-my-goals-for-the-dsf-in-2025/" type="text/html"/>
+      <source>
+        <id>https://jacobian.org/2024/oct/18/dsf-board-2025/</id>
+        <link href="https://jacobian.org/2024/oct/18/dsf-board-2025/"/>
+        <title>Why you should run for the DSF Board, and my goals for the DSF in 2025</title>
+        <author>
+            <name>Jacob Kaplan-Moss</name>
+        </author>
+        <updated>2024-10-18T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jacob-kaplanmoss-why-you-should-run-for-the-dsf-board-and-my-goals-for-the-dsf-in-2025/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Docker builds over SSH</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2024-10-18T00:00:00+00:00</published>
+    <updated>2024-10-18T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-docker-builds-over-ssh/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-docker-builds-over-ssh/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/notes/2024/docker-build-over-ssh/</id>
+        <link href="https://xeiaso.net/notes/2024/docker-build-over-ssh/"/>
+        <title>Docker builds over SSH</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2024-10-18T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-docker-builds-over-ssh/</id>
     <content type="html">
         
     </content>
@@ -2359,30 +2431,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Internet commentary</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-09-26T09:00:00+00:00</published>
-    <updated>2024-09-26T09:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-internet-commentary/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-internet-commentary/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/BwagUtIufp2zTywI</id>
-        <link href="https://manuelmoreale.com/@/page/BwagUtIufp2zTywI"/>
-        <title>Internet commentary</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-09-26T09:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-internet-commentary/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Qualcomm Snapdragon Dev Kit for Windows Teardown (2024)</title>
         <author>
             <name>Jeff Geerling</name>
@@ -3650,30 +3698,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-new-amplification/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Reflection is cooked</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2024-09-09T00:00:00+00:00</published>
-    <updated>2024-09-09T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-reflection-is-cooked/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-reflection-is-cooked/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/blog/2024/reflection-cooked/</id>
-        <link href="https://xeiaso.net/blog/2024/reflection-cooked/"/>
-        <title>Reflection is cooked</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2024-09-09T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-reflection-is-cooked/</id>
     <content type="html">
         
     </content>
@@ -10202,30 +10226,6 @@
       </source>
 
     <id>https://news.cryptic.io/derek-sivers-ai-gives-the-news-you-need/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Estimating Software Projects: Breaking Down Tasks</title>
-        <author>
-            <name>Jacob Kaplan-Moss</name>
-        </author>
-    <published>2024-03-11T00:00:00+00:00</published>
-    <updated>2024-03-11T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jacob-kaplanmoss-estimating-software-projects-breaking-down-tasks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jacob-kaplanmoss-estimating-software-projects-breaking-down-tasks/" type="text/html"/>
-      <source>
-        <id>https://jacobian.org/2024/mar/11/breaking-down-tasks/</id>
-        <link href="https://jacobian.org/2024/mar/11/breaking-down-tasks/"/>
-        <title>Estimating Software Projects: Breaking Down Tasks</title>
-        <author>
-            <name>Jacob Kaplan-Moss</name>
-        </author>
-        <updated>2024-03-11T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jacob-kaplanmoss-estimating-software-projects-breaking-down-tasks/</id>
     <content type="html">
         
     </content>
