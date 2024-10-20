@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-10-19T20:38:25+00:00</updated>
+  <updated>2024-10-20T21:18:55+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Why I’m skeptical of rewriting JavaScript tools in “faster” languages</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2024-10-20T21:18:55+00:00</published>
+    <updated>2024-10-20T21:18:55+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/</id>
+        <link href="https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/"/>
+        <title>Why I’m skeptical of rewriting JavaScript tools in “faster” languages</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2024-10-20T21:18:55+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Brief thoughts on Dark Messiah of Might and Magic</title>
         <author>
@@ -1831,6 +1855,54 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Thoughts on working inside a data center suite</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-10-01T23:29:47+00:00</published>
+    <updated>2024-10-01T23:29:47+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-thoughts-on-working-inside-a-data-center-suite/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-thoughts-on-working-inside-a-data-center-suite/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/09/25/suite/</id>
+        <link href="https://rachelbythebay.com/w/2024/09/25/suite/"/>
+        <title>Thoughts on working inside a data center suite</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-10-01T23:29:47+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-thoughts-on-working-inside-a-data-center-suite/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Let the network tell you where you are: a nerd snipe story</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-10-01T23:21:13+00:00</published>
+    <updated>2024-10-01T23:21:13+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-let-the-network-tell-you-where-you-are-a-nerd-snipe-story/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-let-the-network-tell-you-where-you-are-a-nerd-snipe-story/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/10/01/lldp/</id>
+        <link href="https://rachelbythebay.com/w/2024/10/01/lldp/"/>
+        <title>Let the network tell you where you are: a nerd snipe story</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-10-01T23:21:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-let-the-network-tell-you-where-you-are-a-nerd-snipe-story/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Album Of The Week: Drug Church Prude</title>
         <author>
             <name>Stereogum</name>
@@ -2743,6 +2815,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>More jabbering from me about non-clown hosting</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-09-23T21:38:12+00:00</published>
+    <updated>2024-09-23T21:38:12+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-more-jabbering-from-me-about-nonclown-hosting/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-more-jabbering-from-me-about-nonclown-hosting/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/09/23/colo/</id>
+        <link href="https://rachelbythebay.com/w/2024/09/23/colo/"/>
+        <title>More jabbering from me about non-clown hosting</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-09-23T21:38:12+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-more-jabbering-from-me-about-nonclown-hosting/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Features I&#x27;d like to add to this website</title>
         <author>
             <name>John Whiles</name>
@@ -2762,6 +2858,30 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-features-id-like-to-add-to-this-website/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A terrible way to jump into colocating your own stuff</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-09-23T17:20:31+00:00</published>
+    <updated>2024-09-23T17:20:31+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-a-terrible-way-to-jump-into-colocating-your-own-stuff/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-terrible-way-to-jump-into-colocating-your-own-stuff/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/09/22/colo/</id>
+        <link href="https://rachelbythebay.com/w/2024/09/22/colo/"/>
+        <title>A terrible way to jump into colocating your own stuff</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-09-23T17:20:31+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-a-terrible-way-to-jump-into-colocating-your-own-stuff/</id>
     <content type="html">
         
     </content>
@@ -3511,6 +3631,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Another feed reader score roundup</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-09-14T03:04:05+00:00</published>
+    <updated>2024-09-14T03:04:05+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-another-feed-reader-score-roundup/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-another-feed-reader-score-roundup/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/09/13/fs/</id>
+        <link href="https://rachelbythebay.com/w/2024/09/13/fs/"/>
+        <title>Another feed reader score roundup</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-09-14T03:04:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-another-feed-reader-score-roundup/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The Small Internet has Already Succeeded</title>
         <author>
             <name>Cheapskate</name>
@@ -4106,6 +4250,30 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-thoughts-on-the-future-of-tla/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>&quot;SRE&quot; doesn&#x27;t seem to mean anything useful any more</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-09-04T06:53:36+00:00</published>
+    <updated>2024-09-04T06:53:36+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-sre-doesnt-seem-to-mean-anything-useful-any-more/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-sre-doesnt-seem-to-mean-anything-useful-any-more/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/09/03/ops/</id>
+        <link href="https://rachelbythebay.com/w/2024/09/03/ops/"/>
+        <title>&quot;SRE&quot; doesn&#x27;t seem to mean anything useful any more</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-09-04T06:53:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-sre-doesnt-seem-to-mean-anything-useful-any-more/</id>
     <content type="html">
         
     </content>
@@ -5143,6 +5311,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>A common bug in a bunch of feed readers</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-08-18T23:16:27+00:00</published>
+    <updated>2024-08-18T23:16:27+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-a-common-bug-in-a-bunch-of-feed-readers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-common-bug-in-a-bunch-of-feed-readers/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/08/17/hash/</id>
+        <link href="https://rachelbythebay.com/w/2024/08/17/hash/"/>
+        <title>A common bug in a bunch of feed readers</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-08-18T23:16:27+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-a-common-bug-in-a-bunch-of-feed-readers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Some Thoughts during the Summer Doldrums on the Past, Present, and Future of Computers and the Internet</title>
         <author>
             <name>Cheapskate</name>
@@ -5210,6 +5402,30 @@
       </source>
 
     <id>https://news.cryptic.io/diego-olivas-carole-serrat-ose-1993/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Decoding an old SkyScan wireless weather sensor</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-08-14T22:19:17+00:00</published>
+    <updated>2024-08-14T22:19:17+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-decoding-an-old-skyscan-wireless-weather-sensor/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-decoding-an-old-skyscan-wireless-weather-sensor/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/08/14/skyscan/</id>
+        <link href="https://rachelbythebay.com/w/2024/08/14/skyscan/"/>
+        <title>Decoding an old SkyScan wireless weather sensor</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-08-14T22:19:17+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-decoding-an-old-skyscan-wireless-weather-sensor/</id>
     <content type="html">
         
     </content>
@@ -5431,6 +5647,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>An update on another feed reader from its author</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-08-12T07:44:13+00:00</published>
+    <updated>2024-08-12T07:44:13+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-an-update-on-another-feed-reader-from-its-author/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-an-update-on-another-feed-reader-from-its-author/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/08/12/unread/</id>
+        <link href="https://rachelbythebay.com/w/2024/08/12/unread/"/>
+        <title>An update on another feed reader from its author</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-08-12T07:44:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-an-update-on-another-feed-reader-from-its-author/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Dangerous Misinformation</title>
         <author>
             <name>geohot</name>
@@ -5474,6 +5714,30 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-std-doesnt-have-to-abstract-os-io/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Feedback on github, mangling code, and a feed reader</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-08-11T06:04:32+00:00</published>
+    <updated>2024-08-11T06:04:32+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-feedback-on-github-mangling-code-and-a-feed-reader/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-on-github-mangling-code-and-a-feed-reader/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/08/10/feedback/</id>
+        <link href="https://rachelbythebay.com/w/2024/08/10/feedback/"/>
+        <title>Feedback on github, mangling code, and a feed reader</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-08-11T06:04:32+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-feedback-on-github-mangling-code-and-a-feed-reader/</id>
     <content type="html">
         
     </content>
@@ -7065,23 +7329,23 @@
   <entry xml:lang="en">
     <title>Highlighting Blogging on Mastodon</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
     <published>2024-07-02T22:27:00+00:00</published>
     <updated>2024-07-02T22:27:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-highlighting-blogging-on-mastodon/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-highlighting-blogging-on-mastodon/" type="text/html"/>
+    <link href="https://news.cryptic.io/matthias-ott-highlighting-blogging-on-mastodon/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-highlighting-blogging-on-mastodon/" type="text/html"/>
       <source>
         <id>https://matthiasott.com/notes/highlighting-blogging-on-mastodon</id>
         <link href="https://matthiasott.com/notes/highlighting-blogging-on-mastodon"/>
         <title>Highlighting Blogging on Mastodon</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
         <updated>2024-07-02T22:27:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/matthiasott-highlighting-blogging-on-mastodon/</id>
+    <id>https://news.cryptic.io/matthias-ott-highlighting-blogging-on-mastodon/</id>
     <content type="html">
         
     </content>
@@ -7519,6 +7783,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Manuel was annoyed</title>
+        <author>
+            <name>Manuel</name>
+        </author>
+    <published>2024-06-17T15:58:56+00:00</published>
+    <updated>2024-06-17T15:58:56+00:00</updated>
+    <link href="https://news.cryptic.io/manuel-manuel-was-annoyed/"/>
+    <link rel="alternate" href="https://news.cryptic.io/manuel-manuel-was-annoyed/" type="text/html"/>
+      <source>
+        <id>https://annoying.technology/posts/8799916d887999c3/</id>
+        <link href="https://annoying.technology/posts/8799916d887999c3/"/>
+        <title>Manuel was annoyed</title>
+        <author>
+            <name>Manuel</name>
+        </author>
+        <updated>2024-06-17T15:58:56+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/manuel-manuel-was-annoyed/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Crossing the Impossible FFI Boundary, and My Gradual Descent Into Madness</title>
         <author>
             <name>Evan Ovadia</name>
@@ -7538,30 +7826,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-crossing-the-impossible-ffi-boundary-and-my-gradual-descent-into-madness/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Manuel was annoyed</title>
-        <author>
-            <name>Manuel</name>
-        </author>
-    <published>2024-06-16T10:35:25+00:00</published>
-    <updated>2024-06-16T10:35:25+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-manuel-was-annoyed/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-manuel-was-annoyed/" type="text/html"/>
-      <source>
-        <id>https://annoying.technology/posts/46790258994fd26e/</id>
-        <link href="https://annoying.technology/posts/46790258994fd26e/"/>
-        <title>Manuel was annoyed</title>
-        <author>
-            <name>Manuel</name>
-        </author>
-        <updated>2024-06-16T10:35:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-manuel-was-annoyed/</id>
     <content type="html">
         
     </content>
@@ -9945,23 +10209,23 @@
   <entry xml:lang="en">
     <title>Fixing the Logitech Spotlight</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
     <published>2024-03-19T22:28:00+00:00</published>
     <updated>2024-03-19T22:28:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-fixing-the-logitech-spotlight/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-fixing-the-logitech-spotlight/" type="text/html"/>
+    <link href="https://news.cryptic.io/matthias-ott-fixing-the-logitech-spotlight/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-fixing-the-logitech-spotlight/" type="text/html"/>
       <source>
         <id>https://matthiasott.com/notes/fixing-the-logitech-spotlight</id>
         <link href="https://matthiasott.com/notes/fixing-the-logitech-spotlight"/>
         <title>Fixing the Logitech Spotlight</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
         <updated>2024-03-19T22:28:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/matthiasott-fixing-the-logitech-spotlight/</id>
+    <id>https://news.cryptic.io/matthias-ott-fixing-the-logitech-spotlight/</id>
     <content type="html">
         
     </content>
@@ -10017,23 +10281,23 @@
   <entry xml:lang="en">
     <title>Making Own Your Web More Sustainable</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
     <published>2024-03-16T00:21:41+00:00</published>
     <updated>2024-03-16T00:21:41+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-making-own-your-web-more-sustainable/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-making-own-your-web-more-sustainable/" type="text/html"/>
+    <link href="https://news.cryptic.io/matthias-ott-making-own-your-web-more-sustainable/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-making-own-your-web-more-sustainable/" type="text/html"/>
       <source>
         <id>https://matthiasott.com/notes/making-own-your-web-more-sustainable</id>
         <link href="https://matthiasott.com/notes/making-own-your-web-more-sustainable"/>
         <title>Making Own Your Web More Sustainable</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
         <updated>2024-03-16T00:21:41+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/matthiasott-making-own-your-web-more-sustainable/</id>
+    <id>https://news.cryptic.io/matthias-ott-making-own-your-web-more-sustainable/</id>
     <content type="html">
         
     </content>
@@ -10089,23 +10353,23 @@
   <entry xml:lang="en">
     <title>Welcome to the IndieWeb</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
     <published>2024-03-14T16:36:43+00:00</published>
     <updated>2024-03-14T16:36:43+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-welcome-to-the-indieweb/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-welcome-to-the-indieweb/" type="text/html"/>
+    <link href="https://news.cryptic.io/matthias-ott-welcome-to-the-indieweb/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-welcome-to-the-indieweb/" type="text/html"/>
       <source>
         <id>https://matthiasott.com/notes/welcome-to-the-indieweb</id>
         <link href="https://matthiasott.com/notes/welcome-to-the-indieweb"/>
         <title>Welcome to the IndieWeb</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
         <updated>2024-03-14T16:36:43+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/matthiasott-welcome-to-the-indieweb/</id>
+    <id>https://news.cryptic.io/matthias-ott-welcome-to-the-indieweb/</id>
     <content type="html">
         
     </content>
@@ -10113,23 +10377,23 @@
   <entry xml:lang="en">
     <title>Links Worth Sharing</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
     <published>2024-03-14T16:33:00+00:00</published>
     <updated>2024-03-14T16:33:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-links-worth-sharing/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-links-worth-sharing/" type="text/html"/>
+    <link href="https://news.cryptic.io/matthias-ott-links-worth-sharing/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-links-worth-sharing/" type="text/html"/>
       <source>
         <id>https://matthiasott.com/notes/links-worth-sharing</id>
         <link href="https://matthiasott.com/notes/links-worth-sharing"/>
         <title>Links Worth Sharing</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
         <updated>2024-03-14T16:33:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/matthiasott-links-worth-sharing/</id>
+    <id>https://news.cryptic.io/matthias-ott-links-worth-sharing/</id>
     <content type="html">
         
     </content>
@@ -10881,23 +11145,23 @@
   <entry xml:lang="en">
     <title>We ❤️ RSS</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
     <published>2024-02-14T15:45:00+00:00</published>
     <updated>2024-02-14T15:45:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-we-rss/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-we-rss/" type="text/html"/>
+    <link href="https://news.cryptic.io/matthias-ott-we-rss/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-we-rss/" type="text/html"/>
       <source>
         <id>https://matthiasott.com/notes/we-love-rss</id>
         <link href="https://matthiasott.com/notes/we-love-rss"/>
         <title>We ❤️ RSS</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
         <updated>2024-02-14T15:45:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/matthiasott-we-rss/</id>
+    <id>https://news.cryptic.io/matthias-ott-we-rss/</id>
     <content type="html">
         
     </content>
@@ -11529,23 +11793,23 @@
   <entry xml:lang="en">
     <title>All Things Being Equalized</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
     <published>2024-01-10T00:28:42+00:00</published>
     <updated>2024-01-10T00:28:42+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-all-things-being-equalized/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-all-things-being-equalized/" type="text/html"/>
+    <link href="https://news.cryptic.io/matthias-ott-all-things-being-equalized/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-all-things-being-equalized/" type="text/html"/>
       <source>
         <id>https://matthiasott.com/notes/all-things-being-equalized</id>
         <link href="https://matthiasott.com/notes/all-things-being-equalized"/>
         <title>All Things Being Equalized</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
         <updated>2024-01-10T00:28:42+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/matthiasott-all-things-being-equalized/</id>
+    <id>https://news.cryptic.io/matthias-ott-all-things-being-equalized/</id>
     <content type="html">
         
     </content>
@@ -11577,23 +11841,23 @@
   <entry xml:lang="en">
     <title>42 for 42</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
     <published>2024-01-08T01:33:00+00:00</published>
     <updated>2024-01-08T01:33:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-42-for-42/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-42-for-42/" type="text/html"/>
+    <link href="https://news.cryptic.io/matthias-ott-42-for-42/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-42-for-42/" type="text/html"/>
       <source>
         <id>https://matthiasott.com/notes/42-for-42</id>
         <link href="https://matthiasott.com/notes/42-for-42"/>
         <title>42 for 42</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
         <updated>2024-01-08T01:33:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/matthiasott-42-for-42/</id>
+    <id>https://news.cryptic.io/matthias-ott-42-for-42/</id>
     <content type="html">
         
     </content>
@@ -11601,23 +11865,23 @@
   <entry xml:lang="en">
     <title>Tour De-Noise</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
     <published>2024-01-07T14:34:00+00:00</published>
     <updated>2024-01-07T14:34:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-tour-denoise/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-tour-denoise/" type="text/html"/>
+    <link href="https://news.cryptic.io/matthias-ott-tour-denoise/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-tour-denoise/" type="text/html"/>
       <source>
         <id>https://matthiasott.com/notes/tour-de-noise</id>
         <link href="https://matthiasott.com/notes/tour-de-noise"/>
         <title>Tour De-Noise</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
         <updated>2024-01-07T14:34:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/matthiasott-tour-denoise/</id>
+    <id>https://news.cryptic.io/matthias-ott-tour-denoise/</id>
     <content type="html">
         
     </content>
@@ -11721,23 +11985,23 @@
   <entry xml:lang="en">
     <title>What’s Too Good to Be True?</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
     <published>2024-01-04T01:23:59+00:00</published>
     <updated>2024-01-04T01:23:59+00:00</updated>
-    <link href="https://news.cryptic.io/matthiasott-whats-too-good-to-be-true/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthiasott-whats-too-good-to-be-true/" type="text/html"/>
+    <link href="https://news.cryptic.io/matthias-ott-whats-too-good-to-be-true/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-whats-too-good-to-be-true/" type="text/html"/>
       <source>
         <id>https://matthiasott.com/notes/whats-too-good-to-be-true</id>
         <link href="https://matthiasott.com/notes/whats-too-good-to-be-true"/>
         <title>What’s Too Good to Be True?</title>
         <author>
-            <name>matthiasott</name>
+            <name>Matthias Ott</name>
         </author>
         <updated>2024-01-04T01:23:59+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/matthiasott-whats-too-good-to-be-true/</id>
+    <id>https://news.cryptic.io/matthias-ott-whats-too-good-to-be-true/</id>
     <content type="html">
         
     </content>
@@ -11882,30 +12146,6 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-a-year-in-review-2023/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Shadow DOM and the problem of encapsulation</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-    <published>2023-12-30T17:03:24+00:00</published>
-    <updated>2023-12-30T17:03:24+00:00</updated>
-    <link href="https://news.cryptic.io/nolan-lawson-shadow-dom-and-the-problem-of-encapsulation/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-shadow-dom-and-the-problem-of-encapsulation/" type="text/html"/>
-      <source>
-        <id>https://nolanlawson.com/2023/12/30/shadow-dom-and-the-problem-of-encapsulation/</id>
-        <link href="https://nolanlawson.com/2023/12/30/shadow-dom-and-the-problem-of-encapsulation/"/>
-        <title>Shadow DOM and the problem of encapsulation</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-        <updated>2023-12-30T17:03:24+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nolan-lawson-shadow-dom-and-the-problem-of-encapsulation/</id>
     <content type="html">
         
     </content>
