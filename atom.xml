@@ -55,6 +55,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Temperature Scales</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-10-21T00:00:00+00:00</published>
+    <updated>2024-10-21T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-temperature-scales/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-temperature-scales/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/3001/</id>
+        <link href="https://xkcd.com/3001/"/>
+        <title>Temperature Scales</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-10-21T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-temperature-scales/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Why I’m skeptical of rewriting JavaScript tools in “faster” languages</title>
         <author>
             <name>Nolan Lawson</name>
@@ -914,30 +938,6 @@
       </source>
 
     <id>https://news.cryptic.io/cheapskate-strategies-for-minimizing-the-total-cost-of-computer-ownership/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Solar Protons</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-10-11T00:00:00+00:00</published>
-    <updated>2024-10-11T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-solar-protons/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-solar-protons/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/2997/</id>
-        <link href="https://xkcd.com/2997/"/>
-        <title>Solar Protons</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-10-11T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-solar-protons/</id>
     <content type="html">
         
     </content>
