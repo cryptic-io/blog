@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-10-22T16:10:22+00:00</updated>
+  <updated>2024-10-22T17:14:21+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>TLA from first principles</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-10-22T17:14:21+00:00</published>
+    <updated>2024-10-22T17:14:21+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-tla-from-first-principles/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-tla-from-first-principles/" type="text/html"/>
+      <source>
+        <id>https://buttondown.com/hillelwayne/archive/tla-from-first-principles/</id>
+        <link href="https://buttondown.com/hillelwayne/archive/tla-from-first-principles/"/>
+        <title>TLA from first principles</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-10-22T17:14:21+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-tla-from-first-principles/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Album Of The Week: Two Shell Two Shell</title>
         <author>
@@ -6098,30 +6122,6 @@
       </source>
 
     <id>https://news.cryptic.io/tyler-cipriani-git-the-stupid-password-store/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why I prefer rST to markdown</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-07-31T15:34:39+00:00</published>
-    <updated>2024-07-31T15:34:39+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-why-i-prefer-rst-to-markdown/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-why-i-prefer-rst-to-markdown/" type="text/html"/>
-      <source>
-        <id>https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/</id>
-        <link href="https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/"/>
-        <title>Why I prefer rST to markdown</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-07-31T15:34:39+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-why-i-prefer-rst-to-markdown/</id>
     <content type="html">
         
     </content>
