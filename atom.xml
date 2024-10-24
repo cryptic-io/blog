@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-10-23T19:00:00+00:00</updated>
+  <updated>2024-10-24T12:30:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>In defense of my technophobia</title>
+        <author>
+            <name>andersource</name>
+        </author>
+    <published>2024-10-24T12:30:00+00:00</published>
+    <updated>2024-10-24T12:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/andersource-in-defense-of-my-technophobia/"/>
+    <link rel="alternate" href="https://news.cryptic.io/andersource-in-defense-of-my-technophobia/" type="text/html"/>
+      <source>
+        <id>andersource.github.io/2024/10/24/technophobia.html</id>
+        <link href="andersource.github.io/2024/10/24/technophobia.html"/>
+        <title>In defense of my technophobia</title>
+        <author>
+            <name>andersource</name>
+        </author>
+        <updated>2024-10-24T12:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/andersource-in-defense-of-my-technophobia/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Lowest Common Denominator: www</title>
         <author>
@@ -12706,30 +12730,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-three-class-society/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>BFS zero-to-hero, part 1: intro &amp;amp; maze</title>
-        <author>
-            <name>andersource</name>
-        </author>
-    <published>2023-09-30T13:00:00+00:00</published>
-    <updated>2023-09-30T13:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/andersource-bfs-zerotohero-part-1-intro-amp-maze/"/>
-    <link rel="alternate" href="https://news.cryptic.io/andersource-bfs-zerotohero-part-1-intro-amp-maze/" type="text/html"/>
-      <source>
-        <id>andersource.github.io/2023/09/30/bfs-zero-to-hero-1.html</id>
-        <link href="andersource.github.io/2023/09/30/bfs-zero-to-hero-1.html"/>
-        <title>BFS zero-to-hero, part 1: intro &amp;amp; maze</title>
-        <author>
-            <name>andersource</name>
-        </author>
-        <updated>2023-09-30T13:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/andersource-bfs-zerotohero-part-1-intro-amp-maze/</id>
     <content type="html">
         
     </content>
