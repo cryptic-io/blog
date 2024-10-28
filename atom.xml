@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-10-26T14:09:53+00:00</updated>
+  <updated>2024-10-27T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Book Progress Update: Chapter 05 (Part I)</title>
+        <author>
+            <name>Chris Kiehl</name>
+        </author>
+    <published>2024-10-27T00:00:00+00:00</published>
+    <updated>2024-10-27T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-kiehl-book-progress-update-chapter-05-part-i/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-kiehl-book-progress-update-chapter-05-part-i/" type="text/html"/>
+      <source>
+        <id>https://chriskiehl.com/article/progress-update-2024-10-27</id>
+        <link href="https://chriskiehl.com/article/progress-update-2024-10-27"/>
+        <title>Book Progress Update: Chapter 05 (Part I)</title>
+        <author>
+            <name>Chris Kiehl</name>
+        </author>
+        <updated>2024-10-27T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-kiehl-book-progress-update-chapter-05-part-i/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>JetKVM: tiny IP KVM that&#x27;s not an Apple Watch</title>
         <author>
@@ -415,30 +439,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Brief thoughts on Dark Messiah of Might and Magic</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-10-19T20:38:25+00:00</published>
-    <updated>2024-10-19T20:38:25+00:00</updated>
-    <link href="https://news.cryptic.io/various-brief-thoughts-on-dark-messiah-of-might-and-magic/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-brief-thoughts-on-dark-messiah-of-might-and-magic/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/10/19/brief-thoughts-on-dark-messiah-of-might-and-magic/</id>
-        <link href="https://sporks.space/2024/10/19/brief-thoughts-on-dark-messiah-of-might-and-magic/"/>
-        <title>Brief thoughts on Dark Messiah of Might and Magic</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-10-19T20:38:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-brief-thoughts-on-dark-messiah-of-might-and-magic/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Cursiveness</title>
         <author>
             <name>Tim Bray</name>
@@ -578,30 +578,6 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-docker-builds-over-ssh/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Making mailing lists nicer: Writing a mail extension for macOS with MailKit</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-10-17T20:51:45+00:00</published>
-    <updated>2024-10-17T20:51:45+00:00</updated>
-    <link href="https://news.cryptic.io/various-making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/10/17/making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/</id>
-        <link href="https://sporks.space/2024/10/17/making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/"/>
-        <title>Making mailing lists nicer: Writing a mail extension for macOS with MailKit</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-10-17T20:51:45+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/</id>
     <content type="html">
         
     </content>
@@ -3295,30 +3271,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Accessing iPhone photos and media from Nautilus on Linux</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-09-20T01:37:48+00:00</published>
-    <updated>2024-09-20T01:37:48+00:00</updated>
-    <link href="https://news.cryptic.io/various-accessing-iphone-photos-and-media-from-nautilus-on-linux/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-accessing-iphone-photos-and-media-from-nautilus-on-linux/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/09/20/accessing-iphone-photos-and-media-from-nautilus-on-linux/</id>
-        <link href="https://sporks.space/2024/09/20/accessing-iphone-photos-and-media-from-nautilus-on-linux/"/>
-        <title>Accessing iPhone photos and media from Nautilus on Linux</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-09-20T01:37:48+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-accessing-iphone-photos-and-media-from-nautilus-on-linux/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How to completely bypass authentication on RushOrderTees</title>
         <author>
             <name>Xe Iaso</name>
@@ -4111,30 +4063,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Is Linux collapsing under its own weight? On Rust for Linux</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-09-05T14:29:01+00:00</published>
-    <updated>2024-09-05T14:29:01+00:00</updated>
-    <link href="https://news.cryptic.io/various-is-linux-collapsing-under-its-own-weight-on-rust-for-linux/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-is-linux-collapsing-under-its-own-weight-on-rust-for-linux/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/09/05/is-linux-collapsing-under-its-own-weight-on-rust-for-linux/</id>
-        <link href="https://sporks.space/2024/09/05/is-linux-collapsing-under-its-own-weight-on-rust-for-linux/"/>
-        <title>Is Linux collapsing under its own weight? On Rust for Linux</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-09-05T14:29:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-is-linux-collapsing-under-its-own-weight-on-rust-for-linux/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Planet Scale (Kazuo Nogawa &#x2F; Seiichi Hoshino) (野川和夫 &#x2F; 星野精一): Music For An Observatory Symphonic Scenes (環境音楽 JRタワー展望室 タワー・スリーエイト) (2006)</title>
         <author>
             <name>Diego Olivas</name>
@@ -4634,30 +4562,6 @@
       </source>
 
     <id>https://news.cryptic.io/diego-olivas-xcara-breeze-from-recife-1991/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Very brief thoughts on Being There</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-08-29T05:41:21+00:00</published>
-    <updated>2024-08-29T05:41:21+00:00</updated>
-    <link href="https://news.cryptic.io/various-very-brief-thoughts-on-being-there/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-very-brief-thoughts-on-being-there/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/08/29/very-brief-thoughts-on-being-there/</id>
-        <link href="https://sporks.space/2024/08/29/very-brief-thoughts-on-being-there/"/>
-        <title>Very brief thoughts on Being There</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-08-29T05:41:21+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-very-brief-thoughts-on-being-there/</id>
     <content type="html">
         
     </content>
@@ -7327,30 +7231,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Notes on installing IBM i over an NFS share</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-06-23T01:54:20+00:00</published>
-    <updated>2024-06-23T01:54:20+00:00</updated>
-    <link href="https://news.cryptic.io/various-notes-on-installing-ibm-i-over-an-nfs-share/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-notes-on-installing-ibm-i-over-an-nfs-share/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/06/23/notes-on-installing-ibm-i-over-an-nfs-share/</id>
-        <link href="https://sporks.space/2024/06/23/notes-on-installing-ibm-i-over-an-nfs-share/"/>
-        <title>Notes on installing IBM i over an NFS share</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-06-23T01:54:20+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-notes-on-installing-ibm-i-over-an-nfs-share/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>the motel room, or: on datedness</title>
         <author>
             <name>Kate Wagner</name>
@@ -7922,30 +7802,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-my-stance-on-github-copilot/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Updating Core Data object ID URIs on store migrations</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-06-03T05:47:14+00:00</published>
-    <updated>2024-06-03T05:47:14+00:00</updated>
-    <link href="https://news.cryptic.io/various-updating-core-data-object-id-uris-on-store-migrations/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-updating-core-data-object-id-uris-on-store-migrations/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/06/03/updating-core-data-object-id-uris-on-store-migrations/</id>
-        <link href="https://sporks.space/2024/06/03/updating-core-data-object-id-uris-on-store-migrations/"/>
-        <title>Updating Core Data object ID URIs on store migrations</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-06-03T05:47:14+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-updating-core-data-object-id-uris-on-store-migrations/</id>
     <content type="html">
         
     </content>
@@ -8546,30 +8402,6 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-layerwise-inferencing-batching-small-vram-doesnt-limit-llm-throughput-anymore/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Observation on the real-time strategy genre</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-05-12T21:03:36+00:00</published>
-    <updated>2024-05-12T21:03:36+00:00</updated>
-    <link href="https://news.cryptic.io/various-observation-on-the-realtime-strategy-genre/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-observation-on-the-realtime-strategy-genre/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/05/12/observation-on-the-real-time-strategy-genre/</id>
-        <link href="https://sporks.space/2024/05/12/observation-on-the-real-time-strategy-genre/"/>
-        <title>Observation on the real-time strategy genre</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-05-12T21:03:36+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-observation-on-the-realtime-strategy-genre/</id>
     <content type="html">
         
     </content>
@@ -9554,30 +9386,6 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-mentorship-coaching-sponsorship-three-different-and-equally-important-tools-for-developing-talent/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Fixing the “Not a heap block” error with networking with PCPro</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-03-30T02:11:12+00:00</published>
-    <updated>2024-03-30T02:11:12+00:00</updated>
-    <link href="https://news.cryptic.io/various-fixing-the-not-a-heap-block-error-with-networking-with-pcpro/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-fixing-the-not-a-heap-block-error-with-networking-with-pcpro/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/03/30/fixing-the-not-a-heap-block-error-with-networking-with-pcpro/</id>
-        <link href="https://sporks.space/2024/03/30/fixing-the-not-a-heap-block-error-with-networking-with-pcpro/"/>
-        <title>Fixing the “Not a heap block” error with networking with PCPro</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-03-30T02:11:12+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-fixing-the-not-a-heap-block-error-with-networking-with-pcpro/</id>
     <content type="html">
         
     </content>
@@ -11330,30 +11138,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-how-i-learn-making-games-for-the-playdate/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Formatting disks and clearing RAID config on Power systems with iprutils</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-01-17T02:16:28+00:00</published>
-    <updated>2024-01-17T02:16:28+00:00</updated>
-    <link href="https://news.cryptic.io/various-formatting-disks-and-clearing-raid-config-on-power-systems-with-iprutils/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-formatting-disks-and-clearing-raid-config-on-power-systems-with-iprutils/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/01/17/formatting-disks-and-clearing-raid-config-on-power-systems-with-iprutils/</id>
-        <link href="https://sporks.space/2024/01/17/formatting-disks-and-clearing-raid-config-on-power-systems-with-iprutils/"/>
-        <title>Formatting disks and clearing RAID config on Power systems with iprutils</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-01-17T02:16:28+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-formatting-disks-and-clearing-raid-config-on-power-systems-with-iprutils/</id>
     <content type="html">
         
     </content>
@@ -14706,30 +14490,6 @@
       </source>
 
     <id>https://news.cryptic.io/maggie-appleton-the-expanding-dark-forest-and-generative-ai/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>2022</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-    <published>2022-12-31T00:00:00+00:00</published>
-    <updated>2022-12-31T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-kiehl-2022/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-kiehl-2022/" type="text/html"/>
-      <source>
-        <id>https://chriskiehl.com/article/2022</id>
-        <link href="https://chriskiehl.com/article/2022"/>
-        <title>2022</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-        <updated>2022-12-31T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-kiehl-2022/</id>
     <content type="html">
         
     </content>
