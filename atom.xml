@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-10-29T15:20:43+00:00</updated>
+  <updated>2024-10-30T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Quality Means The Flexibility to Change</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-10-30T19:00:00+00:00</published>
+    <updated>2024-10-30T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-quality-means-the-flexibility-to-change/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-quality-means-the-flexibility-to-change/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/easy-changes/</id>
+        <link href="https://blog.jim-nielsen.com/2024/easy-changes/"/>
+        <title>Quality Means The Flexibility to Change</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-10-30T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-quality-means-the-flexibility-to-change/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Album Of The Week: Mount Eerie Night Palace</title>
         <author>
@@ -2330,30 +2354,6 @@
       </source>
 
     <id>https://news.cryptic.io/allen-pike-infer-an-ai-eng-meetup-in-vancouver/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Putting the “Person” in “Personal Website”</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-10-02T19:00:00+00:00</published>
-    <updated>2024-10-02T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-putting-the-person-in-personal-website/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-putting-the-person-in-personal-website/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/person-in-personal-website/</id>
-        <link href="https://blog.jim-nielsen.com/2024/person-in-personal-website/"/>
-        <title>Putting the “Person” in “Personal Website”</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-10-02T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-putting-the-person-in-personal-website/</id>
     <content type="html">
         
     </content>
