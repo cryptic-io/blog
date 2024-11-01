@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-11-01T16:00:00+00:00</updated>
+  <updated>2024-11-01T19:29:04+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Cult of Microsoft</title>
+        <author>
+            <name>Ed Zitron</name>
+        </author>
+    <published>2024-11-01T19:29:04+00:00</published>
+    <updated>2024-11-01T19:29:04+00:00</updated>
+    <link href="https://news.cryptic.io/ed-zitron-the-cult-of-microsoft/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ed-zitron-the-cult-of-microsoft/" type="text/html"/>
+      <source>
+        <id>https://www.wheresyoured.at/the-cult-of-microsoft/</id>
+        <link href="https://www.wheresyoured.at/the-cult-of-microsoft/"/>
+        <title>The Cult of Microsoft</title>
+        <author>
+            <name>Ed Zitron</name>
+        </author>
+        <updated>2024-11-01T19:29:04+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ed-zitron-the-cult-of-microsoft/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>CHANGELOG: Inlined Images Site-wide</title>
         <author>
@@ -602,30 +626,6 @@
       </source>
 
     <id>https://news.cryptic.io/chris-kiehl-i-found-a-microbe/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Steve Ballmer was an underrated CEO</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-    <published>2024-10-28T00:00:00+00:00</published>
-    <updated>2024-10-28T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dan-luu-steve-ballmer-was-an-underrated-ceo/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dan-luu-steve-ballmer-was-an-underrated-ceo/" type="text/html"/>
-      <source>
-        <id>https://danluu.com/ballmer/</id>
-        <link href="https://danluu.com/ballmer/"/>
-        <title>Steve Ballmer was an underrated CEO</title>
-        <author>
-            <name>Dan Luu</name>
-        </author>
-        <updated>2024-10-28T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dan-luu-steve-ballmer-was-an-underrated-ceo/</id>
     <content type="html">
         
     </content>
@@ -6794,30 +6794,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-how-i-use-git-worktrees/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Rot Economics - An Interview With MIT&#x27;s Daron Acemoglu</title>
-        <author>
-            <name>Ed Zitron</name>
-        </author>
-    <published>2024-07-24T16:12:44+00:00</published>
-    <updated>2024-07-24T16:12:44+00:00</updated>
-    <link href="https://news.cryptic.io/ed-zitron-rot-economics-an-interview-with-mits-daron-acemoglu/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ed-zitron-rot-economics-an-interview-with-mits-daron-acemoglu/" type="text/html"/>
-      <source>
-        <id>https://www.wheresyoured.at/rot-economics-an-interview-with-mits-daron-acemoglu/</id>
-        <link href="https://www.wheresyoured.at/rot-economics-an-interview-with-mits-daron-acemoglu/"/>
-        <title>Rot Economics - An Interview With MIT&#x27;s Daron Acemoglu</title>
-        <author>
-            <name>Ed Zitron</name>
-        </author>
-        <updated>2024-07-24T16:12:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ed-zitron-rot-economics-an-interview-with-mits-daron-acemoglu/</id>
     <content type="html">
         
     </content>
@@ -15018,6 +14994,30 @@
       </source>
 
     <id>https://news.cryptic.io/molly-white-livetweets-of-the-december-13-2022-house-financial-services-committee-hearing-on-ftx/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Transcript of Elon Musk on stage with Dave Chapelle</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+    <published>2022-12-11T00:00:00+00:00</published>
+    <updated>2022-12-11T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dan-luu-transcript-of-elon-musk-on-stage-with-dave-chapelle/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dan-luu-transcript-of-elon-musk-on-stage-with-dave-chapelle/" type="text/html"/>
+      <source>
+        <id>https://danluu.com/elon-dave-chappelle/</id>
+        <link href="https://danluu.com/elon-dave-chappelle/"/>
+        <title>Transcript of Elon Musk on stage with Dave Chapelle</title>
+        <author>
+            <name>Dan Luu</name>
+        </author>
+        <updated>2022-12-11T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dan-luu-transcript-of-elon-musk-on-stage-with-dave-chapelle/</id>
     <content type="html">
         
     </content>
