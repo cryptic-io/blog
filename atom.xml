@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-11-03T00:00:00+00:00</updated>
+  <updated>2024-11-03T16:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Influence Agents</title>
+        <author>
+            <name>geohot</name>
+        </author>
+    <published>2024-11-03T16:00:00+00:00</published>
+    <updated>2024-11-03T16:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/geohot-influence-agents/"/>
+    <link rel="alternate" href="https://news.cryptic.io/geohot-influence-agents/" type="text/html"/>
+      <source>
+        <id>https://geohot.github.io//blog/jekyll/update/2024/11/04/influence-agents.html</id>
+        <link href="https://geohot.github.io//blog/jekyll/update/2024/11/04/influence-agents.html"/>
+        <title>Influence Agents</title>
+        <author>
+            <name>geohot</name>
+        </author>
+        <updated>2024-11-03T16:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/geohot-influence-agents/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Data Oriented Programming in Java: Chapter 5 Progress (Part II)</title>
         <author>
@@ -12318,30 +12342,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-the-proper-design-process-in-web-development/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Disrupt the Government</title>
-        <author>
-            <name>geohot</name>
-        </author>
-    <published>2023-11-03T16:00:00+00:00</published>
-    <updated>2023-11-03T16:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/geohot-disrupt-the-government/"/>
-    <link rel="alternate" href="https://news.cryptic.io/geohot-disrupt-the-government/" type="text/html"/>
-      <source>
-        <id>https://geohot.github.io//blog/jekyll/update/2023/11/04/disrupt-the-government.html</id>
-        <link href="https://geohot.github.io//blog/jekyll/update/2023/11/04/disrupt-the-government.html"/>
-        <title>Disrupt the Government</title>
-        <author>
-            <name>geohot</name>
-        </author>
-        <updated>2023-11-03T16:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/geohot-disrupt-the-government/</id>
     <content type="html">
         
     </content>
