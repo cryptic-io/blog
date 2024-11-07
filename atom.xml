@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-11-06T19:00:00+00:00</updated>
+  <updated>2024-11-07T05:47:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>How I build things</title>
+        <author>
+            <name>herman</name>
+        </author>
+    <published>2024-11-07T05:47:00+00:00</published>
+    <updated>2024-11-07T05:47:00+00:00</updated>
+    <link href="https://news.cryptic.io/herman-how-i-build-things/"/>
+    <link rel="alternate" href="https://news.cryptic.io/herman-how-i-build-things/" type="text/html"/>
+      <source>
+        <id>https://herman.bearblog.dev/how-i-build-things/</id>
+        <link href="https://herman.bearblog.dev/how-i-build-things/"/>
+        <title>How I build things</title>
+        <author>
+            <name>herman</name>
+        </author>
+        <updated>2024-11-07T05:47:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/herman-how-i-build-things/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Persisting State to localStorage in Recoil Across Browser Tabs</title>
         <author>
@@ -50,6 +74,30 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-an-afternoon-of-early-november/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Proterozoic Rocks</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-11-06T00:00:00+00:00</published>
+    <updated>2024-11-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-proterozoic-rocks/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-proterozoic-rocks/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/3008/</id>
+        <link href="https://xkcd.com/3008/"/>
+        <title>Proterozoic Rocks</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-11-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-proterozoic-rocks/</id>
     <content type="html">
         
     </content>
@@ -962,30 +1010,6 @@
       </source>
 
     <id>https://news.cryptic.io/dan-luu-steve-ballmer-was-an-underrated-ceo/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Wells</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-10-28T00:00:00+00:00</published>
-    <updated>2024-10-28T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-wells/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-wells/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/3004/</id>
-        <link href="https://xkcd.com/3004/"/>
-        <title>Wells</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-10-28T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-wells/</id>
     <content type="html">
         
     </content>
@@ -11354,30 +11378,6 @@
       </source>
 
     <id>https://news.cryptic.io/degrowther-nostalgia/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How I learn (making games for the Playdate)</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2024-01-17T07:26:31.146+00:00</published>
-    <updated>2024-01-17T07:26:31.146+00:00</updated>
-    <link href="https://news.cryptic.io/herman-how-i-learn-making-games-for-the-playdate/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-how-i-learn-making-games-for-the-playdate/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/how-i-learn/</id>
-        <link href="https://herman.bearblog.dev/how-i-learn/"/>
-        <title>How I learn (making games for the Playdate)</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2024-01-17T07:26:31.146+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-how-i-learn-making-games-for-the-playdate/</id>
     <content type="html">
         
     </content>
