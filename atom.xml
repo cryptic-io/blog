@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-11-13T13:31:11+00:00</updated>
+  <updated>2024-11-13T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Beauty of Building</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-11-13T19:00:00+00:00</published>
+    <updated>2024-11-13T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-the-beauty-of-building/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-the-beauty-of-building/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/beauty-of-building/</id>
+        <link href="https://blog.jim-nielsen.com/2024/beauty-of-building/"/>
+        <title>The Beauty of Building</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-11-13T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-the-beauty-of-building/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Lost In The Future</title>
         <author>
@@ -26,6 +50,30 @@
       </source>
 
     <id>https://news.cryptic.io/ed-zitron-lost-in-the-future/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Full LLMs running on Tenstorrent + GGML</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-11-13T04:00:00+00:00</published>
+    <updated>2024-11-13T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-full-llms-running-on-tenstorrent-ggml/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-full-llms-running-on-tenstorrent-ggml/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/11-13-full-llms-running-on-tenstorrent-plus-ggml.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/11-13-full-llms-running-on-tenstorrent-plus-ggml.gmi"/>
+        <title>Full LLMs running on Tenstorrent + GGML</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-11-13T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-full-llms-running-on-tenstorrent-ggml/</id>
     <content type="html">
         
     </content>
@@ -602,6 +650,30 @@
       </source>
 
     <id>https://news.cryptic.io/randall-munroe-number-shortage/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Common issues with using GnuPG over SSH from a Mac</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2024-11-07T20:35:06+00:00</published>
+    <updated>2024-11-07T20:35:06+00:00</updated>
+    <link href="https://news.cryptic.io/various-common-issues-with-using-gnupg-over-ssh-from-a-mac/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-common-issues-with-using-gnupg-over-ssh-from-a-mac/" type="text/html"/>
+      <source>
+        <id>https://sporks.space/2024/11/07/common-issues-with-using-gnupg-over-ssh-from-a-mac/</id>
+        <link href="https://sporks.space/2024/11/07/common-issues-with-using-gnupg-over-ssh-from-a-mac/"/>
+        <title>Common issues with using GnuPG over SSH from a Mac</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2024-11-07T20:35:06+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-common-issues-with-using-gnupg-over-ssh-from-a-mac/</id>
     <content type="html">
         
     </content>
@@ -1567,6 +1639,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Getting the 1st token generated on Tenstorrent with GGML</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-10-28T04:00:00+00:00</published>
+    <updated>2024-10-28T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-getting-the-1st-token-generated-on-tenstorrent-with-ggml/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-getting-the-1st-token-generated-on-tenstorrent-with-ggml/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/10-28-generating-the-1st-token-on-tenstorrent-with-ggml.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/10-28-generating-the-1st-token-on-tenstorrent-with-ggml.gmi"/>
+        <title>Getting the 1st token generated on Tenstorrent with GGML</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-10-28T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-getting-the-1st-token-generated-on-tenstorrent-with-ggml/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>I found a microbe!</title>
         <author>
             <name>Chris Kiehl</name>
@@ -2023,6 +2119,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Brief thoughts on Dark Messiah of Might and Magic</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2024-10-19T20:38:25+00:00</published>
+    <updated>2024-10-19T20:38:25+00:00</updated>
+    <link href="https://news.cryptic.io/various-brief-thoughts-on-dark-messiah-of-might-and-magic/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-brief-thoughts-on-dark-messiah-of-might-and-magic/" type="text/html"/>
+      <source>
+        <id>https://sporks.space/2024/10/19/brief-thoughts-on-dark-messiah-of-might-and-magic/</id>
+        <link href="https://sporks.space/2024/10/19/brief-thoughts-on-dark-messiah-of-might-and-magic/"/>
+        <title>Brief thoughts on Dark Messiah of Might and Magic</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2024-10-19T20:38:25+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-brief-thoughts-on-dark-messiah-of-might-and-magic/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Cursiveness</title>
         <author>
             <name>Tim Bray</name>
@@ -2138,6 +2258,30 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-docker-builds-over-ssh/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Making mailing lists nicer: Writing a mail extension for macOS with MailKit</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2024-10-17T20:51:45+00:00</published>
+    <updated>2024-10-17T20:51:45+00:00</updated>
+    <link href="https://news.cryptic.io/various-making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/" type="text/html"/>
+      <source>
+        <id>https://sporks.space/2024/10/17/making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/</id>
+        <link href="https://sporks.space/2024/10/17/making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/"/>
+        <title>Making mailing lists nicer: Writing a mail extension for macOS with MailKit</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2024-10-17T20:51:45+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/</id>
     <content type="html">
         
     </content>
@@ -2282,30 +2426,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-sync-your-clock-its-stable-time/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Prompting the Wrong Question</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-10-16T19:00:00+00:00</published>
-    <updated>2024-10-16T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-prompting-the-wrong-question/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-prompting-the-wrong-question/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/prompting-the-wrong-question/</id>
-        <link href="https://blog.jim-nielsen.com/2024/prompting-the-wrong-question/"/>
-        <title>Prompting the Wrong Question</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-10-16T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-prompting-the-wrong-question/</id>
     <content type="html">
         
     </content>
@@ -2983,6 +3103,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Attack analysis of my mom&#x27;s Facebook account</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-10-08T04:00:00+00:00</published>
+    <updated>2024-10-08T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-attack-analysis-of-my-moms-facebook-account/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-attack-analysis-of-my-moms-facebook-account/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/10-08-attack-analysis-of-my-moms-facebook-account.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/10-08-attack-analysis-of-my-moms-facebook-account.gmi"/>
+        <title>Attack analysis of my mom&#x27;s Facebook account</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-10-08T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-attack-analysis-of-my-moms-facebook-account/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>BFS zero-to-hero, part 7: Crosstab</title>
         <author>
             <name>andersource</name>
@@ -3170,6 +3314,30 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-big-apple-blues/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>BOOM! I blew up my home directory</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-10-05T04:00:00+00:00</published>
+    <updated>2024-10-05T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-boom-i-blew-up-my-home-directory/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-boom-i-blew-up-my-home-directory/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/10-05-boom-I-blew-up-my-home-directory.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/10-05-boom-I-blew-up-my-home-directory.gmi"/>
+        <title>BOOM! I blew up my home directory</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-10-05T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-boom-i-blew-up-my-home-directory/</id>
     <content type="html">
         
     </content>
@@ -4279,6 +4447,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Accessing iPhone photos and media from Nautilus on Linux</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2024-09-20T01:37:48+00:00</published>
+    <updated>2024-09-20T01:37:48+00:00</updated>
+    <link href="https://news.cryptic.io/various-accessing-iphone-photos-and-media-from-nautilus-on-linux/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-accessing-iphone-photos-and-media-from-nautilus-on-linux/" type="text/html"/>
+      <source>
+        <id>https://sporks.space/2024/09/20/accessing-iphone-photos-and-media-from-nautilus-on-linux/</id>
+        <link href="https://sporks.space/2024/09/20/accessing-iphone-photos-and-media-from-nautilus-on-linux/"/>
+        <title>Accessing iPhone photos and media from Nautilus on Linux</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2024-09-20T01:37:48+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-accessing-iphone-photos-and-media-from-nautilus-on-linux/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Tossed Salads And Scrumbled Eggs</title>
         <author>
             <name>Lucic</name>
@@ -4783,6 +4975,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>(Reupload) eBike for intra-city traveling in Taiwan</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-09-08T04:00:00+00:00</published>
+    <updated>2024-09-08T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-reupload-ebike-for-intracity-traveling-in-taiwan/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-reupload-ebike-for-intracity-traveling-in-taiwan/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/09-08-ebike-for-intra-city-traveling-in-taiwan.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/09-08-ebike-for-intra-city-traveling-in-taiwan.gmi"/>
+        <title>(Reupload) eBike for intra-city traveling in Taiwan</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-09-08T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-reupload-ebike-for-intracity-traveling-in-taiwan/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Going Buildless</title>
         <author>
             <name>Max Böck</name>
@@ -4946,6 +5162,30 @@
       </source>
 
     <id>https://news.cryptic.io/various-how-to-use-an-aeropress-without-it-blowing-up-in-your-face/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Is Linux collapsing under its own weight? On Rust for Linux</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2024-09-05T14:29:01+00:00</published>
+    <updated>2024-09-05T14:29:01+00:00</updated>
+    <link href="https://news.cryptic.io/various-is-linux-collapsing-under-its-own-weight-on-rust-for-linux/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-is-linux-collapsing-under-its-own-weight-on-rust-for-linux/" type="text/html"/>
+      <source>
+        <id>https://sporks.space/2024/09/05/is-linux-collapsing-under-its-own-weight-on-rust-for-linux/</id>
+        <link href="https://sporks.space/2024/09/05/is-linux-collapsing-under-its-own-weight-on-rust-for-linux/"/>
+        <title>Is Linux collapsing under its own weight? On Rust for Linux</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2024-09-05T14:29:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-is-linux-collapsing-under-its-own-weight-on-rust-for-linux/</id>
     <content type="html">
         
     </content>
@@ -5378,6 +5618,30 @@
       </source>
 
     <id>https://news.cryptic.io/diego-olivas-xcara-breeze-from-recife-1991/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Very brief thoughts on Being There</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2024-08-29T05:41:21+00:00</published>
+    <updated>2024-08-29T05:41:21+00:00</updated>
+    <link href="https://news.cryptic.io/various-very-brief-thoughts-on-being-there/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-very-brief-thoughts-on-being-there/" type="text/html"/>
+      <source>
+        <id>https://sporks.space/2024/08/29/very-brief-thoughts-on-being-there/</id>
+        <link href="https://sporks.space/2024/08/29/very-brief-thoughts-on-being-there/"/>
+        <title>Very brief thoughts on Being There</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2024-08-29T05:41:21+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-very-brief-thoughts-on-being-there/</id>
     <content type="html">
         
     </content>
@@ -6607,6 +6871,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Understanding the Gemini request and response (COSCUP 2024 draft)</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-07-30T04:00:00+00:00</published>
+    <updated>2024-07-30T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-understanding-the-gemini-request-and-response-coscup-2024-draft/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-understanding-the-gemini-request-and-response-coscup-2024-draft/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/07-30-understanding-the-gemini-request-and-response-coscup-2024-draft.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/07-30-understanding-the-gemini-request-and-response-coscup-2024-draft.gmi"/>
+        <title>Understanding the Gemini request and response (COSCUP 2024 draft)</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-07-30T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-understanding-the-gemini-request-and-response-coscup-2024-draft/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>A beginner’s guide to exploration</title>
         <author>
             <name>Linus Lee</name>
@@ -7063,6 +7351,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Fixing electron apps and Steam not working on Wayland (Arch Linux, RDNA3, AMDGPU, broken Vulkan)</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-07-11T04:00:00+00:00</published>
+    <updated>2024-07-11T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-fixing-electron-apps-and-steam-not-working-on-wayland-arch-linux-rdna3-amdgpu-broken-vulkan/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-fixing-electron-apps-and-steam-not-working-on-wayland-arch-linux-rdna3-amdgpu-broken-vulkan/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/07-11-fixing-electron-apps-and-steam-not-working-on-wayland.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/07-11-fixing-electron-apps-and-steam-not-working-on-wayland.gmi"/>
+        <title>Fixing electron apps and Steam not working on Wayland (Arch Linux, RDNA3, AMDGPU, broken Vulkan)</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-07-11T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-fixing-electron-apps-and-steam-not-working-on-wayland-arch-linux-rdna3-amdgpu-broken-vulkan/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>My Glorious Ascension To Thought Leadership</title>
         <author>
             <name>Lucic</name>
@@ -7226,6 +7538,30 @@
       </source>
 
     <id>https://news.cryptic.io/manuel-manuel-was-annoyed/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A gentle guide on getting your Tenstorrent card running on Arch Linux (with the Metalium stack)</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-07-07T04:00:00+00:00</published>
+    <updated>2024-07-07T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/07-07-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/07-07-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack.gmi"/>
+        <title>A gentle guide on getting your Tenstorrent card running on Arch Linux (with the Metalium stack)</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-07-07T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-a-gentle-guide-on-getting-your-tenstorrent-card-running-on-arch-linux-with-the-metalium-stack/</id>
     <content type="html">
         
     </content>
@@ -7663,6 +7999,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Notes on installing IBM i over an NFS share</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2024-06-23T01:54:20+00:00</published>
+    <updated>2024-06-23T01:54:20+00:00</updated>
+    <link href="https://news.cryptic.io/various-notes-on-installing-ibm-i-over-an-nfs-share/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-notes-on-installing-ibm-i-over-an-nfs-share/" type="text/html"/>
+      <source>
+        <id>https://sporks.space/2024/06/23/notes-on-installing-ibm-i-over-an-nfs-share/</id>
+        <link href="https://sporks.space/2024/06/23/notes-on-installing-ibm-i-over-an-nfs-share/"/>
+        <title>Notes on installing IBM i over an NFS share</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2024-06-23T01:54:20+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-notes-on-installing-ibm-i-over-an-nfs-share/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>the motel room, or: on datedness</title>
         <author>
             <name>Kate Wagner</name>
@@ -7778,6 +8138,30 @@
       </source>
 
     <id>https://news.cryptic.io/lucic-i-will-fucking-piledrive-you-if-you-mention-ai-again/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Slides for April talk at NSYSU for AI inference</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-06-18T04:00:00+00:00</published>
+    <updated>2024-06-18T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-slides-for-april-talk-at-nsysu-for-ai-inference/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-slides-for-april-talk-at-nsysu-for-ai-inference/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/06-18-slides-for-april-talk-at-nsysu-for-ai-inference.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/06-18-slides-for-april-talk-at-nsysu-for-ai-inference.gmi"/>
+        <title>Slides for April talk at NSYSU for AI inference</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-06-18T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-slides-for-april-talk-at-nsysu-for-ai-inference/</id>
     <content type="html">
         
     </content>
@@ -8047,6 +8431,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Compare nlohmann&#x2F;json to Glaze</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+    <published>2024-06-09T04:00:00+00:00</published>
+    <updated>2024-06-09T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/martin-chang-compare-nlohmannjson-to-glaze/"/>
+    <link rel="alternate" href="https://news.cryptic.io/martin-chang-compare-nlohmannjson-to-glaze/" type="text/html"/>
+      <source>
+        <id>https://clehaxze.tw/gemlog/2024/06-09-compare-nlohmann-json-to-glaze.gmi</id>
+        <link href="https://clehaxze.tw/gemlog/2024/06-09-compare-nlohmann-json-to-glaze.gmi"/>
+        <title>Compare nlohmann&#x2F;json to Glaze</title>
+        <author>
+            <name>Martin Chang</name>
+        </author>
+        <updated>2024-06-09T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/martin-chang-compare-nlohmannjson-to-glaze/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>A Simple Script to Initialize nix-Based Projects</title>
         <author>
             <name>mediocregopher</name>
@@ -8162,6 +8570,30 @@
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-adding-google-web-search-to-firefox/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Updating Core Data object ID URIs on store migrations</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2024-06-03T05:47:14+00:00</published>
+    <updated>2024-06-03T05:47:14+00:00</updated>
+    <link href="https://news.cryptic.io/various-updating-core-data-object-id-uris-on-store-migrations/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-updating-core-data-object-id-uris-on-store-migrations/" type="text/html"/>
+      <source>
+        <id>https://sporks.space/2024/06/03/updating-core-data-object-id-uris-on-store-migrations/</id>
+        <link href="https://sporks.space/2024/06/03/updating-core-data-object-id-uris-on-store-migrations/"/>
+        <title>Updating Core Data object ID URIs on store migrations</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2024-06-03T05:47:14+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-updating-core-data-object-id-uris-on-store-migrations/</id>
     <content type="html">
         
     </content>
@@ -8690,6 +9122,30 @@
       </source>
 
     <id>https://news.cryptic.io/evan-ovadia-layerwise-inferencing-batching-small-vram-doesnt-limit-llm-throughput-anymore/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Observation on the real-time strategy genre</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2024-05-12T21:03:36+00:00</published>
+    <updated>2024-05-12T21:03:36+00:00</updated>
+    <link href="https://news.cryptic.io/various-observation-on-the-realtime-strategy-genre/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-observation-on-the-realtime-strategy-genre/" type="text/html"/>
+      <source>
+        <id>https://sporks.space/2024/05/12/observation-on-the-real-time-strategy-genre/</id>
+        <link href="https://sporks.space/2024/05/12/observation-on-the-real-time-strategy-genre/"/>
+        <title>Observation on the real-time strategy genre</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2024-05-12T21:03:36+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-observation-on-the-realtime-strategy-genre/</id>
     <content type="html">
         
     </content>
@@ -9602,6 +10058,30 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-mentorship-coaching-sponsorship-three-different-and-equally-important-tools-for-developing-talent/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Fixing the “Not a heap block” error with networking with PCPro</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2024-03-30T02:11:12+00:00</published>
+    <updated>2024-03-30T02:11:12+00:00</updated>
+    <link href="https://news.cryptic.io/various-fixing-the-not-a-heap-block-error-with-networking-with-pcpro/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-fixing-the-not-a-heap-block-error-with-networking-with-pcpro/" type="text/html"/>
+      <source>
+        <id>https://sporks.space/2024/03/30/fixing-the-not-a-heap-block-error-with-networking-with-pcpro/</id>
+        <link href="https://sporks.space/2024/03/30/fixing-the-not-a-heap-block-error-with-networking-with-pcpro/"/>
+        <title>Fixing the “Not a heap block” error with networking with PCPro</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2024-03-30T02:11:12+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-fixing-the-not-a-heap-block-error-with-networking-with-pcpro/</id>
     <content type="html">
         
     </content>
