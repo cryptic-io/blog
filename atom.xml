@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-11-14T16:00:00+00:00</updated>
+  <updated>2024-11-14T18:40:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Housekeeping</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-11-14T18:40:00+00:00</published>
+    <updated>2024-11-14T18:40:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-housekeeping/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-housekeeping/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/dQUOHJS2YRk1nyF0</id>
+        <link href="https://manuelmoreale.com/@/page/dQUOHJS2YRk1nyF0"/>
+        <title>Housekeeping</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-11-14T18:40:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-housekeeping/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>How Much Faster is Passing-by-Pointer in Go?</title>
         <author>
@@ -218,6 +242,30 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-m4-mac-minis-efficiency-is-incredible/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Five Unusual Raku Features</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-11-12T20:06:55+00:00</published>
+    <updated>2024-11-12T20:06:55+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-five-unusual-raku-features/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-five-unusual-raku-features/" type="text/html"/>
+      <source>
+        <id>https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/</id>
+        <link href="https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/"/>
+        <title>Five Unusual Raku Features</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-11-12T20:06:55+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-five-unusual-raku-features/</id>
     <content type="html">
         
     </content>
@@ -938,6 +986,30 @@
       </source>
 
     <id>https://news.cryptic.io/randall-munroe-proterozoic-rocks/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A list of ternary operators</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-11-05T18:40:33+00:00</published>
+    <updated>2024-11-05T18:40:33+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-a-list-of-ternary-operators/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-a-list-of-ternary-operators/" type="text/html"/>
+      <source>
+        <id>https://buttondown.com/hillelwayne/archive/a-list-of-ternary-operators/</id>
+        <link href="https://buttondown.com/hillelwayne/archive/a-list-of-ternary-operators/"/>
+        <title>A list of ternary operators</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-11-05T18:40:33+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-a-list-of-ternary-operators/</id>
     <content type="html">
         
     </content>
@@ -2047,6 +2119,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>TLA from first principles</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-10-22T17:14:21+00:00</published>
+    <updated>2024-10-22T17:14:21+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-tla-from-first-principles/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-tla-from-first-principles/" type="text/html"/>
+      <source>
+        <id>https://buttondown.com/hillelwayne/archive/tla-from-first-principles/</id>
+        <link href="https://buttondown.com/hillelwayne/archive/tla-from-first-principles/"/>
+        <title>TLA from first principles</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-10-22T17:14:21+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-tla-from-first-principles/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Album Of The Week: Two Shell Two Shell</title>
         <author>
             <name>Stereogum</name>
@@ -2455,6 +2551,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Be Suspicious of Success</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-10-16T15:08:39+00:00</published>
+    <updated>2024-10-16T15:08:39+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-be-suspicious-of-success/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-be-suspicious-of-success/" type="text/html"/>
+      <source>
+        <id>https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/</id>
+        <link href="https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/"/>
+        <title>Be Suspicious of Success</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-10-16T15:08:39+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-be-suspicious-of-success/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>ThinkPad as a server: third time&#x27;s the charm</title>
         <author>
             <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
@@ -2570,30 +2690,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-on-being-a-great-giftgiver/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Creation and Curation</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-10-14T07:00:00+00:00</published>
-    <updated>2024-10-14T07:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-creation-and-curation/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-creation-and-curation/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/7oyOTbe0fG8VMIqt</id>
-        <link href="https://manuelmoreale.com/@/page/7oyOTbe0fG8VMIqt"/>
-        <title>Creation and Curation</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-10-14T07:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-creation-and-curation/</id>
     <content type="html">
         
     </content>
@@ -3050,6 +3146,30 @@
       </source>
 
     <id>https://news.cryptic.io/stereogum-album-of-the-week-chat-pile-cool-world/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>How to convince engineers that formal methods is cool</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-10-08T16:18:55+00:00</published>
+    <updated>2024-10-08T16:18:55+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-how-to-convince-engineers-that-formal-methods-is-cool/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-how-to-convince-engineers-that-formal-methods-is-cool/" type="text/html"/>
+      <source>
+        <id>https://buttondown.com/hillelwayne/archive/how-to-convince-engineers-that-formal-methods-is/</id>
+        <link href="https://buttondown.com/hillelwayne/archive/how-to-convince-engineers-that-formal-methods-is/"/>
+        <title>How to convince engineers that formal methods is cool</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-10-08T16:18:55+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-how-to-convince-engineers-that-formal-methods-is-cool/</id>
     <content type="html">
         
     </content>
@@ -4087,6 +4207,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Refactoring Invariants</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-09-24T20:06:10+00:00</published>
+    <updated>2024-09-24T20:06:10+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-refactoring-invariants/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-refactoring-invariants/" type="text/html"/>
+      <source>
+        <id>https://buttondown.com/hillelwayne/archive/refactoring-invariants/</id>
+        <link href="https://buttondown.com/hillelwayne/archive/refactoring-invariants/"/>
+        <title>Refactoring Invariants</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-09-24T20:06:10+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-refactoring-invariants/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Album Of The Week: Origami Angel Feeling Not Found</title>
         <author>
             <name>Stereogum</name>
@@ -4471,6 +4615,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Goodhart&#x27;s Law in Software Engineering</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-09-17T16:33:40+00:00</published>
+    <updated>2024-09-17T16:33:40+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-goodharts-law-in-software-engineering/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-goodharts-law-in-software-engineering/" type="text/html"/>
+      <source>
+        <id>https://buttondown.com/hillelwayne/archive/goodharts-law-in-software-engineering/</id>
+        <link href="https://buttondown.com/hillelwayne/archive/goodharts-law-in-software-engineering/"/>
+        <title>Goodhart&#x27;s Law in Software Engineering</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-09-17T16:33:40+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-goodharts-law-in-software-engineering/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>New Section Added: 🫶 Donation Station - All people&#x2F;orgs I have recurring donations to</title>
         <author>
             <name>mediocregopher</name>
@@ -4778,6 +4946,30 @@
       </source>
 
     <id>https://news.cryptic.io/linus-lee-joining-thrive-capital/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Why Not Comments</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-09-10T19:40:29+00:00</published>
+    <updated>2024-09-10T19:40:29+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-why-not-comments/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-why-not-comments/" type="text/html"/>
+      <source>
+        <id>https://buttondown.com/hillelwayne/archive/why-not-comments/</id>
+        <link href="https://buttondown.com/hillelwayne/archive/why-not-comments/"/>
+        <title>Why Not Comments</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-09-10T19:40:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-why-not-comments/</id>
     <content type="html">
         
     </content>
@@ -5138,6 +5330,30 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-0-dependencies/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Thoughts on &quot;The Future of TLA+&quot;</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-09-04T17:00:19+00:00</published>
+    <updated>2024-09-04T17:00:19+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-thoughts-on-the-future-of-tla/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-thoughts-on-the-future-of-tla/" type="text/html"/>
+      <source>
+        <id>https://buttondown.com/hillelwayne/archive/what-could-be-added-to-tla/</id>
+        <link href="https://buttondown.com/hillelwayne/archive/what-could-be-added-to-tla/"/>
+        <title>Thoughts on &quot;The Future of TLA+&quot;</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-09-04T17:00:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-thoughts-on-the-future-of-tla/</id>
     <content type="html">
         
     </content>
@@ -5642,6 +5858,30 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-live-cms-previews-with-sanity-and-eleventy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>State and time are the same thing</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2024-08-27T18:13:37+00:00</published>
+    <updated>2024-08-27T18:13:37+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-state-and-time-are-the-same-thing/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-state-and-time-are-the-same-thing/" type="text/html"/>
+      <source>
+        <id>https://buttondown.com/hillelwayne/archive/state-and-time-are-the-same-thing/</id>
+        <link href="https://buttondown.com/hillelwayne/archive/state-and-time-are-the-same-thing/"/>
+        <title>State and time are the same thing</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2024-08-27T18:13:37+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-state-and-time-are-the-same-thing/</id>
     <content type="html">
         
     </content>
@@ -7255,6 +7495,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Manuel was annoyed</title>
+        <author>
+            <name>Manuel</name>
+        </author>
+    <published>2024-07-09T15:48:14+00:00</published>
+    <updated>2024-07-09T15:48:14+00:00</updated>
+    <link href="https://news.cryptic.io/manuel-manuel-was-annoyed/"/>
+    <link rel="alternate" href="https://news.cryptic.io/manuel-manuel-was-annoyed/" type="text/html"/>
+      <source>
+        <id>https://annoying.technology/posts/613bc94973c11226/</id>
+        <link href="https://annoying.technology/posts/613bc94973c11226/"/>
+        <title>Manuel was annoyed</title>
+        <author>
+            <name>Manuel</name>
+        </author>
+        <updated>2024-07-09T15:48:14+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/manuel-manuel-was-annoyed/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Geomys, a blueprint for a sustainable open source maintenance firm</title>
         <author>
             <name>Filippo Valsorda</name>
@@ -7322,30 +7586,6 @@
       </source>
 
     <id>https://news.cryptic.io/nutcroft-an-ontology-of-political-decisions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Manuel was annoyed</title>
-        <author>
-            <name>Manuel</name>
-        </author>
-    <published>2024-07-07T11:53:29+00:00</published>
-    <updated>2024-07-07T11:53:29+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-manuel-was-annoyed/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-manuel-was-annoyed/" type="text/html"/>
-      <source>
-        <id>https://annoying.technology/posts/b5ccb9ee234acccf/</id>
-        <link href="https://annoying.technology/posts/b5ccb9ee234acccf/"/>
-        <title>Manuel was annoyed</title>
-        <author>
-            <name>Manuel</name>
-        </author>
-        <updated>2024-07-07T11:53:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-manuel-was-annoyed/</id>
     <content type="html">
         
     </content>
