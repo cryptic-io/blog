@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-11-17T21:11:05+00:00</updated>
+  <updated>2024-11-18T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Dismissed!</title>
+        <author>
+            <name>Derek Sivers</name>
+        </author>
+    <published>2024-11-18T00:00:00+00:00</published>
+    <updated>2024-11-18T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/derek-sivers-dismissed/"/>
+    <link rel="alternate" href="https://news.cryptic.io/derek-sivers-dismissed/" type="text/html"/>
+      <source>
+        <id>https://sive.rs/dis</id>
+        <link href="https://sive.rs/dis"/>
+        <title>Dismissed!</title>
+        <author>
+            <name>Derek Sivers</name>
+        </author>
+        <updated>2024-11-18T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/derek-sivers-dismissed/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Final Fact</title>
         <author>
@@ -127,25 +151,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>To question is to consider, not refute</title>
+    <title>I hated Dubai until I learned about it</title>
         <author>
             <name>Derek Sivers</name>
         </author>
     <published>2024-11-16T00:00:00+00:00</published>
     <updated>2024-11-16T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/derek-sivers-to-question-is-to-consider-not-refute/"/>
-    <link rel="alternate" href="https://news.cryptic.io/derek-sivers-to-question-is-to-consider-not-refute/" type="text/html"/>
+    <link href="https://news.cryptic.io/derek-sivers-i-hated-dubai-until-i-learned-about-it/"/>
+    <link rel="alternate" href="https://news.cryptic.io/derek-sivers-i-hated-dubai-until-i-learned-about-it/" type="text/html"/>
       <source>
-        <id>https://sive.rs/qcc</id>
-        <link href="https://sive.rs/qcc"/>
-        <title>To question is to consider, not refute</title>
+        <id>https://sive.rs/dxb</id>
+        <link href="https://sive.rs/dxb"/>
+        <title>I hated Dubai until I learned about it</title>
         <author>
             <name>Derek Sivers</name>
         </author>
         <updated>2024-11-16T00:00:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/derek-sivers-to-question-is-to-consider-not-refute/</id>
+    <id>https://news.cryptic.io/derek-sivers-i-hated-dubai-until-i-learned-about-it/</id>
     <content type="html">
         
     </content>
@@ -170,6 +194,30 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-small-scale-is-the-best-scale/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Why Not Bluesky</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2024-11-15T20:00:00+00:00</published>
+    <updated>2024-11-15T20:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-why-not-bluesky/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-why-not-bluesky/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2024/11/15/Not-Bluesky</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2024/11/15/Not-Bluesky"/>
+        <title>Why Not Bluesky</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2024-11-15T20:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-why-not-bluesky/</id>
     <content type="html">
         
     </content>
@@ -247,25 +295,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>I hated Dubai until I learned about it</title>
+    <title>To question is to consider, not refute</title>
         <author>
             <name>Derek Sivers</name>
         </author>
     <published>2024-11-15T00:00:00+00:00</published>
     <updated>2024-11-15T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/derek-sivers-i-hated-dubai-until-i-learned-about-it/"/>
-    <link rel="alternate" href="https://news.cryptic.io/derek-sivers-i-hated-dubai-until-i-learned-about-it/" type="text/html"/>
+    <link href="https://news.cryptic.io/derek-sivers-to-question-is-to-consider-not-refute/"/>
+    <link rel="alternate" href="https://news.cryptic.io/derek-sivers-to-question-is-to-consider-not-refute/" type="text/html"/>
       <source>
-        <id>https://sive.rs/dxb</id>
-        <link href="https://sive.rs/dxb"/>
-        <title>I hated Dubai until I learned about it</title>
+        <id>https://sive.rs/qcc</id>
+        <link href="https://sive.rs/qcc"/>
+        <title>To question is to consider, not refute</title>
         <author>
             <name>Derek Sivers</name>
         </author>
         <updated>2024-11-15T00:00:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/derek-sivers-i-hated-dubai-until-i-learned-about-it/</id>
+    <id>https://news.cryptic.io/derek-sivers-to-question-is-to-consider-not-refute/</id>
     <content type="html">
         
     </content>
@@ -1082,30 +1130,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-dalton-mabery/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Bleak State of ZeroNet and the Uncertain Future of Decentralized Networks in General</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2024-11-08T08:11:00+00:00</published>
-    <updated>2024-11-08T08:11:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-the-bleak-state-of-zeronet-and-the-uncertain-future-of-decentralized-networks-in-general/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-bleak-state-of-zeronet-and-the-uncertain-future-of-decentralized-networks-in-general/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/state-of-zeronet.html</id>
-        <link href="https://cheapskatesguide.org/articles/state-of-zeronet.html"/>
-        <title>The Bleak State of ZeroNet and the Uncertain Future of Decentralized Networks in General</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2024-11-08T08:11:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-the-bleak-state-of-zeronet-and-the-uncertain-future-of-decentralized-networks-in-general/</id>
     <content type="html">
         
     </content>
@@ -2287,30 +2311,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>My Cheap Solution for Keeping My Website on Line During an Intermediate-Term Power Outage</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2024-10-25T06:58:00+00:00</published>
-    <updated>2024-10-25T06:58:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-my-cheap-solution-for-keeping-my-website-on-line-during-an-intermediateterm-power-outage/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-my-cheap-solution-for-keeping-my-website-on-line-during-an-intermediateterm-power-outage/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/battery-backup.html</id>
-        <link href="https://cheapskatesguide.org/articles/battery-backup.html"/>
-        <title>My Cheap Solution for Keeping My Website on Line During an Intermediate-Term Power Outage</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2024-10-25T06:58:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-my-cheap-solution-for-keeping-my-website-on-line-during-an-intermediateterm-power-outage/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Norihiro Tsuru (都留教博): 人魚の傷 オリジナルサウンドトラック (Mermaid’s Scar Original Soundtrack) (1993)</title>
         <author>
             <name>Diego Olivas</name>
@@ -3098,30 +3098,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-realizing-meshtastics-promise-with-the-tdeck/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Strategies for Minimizing the Total Cost of Computer Ownership</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2024-10-11T06:51:00+00:00</published>
-    <updated>2024-10-11T06:51:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-strategies-for-minimizing-the-total-cost-of-computer-ownership/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-strategies-for-minimizing-the-total-cost-of-computer-ownership/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/cost-strategies.html</id>
-        <link href="https://cheapskatesguide.org/articles/cost-strategies.html"/>
-        <title>Strategies for Minimizing the Total Cost of Computer Ownership</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2024-10-11T06:51:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-strategies-for-minimizing-the-total-cost-of-computer-ownership/</id>
     <content type="html">
         
     </content>
@@ -4207,30 +4183,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A Brief Review of Porteus Linux</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2024-09-27T05:11:00+00:00</published>
-    <updated>2024-09-27T05:11:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-a-brief-review-of-porteus-linux/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-a-brief-review-of-porteus-linux/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/porteus-linux.html</id>
-        <link href="https://cheapskatesguide.org/articles/porteus-linux.html"/>
-        <title>A Brief Review of Porteus Linux</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2024-09-27T05:11:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-a-brief-review-of-porteus-linux/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Igalia: 2024 Mid-season Power Rankings</title>
         <author>
             <name>Brian Kardell</name>
@@ -5047,30 +4999,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Small Internet has Already Succeeded</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2024-09-13T06:06:00+00:00</published>
-    <updated>2024-09-13T06:06:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-the-small-internet-has-already-succeeded/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-small-internet-has-already-succeeded/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/small-internet-succeeded.html</id>
-        <link href="https://cheapskatesguide.org/articles/small-internet-succeeded.html"/>
-        <title>The Small Internet has Already Succeeded</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2024-09-13T06:06:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-the-small-internet-has-already-succeeded/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Consciousness will slip through our fingers</title>
         <author>
             <name>dynomight</name>
@@ -5474,30 +5402,6 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-thoughts-while-watching-myself-be-automated/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>0 dependencies!</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2024-09-04T19:00:00+00:00</published>
-    <updated>2024-09-04T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-0-dependencies/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-0-dependencies/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2024/09/04/0dependencies</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2024/09/04/0dependencies"/>
-        <title>0 dependencies!</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2024-09-04T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-0-dependencies/</id>
     <content type="html">
         
     </content>
@@ -10135,30 +10039,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Ben Kihnel</title>
-        <author>
-            <name>Derek Sivers</name>
-        </author>
-    <published>2024-03-28T00:00:00+00:00</published>
-    <updated>2024-03-28T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/derek-sivers-ben-kihnel/"/>
-    <link rel="alternate" href="https://news.cryptic.io/derek-sivers-ben-kihnel/" type="text/html"/>
-      <source>
-        <id>https://sive.rs/ben-kihnel</id>
-        <link href="https://sive.rs/ben-kihnel"/>
-        <title>Ben Kihnel</title>
-        <author>
-            <name>Derek Sivers</name>
-        </author>
-        <updated>2024-03-28T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/derek-sivers-ben-kihnel/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>LinkedIn is not a social or professional network, it&#x27;s a learning network</title>
         <author>
             <name>Tom Critchlow</name>
@@ -10562,30 +10442,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthias-ott-links-worth-sharing/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Blocking Advertisements on YouTube Feels so Good!</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2024-03-13T13:55:00+00:00</published>
-    <updated>2024-03-13T13:55:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-blocking-advertisements-on-youtube-feels-so-good/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-blocking-advertisements-on-youtube-feels-so-good/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/blocking-ads-on-youtube.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/blocking-ads-on-youtube.html"/>
-        <title>Blocking Advertisements on YouTube Feels so Good!</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2024-03-13T13:55:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-blocking-advertisements-on-youtube-feels-so-good/</id>
     <content type="html">
         
     </content>
@@ -12467,30 +12323,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The US Health-Insurance Industry is Now so Thoroughly Enshittified that the Time has Come to Flush It</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2023-11-08T10:36:00+00:00</published>
-    <updated>2023-11-08T10:36:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-the-us-healthinsurance-industry-is-now-so-thoroughly-enshittified-that-the-time-has-come-to-flush-it/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-the-us-healthinsurance-industry-is-now-so-thoroughly-enshittified-that-the-time-has-come-to-flush-it/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/beware-help.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/beware-help.html"/>
-        <title>The US Health-Insurance Industry is Now so Thoroughly Enshittified that the Time has Come to Flush It</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2023-11-08T10:36:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-the-us-healthinsurance-industry-is-now-so-thoroughly-enshittified-that-the-time-has-come-to-flush-it/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Enough Polynomials and Linear Algebra to Implement Kyber</title>
         <author>
             <name>Filippo Valsorda</name>
@@ -13847,30 +13679,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>On the Poor Writing Found on Most Personal Websites, and the Few Shining Exceptions</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2023-05-30T11:00:00+00:00</published>
-    <updated>2023-05-30T11:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/personal-websites-and-writing.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/personal-websites-and-writing.html"/>
-        <title>On the Poor Writing Found on Most Personal Websites, and the Few Shining Exceptions</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2023-05-30T11:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Lightning ändert alles</title>
         <author>
             <name>Gigi</name>
@@ -14711,30 +14519,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2023-01-01T12:00:00+00:00</published>
-    <updated>2023-01-01T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/beware-help.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/beware-help.html"/>
-        <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2023-01-01T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Livetweets of the December 14, 2022 Senate Banking Committee hearing on FTX</title>
         <author>
             <name>Molly White</name>
@@ -14922,30 +14706,6 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-the-indieweb-for-everyone/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Idyllic Life</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-11-05T12:04:00+00:00</published>
-    <updated>2022-11-05T12:04:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-idyllic-life/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-idyllic-life/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/idyllic-life.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/idyllic-life.html"/>
-        <title>Idyllic Life</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-11-05T12:04:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-idyllic-life/</id>
     <content type="html">
         
     </content>
