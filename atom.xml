@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-11-22T12:00:00+00:00</updated>
+  <updated>2024-11-22T16:15:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>On Bluesky</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-11-22T16:15:00+00:00</published>
+    <updated>2024-11-22T16:15:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-on-bluesky/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-on-bluesky/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/aFVkZU3W7xod9Woe</id>
+        <link href="https://manuelmoreale.com/@/page/aFVkZU3W7xod9Woe"/>
+        <title>On Bluesky</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-11-22T16:15:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-on-bluesky/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>P&amp;B: Em</title>
         <author>
@@ -1682,30 +1706,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-persisting-state-to-localstorage-in-recoil-across-browser-tabs/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>An afternoon of early November</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-11-06T13:45:00+00:00</published>
-    <updated>2024-11-06T13:45:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-an-afternoon-of-early-november/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-an-afternoon-of-early-november/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/n4bZ3s5lehvn3XEK</id>
-        <link href="https://manuelmoreale.com/@/page/n4bZ3s5lehvn3XEK"/>
-        <title>An afternoon of early November</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-11-06T13:45:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-an-afternoon-of-early-november/</id>
     <content type="html">
         
     </content>
