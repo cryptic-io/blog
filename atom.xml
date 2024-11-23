@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-11-22T16:15:00+00:00</updated>
+  <updated>2024-11-23T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Leaving Twitter for Bluesky</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+    <published>2024-11-23T00:00:00+00:00</published>
+    <updated>2024-11-23T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/justin-jackson-leaving-twitter-for-bluesky/"/>
+    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-leaving-twitter-for-bluesky/" type="text/html"/>
+      <source>
+        <id>https://justinjackson.ca/twitter-bluesky</id>
+        <link href="https://justinjackson.ca/twitter-bluesky"/>
+        <title>Leaving Twitter for Bluesky</title>
+        <author>
+            <name>Justin Jackson</name>
+        </author>
+        <updated>2024-11-23T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/justin-jackson-leaving-twitter-for-bluesky/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>On Bluesky</title>
         <author>
@@ -50,30 +74,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-em/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A Review of the Zifriend T62 Mechanical Keyboard</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2024-11-22T06:30:00+00:00</published>
-    <updated>2024-11-22T06:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-a-review-of-the-zifriend-t62-mechanical-keyboard/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-a-review-of-the-zifriend-t62-mechanical-keyboard/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/zifriend-keyboard.html</id>
-        <link href="https://cheapskatesguide.org/articles/zifriend-keyboard.html"/>
-        <title>A Review of the Zifriend T62 Mechanical Keyboard</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2024-11-22T06:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-a-review-of-the-zifriend-t62-mechanical-keyboard/</id>
     <content type="html">
         
     </content>
@@ -1543,30 +1543,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The Bleak State of ZeroNet and the Uncertain Future of Decentralized Networks in General</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2024-11-08T08:11:00+00:00</published>
-    <updated>2024-11-08T08:11:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-the-bleak-state-of-zeronet-and-the-uncertain-future-of-decentralized-networks-in-general/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-the-bleak-state-of-zeronet-and-the-uncertain-future-of-decentralized-networks-in-general/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/state-of-zeronet.html</id>
-        <link href="https://cheapskatesguide.org/articles/state-of-zeronet.html"/>
-        <title>The Bleak State of ZeroNet and the Uncertain Future of Decentralized Networks in General</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2024-11-08T08:11:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-the-bleak-state-of-zeronet-and-the-uncertain-future-of-decentralized-networks-in-general/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Modern artifact signing with Cosign, what works and what hurts</title>
         <author>
             <name>mendhak</name>
@@ -1874,30 +1850,6 @@
       </source>
 
     <id>https://news.cryptic.io/andersource-heads-or-tails/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I&#x27;ve had a change of heart regarding employee metrics</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-11-04T04:26:56+00:00</published>
-    <updated>2024-11-04T04:26:56+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-ive-had-a-change-of-heart-regarding-employee-metrics/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-ive-had-a-change-of-heart-regarding-employee-metrics/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/11/03/metrics/</id>
-        <link href="https://rachelbythebay.com/w/2024/11/03/metrics/"/>
-        <title>I&#x27;ve had a change of heart regarding employee metrics</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-11-04T04:26:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-ive-had-a-change-of-heart-regarding-employee-metrics/</id>
     <content type="html">
         
     </content>
@@ -2287,30 +2239,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Set me right on whether caring is even possible</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-10-30T02:03:58+00:00</published>
-    <updated>2024-10-30T02:03:58+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-set-me-right-on-whether-caring-is-even-possible/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-set-me-right-on-whether-caring-is-even-possible/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/10/29/test/</id>
-        <link href="https://rachelbythebay.com/w/2024/10/29/test/"/>
-        <title>Set me right on whether caring is even possible</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-10-30T02:03:58+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-set-me-right-on-whether-caring-is-even-possible/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>A microbe exploded!</title>
         <author>
             <name>Chris Kiehl</name>
@@ -2671,30 +2599,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Friday night feed reader score report</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-10-26T07:02:54+00:00</published>
-    <updated>2024-10-26T07:02:54+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-friday-night-feed-reader-score-report/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-friday-night-feed-reader-score-report/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/10/25/fs/</id>
-        <link href="https://rachelbythebay.com/w/2024/10/25/fs/"/>
-        <title>Friday night feed reader score report</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-10-26T07:02:54+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-friday-night-feed-reader-score-report/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>(Don’t) Use Computer</title>
         <author>
             <name>John Whiles</name>
@@ -2714,30 +2618,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-dont-use-computer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>My Cheap Solution for Keeping My Website on Line During an Intermediate-Term Power Outage</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2024-10-25T06:58:00+00:00</published>
-    <updated>2024-10-25T06:58:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-my-cheap-solution-for-keeping-my-website-on-line-during-an-intermediateterm-power-outage/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-my-cheap-solution-for-keeping-my-website-on-line-during-an-intermediateterm-power-outage/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/battery-backup.html</id>
-        <link href="https://cheapskatesguide.org/articles/battery-backup.html"/>
-        <title>My Cheap Solution for Keeping My Website on Line During an Intermediate-Term Power Outage</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2024-10-25T06:58:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-my-cheap-solution-for-keeping-my-website-on-line-during-an-intermediateterm-power-outage/</id>
     <content type="html">
         
     </content>
@@ -2863,30 +2743,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>sshfs isn&#x27;t really what I wanted for my backup situation</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-10-22T17:47:05+00:00</published>
-    <updated>2024-10-22T17:47:05+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-sshfs-isnt-really-what-i-wanted-for-my-backup-situation/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-sshfs-isnt-really-what-i-wanted-for-my-backup-situation/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/10/22/nofs/</id>
-        <link href="https://rachelbythebay.com/w/2024/10/22/nofs/"/>
-        <title>sshfs isn&#x27;t really what I wanted for my backup situation</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-10-22T17:47:05+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-sshfs-isnt-really-what-i-wanted-for-my-backup-situation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>TLA from first principles</title>
         <author>
             <name>Hillel Wayne</name>
@@ -2930,30 +2786,6 @@
       </source>
 
     <id>https://news.cryptic.io/stereogum-album-of-the-week-two-shell-two-shell/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Janky remote backups without root on the far end</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-10-21T21:33:50+00:00</published>
-    <updated>2024-10-21T21:33:50+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-janky-remote-backups-without-root-on-the-far-end/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-janky-remote-backups-without-root-on-the-far-end/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/10/21/sb/</id>
-        <link href="https://rachelbythebay.com/w/2024/10/21/sb/"/>
-        <title>Janky remote backups without root on the far end</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-10-21T21:33:50+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-janky-remote-backups-without-root-on-the-far-end/</id>
     <content type="html">
         
     </content>
@@ -3578,30 +3410,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-john-recommends-positive-ev-on-polymarket/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Strategies for Minimizing the Total Cost of Computer Ownership</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2024-10-11T06:51:00+00:00</published>
-    <updated>2024-10-11T06:51:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-strategies-for-minimizing-the-total-cost-of-computer-ownership/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-strategies-for-minimizing-the-total-cost-of-computer-ownership/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/cost-strategies.html</id>
-        <link href="https://cheapskatesguide.org/articles/cost-strategies.html"/>
-        <title>Strategies for Minimizing the Total Cost of Computer Ownership</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2024-10-11T06:51:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-strategies-for-minimizing-the-total-cost-of-computer-ownership/</id>
     <content type="html">
         
     </content>
@@ -4279,54 +4087,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Thoughts on working inside a data center suite</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-10-01T23:29:47+00:00</published>
-    <updated>2024-10-01T23:29:47+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-thoughts-on-working-inside-a-data-center-suite/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-thoughts-on-working-inside-a-data-center-suite/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/09/25/suite/</id>
-        <link href="https://rachelbythebay.com/w/2024/09/25/suite/"/>
-        <title>Thoughts on working inside a data center suite</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-10-01T23:29:47+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-thoughts-on-working-inside-a-data-center-suite/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Let the network tell you where you are: a nerd snipe story</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-10-01T23:21:13+00:00</published>
-    <updated>2024-10-01T23:21:13+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-let-the-network-tell-you-where-you-are-a-nerd-snipe-story/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-let-the-network-tell-you-where-you-are-a-nerd-snipe-story/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/10/01/lldp/</id>
-        <link href="https://rachelbythebay.com/w/2024/10/01/lldp/"/>
-        <title>Let the network tell you where you are: a nerd snipe story</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-10-01T23:21:13+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-let-the-network-tell-you-where-you-are-a-nerd-snipe-story/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Album Of The Week: Drug Church Prude</title>
         <author>
             <name>Stereogum</name>
@@ -4735,30 +4495,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A Brief Review of Porteus Linux</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-    <published>2024-09-27T05:11:00+00:00</published>
-    <updated>2024-09-27T05:11:00+00:00</updated>
-    <link href="https://news.cryptic.io/cheapskate-a-brief-review-of-porteus-linux/"/>
-    <link rel="alternate" href="https://news.cryptic.io/cheapskate-a-brief-review-of-porteus-linux/" type="text/html"/>
-      <source>
-        <id>https://cheapskatesguide.org/articles/porteus-linux.html</id>
-        <link href="https://cheapskatesguide.org/articles/porteus-linux.html"/>
-        <title>A Brief Review of Porteus Linux</title>
-        <author>
-            <name>Cheapskate</name>
-        </author>
-        <updated>2024-09-27T05:11:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/cheapskate-a-brief-review-of-porteus-linux/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Igalia: 2024 Mid-season Power Rankings</title>
         <author>
             <name>Brian Kardell</name>
@@ -4903,6 +4639,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Neurodivergence and accountability in free software</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2024-09-25T00:00:00+00:00</published>
+    <updated>2024-09-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-neurodivergence-and-accountability-in-free-software/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-neurodivergence-and-accountability-in-free-software/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2024/09/25/2024-09-25-Neurodivergence-and-accountability-in-free-software.html</id>
+        <link href="https://drewdevault.com/2024/09/25/2024-09-25-Neurodivergence-and-accountability-in-free-software.html"/>
+        <title>Neurodivergence and accountability in free software</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2024-09-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-neurodivergence-and-accountability-in-free-software/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Refactoring Invariants</title>
         <author>
             <name>Hillel Wayne</name>
@@ -4999,30 +4759,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>More jabbering from me about non-clown hosting</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-09-23T21:38:12+00:00</published>
-    <updated>2024-09-23T21:38:12+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-more-jabbering-from-me-about-nonclown-hosting/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-more-jabbering-from-me-about-nonclown-hosting/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/09/23/colo/</id>
-        <link href="https://rachelbythebay.com/w/2024/09/23/colo/"/>
-        <title>More jabbering from me about non-clown hosting</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-09-23T21:38:12+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-more-jabbering-from-me-about-nonclown-hosting/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Features I&#x27;d like to add to this website</title>
         <author>
             <name>John Whiles</name>
@@ -5042,30 +4778,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-features-id-like-to-add-to-this-website/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A terrible way to jump into colocating your own stuff</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-09-23T17:20:31+00:00</published>
-    <updated>2024-09-23T17:20:31+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-a-terrible-way-to-jump-into-colocating-your-own-stuff/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-a-terrible-way-to-jump-into-colocating-your-own-stuff/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/09/22/colo/</id>
-        <link href="https://rachelbythebay.com/w/2024/09/22/colo/"/>
-        <title>A terrible way to jump into colocating your own stuff</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-09-23T17:20:31+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-a-terrible-way-to-jump-into-colocating-your-own-stuff/</id>
     <content type="html">
         
     </content>
@@ -5618,30 +5330,6 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-my-blog-successfully-survived-a-scheduled-power-outage/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Another feed reader score roundup</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-09-14T03:04:05+00:00</published>
-    <updated>2024-09-14T03:04:05+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-another-feed-reader-score-roundup/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-another-feed-reader-score-roundup/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/09/13/fs/</id>
-        <link href="https://rachelbythebay.com/w/2024/09/13/fs/"/>
-        <title>Another feed reader score roundup</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-09-14T03:04:05+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-another-feed-reader-score-roundup/</id>
     <content type="html">
         
     </content>
@@ -6362,6 +6050,30 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-a-message-in-binary/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Rust for Linux revisited</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2024-08-30T00:00:00+00:00</published>
+    <updated>2024-08-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-rust-for-linux-revisited/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-rust-for-linux-revisited/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2024/08/30/2024-08-30-Rust-in-Linux-revisited.html</id>
+        <link href="https://drewdevault.com/2024/08/30/2024-08-30-Rust-in-Linux-revisited.html"/>
+        <title>Rust for Linux revisited</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2024-08-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-rust-for-linux-revisited/</id>
     <content type="html">
         
     </content>
@@ -7850,6 +7562,30 @@
       </source>
 
     <id>https://news.cryptic.io/filippo-valsorda-age-plugins/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>So you want to compete with or replace open source</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2024-07-16T00:00:00+00:00</published>
+    <updated>2024-07-16T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-so-you-want-to-compete-with-or-replace-open-source/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-so-you-want-to-compete-with-or-replace-open-source/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2024/07/16/2024-07-16-So-you-want-to-compete-with-FOSS.html</id>
+        <link href="https://drewdevault.com/2024/07/16/2024-07-16-So-you-want-to-compete-with-FOSS.html"/>
+        <title>So you want to compete with or replace open source</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2024-07-16T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-so-you-want-to-compete-with-or-replace-open-source/</id>
     <content type="html">
         
     </content>
@@ -9487,6 +9223,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Writing a Unix clone in about a month</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2024-05-24T00:00:00+00:00</published>
+    <updated>2024-05-24T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-writing-a-unix-clone-in-about-a-month/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-writing-a-unix-clone-in-about-a-month/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html</id>
+        <link href="https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html"/>
+        <title>Writing a Unix clone in about a month</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2024-05-24T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-writing-a-unix-clone-in-about-a-month/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Feed and Blogrolls Discovery</title>
         <author>
             <name>Andre Alves Garzia</name>
@@ -10015,6 +9775,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Copyleft licenses are not “restrictive”</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2024-04-19T00:00:00+00:00</published>
+    <updated>2024-04-19T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-copyleft-licenses-are-not-restrictive/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-copyleft-licenses-are-not-restrictive/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2024/04/19/2024-04-19-Copyleft-is-not-restrictive.html</id>
+        <link href="https://drewdevault.com/2024/04/19/2024-04-19-Copyleft-is-not-restrictive.html"/>
+        <title>Copyleft licenses are not “restrictive”</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2024-04-19T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-copyleft-licenses-are-not-restrictive/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Solo-Devs and Risk-Takers (An Artistic Exploration of Experimental Tools)</title>
         <author>
             <name>Nathalie Lawhead</name>
@@ -10250,6 +10034,30 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-its-still-theft/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>FDO&#x27;s conduct enforcement actions regarding Vaxry</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2024-04-09T00:00:00+00:00</published>
+    <updated>2024-04-09T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-fdos-conduct-enforcement-actions-regarding-vaxry/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-fdos-conduct-enforcement-actions-regarding-vaxry/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2024/04/09/2024-04-09-FDO-conduct-enforcement.html</id>
+        <link href="https://drewdevault.com/2024/04/09/2024-04-09-FDO-conduct-enforcement.html"/>
+        <title>FDO&#x27;s conduct enforcement actions regarding Vaxry</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2024-04-09T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-fdos-conduct-enforcement-actions-regarding-vaxry/</id>
     <content type="html">
         
     </content>
@@ -10999,30 +10807,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Blocking Advertisements on YouTube Feels so Good!</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2024-03-13T13:55:00+00:00</published>
-    <updated>2024-03-13T13:55:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-blocking-advertisements-on-youtube-feels-so-good/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-blocking-advertisements-on-youtube-feels-so-good/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/blocking-ads-on-youtube.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/blocking-ads-on-youtube.html"/>
-        <title>Blocking Advertisements on YouTube Feels so Good!</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2024-03-13T13:55:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-blocking-advertisements-on-youtube-feels-so-good/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Semantic AJAX-HTML</title>
         <author>
             <name>herman</name>
@@ -11474,30 +11258,6 @@
       </source>
 
     <id>https://news.cryptic.io/wesley-aptekarcassels-endtoend-testing-emails/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Write 100 emails to people you know</title>
-        <author>
-            <name>Justin Jackson</name>
-        </author>
-    <published>2024-02-16T00:00:00+00:00</published>
-    <updated>2024-02-16T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/justin-jackson-write-100-emails-to-people-you-know/"/>
-    <link rel="alternate" href="https://news.cryptic.io/justin-jackson-write-100-emails-to-people-you-know/" type="text/html"/>
-      <source>
-        <id>https://justinjackson.ca/100-emails</id>
-        <link href="https://justinjackson.ca/100-emails"/>
-        <title>Write 100 emails to people you know</title>
-        <author>
-            <name>Justin Jackson</name>
-        </author>
-        <updated>2024-02-16T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/justin-jackson-write-100-emails-to-people-you-know/</id>
     <content type="html">
         
     </content>
@@ -12175,6 +11935,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>First month of nothin&#x27; but postmarketOS</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2024-01-07T00:00:00+00:00</published>
+    <updated>2024-01-07T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-first-month-of-nothin-but-postmarketos/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-first-month-of-nothin-but-postmarketos/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/one-month-pmos/</id>
+        <link href="https://blog.craftyguy.net/one-month-pmos/"/>
+        <title>First month of nothin&#x27; but postmarketOS</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2024-01-07T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-first-month-of-nothin-but-postmarketos/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Manifesting democracy</title>
         <author>
             <name>nutcroft</name>
@@ -12415,6 +12199,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Why Prusa is floundering, and how you can avoid their fate</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2023-12-26T00:00:00+00:00</published>
+    <updated>2023-12-26T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-why-prusa-is-floundering-and-how-you-can-avoid-their-fate/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-why-prusa-is-floundering-and-how-you-can-avoid-their-fate/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2023/12/26/2023-12-26-Prusa-is-floundering.html</id>
+        <link href="https://drewdevault.com/2023/12/26/2023-12-26-Prusa-is-floundering.html"/>
+        <title>Why Prusa is floundering, and how you can avoid their fate</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2023-12-26T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-why-prusa-is-floundering-and-how-you-can-avoid-their-fate/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Bug story: Sorting by timestamp</title>
         <author>
             <name>Adam Pritchard</name>
@@ -12587,6 +12395,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Richard Stallman&#x27;s political discourse on sex</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2023-11-25T00:00:00+00:00</published>
+    <updated>2023-11-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-richard-stallmans-political-discourse-on-sex/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-richard-stallmans-political-discourse-on-sex/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2023/11/25/2023-11-26-RMS-on-sex.html</id>
+        <link href="https://drewdevault.com/2023/11/25/2023-11-26-RMS-on-sex.html"/>
+        <title>Richard Stallman&#x27;s political discourse on sex</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2023-11-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-richard-stallmans-political-discourse-on-sex/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Loneliness and happiness or: how one can ruin the other</title>
         <author>
             <name>TheFrenchGhosty</name>
@@ -12707,6 +12539,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Can I be on your podcast?</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2023-11-09T00:00:00+00:00</published>
+    <updated>2023-11-09T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-can-i-be-on-your-podcast/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-can-i-be-on-your-podcast/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2023/11/09/Can-I-be-on-your-podcast.html</id>
+        <link href="https://drewdevault.com/2023/11/09/Can-I-be-on-your-podcast.html"/>
+        <title>Can I be on your podcast?</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2023-11-09T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-can-i-be-on-your-podcast/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Are Passkeys really the beginning of the end of passwords? I certainly hope not!</title>
         <author>
             <name>unixsheikh</name>
@@ -12726,30 +12582,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The US Health-Insurance Industry is Now so Thoroughly Enshittified that the Time has Come to Flush It</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2023-11-08T10:36:00+00:00</published>
-    <updated>2023-11-08T10:36:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-the-us-healthinsurance-industry-is-now-so-thoroughly-enshittified-that-the-time-has-come-to-flush-it/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-the-us-healthinsurance-industry-is-now-so-thoroughly-enshittified-that-the-time-has-come-to-flush-it/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/beware-help.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/beware-help.html"/>
-        <title>The US Health-Insurance Industry is Now so Thoroughly Enshittified that the Time has Come to Flush It</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2023-11-08T10:36:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-the-us-healthinsurance-industry-is-now-so-thoroughly-enshittified-that-the-time-has-come-to-flush-it/</id>
     <content type="html">
         
     </content>
@@ -12822,6 +12654,30 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-the-proper-design-process-in-web-development/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>On &quot;real name&quot; policies</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+    <published>2023-10-31T00:00:00+00:00</published>
+    <updated>2023-10-31T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/drew-devault-on-real-name-policies/"/>
+    <link rel="alternate" href="https://news.cryptic.io/drew-devault-on-real-name-policies/" type="text/html"/>
+      <source>
+        <id>https://drewdevault.com/2023/10/31/On-real-names.html</id>
+        <link href="https://drewdevault.com/2023/10/31/On-real-names.html"/>
+        <title>On &quot;real name&quot; policies</title>
+        <author>
+            <name>Drew DeVault</name>
+        </author>
+        <updated>2023-10-31T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/drew-devault-on-real-name-policies/</id>
     <content type="html">
         
     </content>
@@ -13114,6 +12970,30 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-bethesdas-starfield-is-a-disgrace-to-game-development-and-a-slap-in-the-face-to-gamers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Upgrading Steam Deck storage the lazy way</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2023-09-04T00:00:00+00:00</published>
+    <updated>2023-09-04T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-upgrading-steam-deck-storage-the-lazy-way/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-upgrading-steam-deck-storage-the-lazy-way/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/steamdeck-nvme-upgrade/</id>
+        <link href="https://blog.craftyguy.net/steamdeck-nvme-upgrade/"/>
+        <title>Upgrading Steam Deck storage the lazy way</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2023-09-04T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-upgrading-steam-deck-storage-the-lazy-way/</id>
     <content type="html">
         
     </content>
@@ -14039,30 +13919,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>On the Poor Writing Found on Most Personal Websites, and the Few Shining Exceptions</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2023-05-30T11:00:00+00:00</published>
-    <updated>2023-05-30T11:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/personal-websites-and-writing.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/personal-websites-and-writing.html"/>
-        <title>On the Poor Writing Found on Most Personal Websites, and the Few Shining Exceptions</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2023-05-30T11:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-on-the-poor-writing-found-on-most-personal-websites-and-the-few-shining-exceptions/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Lightning ändert alles</title>
         <author>
             <name>Gigi</name>
@@ -14279,6 +14135,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Wait, I can manage DNS config without losing hair??</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2023-04-11T00:00:00+00:00</published>
+    <updated>2023-04-11T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-wait-i-can-manage-dns-config-without-losing-hair/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-wait-i-can-manage-dns-config-without-losing-hair/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/luadns/</id>
+        <link href="https://blog.craftyguy.net/luadns/"/>
+        <title>Wait, I can manage DNS config without losing hair??</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2023-04-11T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-wait-i-can-manage-dns-config-without-losing-hair/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Worry-free broadcasts</title>
         <author>
             <name>CRISTÓBAL SCIUTTO</name>
@@ -14447,6 +14327,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Presence detection, without compromising privacy</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2023-03-12T00:00:00+00:00</published>
+    <updated>2023-03-12T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-presence-detection-without-compromising-privacy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-presence-detection-without-compromising-privacy/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/ha-presence-privacy/</id>
+        <link href="https://blog.craftyguy.net/ha-presence-privacy/"/>
+        <title>Presence detection, without compromising privacy</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2023-03-12T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-presence-detection-without-compromising-privacy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>write posix shell</title>
         <author>
             <name>Jes Olson</name>
@@ -14591,6 +14495,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>On meetings...</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2023-02-15T00:00:00+00:00</published>
+    <updated>2023-02-15T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-on-meetings/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-on-meetings/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/on-meetings/</id>
+        <link href="https://blog.craftyguy.net/on-meetings/"/>
+        <title>On meetings...</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2023-02-15T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-on-meetings/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>How employees can get burned in acquisitions</title>
         <author>
             <name>Charlie Andrews</name>
@@ -14610,6 +14538,30 @@
       </source>
 
     <id>https://news.cryptic.io/charlie-andrews-how-employees-can-get-burned-in-acquisitions/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>FOSDEM 2023!</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2023-02-09T00:00:00+00:00</published>
+    <updated>2023-02-09T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-fosdem-2023/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-fosdem-2023/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/fosdem23/</id>
+        <link href="https://blog.craftyguy.net/fosdem23/"/>
+        <title>FOSDEM 2023!</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2023-02-09T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-fosdem-2023/</id>
     <content type="html">
         
     </content>
@@ -14807,30 +14759,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2023-01-01T12:00:00+00:00</published>
-    <updated>2023-01-01T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/beware-help.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/beware-help.html"/>
-        <title>Beware Offers of &quot;Help&quot; with Your Projects</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2023-01-01T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-beware-offers-of-help-with-your-projects/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Livetweets of the December 14, 2022 Senate Banking Committee hearing on FTX</title>
         <author>
             <name>Molly White</name>
@@ -15023,30 +14951,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Idyllic Life</title>
-        <author>
-            <name>Tie</name>
-        </author>
-    <published>2022-11-05T12:04:00+00:00</published>
-    <updated>2022-11-05T12:04:00+00:00</updated>
-    <link href="https://news.cryptic.io/tie-idyllic-life/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tie-idyllic-life/" type="text/html"/>
-      <source>
-        <id>http://misc-stuff.terraaeon.com/articles/idyllic-life.html</id>
-        <link href="http://misc-stuff.terraaeon.com/articles/idyllic-life.html"/>
-        <title>Idyllic Life</title>
-        <author>
-            <name>Tie</name>
-        </author>
-        <updated>2022-11-05T12:04:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tie-idyllic-life/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Is web3 bullshit? (Transcript)</title>
         <author>
             <name>Molly White</name>
@@ -15162,6 +15066,30 @@
       </source>
 
     <id>https://news.cryptic.io/ash-an-elegy-for-gnu-and-rms/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>8 cubic feet</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2022-09-29T00:00:00+00:00</published>
+    <updated>2022-09-29T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-8-cubic-feet/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-8-cubic-feet/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/8-cu-ft/</id>
+        <link href="https://blog.craftyguy.net/8-cu-ft/"/>
+        <title>8 cubic feet</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2022-09-29T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-8-cubic-feet/</id>
     <content type="html">
         
     </content>
@@ -15642,6 +15570,30 @@
       </source>
 
     <id>https://news.cryptic.io/roy-van-rijn-solving-the-daily-calendar-puzzle/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Deleting stuff is fun and helpful!</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2022-07-06T00:00:00+00:00</published>
+    <updated>2022-07-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-deleting-stuff-is-fun-and-helpful/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-deleting-stuff-is-fun-and-helpful/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/delete-stuff/</id>
+        <link href="https://blog.craftyguy.net/delete-stuff/"/>
+        <title>Deleting stuff is fun and helpful!</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2022-07-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-deleting-stuff-is-fun-and-helpful/</id>
     <content type="html">
         
     </content>
@@ -16199,6 +16151,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>-h --help -help help --? -? ????</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2022-04-10T00:00:00+00:00</published>
+    <updated>2022-04-10T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-h-help-help-help/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-h-help-help-help/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/cmdline-help/</id>
+        <link href="https://blog.craftyguy.net/cmdline-help/"/>
+        <title>-h --help -help help --? -? ????</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2022-04-10T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-h-help-help-help/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>We need platform regulation</title>
         <author>
             <name>Douglas Vaghetti</name>
@@ -16290,6 +16266,30 @@
       </source>
 
     <id>https://news.cryptic.io/adam-pritchard-forwarded-header-sabotage/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Never miss completion of a long-running command again!</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+    <published>2022-03-28T00:00:00+00:00</published>
+    <updated>2022-03-28T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/clayton-craft-never-miss-completion-of-a-longrunning-command-again/"/>
+    <link rel="alternate" href="https://news.cryptic.io/clayton-craft-never-miss-completion-of-a-longrunning-command-again/" type="text/html"/>
+      <source>
+        <id>https://blog.craftyguy.net/alert-done/</id>
+        <link href="https://blog.craftyguy.net/alert-done/"/>
+        <title>Never miss completion of a long-running command again!</title>
+        <author>
+            <name>Clayton Craft</name>
+        </author>
+        <updated>2022-03-28T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/clayton-craft-never-miss-completion-of-a-longrunning-command-again/</id>
     <content type="html">
         
     </content>
