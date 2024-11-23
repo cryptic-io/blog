@@ -7,6 +7,30 @@
   <updated>2024-11-23T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
+    <title>SemVer Is Not About You</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2024-11-23T00:00:00+00:00</published>
+    <updated>2024-11-23T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-semver-is-not-about-you/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-semver-is-not-about-you/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2024/11/23/semver-is-not-about-you.html</id>
+        <link href="https://matklad.github.io/2024/11/23/semver-is-not-about-you.html"/>
+        <title>SemVer Is Not About You</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2024-11-23T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-semver-is-not-about-you/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Leaving Twitter for Bluesky</title>
         <author>
             <name>Justin Jackson</name>
@@ -6986,30 +7010,6 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-stop-selling-me-trichotomies/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How I Use Git Worktrees</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2024-07-25T00:00:00+00:00</published>
-    <updated>2024-07-25T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-how-i-use-git-worktrees/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-how-i-use-git-worktrees/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2024/07/25/git-worktrees.html</id>
-        <link href="https://matklad.github.io/2024/07/25/git-worktrees.html"/>
-        <title>How I Use Git Worktrees</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2024-07-25T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-how-i-use-git-worktrees/</id>
     <content type="html">
         
     </content>
