@@ -7,6 +7,30 @@
   <updated>2024-11-25T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
+    <title>Cold Air</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-11-25T00:00:00+00:00</published>
+    <updated>2024-11-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-cold-air/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-cold-air/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/3016/</id>
+        <link href="https://xkcd.com/3016/"/>
+        <title>Cold Air</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-11-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-cold-air/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Getting a pointer to a constant in Go</title>
         <author>
             <name>Xe Iaso</name>
@@ -938,30 +962,6 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-he-hanged-himself-in-the-morning/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Future of Orion</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-11-15T00:00:00+00:00</published>
-    <updated>2024-11-15T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-the-future-of-orion/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-the-future-of-orion/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/3012/</id>
-        <link href="https://xkcd.com/3012/"/>
-        <title>The Future of Orion</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-11-15T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-the-future-of-orion/</id>
     <content type="html">
         
     </content>
