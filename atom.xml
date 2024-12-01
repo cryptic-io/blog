@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-12-01T00:00:00+00:00</updated>
+  <updated>2024-12-01T16:25:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Personal philosophy</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-12-01T16:25:00+00:00</published>
+    <updated>2024-12-01T16:25:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-personal-philosophy/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-personal-philosophy/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/3bg8rYZBhA7cNjBA</id>
+        <link href="https://manuelmoreale.com/@/page/3bg8rYZBhA7cNjBA"/>
+        <title>Personal philosophy</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-12-01T16:25:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-personal-philosophy/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>My notes from deciding against AWS Lambda</title>
         <author>
@@ -2186,30 +2210,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-home-assistant-and-carplay-with-the-pi-touch-display-2/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>P&amp;B: Dalton Mabery</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-11-08T12:00:00+00:00</published>
-    <updated>2024-11-08T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-dalton-mabery/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-dalton-mabery/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/n6EQbjPFNIws04YE</id>
-        <link href="https://manuelmoreale.com/@/page/n6EQbjPFNIws04YE"/>
-        <title>P&amp;B: Dalton Mabery</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-11-08T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-dalton-mabery/</id>
     <content type="html">
         
     </content>
