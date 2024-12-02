@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-12-01T18:45:27+00:00</updated>
+  <updated>2024-12-02T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Contrast Is Clarifying</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2024-12-02T19:00:00+00:00</published>
+    <updated>2024-12-02T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-contrast-is-clarifying/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-contrast-is-clarifying/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2024/contrast-is-clarifying/</id>
+        <link href="https://blog.jim-nielsen.com/2024/contrast-is-clarifying/"/>
+        <title>Contrast Is Clarifying</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2024-12-02T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-contrast-is-clarifying/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Avoiding unnecessary cleanup work in disconnectedCallback</title>
         <author>
@@ -511,7 +535,7 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Nothing is Something</title>
+    <title>Nothing Is Something</title>
         <author>
             <name>Jim Nielsen</name>
         </author>
@@ -522,7 +546,7 @@
       <source>
         <id>https://blog.jim-nielsen.com/2024/nothing-is-something/</id>
         <link href="https://blog.jim-nielsen.com/2024/nothing-is-something/"/>
-        <title>Nothing is Something</title>
+        <title>Nothing Is Something</title>
         <author>
             <name>Jim Nielsen</name>
         </author>
@@ -2642,30 +2666,6 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-my-first-deploys-for-a-new-kubernetes-cluster/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Hacker News Clones</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-11-02T19:00:00+00:00</published>
-    <updated>2024-11-02T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-hacker-news-clones/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-hacker-news-clones/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/hacker-news-clones/</id>
-        <link href="https://blog.jim-nielsen.com/2024/hacker-news-clones/"/>
-        <title>Hacker News Clones</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-11-02T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-hacker-news-clones/</id>
     <content type="html">
         
     </content>
