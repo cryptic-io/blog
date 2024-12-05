@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-12-05T16:00:00+00:00</updated>
+  <updated>2024-12-05T21:26:58+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>frood, an Alpine initramfs NAS</title>
+        <author>
+            <name>Filippo Valsorda</name>
+        </author>
+    <published>2024-12-05T21:26:58+00:00</published>
+    <updated>2024-12-05T21:26:58+00:00</updated>
+    <link href="https://news.cryptic.io/filippo-valsorda-frood-an-alpine-initramfs-nas/"/>
+    <link rel="alternate" href="https://news.cryptic.io/filippo-valsorda-frood-an-alpine-initramfs-nas/" type="text/html"/>
+      <source>
+        <id>https://words.filippo.io/dispatches/frood/</id>
+        <link href="https://words.filippo.io/dispatches/frood/"/>
+        <title>frood, an Alpine initramfs NAS</title>
+        <author>
+            <name>Filippo Valsorda</name>
+        </author>
+        <updated>2024-12-05T21:26:58+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/filippo-valsorda-frood-an-alpine-initramfs-nas/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Torquato Tasso, and other works from Goethe (1790)</title>
         <author>
@@ -12678,30 +12702,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Enough Polynomials and Linear Algebra to Implement Kyber</title>
-        <author>
-            <name>Filippo Valsorda</name>
-        </author>
-    <published>2023-11-07T18:37:37+00:00</published>
-    <updated>2023-11-07T18:37:37+00:00</updated>
-    <link href="https://news.cryptic.io/filippo-valsorda-enough-polynomials-and-linear-algebra-to-implement-kyber/"/>
-    <link rel="alternate" href="https://news.cryptic.io/filippo-valsorda-enough-polynomials-and-linear-algebra-to-implement-kyber/" type="text/html"/>
-      <source>
-        <id>https://words.filippo.io/dispatches/kyber-math/</id>
-        <link href="https://words.filippo.io/dispatches/kyber-math/"/>
-        <title>Enough Polynomials and Linear Algebra to Implement Kyber</title>
-        <author>
-            <name>Filippo Valsorda</name>
-        </author>
-        <updated>2023-11-07T18:37:37+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/filippo-valsorda-enough-polynomials-and-linear-algebra-to-implement-kyber/</id>
     <content type="html">
         
     </content>
