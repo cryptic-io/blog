@@ -1088,6 +1088,46 @@
         <lastmod>2024-10-14T19:29:30Z</lastmod>
     </url>
     <url>
+        <loc>https://news.cryptic.io/evan-ovadia-borrow-checking-rc-gc-and-the-eleven-other-memory-safety-approaches/</loc>
+        <lastmod>2024-04-24T05:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/evan-ovadia-chasing-the-myth-of-zerooverhead-memory-safety-plus-pictures-of-mythical-birds/</loc>
+        <lastmod>2023-06-15T05:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/evan-ovadia-crossing-the-impossible-ffi-boundary-and-my-gradual-descent-into-madness/</loc>
+        <lastmod>2024-06-17T06:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/evan-ovadia-exploring-seamless-rust-interop-for-newer-languages-part-1/</loc>
+        <lastmod>2024-05-24T06:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/evan-ovadia-generational-references-expanded/</loc>
+        <lastmod>2023-07-10T05:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/evan-ovadia-higher-raii-and-the-seven-arcane-uses-of-linear-types/</loc>
+        <lastmod>2024-05-14T06:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/evan-ovadia-layerwise-inferencing-batching-small-vram-doesnt-limit-llm-throughput-anymore/</loc>
+        <lastmod>2024-05-14T05:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/evan-ovadia-making-c-memorysafe-without-borrow-checking-reference-counting-or-tracing-garbage-collection/</loc>
+        <lastmod>2023-06-22T05:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/evan-ovadia-single-ownership-and-memory-safety-without-borrow-checking-reference-counting-or-garbage-collection/</loc>
+        <lastmod>2023-06-15T05:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/evan-ovadia-vales-first-prototype-for-immutable-region-borrowing/</loc>
+        <lastmod>2023-07-11T05:00:00Z</lastmod>
+    </url>
+    <url>
         <loc>https://news.cryptic.io/filippo-valsorda-accumulated-test-vectors/</loc>
         <lastmod>2024-10-09T09:50:22Z</lastmod>
     </url>
@@ -2549,9 +2589,6 @@
         <loc>https://news.cryptic.io/page/26/</loc>
     </url>
     <url>
-        <loc>https://news.cryptic.io/page/27/</loc>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/page/3/</loc>
     </url>
     <url>
@@ -2575,46 +2612,6 @@
     <url>
         <loc>https://news.cryptic.io/philipp-philipp-was-annoyed/</loc>
         <lastmod>2024-09-23T13:38:09Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-a-terrible-way-to-jump-into-colocating-your-own-stuff/</loc>
-        <lastmod>2024-09-23T17:20:31Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-friday-night-feed-reader-score-report/</loc>
-        <lastmod>2024-10-26T07:02:54Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-ive-had-a-change-of-heart-regarding-employee-metrics/</loc>
-        <lastmod>2024-11-04T04:26:56Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-janky-remote-backups-without-root-on-the-far-end/</loc>
-        <lastmod>2024-10-21T21:33:50Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-just-cracking-an-embedded-root-password-no-big-deal/</loc>
-        <lastmod>2024-12-03T00:46:19Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-let-the-network-tell-you-where-you-are-a-nerd-snipe-story/</loc>
-        <lastmod>2024-10-01T23:21:13Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-more-jabbering-from-me-about-nonclown-hosting/</loc>
-        <lastmod>2024-09-23T21:38:12Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-set-me-right-on-whether-caring-is-even-possible/</loc>
-        <lastmod>2024-10-30T02:03:58Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-sshfs-isnt-really-what-i-wanted-for-my-backup-situation/</loc>
-        <lastmod>2024-10-22T17:47:05Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-thoughts-on-working-inside-a-data-center-suite/</loc>
-        <lastmod>2024-10-01T23:29:47Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/randall-munroe-advent-calendar-advent-calendar/</loc>
@@ -2751,46 +2748,6 @@
     <url>
         <loc>https://news.cryptic.io/roy-van-rijn-solving-the-daily-calendar-puzzle/</loc>
         <lastmod>2022-07-07T18:42:12Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/stereogum-album-of-the-week-advance-base-horrible-occurrences/</loc>
-        <lastmod>2024-12-03T16:20:38Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/stereogum-album-of-the-week-chat-pile-cool-world/</loc>
-        <lastmod>2024-10-08T18:01:58Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/stereogum-album-of-the-week-christopher-owens-i-wanna-run-barefoot-through-your-hair/</loc>
-        <lastmod>2024-10-15T20:41:49Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/stereogum-album-of-the-week-drug-church-prude/</loc>
-        <lastmod>2024-10-01T17:23:40Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/stereogum-album-of-the-week-father-john-misty-mahashmashana/</loc>
-        <lastmod>2024-11-19T18:25:11Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/stereogum-album-of-the-week-good-morning-the-accident/</loc>
-        <lastmod>2024-11-26T15:13:07Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/stereogum-album-of-the-week-maxo-kream-personification/</loc>
-        <lastmod>2024-11-12T15:36:45Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/stereogum-album-of-the-week-mount-eerie-night-palace/</loc>
-        <lastmod>2024-10-29T15:20:43Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/stereogum-album-of-the-week-the-body-the-crying-out-of-things/</loc>
-        <lastmod>2024-11-05T14:42:33Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/stereogum-album-of-the-week-two-shell-two-shell/</loc>
-        <lastmod>2024-10-22T16:10:22Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/thefrenchghosty-ethics-morality-and-good-or-the-story-of-my-life/</loc>
