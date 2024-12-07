@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-12-07T04:00:00+00:00</updated>
+  <updated>2024-12-07T16:06:30+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Code shufflin’</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-12-07T16:06:30+00:00</published>
+    <updated>2024-12-07T16:06:30+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-code-shufflin/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-code-shufflin/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/code-shufflin/</id>
+        <link href="https://robinrendle.com/notes/code-shufflin/"/>
+        <title>Code shufflin’</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-12-07T16:06:30+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-code-shufflin/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Setting up Perplexica on Arch Linux locally</title>
         <author>
@@ -6338,30 +6362,6 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-to-copy-media-off-of-an-iphone-the-hard-way-using-linux/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Notes on font licensing</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-09-01T06:20:37+00:00</published>
-    <updated>2024-09-01T06:20:37+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-notes-on-font-licensing/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-notes-on-font-licensing/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/notes-on-font-licensing/</id>
-        <link href="https://robinrendle.com/notes/notes-on-font-licensing/"/>
-        <title>Notes on font licensing</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-09-01T06:20:37+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-notes-on-font-licensing/</id>
     <content type="html">
         
     </content>
