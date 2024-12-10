@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-12-10T11:46:16+00:00</updated>
+  <updated>2024-12-10T15:52:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Raspberry Pi 500 uses QMK Firmware for built-in keyboard</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2024-12-10T15:52:00+00:00</published>
+    <updated>2024-12-10T15:52:00+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-raspberry-pi-500-uses-qmk-firmware-for-builtin-keyboard/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-raspberry-pi-500-uses-qmk-firmware-for-builtin-keyboard/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2024/raspberry-pi-500-uses-qmk-firmware-built-keyboard</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/raspberry-pi-500-uses-qmk-firmware-built-keyboard"/>
+        <title>Raspberry Pi 500 uses QMK Firmware for built-in keyboard</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2024-12-10T15:52:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-raspberry-pi-500-uses-qmk-firmware-for-builtin-keyboard/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>In defense and absolute condemnation of AI: how AI has already affected “The Game Industry”</title>
         <author>
@@ -3026,30 +3050,6 @@
       </source>
 
     <id>https://news.cryptic.io/chris-kiehl-data-oriented-programming-in-java-chapter-5-progress-part-iii/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why Raspberry Pi for an SBC guy</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-11-09T01:04:17+00:00</published>
-    <updated>2024-11-09T01:04:17+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-why-raspberry-pi-for-an-sbc-guy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-why-raspberry-pi-for-an-sbc-guy/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/why-raspberry-pi-sbc-guy</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/why-raspberry-pi-sbc-guy"/>
-        <title>Why Raspberry Pi for an SBC guy</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-11-09T01:04:17+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-why-raspberry-pi-for-an-sbc-guy/</id>
     <content type="html">
         
     </content>
