@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-12-12T19:00:00+00:00</updated>
+  <updated>2024-12-12T20:50:22+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>I’m making Claude write Anki cards for me</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2024-12-12T20:50:22+00:00</published>
+    <updated>2024-12-12T20:50:22+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-im-making-claude-write-anki-cards-for-me/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-im-making-claude-write-anki-cards-for-me/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/claude-anki</id>
+        <link href="https://johnwhiles.com/posts/claude-anki"/>
+        <title>I’m making Claude write Anki cards for me</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2024-12-12T20:50:22+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-im-making-claude-write-anki-cards-for-me/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Making o(m)g:image Part I: Design Iterations</title>
         <author>
@@ -290,6 +314,30 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-raspberry-pi-500-uses-qmk-firmware-for-builtin-keyboard/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Album Of The Week: Whispers Yom-Ma-Lok</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+    <published>2024-12-10T14:46:13+00:00</published>
+    <updated>2024-12-10T14:46:13+00:00</updated>
+    <link href="https://news.cryptic.io/stereogum-album-of-the-week-whispers-yommalok/"/>
+    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-whispers-yommalok/" type="text/html"/>
+      <source>
+        <id>https://www.stereogum.com/2290044/album-of-the-week-whispers-yom-ma-lok/reviews/album-of-the-week/</id>
+        <link href="https://www.stereogum.com/2290044/album-of-the-week-whispers-yom-ma-lok/reviews/album-of-the-week/"/>
+        <title>Album Of The Week: Whispers Yom-Ma-Lok</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+        <updated>2024-12-10T14:46:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/stereogum-album-of-the-week-whispers-yommalok/</id>
     <content type="html">
         
     </content>
@@ -1082,6 +1130,30 @@
       </source>
 
     <id>https://news.cryptic.io/ed-zitron-godot-isnt-making-it/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Album Of The Week: Advance Base Horrible Occurrences</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+    <published>2024-12-03T16:20:38+00:00</published>
+    <updated>2024-12-03T16:20:38+00:00</updated>
+    <link href="https://news.cryptic.io/stereogum-album-of-the-week-advance-base-horrible-occurrences/"/>
+    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-advance-base-horrible-occurrences/" type="text/html"/>
+      <source>
+        <id>https://www.stereogum.com/2289330/advance-base-horrible-occurrences/reviews/album-of-the-week/</id>
+        <link href="https://www.stereogum.com/2289330/advance-base-horrible-occurrences/reviews/album-of-the-week/"/>
+        <title>Album Of The Week: Advance Base Horrible Occurrences</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+        <updated>2024-12-03T16:20:38+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/stereogum-album-of-the-week-advance-base-horrible-occurrences/</id>
     <content type="html">
         
     </content>
@@ -1927,6 +1999,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Album Of The Week: Good Morning The Accident</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+    <published>2024-11-26T15:13:07+00:00</published>
+    <updated>2024-11-26T15:13:07+00:00</updated>
+    <link href="https://news.cryptic.io/stereogum-album-of-the-week-good-morning-the-accident/"/>
+    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-good-morning-the-accident/" type="text/html"/>
+      <source>
+        <id>https://www.stereogum.com/2288717/good-morning-the-accident/reviews/album-of-the-week/</id>
+        <link href="https://www.stereogum.com/2288717/good-morning-the-accident/reviews/album-of-the-week/"/>
+        <title>Album Of The Week: Good Morning The Accident</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+        <updated>2024-11-26T15:13:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/stereogum-album-of-the-week-good-morning-the-accident/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>I love the contradiction of religions</title>
         <author>
             <name>Derek Sivers</name>
@@ -2354,6 +2450,30 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-hyperproperties/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Album Of The Week: Father John Misty Mahashmashana</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+    <published>2024-11-19T18:25:11+00:00</published>
+    <updated>2024-11-19T18:25:11+00:00</updated>
+    <link href="https://news.cryptic.io/stereogum-album-of-the-week-father-john-misty-mahashmashana/"/>
+    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-father-john-misty-mahashmashana/" type="text/html"/>
+      <source>
+        <id>https://www.stereogum.com/2287469/father-john-misty-mahashmashana/reviews/album-of-the-week/</id>
+        <link href="https://www.stereogum.com/2287469/father-john-misty-mahashmashana/reviews/album-of-the-week/"/>
+        <title>Album Of The Week: Father John Misty Mahashmashana</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+        <updated>2024-11-19T18:25:11+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/stereogum-album-of-the-week-father-john-misty-mahashmashana/</id>
     <content type="html">
         
     </content>
@@ -3007,6 +3127,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Album Of The Week: Maxo Kream Personification</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+    <published>2024-11-12T15:36:45+00:00</published>
+    <updated>2024-11-12T15:36:45+00:00</updated>
+    <link href="https://news.cryptic.io/stereogum-album-of-the-week-maxo-kream-personification/"/>
+    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-maxo-kream-personification/" type="text/html"/>
+      <source>
+        <id>https://www.stereogum.com/2286848/album-of-the-week-maxo-kream-personificiation/reviews/album-of-the-week/</id>
+        <link href="https://www.stereogum.com/2286848/album-of-the-week-maxo-kream-personificiation/reviews/album-of-the-week/"/>
+        <title>Album Of The Week: Maxo Kream Personification</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+        <updated>2024-11-12T15:36:45+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/stereogum-album-of-the-week-maxo-kream-personification/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Rats are surprisingly sweet pets</title>
         <author>
             <name>Derek Sivers</name>
@@ -3463,6 +3607,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Album Of The Week: The Body The Crying Out Of Things</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+    <published>2024-11-05T14:42:33+00:00</published>
+    <updated>2024-11-05T14:42:33+00:00</updated>
+    <link href="https://news.cryptic.io/stereogum-album-of-the-week-the-body-the-crying-out-of-things/"/>
+    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-the-body-the-crying-out-of-things/" type="text/html"/>
+      <source>
+        <id>https://www.stereogum.com/2286340/album-of-the-week-the-body-the-crying-out-of-things/reviews/album-of-the-week/</id>
+        <link href="https://www.stereogum.com/2286340/album-of-the-week-the-body-the-crying-out-of-things/reviews/album-of-the-week/"/>
+        <title>Album Of The Week: The Body The Crying Out Of Things</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+        <updated>2024-11-05T14:42:33+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/stereogum-album-of-the-week-the-body-the-crying-out-of-things/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Heads or Tails</title>
         <author>
             <name>andersource</name>
@@ -3818,6 +3986,30 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-c2pa-progress/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Album Of The Week: Mount Eerie Night Palace</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+    <published>2024-10-29T15:20:43+00:00</published>
+    <updated>2024-10-29T15:20:43+00:00</updated>
+    <link href="https://news.cryptic.io/stereogum-album-of-the-week-mount-eerie-night-palace/"/>
+    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-mount-eerie-night-palace/" type="text/html"/>
+      <source>
+        <id>https://www.stereogum.com/2285485/mount-eerie-night-palace/reviews/album-of-the-week/</id>
+        <link href="https://www.stereogum.com/2285485/mount-eerie-night-palace/reviews/album-of-the-week/"/>
+        <title>Album Of The Week: Mount Eerie Night Palace</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+        <updated>2024-10-29T15:20:43+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/stereogum-album-of-the-week-mount-eerie-night-palace/</id>
     <content type="html">
         
     </content>
@@ -4183,6 +4375,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Album Of The Week: Two Shell Two Shell</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+    <published>2024-10-22T16:10:22+00:00</published>
+    <updated>2024-10-22T16:10:22+00:00</updated>
+    <link href="https://news.cryptic.io/stereogum-album-of-the-week-two-shell-two-shell/"/>
+    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-two-shell-two-shell/" type="text/html"/>
+      <source>
+        <id>https://www.stereogum.com/2284770/two-shell-debut-album/reviews/album-of-the-week/</id>
+        <link href="https://www.stereogum.com/2284770/two-shell-debut-album/reviews/album-of-the-week/"/>
+        <title>Album Of The Week: Two Shell Two Shell</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+        <updated>2024-10-22T16:10:22+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/stereogum-album-of-the-week-two-shell-two-shell/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Requiem for Raghavan</title>
         <author>
             <name>Ed Zitron</name>
@@ -4490,6 +4706,30 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-thinkpad-as-a-server-third-times-the-charm/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Album Of The Week: Christopher Owens I Wanna Run Barefoot Through Your Hair</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+    <published>2024-10-15T20:41:49+00:00</published>
+    <updated>2024-10-15T20:41:49+00:00</updated>
+    <link href="https://news.cryptic.io/stereogum-album-of-the-week-christopher-owens-i-wanna-run-barefoot-through-your-hair/"/>
+    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-christopher-owens-i-wanna-run-barefoot-through-your-hair/" type="text/html"/>
+      <source>
+        <id>https://www.stereogum.com/2283969/christopher-owens-i-wanna-run-barefoot-through-your-hair/reviews/album-of-the-week/</id>
+        <link href="https://www.stereogum.com/2283969/christopher-owens-i-wanna-run-barefoot-through-your-hair/reviews/album-of-the-week/"/>
+        <title>Album Of The Week: Christopher Owens I Wanna Run Barefoot Through Your Hair</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+        <updated>2024-10-15T20:41:49+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/stereogum-album-of-the-week-christopher-owens-i-wanna-run-barefoot-through-your-hair/</id>
     <content type="html">
         
     </content>
@@ -4850,6 +5090,30 @@
       </source>
 
     <id>https://news.cryptic.io/filippo-valsorda-accumulated-test-vectors/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Album Of The Week: Chat Pile Cool World</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+    <published>2024-10-08T18:01:58+00:00</published>
+    <updated>2024-10-08T18:01:58+00:00</updated>
+    <link href="https://news.cryptic.io/stereogum-album-of-the-week-chat-pile-cool-world/"/>
+    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-chat-pile-cool-world/" type="text/html"/>
+      <source>
+        <id>https://www.stereogum.com/2283082/chat-pile-cool-world/reviews/album-of-the-week/</id>
+        <link href="https://www.stereogum.com/2283082/chat-pile-cool-world/reviews/album-of-the-week/"/>
+        <title>Album Of The Week: Chat Pile Cool World</title>
+        <author>
+            <name>Stereogum</name>
+        </author>
+        <updated>2024-10-08T18:01:58+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/stereogum-album-of-the-week-chat-pile-cool-world/</id>
     <content type="html">
         
     </content>
@@ -12194,30 +12458,6 @@
       </source>
 
     <id>https://news.cryptic.io/john-whiles-the-loneliness-of-the-mid-level-vimmer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The undisputed best songs of 2023</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-    <published>2023-12-20T23:00:00+00:00</published>
-    <updated>2023-12-20T23:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/john-whiles-the-undisputed-best-songs-of-2023/"/>
-    <link rel="alternate" href="https://news.cryptic.io/john-whiles-the-undisputed-best-songs-of-2023/" type="text/html"/>
-      <source>
-        <id>https://johnwhiles.com/posts/songs-of-2023</id>
-        <link href="https://johnwhiles.com/posts/songs-of-2023"/>
-        <title>The undisputed best songs of 2023</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-        <updated>2023-12-20T23:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/john-whiles-the-undisputed-best-songs-of-2023/</id>
     <content type="html">
         
     </content>
