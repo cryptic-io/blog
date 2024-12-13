@@ -2589,9 +2589,6 @@
         <loc>https://news.cryptic.io/page/26/</loc>
     </url>
     <url>
-        <loc>https://news.cryptic.io/page/27/</loc>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/page/3/</loc>
     </url>
     <url>
@@ -2615,46 +2612,6 @@
     <url>
         <loc>https://news.cryptic.io/philipp-philipp-was-annoyed/</loc>
         <lastmod>2024-09-23T13:38:09Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-circular-dependencies-for-socket-activation-and-wireguard/</loc>
-        <lastmod>2024-12-11T23:54:09Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-friday-night-feed-reader-score-report/</loc>
-        <lastmod>2024-10-26T07:02:54Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-ive-had-a-change-of-heart-regarding-employee-metrics/</loc>
-        <lastmod>2024-11-04T04:26:56Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-janky-remote-backups-without-root-on-the-far-end/</loc>
-        <lastmod>2024-10-21T21:33:50Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-just-cracking-an-embedded-root-password-no-big-deal/</loc>
-        <lastmod>2024-12-03T00:46:19Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-let-the-network-tell-you-where-you-are-a-nerd-snipe-story/</loc>
-        <lastmod>2024-10-01T23:21:13Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-please-upgrade-past-pleroma-270-or-at-least-patch-it/</loc>
-        <lastmod>2024-12-12T18:52:01Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-set-me-right-on-whether-caring-is-even-possible/</loc>
-        <lastmod>2024-10-30T02:03:58Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-sshfs-isnt-really-what-i-wanted-for-my-backup-situation/</loc>
-        <lastmod>2024-10-22T17:47:05Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/rachelbythebay-words-fail-me-sometimes-when-it-comes-to-feed-readers/</loc>
-        <lastmod>2024-12-11T02:30:22Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/randall-munroe-infinite-armada-chess/</loc>
@@ -3041,16 +2998,16 @@
         <lastmod>2024-10-06T19:53:15Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/various-dealing-with-the-heat/</loc>
-        <lastmod>2024-10-31T00:00:00Z</lastmod>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/various-find-your-way-around-apps/</loc>
         <lastmod>2024-11-21T00:00:00Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/various-fixing-the-not-a-heap-block-error-with-networking-with-pcpro/</loc>
         <lastmod>2024-03-30T02:11:12Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/various-forks-to-the-rescue/</loc>
+        <lastmod>2024-12-12T00:00:00Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/various-fused-news-read-by-an-llm/</loc>
@@ -3105,6 +3062,10 @@
         <lastmod>2024-06-15T16:46:38Z</lastmod>
     </url>
     <url>
+        <loc>https://news.cryptic.io/various-security-of-the-updates-automation/</loc>
+        <lastmod>2024-12-13T00:00:00Z</lastmod>
+    </url>
+    <url>
         <loc>https://news.cryptic.io/various-the-grug-brained-writer/</loc>
         <lastmod>2024-03-24T19:50:59Z</lastmod>
     </url>
@@ -3115,10 +3076,6 @@
     <url>
         <loc>https://news.cryptic.io/various-the-onehour-principle/</loc>
         <lastmod>2024-05-11T17:52:11Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/various-this-week-is-on-fire/</loc>
-        <lastmod>2024-10-24T00:00:00Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/various-treating-everything-as-practice/</loc>
