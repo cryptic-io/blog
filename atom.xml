@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-12-15T11:10:00+00:00</updated>
+  <updated>2024-12-15T20:05:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Moonlight</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-12-15T20:05:00+00:00</published>
+    <updated>2024-12-15T20:05:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-moonlight/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-moonlight/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/XuALm3c1vgaeGRhe</id>
+        <link href="https://manuelmoreale.com/@/page/XuALm3c1vgaeGRhe"/>
+        <title>Moonlight</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-12-15T20:05:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-moonlight/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Sunday update</title>
         <author>
@@ -1922,30 +1946,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-a-complex-bug-with-a-simple-fix/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>P&amp;B: Lucy Bellwood</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-11-29T12:00:00+00:00</published>
-    <updated>2024-11-29T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-lucy-bellwood/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-lucy-bellwood/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/TDuc5e8Z3mvsf1dV</id>
-        <link href="https://manuelmoreale.com/@/page/TDuc5e8Z3mvsf1dV"/>
-        <title>P&amp;B: Lucy Bellwood</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-11-29T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-lucy-bellwood/</id>
     <content type="html">
         
     </content>
