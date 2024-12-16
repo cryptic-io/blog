@@ -4,8 +4,80 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-12-15T20:05:00+00:00</updated>
+  <updated>2024-12-16T17:06:48+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Never Forgive Them</title>
+        <author>
+            <name>Ed Zitron</name>
+        </author>
+    <published>2024-12-16T17:06:48+00:00</published>
+    <updated>2024-12-16T17:06:48+00:00</updated>
+    <link href="https://news.cryptic.io/ed-zitron-never-forgive-them/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ed-zitron-never-forgive-them/" type="text/html"/>
+      <source>
+        <id>https://www.wheresyoured.at/never-forgive-them/</id>
+        <link href="https://www.wheresyoured.at/never-forgive-them/"/>
+        <title>Never Forgive Them</title>
+        <author>
+            <name>Ed Zitron</name>
+        </author>
+        <updated>2024-12-16T17:06:48+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ed-zitron-never-forgive-them/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>On asking</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-12-16T16:50:00+00:00</published>
+    <updated>2024-12-16T16:50:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-on-asking/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-on-asking/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/cKyC0HHEiTnyDPFp</id>
+        <link href="https://manuelmoreale.com/@/page/cKyC0HHEiTnyDPFp"/>
+        <title>On asking</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-12-16T16:50:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-on-asking/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Phase Change</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2024-12-16T00:00:00+00:00</published>
+    <updated>2024-12-16T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-phase-change/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-phase-change/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/3025/</id>
+        <link href="https://xkcd.com/3025/"/>
+        <title>Phase Change</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2024-12-16T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-phase-change/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Moonlight</title>
         <author>
@@ -1111,30 +1183,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Seismologists</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2024-12-06T00:00:00+00:00</published>
-    <updated>2024-12-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-seismologists/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-seismologists/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/3021/</id>
-        <link href="https://xkcd.com/3021/"/>
-        <title>Seismologists</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2024-12-06T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-seismologists/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>frood, an Alpine initramfs NAS</title>
         <author>
             <name>Filippo Valsorda</name>
@@ -1730,30 +1778,6 @@
       </source>
 
     <id>https://news.cryptic.io/james-brown-firefox-userchrome-update/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Personal philosophy</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-12-01T16:25:00+00:00</published>
-    <updated>2024-12-01T16:25:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-personal-philosophy/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-personal-philosophy/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/3bg8rYZBhA7cNjBA</id>
-        <link href="https://manuelmoreale.com/@/page/3bg8rYZBhA7cNjBA"/>
-        <title>Personal philosophy</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-12-01T16:25:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-personal-philosophy/</id>
     <content type="html">
         
     </content>
@@ -7250,30 +7274,6 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-what-does-a-reverse-shell-actually-look-like/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Monopoly Money</title>
-        <author>
-            <name>Ed Zitron</name>
-        </author>
-    <published>2024-08-12T20:18:27+00:00</published>
-    <updated>2024-08-12T20:18:27+00:00</updated>
-    <link href="https://news.cryptic.io/ed-zitron-monopoly-money/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ed-zitron-monopoly-money/" type="text/html"/>
-      <source>
-        <id>https://www.wheresyoured.at/monopoly-money/</id>
-        <link href="https://www.wheresyoured.at/monopoly-money/"/>
-        <title>Monopoly Money</title>
-        <author>
-            <name>Ed Zitron</name>
-        </author>
-        <updated>2024-08-12T20:18:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ed-zitron-monopoly-money/</id>
     <content type="html">
         
     </content>
