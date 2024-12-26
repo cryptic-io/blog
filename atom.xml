@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-12-25T00:00:00+00:00</updated>
+  <updated>2024-12-26T14:10:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>On featured images in blog posts</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2024-12-26T14:10:00+00:00</published>
+    <updated>2024-12-26T14:10:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-on-featured-images-in-blog-posts/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-on-featured-images-in-blog-posts/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/vo9opwwBHGuCFsgT</id>
+        <link href="https://manuelmoreale.com/@/page/vo9opwwBHGuCFsgT"/>
+        <title>On featured images in blog posts</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2024-12-26T14:10:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-on-featured-images-in-blog-posts/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Most browsers can natively lazy load images</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2024-12-26T13:42:13+00:00</published>
+    <updated>2024-12-26T13:42:13+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-most-browsers-can-natively-lazy-load-images/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-most-browsers-can-natively-lazy-load-images/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/lazy-loading-in-html</id>
+        <link href="https://johnwhiles.com/posts/lazy-loading-in-html"/>
+        <title>Most browsers can natively lazy load images</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2024-12-26T13:42:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-most-browsers-can-natively-lazy-load-images/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Sun Avoidance</title>
         <author>
@@ -1706,30 +1754,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-erica-fustero/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Life on pause</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-12-06T05:15:00+00:00</published>
-    <updated>2024-12-06T05:15:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-life-on-pause/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-life-on-pause/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/NV4YSo5sZLbJbsRz</id>
-        <link href="https://manuelmoreale.com/@/page/NV4YSo5sZLbJbsRz"/>
-        <title>Life on pause</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-12-06T05:15:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-life-on-pause/</id>
     <content type="html">
         
     </content>
@@ -12602,30 +12626,6 @@
       </source>
 
     <id>https://news.cryptic.io/adam-pritchard-bug-story-sorting-by-timestamp/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Loneliness of the Mid Level Vimmer</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-    <published>2023-12-21T14:21:00+00:00</published>
-    <updated>2023-12-21T14:21:00+00:00</updated>
-    <link href="https://news.cryptic.io/john-whiles-the-loneliness-of-the-mid-level-vimmer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/john-whiles-the-loneliness-of-the-mid-level-vimmer/" type="text/html"/>
-      <source>
-        <id>https://johnwhiles.com/posts/vimming-pains</id>
-        <link href="https://johnwhiles.com/posts/vimming-pains"/>
-        <title>The Loneliness of the Mid Level Vimmer</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-        <updated>2023-12-21T14:21:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/john-whiles-the-loneliness-of-the-mid-level-vimmer/</id>
     <content type="html">
         
     </content>
