@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-12-26T23:35:00+00:00</updated>
+  <updated>2024-12-27T15:54:29+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>text-box</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-12-27T15:54:29+00:00</published>
+    <updated>2024-12-27T15:54:29+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-textbox/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-textbox/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/text-box/</id>
+        <link href="https://robinrendle.com/notes/text-box/"/>
+        <title>text-box</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-12-27T15:54:29+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-textbox/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A moment on my favorite bench</title>
         <author>
@@ -6458,30 +6482,6 @@
       </source>
 
     <id>https://news.cryptic.io/ed-zitron-the-subprime-ai-crisis/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Every webpage deserves to be a place</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-09-16T15:02:31+00:00</published>
-    <updated>2024-09-16T15:02:31+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-every-webpage-deserves-to-be-a-place/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-every-webpage-deserves-to-be-a-place/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/every-webpage-deserves-to-be-a-place/</id>
-        <link href="https://robinrendle.com/notes/every-webpage-deserves-to-be-a-place/"/>
-        <title>Every webpage deserves to be a place</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-09-16T15:02:31+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-every-webpage-deserves-to-be-a-place/</id>
     <content type="html">
         
     </content>
