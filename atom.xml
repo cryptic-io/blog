@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-12-31T17:05:00+00:00</updated>
+  <updated>2024-12-31T19:42:44+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>This Glorious Machine</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2024-12-31T19:42:44+00:00</published>
+    <updated>2024-12-31T19:42:44+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-this-glorious-machine/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-this-glorious-machine/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/this-glorious-machine/</id>
+        <link href="https://robinrendle.com/notes/this-glorious-machine/"/>
+        <title>This Glorious Machine</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2024-12-31T19:42:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-this-glorious-machine/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Was 2024 a good year?</title>
         <author>
@@ -6410,30 +6434,6 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-web-components-are-okay/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Coming home</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-09-28T15:16:08+00:00</published>
-    <updated>2024-09-28T15:16:08+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-coming-home/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-coming-home/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/coming-home/</id>
-        <link href="https://robinrendle.com/notes/coming-home/"/>
-        <title>Coming home</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-09-28T15:16:08+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-coming-home/</id>
     <content type="html">
         
     </content>
