@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2024-12-31T19:42:44+00:00</updated>
+  <updated>2024-12-31T23:00:01+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>My 25-year adventure in AI and ML</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+    <published>2024-12-31T23:00:01+00:00</published>
+    <updated>2024-12-31T23:00:01+00:00</updated>
+    <link href="https://news.cryptic.io/austin-z-henley-my-25year-adventure-in-ai-and-ml/"/>
+    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-my-25year-adventure-in-ai-and-ml/" type="text/html"/>
+      <source>
+        <id>https://austinhenley.com/blog/25yearsofai.html</id>
+        <link href="https://austinhenley.com/blog/25yearsofai.html"/>
+        <title>My 25-year adventure in AI and ML</title>
+        <author>
+            <name>Austin Z. Henley</name>
+        </author>
+        <updated>2024-12-31T23:00:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/austin-z-henley-my-25year-adventure-in-ai-and-ml/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>This Glorious Machine</title>
         <author>
@@ -1231,6 +1255,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Feed readers which don&#x27;t take &quot;no&quot; for an answer</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-12-18T03:13:27+00:00</published>
+    <updated>2024-12-18T03:13:27+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-feed-readers-which-dont-take-no-for-an-answer/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feed-readers-which-dont-take-no-for-an-answer/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/12/17/packets/</id>
+        <link href="https://rachelbythebay.com/w/2024/12/17/packets/"/>
+        <title>Feed readers which don&#x27;t take &quot;no&quot; for an answer</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-12-18T03:13:27+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-feed-readers-which-dont-take-no-for-an-answer/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Getting beyond ProcessExecutionErrors when installing Ubuntu on arm64</title>
         <author>
             <name>Jeff Geerling</name>
@@ -1615,6 +1663,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Please upgrade past Pleroma 2.7.0 (or at least patch it)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-12-12T18:52:01+00:00</published>
+    <updated>2024-12-12T18:52:01+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-please-upgrade-past-pleroma-270-or-at-least-patch-it/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-please-upgrade-past-pleroma-270-or-at-least-patch-it/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/12/12/pleroma/</id>
+        <link href="https://rachelbythebay.com/w/2024/12/12/pleroma/"/>
+        <title>Please upgrade past Pleroma 2.7.0 (or at least patch it)</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-12-12T18:52:01+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-please-upgrade-past-pleroma-270-or-at-least-patch-it/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Mikihiko Matsumiya (松宮幹彦): Mu-Myou (無明) (1994)</title>
         <author>
             <name>Diego Olivas</name>
@@ -1711,6 +1783,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Circular dependencies for socket activation and WireGuard</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-12-11T23:54:09+00:00</published>
+    <updated>2024-12-11T23:54:09+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-circular-dependencies-for-socket-activation-and-wireguard/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-circular-dependencies-for-socket-activation-and-wireguard/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/12/11/socket/</id>
+        <link href="https://rachelbythebay.com/w/2024/12/11/socket/"/>
+        <title>Circular dependencies for socket activation and WireGuard</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-12-11T23:54:09+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-circular-dependencies-for-socket-activation-and-wireguard/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Stroustrup&#x27;s Rule</title>
         <author>
             <name>Hillel Wayne</name>
@@ -1783,6 +1879,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Words fail me sometimes when it comes to feed readers</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-12-11T02:30:22+00:00</published>
+    <updated>2024-12-11T02:30:22+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-words-fail-me-sometimes-when-it-comes-to-feed-readers/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-words-fail-me-sometimes-when-it-comes-to-feed-readers/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/12/10/feed/</id>
+        <link href="https://rachelbythebay.com/w/2024/12/10/feed/"/>
+        <title>Words fail me sometimes when it comes to feed readers</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-12-11T02:30:22+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-words-fail-me-sometimes-when-it-comes-to-feed-readers/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Why are my best friends Jewish?</title>
         <author>
             <name>Derek Sivers</name>
@@ -1850,30 +1970,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-raspberry-pi-500-uses-qmk-firmware-for-builtin-keyboard/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Album Of The Week: Whispers Yom-Ma-Lok</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-12-10T14:46:13+00:00</published>
-    <updated>2024-12-10T14:46:13+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-whispers-yommalok/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-whispers-yommalok/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2290044/album-of-the-week-whispers-yom-ma-lok/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2290044/album-of-the-week-whispers-yom-ma-lok/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Whispers Yom-Ma-Lok</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-12-10T14:46:13+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-whispers-yommalok/</id>
     <content type="html">
         
     </content>
@@ -2455,30 +2551,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Album Of The Week: Advance Base Horrible Occurrences</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-12-03T16:20:38+00:00</published>
-    <updated>2024-12-03T16:20:38+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-advance-base-horrible-occurrences/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-advance-base-horrible-occurrences/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2289330/advance-base-horrible-occurrences/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2289330/advance-base-horrible-occurrences/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Advance Base Horrible Occurrences</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-12-03T16:20:38+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-advance-base-horrible-occurrences/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>busiless: A Simple Task Tracking and Auto-Prioritization Tool</title>
         <author>
             <name>mediocregopher</name>
@@ -2498,6 +2570,30 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-busiless-a-simple-task-tracking-and-autoprioritization-tool/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Just cracking an embedded root password, no big deal</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-12-03T00:46:19+00:00</published>
+    <updated>2024-12-03T00:46:19+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-just-cracking-an-embedded-root-password-no-big-deal/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-just-cracking-an-embedded-root-password-no-big-deal/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/12/02/hash/</id>
+        <link href="https://rachelbythebay.com/w/2024/12/02/hash/"/>
+        <title>Just cracking an embedded root password, no big deal</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-12-03T00:46:19+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-just-cracking-an-embedded-root-password-no-big-deal/</id>
     <content type="html">
         
     </content>
@@ -3271,30 +3367,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Album Of The Week: Good Morning The Accident</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-11-26T15:13:07+00:00</published>
-    <updated>2024-11-26T15:13:07+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-good-morning-the-accident/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-good-morning-the-accident/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2288717/good-morning-the-accident/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2288717/good-morning-the-accident/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Good Morning The Accident</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-11-26T15:13:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-good-morning-the-accident/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>I love the contradiction of religions</title>
         <author>
             <name>Derek Sivers</name>
@@ -3626,30 +3698,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-hyperproperties/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Album Of The Week: Father John Misty Mahashmashana</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-11-19T18:25:11+00:00</published>
-    <updated>2024-11-19T18:25:11+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-father-john-misty-mahashmashana/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-father-john-misty-mahashmashana/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2287469/father-john-misty-mahashmashana/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2287469/father-john-misty-mahashmashana/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Father John Misty Mahashmashana</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-11-19T18:25:11+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-father-john-misty-mahashmashana/</id>
     <content type="html">
         
     </content>
@@ -4111,30 +4159,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Album Of The Week: Maxo Kream Personification</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-11-12T15:36:45+00:00</published>
-    <updated>2024-11-12T15:36:45+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-maxo-kream-personification/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-maxo-kream-personification/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2286848/album-of-the-week-maxo-kream-personificiation/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2286848/album-of-the-week-maxo-kream-personificiation/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Maxo Kream Personification</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-11-12T15:36:45+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-maxo-kream-personification/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Rats are surprisingly sweet pets</title>
         <author>
             <name>Derek Sivers</name>
@@ -4543,30 +4567,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Album Of The Week: The Body The Crying Out Of Things</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-11-05T14:42:33+00:00</published>
-    <updated>2024-11-05T14:42:33+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-the-body-the-crying-out-of-things/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-the-body-the-crying-out-of-things/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2286340/album-of-the-week-the-body-the-crying-out-of-things/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2286340/album-of-the-week-the-body-the-crying-out-of-things/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: The Body The Crying Out Of Things</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-11-05T14:42:33+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-the-body-the-crying-out-of-things/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Heads or Tails</title>
         <author>
             <name>andersource</name>
@@ -4586,6 +4586,30 @@
       </source>
 
     <id>https://news.cryptic.io/andersource-heads-or-tails/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>I&#x27;ve had a change of heart regarding employee metrics</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-11-04T04:26:56+00:00</published>
+    <updated>2024-11-04T04:26:56+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-ive-had-a-change-of-heart-regarding-employee-metrics/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-ive-had-a-change-of-heart-regarding-employee-metrics/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/11/03/metrics/</id>
+        <link href="https://rachelbythebay.com/w/2024/11/03/metrics/"/>
+        <title>I&#x27;ve had a change of heart regarding employee metrics</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-11-04T04:26:56+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-ive-had-a-change-of-heart-regarding-employee-metrics/</id>
     <content type="html">
         
     </content>
@@ -4831,6 +4855,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Set me right on whether caring is even possible</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-10-30T02:03:58+00:00</published>
+    <updated>2024-10-30T02:03:58+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-set-me-right-on-whether-caring-is-even-possible/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-set-me-right-on-whether-caring-is-even-possible/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/10/29/test/</id>
+        <link href="https://rachelbythebay.com/w/2024/10/29/test/"/>
+        <title>Set me right on whether caring is even possible</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-10-30T02:03:58+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-set-me-right-on-whether-caring-is-even-possible/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>C2PA Progress</title>
         <author>
             <name>Tim Bray</name>
@@ -4850,30 +4898,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-c2pa-progress/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Album Of The Week: Mount Eerie Night Palace</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-10-29T15:20:43+00:00</published>
-    <updated>2024-10-29T15:20:43+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-mount-eerie-night-palace/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-mount-eerie-night-palace/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2285485/mount-eerie-night-palace/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2285485/mount-eerie-night-palace/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Mount Eerie Night Palace</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-10-29T15:20:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-mount-eerie-night-palace/</id>
     <content type="html">
         
     </content>
@@ -4999,6 +5023,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Friday night feed reader score report</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-10-26T07:02:54+00:00</published>
+    <updated>2024-10-26T07:02:54+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-friday-night-feed-reader-score-report/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-friday-night-feed-reader-score-report/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/10/25/fs/</id>
+        <link href="https://rachelbythebay.com/w/2024/10/25/fs/"/>
+        <title>Friday night feed reader score report</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-10-26T07:02:54+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-friday-night-feed-reader-score-report/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>(Don’t) Use Computer</title>
         <author>
             <name>John Whiles</name>
@@ -5119,6 +5167,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>sshfs isn&#x27;t really what I wanted for my backup situation</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+    <published>2024-10-22T17:47:05+00:00</published>
+    <updated>2024-10-22T17:47:05+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-sshfs-isnt-really-what-i-wanted-for-my-backup-situation/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-sshfs-isnt-really-what-i-wanted-for-my-backup-situation/" type="text/html"/>
+      <source>
+        <id>https://rachelbythebay.com/w/2024/10/22/nofs/</id>
+        <link href="https://rachelbythebay.com/w/2024/10/22/nofs/"/>
+        <title>sshfs isn&#x27;t really what I wanted for my backup situation</title>
+        <author>
+            <name>rachelbythebay</name>
+        </author>
+        <updated>2024-10-22T17:47:05+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rachelbythebay-sshfs-isnt-really-what-i-wanted-for-my-backup-situation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>TLA from first principles</title>
         <author>
             <name>Hillel Wayne</name>
@@ -5143,25 +5215,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Album Of The Week: Two Shell Two Shell</title>
+    <title>Janky remote backups without root on the far end</title>
         <author>
-            <name>Stereogum</name>
+            <name>rachelbythebay</name>
         </author>
-    <published>2024-10-22T16:10:22+00:00</published>
-    <updated>2024-10-22T16:10:22+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-two-shell-two-shell/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-two-shell-two-shell/" type="text/html"/>
+    <published>2024-10-21T21:33:50+00:00</published>
+    <updated>2024-10-21T21:33:50+00:00</updated>
+    <link href="https://news.cryptic.io/rachelbythebay-janky-remote-backups-without-root-on-the-far-end/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-janky-remote-backups-without-root-on-the-far-end/" type="text/html"/>
       <source>
-        <id>https://www.stereogum.com/2284770/two-shell-debut-album/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2284770/two-shell-debut-album/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Two Shell Two Shell</title>
+        <id>https://rachelbythebay.com/w/2024/10/21/sb/</id>
+        <link href="https://rachelbythebay.com/w/2024/10/21/sb/"/>
+        <title>Janky remote backups without root on the far end</title>
         <author>
-            <name>Stereogum</name>
+            <name>rachelbythebay</name>
         </author>
-        <updated>2024-10-22T16:10:22+00:00</updated>
+        <updated>2024-10-21T21:33:50+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-two-shell-two-shell/</id>
+    <id>https://news.cryptic.io/rachelbythebay-janky-remote-backups-without-root-on-the-far-end/</id>
     <content type="html">
         
     </content>
@@ -5450,30 +5522,6 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-thinkpad-as-a-server-third-times-the-charm/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Album Of The Week: Christopher Owens I Wanna Run Barefoot Through Your Hair</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-10-15T20:41:49+00:00</published>
-    <updated>2024-10-15T20:41:49+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-christopher-owens-i-wanna-run-barefoot-through-your-hair/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-christopher-owens-i-wanna-run-barefoot-through-your-hair/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2283969/christopher-owens-i-wanna-run-barefoot-through-your-hair/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2283969/christopher-owens-i-wanna-run-barefoot-through-your-hair/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Christopher Owens I Wanna Run Barefoot Through Your Hair</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-10-15T20:41:49+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-christopher-owens-i-wanna-run-barefoot-through-your-hair/</id>
     <content type="html">
         
     </content>
@@ -5810,30 +5858,6 @@
       </source>
 
     <id>https://news.cryptic.io/filippo-valsorda-accumulated-test-vectors/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Album Of The Week: Chat Pile Cool World</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-10-08T18:01:58+00:00</published>
-    <updated>2024-10-08T18:01:58+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-chat-pile-cool-world/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-chat-pile-cool-world/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2283082/chat-pile-cool-world/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2283082/chat-pile-cool-world/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Chat Pile Cool World</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-10-08T18:01:58+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-chat-pile-cool-world/</id>
     <content type="html">
         
     </content>
@@ -10274,30 +10298,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-brian-specific-failures/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Exploring 50 user interfaces for AI code suggestions</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-    <published>2024-05-07T21:00:01+00:00</published>
-    <updated>2024-05-07T21:00:01+00:00</updated>
-    <link href="https://news.cryptic.io/austin-z-henley-exploring-50-user-interfaces-for-ai-code-suggestions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/austin-z-henley-exploring-50-user-interfaces-for-ai-code-suggestions/" type="text/html"/>
-      <source>
-        <id>https://austinhenley.com/blog/intellicode.html</id>
-        <link href="https://austinhenley.com/blog/intellicode.html"/>
-        <title>Exploring 50 user interfaces for AI code suggestions</title>
-        <author>
-            <name>Austin Z. Henley</name>
-        </author>
-        <updated>2024-05-07T21:00:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/austin-z-henley-exploring-50-user-interfaces-for-ai-code-suggestions/</id>
     <content type="html">
         
     </content>
