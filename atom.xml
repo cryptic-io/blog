@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-01-03T12:00:00+00:00</updated>
+  <updated>2025-01-03T15:02:15+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>System76 built the fastest Windows Arm PC</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2025-01-03T15:02:15+00:00</published>
+    <updated>2025-01-03T15:02:15+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-system76-built-the-fastest-windows-arm-pc/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-system76-built-the-fastest-windows-arm-pc/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2025/system76-built-fastest-windows-arm-pc</id>
+        <link href="https://www.jeffgeerling.com/blog/2025/system76-built-fastest-windows-arm-pc"/>
+        <title>System76 built the fastest Windows Arm PC</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2025-01-03T15:02:15+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-system76-built-the-fastest-windows-arm-pc/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>P&amp;B: Pauline P. Narvas</title>
         <author>
@@ -3866,30 +3890,6 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-you-can-use-almost-anything-as-a-key-file-for-your-encrypted-storage-device/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>LLMs accelerated with eGPU on a Raspberry Pi 5</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-11-19T21:26:55+00:00</published>
-    <updated>2024-11-19T21:26:55+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-llms-accelerated-with-egpu-on-a-raspberry-pi-5/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-llms-accelerated-with-egpu-on-a-raspberry-pi-5/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/llms-accelerated-egpu-on-raspberry-pi-5</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/llms-accelerated-egpu-on-raspberry-pi-5"/>
-        <title>LLMs accelerated with eGPU on a Raspberry Pi 5</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-11-19T21:26:55+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-llms-accelerated-with-egpu-on-a-raspberry-pi-5/</id>
     <content type="html">
         
     </content>
