@@ -1183,6 +1183,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>the twenty-fifth year of my free software career</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2024-12-23T14:57:33+00:00</published>
+    <updated>2024-12-23T14:57:33+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-the-twentyfifth-year-of-my-free-software-career/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-the-twentyfifth-year-of-my-free-software-career/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/the_twenty-fifth_year_of_my_free_software_career/</id>
+        <link href="http://joeyh.name/blog/entry/the_twenty-fifth_year_of_my_free_software_career/"/>
+        <title>the twenty-fifth year of my free software career</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2024-12-23T14:57:33+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-the-twentyfifth-year-of-my-free-software-career/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Data Oriented Programming in Java: Chapter 5 Progress (Part IX)</title>
         <author>
             <name>Chris Kiehl</name>
@@ -1202,6 +1226,30 @@
       </source>
 
     <id>https://news.cryptic.io/chris-kiehl-data-oriented-programming-in-java-chapter-5-progress-part-ix/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>aiming at December</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2024-12-21T05:00:00+00:00</published>
+    <updated>2024-12-21T05:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-aiming-at-december/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-aiming-at-december/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/aiming_at_December/</id>
+        <link href="http://joeyh.name/blog/entry/aiming_at_December/"/>
+        <title>aiming at December</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2024-12-21T05:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-aiming-at-december/</id>
     <content type="html">
         
     </content>
@@ -1466,30 +1514,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-formally-modeling-dreidel-the-sequel/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Feed readers which don&#x27;t take &quot;no&quot; for an answer</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-12-18T03:13:27+00:00</published>
-    <updated>2024-12-18T03:13:27+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feed-readers-which-dont-take-no-for-an-answer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feed-readers-which-dont-take-no-for-an-answer/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/12/17/packets/</id>
-        <link href="https://rachelbythebay.com/w/2024/12/17/packets/"/>
-        <title>Feed readers which don&#x27;t take &quot;no&quot; for an answer</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-12-18T03:13:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feed-readers-which-dont-take-no-for-an-answer/</id>
     <content type="html">
         
     </content>
@@ -1855,30 +1879,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Please upgrade past Pleroma 2.7.0 (or at least patch it)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-12-12T18:52:01+00:00</published>
-    <updated>2024-12-12T18:52:01+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-please-upgrade-past-pleroma-270-or-at-least-patch-it/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-please-upgrade-past-pleroma-270-or-at-least-patch-it/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/12/12/pleroma/</id>
-        <link href="https://rachelbythebay.com/w/2024/12/12/pleroma/"/>
-        <title>Please upgrade past Pleroma 2.7.0 (or at least patch it)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-12-12T18:52:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-please-upgrade-past-pleroma-270-or-at-least-patch-it/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Mikihiko Matsumiya (松宮幹彦): Mu-Myou (無明) (1994)</title>
         <author>
             <name>Diego Olivas</name>
@@ -1975,30 +1975,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Circular dependencies for socket activation and WireGuard</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-12-11T23:54:09+00:00</published>
-    <updated>2024-12-11T23:54:09+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-circular-dependencies-for-socket-activation-and-wireguard/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-circular-dependencies-for-socket-activation-and-wireguard/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/12/11/socket/</id>
-        <link href="https://rachelbythebay.com/w/2024/12/11/socket/"/>
-        <title>Circular dependencies for socket activation and WireGuard</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-12-11T23:54:09+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-circular-dependencies-for-socket-activation-and-wireguard/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Stroustrup&#x27;s Rule</title>
         <author>
             <name>Hillel Wayne</name>
@@ -2066,30 +2042,6 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-to-build-a-fleet-of-networked-offsite-backups-using-linux-wireguard-and-rsync/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Words fail me sometimes when it comes to feed readers</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-12-11T02:30:22+00:00</published>
-    <updated>2024-12-11T02:30:22+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-words-fail-me-sometimes-when-it-comes-to-feed-readers/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-words-fail-me-sometimes-when-it-comes-to-feed-readers/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/12/10/feed/</id>
-        <link href="https://rachelbythebay.com/w/2024/12/10/feed/"/>
-        <title>Words fail me sometimes when it comes to feed readers</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-12-11T02:30:22+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-words-fail-me-sometimes-when-it-comes-to-feed-readers/</id>
     <content type="html">
         
     </content>
@@ -2786,30 +2738,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-busiless-a-simple-task-tracking-and-autoprioritization-tool/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Just cracking an embedded root password, no big deal</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-12-03T00:46:19+00:00</published>
-    <updated>2024-12-03T00:46:19+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-just-cracking-an-embedded-root-password-no-big-deal/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-just-cracking-an-embedded-root-password-no-big-deal/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/12/02/hash/</id>
-        <link href="https://rachelbythebay.com/w/2024/12/02/hash/"/>
-        <title>Just cracking an embedded root password, no big deal</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-12-03T00:46:19+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-just-cracking-an-embedded-root-password-no-big-deal/</id>
     <content type="html">
         
     </content>
@@ -4783,30 +4711,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>I&#x27;ve had a change of heart regarding employee metrics</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-11-04T04:26:56+00:00</published>
-    <updated>2024-11-04T04:26:56+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-ive-had-a-change-of-heart-regarding-employee-metrics/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-ive-had-a-change-of-heart-regarding-employee-metrics/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/11/03/metrics/</id>
-        <link href="https://rachelbythebay.com/w/2024/11/03/metrics/"/>
-        <title>I&#x27;ve had a change of heart regarding employee metrics</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-11-04T04:26:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-ive-had-a-change-of-heart-regarding-employee-metrics/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Influence Agents</title>
         <author>
             <name>geohot</name>
@@ -5047,30 +4951,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Set me right on whether caring is even possible</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-10-30T02:03:58+00:00</published>
-    <updated>2024-10-30T02:03:58+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-set-me-right-on-whether-caring-is-even-possible/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-set-me-right-on-whether-caring-is-even-possible/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/10/29/test/</id>
-        <link href="https://rachelbythebay.com/w/2024/10/29/test/"/>
-        <title>Set me right on whether caring is even possible</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-10-30T02:03:58+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-set-me-right-on-whether-caring-is-even-possible/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>C2PA Progress</title>
         <author>
             <name>Tim Bray</name>
@@ -5215,30 +5095,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Friday night feed reader score report</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-10-26T07:02:54+00:00</published>
-    <updated>2024-10-26T07:02:54+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-friday-night-feed-reader-score-report/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-friday-night-feed-reader-score-report/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/10/25/fs/</id>
-        <link href="https://rachelbythebay.com/w/2024/10/25/fs/"/>
-        <title>Friday night feed reader score report</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-10-26T07:02:54+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-friday-night-feed-reader-score-report/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>(Don’t) Use Computer</title>
         <author>
             <name>John Whiles</name>
@@ -5359,30 +5215,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>sshfs isn&#x27;t really what I wanted for my backup situation</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-10-22T17:47:05+00:00</published>
-    <updated>2024-10-22T17:47:05+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-sshfs-isnt-really-what-i-wanted-for-my-backup-situation/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-sshfs-isnt-really-what-i-wanted-for-my-backup-situation/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/10/22/nofs/</id>
-        <link href="https://rachelbythebay.com/w/2024/10/22/nofs/"/>
-        <title>sshfs isn&#x27;t really what I wanted for my backup situation</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-10-22T17:47:05+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-sshfs-isnt-really-what-i-wanted-for-my-backup-situation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>TLA from first principles</title>
         <author>
             <name>Hillel Wayne</name>
@@ -5402,30 +5234,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-tla-from-first-principles/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Janky remote backups without root on the far end</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-10-21T21:33:50+00:00</published>
-    <updated>2024-10-21T21:33:50+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-janky-remote-backups-without-root-on-the-far-end/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-janky-remote-backups-without-root-on-the-far-end/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/10/21/sb/</id>
-        <link href="https://rachelbythebay.com/w/2024/10/21/sb/"/>
-        <title>Janky remote backups without root on the far end</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-10-21T21:33:50+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-janky-remote-backups-without-root-on-the-far-end/</id>
     <content type="html">
         
     </content>
@@ -10975,6 +10783,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>reflections on distrusting xz</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2024-04-03T08:48:23+00:00</published>
+    <updated>2024-04-03T08:48:23+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-reflections-on-distrusting-xz/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-reflections-on-distrusting-xz/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/reflections_on_distrusting_xz/</id>
+        <link href="http://joeyh.name/blog/entry/reflections_on_distrusting_xz/"/>
+        <title>reflections on distrusting xz</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2024-04-03T08:48:23+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-reflections-on-distrusting-xz/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>ode to a faux grecian urn</title>
         <author>
             <name>Kate Wagner</name>
@@ -11090,6 +10922,30 @@
       </source>
 
     <id>https://news.cryptic.io/nutcroft-for-the-joy-of-making-it/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>the vulture in the coal mine</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2024-03-28T22:37:48+00:00</published>
+    <updated>2024-03-28T22:37:48+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-the-vulture-in-the-coal-mine/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-the-vulture-in-the-coal-mine/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/the_vulture_in_the_coal_mine/</id>
+        <link href="http://joeyh.name/blog/entry/the_vulture_in_the_coal_mine/"/>
+        <title>the vulture in the coal mine</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2024-03-28T22:37:48+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-the-vulture-in-the-coal-mine/</id>
     <content type="html">
         
     </content>
@@ -11282,6 +11138,30 @@
       </source>
 
     <id>https://news.cryptic.io/matthias-ott-fixing-the-logitech-spotlight/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>policy on adding AI generated content to my software projects</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2024-03-18T20:54:59+00:00</published>
+    <updated>2024-03-18T20:54:59+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-policy-on-adding-ai-generated-content-to-my-software-projects/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-policy-on-adding-ai-generated-content-to-my-software-projects/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/policy_on_adding_AI_generated_content_to_my_software_projects/</id>
+        <link href="http://joeyh.name/blog/entry/policy_on_adding_AI_generated_content_to_my_software_projects/"/>
+        <title>policy on adding AI generated content to my software projects</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2024-03-18T20:54:59+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-policy-on-adding-ai-generated-content-to-my-software-projects/</id>
     <content type="html">
         
     </content>
@@ -12995,6 +12875,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>attribution armored code</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2023-11-21T16:23:04+00:00</published>
+    <updated>2023-11-21T16:23:04+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-attribution-armored-code/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-attribution-armored-code/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/attribution_armored_code/</id>
+        <link href="http://joeyh.name/blog/entry/attribution_armored_code/"/>
+        <title>attribution armored code</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2023-11-21T16:23:04+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-attribution-armored-code/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>All of the writing I did in a week as a software engineer</title>
         <author>
             <name>Alex Ellis</name>
@@ -13359,6 +13263,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Haskell webassembly in the browser</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2023-09-20T00:03:00+00:00</published>
+    <updated>2023-09-20T00:03:00+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-haskell-webassembly-in-the-browser/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-haskell-webassembly-in-the-browser/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/</id>
+        <link href="http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/"/>
+        <title>Haskell webassembly in the browser</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2023-09-20T00:03:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-haskell-webassembly-in-the-browser/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Bethesda&#x27;s Starfield is a disgrace to game development and a slap in the face to gamers</title>
         <author>
             <name>unixsheikh</name>
@@ -13666,6 +13594,30 @@
       </source>
 
     <id>https://news.cryptic.io/nutcroft-laniakea-books-public-domain-books-for-everyone/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>become ungoogleable</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2023-07-20T00:34:27+00:00</published>
+    <updated>2023-07-20T00:34:27+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-become-ungoogleable/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-become-ungoogleable/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/become_ungoogleable/</id>
+        <link href="http://joeyh.name/blog/entry/become_ungoogleable/"/>
+        <title>become ungoogleable</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2023-07-20T00:34:27+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-become-ungoogleable/</id>
     <content type="html">
         
     </content>
@@ -14706,6 +14658,30 @@
       </source>
 
     <id>https://news.cryptic.io/jes-olson-write-posix-shell/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>the slink and a half boxed set</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2023-03-08T20:07:26+00:00</published>
+    <updated>2023-03-08T20:07:26+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-the-slink-and-a-half-boxed-set/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-the-slink-and-a-half-boxed-set/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/the_slink_and_a_half_boxed_set/</id>
+        <link href="http://joeyh.name/blog/entry/the_slink_and_a_half_boxed_set/"/>
+        <title>the slink and a half boxed set</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2023-03-08T20:07:26+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-the-slink-and-a-half-boxed-set/</id>
     <content type="html">
         
     </content>
@@ -16914,6 +16890,30 @@
       </source>
 
     <id>https://news.cryptic.io/roy-van-rijn-from-wordle-to-nerdle/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>announcing zephyr-copilot</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2022-02-23T19:55:37+00:00</published>
+    <updated>2022-02-23T19:55:37+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-announcing-zephyrcopilot/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-announcing-zephyrcopilot/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/announcing_zephyr-copilot/</id>
+        <link href="http://joeyh.name/blog/entry/announcing_zephyr-copilot/"/>
+        <title>announcing zephyr-copilot</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2022-02-23T19:55:37+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-announcing-zephyrcopilot/</id>
     <content type="html">
         
     </content>
