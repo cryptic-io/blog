@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-01-05T14:25:00+00:00</updated>
+  <updated>2025-01-05T19:30:31+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Digital gardening</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2025-01-05T19:30:31+00:00</published>
+    <updated>2025-01-05T19:30:31+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-digital-gardening/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-digital-gardening/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/digital-gardening/</id>
+        <link href="https://robinrendle.com/notes/digital-gardening/"/>
+        <title>Digital gardening</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2025-01-05T19:30:31+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-digital-gardening/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Blog Questions Challenge</title>
         <author>
@@ -5738,30 +5762,6 @@
       </source>
 
     <id>https://news.cryptic.io/lucic-get-me-out-of-data-hell/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Disappearance of an Internet Domain</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-10-09T16:40:33+00:00</published>
-    <updated>2024-10-09T16:40:33+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-the-disappearance-of-an-internet-domain/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-the-disappearance-of-an-internet-domain/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/the-disappearance-of-an-internet-domain/</id>
-        <link href="https://robinrendle.com/notes/the-disappearance-of-an-internet-domain/"/>
-        <title>The Disappearance of an Internet Domain</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-10-09T16:40:33+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-the-disappearance-of-an-internet-domain/</id>
     <content type="html">
         
     </content>
