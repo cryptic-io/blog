@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-01-06T00:00:00+00:00</updated>
+  <updated>2025-01-06T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Push Notifications Are Organizational Marshmallows</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2025-01-06T19:00:00+00:00</published>
+    <updated>2025-01-06T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-push-notifications-are-organizational-marshmallows/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-push-notifications-are-organizational-marshmallows/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2025/notification-marshmallows/</id>
+        <link href="https://blog.jim-nielsen.com/2025/notification-marshmallows/"/>
+        <title>Push Notifications Are Organizational Marshmallows</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2025-01-06T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-push-notifications-are-organizational-marshmallows/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>They squandered the holy grail</title>
         <author>
@@ -3698,30 +3722,6 @@
       </source>
 
     <id>https://news.cryptic.io/justin-jackson-where-are-these-signups-coming-from/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Nothing Is Something</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-11-27T19:00:00+00:00</published>
-    <updated>2024-11-27T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-nothing-is-something/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-nothing-is-something/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/nothing-is-something/</id>
-        <link href="https://blog.jim-nielsen.com/2024/nothing-is-something/"/>
-        <title>Nothing Is Something</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-11-27T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-nothing-is-something/</id>
     <content type="html">
         
     </content>
