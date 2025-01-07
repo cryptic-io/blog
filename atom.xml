@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-01-06T19:00:00+00:00</updated>
+  <updated>2025-01-07T06:20:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A moment with some leftover Christmas spirit</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2025-01-07T06:20:00+00:00</published>
+    <updated>2025-01-07T06:20:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-with-some-leftover-christmas-spirit/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-with-some-leftover-christmas-spirit/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/8Zx2PABOYEMFcEFT</id>
+        <link href="https://manuelmoreale.com/@/page/8Zx2PABOYEMFcEFT"/>
+        <title>A moment with some leftover Christmas spirit</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2025-01-07T06:20:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-with-some-leftover-christmas-spirit/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Push Notifications Are Organizational Marshmallows</title>
         <author>
@@ -986,30 +1010,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-qrs-dotmatching-redux/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Kindness in a transactional world</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-12-29T19:50:00+00:00</published>
-    <updated>2024-12-29T19:50:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-kindness-in-a-transactional-world/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-kindness-in-a-transactional-world/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/stVqZccByYVbTemk</id>
-        <link href="https://manuelmoreale.com/@/page/stVqZccByYVbTemk"/>
-        <title>Kindness in a transactional world</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-12-29T19:50:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-kindness-in-a-transactional-world/</id>
     <content type="html">
         
     </content>
@@ -6559,6 +6559,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Philipp was annoyed</title>
+        <author>
+            <name>Philipp</name>
+        </author>
+    <published>2024-09-25T17:10:23+00:00</published>
+    <updated>2024-09-25T17:10:23+00:00</updated>
+    <link href="https://news.cryptic.io/philipp-philipp-was-annoyed/"/>
+    <link rel="alternate" href="https://news.cryptic.io/philipp-philipp-was-annoyed/" type="text/html"/>
+      <source>
+        <id>https://annoying.technology/posts/436fafccab9fbf2d/</id>
+        <link href="https://annoying.technology/posts/436fafccab9fbf2d/"/>
+        <title>Philipp was annoyed</title>
+        <author>
+            <name>Philipp</name>
+        </author>
+        <updated>2024-09-25T17:10:23+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/philipp-philipp-was-annoyed/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Neurodivergence and accountability in free software</title>
         <author>
             <name>Drew DeVault</name>
@@ -6602,30 +6626,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-refactoring-invariants/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Philipp was annoyed</title>
-        <author>
-            <name>Philipp</name>
-        </author>
-    <published>2024-09-24T17:05:17+00:00</published>
-    <updated>2024-09-24T17:05:17+00:00</updated>
-    <link href="https://news.cryptic.io/philipp-philipp-was-annoyed/"/>
-    <link rel="alternate" href="https://news.cryptic.io/philipp-philipp-was-annoyed/" type="text/html"/>
-      <source>
-        <id>https://annoying.technology/posts/8e22435c75d0263f/</id>
-        <link href="https://annoying.technology/posts/8e22435c75d0263f/"/>
-        <title>Philipp was annoyed</title>
-        <author>
-            <name>Philipp</name>
-        </author>
-        <updated>2024-09-24T17:05:17+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/philipp-philipp-was-annoyed/</id>
     <content type="html">
         
     </content>
