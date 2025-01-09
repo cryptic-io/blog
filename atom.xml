@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-01-09T08:00:24+00:00</updated>
+  <updated>2025-01-09T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Don’t Miss the Product for the Artifacts</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2025-01-09T19:00:00+00:00</published>
+    <updated>2025-01-09T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-dont-miss-the-product-for-the-artifacts/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-dont-miss-the-product-for-the-artifacts/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2025/dont-miss-the-product-for-the-artifacts/</id>
+        <link href="https://blog.jim-nielsen.com/2025/dont-miss-the-product-for-the-artifacts/"/>
+        <title>Don’t Miss the Product for the Artifacts</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2025-01-09T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-dont-miss-the-product-for-the-artifacts/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Who would buy a Raspberry Pi for $120?</title>
         <author>
@@ -2786,30 +2810,6 @@
       </source>
 
     <id>https://news.cryptic.io/allen-pike-the-talk-show-ep-415/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Introducing o(m)g:image</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2024-12-09T19:00:00+00:00</published>
-    <updated>2024-12-09T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-introducing-omgimage/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-introducing-omgimage/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2024/omgimg/</id>
-        <link href="https://blog.jim-nielsen.com/2024/omgimg/"/>
-        <title>Introducing o(m)g:image</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2024-12-09T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-introducing-omgimage/</id>
     <content type="html">
         
     </content>
