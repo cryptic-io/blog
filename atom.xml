@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-01-08T16:00:00+00:00</updated>
+  <updated>2025-01-09T08:00:24+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Who would buy a Raspberry Pi for $120?</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2025-01-09T08:00:24+00:00</published>
+    <updated>2025-01-09T08:00:24+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-who-would-buy-a-raspberry-pi-for-120/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-who-would-buy-a-raspberry-pi-for-120/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2025/who-would-buy-raspberry-pi-120</id>
+        <link href="https://www.jeffgeerling.com/blog/2025/who-would-buy-raspberry-pi-120"/>
+        <title>Who would buy a Raspberry Pi for $120?</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2025-01-09T08:00:24+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-who-would-buy-a-raspberry-pi-for-120/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A moment in a back alley</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2025-01-09T07:50:00+00:00</published>
+    <updated>2025-01-09T07:50:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-in-a-back-alley/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-in-a-back-alley/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/@/page/CLTZ0FvLFdwCojd8</id>
+        <link href="https://manuelmoreale.com/@/page/CLTZ0FvLFdwCojd8"/>
+        <title>A moment in a back alley</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2025-01-09T07:50:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-in-a-back-alley/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>2024 in Numbers</title>
         <author>
@@ -962,30 +1010,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-was-2024-a-good-year/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A solved Bluesky conundrum</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2024-12-31T16:40:00+00:00</published>
-    <updated>2024-12-31T16:40:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-solved-bluesky-conundrum/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-solved-bluesky-conundrum/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/@/page/XFA7wZzdtizePNyv</id>
-        <link href="https://manuelmoreale.com/@/page/XFA7wZzdtizePNyv"/>
-        <title>A solved Bluesky conundrum</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2024-12-31T16:40:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-solved-bluesky-conundrum/</id>
     <content type="html">
         
     </content>
@@ -3746,30 +3770,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-home-assistant-yellow-instant-2x-iot-speedup-with-cm5/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Raspberry Pi CM5 is 2-3x faster, drop-in upgrade (mostly)</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-11-27T08:00:12+00:00</published>
-    <updated>2024-11-27T08:00:12+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-raspberry-pi-cm5-is-23x-faster-dropin-upgrade-mostly/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-raspberry-pi-cm5-is-23x-faster-dropin-upgrade-mostly/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/raspberry-pi-cm5-2-3x-faster-drop-upgrade-mostly</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/raspberry-pi-cm5-2-3x-faster-drop-upgrade-mostly"/>
-        <title>Raspberry Pi CM5 is 2-3x faster, drop-in upgrade (mostly)</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-11-27T08:00:12+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-raspberry-pi-cm5-is-23x-faster-dropin-upgrade-mostly/</id>
     <content type="html">
         
     </content>
