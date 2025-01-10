@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-01-10T08:10:00+00:00</updated>
+  <updated>2025-01-10T10:16:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Meta’s moderation policy dismantling will hurt, but it can be good in the long run</title>
+        <author>
+            <name>Rodrigo Ghedin</name>
+        </author>
+    <published>2025-01-10T10:16:00+00:00</published>
+    <updated>2025-01-10T10:16:00+00:00</updated>
+    <link href="https://news.cryptic.io/rodrigo-ghedin-metas-moderation-policy-dismantling-will-hurt-but-it-can-be-good-in-the-long-run/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rodrigo-ghedin-metas-moderation-policy-dismantling-will-hurt-but-it-can-be-good-in-the-long-run/" type="text/html"/>
+      <source>
+        <id>https://notes.ghed.in/posts/2025/meta-dismantling-moderation/</id>
+        <link href="https://notes.ghed.in/posts/2025/meta-dismantling-moderation/"/>
+        <title>Meta’s moderation policy dismantling will hurt, but it can be good in the long run</title>
+        <author>
+            <name>Rodrigo Ghedin</name>
+        </author>
+        <updated>2025-01-10T10:16:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rodrigo-ghedin-metas-moderation-policy-dismantling-will-hurt-but-it-can-be-good-in-the-long-run/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A moment amongst the trees</title>
         <author>
@@ -290,30 +314,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-logic-for-programmers-project-update/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Album Of The Week: Ethel Cain Perverts</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2025-01-07T16:25:05+00:00</published>
-    <updated>2025-01-07T16:25:05+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-ethel-cain-perverts/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-ethel-cain-perverts/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2291585/ethel-cain-perverts/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2291585/ethel-cain-perverts/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Ethel Cain Perverts</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2025-01-07T16:25:05+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-ethel-cain-perverts/</id>
     <content type="html">
         
     </content>
@@ -842,6 +842,30 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-pauline-p-narvas/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>My very first Dungeons and Dragons campaign</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2025-01-03T04:00:00+00:00</published>
+    <updated>2025-01-03T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-my-very-first-dungeons-and-dragons-campaign/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-my-very-first-dungeons-and-dragons-campaign/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2025/01/03/dungeons-and-dragons/</id>
+        <link href="https://ounapuu.ee/posts/2025/01/03/dungeons-and-dragons/"/>
+        <title>My very first Dungeons and Dragons campaign</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2025-01-03T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-my-very-first-dungeons-and-dragons-campaign/</id>
     <content type="html">
         
     </content>
@@ -1783,6 +1807,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The IPv6 situation on Docker is good now!</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2024-12-20T17:30:00+00:00</published>
+    <updated>2024-12-20T17:30:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-ipv6-situation-on-docker-is-good-now/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-ipv6-situation-on-docker-is-good-now/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2024/12/20/docker-ipv6/</id>
+        <link href="https://ounapuu.ee/posts/2024/12/20/docker-ipv6/"/>
+        <title>The IPv6 situation on Docker is good now!</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2024-12-20T17:30:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-ipv6-situation-on-docker-is-good-now/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>De Honoris Numquam Satis: Reflections on Snobbery in Academia</title>
         <author>
             <name>Bastian Rieck</name>
@@ -2479,6 +2527,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>How to build a fleet of networked offsite backups using Linux, WireGuard and rsync</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2024-12-11T04:00:00+00:00</published>
+    <updated>2024-12-11T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-to-build-a-fleet-of-networked-offsite-backups-using-linux-wireguard-and-rsync/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-to-build-a-fleet-of-networked-offsite-backups-using-linux-wireguard-and-rsync/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2024/12/11/wireguard-backup-fleet/</id>
+        <link href="https://ounapuu.ee/posts/2024/12/11/wireguard-backup-fleet/"/>
+        <title>How to build a fleet of networked offsite backups using Linux, WireGuard and rsync</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2024-12-11T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-to-build-a-fleet-of-networked-offsite-backups-using-linux-wireguard-and-rsync/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Why are my best friends Jewish?</title>
         <author>
             <name>Derek Sivers</name>
@@ -2546,30 +2618,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-raspberry-pi-500-uses-qmk-firmware-for-builtin-keyboard/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Album Of The Week: Whispers Yom-Ma-Lok</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-12-10T14:46:13+00:00</published>
-    <updated>2024-12-10T14:46:13+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-whispers-yommalok/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-whispers-yommalok/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2290044/album-of-the-week-whispers-yom-ma-lok/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2290044/album-of-the-week-whispers-yom-ma-lok/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Whispers Yom-Ma-Lok</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-12-10T14:46:13+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-whispers-yommalok/</id>
     <content type="html">
         
     </content>
@@ -3127,30 +3175,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Album Of The Week: Advance Base Horrible Occurrences</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-12-03T16:20:38+00:00</published>
-    <updated>2024-12-03T16:20:38+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-advance-base-horrible-occurrences/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-advance-base-horrible-occurrences/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2289330/advance-base-horrible-occurrences/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2289330/advance-base-horrible-occurrences/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Advance Base Horrible Occurrences</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-12-03T16:20:38+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-advance-base-horrible-occurrences/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>busiless: A Simple Task Tracking and Auto-Prioritization Tool</title>
         <author>
             <name>mediocregopher</name>
@@ -3314,6 +3338,30 @@
       </source>
 
     <id>https://news.cryptic.io/james-brown-life-updates-2024/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>What I&#x27;ve learned running Linux and Windows off of USB flash drives</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2024-12-02T04:00:00+00:00</published>
+    <updated>2024-12-02T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-what-ive-learned-running-linux-and-windows-off-of-usb-flash-drives/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-what-ive-learned-running-linux-and-windows-off-of-usb-flash-drives/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2024/12/02/linux-on-usb/</id>
+        <link href="https://ounapuu.ee/posts/2024/12/02/linux-on-usb/"/>
+        <title>What I&#x27;ve learned running Linux and Windows off of USB flash drives</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2024-12-02T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-what-ive-learned-running-linux-and-windows-off-of-usb-flash-drives/</id>
     <content type="html">
         
     </content>
@@ -3799,30 +3847,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Album Of The Week: Good Morning The Accident</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-11-26T15:13:07+00:00</published>
-    <updated>2024-11-26T15:13:07+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-good-morning-the-accident/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-good-morning-the-accident/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2288717/good-morning-the-accident/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2288717/good-morning-the-accident/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Good Morning The Accident</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-11-26T15:13:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-good-morning-the-accident/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>I love the contradiction of religions</title>
         <author>
             <name>Derek Sivers</name>
@@ -4063,6 +4087,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>You can use almost anything as a key file for your encrypted storage device</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2024-11-20T04:00:00+00:00</published>
+    <updated>2024-11-20T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-you-can-use-almost-anything-as-a-key-file-for-your-encrypted-storage-device/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-you-can-use-almost-anything-as-a-key-file-for-your-encrypted-storage-device/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2024/11/20/keyfiles/</id>
+        <link href="https://ounapuu.ee/posts/2024/11/20/keyfiles/"/>
+        <title>You can use almost anything as a key file for your encrypted storage device</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2024-11-20T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-you-can-use-almost-anything-as-a-key-file-for-your-encrypted-storage-device/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Hyperproperties</title>
         <author>
             <name>Hillel Wayne</name>
@@ -4082,30 +4130,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-hyperproperties/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Album Of The Week: Father John Misty Mahashmashana</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-11-19T18:25:11+00:00</published>
-    <updated>2024-11-19T18:25:11+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-father-john-misty-mahashmashana/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-father-john-misty-mahashmashana/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2287469/father-john-misty-mahashmashana/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2287469/father-john-misty-mahashmashana/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Father John Misty Mahashmashana</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-11-19T18:25:11+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-father-john-misty-mahashmashana/</id>
     <content type="html">
         
     </content>
@@ -4543,30 +4567,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Album Of The Week: Maxo Kream Personification</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-11-12T15:36:45+00:00</published>
-    <updated>2024-11-12T15:36:45+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-maxo-kream-personification/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-maxo-kream-personification/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2286848/album-of-the-week-maxo-kream-personificiation/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2286848/album-of-the-week-maxo-kream-personificiation/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Maxo Kream Personification</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-11-12T15:36:45+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-maxo-kream-personification/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Rats are surprisingly sweet pets</title>
         <author>
             <name>Derek Sivers</name>
@@ -4682,6 +4682,30 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-tv-in-2024/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Your Wi-Fi might be terrible because of Dynamic Frequency Selection (DFS)</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2024-11-11T04:00:00+00:00</published>
+    <updated>2024-11-11T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-your-wifi-might-be-terrible-because-of-dynamic-frequency-selection-dfs/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-your-wifi-might-be-terrible-because-of-dynamic-frequency-selection-dfs/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2024/11/11/openwrt-dfs/</id>
+        <link href="https://ounapuu.ee/posts/2024/11/11/openwrt-dfs/"/>
+        <title>Your Wi-Fi might be terrible because of Dynamic Frequency Selection (DFS)</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2024-11-11T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-your-wifi-might-be-terrible-because-of-dynamic-frequency-selection-dfs/</id>
     <content type="html">
         
     </content>
@@ -4927,30 +4951,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Album Of The Week: The Body The Crying Out Of Things</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-11-05T14:42:33+00:00</published>
-    <updated>2024-11-05T14:42:33+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-the-body-the-crying-out-of-things/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-the-body-the-crying-out-of-things/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2286340/album-of-the-week-the-body-the-crying-out-of-things/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2286340/album-of-the-week-the-body-the-crying-out-of-things/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: The Body The Crying Out Of Things</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-11-05T14:42:33+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-the-body-the-crying-out-of-things/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Heads or Tails</title>
         <author>
             <name>andersource</name>
@@ -5119,6 +5119,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>The best laptop is the one somebody else had</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2024-11-01T04:00:00+00:00</published>
+    <updated>2024-11-01T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-best-laptop-is-the-one-somebody-else-had/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-best-laptop-is-the-one-somebody-else-had/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2024/11/01/the-best-laptop/</id>
+        <link href="https://ounapuu.ee/posts/2024/11/01/the-best-laptop/"/>
+        <title>The best laptop is the one somebody else had</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2024-11-01T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-best-laptop-is-the-one-somebody-else-had/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Maintenance is Underestimated</title>
         <author>
             <name>Bastian Rieck</name>
@@ -5186,30 +5210,6 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-sloth-was-not-the-right-answer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Album Of The Week: Mount Eerie Night Palace</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-10-29T15:20:43+00:00</published>
-    <updated>2024-10-29T15:20:43+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-mount-eerie-night-palace/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-mount-eerie-night-palace/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2285485/mount-eerie-night-palace/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2285485/mount-eerie-night-palace/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Mount Eerie Night Palace</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-10-29T15:20:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-mount-eerie-night-palace/</id>
     <content type="html">
         
     </content>
@@ -5455,30 +5455,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Album Of The Week: Two Shell Two Shell</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-    <published>2024-10-22T16:10:22+00:00</published>
-    <updated>2024-10-22T16:10:22+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-two-shell-two-shell/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-two-shell-two-shell/" type="text/html"/>
-      <source>
-        <id>https://www.stereogum.com/2284770/two-shell-debut-album/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2284770/two-shell-debut-album/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Two Shell Two Shell</title>
-        <author>
-            <name>Stereogum</name>
-        </author>
-        <updated>2024-10-22T16:10:22+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-two-shell-two-shell/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Requiem for Raghavan</title>
         <author>
             <name>Ed Zitron</name>
@@ -5719,25 +5695,25 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Album Of The Week: Christopher Owens I Wanna Run Barefoot Through Your Hair</title>
+    <title>ThinkPad as a server: third time&#x27;s the charm</title>
         <author>
-            <name>Stereogum</name>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
         </author>
-    <published>2024-10-15T20:41:49+00:00</published>
-    <updated>2024-10-15T20:41:49+00:00</updated>
-    <link href="https://news.cryptic.io/stereogum-album-of-the-week-christopher-owens-i-wanna-run-barefoot-through-your-hair/"/>
-    <link rel="alternate" href="https://news.cryptic.io/stereogum-album-of-the-week-christopher-owens-i-wanna-run-barefoot-through-your-hair/" type="text/html"/>
+    <published>2024-10-16T03:00:00+00:00</published>
+    <updated>2024-10-16T03:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-thinkpad-as-a-server-third-times-the-charm/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-thinkpad-as-a-server-third-times-the-charm/" type="text/html"/>
       <source>
-        <id>https://www.stereogum.com/2283969/christopher-owens-i-wanna-run-barefoot-through-your-hair/reviews/album-of-the-week/</id>
-        <link href="https://www.stereogum.com/2283969/christopher-owens-i-wanna-run-barefoot-through-your-hair/reviews/album-of-the-week/"/>
-        <title>Album Of The Week: Christopher Owens I Wanna Run Barefoot Through Your Hair</title>
+        <id>https://ounapuu.ee/posts/2024/10/16/third-times-the-charm/</id>
+        <link href="https://ounapuu.ee/posts/2024/10/16/third-times-the-charm/"/>
+        <title>ThinkPad as a server: third time&#x27;s the charm</title>
         <author>
-            <name>Stereogum</name>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
         </author>
-        <updated>2024-10-15T20:41:49+00:00</updated>
+        <updated>2024-10-16T03:00:00+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/stereogum-album-of-the-week-christopher-owens-i-wanna-run-barefoot-through-your-hair/</id>
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-thinkpad-as-a-server-third-times-the-charm/</id>
     <content type="html">
         
     </content>
@@ -5786,6 +5762,30 @@
       </source>
 
     <id>https://news.cryptic.io/herman-on-being-a-great-giftgiver/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Fedora Linux starter pack: everything you need for a smooth experience</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2024-10-14T03:00:00+00:00</published>
+    <updated>2024-10-14T03:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-fedora-linux-starter-pack-everything-you-need-for-a-smooth-experience/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-fedora-linux-starter-pack-everything-you-need-for-a-smooth-experience/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2024/10/14/fedora-starter-pack/</id>
+        <link href="https://ounapuu.ee/posts/2024/10/14/fedora-starter-pack/"/>
+        <title>The Fedora Linux starter pack: everything you need for a smooth experience</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2024-10-14T03:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-fedora-linux-starter-pack-everything-you-need-for-a-smooth-experience/</id>
     <content type="html">
         
     </content>
@@ -6386,6 +6386,30 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-ad-hoc-tools-for-gathering-prompt-context/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>So you want to migrate to Kubernetes: observations from a software developer</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+    <published>2024-10-01T03:00:00+00:00</published>
+    <updated>2024-10-01T03:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-so-you-want-to-migrate-to-kubernetes-observations-from-a-software-developer/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-so-you-want-to-migrate-to-kubernetes-observations-from-a-software-developer/" type="text/html"/>
+      <source>
+        <id>https://ounapuu.ee/posts/2024/10/01/kubernetes/</id>
+        <link href="https://ounapuu.ee/posts/2024/10/01/kubernetes/"/>
+        <title>So you want to migrate to Kubernetes: observations from a software developer</title>
+        <author>
+            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
+        </author>
+        <updated>2024-10-01T03:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-so-you-want-to-migrate-to-kubernetes-observations-from-a-software-developer/</id>
     <content type="html">
         
     </content>
@@ -9530,30 +9554,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-perfectionism-is-optimizing-at-the-wrong-scale/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>If your really think about it, every single…</title>
-        <author>
-            <name>Rodrigo Ghedin</name>
-        </author>
-    <published>2024-06-15T13:59:00+00:00</published>
-    <updated>2024-06-15T13:59:00+00:00</updated>
-    <link href="https://news.cryptic.io/rodrigo-ghedin-if-your-really-think-about-it-every-single/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rodrigo-ghedin-if-your-really-think-about-it-every-single/" type="text/html"/>
-      <source>
-        <id>https://notes.ghed.in/posts/2024/spreadsheets-plain-text-editors-todo-lists/</id>
-        <link href="https://notes.ghed.in/posts/2024/spreadsheets-plain-text-editors-todo-lists/"/>
-        <title>If your really think about it, every single…</title>
-        <author>
-            <name>Rodrigo Ghedin</name>
-        </author>
-        <updated>2024-06-15T13:59:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rodrigo-ghedin-if-your-really-think-about-it-every-single/</id>
     <content type="html">
         
     </content>
