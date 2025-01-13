@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-01-13T07:01:00+00:00</updated>
+  <updated>2025-01-13T09:27:46+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>I can’t believe how bad the Substack UX is</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+    <published>2025-01-13T09:27:46+00:00</published>
+    <updated>2025-01-13T09:27:46+00:00</updated>
+    <link href="https://news.cryptic.io/john-whiles-i-cant-believe-how-bad-the-substack-ux-is/"/>
+    <link rel="alternate" href="https://news.cryptic.io/john-whiles-i-cant-believe-how-bad-the-substack-ux-is/" type="text/html"/>
+      <source>
+        <id>https://johnwhiles.com/posts/substack-ux</id>
+        <link href="https://johnwhiles.com/posts/substack-ux"/>
+        <title>I can’t believe how bad the Substack UX is</title>
+        <author>
+            <name>John Whiles</name>
+        </author>
+        <updated>2025-01-13T09:27:46+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/john-whiles-i-cant-believe-how-bad-the-substack-ux-is/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Bear Blog question challenge</title>
         <author>
@@ -12050,30 +12074,6 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-lethargy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Please add an RSS feed to your website</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-    <published>2024-02-02T13:05:00+00:00</published>
-    <updated>2024-02-02T13:05:00+00:00</updated>
-    <link href="https://news.cryptic.io/john-whiles-please-add-an-rss-feed-to-your-website/"/>
-    <link rel="alternate" href="https://news.cryptic.io/john-whiles-please-add-an-rss-feed-to-your-website/" type="text/html"/>
-      <source>
-        <id>https://johnwhiles.com/posts/rss-feeds</id>
-        <link href="https://johnwhiles.com/posts/rss-feeds"/>
-        <title>Please add an RSS feed to your website</title>
-        <author>
-            <name>John Whiles</name>
-        </author>
-        <updated>2024-02-02T13:05:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/john-whiles-please-add-an-rss-feed-to-your-website/</id>
     <content type="html">
         
     </content>
