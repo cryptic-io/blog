@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-01-16T14:30:00+00:00</updated>
+  <updated>2025-01-16T16:44:26+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Work is just work</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2025-01-16T16:44:26+00:00</published>
+    <updated>2025-01-16T16:44:26+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-work-is-just-work/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-work-is-just-work/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/work/</id>
+        <link href="https://robinrendle.com/notes/work/"/>
+        <title>Work is just work</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2025-01-16T16:44:26+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-work-is-just-work/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>DJ Peah (でぃーじぇい・ぺー): DJ Peah (でぃーじぇい・ぺー) (1994)</title>
         <author>
@@ -98,6 +122,30 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-i-am-offering-mentoring/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Thinking About Risk: Sidebar #2: The Swiss Cheese Model</title>
+        <author>
+            <name>Jacob Kaplan-Moss</name>
+        </author>
+    <published>2025-01-16T00:00:00+00:00</published>
+    <updated>2025-01-16T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jacob-kaplanmoss-thinking-about-risk-sidebar-2-the-swiss-cheese-model/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jacob-kaplanmoss-thinking-about-risk-sidebar-2-the-swiss-cheese-model/" type="text/html"/>
+      <source>
+        <id>https://jacobian.org/2025/jan/16/swiss-cheese-model/</id>
+        <link href="https://jacobian.org/2025/jan/16/swiss-cheese-model/"/>
+        <title>Thinking About Risk: Sidebar #2: The Swiss Cheese Model</title>
+        <author>
+            <name>Jacob Kaplan-Moss</name>
+        </author>
+        <updated>2025-01-16T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jacob-kaplanmoss-thinking-about-risk-sidebar-2-the-swiss-cheese-model/</id>
     <content type="html">
         
     </content>
@@ -4538,30 +4586,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-forced-to-upgrade/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Safety and stability</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-11-27T04:41:34+00:00</published>
-    <updated>2024-11-27T04:41:34+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-safety-and-stability/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-safety-and-stability/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/safety-and-stability/</id>
-        <link href="https://robinrendle.com/notes/safety-and-stability/"/>
-        <title>Safety and stability</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-11-27T04:41:34+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-safety-and-stability/</id>
     <content type="html">
         
     </content>
@@ -11186,30 +11210,6 @@
       </source>
 
     <id>https://news.cryptic.io/filippo-valsorda-my-maintenance-policy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Why I&#x27;m Not Writing a Productivity Series</title>
-        <author>
-            <name>Jacob Kaplan-Moss</name>
-        </author>
-    <published>2024-04-04T00:00:00+00:00</published>
-    <updated>2024-04-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jacob-kaplanmoss-why-im-not-writing-a-productivity-series/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jacob-kaplanmoss-why-im-not-writing-a-productivity-series/" type="text/html"/>
-      <source>
-        <id>https://jacobian.org/2024/apr/4/not-writing-about-productivity/</id>
-        <link href="https://jacobian.org/2024/apr/4/not-writing-about-productivity/"/>
-        <title>Why I&#x27;m Not Writing a Productivity Series</title>
-        <author>
-            <name>Jacob Kaplan-Moss</name>
-        </author>
-        <updated>2024-04-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jacob-kaplanmoss-why-im-not-writing-a-productivity-series/</id>
     <content type="html">
         
     </content>
