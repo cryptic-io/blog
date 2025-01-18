@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-01-18T11:20:00+00:00</updated>
+  <updated>2025-01-18T16:26:02+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Goodbye Salesforce, hello Socket</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+    <published>2025-01-18T16:26:02+00:00</published>
+    <updated>2025-01-18T16:26:02+00:00</updated>
+    <link href="https://news.cryptic.io/nolan-lawson-goodbye-salesforce-hello-socket/"/>
+    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-goodbye-salesforce-hello-socket/" type="text/html"/>
+      <source>
+        <id>https://nolanlawson.com/2025/01/18/goodbye-salesforce-hello-socket/</id>
+        <link href="https://nolanlawson.com/2025/01/18/goodbye-salesforce-hello-socket/"/>
+        <title>Goodbye Salesforce, hello Socket</title>
+        <author>
+            <name>Nolan Lawson</name>
+        </author>
+        <updated>2025-01-18T16:26:02+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/nolan-lawson-goodbye-salesforce-hello-socket/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Read.cv and Posts sold to Perplexity; will be closed soon</title>
         <author>
@@ -11786,30 +11810,6 @@
       </source>
 
     <id>https://news.cryptic.io/degrowther-plants-the-planting-and-eating-thereof/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Bugs I’ve filed on browsers</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-    <published>2024-03-03T23:02:22+00:00</published>
-    <updated>2024-03-03T23:02:22+00:00</updated>
-    <link href="https://news.cryptic.io/nolan-lawson-bugs-ive-filed-on-browsers/"/>
-    <link rel="alternate" href="https://news.cryptic.io/nolan-lawson-bugs-ive-filed-on-browsers/" type="text/html"/>
-      <source>
-        <id>https://nolanlawson.com/2024/03/03/bugs-ive-filed-on-browsers/</id>
-        <link href="https://nolanlawson.com/2024/03/03/bugs-ive-filed-on-browsers/"/>
-        <title>Bugs I’ve filed on browsers</title>
-        <author>
-            <name>Nolan Lawson</name>
-        </author>
-        <updated>2024-03-03T23:02:22+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/nolan-lawson-bugs-ive-filed-on-browsers/</id>
     <content type="html">
         
     </content>
