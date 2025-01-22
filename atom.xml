@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-01-22T12:00:00+00:00</updated>
+  <updated>2025-01-22T17:45:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Awful people are everywhere</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2025-01-22T17:45:00+00:00</published>
+    <updated>2025-01-22T17:45:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-awful-people-are-everywhere/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-awful-people-are-everywhere/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/awful-people-are-everywhere</id>
+        <link href="https://manuelmoreale.com/awful-people-are-everywhere"/>
+        <title>Awful people are everywhere</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2025-01-22T17:45:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-awful-people-are-everywhere/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Panning for Tunes (Jan 2025 Edition)</title>
         <author>
@@ -1274,30 +1298,6 @@
       </source>
 
     <id>https://news.cryptic.io/maggie-appleton-common-misconceptions-in-ai/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Toscana</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2025-01-12T13:40:00+00:00</published>
-    <updated>2025-01-12T13:40:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-toscana/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-toscana/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/toscana</id>
-        <link href="https://manuelmoreale.com/toscana"/>
-        <title>Toscana</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2025-01-12T13:40:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-toscana/</id>
     <content type="html">
         
     </content>
