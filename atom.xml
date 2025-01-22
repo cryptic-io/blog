@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-01-22T17:45:00+00:00</updated>
+  <updated>2025-01-22T18:50:40+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>The Juggler&#x27;s Curse</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2025-01-22T18:50:40+00:00</published>
+    <updated>2025-01-22T18:50:40+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-the-jugglers-curse/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-the-jugglers-curse/" type="text/html"/>
+      <source>
+        <id>https://buttondown.com/hillelwayne/archive/the-jugglers-curse/</id>
+        <link href="https://buttondown.com/hillelwayne/archive/the-jugglers-curse/"/>
+        <title>The Juggler&#x27;s Curse</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2025-01-22T18:50:40+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-the-jugglers-curse/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Awful people are everywhere</title>
         <author>
@@ -6746,30 +6770,6 @@
       </source>
 
     <id>https://news.cryptic.io/filippo-valsorda-accumulated-test-vectors/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to convince engineers that formal methods is cool</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-10-08T16:18:55+00:00</published>
-    <updated>2024-10-08T16:18:55+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-how-to-convince-engineers-that-formal-methods-is-cool/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-how-to-convince-engineers-that-formal-methods-is-cool/" type="text/html"/>
-      <source>
-        <id>https://buttondown.com/hillelwayne/archive/how-to-convince-engineers-that-formal-methods-is/</id>
-        <link href="https://buttondown.com/hillelwayne/archive/how-to-convince-engineers-that-formal-methods-is/"/>
-        <title>How to convince engineers that formal methods is cool</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-10-08T16:18:55+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-how-to-convince-engineers-that-formal-methods-is-cool/</id>
     <content type="html">
         
     </content>
