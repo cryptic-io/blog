@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-01-23T07:25:00+00:00</updated>
+  <updated>2025-01-23T12:05:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Screen time and face-to-face conversation</title>
+        <author>
+            <name>Rodrigo Ghedin</name>
+        </author>
+    <published>2025-01-23T12:05:00+00:00</published>
+    <updated>2025-01-23T12:05:00+00:00</updated>
+    <link href="https://news.cryptic.io/rodrigo-ghedin-screen-time-and-facetoface-conversation/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rodrigo-ghedin-screen-time-and-facetoface-conversation/" type="text/html"/>
+      <source>
+        <id>https://notes.ghed.in/posts/2025/screen-time/</id>
+        <link href="https://notes.ghed.in/posts/2025/screen-time/"/>
+        <title>Screen time and face-to-face conversation</title>
+        <author>
+            <name>Rodrigo Ghedin</name>
+        </author>
+        <updated>2025-01-23T12:05:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rodrigo-ghedin-screen-time-and-facetoface-conversation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Modern discourse</title>
         <author>
@@ -122,30 +146,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-awful-people-are-everywhere/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Panning for Tunes (Jan 2025 Edition)</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2025-01-22T12:00:00+00:00</published>
-    <updated>2025-01-22T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-panning-for-tunes-jan-2025-edition/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-panning-for-tunes-jan-2025-edition/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/treasures/2025-01-music.gmi</id>
-        <link href="https://mediocregopher.com/treasures/2025-01-music.gmi"/>
-        <title>Panning for Tunes (Jan 2025 Edition)</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2025-01-22T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-panning-for-tunes-jan-2025-edition/</id>
     <content type="html">
         
     </content>
@@ -2023,30 +2023,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Owning It</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-    <published>2025-01-05T23:58:00+00:00</published>
-    <updated>2025-01-05T23:58:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthias-ott-owning-it/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-owning-it/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/owning-it</id>
-        <link href="https://matthiasott.com/notes/owning-it"/>
-        <title>Owning It</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-        <updated>2025-01-05T23:58:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthias-ott-owning-it/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Digital gardening</title>
         <author>
             <name>Robin Rendle</name>
@@ -3199,30 +3175,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Isle Release v0.0.3 (Alpha) - Multiple networks, CLI configuration, oh my!</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2024-12-19T12:00:00+00:00</published>
-    <updated>2024-12-19T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-isle-release-v003-alpha-multiple-networks-cli-configuration-oh-my/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-isle-release-v003-alpha-multiple-networks-cli-configuration-oh-my/" type="text/html"/>
-      <source>
-        <id>https://micropelago.net/isle/releases/v0.0.3/</id>
-        <link href="https://micropelago.net/isle/releases/v0.0.3/"/>
-        <title>Isle Release v0.0.3 (Alpha) - Multiple networks, CLI configuration, oh my!</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2024-12-19T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-isle-release-v003-alpha-multiple-networks-cli-configuration-oh-my/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Things to argue about over the holidays instead of politics III</title>
         <author>
             <name>dynomight</name>
@@ -4351,30 +4303,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Torquato Tasso, and other works from Goethe (1790)</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2024-12-05T12:00:00+00:00</published>
-    <updated>2024-12-05T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-torquato-tasso-and-other-works-from-goethe-1790/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-torquato-tasso-and-other-works-from-goethe-1790/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/critiques/1790-torquato-tasso.gmi</id>
-        <link href="https://mediocregopher.com/critiques/1790-torquato-tasso.gmi"/>
-        <title>Torquato Tasso, and other works from Goethe (1790)</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2024-12-05T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-torquato-tasso-and-other-works-from-goethe-1790/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Objectos-crônica</title>
         <author>
             <name>CRISTÓBAL SCIUTTO</name>
@@ -4538,30 +4466,6 @@
       </source>
 
     <id>https://news.cryptic.io/stereogum-album-of-the-week-advance-base-horrible-occurrences/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>busiless: A Simple Task Tracking and Auto-Prioritization Tool</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2024-12-03T12:00:00+00:00</published>
-    <updated>2024-12-03T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-busiless-a-simple-task-tracking-and-autoprioritization-tool/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-busiless-a-simple-task-tracking-and-autoprioritization-tool/" type="text/html"/>
-      <source>
-        <id>https://dev.mediocregopher.com/busiless/</id>
-        <link href="https://dev.mediocregopher.com/busiless/"/>
-        <title>busiless: A Simple Task Tracking and Auto-Prioritization Tool</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2024-12-03T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-busiless-a-simple-task-tracking-and-autoprioritization-tool/</id>
     <content type="html">
         
     </content>
@@ -5263,30 +5167,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Free Audio Plugins: Accusonus ERA 6 Bundle</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-    <published>2024-11-21T22:54:00+00:00</published>
-    <updated>2024-11-21T22:54:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthias-ott-free-audio-plugins-accusonus-era-6-bundle/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-free-audio-plugins-accusonus-era-6-bundle/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/free-audio-plugins-accusonus-era-6-bundle</id>
-        <link href="https://matthiasott.com/notes/free-audio-plugins-accusonus-era-6-bundle"/>
-        <title>Free Audio Plugins: Accusonus ERA 6 Bundle</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-        <updated>2024-11-21T22:54:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthias-ott-free-audio-plugins-accusonus-era-6-bundle/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>OK, I can partly explain the LLM chess weirdness now</title>
         <author>
             <name>dynomight</name>
@@ -5570,30 +5450,6 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-he-hanged-himself-in-the-morning/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How Much Faster is Passing-by-Pointer in Go?</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2024-11-14T12:00:00+00:00</published>
-    <updated>2024-11-14T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-how-much-faster-is-passingbypointer-in-go/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-how-much-faster-is-passingbypointer-in-go/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/lab/golang-stack-vs-heap/</id>
-        <link href="https://mediocregopher.com/lab/golang-stack-vs-heap/"/>
-        <title>How Much Faster is Passing-by-Pointer in Go?</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2024-11-14T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-how-much-faster-is-passingbypointer-in-go/</id>
     <content type="html">
         
     </content>
@@ -5983,30 +5839,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>I Built a Table for My Record Player</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2024-11-07T12:00:00+00:00</published>
-    <updated>2024-11-07T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-i-built-a-table-for-my-record-player/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-i-built-a-table-for-my-record-player/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/workshop/record-player-table/</id>
-        <link href="https://mediocregopher.com/workshop/record-player-table/"/>
-        <title>I Built a Table for My Record Player</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2024-11-07T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-i-built-a-table-for-my-record-player/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How I build things</title>
         <author>
             <name>herman</name>
@@ -6242,54 +6074,6 @@
       </source>
 
     <id>https://news.cryptic.io/ed-zitron-the-cult-of-microsoft/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>CHANGELOG: Inlined Images Site-wide</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2024-11-01T12:00:00+00:00</published>
-    <updated>2024-11-01T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-changelog-inlined-images-sitewide/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-changelog-inlined-images-sitewide/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/changelogs/2024-11-01.gmi</id>
-        <link href="https://mediocregopher.com/changelogs/2024-11-01.gmi"/>
-        <title>CHANGELOG: Inlined Images Site-wide</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2024-11-01T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-changelog-inlined-images-sitewide/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to Set Your Domain as Your Bluesky Handle</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-    <published>2024-11-01T07:14:00+00:00</published>
-    <updated>2024-11-01T07:14:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthias-ott-how-to-set-your-domain-as-your-bluesky-handle/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-how-to-set-your-domain-as-your-bluesky-handle/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/how-to-set-your-domain-as-your-bluesky-handle</id>
-        <link href="https://matthiasott.com/notes/how-to-set-your-domain-as-your-bluesky-handle"/>
-        <title>How to Set Your Domain as Your Bluesky Handle</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-        <updated>2024-11-01T07:14:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthias-ott-how-to-set-your-domain-as-your-bluesky-handle/</id>
     <content type="html">
         
     </content>
@@ -7855,30 +7639,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Matt Mullenweg needs to step down from WordPress.org leadership ASAP</title>
-        <author>
-            <name>Rodrigo Ghedin</name>
-        </author>
-    <published>2024-09-22T20:59:00+00:00</published>
-    <updated>2024-09-22T20:59:00+00:00</updated>
-    <link href="https://news.cryptic.io/rodrigo-ghedin-matt-mullenweg-needs-to-step-down-from-wordpressorg-leadership-asap/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rodrigo-ghedin-matt-mullenweg-needs-to-step-down-from-wordpressorg-leadership-asap/" type="text/html"/>
-      <source>
-        <id>https://notes.ghed.in/posts/2024/matt-mullenweg-wp-engine-debacle/</id>
-        <link href="https://notes.ghed.in/posts/2024/matt-mullenweg-wp-engine-debacle/"/>
-        <title>Matt Mullenweg needs to step down from WordPress.org leadership ASAP</title>
-        <author>
-            <name>Rodrigo Ghedin</name>
-        </author>
-        <updated>2024-09-22T20:59:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rodrigo-ghedin-matt-mullenweg-needs-to-step-down-from-wordpressorg-leadership-asap/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>John Recommends: B.P.R.D. Humble Bundle</title>
         <author>
             <name>John Whiles</name>
@@ -8018,30 +7778,6 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-the-continuing-tragedy-of-emoji-on-the-web/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>New Section Added: 🫶 Donation Station - All people&#x2F;orgs I have recurring donations to</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2024-09-17T12:00:00+00:00</published>
-    <updated>2024-09-17T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-new-section-added-donation-station-all-peopleorgs-i-have-recurring-donations-to/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-new-section-added-donation-station-all-peopleorgs-i-have-recurring-donations-to/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/donations.gmi</id>
-        <link href="https://mediocregopher.com/donations.gmi"/>
-        <title>New Section Added: 🫶 Donation Station - All people&#x2F;orgs I have recurring donations to</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2024-09-17T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-new-section-added-donation-station-all-peopleorgs-i-have-recurring-donations-to/</id>
     <content type="html">
         
     </content>
@@ -8522,30 +8258,6 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-live-cms-previews-with-sanity-and-eleventy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Movie Review: Alien: Romulus (No Spoilers)</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2024-08-26T12:00:00+00:00</published>
-    <updated>2024-08-26T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-movie-review-alien-romulus-no-spoilers/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-movie-review-alien-romulus-no-spoilers/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/critiques/2024-alien-romulus.gmi</id>
-        <link href="https://mediocregopher.com/critiques/2024-alien-romulus.gmi"/>
-        <title>Movie Review: Alien: Romulus (No Spoilers)</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2024-08-26T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-movie-review-alien-romulus-no-spoilers/</id>
     <content type="html">
         
     </content>
@@ -9890,30 +9602,6 @@
       </source>
 
     <id>https://news.cryptic.io/degrowther-i-remain-bearish-on-the-eventual-invention-of-general-ai/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Highlighting Blogging on Mastodon</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-    <published>2024-07-02T22:27:00+00:00</published>
-    <updated>2024-07-02T22:27:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthias-ott-highlighting-blogging-on-mastodon/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-highlighting-blogging-on-mastodon/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/highlighting-blogging-on-mastodon</id>
-        <link href="https://matthiasott.com/notes/highlighting-blogging-on-mastodon"/>
-        <title>Highlighting Blogging on Mastodon</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-        <updated>2024-07-02T22:27:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthias-ott-highlighting-blogging-on-mastodon/</id>
     <content type="html">
         
     </content>
@@ -11647,30 +11335,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Fixing the Logitech Spotlight</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-    <published>2024-03-19T22:28:00+00:00</published>
-    <updated>2024-03-19T22:28:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthias-ott-fixing-the-logitech-spotlight/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-fixing-the-logitech-spotlight/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/fixing-the-logitech-spotlight</id>
-        <link href="https://matthiasott.com/notes/fixing-the-logitech-spotlight"/>
-        <title>Fixing the Logitech Spotlight</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-        <updated>2024-03-19T22:28:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthias-ott-fixing-the-logitech-spotlight/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>policy on adding AI generated content to my software projects</title>
         <author>
             <name>Joey Hess</name>
@@ -11719,30 +11383,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Making Own Your Web More Sustainable</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-    <published>2024-03-16T00:21:41+00:00</published>
-    <updated>2024-03-16T00:21:41+00:00</updated>
-    <link href="https://news.cryptic.io/matthias-ott-making-own-your-web-more-sustainable/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-making-own-your-web-more-sustainable/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/making-own-your-web-more-sustainable</id>
-        <link href="https://matthiasott.com/notes/making-own-your-web-more-sustainable"/>
-        <title>Making Own Your Web More Sustainable</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-        <updated>2024-03-16T00:21:41+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthias-ott-making-own-your-web-more-sustainable/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How web bloat impacts users with slow devices</title>
         <author>
             <name>Dan Luu</name>
@@ -11786,54 +11426,6 @@
       </source>
 
     <id>https://news.cryptic.io/degrowther-python-question-argv-in-main/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Welcome to the IndieWeb</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-    <published>2024-03-14T16:36:43+00:00</published>
-    <updated>2024-03-14T16:36:43+00:00</updated>
-    <link href="https://news.cryptic.io/matthias-ott-welcome-to-the-indieweb/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-welcome-to-the-indieweb/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/welcome-to-the-indieweb</id>
-        <link href="https://matthiasott.com/notes/welcome-to-the-indieweb"/>
-        <title>Welcome to the IndieWeb</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-        <updated>2024-03-14T16:36:43+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthias-ott-welcome-to-the-indieweb/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Links Worth Sharing</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-    <published>2024-03-14T16:33:00+00:00</published>
-    <updated>2024-03-14T16:33:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthias-ott-links-worth-sharing/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-links-worth-sharing/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/links-worth-sharing</id>
-        <link href="https://matthiasott.com/notes/links-worth-sharing"/>
-        <title>Links Worth Sharing</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-        <updated>2024-03-14T16:33:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthias-ott-links-worth-sharing/</id>
     <content type="html">
         
     </content>
@@ -12218,30 +11810,6 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-another-quick-riff-on-narrative-strategy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>We ❤️ RSS</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-    <published>2024-02-14T15:45:00+00:00</published>
-    <updated>2024-02-14T15:45:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthias-ott-we-rss/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-we-rss/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/we-love-rss</id>
-        <link href="https://matthiasott.com/notes/we-love-rss"/>
-        <title>We ❤️ RSS</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-        <updated>2024-02-14T15:45:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthias-ott-we-rss/</id>
     <content type="html">
         
     </content>
@@ -12655,30 +12223,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>CHANGELOG: gemlog_to_feed Caddy Module</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2024-01-13T12:00:00+00:00</published>
-    <updated>2024-01-13T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-changelog-gemlogtofeed-caddy-module/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-changelog-gemlogtofeed-caddy-module/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/changelogs/2025-01-13.gmi</id>
-        <link href="https://mediocregopher.com/changelogs/2025-01-13.gmi"/>
-        <title>CHANGELOG: gemlog_to_feed Caddy Module</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2024-01-13T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-changelog-gemlogtofeed-caddy-module/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Motivating X3DH</title>
         <author>
             <name>Wesley Aptekar-Cassels</name>
@@ -12698,30 +12242,6 @@
       </source>
 
     <id>https://news.cryptic.io/wesley-aptekarcassels-motivating-x3dh/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>All Things Being Equalized</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-    <published>2024-01-10T00:28:42+00:00</published>
-    <updated>2024-01-10T00:28:42+00:00</updated>
-    <link href="https://news.cryptic.io/matthias-ott-all-things-being-equalized/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-all-things-being-equalized/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/all-things-being-equalized</id>
-        <link href="https://matthiasott.com/notes/all-things-being-equalized"/>
-        <title>All Things Being Equalized</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-        <updated>2024-01-10T00:28:42+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthias-ott-all-things-being-equalized/</id>
     <content type="html">
         
     </content>
