@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-01-23T14:30:00+00:00</updated>
+  <updated>2025-01-24T12:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>P&amp;B: Ava</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2025-01-24T12:00:00+00:00</published>
+    <updated>2025-01-24T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-ava/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-ava/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/pb-ava</id>
+        <link href="https://manuelmoreale.com/pb-ava"/>
+        <title>P&amp;B: Ava</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2025-01-24T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-ava/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>T. Rex Evolution</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2025-01-24T00:00:00+00:00</published>
+    <updated>2025-01-24T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-t-rex-evolution/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-t-rex-evolution/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/3042/</id>
+        <link href="https://xkcd.com/3042/"/>
+        <title>T. Rex Evolution</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2025-01-24T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-t-rex-evolution/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Logik Freaks (杉山勇司): Temptations of Logik Freaks – One Fine Day (1995)</title>
         <author>
@@ -1255,30 +1303,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Uncanceled Units</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2025-01-15T00:00:00+00:00</published>
-    <updated>2025-01-15T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-uncanceled-units/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-uncanceled-units/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/3038/</id>
-        <link href="https://xkcd.com/3038/"/>
-        <title>Uncanceled Units</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2025-01-15T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-uncanceled-units/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Protocol Churn</title>
         <author>
             <name>Tim Bray</name>
@@ -1322,30 +1346,6 @@
       </source>
 
     <id>https://news.cryptic.io/stereogum-album-of-the-week-ela-minus-dia/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>IndieWeb Carnival: On the importance of friction</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2025-01-14T07:15:00+00:00</published>
-    <updated>2025-01-14T07:15:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-indieweb-carnival-on-the-importance-of-friction/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-indieweb-carnival-on-the-importance-of-friction/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/indieweb-carnival-on-the-importance-of-friction</id>
-        <link href="https://manuelmoreale.com/indieweb-carnival-on-the-importance-of-friction"/>
-        <title>IndieWeb Carnival: On the importance of friction</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2025-01-14T07:15:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-indieweb-carnival-on-the-importance-of-friction/</id>
     <content type="html">
         
     </content>
