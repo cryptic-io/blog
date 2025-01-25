@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-01-25T10:20:00+00:00</updated>
+  <updated>2025-01-25T12:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Creating a simple posting interface</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+    <published>2025-01-25T12:00:00+00:00</published>
+    <updated>2025-01-25T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/andre-alves-garzia-creating-a-simple-posting-interface/"/>
+    <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-creating-a-simple-posting-interface/" type="text/html"/>
+      <source>
+        <id>https://andregarzia.com/2025/01/creating-a-simple-posting-interface.html</id>
+        <link href="https://andregarzia.com/2025/01/creating-a-simple-posting-interface.html"/>
+        <title>Creating a simple posting interface</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+        <updated>2025-01-25T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/andre-alves-garzia-creating-a-simple-posting-interface/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Tiny corners</title>
         <author>
@@ -170,30 +194,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-modern-discourse/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Feedback on lessons, leap seconds, and LLMs</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2025-01-23T02:41:07+00:00</published>
-    <updated>2025-01-23T02:41:07+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feedback-on-lessons-leap-seconds-and-llms/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feedback-on-lessons-leap-seconds-and-llms/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2025/01/22/feedback/</id>
-        <link href="https://rachelbythebay.com/w/2025/01/22/feedback/"/>
-        <title>Feedback on lessons, leap seconds, and LLMs</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2025-01-23T02:41:07+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feedback-on-lessons-leap-seconds-and-llms/</id>
     <content type="html">
         
     </content>
@@ -1039,30 +1039,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Feed score update: new hostname in effect today</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2025-01-17T08:18:27+00:00</published>
-    <updated>2025-01-17T08:18:27+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feed-score-update-new-hostname-in-effect-today/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feed-score-update-new-hostname-in-effect-today/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2025/01/17/fs/</id>
-        <link href="https://rachelbythebay.com/w/2025/01/17/fs/"/>
-        <title>Feed score update: new hostname in effect today</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2025-01-17T08:18:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feed-score-update-new-hostname-in-effect-today/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>I Miss Building Computers.</title>
         <author>
             <name>Cheapskate</name>
@@ -1903,30 +1879,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Pushing the whole company into the past on purpose</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2025-01-09T22:05:58+00:00</published>
-    <updated>2025-01-09T22:05:58+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-pushing-the-whole-company-into-the-past-on-purpose/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-pushing-the-whole-company-into-the-past-on-purpose/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2025/01/09/lag/</id>
-        <link href="https://rachelbythebay.com/w/2025/01/09/lag/"/>
-        <title>Pushing the whole company into the past on purpose</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2025-01-09T22:05:58+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-pushing-the-whole-company-into-the-past-on-purpose/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Don’t Miss the Product for the Artifacts</title>
         <author>
             <name>Jim Nielsen</name>
@@ -2330,30 +2282,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-legit-spending-money/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Web page annoyances that I don&#x27;t inflict on you here</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2025-01-05T00:00:01+00:00</published>
-    <updated>2025-01-05T00:00:01+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-web-page-annoyances-that-i-dont-inflict-on-you-here/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-web-page-annoyances-that-i-dont-inflict-on-you-here/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2025/01/04/cruft/</id>
-        <link href="https://rachelbythebay.com/w/2025/01/04/cruft/"/>
-        <title>Web page annoyances that I don&#x27;t inflict on you here</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2025-01-05T00:00:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-web-page-annoyances-that-i-dont-inflict-on-you-here/</id>
     <content type="html">
         
     </content>
@@ -3559,30 +3487,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Feed readers which don&#x27;t take &quot;no&quot; for an answer</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-12-18T03:13:27+00:00</published>
-    <updated>2024-12-18T03:13:27+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-feed-readers-which-dont-take-no-for-an-answer/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-feed-readers-which-dont-take-no-for-an-answer/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/12/17/packets/</id>
-        <link href="https://rachelbythebay.com/w/2024/12/17/packets/"/>
-        <title>Feed readers which don&#x27;t take &quot;no&quot; for an answer</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-12-18T03:13:27+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-feed-readers-which-dont-take-no-for-an-answer/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Getting beyond ProcessExecutionErrors when installing Ubuntu on arm64</title>
         <author>
             <name>Jeff Geerling</name>
@@ -3895,30 +3799,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Please upgrade past Pleroma 2.7.0 (or at least patch it)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-12-12T18:52:01+00:00</published>
-    <updated>2024-12-12T18:52:01+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-please-upgrade-past-pleroma-270-or-at-least-patch-it/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-please-upgrade-past-pleroma-270-or-at-least-patch-it/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/12/12/pleroma/</id>
-        <link href="https://rachelbythebay.com/w/2024/12/12/pleroma/"/>
-        <title>Please upgrade past Pleroma 2.7.0 (or at least patch it)</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-12-12T18:52:01+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-please-upgrade-past-pleroma-270-or-at-least-patch-it/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Mikihiko Matsumiya (松宮幹彦): Mu-Myou (無明) (1994)</title>
         <author>
             <name>Diego Olivas</name>
@@ -3991,30 +3871,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Circular dependencies for socket activation and WireGuard</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-12-11T23:54:09+00:00</published>
-    <updated>2024-12-11T23:54:09+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-circular-dependencies-for-socket-activation-and-wireguard/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-circular-dependencies-for-socket-activation-and-wireguard/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/12/11/socket/</id>
-        <link href="https://rachelbythebay.com/w/2024/12/11/socket/"/>
-        <title>Circular dependencies for socket activation and WireGuard</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-12-11T23:54:09+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-circular-dependencies-for-socket-activation-and-wireguard/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Stroustrup&#x27;s Rule</title>
         <author>
             <name>Hillel Wayne</name>
@@ -4082,30 +3938,6 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-to-build-a-fleet-of-networked-offsite-backups-using-linux-wireguard-and-rsync/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Words fail me sometimes when it comes to feed readers</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-12-11T02:30:22+00:00</published>
-    <updated>2024-12-11T02:30:22+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-words-fail-me-sometimes-when-it-comes-to-feed-readers/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-words-fail-me-sometimes-when-it-comes-to-feed-readers/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/12/10/feed/</id>
-        <link href="https://rachelbythebay.com/w/2024/12/10/feed/"/>
-        <title>Words fail me sometimes when it comes to feed readers</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-12-11T02:30:22+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-words-fail-me-sometimes-when-it-comes-to-feed-readers/</id>
     <content type="html">
         
     </content>
@@ -4754,30 +4586,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-busiless-a-simple-task-tracking-and-autoprioritization-tool/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Just cracking an embedded root password, no big deal</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-12-03T00:46:19+00:00</published>
-    <updated>2024-12-03T00:46:19+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-just-cracking-an-embedded-root-password-no-big-deal/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-just-cracking-an-embedded-root-password-no-big-deal/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/12/02/hash/</id>
-        <link href="https://rachelbythebay.com/w/2024/12/02/hash/"/>
-        <title>Just cracking an embedded root password, no big deal</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-12-03T00:46:19+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-just-cracking-an-embedded-root-password-no-big-deal/</id>
     <content type="html">
         
     </content>
@@ -6362,30 +6170,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-influence-agents/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I&#x27;ve had a change of heart regarding employee metrics</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-    <published>2024-11-04T04:26:56+00:00</published>
-    <updated>2024-11-04T04:26:56+00:00</updated>
-    <link href="https://news.cryptic.io/rachelbythebay-ive-had-a-change-of-heart-regarding-employee-metrics/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rachelbythebay-ive-had-a-change-of-heart-regarding-employee-metrics/" type="text/html"/>
-      <source>
-        <id>https://rachelbythebay.com/w/2024/11/03/metrics/</id>
-        <link href="https://rachelbythebay.com/w/2024/11/03/metrics/"/>
-        <title>I&#x27;ve had a change of heart regarding employee metrics</title>
-        <author>
-            <name>rachelbythebay</name>
-        </author>
-        <updated>2024-11-04T04:26:56+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rachelbythebay-ive-had-a-change-of-heart-regarding-employee-metrics/</id>
     <content type="html">
         
     </content>
@@ -10519,6 +10303,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Adding Google Web search to Firefox</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+    <published>2024-06-04T12:00:00+00:00</published>
+    <updated>2024-06-04T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/andre-alves-garzia-adding-google-web-search-to-firefox/"/>
+    <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-adding-google-web-search-to-firefox/" type="text/html"/>
+      <source>
+        <id>https://andregarzia.com/2024/06/adding-google-web-search-to-firefox.html</id>
+        <link href="https://andregarzia.com/2024/06/adding-google-web-search-to-firefox.html"/>
+        <title>Adding Google Web search to Firefox</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+        <updated>2024-06-04T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/andre-alves-garzia-adding-google-web-search-to-firefox/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Updating Core Data object ID URIs on store migrations</title>
         <author>
             <name>Various</name>
@@ -10826,6 +10634,30 @@
       </source>
 
     <id>https://news.cryptic.io/drew-devault-writing-a-unix-clone-in-about-a-month/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Feed and Blogrolls Discovery</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+    <published>2024-05-23T12:00:00+00:00</published>
+    <updated>2024-05-23T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/andre-alves-garzia-feed-and-blogrolls-discovery/"/>
+    <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-feed-and-blogrolls-discovery/" type="text/html"/>
+      <source>
+        <id>https://andregarzia.com/2024/05/feed-and-blogrolls-discovery.html</id>
+        <link href="https://andregarzia.com/2024/05/feed-and-blogrolls-discovery.html"/>
+        <title>Feed and Blogrolls Discovery</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+        <updated>2024-05-23T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/andre-alves-garzia-feed-and-blogrolls-discovery/</id>
     <content type="html">
         
     </content>
@@ -11455,6 +11287,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Toublan, Bordeaux, and Merlot walk into a Barn</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+    <published>2024-04-01T12:00:00+00:00</published>
+    <updated>2024-04-01T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/andre-alves-garzia-toublan-bordeaux-and-merlot-walk-into-a-barn/"/>
+    <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-toublan-bordeaux-and-merlot-walk-into-a-barn/" type="text/html"/>
+      <source>
+        <id>https://andregarzia.com/2024/04/toublan-bordeaux-and-merlot-walk-into-a-barn.html</id>
+        <link href="https://andregarzia.com/2024/04/toublan-bordeaux-and-merlot-walk-into-a-barn.html"/>
+        <title>Toublan, Bordeaux, and Merlot walk into a Barn</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+        <updated>2024-04-01T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/andre-alves-garzia-toublan-bordeaux-and-merlot-walk-into-a-barn/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>An Autonomous Archive</title>
         <author>
             <name>CRISTÓBAL SCIUTTO</name>
@@ -11642,6 +11498,30 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-enhancing-kobo-with-texttoimage-generation-and-simple-explanations/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Solo TTRPGs that I like</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+    <published>2024-03-22T12:00:00+00:00</published>
+    <updated>2024-03-22T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/andre-alves-garzia-solo-ttrpgs-that-i-like/"/>
+    <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-solo-ttrpgs-that-i-like/" type="text/html"/>
+      <source>
+        <id>https://andregarzia.com/2024/03/solo-ttrpgs-that-i-like.html</id>
+        <link href="https://andregarzia.com/2024/03/solo-ttrpgs-that-i-like.html"/>
+        <title>Solo TTRPGs that I like</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+        <updated>2024-03-22T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/andre-alves-garzia-solo-ttrpgs-that-i-like/</id>
     <content type="html">
         
     </content>
@@ -12002,6 +11882,30 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-how-do-you-cultivate-customercentric-executives/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Automattic betrayal of its users</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+    <published>2024-02-28T12:00:00+00:00</published>
+    <updated>2024-02-28T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/andre-alves-garzia-automattic-betrayal-of-its-users/"/>
+    <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-automattic-betrayal-of-its-users/" type="text/html"/>
+      <source>
+        <id>https://andregarzia.com/2024/02/automattic-betrayal-of-its-users.html</id>
+        <link href="https://andregarzia.com/2024/02/automattic-betrayal-of-its-users.html"/>
+        <title>Automattic betrayal of its users</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+        <updated>2024-02-28T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/andre-alves-garzia-automattic-betrayal-of-its-users/</id>
     <content type="html">
         
     </content>
@@ -13307,6 +13211,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Sharing contacts using QR Code without requiring a network connection</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+    <published>2023-10-23T12:00:00+00:00</published>
+    <updated>2023-10-23T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/andre-alves-garzia-sharing-contacts-using-qr-code-without-requiring-a-network-connection/"/>
+    <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-sharing-contacts-using-qr-code-without-requiring-a-network-connection/" type="text/html"/>
+      <source>
+        <id>https://andregarzia.com/2023/10/sharing-contacts-using-qr-code.html</id>
+        <link href="https://andregarzia.com/2023/10/sharing-contacts-using-qr-code.html"/>
+        <title>Sharing contacts using QR Code without requiring a network connection</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+        <updated>2023-10-23T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/andre-alves-garzia-sharing-contacts-using-qr-code-without-requiring-a-network-connection/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Building an x86 Linux kernel that works with both systemd-boot and kexec</title>
         <author>
             <name>iliana etaoin</name>
@@ -13498,6 +13426,30 @@
       </source>
 
     <id>https://news.cryptic.io/mechatronicsguy-lasercut-dnd-condition-rings/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>My favourite coffee places in Edinburgh</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+    <published>2023-08-22T12:00:00+00:00</published>
+    <updated>2023-08-22T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/andre-alves-garzia-my-favourite-coffee-places-in-edinburgh/"/>
+    <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-my-favourite-coffee-places-in-edinburgh/" type="text/html"/>
+      <source>
+        <id>https://andregarzia.com/2023/08/my-favourite-coffee-places-in-edinburgh.html</id>
+        <link href="https://andregarzia.com/2023/08/my-favourite-coffee-places-in-edinburgh.html"/>
+        <title>My favourite coffee places in Edinburgh</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+        <updated>2023-08-22T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/andre-alves-garzia-my-favourite-coffee-places-in-edinburgh/</id>
     <content type="html">
         
     </content>
@@ -15023,6 +14975,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>I&#x27;ve been interviewed on the Unstoppable Authors podcast</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+    <published>2023-01-23T12:00:00+00:00</published>
+    <updated>2023-01-23T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/andre-alves-garzia-ive-been-interviewed-on-the-unstoppable-authors-podcast/"/>
+    <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-ive-been-interviewed-on-the-unstoppable-authors-podcast/" type="text/html"/>
+      <source>
+        <id>https://andregarzia.com/2023/01/ive-been-interviewed-on-the-unstoppable-authors-podcast.html</id>
+        <link href="https://andregarzia.com/2023/01/ive-been-interviewed-on-the-unstoppable-authors-podcast.html"/>
+        <title>I&#x27;ve been interviewed on the Unstoppable Authors podcast</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+        <updated>2023-01-23T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/andre-alves-garzia-ive-been-interviewed-on-the-unstoppable-authors-podcast/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Annotated: Sam Bankman-Fried’s “FTX Pre-Mortem Overview”</title>
         <author>
             <name>Molly White</name>
@@ -15162,6 +15138,30 @@
       </source>
 
     <id>https://news.cryptic.io/molly-white-livetweets-of-the-december-13-2022-house-financial-services-committee-hearing-on-ftx/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The city watch rejects survive their first dungeon</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+    <published>2022-12-06T01:16:00+00:00</published>
+    <updated>2022-12-06T01:16:00+00:00</updated>
+    <link href="https://news.cryptic.io/andre-alves-garzia-the-city-watch-rejects-survive-their-first-dungeon/"/>
+    <link rel="alternate" href="https://news.cryptic.io/andre-alves-garzia-the-city-watch-rejects-survive-their-first-dungeon/" type="text/html"/>
+      <source>
+        <id>https://andregarzia.com/2022/12/The-city-watch-rejects-survive-their-first-dungeon.html</id>
+        <link href="https://andregarzia.com/2022/12/The-city-watch-rejects-survive-their-first-dungeon.html"/>
+        <title>The city watch rejects survive their first dungeon</title>
+        <author>
+            <name>Andre Alves Garzia</name>
+        </author>
+        <updated>2022-12-06T01:16:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/andre-alves-garzia-the-city-watch-rejects-survive-their-first-dungeon/</id>
     <content type="html">
         
     </content>
