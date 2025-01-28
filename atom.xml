@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-01-28T20:07:12+00:00</updated>
+  <updated>2025-01-28T21:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Google is right to change Gulf of Mexico’s name in its Maps app in the US</title>
+        <author>
+            <name>Rodrigo Ghedin</name>
+        </author>
+    <published>2025-01-28T21:00:00+00:00</published>
+    <updated>2025-01-28T21:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/rodrigo-ghedin-google-is-right-to-change-gulf-of-mexicos-name-in-its-maps-app-in-the-us/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rodrigo-ghedin-google-is-right-to-change-gulf-of-mexicos-name-in-its-maps-app-in-the-us/" type="text/html"/>
+      <source>
+        <id>https://notes.ghed.in/posts/2025/google-maps-gulf-of-mexico-us/</id>
+        <link href="https://notes.ghed.in/posts/2025/google-maps-gulf-of-mexico-us/"/>
+        <title>Google is right to change Gulf of Mexico’s name in its Maps app in the US</title>
+        <author>
+            <name>Rodrigo Ghedin</name>
+        </author>
+        <updated>2025-01-28T21:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rodrigo-ghedin-google-is-right-to-change-gulf-of-mexicos-name-in-its-maps-app-in-the-us/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Album Of The Week: MIKE Showbiz!</title>
         <author>
@@ -7034,30 +7058,6 @@
       </source>
 
     <id>https://news.cryptic.io/filippo-valsorda-accumulated-test-vectors/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>ClassicPress is still going strong…</title>
-        <author>
-            <name>Rodrigo Ghedin</name>
-        </author>
-    <published>2024-10-08T11:26:00+00:00</published>
-    <updated>2024-10-08T11:26:00+00:00</updated>
-    <link href="https://news.cryptic.io/rodrigo-ghedin-classicpress-is-still-going-strong/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rodrigo-ghedin-classicpress-is-still-going-strong/" type="text/html"/>
-      <source>
-        <id>https://notes.ghed.in/posts/2024/classicpress-modernization-javascript/</id>
-        <link href="https://notes.ghed.in/posts/2024/classicpress-modernization-javascript/"/>
-        <title>ClassicPress is still going strong…</title>
-        <author>
-            <name>Rodrigo Ghedin</name>
-        </author>
-        <updated>2024-10-08T11:26:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rodrigo-ghedin-classicpress-is-still-going-strong/</id>
     <content type="html">
         
     </content>
