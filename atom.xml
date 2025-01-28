@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-01-27T19:00:00+00:00</updated>
+  <updated>2025-01-28T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Missed Connections</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2025-01-28T19:00:00+00:00</published>
+    <updated>2025-01-28T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-missed-connections/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-missed-connections/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2025/missed-connections/</id>
+        <link href="https://blog.jim-nielsen.com/2025/missed-connections/"/>
+        <title>Missed Connections</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2025-01-28T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-missed-connections/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>A moment after the rain</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2025-01-28T17:05:00+00:00</published>
+    <updated>2025-01-28T17:05:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-after-the-rain/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-after-the-rain/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/a-moment-after-the-rain</id>
+        <link href="https://manuelmoreale.com/a-moment-after-the-rain"/>
+        <title>A moment after the rain</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2025-01-28T17:05:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-after-the-rain/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>HTML Minification for Static Sites</title>
         <author>
@@ -122,6 +170,30 @@
       </source>
 
     <id>https://news.cryptic.io/randall-munroe-muons/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Seeking feedback on Community Council nominations, and a call for more</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2025-01-27T00:00:00+00:00</published>
+    <updated>2025-01-27T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-seeking-feedback-on-community-council-nominations-and-a-call-for-more/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-seeking-feedback-on-community-council-nominations-and-a-call-for-more/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2025/01/27/community-council-nominations-feedback.html</id>
+        <link href="https://f-droid.org/en/2025/01/27/community-council-nominations-feedback.html"/>
+        <title>Seeking feedback on Community Council nominations, and a call for more</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2025-01-27T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-seeking-feedback-on-community-council-nominations-and-a-call-for-more/</id>
     <content type="html">
         
     </content>
@@ -1154,30 +1226,6 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-block-ai-scrapers-with-anubis/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Short Long Form</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2025-01-18T20:40:00+00:00</published>
-    <updated>2025-01-18T20:40:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-short-long-form/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-short-long-form/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/short-long-form</id>
-        <link href="https://manuelmoreale.com/short-long-form"/>
-        <title>Short Long Form</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2025-01-18T20:40:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-short-long-form/</id>
     <content type="html">
         
     </content>
@@ -2791,30 +2839,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>You Can Now Subscribe To My Blog via Email</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2025-01-04T19:00:00+00:00</published>
-    <updated>2025-01-04T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-you-can-now-subscribe-to-my-blog-via-email/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-you-can-now-subscribe-to-my-blog-via-email/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2025/subscribe-via-email-now/</id>
-        <link href="https://blog.jim-nielsen.com/2025/subscribe-via-email-now/"/>
-        <title>You Can Now Subscribe To My Blog via Email</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2025-01-04T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-you-can-now-subscribe-to-my-blog-via-email/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Design artifacts</title>
         <author>
             <name>Robin Rendle</name>
@@ -4274,30 +4298,6 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-an-academics-guide-to-fribourg/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Forks to the rescue</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-12-12T00:00:00+00:00</published>
-    <updated>2024-12-12T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/various-forks-to-the-rescue/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-forks-to-the-rescue/" type="text/html"/>
-      <source>
-        <id>https://f-droid.org/en/2024/12/12/twif.html</id>
-        <link href="https://f-droid.org/en/2024/12/12/twif.html"/>
-        <title>Forks to the rescue</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-12-12T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-forks-to-the-rescue/</id>
     <content type="html">
         
     </content>
