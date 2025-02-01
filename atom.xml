@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-02-01T00:00:00+00:00</updated>
+  <updated>2025-02-01T21:00:44+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Notes on blogging</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2025-02-01T21:00:44+00:00</published>
+    <updated>2025-02-01T21:00:44+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-notes-on-blogging/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-notes-on-blogging/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/notes-on-blogging/</id>
+        <link href="https://robinrendle.com/notes/notes-on-blogging/"/>
+        <title>Notes on blogging</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2025-02-01T21:00:44+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-notes-on-blogging/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>1 million Lazygit downloads, one embarrassment at a time</title>
         <author>
@@ -5282,30 +5306,6 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-avoiding-unnecessary-cleanup-work-in-disconnectedcallback/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Frameworkism</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-12-01T18:17:26+00:00</published>
-    <updated>2024-12-01T18:17:26+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-frameworkism/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-frameworkism/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/frameworkism/</id>
-        <link href="https://robinrendle.com/notes/frameworkism/"/>
-        <title>Frameworkism</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-12-01T18:17:26+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-frameworkism/</id>
     <content type="html">
         
     </content>
