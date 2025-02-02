@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-02-01T21:00:44+00:00</updated>
+  <updated>2025-02-02T12:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>How to Write Useful Academic Letters of Motivation</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+    <published>2025-02-02T12:00:00+00:00</published>
+    <updated>2025-02-02T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/bastian-rieck-how-to-write-useful-academic-letters-of-motivation/"/>
+    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-how-to-write-useful-academic-letters-of-motivation/" type="text/html"/>
+      <source>
+        <id>http://bastian.rieck.me/blog/2025/motivation/</id>
+        <link href="http://bastian.rieck.me/blog/2025/motivation/"/>
+        <title>How to Write Useful Academic Letters of Motivation</title>
+        <author>
+            <name>Bastian Rieck</name>
+        </author>
+        <updated>2025-02-02T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/bastian-rieck-how-to-write-useful-academic-letters-of-motivation/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Notes on blogging</title>
         <author>
@@ -10778,30 +10802,6 @@
       </source>
 
     <id>https://news.cryptic.io/ash-creating-a-wayland-protocol-so-a-cat-can-chase-my-cursor/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>What I Use</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-    <published>2024-05-26T08:00:00+00:00</published>
-    <updated>2024-05-26T08:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/bastian-rieck-what-i-use/"/>
-    <link rel="alternate" href="https://news.cryptic.io/bastian-rieck-what-i-use/" type="text/html"/>
-      <source>
-        <id>http://bastian.rieck.me/blog/2024/use/</id>
-        <link href="http://bastian.rieck.me/blog/2024/use/"/>
-        <title>What I Use</title>
-        <author>
-            <name>Bastian Rieck</name>
-        </author>
-        <updated>2024-05-26T08:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/bastian-rieck-what-i-use/</id>
     <content type="html">
         
     </content>
