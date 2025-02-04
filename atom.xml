@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-02-03T18:47:03+00:00</updated>
+  <updated>2025-02-04T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Blown Away By the Unexpected </title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2025-02-04T19:00:00+00:00</published>
+    <updated>2025-02-04T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-blown-away-by-the-unexpected/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-blown-away-by-the-unexpected/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2025/blown-away-by-the-unexpected/</id>
+        <link href="https://blog.jim-nielsen.com/2025/blown-away-by-the-unexpected/"/>
+        <title>Blown Away By the Unexpected </title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2025-02-04T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-blown-away-by-the-unexpected/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Block AI Scrapers With a Caddy Plugin</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2025-02-04T12:00:00+00:00</published>
+    <updated>2025-02-04T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-block-ai-scrapers-with-a-caddy-plugin/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-block-ai-scrapers-with-a-caddy-plugin/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/lab/mediocre-caddy-plugins-pow.gmi</id>
+        <link href="https://mediocregopher.com/lab/mediocre-caddy-plugins-pow.gmi"/>
+        <title>Block AI Scrapers With a Caddy Plugin</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2025-02-04T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-block-ai-scrapers-with-a-caddy-plugin/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Orion O6 ITX Arm V9 board - temper your expectations</title>
         <author>
@@ -2954,30 +3002,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-what-if-one-of-your-online-friends-dies-unexpectedly/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Don’t Miss the Product for the Artifacts</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2025-01-09T19:00:00+00:00</published>
-    <updated>2025-01-09T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-dont-miss-the-product-for-the-artifacts/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-dont-miss-the-product-for-the-artifacts/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2025/dont-miss-the-product-for-the-artifacts/</id>
-        <link href="https://blog.jim-nielsen.com/2025/dont-miss-the-product-for-the-artifacts/"/>
-        <title>Don’t Miss the Product for the Artifacts</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2025-01-09T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-dont-miss-the-product-for-the-artifacts/</id>
     <content type="html">
         
     </content>
@@ -8858,30 +8882,6 @@
       </source>
 
     <id>https://news.cryptic.io/max-bck-live-cms-previews-with-sanity-and-eleventy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Movie Review: Alien: Romulus (No Spoilers)</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2024-08-26T12:00:00+00:00</published>
-    <updated>2024-08-26T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-movie-review-alien-romulus-no-spoilers/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-movie-review-alien-romulus-no-spoilers/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/critiques/2024-alien-romulus.gmi</id>
-        <link href="https://mediocregopher.com/critiques/2024-alien-romulus.gmi"/>
-        <title>Movie Review: Alien: Romulus (No Spoilers)</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2024-08-26T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-movie-review-alien-romulus-no-spoilers/</id>
     <content type="html">
         
     </content>
