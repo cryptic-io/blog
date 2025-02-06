@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-02-05T12:00:00+00:00</updated>
+  <updated>2025-02-06T03:13:13+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>How to build Ollama to run LLMs on RISC-V Linux</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2025-02-06T03:13:13+00:00</published>
+    <updated>2025-02-06T03:13:13+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-how-to-build-ollama-to-run-llms-on-riscv-linux/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-how-to-build-ollama-to-run-llms-on-riscv-linux/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2025/how-build-ollama-run-llms-on-risc-v-linux</id>
+        <link href="https://www.jeffgeerling.com/blog/2025/how-build-ollama-run-llms-on-risc-v-linux"/>
+        <title>How to build Ollama to run LLMs on RISC-V Linux</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2025-02-06T03:13:13+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-how-to-build-ollama-to-run-llms-on-riscv-linux/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Claude helps me find more presidential emoji</title>
         <author>
@@ -4610,30 +4634,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-formally-modeling-dreidel-the-sequel/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Getting beyond ProcessExecutionErrors when installing Ubuntu on arm64</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-12-16T23:27:18+00:00</published>
-    <updated>2024-12-16T23:27:18+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-getting-beyond-processexecutionerrors-when-installing-ubuntu-on-arm64/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-getting-beyond-processexecutionerrors-when-installing-ubuntu-on-arm64/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/getting-beyond-processexecutionerrors-when-installing-ubuntu-on-arm64</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/getting-beyond-processexecutionerrors-when-installing-ubuntu-on-arm64"/>
-        <title>Getting beyond ProcessExecutionErrors when installing Ubuntu on arm64</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-12-16T23:27:18+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-getting-beyond-processexecutionerrors-when-installing-ubuntu-on-arm64/</id>
     <content type="html">
         
     </content>
