@@ -55,6 +55,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Incoming Asteroid</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2025-02-10T00:00:00+00:00</published>
+    <updated>2025-02-10T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-incoming-asteroid/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-incoming-asteroid/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/3049/</id>
+        <link href="https://xkcd.com/3049/"/>
+        <title>Incoming Asteroid</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2025-02-10T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-incoming-asteroid/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Surnames from nicknames nobody has any more</title>
         <author>
             <name>Mark Dominus</name>
@@ -1106,30 +1130,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-donny-truong/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>AlphaMove</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2025-01-31T00:00:00+00:00</published>
-    <updated>2025-01-31T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-alphamove/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-alphamove/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/3045/</id>
-        <link href="https://xkcd.com/3045/"/>
-        <title>AlphaMove</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2025-01-31T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-alphamove/</id>
     <content type="html">
         
     </content>
