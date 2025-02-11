@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-02-11T07:52:00+00:00</updated>
+  <updated>2025-02-11T13:52:52+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>What We&#x27;re Fighting For</title>
+        <author>
+            <name>Ed Zitron</name>
+        </author>
+    <published>2025-02-11T13:52:52+00:00</published>
+    <updated>2025-02-11T13:52:52+00:00</updated>
+    <link href="https://news.cryptic.io/ed-zitron-what-were-fighting-for/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ed-zitron-what-were-fighting-for/" type="text/html"/>
+      <source>
+        <id>https://www.wheresyoured.at/what-were-fighting-for/</id>
+        <link href="https://www.wheresyoured.at/what-were-fighting-for/"/>
+        <title>What We&#x27;re Fighting For</title>
+        <author>
+            <name>Ed Zitron</name>
+        </author>
+        <updated>2025-02-11T13:52:52+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ed-zitron-what-were-fighting-for/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The sound of silence</title>
         <author>
@@ -8018,30 +8042,6 @@
       </source>
 
     <id>https://news.cryptic.io/iliana-etaoin-experimenting-with-github-merge-queues-could-you-send-me-a-pr/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>OpenAI Is A Bad Business</title>
-        <author>
-            <name>Ed Zitron</name>
-        </author>
-    <published>2024-10-02T17:16:40+00:00</published>
-    <updated>2024-10-02T17:16:40+00:00</updated>
-    <link href="https://news.cryptic.io/ed-zitron-openai-is-a-bad-business/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ed-zitron-openai-is-a-bad-business/" type="text/html"/>
-      <source>
-        <id>https://www.wheresyoured.at/oai-business/</id>
-        <link href="https://www.wheresyoured.at/oai-business/"/>
-        <title>OpenAI Is A Bad Business</title>
-        <author>
-            <name>Ed Zitron</name>
-        </author>
-        <updated>2024-10-02T17:16:40+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ed-zitron-openai-is-a-bad-business/</id>
     <content type="html">
         
     </content>
