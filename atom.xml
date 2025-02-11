@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-02-11T15:30:13+00:00</updated>
+  <updated>2025-02-11T17:05:50+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Build Box64 with Box32 for X86 emulation on RISC-V Linux</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2025-02-11T17:05:50+00:00</published>
+    <updated>2025-02-11T17:05:50+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-build-box64-with-box32-for-x86-emulation-on-riscv-linux/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-build-box64-with-box32-for-x86-emulation-on-riscv-linux/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2025/build-box64-box32-x86-emulation-on-risc-v-linux</id>
+        <link href="https://www.jeffgeerling.com/blog/2025/build-box64-box32-x86-emulation-on-risc-v-linux"/>
+        <title>Build Box64 with Box32 for X86 emulation on RISC-V Linux</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2025-02-11T17:05:50+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-build-box64-with-box32-for-x86-emulation-on-riscv-linux/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Album Of The Week: Frog 1000 Variations On The Same Song</title>
         <author>
@@ -4538,30 +4562,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-textbox/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Documenting an 1115 ft radio tower climb</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2024-12-26T17:00:06+00:00</published>
-    <updated>2024-12-26T17:00:06+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-documenting-an-1115-ft-radio-tower-climb/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-documenting-an-1115-ft-radio-tower-climb/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2024/documenting-1115-ft-radio-tower-climb</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/documenting-1115-ft-radio-tower-climb"/>
-        <title>Documenting an 1115 ft radio tower climb</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2024-12-26T17:00:06+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-documenting-an-1115-ft-radio-tower-climb/</id>
     <content type="html">
         
     </content>
