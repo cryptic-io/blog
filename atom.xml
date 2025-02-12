@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Atom</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2025-02-12T00:00:00+00:00</published>
+    <updated>2025-02-12T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-atom/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-atom/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/3050/</id>
+        <link href="https://xkcd.com/3050/"/>
+        <title>Atom</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2025-02-12T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-atom/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Build Box64 with Box32 for X86 emulation on RISC-V Linux</title>
         <author>
             <name>Jeff Geerling</name>
@@ -962,30 +986,6 @@
       </source>
 
     <id>https://news.cryptic.io/chris-kiehl-software-development-topics-ive-changed-my-mind-on-after-10-years-in-the-industry/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Stromatolites</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2025-02-03T00:00:00+00:00</published>
-    <updated>2025-02-03T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-stromatolites/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-stromatolites/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/3046/</id>
-        <link href="https://xkcd.com/3046/"/>
-        <title>Stromatolites</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2025-02-03T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-stromatolites/</id>
     <content type="html">
         
     </content>
