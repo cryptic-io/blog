@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-02-11T17:05:50+00:00</updated>
+  <updated>2025-02-12T02:23:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Genealogy of the House of Reuss</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2025-02-12T02:23:00+00:00</published>
+    <updated>2025-02-12T02:23:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-genealogy-of-the-house-of-reuss/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-genealogy-of-the-house-of-reuss/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/lang/house-of-reuss.html</id>
+        <link href="https://blog.plover.com/lang/house-of-reuss.html"/>
+        <title>Genealogy of the House of Reuss</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2025-02-12T02:23:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-genealogy-of-the-house-of-reuss/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Build Box64 with Box32 for X86 emulation on RISC-V Linux</title>
         <author>
@@ -9194,30 +9218,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-how-to-install-signal-desktop-on-freebsd-using-the-linux-binary-compatibility/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I DON&#x27;T KNOW</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2024-08-21T15:45:00+00:00</published>
-    <updated>2024-08-21T15:45:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-i-dont-know/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-i-dont-know/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/brain/i-dont-know.html</id>
-        <link href="https://blog.plover.com/brain/i-dont-know.html"/>
-        <title>I DON&#x27;T KNOW</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2024-08-21T15:45:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-i-dont-know/</id>
     <content type="html">
         
     </content>
