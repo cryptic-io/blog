@@ -4,8 +4,80 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-02-12T18:26:20+00:00</updated>
+  <updated>2025-02-13T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Search Results Without JavaScript</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2025-02-13T19:00:00+00:00</published>
+    <updated>2025-02-13T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-search-results-without-javascript/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-search-results-without-javascript/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2025/search-without-javascript/</id>
+        <link href="https://blog.jim-nielsen.com/2025/search-without-javascript/"/>
+        <title>Search Results Without JavaScript</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2025-02-13T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-search-results-without-javascript/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Do you need permission from the government to do independent research?</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+    <published>2025-02-13T00:00:00+00:00</published>
+    <updated>2025-02-13T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dynomight-do-you-need-permission-from-the-government-to-do-independent-research/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dynomight-do-you-need-permission-from-the-government-to-do-independent-research/" type="text/html"/>
+      <source>
+        <id>https://dynomight.net/irb/</id>
+        <link href="https://dynomight.net/irb/"/>
+        <title>Do you need permission from the government to do independent research?</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+        <updated>2025-02-13T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dynomight-do-you-need-permission-from-the-government-to-do-independent-research/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Materialization of modern design</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2025-02-13T00:00:00+00:00</published>
+    <updated>2025-02-13T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-materialization-of-modern-design/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-materialization-of-modern-design/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2025/02/13/twif.html</id>
+        <link href="https://f-droid.org/en/2025/02/13/twif.html"/>
+        <title>Materialization of modern design</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2025-02-13T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-materialization-of-modern-design/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Are Efficiency and Horizontal Scalability at odds?</title>
         <author>
@@ -3007,30 +3079,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Tools As Ways of Being</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2025-01-15T19:00:00+00:00</published>
-    <updated>2025-01-15T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-tools-as-ways-of-being/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-tools-as-ways-of-being/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2025/tools-as-ways-of-being/</id>
-        <link href="https://blog.jim-nielsen.com/2025/tools-as-ways-of-being/"/>
-        <title>Tools As Ways of Being</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2025-01-15T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-tools-as-ways-of-being/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Top 10 ways to monitor Linux in the console</title>
         <author>
             <name>Jeff Geerling</name>
@@ -4658,30 +4706,6 @@
       </source>
 
     <id>https://news.cryptic.io/chris-kiehl-books-2024/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Calls and call for a meet up</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-12-26T00:00:00+00:00</published>
-    <updated>2024-12-26T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/various-calls-and-call-for-a-meet-up/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-calls-and-call-for-a-meet-up/" type="text/html"/>
-      <source>
-        <id>https://f-droid.org/en/2024/12/26/twif.html</id>
-        <link href="https://f-droid.org/en/2024/12/26/twif.html"/>
-        <title>Calls and call for a meet up</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-12-26T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-calls-and-call-for-a-meet-up/</id>
     <content type="html">
         
     </content>
@@ -6722,30 +6746,6 @@
       </source>
 
     <id>https://news.cryptic.io/rodrigo-ghedin-selfishness-in-ai/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Something weird is happening with LLMs and chess</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-    <published>2024-11-14T00:00:00+00:00</published>
-    <updated>2024-11-14T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dynomight-something-weird-is-happening-with-llms-and-chess/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dynomight-something-weird-is-happening-with-llms-and-chess/" type="text/html"/>
-      <source>
-        <id>https://dynomight.net/chess/</id>
-        <link href="https://dynomight.net/chess/"/>
-        <title>Something weird is happening with LLMs and chess</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-        <updated>2024-11-14T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dynomight-something-weird-is-happening-with-llms-and-chess/</id>
     <content type="html">
         
     </content>
