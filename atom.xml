@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-02-14T12:00:00+00:00</updated>
+  <updated>2025-02-15T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Just Ask Mr Internet</title>
+        <author>
+            <name>Jesse Duffield</name>
+        </author>
+    <published>2025-02-15T00:00:00+00:00</published>
+    <updated>2025-02-15T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jesse-duffield-just-ask-mr-internet/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jesse-duffield-just-ask-mr-internet/" type="text/html"/>
+      <source>
+        <id>https://jesseduffield.com/Mr-Internet/</id>
+        <link href="https://jesseduffield.com/Mr-Internet/"/>
+        <title>Just Ask Mr Internet</title>
+        <author>
+            <name>Jesse Duffield</name>
+        </author>
+        <updated>2025-02-15T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jesse-duffield-just-ask-mr-internet/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>P&amp;B: Max Kapur</title>
         <author>
@@ -8282,30 +8306,6 @@
       </source>
 
     <id>https://news.cryptic.io/nathalie-lawhead-bimm-university-keynote-transcript-after-all-the-noise-settled-what-was-left-was-genuine-love-for-what-i-created/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Perfect Developer Personality</title>
-        <author>
-            <name>Jesse Duffield</name>
-        </author>
-    <published>2024-09-28T00:00:00+00:00</published>
-    <updated>2024-09-28T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jesse-duffield-the-perfect-developer-personality/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jesse-duffield-the-perfect-developer-personality/" type="text/html"/>
-      <source>
-        <id>https://jesseduffield.com/The-Perfect-Developer-Personality/</id>
-        <link href="https://jesseduffield.com/The-Perfect-Developer-Personality/"/>
-        <title>The Perfect Developer Personality</title>
-        <author>
-            <name>Jesse Duffield</name>
-        </author>
-        <updated>2024-09-28T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jesse-duffield-the-perfect-developer-personality/</id>
     <content type="html">
         
     </content>
