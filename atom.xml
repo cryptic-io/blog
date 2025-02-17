@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-02-17T04:00:00+00:00</updated>
+  <updated>2025-02-17T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Aspect Ratio Changes With CSS View Transitions</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2025-02-17T19:00:00+00:00</published>
+    <updated>2025-02-17T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-aspect-ratio-changes-with-css-view-transitions/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-aspect-ratio-changes-with-css-view-transitions/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2025/aspect-ratio-in-css-view-transitions/</id>
+        <link href="https://blog.jim-nielsen.com/2025/aspect-ratio-in-css-view-transitions/"/>
+        <title>Aspect Ratio Changes With CSS View Transitions</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2025-02-17T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-aspect-ratio-changes-with-css-view-transitions/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>David McShane&#x27;s mural with 18 Franks</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2025-02-17T15:03:00+00:00</published>
+    <updated>2025-02-17T15:03:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-david-mcshanes-mural-with-18-franks/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-david-mcshanes-mural-with-18-franks/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/art/frank.html</id>
+        <link href="https://blog.plover.com/art/frank.html"/>
+        <title>David McShane&#x27;s mural with 18 Franks</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2025-02-17T15:03:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-david-mcshanes-mural-with-18-franks/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Perplexity&#x27;s Deep Research is a Hallucinating Mess</title>
         <author>
@@ -2714,30 +2762,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-change-and-risk/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Relationship Advice for AI</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2025-01-20T19:00:00+00:00</published>
-    <updated>2025-01-20T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-relationship-advice-for-ai/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-relationship-advice-for-ai/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2025/relationship-advice-for-ai/</id>
-        <link href="https://blog.jim-nielsen.com/2025/relationship-advice-for-ai/"/>
-        <title>Relationship Advice for AI</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2025-01-20T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-relationship-advice-for-ai/</id>
     <content type="html">
         
     </content>
@@ -9194,30 +9218,6 @@
       </source>
 
     <id>https://news.cryptic.io/unixsheikh-there-is-only-one-reason-why-microsoft-windows-is-the-dominating-operating-system-on-the-pc-desktop/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>XKCD game theory question</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2024-08-22T14:43:00+00:00</published>
-    <updated>2024-08-22T14:43:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-xkcd-game-theory-question/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-xkcd-game-theory-question/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/math/xkcd-game-theory.html</id>
-        <link href="https://blog.plover.com/math/xkcd-game-theory.html"/>
-        <title>XKCD game theory question</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2024-08-22T14:43:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-xkcd-game-theory-question/</id>
     <content type="html">
         
     </content>
