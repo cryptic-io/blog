@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-02-18T21:46:41+00:00</updated>
+  <updated>2025-02-18T23:17:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>David McShane&#x27;s mural with 18 Franks, revealed</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2025-02-18T23:17:00+00:00</published>
+    <updated>2025-02-18T23:17:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-david-mcshanes-mural-with-18-franks-revealed/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-david-mcshanes-mural-with-18-franks-revealed/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/art/frank-2.html</id>
+        <link href="https://blog.plover.com/art/frank-2.html"/>
+        <title>David McShane&#x27;s mural with 18 Franks, revealed</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2025-02-18T23:17:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-david-mcshanes-mural-with-18-franks-revealed/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>How to Recompile Linux (on a Raspberry Pi)</title>
         <author>
@@ -9170,30 +9194,6 @@
       </source>
 
     <id>https://news.cryptic.io/austin-z-henley-evaluating-your-ai-models-in-the-wild/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Dancing bread</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2024-08-24T20:55:00+00:00</published>
-    <updated>2024-08-24T20:55:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-dancing-bread/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-dancing-bread/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/misc/dancing-bread.html</id>
-        <link href="https://blog.plover.com/misc/dancing-bread.html"/>
-        <title>Dancing bread</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2024-08-24T20:55:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-dancing-bread/</id>
     <content type="html">
         
     </content>
