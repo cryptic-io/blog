@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-02-18T23:17:00+00:00</updated>
+  <updated>2025-02-19T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>CSS Space Toggles</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2025-02-19T19:00:00+00:00</published>
+    <updated>2025-02-19T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-css-space-toggles/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-css-space-toggles/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2025/css-space-toggles/</id>
+        <link href="https://blog.jim-nielsen.com/2025/css-space-toggles/"/>
+        <title>CSS Space Toggles</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2025-02-19T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-css-space-toggles/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>David McShane&#x27;s mural with 18 Franks, revealed</title>
         <author>
@@ -2666,30 +2690,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-in-the-minority/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Consistency For Who? Thoughts on Overriding Basic Computing Controls</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2025-01-22T19:00:00+00:00</published>
-    <updated>2025-01-22T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-consistency-for-who-thoughts-on-overriding-basic-computing-controls/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-consistency-for-who-thoughts-on-overriding-basic-computing-controls/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2025/overriding-basic-ui-controls/</id>
-        <link href="https://blog.jim-nielsen.com/2025/overriding-basic-ui-controls/"/>
-        <title>Consistency For Who? Thoughts on Overriding Basic Computing Controls</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2025-01-22T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-consistency-for-who-thoughts-on-overriding-basic-computing-controls/</id>
     <content type="html">
         
     </content>
