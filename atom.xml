@@ -31,6 +31,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>How to listen to Ulysses</title>
+        <author>
+            <name>Derek Sivers</name>
+        </author>
+    <published>2025-02-24T00:00:00+00:00</published>
+    <updated>2025-02-24T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/derek-sivers-how-to-listen-to-ulysses/"/>
+    <link rel="alternate" href="https://news.cryptic.io/derek-sivers-how-to-listen-to-ulysses/" type="text/html"/>
+      <source>
+        <id>https://sive.rs/ulysses</id>
+        <link href="https://sive.rs/ulysses"/>
+        <title>How to listen to Ulysses</title>
+        <author>
+            <name>Derek Sivers</name>
+        </author>
+        <updated>2025-02-24T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/derek-sivers-how-to-listen-to-ulysses/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Benchmarking multiple network interfaces at once in Linux with iperf3</title>
         <author>
             <name>Jeff Geerling</name>
@@ -6962,30 +6986,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-a-place-for-me/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Dismissed!</title>
-        <author>
-            <name>Derek Sivers</name>
-        </author>
-    <published>2024-11-18T00:00:00+00:00</published>
-    <updated>2024-11-18T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/derek-sivers-dismissed/"/>
-    <link rel="alternate" href="https://news.cryptic.io/derek-sivers-dismissed/" type="text/html"/>
-      <source>
-        <id>https://sive.rs/dis</id>
-        <link href="https://sive.rs/dis"/>
-        <title>Dismissed!</title>
-        <author>
-            <name>Derek Sivers</name>
-        </author>
-        <updated>2024-11-18T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/derek-sivers-dismissed/</id>
     <content type="html">
         
     </content>
