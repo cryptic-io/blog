@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-02-23T04:52:38+00:00</updated>
+  <updated>2025-02-23T23:43:04+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Benchmarking multiple network interfaces at once in Linux with iperf3</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2025-02-23T23:43:04+00:00</published>
+    <updated>2025-02-23T23:43:04+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-benchmarking-multiple-network-interfaces-at-once-in-linux-with-iperf3/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-benchmarking-multiple-network-interfaces-at-once-in-linux-with-iperf3/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2025/benchmarking-multiple-network-interfaces-once-linux-iperf3</id>
+        <link href="https://www.jeffgeerling.com/blog/2025/benchmarking-multiple-network-interfaces-once-linux-iperf3"/>
+        <title>Benchmarking multiple network interfaces at once in Linux with iperf3</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2025-02-23T23:43:04+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-benchmarking-multiple-network-interfaces-at-once-in-linux-with-iperf3/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Answering reader feedback: war rooms vs. deep investigations</title>
         <author>
@@ -74,6 +98,30 @@
       </source>
 
     <id>https://news.cryptic.io/chris-kiehl-data-oriented-programming-in-java-chapter-7-progress-part-i/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>the birth and reverb of friendship</title>
+        <author>
+            <name>Derek Sivers</name>
+        </author>
+    <published>2025-02-23T00:00:00+00:00</published>
+    <updated>2025-02-23T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/derek-sivers-the-birth-and-reverb-of-friendship/"/>
+    <link rel="alternate" href="https://news.cryptic.io/derek-sivers-the-birth-and-reverb-of-friendship/" type="text/html"/>
+      <source>
+        <id>https://sive.rs/brf</id>
+        <link href="https://sive.rs/brf"/>
+        <title>the birth and reverb of friendship</title>
+        <author>
+            <name>Derek Sivers</name>
+        </author>
+        <updated>2025-02-23T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/derek-sivers-the-birth-and-reverb-of-friendship/</id>
     <content type="html">
         
     </content>
@@ -3991,30 +4039,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Top 10 ways to monitor Linux in the console</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2025-01-15T17:36:34+00:00</published>
-    <updated>2025-01-15T17:36:34+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-top-10-ways-to-monitor-linux-in-the-console/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-top-10-ways-to-monitor-linux-in-the-console/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2025/top-10-ways-monitor-linux-console</id>
-        <link href="https://www.jeffgeerling.com/blog/2025/top-10-ways-monitor-linux-console"/>
-        <title>Top 10 ways to monitor Linux in the console</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2025-01-15T17:36:34+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-top-10-ways-to-monitor-linux-in-the-console/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>What are the Rosettas of formal specification?</title>
         <author>
             <name>Hillel Wayne</name>
@@ -7394,30 +7418,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-a-one-way-bridge/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I hated Dubai until I learned about it</title>
-        <author>
-            <name>Derek Sivers</name>
-        </author>
-    <published>2024-11-16T00:00:00+00:00</published>
-    <updated>2024-11-16T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/derek-sivers-i-hated-dubai-until-i-learned-about-it/"/>
-    <link rel="alternate" href="https://news.cryptic.io/derek-sivers-i-hated-dubai-until-i-learned-about-it/" type="text/html"/>
-      <source>
-        <id>https://sive.rs/dxb</id>
-        <link href="https://sive.rs/dxb"/>
-        <title>I hated Dubai until I learned about it</title>
-        <author>
-            <name>Derek Sivers</name>
-        </author>
-        <updated>2024-11-16T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/derek-sivers-i-hated-dubai-until-i-learned-about-it/</id>
     <content type="html">
         
     </content>
