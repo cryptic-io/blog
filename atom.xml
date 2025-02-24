@@ -127,6 +127,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Giants</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2025-02-24T00:00:00+00:00</published>
+    <updated>2025-02-24T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-giants/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-giants/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/3055/</id>
+        <link href="https://xkcd.com/3055/"/>
+        <title>Giants</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2025-02-24T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-giants/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Benchmarking multiple network interfaces at once in Linux with iperf3</title>
         <author>
             <name>Jeff Geerling</name>
@@ -1058,30 +1082,6 @@
       </source>
 
     <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-iodd-st400-review-great-idea-good-product-terrible-firmware/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Hardwood</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2025-02-14T00:00:00+00:00</published>
-    <updated>2025-02-14T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-hardwood/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-hardwood/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/3051/</id>
-        <link href="https://xkcd.com/3051/"/>
-        <title>Hardwood</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2025-02-14T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-hardwood/</id>
     <content type="html">
         
     </content>
