@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-02-27T00:00:00+00:00</updated>
+  <updated>2025-02-27T17:26:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Obsessions</title>
+        <author>
+            <name>Rodrigo Ghedin</name>
+        </author>
+    <published>2025-02-27T17:26:00+00:00</published>
+    <updated>2025-02-27T17:26:00+00:00</updated>
+    <link href="https://news.cryptic.io/rodrigo-ghedin-obsessions/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rodrigo-ghedin-obsessions/" type="text/html"/>
+      <source>
+        <id>https://notes.ghed.in/posts/2025/obsessions/</id>
+        <link href="https://notes.ghed.in/posts/2025/obsessions/"/>
+        <title>Obsessions</title>
+        <author>
+            <name>Rodrigo Ghedin</name>
+        </author>
+        <updated>2025-02-27T17:26:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rodrigo-ghedin-obsessions/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Bayes is not a phase</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+    <published>2025-02-27T00:00:00+00:00</published>
+    <updated>2025-02-27T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dynomight-bayes-is-not-a-phase/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dynomight-bayes-is-not-a-phase/" type="text/html"/>
+      <source>
+        <id>https://dynomight.net/bayes/</id>
+        <link href="https://dynomight.net/bayes/"/>
+        <title>Bayes is not a phase</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+        <updated>2025-02-27T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dynomight-bayes-is-not-a-phase/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Saving screens</title>
         <author>
@@ -6775,30 +6823,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Underrated reasons to be thankful IV</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-    <published>2024-11-28T00:00:00+00:00</published>
-    <updated>2024-11-28T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dynomight-underrated-reasons-to-be-thankful-iv/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dynomight-underrated-reasons-to-be-thankful-iv/" type="text/html"/>
-      <source>
-        <id>https://dynomight.net/thanks-4/</id>
-        <link href="https://dynomight.net/thanks-4/"/>
-        <title>Underrated reasons to be thankful IV</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-        <updated>2024-11-28T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dynomight-underrated-reasons-to-be-thankful-iv/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The best Bluesky apps, projects, tools I&#x27;ve found</title>
         <author>
             <name>Justin Jackson</name>
@@ -7178,30 +7202,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-how-much-faster-is-passingbypointer-in-go/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Selfishness in AI</title>
-        <author>
-            <name>Rodrigo Ghedin</name>
-        </author>
-    <published>2024-11-14T11:27:00+00:00</published>
-    <updated>2024-11-14T11:27:00+00:00</updated>
-    <link href="https://news.cryptic.io/rodrigo-ghedin-selfishness-in-ai/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rodrigo-ghedin-selfishness-in-ai/" type="text/html"/>
-      <source>
-        <id>https://notes.ghed.in/posts/2024/selfishness-in-ai/</id>
-        <link href="https://notes.ghed.in/posts/2024/selfishness-in-ai/"/>
-        <title>Selfishness in AI</title>
-        <author>
-            <name>Rodrigo Ghedin</name>
-        </author>
-        <updated>2024-11-14T11:27:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rodrigo-ghedin-selfishness-in-ai/</id>
     <content type="html">
         
     </content>
