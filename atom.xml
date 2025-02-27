@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-02-26T21:37:00+00:00</updated>
+  <updated>2025-02-27T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Saving screens</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2025-02-27T00:00:00+00:00</published>
+    <updated>2025-02-27T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-saving-screens/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-saving-screens/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2025/02/27/twif.html</id>
+        <link href="https://f-droid.org/en/2025/02/27/twif.html"/>
+        <title>Saving screens</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2025-02-27T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-saving-screens/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Furniture Mecca</title>
         <author>
@@ -4538,30 +4562,6 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-links-for-january/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Gentle updates postponed</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2025-01-09T00:00:00+00:00</published>
-    <updated>2025-01-09T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/various-gentle-updates-postponed/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-gentle-updates-postponed/" type="text/html"/>
-      <source>
-        <id>https://f-droid.org/en/2025/01/09/twif.html</id>
-        <link href="https://f-droid.org/en/2025/01/09/twif.html"/>
-        <title>Gentle updates postponed</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2025-01-09T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-gentle-updates-postponed/</id>
     <content type="html">
         
     </content>
