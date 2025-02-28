@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-02-28T06:37:49+00:00</updated>
+  <updated>2025-02-28T09:20:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Audience of one</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2025-02-28T09:20:00+00:00</published>
+    <updated>2025-02-28T09:20:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-audience-of-one/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-audience-of-one/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/audience-of-one</id>
+        <link href="https://manuelmoreale.com/audience-of-one"/>
+        <title>Audience of one</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2025-02-28T09:20:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-audience-of-one/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>WASM Wayland Web (WWW)</title>
         <author>
@@ -3026,30 +3050,6 @@
       </source>
 
     <id>https://news.cryptic.io/stereogum-album-of-the-week-mike-showbiz/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A moment after the rain</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2025-01-28T17:05:00+00:00</published>
-    <updated>2025-01-28T17:05:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-after-the-rain/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-after-the-rain/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/a-moment-after-the-rain</id>
-        <link href="https://manuelmoreale.com/a-moment-after-the-rain"/>
-        <title>A moment after the rain</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2025-01-28T17:05:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-after-the-rain/</id>
     <content type="html">
         
     </content>
