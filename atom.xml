@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-02-27T23:56:00+00:00</updated>
+  <updated>2025-02-28T06:37:49+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>WASM Wayland Web (WWW)</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+    <published>2025-02-28T06:37:49+00:00</published>
+    <updated>2025-02-28T06:37:49+00:00</updated>
+    <link href="https://news.cryptic.io/joey-hess-wasm-wayland-web-www/"/>
+    <link rel="alternate" href="https://news.cryptic.io/joey-hess-wasm-wayland-web-www/" type="text/html"/>
+      <source>
+        <id>http://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/</id>
+        <link href="http://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/"/>
+        <title>WASM Wayland Web (WWW)</title>
+        <author>
+            <name>Joey Hess</name>
+        </author>
+        <updated>2025-02-28T06:37:49+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/joey-hess-wasm-wayland-web-www/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Ludic&#x27;s Guide To Getting Software Engineering Jobs</title>
+        <author>
+            <name>Lucic</name>
+        </author>
+    <published>2025-02-28T00:00:00+00:00</published>
+    <updated>2025-02-28T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/lucic-ludics-guide-to-getting-software-engineering-jobs/"/>
+    <link rel="alternate" href="https://news.cryptic.io/lucic-ludics-guide-to-getting-software-engineering-jobs/" type="text/html"/>
+      <source>
+        <id>https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/</id>
+        <link href="https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/"/>
+        <title>Ludic&#x27;s Guide To Getting Software Engineering Jobs</title>
+        <author>
+            <name>Lucic</name>
+        </author>
+        <updated>2025-02-28T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/lucic-ludics-guide-to-getting-software-engineering-jobs/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Claude chokes on graph theory</title>
         <author>
@@ -10567,30 +10615,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Synergy Greg</title>
-        <author>
-            <name>Lucic</name>
-        </author>
-    <published>2024-06-22T00:00:00+00:00</published>
-    <updated>2024-06-22T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/lucic-synergy-greg/"/>
-    <link rel="alternate" href="https://news.cryptic.io/lucic-synergy-greg/" type="text/html"/>
-      <source>
-        <id>https://ludic.mataroa.blog/blog/synergy-greg/</id>
-        <link href="https://ludic.mataroa.blog/blog/synergy-greg/"/>
-        <title>Synergy Greg</title>
-        <author>
-            <name>Lucic</name>
-        </author>
-        <updated>2024-06-22T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/lucic-synergy-greg/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Mundane life update</title>
         <author>
             <name>degrowther</name>
@@ -16914,30 +16938,6 @@
       </source>
 
     <id>https://news.cryptic.io/roy-van-rijn-from-wordle-to-nerdle/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>announcing zephyr-copilot</title>
-        <author>
-            <name>Joey Hess</name>
-        </author>
-    <published>2022-02-23T19:55:37+00:00</published>
-    <updated>2022-02-23T19:55:37+00:00</updated>
-    <link href="https://news.cryptic.io/joey-hess-announcing-zephyrcopilot/"/>
-    <link rel="alternate" href="https://news.cryptic.io/joey-hess-announcing-zephyrcopilot/" type="text/html"/>
-      <source>
-        <id>http://joeyh.name/blog/entry/announcing_zephyr-copilot/</id>
-        <link href="http://joeyh.name/blog/entry/announcing_zephyr-copilot/"/>
-        <title>announcing zephyr-copilot</title>
-        <author>
-            <name>Joey Hess</name>
-        </author>
-        <updated>2022-02-23T19:55:37+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/joey-hess-announcing-zephyrcopilot/</id>
     <content type="html">
         
     </content>
