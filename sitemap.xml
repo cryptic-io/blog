@@ -1536,10 +1536,6 @@
         <lastmod>2025-02-11T17:05:50Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/jeff-geerling-how-is-deepseek-r1-on-a-raspberry-pi/</loc>
-        <lastmod>2025-01-28T22:35:16Z</lastmod>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/jeff-geerling-how-to-build-ollama-to-run-llms-on-riscv-linux/</loc>
         <lastmod>2025-02-06T03:13:13Z</lastmod>
     </url>
@@ -1566,6 +1562,10 @@
     <url>
         <loc>https://news.cryptic.io/jeff-geerling-sifives-hifive-premier-p550-is-a-strange-powerful-riscv-board/</loc>
         <lastmod>2025-02-21T15:01:47Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/jeff-geerling-windows-11-arm-vms-on-a-raspberry-pi-with-bvm/</loc>
+        <lastmod>2025-02-28T20:45:29Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/jes-olson-blogs-rot-wikis-wait/</loc>
@@ -2372,46 +2372,6 @@
         <lastmod>2024-01-15T00:00:00Z</lastmod>
     </url>
     <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-a-butterfly-the-abyss-called-your-name-you-followed-it-here-now-you-are-its-prisoner/</loc>
-        <lastmod>2025-01-02T11:36:26Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-airport-layover-musings-ai-tech-internet-culture-giving-space-for-constructive-criticism/</loc>
-        <lastmod>2024-08-08T16:55:13Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-bimm-university-keynote-transcript-after-all-the-noise-settled-what-was-left-was-genuine-love-for-what-i-created/</loc>
-        <lastmod>2024-09-28T05:27:14Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-creating-for-a-better-industry/</loc>
-        <lastmod>2024-11-28T15:12:27Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-in-defense-and-absolute-condemnation-of-ai-how-ai-has-already-affected-the-game-industry/</loc>
-        <lastmod>2024-12-10T11:46:16Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-play-my-new-interactive-liminalspace-horror-essay-about-technocapitalism-and-individuality/</loc>
-        <lastmod>2024-08-26T07:39:01Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-playable-essay-individualism-in-the-deadinternet-age-is-an-igf-nuovo-award-finalist/</loc>
-        <lastmod>2025-01-17T09:53:12Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-positive-feedback-loops-the-power-of-choice-digital-independence-and-building-something-better-for-everyone/</loc>
-        <lastmod>2024-10-06T08:30:05Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-the-bluesuburbia-world-update-is-here/</loc>
-        <lastmod>2025-02-03T16:06:32Z</lastmod>
-    </url>
-    <url>
-        <loc>https://news.cryptic.io/nathalie-lawhead-when-there-is-nothing-more-left-for-them-to-take/</loc>
-        <lastmod>2024-09-06T15:58:50Z</lastmod>
-    </url>
-    <url>
         <loc>https://news.cryptic.io/nick-1964/</loc>
         <lastmod>2012-06-14T18:25:27Z</lastmod>
     </url>
@@ -2589,6 +2549,9 @@
         <loc>https://news.cryptic.io/page/26/</loc>
     </url>
     <url>
+        <loc>https://news.cryptic.io/page/27/</loc>
+    </url>
+    <url>
         <loc>https://news.cryptic.io/page/3/</loc>
     </url>
     <url>
@@ -2612,6 +2575,46 @@
     <url>
         <loc>https://news.cryptic.io/philipp-philipp-was-annoyed/</loc>
         <lastmod>2024-09-25T17:10:23Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-answering-reader-feedback-war-rooms-vs-deep-investigations/</loc>
+        <lastmod>2025-02-23T04:52:38Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-circular-dependencies-for-socket-activation-and-wireguard/</loc>
+        <lastmod>2024-12-11T23:54:09Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-feed-readers-which-dont-take-no-for-an-answer/</loc>
+        <lastmod>2024-12-18T03:13:27Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-feed-score-update-new-hostname-in-effect-today/</loc>
+        <lastmod>2025-01-17T08:18:27Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-feedback-on-lessons-leap-seconds-and-llms/</loc>
+        <lastmod>2025-01-23T02:41:07Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-mangled-names-get-me-to-open-my-eyes-a-little/</loc>
+        <lastmod>2025-02-18T23:54:09Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-my-books-have-moved-to-gumroad/</loc>
+        <lastmod>2025-02-21T01:59:16Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-please-upgrade-past-pleroma-270-or-at-least-patch-it/</loc>
+        <lastmod>2024-12-12T18:52:01Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-pushing-the-whole-company-into-the-past-on-purpose/</loc>
+        <lastmod>2025-01-09T22:05:58Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/rachelbythebay-web-page-annoyances-that-i-dont-inflict-on-you-here/</loc>
+        <lastmod>2025-01-05T00:00:01Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/randall-munroe-excusing-yourself/</loc>
@@ -3034,6 +3037,10 @@
         <lastmod>2024-11-07T20:35:06Z</lastmod>
     </url>
     <url>
+        <loc>https://news.cryptic.io/various-days-are-easily-made/</loc>
+        <lastmod>2024-10-06T19:53:15Z</lastmod>
+    </url>
+    <url>
         <loc>https://news.cryptic.io/various-fdroid-awarded-open-technology-funds-foss-sustainability-grant/</loc>
         <lastmod>2025-02-05T00:00:00Z</lastmod>
     </url>
@@ -3044,6 +3051,18 @@
     <url>
         <loc>https://news.cryptic.io/various-hearing-your-device-speak/</loc>
         <lastmod>2025-02-06T00:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/various-how-to-get-the-most-out-of-a-conference/</loc>
+        <lastmod>2024-09-30T02:36:45Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/various-how-to-use-an-aeropress-without-it-blowing-up-in-your-face/</loc>
+        <lastmod>2024-09-05T18:40:14Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/various-implementing-elegant-timing/</loc>
+        <lastmod>2024-09-11T20:20:48Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/various-installing-sql-server-2022-on-newer-ubuntu-2404/</loc>
@@ -3062,8 +3081,16 @@
         <lastmod>2025-02-13T00:00:00Z</lastmod>
     </url>
     <url>
+        <loc>https://news.cryptic.io/various-my-favourite-ways-to-avoid-spending-money/</loc>
+        <lastmod>2024-06-25T21:35:40Z</lastmod>
+    </url>
+    <url>
         <loc>https://news.cryptic.io/various-notes-on-installing-ibm-i-over-an-nfs-share/</loc>
         <lastmod>2024-06-23T01:54:20Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/various-perfectionism-is-optimizing-at-the-wrong-scale/</loc>
+        <lastmod>2024-06-15T16:46:38Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/various-project-idea-pkgconfig-support-in-compilers/</loc>
@@ -3088,6 +3115,22 @@
     <url>
         <loc>https://news.cryptic.io/various-stop-mulling-get-fennec/</loc>
         <lastmod>2025-01-16T00:00:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/various-the-joy-of-selective-attention/</loc>
+        <lastmod>2024-08-05T16:56:38Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/various-the-onehour-principle/</loc>
+        <lastmod>2024-05-11T17:52:11Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/various-the-skill-that-never-goes-obsolete/</loc>
+        <lastmod>2025-02-22T03:22:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://news.cryptic.io/various-treating-everything-as-practice/</loc>
+        <lastmod>2024-08-12T20:18:12Z</lastmod>
     </url>
     <url>
         <loc>https://news.cryptic.io/various-updating-core-data-object-id-uris-on-store-migrations/</loc>
