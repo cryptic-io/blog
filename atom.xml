@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-02-27T20:20:00+00:00</updated>
+  <updated>2025-02-27T23:56:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Claude chokes on graph theory</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2025-02-27T23:56:00+00:00</published>
+    <updated>2025-02-27T23:56:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-claude-chokes-on-graph-theory/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-claude-chokes-on-graph-theory/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/tech/gpt/graph-theory.html</id>
+        <link href="https://blog.plover.com/tech/gpt/graph-theory.html"/>
+        <title>Claude chokes on graph theory</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2025-02-27T23:56:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-claude-chokes-on-graph-theory/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The cost of doing the right thing</title>
         <author>
@@ -2186,30 +2210,6 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-no-way-to-prevent-this-say-users-of-only-language-where-this-regularly-happens/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Polish Spam</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2025-02-04T22:02:00+00:00</published>
-    <updated>2025-02-04T22:02:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-polish-spam/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-polish-spam/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/food/polish-spam.html</id>
-        <link href="https://blog.plover.com/food/polish-spam.html"/>
-        <title>Polish Spam</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2025-02-04T22:02:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-polish-spam/</id>
     <content type="html">
         
     </content>
