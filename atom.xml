@@ -7,6 +7,30 @@
   <updated>2025-03-01T12:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
+    <title>Jonathan Chait</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2025-03-01T12:00:00+00:00</published>
+    <updated>2025-03-01T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-jonathan-chait/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-jonathan-chait/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/politics/Chait.html</id>
+        <link href="https://blog.plover.com/politics/Chait.html"/>
+        <title>Jonathan Chait</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2025-03-01T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-jonathan-chait/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Introducing: How to Program Good</title>
         <author>
             <name>mediocregopher</name>
@@ -2330,30 +2354,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-hearing-your-device-speak/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Claude helps me find more presidential emoji</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2025-02-05T12:00:00+00:00</published>
-    <updated>2025-02-05T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-claude-helps-me-find-more-presidential-emoji/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-claude-helps-me-find-more-presidential-emoji/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/tech/gpt/presidential-emoji.html</id>
-        <link href="https://blog.plover.com/tech/gpt/presidential-emoji.html"/>
-        <title>Claude helps me find more presidential emoji</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2025-02-05T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-claude-helps-me-find-more-presidential-emoji/</id>
     <content type="html">
         
     </content>
