@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-02-28T20:45:29+00:00</updated>
+  <updated>2025-02-28T23:45:30+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>JavaScript Fatigue Strikes Back</title>
+        <author>
+            <name>Allen Pike</name>
+        </author>
+    <published>2025-02-28T23:45:30+00:00</published>
+    <updated>2025-02-28T23:45:30+00:00</updated>
+    <link href="https://news.cryptic.io/allen-pike-javascript-fatigue-strikes-back/"/>
+    <link rel="alternate" href="https://news.cryptic.io/allen-pike-javascript-fatigue-strikes-back/" type="text/html"/>
+      <source>
+        <id>https://www.allenpike.com/2025/javascript-fatigue-ssr</id>
+        <link href="https://www.allenpike.com/2025/javascript-fatigue-ssr"/>
+        <title>JavaScript Fatigue Strikes Back</title>
+        <author>
+            <name>Allen Pike</name>
+        </author>
+        <updated>2025-02-28T23:45:30+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/allen-pike-javascript-fatigue-strikes-back/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Windows 11 Arm VMs on a Raspberry Pi, with BVM</title>
         <author>
@@ -6266,30 +6290,6 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-thinking-about-risk-mitigation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Talk Show, Ep. 415</title>
-        <author>
-            <name>Allen Pike</name>
-        </author>
-    <published>2024-12-09T19:30:00+00:00</published>
-    <updated>2024-12-09T19:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/allen-pike-the-talk-show-ep-415/"/>
-    <link rel="alternate" href="https://news.cryptic.io/allen-pike-the-talk-show-ep-415/" type="text/html"/>
-      <source>
-        <id>https://www.allenpike.com/2024/talk-show-apple-intelligence</id>
-        <link href="https://www.allenpike.com/2024/talk-show-apple-intelligence"/>
-        <title>The Talk Show, Ep. 415</title>
-        <author>
-            <name>Allen Pike</name>
-        </author>
-        <updated>2024-12-09T19:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/allen-pike-the-talk-show-ep-415/</id>
     <content type="html">
         
     </content>
