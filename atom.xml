@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-03T15:00:38+00:00</updated>
+  <updated>2025-03-03T17:12:42+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Power Cut</title>
+        <author>
+            <name>Ed Zitron</name>
+        </author>
+    <published>2025-03-03T17:12:42+00:00</published>
+    <updated>2025-03-03T17:12:42+00:00</updated>
+    <link href="https://news.cryptic.io/ed-zitron-power-cut/"/>
+    <link rel="alternate" href="https://news.cryptic.io/ed-zitron-power-cut/" type="text/html"/>
+      <source>
+        <id>https://www.wheresyoured.at/power-cut/</id>
+        <link href="https://www.wheresyoured.at/power-cut/"/>
+        <title>Power Cut</title>
+        <author>
+            <name>Ed Zitron</name>
+        </author>
+        <updated>2025-03-03T17:12:42+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/ed-zitron-power-cut/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Is an Intel N100 a better value than a Raspberry Pi?</title>
         <author>
@@ -7634,30 +7658,6 @@
       </source>
 
     <id>https://news.cryptic.io/andersource-heads-or-tails/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The Cult of Microsoft</title>
-        <author>
-            <name>Ed Zitron</name>
-        </author>
-    <published>2024-11-01T19:29:04+00:00</published>
-    <updated>2024-11-01T19:29:04+00:00</updated>
-    <link href="https://news.cryptic.io/ed-zitron-the-cult-of-microsoft/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ed-zitron-the-cult-of-microsoft/" type="text/html"/>
-      <source>
-        <id>https://www.wheresyoured.at/the-cult-of-microsoft/</id>
-        <link href="https://www.wheresyoured.at/the-cult-of-microsoft/"/>
-        <title>The Cult of Microsoft</title>
-        <author>
-            <name>Ed Zitron</name>
-        </author>
-        <updated>2024-11-01T19:29:04+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ed-zitron-the-cult-of-microsoft/</id>
     <content type="html">
         
     </content>
