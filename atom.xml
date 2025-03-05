@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-05T00:00:00+00:00</updated>
+  <updated>2025-03-05T19:10:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A moment with someone flying to the moon</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2025-03-05T19:10:00+00:00</published>
+    <updated>2025-03-05T19:10:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-with-someone-flying-to-the-moon/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-with-someone-flying-to-the-moon/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/a-moment-with-someone-flying-to-the-moon</id>
+        <link href="https://manuelmoreale.com/a-moment-with-someone-flying-to-the-moon"/>
+        <title>A moment with someone flying to the moon</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2025-03-05T19:10:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-with-someone-flying-to-the-moon/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Water Damage</title>
         <author>
@@ -1687,30 +1711,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Turns out that I&#x27;m a &#x27;prolific open-source influencer&#x27; now</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2025-02-17T19:00:00+00:00</published>
-    <updated>2025-02-17T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-turns-out-that-im-a-prolific-opensource-influencer-now/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-turns-out-that-im-a-prolific-opensource-influencer-now/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2025/02/17/influencer/</id>
-        <link href="https://ounapuu.ee/posts/2025/02/17/influencer/"/>
-        <title>Turns out that I&#x27;m a &#x27;prolific open-source influencer&#x27; now</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2025-02-17T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-turns-out-that-im-a-prolific-opensource-influencer-now/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Aspect Ratio Changes With CSS View Transitions</title>
         <author>
             <name>Jim Nielsen</name>
@@ -1946,30 +1946,6 @@
       </source>
 
     <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-max-kapur/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>IODD ST400 review: great idea, good product, terrible firmware</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2025-02-14T04:00:00+00:00</published>
-    <updated>2025-02-14T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-iodd-st400-review-great-idea-good-product-terrible-firmware/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-iodd-st400-review-great-idea-good-product-terrible-firmware/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2025/02/14/iodd-st400-review/</id>
-        <link href="https://ounapuu.ee/posts/2025/02/14/iodd-st400-review/"/>
-        <title>IODD ST400 review: great idea, good product, terrible firmware</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2025-02-14T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-iodd-st400-review-great-idea-good-product-terrible-firmware/</id>
     <content type="html">
         
     </content>
@@ -2287,30 +2263,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Feature toggles: just roll your own!</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2025-02-10T04:00:00+00:00</published>
-    <updated>2025-02-10T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-feature-toggles-just-roll-your-own/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-feature-toggles-just-roll-your-own/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2025/02/10/roll-your-own-feature-toggles/</id>
-        <link href="https://ounapuu.ee/posts/2025/02/10/roll-your-own-feature-toggles/"/>
-        <title>Feature toggles: just roll your own!</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2025-02-10T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-feature-toggles-just-roll-your-own/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Surnames from nicknames nobody has any more</title>
         <author>
             <name>Mark Dominus</name>
@@ -2551,30 +2503,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Identity</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2025-02-06T06:50:00+00:00</published>
-    <updated>2025-02-06T06:50:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-identity/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-identity/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/identity</id>
-        <link href="https://manuelmoreale.com/identity"/>
-        <title>Identity</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2025-02-06T06:50:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-identity/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Link in Bio</title>
         <author>
             <name>Brian Kardell</name>
@@ -2666,30 +2594,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-hearing-your-device-speak/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I&#x27;m done with Ubuntu</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2025-02-05T04:00:00+00:00</published>
-    <updated>2025-02-05T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-im-done-with-ubuntu/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-im-done-with-ubuntu/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2025/02/05/done-with-ubuntu/</id>
-        <link href="https://ounapuu.ee/posts/2025/02/05/done-with-ubuntu/"/>
-        <title>I&#x27;m done with Ubuntu</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2025-02-05T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-im-done-with-ubuntu/</id>
     <content type="html">
         
     </content>
@@ -3919,30 +3823,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Why my blog was down for over 24 hours in November 2024</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2025-01-21T04:00:00+00:00</published>
-    <updated>2025-01-21T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-why-my-blog-was-down-for-over-24-hours-in-november-2024/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-why-my-blog-was-down-for-over-24-hours-in-november-2024/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2025/01/21/downtime/</id>
-        <link href="https://ounapuu.ee/posts/2025/01/21/downtime/"/>
-        <title>Why my blog was down for over 24 hours in November 2024</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2025-01-21T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-why-my-blog-was-down-for-over-24-hours-in-november-2024/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>PSA: Arch Linux ARM zsh 5.9.5 leading to Oh My Zsh hang on initialization</title>
         <author>
             <name>Martin Chang</name>
@@ -4466,30 +4346,6 @@
       </source>
 
     <id>https://news.cryptic.io/rodrigo-ghedin-tcls-bet-on-screens-that-look-like-paper/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Backing up another PC with a single Ethernet cable</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2025-01-15T04:00:00+00:00</published>
-    <updated>2025-01-15T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-backing-up-another-pc-with-a-single-ethernet-cable/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-backing-up-another-pc-with-a-single-ethernet-cable/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2025/01/15/backups-without-disk/</id>
-        <link href="https://ounapuu.ee/posts/2025/01/15/backups-without-disk/"/>
-        <title>Backing up another PC with a single Ethernet cable</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2025-01-15T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-backing-up-another-pc-with-a-single-ethernet-cable/</id>
     <content type="html">
         
     </content>
@@ -5335,30 +5191,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>My very first Dungeons and Dragons campaign</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2025-01-03T04:00:00+00:00</published>
-    <updated>2025-01-03T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-my-very-first-dungeons-and-dragons-campaign/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-my-very-first-dungeons-and-dragons-campaign/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2025/01/03/dungeons-and-dragons/</id>
-        <link href="https://ounapuu.ee/posts/2025/01/03/dungeons-and-dragons/"/>
-        <title>My very first Dungeons and Dragons campaign</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2025-01-03T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-my-very-first-dungeons-and-dragons-campaign/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>December 24th Lasagna</title>
         <author>
             <name>Tim Bray</name>
@@ -5983,30 +5815,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>The IPv6 situation on Docker is good now!</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2024-12-20T17:30:00+00:00</published>
-    <updated>2024-12-20T17:30:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-ipv6-situation-on-docker-is-good-now/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-ipv6-situation-on-docker-is-good-now/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2024/12/20/docker-ipv6/</id>
-        <link href="https://ounapuu.ee/posts/2024/12/20/docker-ipv6/"/>
-        <title>The IPv6 situation on Docker is good now!</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2024-12-20T17:30:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-the-ipv6-situation-on-docker-is-good-now/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>De Honoris Numquam Satis: Reflections on Snobbery in Academia</title>
         <author>
             <name>Bastian Rieck</name>
@@ -6338,30 +6146,6 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-mostly-stakeless/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to build a fleet of networked offsite backups using Linux, WireGuard and rsync</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2024-12-11T04:00:00+00:00</published>
-    <updated>2024-12-11T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-to-build-a-fleet-of-networked-offsite-backups-using-linux-wireguard-and-rsync/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-to-build-a-fleet-of-networked-offsite-backups-using-linux-wireguard-and-rsync/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2024/12/11/wireguard-backup-fleet/</id>
-        <link href="https://ounapuu.ee/posts/2024/12/11/wireguard-backup-fleet/"/>
-        <title>How to build a fleet of networked offsite backups using Linux, WireGuard and rsync</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2024-12-11T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-how-to-build-a-fleet-of-networked-offsite-backups-using-linux-wireguard-and-rsync/</id>
     <content type="html">
         
     </content>
@@ -6818,30 +6602,6 @@
       </source>
 
     <id>https://news.cryptic.io/james-brown-life-updates-2024/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>What I&#x27;ve learned running Linux and Windows off of USB flash drives</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-    <published>2024-12-02T04:00:00+00:00</published>
-    <updated>2024-12-02T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-what-ive-learned-running-linux-and-windows-off-of-usb-flash-drives/"/>
-    <link rel="alternate" href="https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-what-ive-learned-running-linux-and-windows-off-of-usb-flash-drives/" type="text/html"/>
-      <source>
-        <id>https://ounapuu.ee/posts/2024/12/02/linux-on-usb/</id>
-        <link href="https://ounapuu.ee/posts/2024/12/02/linux-on-usb/"/>
-        <title>What I&#x27;ve learned running Linux and Windows off of USB flash drives</title>
-        <author>
-            <name>ihavesomethoughtsonyourblog@ounapuu.ee (Herman Õunapuu)</name>
-        </author>
-        <updated>2024-12-02T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/ihavesomethoughtsonyourblogounapuuee-herman-unapuu-what-ive-learned-running-linux-and-windows-off-of-usb-flash-drives/</id>
     <content type="html">
         
     </content>
