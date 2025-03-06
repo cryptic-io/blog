@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-05T19:10:00+00:00</updated>
+  <updated>2025-03-06T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>My 16-month theanine self-experiment</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+    <published>2025-03-06T00:00:00+00:00</published>
+    <updated>2025-03-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/dynomight-my-16month-theanine-selfexperiment/"/>
+    <link rel="alternate" href="https://news.cryptic.io/dynomight-my-16month-theanine-selfexperiment/" type="text/html"/>
+      <source>
+        <id>https://dynomight.net/theanine/</id>
+        <link href="https://dynomight.net/theanine/"/>
+        <title>My 16-month theanine self-experiment</title>
+        <author>
+            <name>dynomight</name>
+        </author>
+        <updated>2025-03-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/dynomight-my-16month-theanine-selfexperiment/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A moment with someone flying to the moon</title>
         <author>
@@ -6842,30 +6866,6 @@
       </source>
 
     <id>https://news.cryptic.io/derek-sivers-im-in-the-final-third-of-my-life/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Tactical parenting</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-    <published>2024-12-05T00:00:00+00:00</published>
-    <updated>2024-12-05T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/dynomight-tactical-parenting/"/>
-    <link rel="alternate" href="https://news.cryptic.io/dynomight-tactical-parenting/" type="text/html"/>
-      <source>
-        <id>https://dynomight.net/parenting/</id>
-        <link href="https://dynomight.net/parenting/"/>
-        <title>Tactical parenting</title>
-        <author>
-            <name>dynomight</name>
-        </author>
-        <updated>2024-12-05T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/dynomight-tactical-parenting/</id>
     <content type="html">
         
     </content>
