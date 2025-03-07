@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-07T04:00:00+00:00</updated>
+  <updated>2025-03-07T09:42:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>What’s the deal with SafetyCore, the weird app that suddenly appeared on Android?</title>
+        <author>
+            <name>Rodrigo Ghedin</name>
+        </author>
+    <published>2025-03-07T09:42:00+00:00</published>
+    <updated>2025-03-07T09:42:00+00:00</updated>
+    <link href="https://news.cryptic.io/rodrigo-ghedin-whats-the-deal-with-safetycore-the-weird-app-that-suddenly-appeared-on-android/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rodrigo-ghedin-whats-the-deal-with-safetycore-the-weird-app-that-suddenly-appeared-on-android/" type="text/html"/>
+      <source>
+        <id>https://notes.ghed.in/posts/2025/safetycore-android-app/</id>
+        <link href="https://notes.ghed.in/posts/2025/safetycore-android-app/"/>
+        <title>What’s the deal with SafetyCore, the weird app that suddenly appeared on Android?</title>
+        <author>
+            <name>Rodrigo Ghedin</name>
+        </author>
+        <updated>2025-03-07T09:42:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rodrigo-ghedin-whats-the-deal-with-safetycore-the-weird-app-that-suddenly-appeared-on-android/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>I yearn for the perfect home server</title>
         <author>
@@ -122,6 +146,30 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-my-16month-theanine-selfexperiment/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Join our ranks of digital luddites</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2025-03-06T00:00:00+00:00</published>
+    <updated>2025-03-06T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-join-our-ranks-of-digital-luddites/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-join-our-ranks-of-digital-luddites/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2025/03/06/twif.html</id>
+        <link href="https://f-droid.org/en/2025/03/06/twif.html"/>
+        <title>Join our ranks of digital luddites</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2025-03-06T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-join-our-ranks-of-digital-luddites/</id>
     <content type="html">
         
     </content>
@@ -4087,30 +4135,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A Look Back at 2024: F-Droid&#x27;s Progress and What’s Coming in 2025</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2025-01-21T00:00:00+00:00</published>
-    <updated>2025-01-21T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/various-a-look-back-at-2024-fdroids-progress-and-whats-coming-in-2025/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-a-look-back-at-2024-fdroids-progress-and-whats-coming-in-2025/" type="text/html"/>
-      <source>
-        <id>https://f-droid.org/en/2025/01/21/a-look-back-at-2024-f-droids-progress-and-whats-coming-in-2025.html</id>
-        <link href="https://f-droid.org/en/2025/01/21/a-look-back-at-2024-f-droids-progress-and-whats-coming-in-2025.html"/>
-        <title>A Look Back at 2024: F-Droid&#x27;s Progress and What’s Coming in 2025</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2025-01-21T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-a-look-back-at-2024-fdroids-progress-and-whats-coming-in-2025/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Change and risk</title>
         <author>
             <name>Robin Rendle</name>
@@ -4994,30 +5018,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-ai-noise-reduction/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Meta’s moderation policy dismantling will hurt, but it can be good in the long run</title>
-        <author>
-            <name>Rodrigo Ghedin</name>
-        </author>
-    <published>2025-01-10T10:16:00+00:00</published>
-    <updated>2025-01-10T10:16:00+00:00</updated>
-    <link href="https://news.cryptic.io/rodrigo-ghedin-metas-moderation-policy-dismantling-will-hurt-but-it-can-be-good-in-the-long-run/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rodrigo-ghedin-metas-moderation-policy-dismantling-will-hurt-but-it-can-be-good-in-the-long-run/" type="text/html"/>
-      <source>
-        <id>https://notes.ghed.in/posts/2025/meta-dismantling-moderation/</id>
-        <link href="https://notes.ghed.in/posts/2025/meta-dismantling-moderation/"/>
-        <title>Meta’s moderation policy dismantling will hurt, but it can be good in the long run</title>
-        <author>
-            <name>Rodrigo Ghedin</name>
-        </author>
-        <updated>2025-01-10T10:16:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rodrigo-ghedin-metas-moderation-policy-dismantling-will-hurt-but-it-can-be-good-in-the-long-run/</id>
     <content type="html">
         
     </content>
