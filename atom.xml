@@ -199,6 +199,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Omniroll</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2025-03-07T00:00:00+00:00</published>
+    <updated>2025-03-07T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-omniroll/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-omniroll/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/3060/</id>
+        <link href="https://xkcd.com/3060/"/>
+        <title>Omniroll</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2025-03-07T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-omniroll/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>About my last few months. </title>
         <author>
             <name>Kate Wagner</name>
@@ -1226,30 +1250,6 @@
       </source>
 
     <id>https://news.cryptic.io/jim-nielsen-limitations-vs-capabilities/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>RNA</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2025-02-26T00:00:00+00:00</published>
-    <updated>2025-02-26T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-rna/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-rna/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/3056/</id>
-        <link href="https://xkcd.com/3056/"/>
-        <title>RNA</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2025-02-26T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-rna/</id>
     <content type="html">
         
     </content>
