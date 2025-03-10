@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-08T02:07:00+00:00</updated>
+  <updated>2025-03-09T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Data Oriented Programming in Java: Chapter 7 Progress (Part III)</title>
+        <author>
+            <name>Chris Kiehl</name>
+        </author>
+    <published>2025-03-09T00:00:00+00:00</published>
+    <updated>2025-03-09T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/chris-kiehl-data-oriented-programming-in-java-chapter-7-progress-part-iii/"/>
+    <link rel="alternate" href="https://news.cryptic.io/chris-kiehl-data-oriented-programming-in-java-chapter-7-progress-part-iii/" type="text/html"/>
+      <source>
+        <id>https://chriskiehl.com/article/dopij-progress-update-2025-03-09</id>
+        <link href="https://chriskiehl.com/article/dopij-progress-update-2025-03-09"/>
+        <title>Data Oriented Programming in Java: Chapter 7 Progress (Part III)</title>
+        <author>
+            <name>Chris Kiehl</name>
+        </author>
+        <updated>2025-03-09T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/chris-kiehl-data-oriented-programming-in-java-chapter-7-progress-part-iii/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Claude and Merle Miller let me down</title>
         <author>
@@ -5402,30 +5426,6 @@
       </source>
 
     <id>https://news.cryptic.io/martin-chang-legit-spending-money/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Data Oriented Programming in Java: Chapter 6 Progress (Part I)</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-    <published>2025-01-05T00:00:00+00:00</published>
-    <updated>2025-01-05T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/chris-kiehl-data-oriented-programming-in-java-chapter-6-progress-part-i/"/>
-    <link rel="alternate" href="https://news.cryptic.io/chris-kiehl-data-oriented-programming-in-java-chapter-6-progress-part-i/" type="text/html"/>
-      <source>
-        <id>https://chriskiehl.com/article/dopij-progress-update-2025-01-05</id>
-        <link href="https://chriskiehl.com/article/dopij-progress-update-2025-01-05"/>
-        <title>Data Oriented Programming in Java: Chapter 6 Progress (Part I)</title>
-        <author>
-            <name>Chris Kiehl</name>
-        </author>
-        <updated>2025-01-05T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/chris-kiehl-data-oriented-programming-in-java-chapter-6-progress-part-i/</id>
     <content type="html">
         
     </content>
