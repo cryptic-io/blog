@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-10T00:00:00+00:00</updated>
+  <updated>2025-03-11T00:02:06+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Abandon all keyboards</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    <published>2025-03-11T00:02:06+00:00</published>
+    <updated>2025-03-11T00:02:06+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-abandon-all-keyboards/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-abandon-all-keyboards/" type="text/html"/>
+      <source>
+        <id>https://robinrendle.com/notes/abandon-all-keyboards/</id>
+        <link href="https://robinrendle.com/notes/abandon-all-keyboards/"/>
+        <title>Abandon all keyboards</title>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+        <updated>2025-03-11T00:02:06+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/robin-rendle-abandon-all-keyboards/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Affording your AI chatbot friends</title>
         <author>
@@ -5954,30 +5978,6 @@
       </source>
 
     <id>https://news.cryptic.io/kate-wagner-on-neuschwanstein-castle-part-1/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>text-box</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-12-27T15:54:29+00:00</published>
-    <updated>2024-12-27T15:54:29+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-textbox/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-textbox/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/text-box/</id>
-        <link href="https://robinrendle.com/notes/text-box/"/>
-        <title>text-box</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-12-27T15:54:29+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-textbox/</id>
     <content type="html">
         
     </content>
