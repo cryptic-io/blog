@@ -7,6 +7,30 @@
   <updated>2025-03-13T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
+    <title>Fashion change - UI rewrites</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2025-03-13T00:00:00+00:00</published>
+    <updated>2025-03-13T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-fashion-change-ui-rewrites/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-fashion-change-ui-rewrites/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2025/03/13/twif.html</id>
+        <link href="https://f-droid.org/en/2025/03/13/twif.html"/>
+        <title>Fashion change - UI rewrites</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2025-03-13T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-fashion-change-ui-rewrites/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Opsec and you: how to navigate having things to hide</title>
         <author>
             <name>Xe Iaso</name>
@@ -4106,30 +4130,6 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-algorithmic-ranking-is-unfairly-maligned/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Federated services made easier</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2025-01-23T00:00:00+00:00</published>
-    <updated>2025-01-23T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/various-federated-services-made-easier/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-federated-services-made-easier/" type="text/html"/>
-      <source>
-        <id>https://f-droid.org/en/2025/01/23/twif.html</id>
-        <link href="https://f-droid.org/en/2025/01/23/twif.html"/>
-        <title>Federated services made easier</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2025-01-23T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-federated-services-made-easier/</id>
     <content type="html">
         
     </content>
