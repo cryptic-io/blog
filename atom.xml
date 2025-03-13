@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-12T14:49:52+00:00</updated>
+  <updated>2025-03-13T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Opsec and you: how to navigate having things to hide</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2025-03-13T00:00:00+00:00</published>
+    <updated>2025-03-13T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-opsec-and-you-how-to-navigate-having-things-to-hide/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-opsec-and-you-how-to-navigate-having-things-to-hide/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/talks/2025/opsec-and-you/</id>
+        <link href="https://xeiaso.net/talks/2025/opsec-and-you/"/>
+        <title>Opsec and you: how to navigate having things to hide</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2025-03-13T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-opsec-and-you-how-to-navigate-having-things-to-hide/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>New Blog Post: &quot;A Perplexing Javascript Parsing Puzzle&quot;</title>
         <author>
@@ -4106,30 +4130,6 @@
       </source>
 
     <id>https://news.cryptic.io/various-federated-services-made-easier/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Life pro tip: Oracle Linux is the best local VM for MacBooks</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2025-01-23T00:00:00+00:00</published>
-    <updated>2025-01-23T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-life-pro-tip-oracle-linux-is-the-best-local-vm-for-macbooks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-life-pro-tip-oracle-linux-is-the-best-local-vm-for-macbooks/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/notes/2025/k8s-dev-mac-oracle-linux/</id>
-        <link href="https://xeiaso.net/notes/2025/k8s-dev-mac-oracle-linux/"/>
-        <title>Life pro tip: Oracle Linux is the best local VM for MacBooks</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2025-01-23T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-life-pro-tip-oracle-linux-is-the-best-local-vm-for-macbooks/</id>
     <content type="html">
         
     </content>
