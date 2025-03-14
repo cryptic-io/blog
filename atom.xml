@@ -55,6 +55,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Planet Definitions</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2025-03-14T00:00:00+00:00</published>
+    <updated>2025-03-14T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-planet-definitions/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-planet-definitions/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/3063/</id>
+        <link href="https://xkcd.com/3063/"/>
+        <title>Planet Definitions</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2025-03-14T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-planet-definitions/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>ChatGPT Would be a Decent Policy Advisor</title>
         <author>
             <name>Maggie Appleton</name>
@@ -818,30 +842,6 @@
       </source>
 
     <id>https://news.cryptic.io/maggie-appleton-march-2025/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Water Damage</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2025-03-05T00:00:00+00:00</published>
-    <updated>2025-03-05T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-water-damage/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-water-damage/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/3059/</id>
-        <link href="https://xkcd.com/3059/"/>
-        <title>Water Damage</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2025-03-05T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-water-damage/</id>
     <content type="html">
         
     </content>
@@ -7615,30 +7615,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Manuel was annoyed</title>
-        <author>
-            <name>Manuel</name>
-        </author>
-    <published>2024-11-15T17:59:53+00:00</published>
-    <updated>2024-11-15T17:59:53+00:00</updated>
-    <link href="https://news.cryptic.io/manuel-manuel-was-annoyed/"/>
-    <link rel="alternate" href="https://news.cryptic.io/manuel-manuel-was-annoyed/" type="text/html"/>
-      <source>
-        <id>https://annoying.technology/posts/df685325c8210490/</id>
-        <link href="https://annoying.technology/posts/df685325c8210490/"/>
-        <title>Manuel was annoyed</title>
-        <author>
-            <name>Manuel</name>
-        </author>
-        <updated>2024-11-15T17:59:53+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/manuel-manuel-was-annoyed/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>He Hanged Himself in the Morning</title>
         <author>
             <name>Gigi</name>
@@ -8114,6 +8090,30 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Manuel was annoyed</title>
+        <author>
+            <name>Manuel</name>
+        </author>
+    <published>2024-10-20T19:49:40+00:00</published>
+    <updated>2024-10-20T19:49:40+00:00</updated>
+    <link href="https://news.cryptic.io/manuel-manuel-was-annoyed/"/>
+    <link rel="alternate" href="https://news.cryptic.io/manuel-manuel-was-annoyed/" type="text/html"/>
+      <source>
+        <id>https://annoying.technology/posts/024f0f6fa259c422/</id>
+        <link href="https://annoying.technology/posts/024f0f6fa259c422/"/>
+        <title>Manuel was annoyed</title>
+        <author>
+            <name>Manuel</name>
+        </author>
+        <updated>2024-10-20T19:49:40+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/manuel-manuel-was-annoyed/</id>
     <content type="html">
         
     </content>
