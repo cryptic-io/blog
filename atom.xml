@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-15T19:40:00+00:00</updated>
+  <updated>2025-03-15T21:58:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Hangeul sign-engraving machine</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2025-03-15T21:58:00+00:00</published>
+    <updated>2025-03-15T21:58:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-hangeul-signengraving-machine/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-hangeul-signengraving-machine/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/IT/gorton.html</id>
+        <link href="https://blog.plover.com/IT/gorton.html"/>
+        <title>Hangeul sign-engraving machine</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2025-03-15T21:58:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-hangeul-signengraving-machine/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A moment with snow and trees</title>
         <author>
@@ -2906,30 +2930,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-are-efficiency-and-horizontal-scalability-at-odds/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Genealogy of the House of Reuss</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2025-02-12T02:23:00+00:00</published>
-    <updated>2025-02-12T02:23:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-genealogy-of-the-house-of-reuss/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-genealogy-of-the-house-of-reuss/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/lang/house-of-reuss.html</id>
-        <link href="https://blog.plover.com/lang/house-of-reuss.html"/>
-        <title>Genealogy of the House of Reuss</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2025-02-12T02:23:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-genealogy-of-the-house-of-reuss/</id>
     <content type="html">
         
     </content>
