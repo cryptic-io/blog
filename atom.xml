@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-15T21:58:00+00:00</updated>
+  <updated>2025-03-16T22:45:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>An Internet Archive Plugin for Craft CMS 5</title>
+        <author>
+            <name>Matthias Ott</name>
+        </author>
+    <published>2025-03-16T22:45:00+00:00</published>
+    <updated>2025-03-16T22:45:00+00:00</updated>
+    <link href="https://news.cryptic.io/matthias-ott-an-internet-archive-plugin-for-craft-cms-5/"/>
+    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-an-internet-archive-plugin-for-craft-cms-5/" type="text/html"/>
+      <source>
+        <id>https://matthiasott.com/notes/an-internet-archive-plugin-for-craft-cms-5</id>
+        <link href="https://matthiasott.com/notes/an-internet-archive-plugin-for-craft-cms-5"/>
+        <title>An Internet Archive Plugin for Craft CMS 5</title>
+        <author>
+            <name>Matthias Ott</name>
+        </author>
+        <updated>2025-03-16T22:45:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/matthias-ott-an-internet-archive-plugin-for-craft-cms-5/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Hangeul sign-engraving machine</title>
         <author>
@@ -12506,30 +12530,6 @@
       </source>
 
     <id>https://news.cryptic.io/tom-critchlow-another-quick-riff-on-narrative-strategy/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>We ❤️ RSS</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-    <published>2024-02-14T15:45:00+00:00</published>
-    <updated>2024-02-14T15:45:00+00:00</updated>
-    <link href="https://news.cryptic.io/matthias-ott-we-rss/"/>
-    <link rel="alternate" href="https://news.cryptic.io/matthias-ott-we-rss/" type="text/html"/>
-      <source>
-        <id>https://matthiasott.com/notes/we-love-rss</id>
-        <link href="https://matthiasott.com/notes/we-love-rss"/>
-        <title>We ❤️ RSS</title>
-        <author>
-            <name>Matthias Ott</name>
-        </author>
-        <updated>2024-02-14T15:45:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/matthias-ott-we-rss/</id>
     <content type="html">
         
     </content>
