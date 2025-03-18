@@ -79,6 +79,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Long Links</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+    <published>2025-03-17T19:00:00+00:00</published>
+    <updated>2025-03-17T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/tim-bray-long-links/"/>
+    <link rel="alternate" href="https://news.cryptic.io/tim-bray-long-links/" type="text/html"/>
+      <source>
+        <id>https://www.tbray.org/ongoing/When/202x/2025/03/17/Long-Links</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2025/03/17/Long-Links"/>
+        <title>Long Links</title>
+        <author>
+            <name>Tim Bray</name>
+        </author>
+        <updated>2025-03-17T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/tim-bray-long-links/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>CoreWeave Is A Time Bomb</title>
         <author>
             <name>Ed Zitron</name>
@@ -5666,30 +5690,6 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-god-i-hate-this-fing-mac/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>AI Noise Reduction</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-    <published>2025-01-10T20:00:00+00:00</published>
-    <updated>2025-01-10T20:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/tim-bray-ai-noise-reduction/"/>
-    <link rel="alternate" href="https://news.cryptic.io/tim-bray-ai-noise-reduction/" type="text/html"/>
-      <source>
-        <id>https://www.tbray.org/ongoing/When/202x/2025/01/10/Photo-Noise-Reduction</id>
-        <link href="https://www.tbray.org/ongoing/When/202x/2025/01/10/Photo-Noise-Reduction"/>
-        <title>AI Noise Reduction</title>
-        <author>
-            <name>Tim Bray</name>
-        </author>
-        <updated>2025-01-10T20:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/tim-bray-ai-noise-reduction/</id>
     <content type="html">
         
     </content>
