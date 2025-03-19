@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-18T16:22:20+00:00</updated>
+  <updated>2025-03-19T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Comptime Zig ORM</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2025-03-19T00:00:00+00:00</published>
+    <updated>2025-03-19T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-comptime-zig-orm/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-comptime-zig-orm/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2025/03/19/comptime-zig-orm.html</id>
+        <link href="https://matklad.github.io/2025/03/19/comptime-zig-orm.html"/>
+        <title>Comptime Zig ORM</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2025-03-19T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-comptime-zig-orm/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Verification-First Development</title>
         <author>
@@ -9002,30 +9026,6 @@
       </source>
 
     <id>https://news.cryptic.io/brian-kardell-keeping-up-signal-to-noise/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>What is io_uring?</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2024-09-23T00:00:00+00:00</published>
-    <updated>2024-09-23T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-what-is-iouring/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-what-is-iouring/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2024/09/23/what-is-io-uring.html</id>
-        <link href="https://matklad.github.io/2024/09/23/what-is-io-uring.html"/>
-        <title>What is io_uring?</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2024-09-23T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-what-is-iouring/</id>
     <content type="html">
         
     </content>
