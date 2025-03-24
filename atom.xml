@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-23T20:00:00+00:00</updated>
+  <updated>2025-03-24T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Statistically, When Will My Baby Be Born?</title>
+        <author>
+            <name>Maggie Appleton</name>
+        </author>
+    <published>2025-03-24T00:00:00+00:00</published>
+    <updated>2025-03-24T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/maggie-appleton-statistically-when-will-my-baby-be-born/"/>
+    <link rel="alternate" href="https://news.cryptic.io/maggie-appleton-statistically-when-will-my-baby-be-born/" type="text/html"/>
+      <source>
+        <id>https://maggieappleton.com/birth-probability/</id>
+        <link href="https://maggieappleton.com/birth-probability/"/>
+        <title>Statistically, When Will My Baby Be Born?</title>
+        <author>
+            <name>Maggie Appleton</name>
+        </author>
+        <updated>2025-03-24T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/maggie-appleton-statistically-when-will-my-baby-be-born/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>SawStart</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2025-03-24T00:00:00+00:00</published>
+    <updated>2025-03-24T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-sawstart/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-sawstart/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/3067/</id>
+        <link href="https://xkcd.com/3067/"/>
+        <title>SawStart</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2025-03-24T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-sawstart/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Time of Monsters</title>
         <author>
@@ -794,30 +842,6 @@
       </source>
 
     <id>https://news.cryptic.io/mendhak-a-cicd-friendly-dockerfile-for-uv-based-python-projects/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Planet Definitions</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2025-03-14T00:00:00+00:00</published>
-    <updated>2025-03-14T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-planet-definitions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-planet-definitions/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/3063/</id>
-        <link href="https://xkcd.com/3063/"/>
-        <title>Planet Definitions</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2025-03-14T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-planet-definitions/</id>
     <content type="html">
         
     </content>
@@ -6050,30 +6074,6 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-design-artifacts/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Growing a Human: The First 30 Weeks</title>
-        <author>
-            <name>Maggie Appleton</name>
-        </author>
-    <published>2025-01-04T00:00:00+00:00</published>
-    <updated>2025-01-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/maggie-appleton-growing-a-human-the-first-30-weeks/"/>
-    <link rel="alternate" href="https://news.cryptic.io/maggie-appleton-growing-a-human-the-first-30-weeks/" type="text/html"/>
-      <source>
-        <id>https://maggieappleton.com/growing-a-human/</id>
-        <link href="https://maggieappleton.com/growing-a-human/"/>
-        <title>Growing a Human: The First 30 Weeks</title>
-        <author>
-            <name>Maggie Appleton</name>
-        </author>
-        <updated>2025-01-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/maggie-appleton-growing-a-human-the-first-30-weeks/</id>
     <content type="html">
         
     </content>
