@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-25T00:00:00+00:00</updated>
+  <updated>2025-03-25T12:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Terrace Workbench</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+    <published>2025-03-25T12:00:00+00:00</published>
+    <updated>2025-03-25T12:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/mediocregopher-terrace-workbench/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-terrace-workbench/" type="text/html"/>
+      <source>
+        <id>https://mediocregopher.com/workshop/terrace-workbench/</id>
+        <link href="https://mediocregopher.com/workshop/terrace-workbench/"/>
+        <title>Terrace Workbench</title>
+        <author>
+            <name>mediocregopher</name>
+        </author>
+        <updated>2025-03-25T12:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mediocregopher-terrace-workbench/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A Debugger is a REPL is a Debugger</title>
         <author>
@@ -7874,30 +7898,6 @@
       </source>
 
     <id>https://news.cryptic.io/gigi-he-hanged-himself-in-the-morning/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How Much Faster is Passing-by-Pointer in Go?</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2024-11-14T12:00:00+00:00</published>
-    <updated>2024-11-14T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-how-much-faster-is-passingbypointer-in-go/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-how-much-faster-is-passingbypointer-in-go/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/lab/golang-stack-vs-heap/</id>
-        <link href="https://mediocregopher.com/lab/golang-stack-vs-heap/"/>
-        <title>How Much Faster is Passing-by-Pointer in Go?</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2024-11-14T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-how-much-faster-is-passingbypointer-in-go/</id>
     <content type="html">
         
     </content>
