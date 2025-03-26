@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-26T09:02:00+00:00</updated>
+  <updated>2025-03-26T18:48:39+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Betteridge&#x27;s Law of Software Engineering Specialness</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+    <published>2025-03-26T18:48:39+00:00</published>
+    <updated>2025-03-26T18:48:39+00:00</updated>
+    <link href="https://news.cryptic.io/hillel-wayne-betteridges-law-of-software-engineering-specialness/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-betteridges-law-of-software-engineering-specialness/" type="text/html"/>
+      <source>
+        <id>https://buttondown.com/hillelwayne/archive/betteridges-law-of-software-engineering/</id>
+        <link href="https://buttondown.com/hillelwayne/archive/betteridges-law-of-software-engineering/"/>
+        <title>Betteridge&#x27;s Law of Software Engineering Specialness</title>
+        <author>
+            <name>Hillel Wayne</name>
+        </author>
+        <updated>2025-03-26T18:48:39+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hillel-wayne-betteridges-law-of-software-engineering-specialness/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>The Great Scrape</title>
         <author>
@@ -7178,30 +7202,6 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-an-academics-guide-to-fribourg/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Stroustrup&#x27;s Rule</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-    <published>2024-12-11T17:32:53+00:00</published>
-    <updated>2024-12-11T17:32:53+00:00</updated>
-    <link href="https://news.cryptic.io/hillel-wayne-stroustrups-rule/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hillel-wayne-stroustrups-rule/" type="text/html"/>
-      <source>
-        <id>https://buttondown.com/hillelwayne/archive/stroustrups-rule/</id>
-        <link href="https://buttondown.com/hillelwayne/archive/stroustrups-rule/"/>
-        <title>Stroustrup&#x27;s Rule</title>
-        <author>
-            <name>Hillel Wayne</name>
-        </author>
-        <updated>2024-12-11T17:32:53+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hillel-wayne-stroustrups-rule/</id>
     <content type="html">
         
     </content>
