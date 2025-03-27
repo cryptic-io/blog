@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-27T10:45:00+00:00</updated>
+  <updated>2025-03-27T12:50:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Vibe coding on Apple Shortcuts</title>
+        <author>
+            <name>Rodrigo Ghedin</name>
+        </author>
+    <published>2025-03-27T12:50:00+00:00</published>
+    <updated>2025-03-27T12:50:00+00:00</updated>
+    <link href="https://news.cryptic.io/rodrigo-ghedin-vibe-coding-on-apple-shortcuts/"/>
+    <link rel="alternate" href="https://news.cryptic.io/rodrigo-ghedin-vibe-coding-on-apple-shortcuts/" type="text/html"/>
+      <source>
+        <id>https://notes.ghed.in/posts/2025/vibe-coding-apple-shortcuts/</id>
+        <link href="https://notes.ghed.in/posts/2025/vibe-coding-apple-shortcuts/"/>
+        <title>Vibe coding on Apple Shortcuts</title>
+        <author>
+            <name>Rodrigo Ghedin</name>
+        </author>
+        <updated>2025-03-27T12:50:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/rodrigo-ghedin-vibe-coding-on-apple-shortcuts/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Ko-Fi Wishlist</title>
         <author>
@@ -242,30 +266,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-the-mathematical-past-is-a-foreign-country/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Terrace Workbench</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2025-03-25T12:00:00+00:00</published>
-    <updated>2025-03-25T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-terrace-workbench/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-terrace-workbench/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/workshop/terrace-workbench/</id>
-        <link href="https://mediocregopher.com/workshop/terrace-workbench/"/>
-        <title>Terrace Workbench</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2025-03-25T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-terrace-workbench/</id>
     <content type="html">
         
     </content>
@@ -746,30 +746,6 @@
       </source>
 
     <id>https://news.cryptic.io/xe-iaso-im-testing-anubis-in-prod/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>CHANGELOG: Expanded Chapter 2 of How to Program Good</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2025-03-19T12:00:00+00:00</published>
-    <updated>2025-03-19T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-changelog-expanded-chapter-2-of-how-to-program-good/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-changelog-expanded-chapter-2-of-how-to-program-good/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/changelogs/2025-03-19.gmi</id>
-        <link href="https://mediocregopher.com/changelogs/2025-03-19.gmi"/>
-        <title>CHANGELOG: Expanded Chapter 2 of How to Program Good</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2025-03-19T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-changelog-expanded-chapter-2-of-how-to-program-good/</id>
     <content type="html">
         
     </content>
@@ -2282,30 +2258,6 @@
       </source>
 
     <id>https://news.cryptic.io/mark-dominus-jonathan-chait/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Introducing: How to Program Good</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2025-03-01T12:00:00+00:00</published>
-    <updated>2025-03-01T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-introducing-how-to-program-good/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-introducing-how-to-program-good/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/lab/how-to-program-good/</id>
-        <link href="https://mediocregopher.com/lab/how-to-program-good/"/>
-        <title>Introducing: How to Program Good</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2025-03-01T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-introducing-how-to-program-good/</id>
     <content type="html">
         
     </content>
@@ -3847,30 +3799,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Micropelago Cross-Post: A Game Interface for a non-Game</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2025-02-08T12:00:00+00:00</published>
-    <updated>2025-02-08T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-micropelago-crosspost-a-game-interface-for-a-nongame/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-micropelago-crosspost-a-game-interface-for-a-nongame/" type="text/html"/>
-      <source>
-        <id>https://micropelago.net/news/2025/02-08-game-ui/</id>
-        <link href="https://micropelago.net/news/2025/02-08-game-ui/"/>
-        <title>Micropelago Cross-Post: A Game Interface for a non-Game</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2025-02-08T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-micropelago-crosspost-a-game-interface-for-a-nongame/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Using ChatGPT consumes a 500 ml bottle of water; so what?</title>
         <author>
             <name>Rodrigo Ghedin</name>
@@ -4130,30 +4058,6 @@
       </source>
 
     <id>https://news.cryptic.io/stereogum-album-of-the-week-squid-cowards/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Block AI Scrapers With a Caddy Plugin</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2025-02-04T12:00:00+00:00</published>
-    <updated>2025-02-04T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-block-ai-scrapers-with-a-caddy-plugin/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-block-ai-scrapers-with-a-caddy-plugin/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/lab/mediocre-caddy-plugins-pow.gmi</id>
-        <link href="https://mediocregopher.com/lab/mediocre-caddy-plugins-pow.gmi"/>
-        <title>Block AI Scrapers With a Caddy Plugin</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2025-02-04T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-block-ai-scrapers-with-a-caddy-plugin/</id>
     <content type="html">
         
     </content>
@@ -4999,30 +4903,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Panning for Tunes (Jan 2025 Edition)</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2025-01-22T12:00:00+00:00</published>
-    <updated>2025-01-22T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-panning-for-tunes-jan-2025-edition/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-panning-for-tunes-jan-2025-edition/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/treasures/2025-01-music.gmi</id>
-        <link href="https://mediocregopher.com/treasures/2025-01-music.gmi"/>
-        <title>Panning for Tunes (Jan 2025 Edition)</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2025-01-22T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-panning-for-tunes-jan-2025-edition/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>How to make big decisions</title>
         <author>
             <name>Justin Jackson</name>
@@ -5570,30 +5450,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-what-are-the-rosettas-of-formal-specification/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>TCL’s bet on screens that look like paper</title>
-        <author>
-            <name>Rodrigo Ghedin</name>
-        </author>
-    <published>2025-01-15T12:05:00+00:00</published>
-    <updated>2025-01-15T12:05:00+00:00</updated>
-    <link href="https://news.cryptic.io/rodrigo-ghedin-tcls-bet-on-screens-that-look-like-paper/"/>
-    <link rel="alternate" href="https://news.cryptic.io/rodrigo-ghedin-tcls-bet-on-screens-that-look-like-paper/" type="text/html"/>
-      <source>
-        <id>https://notes.ghed.in/posts/2025/tcl-nxtpaper-screen-tech/</id>
-        <link href="https://notes.ghed.in/posts/2025/tcl-nxtpaper-screen-tech/"/>
-        <title>TCL’s bet on screens that look like paper</title>
-        <author>
-            <name>Rodrigo Ghedin</name>
-        </author>
-        <updated>2025-01-15T12:05:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/rodrigo-ghedin-tcls-bet-on-screens-that-look-like-paper/</id>
     <content type="html">
         
     </content>
@@ -6895,30 +6751,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Isle Release v0.0.3 (Alpha) - Multiple networks, CLI configuration, oh my!</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2024-12-19T12:00:00+00:00</published>
-    <updated>2024-12-19T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-isle-release-v003-alpha-multiple-networks-cli-configuration-oh-my/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-isle-release-v003-alpha-multiple-networks-cli-configuration-oh-my/" type="text/html"/>
-      <source>
-        <id>https://micropelago.net/isle/releases/v0.0.3/</id>
-        <link href="https://micropelago.net/isle/releases/v0.0.3/"/>
-        <title>Isle Release v0.0.3 (Alpha) - Multiple networks, CLI configuration, oh my!</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2024-12-19T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-isle-release-v003-alpha-multiple-networks-cli-configuration-oh-my/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Formally modeling dreidel, the sequel</title>
         <author>
             <name>Hillel Wayne</name>
@@ -7327,30 +7159,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Torquato Tasso, and other works from Goethe (1790)</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2024-12-05T12:00:00+00:00</published>
-    <updated>2024-12-05T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-torquato-tasso-and-other-works-from-goethe-1790/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-torquato-tasso-and-other-works-from-goethe-1790/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/critiques/1790-torquato-tasso.gmi</id>
-        <link href="https://mediocregopher.com/critiques/1790-torquato-tasso.gmi"/>
-        <title>Torquato Tasso, and other works from Goethe (1790)</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2024-12-05T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-torquato-tasso-and-other-works-from-goethe-1790/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Objectos-crônica</title>
         <author>
             <name>CRISTÓBAL SCIUTTO</name>
@@ -7442,30 +7250,6 @@
       </source>
 
     <id>https://news.cryptic.io/jacob-kaplanmoss-thinking-about-risk-an-introduction-to-thinking-about-risk/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>busiless: A Simple Task Tracking and Auto-Prioritization Tool</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2024-12-03T12:00:00+00:00</published>
-    <updated>2024-12-03T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-busiless-a-simple-task-tracking-and-autoprioritization-tool/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-busiless-a-simple-task-tracking-and-autoprioritization-tool/" type="text/html"/>
-      <source>
-        <id>https://dev.mediocregopher.com/busiless/</id>
-        <link href="https://dev.mediocregopher.com/busiless/"/>
-        <title>busiless: A Simple Task Tracking and Auto-Prioritization Tool</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2024-12-03T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-busiless-a-simple-task-tracking-and-autoprioritization-tool/</id>
     <content type="html">
         
     </content>
@@ -12890,30 +12674,6 @@
       </source>
 
     <id>https://news.cryptic.io/molly-white-video-the-charges-against-binance/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>CHANGELOG: gemlog_to_feed Caddy Module</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-    <published>2024-01-13T12:00:00+00:00</published>
-    <updated>2024-01-13T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mediocregopher-changelog-gemlogtofeed-caddy-module/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mediocregopher-changelog-gemlogtofeed-caddy-module/" type="text/html"/>
-      <source>
-        <id>https://mediocregopher.com/changelogs/2025-01-13.gmi</id>
-        <link href="https://mediocregopher.com/changelogs/2025-01-13.gmi"/>
-        <title>CHANGELOG: gemlog_to_feed Caddy Module</title>
-        <author>
-            <name>mediocregopher</name>
-        </author>
-        <updated>2024-01-13T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mediocregopher-changelog-gemlogtofeed-caddy-module/</id>
     <content type="html">
         
     </content>
