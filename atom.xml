@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-26T18:48:39+00:00</updated>
+  <updated>2025-03-27T03:22:09+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Never in a million years...</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+    <published>2025-03-27T03:22:09+00:00</published>
+    <updated>2025-03-27T03:22:09+00:00</updated>
+    <link href="https://news.cryptic.io/jeff-geerling-never-in-a-million-years/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-never-in-a-million-years/" type="text/html"/>
+      <source>
+        <id>https://www.jeffgeerling.com/blog/2025/never-million-years</id>
+        <link href="https://www.jeffgeerling.com/blog/2025/never-million-years"/>
+        <title>Never in a million years...</title>
+        <author>
+            <name>Jeff Geerling</name>
+        </author>
+        <updated>2025-03-27T03:22:09+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jeff-geerling-never-in-a-million-years/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>The Value of Experience</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2025-03-26T19:00:00+00:00</published>
+    <updated>2025-03-26T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-the-value-of-experience/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-the-value-of-experience/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2025/value-of-experience/</id>
+        <link href="https://blog.jim-nielsen.com/2025/value-of-experience/"/>
+        <title>The Value of Experience</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2025-03-26T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-the-value-of-experience/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Betteridge&#x27;s Law of Software Engineering Specialness</title>
         <author>
@@ -3055,30 +3103,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>SiFive&#x27;s HiFive Premier P550 is a strange, powerful RISC-V board</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-    <published>2025-02-21T15:01:47+00:00</published>
-    <updated>2025-02-21T15:01:47+00:00</updated>
-    <link href="https://news.cryptic.io/jeff-geerling-sifives-hifive-premier-p550-is-a-strange-powerful-riscv-board/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jeff-geerling-sifives-hifive-premier-p550-is-a-strange-powerful-riscv-board/" type="text/html"/>
-      <source>
-        <id>https://www.jeffgeerling.com/blog/2025/sifives-hifive-premier-p550-strange-powerful-risc-v-board</id>
-        <link href="https://www.jeffgeerling.com/blog/2025/sifives-hifive-premier-p550-strange-powerful-risc-v-board"/>
-        <title>SiFive&#x27;s HiFive Premier P550 is a strange, powerful RISC-V board</title>
-        <author>
-            <name>Jeff Geerling</name>
-        </author>
-        <updated>2025-02-21T15:01:47+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jeff-geerling-sifives-hifive-premier-p550-is-a-strange-powerful-riscv-board/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Leopards, faces, etc.</title>
         <author>
             <name>Mark Dominus</name>
@@ -3242,30 +3266,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-five-kinds-of-nondeterminism/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>CSS Space Toggles</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2025-02-19T19:00:00+00:00</published>
-    <updated>2025-02-19T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-css-space-toggles/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-css-space-toggles/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2025/css-space-toggles/</id>
-        <link href="https://blog.jim-nielsen.com/2025/css-space-toggles/"/>
-        <title>CSS Space Toggles</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2025-02-19T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-css-space-toggles/</id>
     <content type="html">
         
     </content>
@@ -4466,30 +4466,6 @@
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-went-to-a-book-launch-this-week/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Hypocrisy and politics in free and open source software projects</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2025-01-31T00:00:00+00:00</published>
-    <updated>2025-01-31T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-hypocrisy-and-politics-in-free-and-open-source-software-projects/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-hypocrisy-and-politics-in-free-and-open-source-software-projects/" type="text/html"/>
-      <source>
-        <id>https://unixdigest.com/articles/hypocrisy-and-politics-in-free-and-open-source-software-projects.html</id>
-        <link href="https://unixdigest.com/articles/hypocrisy-and-politics-in-free-and-open-source-software-projects.html"/>
-        <title>Hypocrisy and politics in free and open source software projects</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2025-01-31T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-hypocrisy-and-politics-in-free-and-open-source-software-projects/</id>
     <content type="html">
         
     </content>
@@ -5930,30 +5906,6 @@
       </source>
 
     <id>https://news.cryptic.io/jesse-duffield-god-i-hate-this-fing-mac/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>What if one of your online friends dies unexpectedly?</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2025-01-10T00:00:00+00:00</published>
-    <updated>2025-01-10T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-what-if-one-of-your-online-friends-dies-unexpectedly/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-what-if-one-of-your-online-friends-dies-unexpectedly/" type="text/html"/>
-      <source>
-        <id>https://unixdigest.com/articles/what-if-one-of-your-online-friends-dies-unexpectedly.html</id>
-        <link href="https://unixdigest.com/articles/what-if-one-of-your-online-friends-dies-unexpectedly.html"/>
-        <title>What if one of your online friends dies unexpectedly?</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2025-01-10T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-what-if-one-of-your-online-friends-dies-unexpectedly/</id>
     <content type="html">
         
     </content>
@@ -9679,54 +9631,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>There is only one reason why Microsoft Windows is the dominating operating system on the PC desktop</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2024-08-24T00:00:00+00:00</published>
-    <updated>2024-08-24T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-there-is-only-one-reason-why-microsoft-windows-is-the-dominating-operating-system-on-the-pc-desktop/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-there-is-only-one-reason-why-microsoft-windows-is-the-dominating-operating-system-on-the-pc-desktop/" type="text/html"/>
-      <source>
-        <id>https://unixdigest.com/articles/only-one-reason-why-windows-is-the-dominating-os-on-the-pc-desktop.html</id>
-        <link href="https://unixdigest.com/articles/only-one-reason-why-windows-is-the-dominating-os-on-the-pc-desktop.html"/>
-        <title>There is only one reason why Microsoft Windows is the dominating operating system on the PC desktop</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2024-08-24T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-there-is-only-one-reason-why-microsoft-windows-is-the-dominating-operating-system-on-the-pc-desktop/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>How to install Signal Desktop on FreeBSD using the Linux Binary Compatibility</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2024-08-22T00:00:00+00:00</published>
-    <updated>2024-08-22T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-how-to-install-signal-desktop-on-freebsd-using-the-linux-binary-compatibility/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-how-to-install-signal-desktop-on-freebsd-using-the-linux-binary-compatibility/" type="text/html"/>
-      <source>
-        <id>https://unixdigest.com/tutorials/how-to-install-signal-desktop-on-freebsd-using-the-linux-binary-compatibility.html</id>
-        <link href="https://unixdigest.com/tutorials/how-to-install-signal-desktop-on-freebsd-using-the-linux-binary-compatibility.html"/>
-        <title>How to install Signal Desktop on FreeBSD using the Linux Binary Compatibility</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2024-08-22T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-how-to-install-signal-desktop-on-freebsd-using-the-linux-binary-compatibility/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Let’s All Agree to Use Seeds as ML-KEM Keys</title>
         <author>
             <name>Filippo Valsorda</name>
@@ -9770,30 +9674,6 @@
       </source>
 
     <id>https://news.cryptic.io/lucic-quitting-my-job-for-the-way-of-pain/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>I passionately hate hype, especially the AI hype</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2024-08-21T00:00:00+00:00</published>
-    <updated>2024-08-21T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-i-passionately-hate-hype-especially-the-ai-hype/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-i-passionately-hate-hype-especially-the-ai-hype/" type="text/html"/>
-      <source>
-        <id>https://unixdigest.com/articles/i-passionately-hate-hype-especially-the-ai-hype.html</id>
-        <link href="https://unixdigest.com/articles/i-passionately-hate-hype-especially-the-ai-hype.html"/>
-        <title>I passionately hate hype, especially the AI hype</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2024-08-21T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-i-passionately-hate-hype-especially-the-ai-hype/</id>
     <content type="html">
         
     </content>
@@ -12775,30 +12655,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Battle testing PHP fopen, SQLite, PostgreSQL and MariaDB on FFS2, UFS, ext4, XFS and ZFS</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2024-01-22T00:00:00+00:00</published>
-    <updated>2024-01-22T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-battle-testing-php-fopen-sqlite-postgresql-and-mariadb-on-ffs2-ufs-ext4-xfs-and-zfs/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-battle-testing-php-fopen-sqlite-postgresql-and-mariadb-on-ffs2-ufs-ext4-xfs-and-zfs/" type="text/html"/>
-      <source>
-        <id>https://unixdigest.com/articles/battle-testing-php-fopen-sqlite-postgresql-and-mariadb-on-ffs-ufs-ext-xfs-and-zfs.html</id>
-        <link href="https://unixdigest.com/articles/battle-testing-php-fopen-sqlite-postgresql-and-mariadb-on-ffs-ufs-ext-xfs-and-zfs.html"/>
-        <title>Battle testing PHP fopen, SQLite, PostgreSQL and MariaDB on FFS2, UFS, ext4, XFS and ZFS</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2024-01-22T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-battle-testing-php-fopen-sqlite-postgresql-and-mariadb-on-ffs2-ufs-ext4-xfs-and-zfs/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>2023 Game Reviews</title>
         <author>
             <name>James Brown</name>
@@ -13283,30 +13139,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Upgrading to FreeBSD 14 - how to fix a broken BIOS bootcode</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2023-11-22T00:00:00+00:00</published>
-    <updated>2023-11-22T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-upgrading-to-freebsd-14-how-to-fix-a-broken-bios-bootcode/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-upgrading-to-freebsd-14-how-to-fix-a-broken-bios-bootcode/" type="text/html"/>
-      <source>
-        <id>https://unixdigest.com/tutorials/upgrading-to-freebsd-14-how-to-fix-a-broken-bios-bootcode.html</id>
-        <link href="https://unixdigest.com/tutorials/upgrading-to-freebsd-14-how-to-fix-a-broken-bios-bootcode.html"/>
-        <title>Upgrading to FreeBSD 14 - how to fix a broken BIOS bootcode</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2023-11-22T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-upgrading-to-freebsd-14-how-to-fix-a-broken-bios-bootcode/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>attribution armored code</title>
         <author>
             <name>Joey Hess</name>
@@ -13379,30 +13211,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Are Passkeys really the beginning of the end of passwords? I certainly hope not!</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2023-11-09T00:00:00+00:00</published>
-    <updated>2023-11-09T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not/" type="text/html"/>
-      <source>
-        <id>https://unixdigest.com/articles/are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not.html</id>
-        <link href="https://unixdigest.com/articles/are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not.html"/>
-        <title>Are Passkeys really the beginning of the end of passwords? I certainly hope not!</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2023-11-09T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-are-passkeys-really-the-beginning-of-the-end-of-passwords-i-certainly-hope-not/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Testing Smarter, Not Harder: Using LLMs for Better Unit Tests</title>
         <author>
             <name>manuel</name>
@@ -13422,54 +13230,6 @@
       </source>
 
     <id>https://news.cryptic.io/manuel-testing-smarter-not-harder-using-llms-for-better-unit-tests/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The proper design process in web development</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2023-11-04T00:00:00+00:00</published>
-    <updated>2023-11-04T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-the-proper-design-process-in-web-development/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-the-proper-design-process-in-web-development/" type="text/html"/>
-      <source>
-        <id>https://unixdigest.com/articles/the-proper-design-process-in-web-development.html</id>
-        <link href="https://unixdigest.com/articles/the-proper-design-process-in-web-development.html"/>
-        <title>The proper design process in web development</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2023-11-04T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-the-proper-design-process-in-web-development/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The main differences between OpenBSD, FreeBSD, NetBSD and DragonFly BSD</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-    <published>2023-10-30T00:00:00+00:00</published>
-    <updated>2023-10-30T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/unixsheikh-the-main-differences-between-openbsd-freebsd-netbsd-and-dragonfly-bsd/"/>
-    <link rel="alternate" href="https://news.cryptic.io/unixsheikh-the-main-differences-between-openbsd-freebsd-netbsd-and-dragonfly-bsd/" type="text/html"/>
-      <source>
-        <id>https://unixdigest.com/articles/the-main-differences-between-openbsd-freebsd-netbsd-and-dragonflybsd.html</id>
-        <link href="https://unixdigest.com/articles/the-main-differences-between-openbsd-freebsd-netbsd-and-dragonflybsd.html"/>
-        <title>The main differences between OpenBSD, FreeBSD, NetBSD and DragonFly BSD</title>
-        <author>
-            <name>unixsheikh</name>
-        </author>
-        <updated>2023-10-30T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/unixsheikh-the-main-differences-between-openbsd-freebsd-netbsd-and-dragonfly-bsd/</id>
     <content type="html">
         
     </content>
