@@ -44,6 +44,8 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./result
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
       #  nix build produces a symlink to the result in nix-store
       #  but web3.storage action expects this to not be a symlink. Since it runs in a separate docker container.
       #  Not sure if it's possible to mount the nix path as a volume in the docker container.
