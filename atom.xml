@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-28T14:01:30+00:00</updated>
+  <updated>2025-03-28T16:15:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Does someone really have to do the dirty jobs?</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+    <published>2025-03-28T16:15:00+00:00</published>
+    <updated>2025-03-28T16:15:00+00:00</updated>
+    <link href="https://news.cryptic.io/mark-dominus-does-someone-really-have-to-do-the-dirty-jobs/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-does-someone-really-have-to-do-the-dirty-jobs/" type="text/html"/>
+      <source>
+        <id>https://blog.plover.com/misc/dirty-jobs.html</id>
+        <link href="https://blog.plover.com/misc/dirty-jobs.html"/>
+        <title>Does someone really have to do the dirty jobs?</title>
+        <author>
+            <name>Mark Dominus</name>
+        </author>
+        <updated>2025-03-28T16:15:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mark-dominus-does-someone-really-have-to-do-the-dirty-jobs/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>DIY PTP Grandmaster Clock with a Raspberry Pi</title>
         <author>
@@ -3410,30 +3434,6 @@
       </source>
 
     <id>https://news.cryptic.io/hillel-wayne-five-kinds-of-nondeterminism/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Think speak, now speak!</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-    <published>2025-02-19T17:15:00+00:00</published>
-    <updated>2025-02-19T17:15:00+00:00</updated>
-    <link href="https://news.cryptic.io/mark-dominus-think-speak-now-speak/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mark-dominus-think-speak-now-speak/" type="text/html"/>
-      <source>
-        <id>https://blog.plover.com/lang/think-speak-do-speak.html</id>
-        <link href="https://blog.plover.com/lang/think-speak-do-speak.html"/>
-        <title>Think speak, now speak!</title>
-        <author>
-            <name>Mark Dominus</name>
-        </author>
-        <updated>2025-02-19T17:15:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mark-dominus-think-speak-now-speak/</id>
     <content type="html">
         
     </content>
