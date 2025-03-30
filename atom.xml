@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-28T16:15:00+00:00</updated>
+  <updated>2025-03-30T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Deno Simple Server Side Rendering</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2025-03-30T00:00:00+00:00</published>
+    <updated>2025-03-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-deno-simple-server-side-rendering/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-deno-simple-server-side-rendering/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2025/03/30/deno-sssr.html</id>
+        <link href="https://matklad.github.io/2025/03/30/deno-sssr.html"/>
+        <title>Deno Simple Server Side Rendering</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2025-03-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-deno-simple-server-side-rendering/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Does someone really have to do the dirty jobs?</title>
         <author>
@@ -8714,30 +8738,6 @@
       </source>
 
     <id>https://news.cryptic.io/andersource-bfs-zerotohero-part-7-crosstab/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Two Workflow Tips</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2024-10-08T00:00:00+00:00</published>
-    <updated>2024-10-08T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-two-workflow-tips/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-two-workflow-tips/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2024/10/08/two-tips.html</id>
-        <link href="https://matklad.github.io/2024/10/08/two-tips.html"/>
-        <title>Two Workflow Tips</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2024-10-08T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-two-workflow-tips/</id>
     <content type="html">
         
     </content>
