@@ -4,28 +4,28 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-30T00:00:00+00:00</updated>
+  <updated>2025-03-30T15:56:25+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
-    <title>Deno Simple Server Side Rendering</title>
+    <title>item-flow</title>
         <author>
-            <name>Alex Kladov</name>
+            <name>Robin Rendle</name>
         </author>
-    <published>2025-03-30T00:00:00+00:00</published>
-    <updated>2025-03-30T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-deno-simple-server-side-rendering/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-deno-simple-server-side-rendering/" type="text/html"/>
+    <published>2025-03-30T15:56:25+00:00</published>
+    <updated>2025-03-30T15:56:25+00:00</updated>
+    <link href="https://news.cryptic.io/robin-rendle-itemflow/"/>
+    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-itemflow/" type="text/html"/>
       <source>
-        <id>https://matklad.github.io/2025/03/30/deno-sssr.html</id>
-        <link href="https://matklad.github.io/2025/03/30/deno-sssr.html"/>
-        <title>Deno Simple Server Side Rendering</title>
+        <id>https://robinrendle.com/notes/item-flow/</id>
+        <link href="https://robinrendle.com/notes/item-flow/"/>
+        <title>item-flow</title>
         <author>
-            <name>Alex Kladov</name>
+            <name>Robin Rendle</name>
         </author>
-        <updated>2025-03-30T00:00:00+00:00</updated>
+        <updated>2025-03-30T15:56:25+00:00</updated>
       </source>
 
-    <id>https://news.cryptic.io/alex-kladov-deno-simple-server-side-rendering/</id>
+    <id>https://news.cryptic.io/robin-rendle-itemflow/</id>
     <content type="html">
         
     </content>
@@ -583,30 +583,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A Debugger is a REPL is a Debugger</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2025-03-25T00:00:00+00:00</published>
-    <updated>2025-03-25T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-a-debugger-is-a-repl-is-a-debugger/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-a-debugger-is-a-repl-is-a-debugger/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html</id>
-        <link href="https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html"/>
-        <title>A Debugger is a REPL is a Debugger</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2025-03-25T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-a-debugger-is-a-repl-is-a-debugger/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>The surreal joy of having an overprovisioned homelab</title>
         <author>
             <name>Xe Iaso</name>
@@ -871,30 +847,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>Use Long Options in Scripts</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2025-03-21T00:00:00+00:00</published>
-    <updated>2025-03-21T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-use-long-options-in-scripts/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-use-long-options-in-scripts/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html</id>
-        <link href="https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html"/>
-        <title>Use Long Options in Scripts</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2025-03-21T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-use-long-options-in-scripts/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Cosmic Distance Calibration</title>
         <author>
             <name>Randall Munroe</name>
@@ -1082,30 +1034,6 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-changelog-expanded-chapter-2-of-how-to-program-good/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Comptime Zig ORM</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2025-03-19T00:00:00+00:00</published>
-    <updated>2025-03-19T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-comptime-zig-orm/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-comptime-zig-orm/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2025/03/19/comptime-zig-orm.html</id>
-        <link href="https://matklad.github.io/2025/03/19/comptime-zig-orm.html"/>
-        <title>Comptime Zig ORM</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2025-03-19T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-comptime-zig-orm/</id>
     <content type="html">
         
     </content>
@@ -3218,30 +3146,6 @@
       </source>
 
     <id>https://news.cryptic.io/geohot-money-is-the-map/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>MacOS for KDE Users</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2025-02-23T00:00:00+00:00</published>
-    <updated>2025-02-23T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-macos-for-kde-users/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-macos-for-kde-users/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2025/02/23/macos-for-kde-users.html</id>
-        <link href="https://matklad.github.io/2025/02/23/macos-for-kde-users.html"/>
-        <title>MacOS for KDE Users</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2025-02-23T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-macos-for-kde-users/</id>
     <content type="html">
         
     </content>
@@ -6511,30 +6415,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>This Glorious Machine</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    <published>2024-12-31T19:42:44+00:00</published>
-    <updated>2024-12-31T19:42:44+00:00</updated>
-    <link href="https://news.cryptic.io/robin-rendle-this-glorious-machine/"/>
-    <link rel="alternate" href="https://news.cryptic.io/robin-rendle-this-glorious-machine/" type="text/html"/>
-      <source>
-        <id>https://robinrendle.com/notes/this-glorious-machine/</id>
-        <link href="https://robinrendle.com/notes/this-glorious-machine/"/>
-        <title>This Glorious Machine</title>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-        <updated>2024-12-31T19:42:44+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/robin-rendle-this-glorious-machine/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Benchmarking RSA Key Generation</title>
         <author>
             <name>Filippo Valsorda</name>
@@ -6650,30 +6530,6 @@
       </source>
 
     <id>https://news.cryptic.io/nolan-lawson-2024-book-review/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>What Is a dependency?</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2024-12-30T00:00:00+00:00</published>
-    <updated>2024-12-30T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-what-is-a-dependency/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-what-is-a-dependency/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2024/12/30/what-is-dependency.html</id>
-        <link href="https://matklad.github.io/2024/12/30/what-is-dependency.html"/>
-        <title>What Is a dependency?</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2024-12-30T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-what-is-a-dependency/</id>
     <content type="html">
         
     </content>
@@ -6842,30 +6698,6 @@
       </source>
 
     <id>https://news.cryptic.io/ed-zitron-thank-you/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Minimal Version Selection Revisited</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2024-12-24T00:00:00+00:00</published>
-    <updated>2024-12-24T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-minimal-version-selection-revisited/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-minimal-version-selection-revisited/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2024/12/24/minimal-version-selection-revisited.html</id>
-        <link href="https://matklad.github.io/2024/12/24/minimal-version-selection-revisited.html"/>
-        <title>Minimal Version Selection Revisited</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2024-12-24T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-minimal-version-selection-revisited/</id>
     <content type="html">
         
     </content>
@@ -7106,30 +6938,6 @@
       </source>
 
     <id>https://news.cryptic.io/justin-jackson-whats-happening-with-founders-over-40/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Majjit LSP</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2024-12-13T00:00:00+00:00</published>
-    <updated>2024-12-13T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-majjit-lsp/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-majjit-lsp/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2024/12/13/majjit-lsp.html</id>
-        <link href="https://matklad.github.io/2024/12/13/majjit-lsp.html"/>
-        <title>Majjit LSP</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2024-12-13T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-majjit-lsp/</id>
     <content type="html">
         
     </content>
@@ -7903,30 +7711,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>SemVer Is Not About You</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2024-11-23T00:00:00+00:00</published>
-    <updated>2024-11-23T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-semver-is-not-about-you/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-semver-is-not-about-you/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2024/11/23/semver-is-not-about-you.html</id>
-        <link href="https://matklad.github.io/2024/11/23/semver-is-not-about-you.html"/>
-        <title>SemVer Is Not About You</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2024-11-23T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-semver-is-not-about-you/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Leaving Twitter for Bluesky</title>
         <author>
             <name>Justin Jackson</name>
@@ -8546,30 +8330,6 @@
       </source>
 
     <id>https://news.cryptic.io/herman-on-being-a-great-giftgiver/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>A Missing IDE Feature</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-    <published>2024-10-14T00:00:00+00:00</published>
-    <updated>2024-10-14T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/alex-kladov-a-missing-ide-feature/"/>
-    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-a-missing-ide-feature/" type="text/html"/>
-      <source>
-        <id>https://matklad.github.io/2024/10/14/missing-ide-feature.html</id>
-        <link href="https://matklad.github.io/2024/10/14/missing-ide-feature.html"/>
-        <title>A Missing IDE Feature</title>
-        <author>
-            <name>Alex Kladov</name>
-        </author>
-        <updated>2024-10-14T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/alex-kladov-a-missing-ide-feature/</id>
     <content type="html">
         
     </content>
