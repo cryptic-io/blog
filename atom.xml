@@ -4,8 +4,56 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-30T19:00:00+00:00</updated>
+  <updated>2025-03-31T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Random Numbers Included</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2025-03-31T00:00:00+00:00</published>
+    <updated>2025-03-31T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-random-numbers-included/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-random-numbers-included/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2025/03/31/random-numbers-included.html</id>
+        <link href="https://matklad.github.io/2025/03/31/random-numbers-included.html"/>
+        <title>Random Numbers Included</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2025-03-31T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-random-numbers-included/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Building native packages is complicated</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+    <published>2025-03-31T00:00:00+00:00</published>
+    <updated>2025-03-31T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/xe-iaso-building-native-packages-is-complicated/"/>
+    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-building-native-packages-is-complicated/" type="text/html"/>
+      <source>
+        <id>https://xeiaso.net/blog/2025/anubis-packaging/</id>
+        <link href="https://xeiaso.net/blog/2025/anubis-packaging/"/>
+        <title>Building native packages is complicated</title>
+        <author>
+            <name>Xe Iaso</name>
+        </author>
+        <updated>2025-03-31T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/xe-iaso-building-native-packages-is-complicated/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Don’t Forget the Meta Theme-Color Tag</title>
         <author>
@@ -50,6 +98,54 @@
       </source>
 
     <id>https://news.cryptic.io/robin-rendle-itemflow/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Deno Simple Server Side Rendering</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2025-03-30T00:00:00+00:00</published>
+    <updated>2025-03-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-deno-simple-server-side-rendering/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-deno-simple-server-side-rendering/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2025/03/30/deno-sssr.html</id>
+        <link href="https://matklad.github.io/2025/03/30/deno-sssr.html"/>
+        <title>Deno Simple Server Side Rendering</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2025-03-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-deno-simple-server-side-rendering/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Tariffs</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2025-03-30T00:00:00+00:00</published>
+    <updated>2025-03-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-tariffs/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-tariffs/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2025/03/30/tariffs.html</id>
+        <link href="https://matklad.github.io/2025/03/30/tariffs.html"/>
+        <title>Tariffs</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2025-03-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-tariffs/</id>
     <content type="html">
         
     </content>
@@ -631,6 +727,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>A Debugger is a REPL is a Debugger</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2025-03-25T00:00:00+00:00</published>
+    <updated>2025-03-25T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-a-debugger-is-a-repl-is-a-debugger/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-a-debugger-is-a-repl-is-a-debugger/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html</id>
+        <link href="https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html"/>
+        <title>A Debugger is a REPL is a Debugger</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2025-03-25T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-a-debugger-is-a-repl-is-a-debugger/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The surreal joy of having an overprovisioned homelab</title>
         <author>
             <name>Xe Iaso</name>
@@ -895,6 +1015,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>Use Long Options in Scripts</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2025-03-21T00:00:00+00:00</published>
+    <updated>2025-03-21T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-use-long-options-in-scripts/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-use-long-options-in-scripts/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html</id>
+        <link href="https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html"/>
+        <title>Use Long Options in Scripts</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2025-03-21T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-use-long-options-in-scripts/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Cosmic Distance Calibration</title>
         <author>
             <name>Randall Munroe</name>
@@ -1082,6 +1226,30 @@
       </source>
 
     <id>https://news.cryptic.io/mediocregopher-changelog-expanded-chapter-2-of-how-to-program-good/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Comptime Zig ORM</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2025-03-19T00:00:00+00:00</published>
+    <updated>2025-03-19T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-comptime-zig-orm/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-comptime-zig-orm/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2025/03/19/comptime-zig-orm.html</id>
+        <link href="https://matklad.github.io/2025/03/19/comptime-zig-orm.html"/>
+        <title>Comptime Zig ORM</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2025-03-19T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-comptime-zig-orm/</id>
     <content type="html">
         
     </content>
@@ -3175,6 +3343,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>MacOS for KDE Users</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2025-02-23T00:00:00+00:00</published>
+    <updated>2025-02-23T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-macos-for-kde-users/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-macos-for-kde-users/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2025/02/23/macos-for-kde-users.html</id>
+        <link href="https://matklad.github.io/2025/02/23/macos-for-kde-users.html"/>
+        <title>MacOS for KDE Users</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2025-02-23T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-macos-for-kde-users/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Data Oriented Programming in Java: Chapter 7 Progress (Part I)</title>
         <author>
             <name>Chris Kiehl</name>
@@ -4394,30 +4586,6 @@
       </source>
 
     <id>https://news.cryptic.io/chris-kiehl-software-development-topics-ive-changed-my-mind-on-after-10-years-in-the-industry/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>The gist of s1: simple test time scaling</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-    <published>2025-02-03T00:00:00+00:00</published>
-    <updated>2025-02-03T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/xe-iaso-the-gist-of-s1-simple-test-time-scaling/"/>
-    <link rel="alternate" href="https://news.cryptic.io/xe-iaso-the-gist-of-s1-simple-test-time-scaling/" type="text/html"/>
-      <source>
-        <id>https://xeiaso.net/notes/2025/s1-simple-test-time-scaling/</id>
-        <link href="https://xeiaso.net/notes/2025/s1-simple-test-time-scaling/"/>
-        <title>The gist of s1: simple test time scaling</title>
-        <author>
-            <name>Xe Iaso</name>
-        </author>
-        <updated>2025-02-03T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/xe-iaso-the-gist-of-s1-simple-test-time-scaling/</id>
     <content type="html">
         
     </content>
@@ -6535,6 +6703,30 @@
     </content>
   </entry>
   <entry xml:lang="en">
+    <title>What Is a dependency?</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2024-12-30T00:00:00+00:00</published>
+    <updated>2024-12-30T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-what-is-a-dependency/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-what-is-a-dependency/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2024/12/30/what-is-dependency.html</id>
+        <link href="https://matklad.github.io/2024/12/30/what-is-dependency.html"/>
+        <title>What Is a dependency?</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2024-12-30T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-what-is-a-dependency/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>Add More Kafkas</title>
         <author>
             <name>Jesse Duffield</name>
@@ -6698,6 +6890,30 @@
       </source>
 
     <id>https://news.cryptic.io/ed-zitron-thank-you/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Minimal Version Selection Revisited</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2024-12-24T00:00:00+00:00</published>
+    <updated>2024-12-24T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-minimal-version-selection-revisited/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-minimal-version-selection-revisited/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2024/12/24/minimal-version-selection-revisited.html</id>
+        <link href="https://matklad.github.io/2024/12/24/minimal-version-selection-revisited.html"/>
+        <title>Minimal Version Selection Revisited</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2024-12-24T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-minimal-version-selection-revisited/</id>
     <content type="html">
         
     </content>
@@ -6938,6 +7154,30 @@
       </source>
 
     <id>https://news.cryptic.io/justin-jackson-whats-happening-with-founders-over-40/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Majjit LSP</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+    <published>2024-12-13T00:00:00+00:00</published>
+    <updated>2024-12-13T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/alex-kladov-majjit-lsp/"/>
+    <link rel="alternate" href="https://news.cryptic.io/alex-kladov-majjit-lsp/" type="text/html"/>
+      <source>
+        <id>https://matklad.github.io/2024/12/13/majjit-lsp.html</id>
+        <link href="https://matklad.github.io/2024/12/13/majjit-lsp.html"/>
+        <title>Majjit LSP</title>
+        <author>
+            <name>Alex Kladov</name>
+        </author>
+        <updated>2024-12-13T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/alex-kladov-majjit-lsp/</id>
     <content type="html">
         
     </content>
