@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-31T00:00:00+00:00</updated>
+  <updated>2025-03-31T04:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Breakouts 2025: Collective</title>
+        <author>
+            <name>Brian Kardell</name>
+        </author>
+    <published>2025-03-31T04:00:00+00:00</published>
+    <updated>2025-03-31T04:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/brian-kardell-breakouts-2025-collective/"/>
+    <link rel="alternate" href="https://news.cryptic.io/brian-kardell-breakouts-2025-collective/" type="text/html"/>
+      <source>
+        <id>https://bkardell.com/blog/Breakouts2025.html</id>
+        <link href="https://bkardell.com/blog/Breakouts2025.html"/>
+        <title>Breakouts 2025: Collective</title>
+        <author>
+            <name>Brian Kardell</name>
+        </author>
+        <updated>2025-03-31T04:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/brian-kardell-breakouts-2025-collective/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Random Numbers Included</title>
         <author>
@@ -11498,30 +11522,6 @@
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-feed-and-blogrolls-discovery/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Improving the WPT Dashboard</title>
-        <author>
-            <name>Brian Kardell</name>
-        </author>
-    <published>2024-05-21T04:00:00+00:00</published>
-    <updated>2024-05-21T04:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/brian-kardell-improving-the-wpt-dashboard/"/>
-    <link rel="alternate" href="https://news.cryptic.io/brian-kardell-improving-the-wpt-dashboard/" type="text/html"/>
-      <source>
-        <id>https://bkardell.com/blog/WPT-Dashboard.html</id>
-        <link href="https://bkardell.com/blog/WPT-Dashboard.html"/>
-        <title>Improving the WPT Dashboard</title>
-        <author>
-            <name>Brian Kardell</name>
-        </author>
-        <updated>2024-05-21T04:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/brian-kardell-improving-the-wpt-dashboard/</id>
     <content type="html">
         
     </content>
