@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-30T15:56:25+00:00</updated>
+  <updated>2025-03-30T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Don’t Forget the Meta Theme-Color Tag</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2025-03-30T19:00:00+00:00</published>
+    <updated>2025-03-30T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-dont-forget-the-meta-themecolor-tag/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-dont-forget-the-meta-themecolor-tag/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2025/dont-forget-meta-theme-color/</id>
+        <link href="https://blog.jim-nielsen.com/2025/dont-forget-meta-theme-color/"/>
+        <title>Don’t Forget the Meta Theme-Color Tag</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2025-03-30T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-dont-forget-the-meta-themecolor-tag/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>item-flow</title>
         <author>
@@ -3002,30 +3026,6 @@
       </source>
 
     <id>https://news.cryptic.io/derek-sivers-why-did-i-move-to-new-zealand/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Sanding UI, pt. II</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2025-02-24T19:00:00+00:00</published>
-    <updated>2025-02-24T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-sanding-ui-pt-ii/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-sanding-ui-pt-ii/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2025/sanding-ui-pt-ii/</id>
-        <link href="https://blog.jim-nielsen.com/2025/sanding-ui-pt-ii/"/>
-        <title>Sanding UI, pt. II</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2025-02-24T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-sanding-ui-pt-ii/</id>
     <content type="html">
         
     </content>
