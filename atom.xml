@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-31T04:00:00+00:00</updated>
+  <updated>2025-03-31T23:45:30+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>A Score for Snacks</title>
+        <author>
+            <name>Allen Pike</name>
+        </author>
+    <published>2025-03-31T23:45:30+00:00</published>
+    <updated>2025-03-31T23:45:30+00:00</updated>
+    <link href="https://news.cryptic.io/allen-pike-a-score-for-snacks/"/>
+    <link rel="alternate" href="https://news.cryptic.io/allen-pike-a-score-for-snacks/" type="text/html"/>
+      <source>
+        <id>https://www.allenpike.com/2025/nutri-score-calculator</id>
+        <link href="https://www.allenpike.com/2025/nutri-score-calculator"/>
+        <title>A Score for Snacks</title>
+        <author>
+            <name>Allen Pike</name>
+        </author>
+        <updated>2025-03-31T23:45:30+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/allen-pike-a-score-for-snacks/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Breakouts 2025: Collective</title>
         <author>
@@ -6626,30 +6650,6 @@
       </source>
 
     <id>https://news.cryptic.io/filippo-valsorda-benchmarking-rsa-key-generation/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>An Unreasonable Amount of Time</title>
-        <author>
-            <name>Allen Pike</name>
-        </author>
-    <published>2024-12-31T07:45:30+00:00</published>
-    <updated>2024-12-31T07:45:30+00:00</updated>
-    <link href="https://news.cryptic.io/allen-pike-an-unreasonable-amount-of-time/"/>
-    <link rel="alternate" href="https://news.cryptic.io/allen-pike-an-unreasonable-amount-of-time/" type="text/html"/>
-      <source>
-        <id>https://www.allenpike.com/2024/an-unreasonable-amount-of-time</id>
-        <link href="https://www.allenpike.com/2024/an-unreasonable-amount-of-time"/>
-        <title>An Unreasonable Amount of Time</title>
-        <author>
-            <name>Allen Pike</name>
-        </author>
-        <updated>2024-12-31T07:45:30+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/allen-pike-an-unreasonable-amount-of-time/</id>
     <content type="html">
         
     </content>
