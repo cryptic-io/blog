@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-03-31T23:45:30+00:00</updated>
+  <updated>2025-04-01T02:56:47+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>worldclock.py: A low-effort (but hopefully useful) OFFLFIRSOCH contribution</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+    <published>2025-04-01T02:56:47+00:00</published>
+    <updated>2025-04-01T02:56:47+00:00</updated>
+    <link href="https://news.cryptic.io/degrowther-worldclockpy-a-loweffort-but-hopefully-useful-offlfirsoch-contribution/"/>
+    <link rel="alternate" href="https://news.cryptic.io/degrowther-worldclockpy-a-loweffort-but-hopefully-useful-offlfirsoch-contribution/" type="text/html"/>
+      <source>
+        <id>https://degrowther.smol.pub/20250331_offlfirsoch</id>
+        <link href="https://degrowther.smol.pub/20250331_offlfirsoch"/>
+        <title>worldclock.py: A low-effort (but hopefully useful) OFFLFIRSOCH contribution</title>
+        <author>
+            <name>degrowther</name>
+        </author>
+        <updated>2025-04-01T02:56:47+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/degrowther-worldclockpy-a-loweffort-but-hopefully-useful-offlfirsoch-contribution/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>A Score for Snacks</title>
         <author>
@@ -74,6 +98,30 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-random-numbers-included/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Orogeny</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+    <published>2025-03-31T00:00:00+00:00</published>
+    <updated>2025-03-31T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/randall-munroe-orogeny/"/>
+    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-orogeny/" type="text/html"/>
+      <source>
+        <id>https://xkcd.com/3070/</id>
+        <link href="https://xkcd.com/3070/"/>
+        <title>Orogeny</title>
+        <author>
+            <name>Randall Munroe</name>
+        </author>
+        <updated>2025-03-31T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/randall-munroe-orogeny/</id>
     <content type="html">
         
     </content>
@@ -1106,30 +1154,6 @@
       </source>
 
     <id>https://news.cryptic.io/alex-kladov-use-long-options-in-scripts/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Cosmic Distance Calibration</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-    <published>2025-03-21T00:00:00+00:00</published>
-    <updated>2025-03-21T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/randall-munroe-cosmic-distance-calibration/"/>
-    <link rel="alternate" href="https://news.cryptic.io/randall-munroe-cosmic-distance-calibration/" type="text/html"/>
-      <source>
-        <id>https://xkcd.com/3066/</id>
-        <link href="https://xkcd.com/3066/"/>
-        <title>Cosmic Distance Calibration</title>
-        <author>
-            <name>Randall Munroe</name>
-        </author>
-        <updated>2025-03-21T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/randall-munroe-cosmic-distance-calibration/</id>
     <content type="html">
         
     </content>
@@ -13106,30 +13130,6 @@
       </source>
 
     <id>https://news.cryptic.io/iliana-etaoin-how-i-forked-steamos-for-my-living-room-pc/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>New Year’s Resolutions</title>
-        <author>
-            <name>degrowther</name>
-        </author>
-    <published>2023-12-29T16:07:25+00:00</published>
-    <updated>2023-12-29T16:07:25+00:00</updated>
-    <link href="https://news.cryptic.io/degrowther-new-years-resolutions/"/>
-    <link rel="alternate" href="https://news.cryptic.io/degrowther-new-years-resolutions/" type="text/html"/>
-      <source>
-        <id>https://degrowther.smol.pub/20231229_resolutions</id>
-        <link href="https://degrowther.smol.pub/20231229_resolutions"/>
-        <title>New Year’s Resolutions</title>
-        <author>
-            <name>degrowther</name>
-        </author>
-        <updated>2023-12-29T16:07:25+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/degrowther-new-years-resolutions/</id>
     <content type="html">
         
     </content>
