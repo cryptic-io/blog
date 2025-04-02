@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-04-02T19:00:00+00:00</updated>
+  <updated>2025-04-02T22:40:07+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Capacitor sheared off on Multia systems</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2025-04-02T22:40:07+00:00</published>
+    <updated>2025-04-02T22:40:07+00:00</updated>
+    <link href="https://news.cryptic.io/various-capacitor-sheared-off-on-multia-systems/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-capacitor-sheared-off-on-multia-systems/" type="text/html"/>
+      <source>
+        <id>https://sporks.space/2025/04/02/capacitor-sheared-off-on-multia-systems/</id>
+        <link href="https://sporks.space/2025/04/02/capacitor-sheared-off-on-multia-systems/"/>
+        <title>Capacitor sheared off on Multia systems</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2025-04-02T22:40:07+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-capacitor-sheared-off-on-multia-systems/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Flow State and Surfing</title>
         <author>
@@ -11306,30 +11330,6 @@
       </source>
 
     <id>https://news.cryptic.io/andre-alves-garzia-adding-google-web-search-to-firefox/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Updating Core Data object ID URIs on store migrations</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2024-06-03T05:47:14+00:00</published>
-    <updated>2024-06-03T05:47:14+00:00</updated>
-    <link href="https://news.cryptic.io/various-updating-core-data-object-id-uris-on-store-migrations/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-updating-core-data-object-id-uris-on-store-migrations/" type="text/html"/>
-      <source>
-        <id>https://sporks.space/2024/06/03/updating-core-data-object-id-uris-on-store-migrations/</id>
-        <link href="https://sporks.space/2024/06/03/updating-core-data-object-id-uris-on-store-migrations/"/>
-        <title>Updating Core Data object ID URIs on store migrations</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2024-06-03T05:47:14+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-updating-core-data-object-id-uris-on-store-migrations/</id>
     <content type="html">
         
     </content>
