@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-04-03T16:45:00+00:00</updated>
+  <updated>2025-04-04T11:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>P&amp;B: Matt Webb</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2025-04-04T11:00:00+00:00</published>
+    <updated>2025-04-04T11:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-matt-webb/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-matt-webb/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/pb-matt-webb</id>
+        <link href="https://manuelmoreale.com/pb-matt-webb"/>
+        <title>P&amp;B: Matt Webb</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2025-04-04T11:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-matt-webb/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Online counterculture</title>
         <author>
@@ -50,6 +74,30 @@
       </source>
 
     <id>https://news.cryptic.io/diego-olivas-harumi-kitagawa-love-flowers-1991/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
+    <title>Forging paths</title>
+        <author>
+            <name>Various</name>
+        </author>
+    <published>2025-04-03T00:00:00+00:00</published>
+    <updated>2025-04-03T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/various-forging-paths/"/>
+    <link rel="alternate" href="https://news.cryptic.io/various-forging-paths/" type="text/html"/>
+      <source>
+        <id>https://f-droid.org/en/2025/04/03/twif.html</id>
+        <link href="https://f-droid.org/en/2025/04/03/twif.html"/>
+        <title>Forging paths</title>
+        <author>
+            <name>Various</name>
+        </author>
+        <updated>2025-04-03T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/various-forging-paths/</id>
     <content type="html">
         
     </content>
@@ -2623,30 +2671,6 @@
     </content>
   </entry>
   <entry xml:lang="en">
-    <title>A moment with someone flying to the moon</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2025-03-05T19:10:00+00:00</published>
-    <updated>2025-03-05T19:10:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-with-someone-flying-to-the-moon/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-with-someone-flying-to-the-moon/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/a-moment-with-someone-flying-to-the-moon</id>
-        <link href="https://manuelmoreale.com/a-moment-with-someone-flying-to-the-moon"/>
-        <title>A moment with someone flying to the moon</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2025-03-05T19:10:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-a-moment-with-someone-flying-to-the-moon/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
     <title>Boox Go 10.3, two months in</title>
         <author>
             <name>Tyler Cipriani</name>
@@ -4538,30 +4562,6 @@
       </source>
 
     <id>https://news.cryptic.io/dynomight-car-trouble/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Hearing your device speak</title>
-        <author>
-            <name>Various</name>
-        </author>
-    <published>2025-02-06T00:00:00+00:00</published>
-    <updated>2025-02-06T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/various-hearing-your-device-speak/"/>
-    <link rel="alternate" href="https://news.cryptic.io/various-hearing-your-device-speak/" type="text/html"/>
-      <source>
-        <id>https://f-droid.org/en/2025/02/06/twif.html</id>
-        <link href="https://f-droid.org/en/2025/02/06/twif.html"/>
-        <title>Hearing your device speak</title>
-        <author>
-            <name>Various</name>
-        </author>
-        <updated>2025-02-06T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/various-hearing-your-device-speak/</id>
     <content type="html">
         
     </content>
