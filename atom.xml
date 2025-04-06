@@ -7,6 +7,30 @@
   <updated>2025-04-05T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
   <entry xml:lang="en">
+    <title>Tag, You’re It</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2025-04-05T19:00:00+00:00</published>
+    <updated>2025-04-05T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-tag-youre-it/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-tag-youre-it/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2025/tag-youre-it/</id>
+        <link href="https://blog.jim-nielsen.com/2025/tag-youre-it/"/>
+        <title>Tag, You’re It</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2025-04-05T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-tag-youre-it/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
+  <entry xml:lang="en">
     <title>The CoSocialist Future</title>
         <author>
             <name>Tim Bray</name>
@@ -3218,30 +3242,6 @@
       </source>
 
     <id>https://news.cryptic.io/tim-bray-moved/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Can You Get Better Doing a Bad Job?</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2025-02-28T19:00:00+00:00</published>
-    <updated>2025-02-28T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-can-you-get-better-doing-a-bad-job/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-can-you-get-better-doing-a-bad-job/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2025/get-better-doing-a-bad-job/</id>
-        <link href="https://blog.jim-nielsen.com/2025/get-better-doing-a-bad-job/"/>
-        <title>Can You Get Better Doing a Bad Job?</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2025-02-28T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-can-you-get-better-doing-a-bad-job/</id>
     <content type="html">
         
     </content>
