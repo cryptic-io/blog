@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-04-10T03:11:15+00:00</updated>
+  <updated>2025-04-10T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Ductility on the Web</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2025-04-10T19:00:00+00:00</published>
+    <updated>2025-04-10T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-ductility-on-the-web/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-ductility-on-the-web/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2025/ductility/</id>
+        <link href="https://blog.jim-nielsen.com/2025/ductility/"/>
+        <title>Ductility on the Web</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2025-04-10T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-ductility-on-the-web/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Raspberry Pi cluster spotted inside $6k audio processor</title>
         <author>
@@ -3002,30 +3026,6 @@
       </source>
 
     <id>https://news.cryptic.io/bastian-rieck-overcoming-academic-impostor-syndrome/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Building Websites With LLMS</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2025-03-04T19:00:00+00:00</published>
-    <updated>2025-03-04T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-building-websites-with-llms/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-building-websites-with-llms/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/</id>
-        <link href="https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/"/>
-        <title>Building Websites With LLMS</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2025-03-04T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-building-websites-with-llms/</id>
     <content type="html">
         
     </content>
