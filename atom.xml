@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-04-11T11:00:00+00:00</updated>
+  <updated>2025-04-12T08:45:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>When a side project finds you</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+    <published>2025-04-12T08:45:00+00:00</published>
+    <updated>2025-04-12T08:45:00+00:00</updated>
+    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-when-a-side-project-finds-you/"/>
+    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-when-a-side-project-finds-you/" type="text/html"/>
+      <source>
+        <id>https://manuelmoreale.com/when-a-side-project-finds-you</id>
+        <link href="https://manuelmoreale.com/when-a-side-project-finds-you"/>
+        <title>When a side project finds you</title>
+        <author>
+            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
+        </author>
+        <updated>2025-04-12T08:45:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-when-a-side-project-finds-you/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>P&amp;B: Jedda</title>
         <author>
@@ -2474,30 +2498,6 @@
       </source>
 
     <id>https://news.cryptic.io/jeff-geerling-exploring-wifi-7-at-2-gbps-on-a-raspberry-pi-5/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>P&amp;B: Keenan</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-    <published>2025-03-14T12:00:00+00:00</published>
-    <updated>2025-03-14T12:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-keenan/"/>
-    <link rel="alternate" href="https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-keenan/" type="text/html"/>
-      <source>
-        <id>https://manuelmoreale.com/pb-keenan</id>
-        <link href="https://manuelmoreale.com/pb-keenan"/>
-        <title>P&amp;B: Keenan</title>
-        <author>
-            <name>hello@manuelmoreale.com (Manuel Moreale)</name>
-        </author>
-        <updated>2025-03-14T12:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/hellomanuelmorealecom-manuel-moreale-pb-keenan/</id>
     <content type="html">
         
     </content>
