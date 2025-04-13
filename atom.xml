@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-04-12T16:47:16+00:00</updated>
+  <updated>2025-04-13T00:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>My brief attempt at learning about Software Defined Radio on Ubuntu</title>
+        <author>
+            <name>mendhak</name>
+        </author>
+    <published>2025-04-13T00:00:00+00:00</published>
+    <updated>2025-04-13T00:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/mendhak-my-brief-attempt-at-learning-about-software-defined-radio-on-ubuntu/"/>
+    <link rel="alternate" href="https://news.cryptic.io/mendhak-my-brief-attempt-at-learning-about-software-defined-radio-on-ubuntu/" type="text/html"/>
+      <source>
+        <id>https://code.mendhak.com/listening-to-radio-on-ubuntu/</id>
+        <link href="https://code.mendhak.com/listening-to-radio-on-ubuntu/"/>
+        <title>My brief attempt at learning about Software Defined Radio on Ubuntu</title>
+        <author>
+            <name>mendhak</name>
+        </author>
+        <updated>2025-04-13T00:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/mendhak-my-brief-attempt-at-learning-about-software-defined-radio-on-ubuntu/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Visualizing my strengths and areas for growth with RPG radar charts</title>
         <author>
@@ -10298,30 +10322,6 @@
       </source>
 
     <id>https://news.cryptic.io/linus-lee-create-things-that-come-alive/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Adding all AWS service certificate authorities to your trust store</title>
-        <author>
-            <name>mendhak</name>
-        </author>
-    <published>2024-07-22T00:00:00+00:00</published>
-    <updated>2024-07-22T00:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/mendhak-adding-all-aws-service-certificate-authorities-to-your-trust-store/"/>
-    <link rel="alternate" href="https://news.cryptic.io/mendhak-adding-all-aws-service-certificate-authorities-to-your-trust-store/" type="text/html"/>
-      <source>
-        <id>https://code.mendhak.com/quick-script-add-all-amazon-ca/</id>
-        <link href="https://code.mendhak.com/quick-script-add-all-amazon-ca/"/>
-        <title>Adding all AWS service certificate authorities to your trust store</title>
-        <author>
-            <name>mendhak</name>
-        </author>
-        <updated>2024-07-22T00:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/mendhak-adding-all-aws-service-certificate-authorities-to-your-trust-store/</id>
     <content type="html">
         
     </content>
