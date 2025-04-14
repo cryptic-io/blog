@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-04-13T04:39:45+00:00</updated>
+  <updated>2025-04-14T11:49:11.033+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Yes, I will have coffee with you</title>
+        <author>
+            <name>herman</name>
+        </author>
+    <published>2025-04-14T11:49:11.033+00:00</published>
+    <updated>2025-04-14T11:49:11.033+00:00</updated>
+    <link href="https://news.cryptic.io/herman-yes-i-will-have-coffee-with-you/"/>
+    <link rel="alternate" href="https://news.cryptic.io/herman-yes-i-will-have-coffee-with-you/" type="text/html"/>
+      <source>
+        <id>https://herman.bearblog.dev/coffee/</id>
+        <link href="https://herman.bearblog.dev/coffee/"/>
+        <title>Yes, I will have coffee with you</title>
+        <author>
+            <name>herman</name>
+        </author>
+        <updated>2025-04-14T11:49:11.033+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/herman-yes-i-will-have-coffee-with-you/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>How much oranger do red orange bags make oranges look?</title>
         <author>
@@ -10754,30 +10778,6 @@
       </source>
 
     <id>https://news.cryptic.io/lucic-on-burnout-mental-health-and-not-being-okay/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Cities need more trees</title>
-        <author>
-            <name>herman</name>
-        </author>
-    <published>2024-07-01T07:53:00+00:00</published>
-    <updated>2024-07-01T07:53:00+00:00</updated>
-    <link href="https://news.cryptic.io/herman-cities-need-more-trees/"/>
-    <link rel="alternate" href="https://news.cryptic.io/herman-cities-need-more-trees/" type="text/html"/>
-      <source>
-        <id>https://herman.bearblog.dev/cities-need-more-trees/</id>
-        <link href="https://herman.bearblog.dev/cities-need-more-trees/"/>
-        <title>Cities need more trees</title>
-        <author>
-            <name>herman</name>
-        </author>
-        <updated>2024-07-01T07:53:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/herman-cities-need-more-trees/</id>
     <content type="html">
         
     </content>
