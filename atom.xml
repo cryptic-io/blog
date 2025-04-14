@@ -4,8 +4,32 @@
   <link href="https://news.cryptic.io/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://news.cryptic.io"/>
   <generator uri="https://www.getzola.org/">Zola</generator>
-  <updated>2025-04-14T11:49:11.033+00:00</updated>
+  <updated>2025-04-14T19:00:00+00:00</updated>
   <id>https://news.cryptic.io/atom.xml</id>
+  <entry xml:lang="en">
+    <title>Some Love For Interoperable Apps</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+    <published>2025-04-14T19:00:00+00:00</published>
+    <updated>2025-04-14T19:00:00+00:00</updated>
+    <link href="https://news.cryptic.io/jim-nielsen-some-love-for-interoperable-apps/"/>
+    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-some-love-for-interoperable-apps/" type="text/html"/>
+      <source>
+        <id>https://blog.jim-nielsen.com/2025/love-for-interoperability/</id>
+        <link href="https://blog.jim-nielsen.com/2025/love-for-interoperability/"/>
+        <title>Some Love For Interoperable Apps</title>
+        <author>
+            <name>Jim Nielsen</name>
+        </author>
+        <updated>2025-04-14T19:00:00+00:00</updated>
+      </source>
+
+    <id>https://news.cryptic.io/jim-nielsen-some-love-for-interoperable-apps/</id>
+    <content type="html">
+        
+    </content>
+  </entry>
   <entry xml:lang="en">
     <title>Yes, I will have coffee with you</title>
         <author>
@@ -2474,30 +2498,6 @@
       </source>
 
     <id>https://news.cryptic.io/matthias-ott-an-internet-archive-plugin-for-craft-cms-5/</id>
-    <content type="html">
-        
-    </content>
-  </entry>
-  <entry xml:lang="en">
-    <title>Ecosystems vs. Artifacts: Don’t Break the Web</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-    <published>2025-03-16T19:00:00+00:00</published>
-    <updated>2025-03-16T19:00:00+00:00</updated>
-    <link href="https://news.cryptic.io/jim-nielsen-ecosystems-vs-artifacts-dont-break-the-web/"/>
-    <link rel="alternate" href="https://news.cryptic.io/jim-nielsen-ecosystems-vs-artifacts-dont-break-the-web/" type="text/html"/>
-      <source>
-        <id>https://blog.jim-nielsen.com/2025/ecosystems-vs-artifacts/</id>
-        <link href="https://blog.jim-nielsen.com/2025/ecosystems-vs-artifacts/"/>
-        <title>Ecosystems vs. Artifacts: Don’t Break the Web</title>
-        <author>
-            <name>Jim Nielsen</name>
-        </author>
-        <updated>2025-03-16T19:00:00+00:00</updated>
-      </source>
-
-    <id>https://news.cryptic.io/jim-nielsen-ecosystems-vs-artifacts-dont-break-the-web/</id>
     <content type="html">
         
     </content>
